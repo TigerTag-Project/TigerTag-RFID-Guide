@@ -147,7 +147,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 
 ## 3. Page Mapping Overview
 
-![TigerTag Mapping Diagram](images/Images/TigerTag%20Mapping%20RFID%20NXP213.png)
+![TigerTag Mapping Diagram](Images/TigerTag%20Mapping%20RFID%20NXP213.png)
 
 🔒 Pages 24–39 are reserved for optional use of a digital signature (ECDSA-P256 or similar) to verify the origin of Factory TigerTags created by filament manufacturers.
 
