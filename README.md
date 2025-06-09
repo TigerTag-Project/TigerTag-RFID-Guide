@@ -293,21 +293,57 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 | Emoji            | 0x00000000     | Default placeholder                        |
 | Message          | Unprogrammed   | Placeholder message                        |
 
-## 6. Trademark & Licensing
+## 6. Commercial License & Trademark Usage
 
 TigerTag™ is a registered trademark of TigerTag Corp.
 
-You may use the protocol and logo **freely inside your application**, as long as:
-
-* You **do not name your app or hardware 'TigerTag'**
-* You clearly state compatibility only, not affiliation
-* You follow logo usage guidelines provided in `/branding`
-
-Contact: [tigertag@tigertag.io](mailto:tigertag@tigertag.io)
-
-**License:** MIT (see LICENSE)
+TigerTag is provided under a dual-licensing model:
 
 ---
+
+### A. TigerTag OEM Commercial License
+
+The TigerTag Commercial License is intended for OEM (Original Equipment Manufacturer) use cases. This license is applicable when you plan to integrate TigerTag technology into products or systems distributed commercially.
+
+**OEM Use Cases Include (but are not limited to):**
+- Embedding TigerTag chips into 3D filament spools or packaging.
+- Integrating TigerTag software in commercial slicers, printers, or platforms.
+- Using TigerTag as part of a branded or white-labeled product offering.
+
+**Key Points:**
+- A license fee may apply and will be agreed between parties.
+- This license allows binary redistribution, branding, and commercial deployment.
+- Licensee may create derivative works for internal use but may not redistribute them without consent.
+
+Please contact us at [tigertag@tigertag.io](mailto:tigertag@tigertag.io) for licensing terms and commercial integration options.
+
+---
+
+### B. Open-Source Use (Non-OEM)
+
+If you are a hobbyist, developer, or non-commercial user, you may use TigerTag under the terms of the MIT License for personal or open-source projects.
+
+**MIT License Summary:**
+- Free use in open-source projects.
+- No royalties or restrictions on modification.
+- Must retain copyright notice.
+
+---
+
+### C. Logo Usage Guidelines
+
+TigerTag branding and logo are protected by copyright and must follow the usage policy:
+
+- ✅ Permitted for use in apps or documentation referencing TigerTag compatibility.
+- ❌ Not permitted in product or app names (e.g., do not name your app "TigerTag Reader").
+- ❌ Not allowed for deceptive marketing or implying affiliation without permission.
+- 🔄 Logo must remain unmodified and clearly distinguishable.
+
+---
+
+To request commercial rights, OEM access, or brand guidelines, please contact us directly.
+
+**Contact:** [tigertag@tigertag.io](mailto:tigertag@tigertag.io)
 
 ## 7. Version History
 
