@@ -37,7 +37,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 
 ---
 
-```md
+
 ## 2.1 ID TigerTag
 
 **API Link:**  
@@ -143,7 +143,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 - `79` = L  
 - `62` = cl  
 - etc.
-```
+
 
 ## 3. Page Mapping Overview
 
