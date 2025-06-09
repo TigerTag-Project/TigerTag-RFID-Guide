@@ -12,17 +12,17 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 
 | Field             | Length   | Description                                     |
 | ----------------- | -------- | ----------------------------------------------- |
-| ID TigerTag       | 1 byte   | Format identifier (e.g. 0x54)                   |
+| ID TigerTag       | 4 byte   | Format identifier (e.g. Maker : 1542820452)     |
 | ID Product        | 4 bytes  | Fixed value (0xFFFFFFFF for Maker version)      |
-| ID Material       | 1 byte   | Internal material ID                            |
-| ID Diameter       | 1 byte   | 1 = 1.75mm, 2 = 2.85mm                          |
-| ID Aspect 1       | 1 byte   | First visual aspect (e.g. Transparent, Glitter) |
-| ID Aspect 2       | 1 byte   | Optional second aspect                          |
-| ID Type           | 1 byte   | Filament category (e.g. PLA, PETG, ABS...)      |
-| ID Brand          | 1 byte   | Manufacturer/Brand ID                           |
-| ID Unit           | 1 byte   | Measurement unit (e.g. 0x15 = grams)            |
+| ID Material       | 2 byte   | Materail Type (e.g. PLA, PETG, ABS...)          |
+| ID Diameter       | 1 byte   | 56 = 1.75mm, 221 = 2.85mm                       |
+| ID Aspect 1       | 1 byte   | First visual aspect                             |
+| ID Aspect 2       | 1 byte   | Second visual aspect                            |
+| ID Type           | 1 byte   | Type (e.g. 142 = Filament, 173 = Resin)         |
+| ID Brand          | 2 byte   | Manufacturer/Brand ID                           |
+| ID Unit           | 1 byte   | Measurement unit (e.g. 21 = grams, 79 = Liter)  |
 | Color (RGBA)      | 4 bytes  | Red, Green, Blue, Alpha (1 byte each)           |
-| Measure           | 1 byte   | Weight in grams                                 |
+| Measure           | 3 byte   | Weight in grams , kilo , litter (e.g 1000 )     |
 | Nozzle Temp Min   | 1 byte   | Minimum printing temperature (°C)               |
 | Nozzle Temp Max   | 1 byte   | Maximum printing temperature (°C)               |
 | Dry Temp          | 1 byte   | Drying temperature (°C)                         |
@@ -37,11 +37,97 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 
 ---
 
+##2.1 ID TigerTag :
+
+API Link : https://api.tigertag.io/api:tigertag#/version/get_version_get_all
+
+Exemple :
+
+1816240865 = TigerTag Init (Initialized)
+1542820452 = TigerTag Maker V1.0 ( Offline )
+315515176 = TigerTag Pro V1.0 ( Hybrid Offline & Online Mode )
+
+##2.2 ID Product :
+
+API Link : https://api.tigertag.io/api:tigertag/product/get?uid="$UID_Ntag213"&product_id="$Id_Products"
+Exemple : https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10
+
+Exemple :
+
+4294967295 = TigerTag Maker (Offline)
+XXXXX = TigerTag Hybrid ( Offline & Online Mode )
+
+##2.3 ID Material :
+
+API Link : https://api.tigertag.io/api:tigertag/material/filament/get/all
+
+Exemple :
+
+38219 = PLA
+24629 = PLA Hight Speed
+20562 = ABS
+49074 = ABS-GF
+etc... 
+
+##2.4 ID Diameter :
+
+API Link : https://api.tigertag.io/api:tigertag/diameter/filament/get/all
+
+Exemple : 
+56 = 1.75mm
+221 = 2.85mm   
+
+##2.5 ID Aspect 1 & 2 :
+
+API Link : https://api.tigertag.io/api:tigertag/aspect/get/all
+
+Exemple : 
+21 : Clear
+92 = Silk
+104 = Basix
+123 = Wood
+etc....
+
+##2.6 ID Type :
+
+API Link : https://api.tigertag.io/api:tigertag/type/get/all
+
+142 = Filament
+173 = Resin
+
+##2.7 ID Brand :
+
+API Link : https://api.tigertag.io/api:tigertag/brand/get/all
+
+Exemple :
+
+50604 = Polymaker
+35123 = Bambu Lab
+26956 = Creality
+26956 = Rosa3D
+39652 = 3DXtech
+47930 = eSun
+48804 = R3D
+51857 = Sunlu
+etc...
+
+##2.7 ID Unit :
+
+API Link : https://api.tigertag.io/api:tigertag/measure_unit/get/all
+
+Exemple : 
+21 = g
+35 = Kg
+79 = L
+62 = cl
+etc....
+
 ## 3. Page Mapping Overview
 
 | Page  | Address (Hex) | Content                          |
 | ----- | ------------- | -------------------------------- |
-| 4–5   | 0x04–0x05     | ID TigerTag + ID Product         |
+| 4     | 0x04–0x05     | ID TigerTag                      |
+| 5     | 0x04–0x05     | ID Product                       |
 | 6–7   | 0x06–0x07     | Material, Diameter, Aspect, Type |
 | 8–9   | 0x08–0x09     | Color + Measure + Temps          |
 | 10–11 | 0x0A–0x0B     | Bed Temps + Dry Temps + Unit     |
@@ -109,7 +195,7 @@ You may use the protocol and logo **freely inside your application**, as long as
 * You clearly state compatibility only, not affiliation
 * You follow logo usage guidelines provided in `/branding`
 
-Contact: [contact@tigertag.io](mailto:contact@tigertag.io)
+Contact: [tigertag@tigertag.io](mailto:tigertag@tigertag.io)
 
 **License:** MIT (see LICENSE)
 
