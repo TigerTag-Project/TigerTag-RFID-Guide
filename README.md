@@ -6,6 +6,13 @@ This document defines the data structure and format used in TigerTag-compatible 
 
 TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory, structured from page 4 to page 39.
 
+## 1.1 Page Mapping Overview
+
+![TigerTag Mapping Diagram](Images/TigerTag%20Mapping%20RFID%20NXP213.png)
+
+🔒 Pages 24–39 are reserved for optional use of a digital signature (ECDSA-P256 or similar) to verify the origin of Factory TigerTags created by filament manufacturers.
+
+
 ---
 
 ## 2. Data Structure: NTAG213 (TigerTag Format)
@@ -145,15 +152,10 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 - etc.
 
 
-## 3. Page Mapping Overview
-
-![TigerTag Mapping Diagram](Images/TigerTag%20Mapping%20RFID%20NXP213.png)
-
-🔒 Pages 24–39 are reserved for optional use of a digital signature (ECDSA-P256 or similar) to verify the origin of Factory TigerTags created by filament manufacturers.
 
 ---
 
-## 4. Verify Signature
+## 3. Verify Signature
 
 ### TigerTag Signature Verification – Introduction for Users
 
@@ -204,7 +206,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 🔐 With this system, you get security, authenticity, and peace of mind for every TigerTag spool.
 ---
 
-## 5. Example: TigerTag Maker - Encoded Rosa3D Red PLA
+## 4. Example: TigerTag Maker - Encoded Rosa3D Red PLA
 
 | Field            | Value          | Notes                                      |
 | ---------------- | -------------- | ------------------------------------------ |
@@ -232,7 +234,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 
 ---
 
-## 5.1 Example: TigerTag Pro - Encoded Polymaker PolyTerra Arctic Teal
+## 4.1 Example: TigerTag Pro - Encoded Polymaker PolyTerra Arctic Teal
 
 | Field            | Value          | Notes                                         |
 | ---------------- | -------------- | --------------------------------------------- |
@@ -268,7 +270,7 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 
 ---
 
-## 5.2 Example: TigerTag Init - Blank Initialization Tag
+## 4.2 Example: TigerTag Init - Blank Initialization Tag
 
 | Field            | Value          | Notes                                      |
 | ---------------- | -------------- | ------------------------------------------ |
@@ -293,7 +295,7 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 | Emoji            | 0x00000000     | Default placeholder                        |
 | Message          | Unprogrammed   | Placeholder message                        |
 
-## 6. Commercial License & Trademark Usage
+## 5. Commercial License & Trademark Usage
 
 TigerTag™ is a registered trademark of TigerTag Corp.
 
@@ -319,14 +321,17 @@ Please contact us at [tigertag@tigertag.io](mailto:tigertag@tigertag.io) for lic
 
 ---
 
-### B. Open-Source Use (Non-OEM)
+### B. Open-Source Use (GPLv3 License)
 
-If you are a hobbyist, developer, or non-commercial user, you may use TigerTag under the terms of the MIT License for personal or open-source projects.
+If you are a hobbyist, developer, or non-commercial user, you may use TigerTag under the terms of the **GNU General Public License v3.0 (GPLv3)** for personal or open-source projects.
 
-**MIT License Summary:**
-- Free use in open-source projects.
-- No royalties or restrictions on modification.
-- Must retain copyright notice.
+**GPLv3 License Summary:**
+- Free use in non-commercial and open-source projects.
+- Full source code must be made available if redistributed or modified.
+- Any derivative works must also be licensed under GPLv3.
+- No warranty or liability is provided.
+
+For the full license text, see [https://www.gnu.org/licenses/gpl-3.0.txt](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 ---
 
@@ -339,13 +344,15 @@ TigerTag branding and logo are protected by copyright and must follow the usage 
 - ❌ Not allowed for deceptive marketing or implying affiliation without permission.
 - 🔄 Logo must remain unmodified and clearly distinguishable.
 
+This policy applies to both GPLv3 and OEM licensees.
+
 ---
 
 To request commercial rights, OEM access, or brand guidelines, please contact us directly.
 
 **Contact:** [tigertag@tigertag.io](mailto:tigertag@tigertag.io)
 
-## 7. Version History
+## 6. Version History
 
 | Version | Date       | Description           | Author        |
 | ------- | ---------- | --------------------- | ------------- |
@@ -353,7 +360,7 @@ To request commercial rights, OEM access, or brand guidelines, please contact us
 
 ---
 
-## 8. Contributions
+## 7. Contributions
 
 Want to contribute improvements or integrations? Fork this repository and open a pull request.
 
