@@ -8,7 +8,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 
 ## 1.1 Page Mapping Overview
 
-![TigerTag Mapping Diagram](Images/TigerTag%20Mapping%20RFID%20NXP213.png)
+<img src="Images/TigerTag%20Mapping%20RFID%20NXP213.png" alt="TigerTag Mapping Diagram">
 
 🔒 Pages 24–39 are reserved for optional use of a digital signature (ECDSA-P256 or similar) to verify the origin of Factory TigerTags created by filament manufacturers.
 
@@ -48,7 +48,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 ## 2.1 ID TigerTag
 
 **API Link:**  
-[https://api.tigertag.io/api:tigertag/version/get/all](https://api.tigertag.io/api:tigertag/version/get/all)
+<a href="https://api.tigertag.io/api:tigertag/version/get/all" target="_blank">https://api.tigertag.io/api:tigertag/version/get/all</a>
 
 **Examples:**  
 - `1816240865` = TigerTag Init (Initialized)  
@@ -60,10 +60,10 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 ## 2.2 ID Product
 
 **API Link:**  
-`https://api.tigertag.io/api:tigertag/product/get?uid=$UID_Ntag213&product_id=$Id_Products`
+<a href="https://api.tigertag.io/api:tigertag/product/get?uid=$UID_Ntag213&product_id=$Id_Products" target="_blank">https://api.tigertag.io/api:tigertag/product/get?uid=$UID_Ntag213&product_id=$Id_Products</a>
 
 **Example:**  
-`https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10`
+<a href="https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10" target="_blank">https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10</a>
 
 **Values:**  
 - `4294967295` = TigerTag Maker (Offline)  
@@ -74,7 +74,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 ## 2.3 ID Material
 
 **API Link:**  
-[https://api.tigertag.io/api:tigertag/material/filament/get/all](https://api.tigertag.io/api:tigertag/material/filament/get/all)
+<a href="https://api.tigertag.io/api:tigertag/material/filament/get/all" target="_blank">https://api.tigertag.io/api:tigertag/material/filament/get/all</a>
 
 **Examples:**  
 - `38219` = PLA  
@@ -88,7 +88,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 ## 2.4 ID Diameter
 
 **API Link:**  
-[https://api.tigertag.io/api:tigertag/diameter/filament/get/all](https://api.tigertag.io/api:tigertag/diameter/filament/get/all)
+<a href="https://api.tigertag.io/api:tigertag/diameter/filament/get/all" target="_blank">https://api.tigertag.io/api:tigertag/diameter/filament/get/all</a>
 
 **Examples:**  
 - `56` = 1.75mm  
@@ -99,7 +99,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 ## 2.5 ID Aspect 1 & 2
 
 **API Link:**  
-[https://api.tigertag.io/api:tigertag/aspect/get/all](https://api.tigertag.io/api:tigertag/aspect/get/all)
+<a href="https://api.tigertag.io/api:tigertag/aspect/get/all" target="_blank">https://api.tigertag.io/api:tigertag/aspect/get/all</a>
 
 **Examples:**  
 - `21` = Clear  
@@ -113,7 +113,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 ## 2.6 ID Type
 
 **API Link:**  
-[https://api.tigertag.io/api:tigertag/type/get/all](https://api.tigertag.io/api:tigertag/type/get/all)
+<a href="https://api.tigertag.io/api:tigertag/type/get/all" target="_blank">https://api.tigertag.io/api:tigertag/type/get/all</a>
 
 **Examples:**  
 - `142` = Filament  
@@ -124,7 +124,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 ## 2.7 ID Brand
 
 **API Link:**  
-[https://api.tigertag.io/api:tigertag/brand/get/all](https://api.tigertag.io/api:tigertag/brand/get/all)
+<a href="https://api.tigertag.io/api:tigertag/brand/get/all" target="_blank">https://api.tigertag.io/api:tigertag/brand/get/all</a>
 
 **Examples:**  
 - `50604` = Polymaker  
@@ -142,7 +142,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 ## 2.8 ID Unit
 
 **API Link:**  
-[https://api.tigertag.io/api:tigertag/measure_unit/get/all](https://api.tigertag.io/api:tigertag/measure_unit/get/all)
+<a href="https://api.tigertag.io/api:tigertag/measure_unit/get/all" target="_blank">https://api.tigertag.io/api:tigertag/measure_unit/get/all</a>
 
 **Examples:**  
 - `21` = g  
@@ -261,12 +261,12 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Signature R      | A6B3...D7DA1AA | 32-byte ECDSA signature part 1 (r), p24–31    |
 | Signature S      | 91F4...F8AE29CE| 32-byte ECDSA signature part 2 (s), p32–39    |
 ---
-Use the `public_key` together with the UID, block 4, and block 5 to verify the authenticity of a TigerTag. For details, see [Section 4: Verify Signature](#4-verify-signature) and the sample code in `verify_signature.py`.
+Use the `public_key` together with the UID, block 4, and block 5 to verify the authenticity of a TigerTag. For details, see <a href="#4-verify-signature">Section 4: Verify Signature</a> and the sample code in `verify_signature.py`.
 
 📡 Online Data: To retrieve the full product metadata, send a GET request with both the RFID tag UID and the Product ID.
 
 **Example:**  
-[`https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10`](https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10)
+<a href="https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10" target="_blank">https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10</a>
 
 ---
 
@@ -331,7 +331,7 @@ If you are a hobbyist, developer, or non-commercial user, you may use TigerTag u
 - Any derivative works must also be licensed under GPLv3.
 - No warranty or liability is provided.
 
-For the full license text, see [https://www.gnu.org/licenses/gpl-3.0.txt](https://www.gnu.org/licenses/gpl-3.0.txt)
+For the full license text, see <a href="https://www.gnu.org/licenses/gpl-3.0.txt" target="_blank">https://www.gnu.org/licenses/gpl-3.0.txt</a>
 
 ---
 
