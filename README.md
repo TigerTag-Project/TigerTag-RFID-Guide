@@ -352,6 +352,37 @@ To request commercial rights, OEM access, or brand guidelines, please contact us
 
 **Contact:** [tigertag@tigertag.io](mailto:tigertag@tigertag.io)
 
+---
+
+
+## 5.0 Developer Notice on the Mobile App
+
+The official TigerTag mobile app (iOS and Android) is a **closed-source proof of concept** provided for convenience. It demonstrates how TigerTag tags can be read and written using the open protocol.
+
+However, **any developer or manufacturer is free to build their own applications**—desktop, mobile, or embedded—by following the TigerTag specification.
+
+✅ The protocol is open and documented  
+✅ The API and official apps are **free to use** for end users and developers  
+🔒 The source code of the mobile app is **not open-source**, but the tools and specs to create your own app are available
+
+The TigerTag mobile app uses only the **free public API** to ensure fair access and maintain a balanced relationship between TigerTag and third-party developers. This guarantees interoperability and prevents vendor lock-in.
+
+For protocol details, refer to the sections above or contact us for technical guidance.
+
+## 5.1 API & Documentation Links
+
+For developers and integrators, here are quick access links:
+
+- 🔗 Official Website: [https://tigertag.io](https://tigertag.io)
+- 📘 Swagger API Documentation: [https://api.tigertag.io/api:tigertag](https://api.tigertag.io/api:tigertag)
+
+### 📱 Mobile Apps
+
+<img src="Images/TigerTag_RFID_Connect_Apps.png" alt="TigerTag Mobile Apps">
+
+- 🧭 iOS App: [https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963](https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963)
+- 🤖 Android App: [https://play.google.com/store/apps/details?id=com.tigertag.connect](https://play.google.com/store/apps/details?id=com.tigertag.connect)
+
 ## 6. Version History
 
 | Version | Date       | Description           | Author        |
