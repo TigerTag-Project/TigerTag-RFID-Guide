@@ -15,7 +15,10 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 
 ---
 
+
 ## 2. Data Structure: NTAG213 (TigerTag Format)
+
+All multi-byte values are encoded in **big-endian** format.
 
 | Field             | Length   | Description                                     |
 | ----------------- | -------- | ----------------------------------------------- |
@@ -51,9 +54,9 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 <a href="https://api.tigertag.io/api:tigertag/version/get/all" target="_blank">https://api.tigertag.io/api:tigertag/version/get/all</a>
 
 **Examples:**  
-- `1816240865` = TigerTag Init (Initialized)  
-- `1542820452` = TigerTag Maker V1.0 (Offline)  
-- `315515176`  = TigerTag Pro V1.0 (Hybrid Offline & Online Mode)
+- `0x6C46A3C1` = `1816240865` → TigerTag Init (Initialized)  
+- `0x5C15E2E4` = `1542820452` → TigerTag Maker V1.0 (Offline)  
+- `0x12C4C408` = `315515176` → TigerTag Pro V1.0 (Hybrid Offline & Online Mode)
 
 ---
 
@@ -65,8 +68,7 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 **Example:**  
 <a href="https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10" target="_blank">https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10</a>
 
-**Values:**  
-- `4294967295` = TigerTag Maker (Offline)  
+- `0xFFFFFFFF` = `4294967295` → TigerTag Maker (Offline)
 - `XXXXX` = TigerTag Hybrid (Offline & Online Mode)
 
 ---
@@ -77,10 +79,10 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 <a href="https://api.tigertag.io/api:tigertag/material/filament/get/all" target="_blank">https://api.tigertag.io/api:tigertag/material/filament/get/all</a>
 
 **Examples:**  
-- `38219` = PLA  
-- `24629` = PLA High Speed  
-- `20562` = ABS  
-- `49074` = ABS-GF  
+- `0x954B` = `38219` → PLA  
+- `0x6025` = `24613` → PLA High Speed  
+- `0x5042` = `20562` → ABS  
+- `0xBF92` = `49074` → ABS-GF  
 - etc.
 
 ---
@@ -91,8 +93,8 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 <a href="https://api.tigertag.io/api:tigertag/diameter/filament/get/all" target="_blank">https://api.tigertag.io/api:tigertag/diameter/filament/get/all</a>
 
 **Examples:**  
-- `56` = 1.75mm  
-- `221` = 2.85mm
+- `0x38` = `56` → 1.75mm  
+- `0xDD` = `221` → 2.85mm
 
 ---
 
@@ -102,10 +104,10 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 <a href="https://api.tigertag.io/api:tigertag/aspect/get/all" target="_blank">https://api.tigertag.io/api:tigertag/aspect/get/all</a>
 
 **Examples:**  
-- `21` = Clear  
-- `92` = Silk  
-- `104` = Basix  
-- `123` = Wood  
+- `0x15` = `21` → Clear  
+- `0x5C` = `92` → Silk  
+- `0x68` = `104` → Basix  
+- `0x7B` = `123` → Wood  
 - etc.
 
 ---
@@ -127,14 +129,14 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 <a href="https://api.tigertag.io/api:tigertag/brand/get/all" target="_blank">https://api.tigertag.io/api:tigertag/brand/get/all</a>
 
 **Examples:**  
-- `50604` = Polymaker  
-- `35123` = Bambu Lab  
-- `26956` = Creality  
-- `26956` = Rosa3D  
-- `39652` = 3DXtech  
-- `47930` = eSun  
-- `48804` = R3D  
-- `51857` = Sunlu  
+- `0xC5DC` = `50652` → Polymaker  
+- `0x8933` = `35123` → Bambu Lab  
+- `0x694C` = `26956` → Creality  
+- `0x4E19` = `19961` → Rosa3D  
+- `0xBBFA` = `48058` → 3DXtech  
+- `0xBBDA` = `48026` → eSun  
+- `0xBE94` = `48788` → R3D  
+- `0xCA91` = `51857` → Sunlu  
 - etc.
 
 ---
@@ -145,10 +147,10 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 <a href="https://api.tigertag.io/api:tigertag/measure_unit/get/all" target="_blank">https://api.tigertag.io/api:tigertag/measure_unit/get/all</a>
 
 **Examples:**  
-- `21` = g  
-- `35` = Kg  
-- `79` = L  
-- `62` = cl  
+- `0x15` = `21` → g  
+- `0x23` = `35` → Kg  
+- `0x4F` = `79` → L  
+- `0x3E` = `62` → cl  
 - etc.
 
 
