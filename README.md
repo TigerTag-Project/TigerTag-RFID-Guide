@@ -25,12 +25,12 @@ All multi-byte values are encoded in **big-endian** format.
 | ID TigerTag       | 4 byte   | Format identifier (e.g. Maker : 1542820452)     |
 | ID Product        | 4 bytes  | Fixed value (0xFFFFFFFF for Maker version)      |
 | ID Material       | 2 byte   | Material Type (e.g. PLA, PETG, ABS...)          |
-| ID Diameter       | 1 byte   | 56 = 1.75mm, 221 = 2.85mm                       |
+| ID Diameter       | 1 byte   | 0x38 = 56 = 1.75mm, 0xDD = 221 = 2.85mm                       |
 | ID Aspect 1       | 1 byte   | First visual aspect                             |
 | ID Aspect 2       | 1 byte   | Second visual aspect                            |
-| ID Type           | 1 byte   | Type (e.g. 142 = Filament, 173 = Resin)         |
+| ID Type           | 1 byte   | Type (e.g. 0x8E = 142 = Filament, 0xAD = 173 = Resin)      |
 | ID Brand          | 2 byte   | Manufacturer/Brand ID                           |
-| ID Unit           | 1 byte   | Measurement unit (e.g. 21 = grams, 79 = Liter)  |
+| ID Unit           | 1 byte   | Measurement unit (e.g. 0x15 = 21 = grams, 0x4F = 79 = Liter)  |
 | Color (RGBA)      | 4 bytes  | Red, Green, Blue, Alpha (1 byte each)           |
 | Measure           | 3 byte   | Weight in grams , kilo , litter (e.g 1000 )     |
 | Nozzle Temp Min   | 1 byte   | Minimum printing temperature (°C)               |
@@ -258,7 +258,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Bed Temp Min  | 0x23         | 35            | °C bed minimum                                |
 | Bed Temp Max  | 0x41         | 65            | °C bed maximum                                |
 | Timestamp     | 0x66061E90   | 1711493264    | Encoded as seconds since 01/01/2000           |
-| Emoji         | 0xF09F8C B1  | 🌱            | custom user UTF-8 encoded emoji (4 bytes)     |
+| Emoji         | 0xF09F8CB1  | 🌱            | custom user UTF-8 encoded emoji (4 bytes)     |
 | Message       | Private msg  | Private msg   | custom user message                           |
 | Signature R   | A6B3...D7DA1AA | A6B3...D7DA1AA            | 32-byte ECDSA signature part 1 (r), p24–31    |
 | Signature S   | 91F4...F8AE29CE| 91F4...F8AE29CE  | 32-byte ECDSA signature part 2 (s), p32–39    |
