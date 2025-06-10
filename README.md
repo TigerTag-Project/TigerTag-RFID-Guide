@@ -118,8 +118,8 @@ All multi-byte values are encoded in **big-endian** format.
 <a href="https://api.tigertag.io/api:tigertag/type/get/all" target="_blank">https://api.tigertag.io/api:tigertag/type/get/all</a>
 
 **Examples:**  
-- `142` = Filament  
-- `173` = Resin
+- `0x8E` = `142` → Filament  
+- `0xAD` = `173` → Resin
 
 ---
 
@@ -210,58 +210,58 @@ Without signature verification, anyone could clone a tag. This process protects 
 
 ## 4. Example: TigerTag Maker - Encoded Rosa3D Red PLA
 
-| Field            | Value          | Notes                                      |
-| ---------------- | -------------- | ------------------------------------------ |
-| ID TigerTag      | 0x5C15E2E4     | TigerTag Maker V1.0 (Offline) = 1542820452 |
-| Product ID       | 0xFFFFFFFF     | Maker version, (Always 0xFFFFFFFF)         |
-| Material ID      | 38219          | PLA                                        |
-| Diameter ID      | 56             | 1.75 mm                                    |
-| Aspect1          | 104            | Basic                                      |
-| Aspect2          | 0              | (none)                                     |
-| Type ID          | 142            | Filament                                   |
-| Brand ID         | 19961          | Rosa3D                                     |
-| Unit ID          | 21             | grams                                      |
-| Color RGBA       | FF0000FF       | Red                                        |
-| Weight           | 1000           | weight value                               |
-| Temp Min         | 195            | °C nozzle minimum                          |
-| Temp Max         | 230            | °C nozzle maximum                          |
-| Dry Temp         | 50             | °C                                         |
-| Dry Time         | 5              | Time in hours                              |
-| Bed Temp Min     | 50             | °C bed minimum                             |
-| Bed Temp Max     | 60             | °C bed maximum                             |
-| Timestamp        | 0x66061A5C     | Encoded as seconds since 01/01/2000        |
-| Emoji            | 😀             | custom user UTF-8 encoded emoji (4 bytes)  |
-| Message          | Starter Red    | custom user message                        |
+| Field            | Hex           | Decimal        | Notes                                      |
+| ---------------- | ------------- | -------------- | ------------------------------------------ |
+| ID TigerTag      | 0x5C15E2E4    | 1542820452     | TigerTag Maker V1.0 (Offline)              |
+| Product ID       | 0xFFFFFFFF    | 4294967295     | Maker version, (Always 0xFFFFFFFF)         |
+| Material ID      | 0x954B        | 38219          | PLA                                       |
+| Diameter ID      | 0x38          | 56             | 1.75 mm                                   |
+| Aspect1          | 0x68          | 104            | Basic                                     |
+| Aspect2          | 0x00          | 0              | (none)                                    |
+| Type ID          | 0x8E          | 142            | Filament                                  |
+| Brand ID         | 0x4E19        | 19961          | Rosa3D                                    |
+| Unit ID          | 0x15          | 21             | grams                                     |
+| Color RGBA       | 0xFF0000FF    | 4278190335     | Red                                       |
+| Weight           | 0x0003E8      | 1000           | weight value                              |
+| Temp Min         | 0xC3          | 195            | °C nozzle minimum                         |
+| Temp Max         | 0xE6          | 230            | °C nozzle maximum                         |
+| Dry Temp         | 0x32          | 50             | °C                                        |
+| Dry Time         | 0x05          | 5              | Time in hours                             |
+| Bed Temp Min     | 0x32          | 50             | °C bed minimum                            |
+| Bed Temp Max     | 0x3C          | 60             | °C bed maximum                            |
+| Timestamp        | 0x66061A5C    | 1711492444     | Encoded as seconds since 01/01/2000       |
+| Emoji            | 0xF09F9880    | 😀             | custom user UTF-8 encoded emoji (4 bytes) |
+| Message          | Starter Red   | Starter Red    | custom user message                       |
 
 
 ---
 
 ## 4.1 Example: TigerTag Pro - Encoded Polymaker PolyTerra Arctic Teal
 
-| Field            | Value          | Notes                                         |
-| ---------------- | -------------- | --------------------------------------------- |
-| ID TigerTag      | 0x12C4C408     | TigerTag Pro V1.0  = 3155151767               |
-| Product ID       | 10             | Online sync enabled product                   |
-| Material ID      | 38219          | PLA                                           |
-| Diameter ID      | 56             | 1.75 mm                                       |
-| Aspect1          | 134            | Matt                                          |
-| Aspect2          | 0              | (none)                                        |
-| Type ID          | 142            | Filament                                      |
-| Brand ID         | 50604          | Polymaker                                     |
-| Unit ID          | 35             | Kilograms                                     |
-| Color RGBA       | 89D9D9FF       | Arctic Teal (hex color code to RGBA)          |
-| Weight           | 1000           | grams                                         |
-| Temp Min         | 190            | °C nozzle minimum                             |
-| Temp Max         | 240            | °C nozzle maximum                             |
-| Dry Temp         | 55             | °C                                            |
-| Dry Time         | 6              | Time in hours                                 |
-| Bed Temp Min     | 35             | °C bed minimum                                |
-| Bed Temp Max     | 65             | °C bed maximum                                |
-| Timestamp        | 0x66061E90     | Encoded as seconds since 01/01/2000           |
-| Emoji            | 🌱             | custom user UTF-8 encoded emoji (4 bytes)     |
-| Message          | Private msg    | custom user message                           |
-| Signature R      | A6B3...D7DA1AA | 32-byte ECDSA signature part 1 (r), p24–31    |
-| Signature S      | 91F4...F8AE29CE| 32-byte ECDSA signature part 2 (s), p32–39    |
+| Field         | Hex Value    | Decimal Value | Notes                                         |
+| ------------- | ------------ | ------------- | --------------------------------------------- |
+| ID TigerTag   | 0x12C4C408   | 315515176     | TigerTag Pro V1.0                             |
+| Product ID    | 0x0000000A   | 10            | Online sync enabled product                   |
+| Material ID   | 0x954B       | 38219         | PLA                                           |
+| Diameter ID   | 0x38         | 56            | 1.75 mm                                       |
+| Aspect1       | 0x86         | 134           | Matt                                          |
+| Aspect2       | 0x00         | 0             | (none)                                        |
+| Type ID       | 0x8E         | 142           | Filament                                      |
+| Brand ID      | 0xC5DC       | 50652         | Polymaker                                     |
+| Unit ID       | 0x23         | 35            | Kilograms                                     |
+| Color RGBA    | 0x89D9D9FF   | 2310590719    | Arctic Teal (hex color code to RGBA)          |
+| Weight        | 0x0003E8     | 1000          | grams                                         |
+| Temp Min      | 0xBE         | 190           | °C nozzle minimum                             |
+| Temp Max      | 0xF0         | 240           | °C nozzle maximum                             |
+| Dry Temp      | 0x37         | 55            | °C                                            |
+| Dry Time      | 0x06         | 6             | Time in hours                                 |
+| Bed Temp Min  | 0x23         | 35            | °C bed minimum                                |
+| Bed Temp Max  | 0x41         | 65            | °C bed maximum                                |
+| Timestamp     | 0x66061E90   | 1711493264    | Encoded as seconds since 01/01/2000           |
+| Emoji         | 0xF09F8C B1  | 🌱            | custom user UTF-8 encoded emoji (4 bytes)     |
+| Message       | Private msg  | Private msg   | custom user message                           |
+| Signature R   | A6B3...D7DA1AA | A6B3...D7DA1AA            | 32-byte ECDSA signature part 1 (r), p24–31    |
+| Signature S   | 91F4...F8AE29CE| 91F4...F8AE29CE  | 32-byte ECDSA signature part 2 (s), p32–39    |
 ---
 Use the `public_key` together with the UID, block 4, and block 5 to verify the authenticity of a TigerTag. For details, see <a href="#4-verify-signature">Section 4: Verify Signature</a> and the sample code in `verify_signature.py`.
 
@@ -274,28 +274,28 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 
 ## 4.2 Example: TigerTag Init - Blank Initialization Tag
 
-| Field            | Value          | Notes                                      |
-| ---------------- | -------------- | ------------------------------------------ |
-| ID TigerTag      | 0x6C46A3C1     | TigerTag Init = 1816240865                 |
-| Product ID       | 0              | Default offline value                      |
-| Material ID      | 0              | Not defined                                |
-| Diameter ID      | 0              | Not defined                                |
-| Aspect1          | 0              | Not defined                                |
-| Aspect2          | 0              | Not defined                                |
-| Type ID          | 0              | Not defined                                |
-| Brand ID         | 0              | Not defined                                |
-| Unit ID          | 0              | Not defined                                |
-| Color RGBA       | 00000000       | Default                                     |
-| Weight           | 0              | 0 grams                                    |
-| Temp Min         | 0              | °C nozzle minimum                          |
-| Temp Max         | 0              | °C nozzle maximum                          |
-| Dry Temp         | 0              | °C                                         |
-| Dry Time         | 0              | Time in hours                              |
-| Bed Temp Min     | 0              | °C bed minimum                             |
-| Bed Temp Max     | 0              | °C bed maximum                             |
-| Timestamp        | 0x00000000     | No timestamp                               |
-| Emoji            | 0x00000000     | Default placeholder                        |
-| Message          | Unprogrammed   | Placeholder message                        |
+| Field            | Hex Value    | Decimal Value | Notes                                      |
+| ---------------- | ------------ | ------------- | ------------------------------------------ |
+| ID TigerTag      | 0x6C46A3C1   | 1816240865    | TigerTag Init                              |
+| Product ID       | 0x00000000   | 0             | Default offline value                      |
+| Material ID      | 0x0000       | 0             | Not defined                                |
+| Diameter ID      | 0x00         | 0             | Not defined                                |
+| Aspect1          | 0x00         | 0             | Not defined                                |
+| Aspect2          | 0x00         | 0             | Not defined                                |
+| Type ID          | 0x00         | 0             | Not defined                                |
+| Brand ID         | 0x0000       | 0             | Not defined                                |
+| Unit ID          | 0x00         | 0             | Not defined                                |
+| Color RGBA       | 0x00000000   | 0             | Default                                     |
+| Weight           | 0x000000     | 0             | 0 grams                                    |
+| Temp Min         | 0x00         | 0             | °C nozzle minimum                          |
+| Temp Max         | 0x00         | 0             | °C nozzle maximum                          |
+| Dry Temp         | 0x00         | 0             | °C                                         |
+| Dry Time         | 0x00         | 0             | Time in hours                              |
+| Bed Temp Min     | 0x00         | 0             | °C bed minimum                             |
+| Bed Temp Max     | 0x00         | 0             | °C bed maximum                             |
+| Timestamp        | 0x00000000   | 0             | No timestamp                               |
+| Emoji            | 0x00000000   | 0             | Default placeholder                        |
+| Message          | Unprogrammed | Unprogrammed  | Placeholder message                        |
 
 ## 5. Commercial License & Trademark Usage
 
