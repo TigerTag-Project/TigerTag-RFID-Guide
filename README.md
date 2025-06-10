@@ -50,6 +50,9 @@ All multi-byte values are encoded in **big-endian** format.
 
 ## 2.1 ID TigerTag
 
+**GitHub Json**  
+<a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/id_version.json" target="_blank">View JSON reference on GitHub</a>
+
 **API Link:**  
 <a href="https://api.tigertag.io/api:tigertag/version/get/all" target="_blank">https://api.tigertag.io/api:tigertag/version/get/all</a>
 
@@ -75,6 +78,9 @@ All multi-byte values are encoded in **big-endian** format.
 
 ## 2.3 ID Material
 
+**GitHub Json**  
+<a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/id_material.json" target="_blank">View JSON reference on GitHub</a>
+
 **API Link:**  
 <a href="https://api.tigertag.io/api:tigertag/material/filament/get/all" target="_blank">https://api.tigertag.io/api:tigertag/material/filament/get/all</a>
 
@@ -89,6 +95,9 @@ All multi-byte values are encoded in **big-endian** format.
 
 ## 2.4 ID Diameter
 
+**GitHub Json**  
+<a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/id_diameter.json" target="_blank">View JSON reference on GitHub</a>
+
 **API Link:**  
 <a href="https://api.tigertag.io/api:tigertag/diameter/filament/get/all" target="_blank">https://api.tigertag.io/api:tigertag/diameter/filament/get/all</a>
 
@@ -99,9 +108,11 @@ All multi-byte values are encoded in **big-endian** format.
 ---
 
 ## 2.5 ID Aspect 1 & 2
-
+**GitHub Json**
+<br><a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/id_aspect.json" target="_blank">View JSON reference on GitHub</a>
 **API Link:**  
 <a href="https://api.tigertag.io/api:tigertag/aspect/get/all" target="_blank">https://api.tigertag.io/api:tigertag/aspect/get/all</a>
+
 
 **Examples:**  
 - `0x15` = `21` → Clear  
@@ -113,6 +124,8 @@ All multi-byte values are encoded in **big-endian** format.
 ---
 
 ## 2.6 ID Type
+**GitHub Json**  
+<a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/id_type.json" target="_blank">View JSON reference on GitHub</a>
 
 **API Link:**  
 <a href="https://api.tigertag.io/api:tigertag/type/get/all" target="_blank">https://api.tigertag.io/api:tigertag/type/get/all</a>
@@ -125,8 +138,12 @@ All multi-byte values are encoded in **big-endian** format.
 
 ## 2.7 ID Brand
 
+**GitHub Json**  
+<a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/id_brand.json" target="_blank">View JSON reference on GitHub</a>
+
 **API Link:**  
 <a href="https://api.tigertag.io/api:tigertag/brand/get/all" target="_blank">https://api.tigertag.io/api:tigertag/brand/get/all</a>
+
 
 **Examples:**  
 - `0xC5DC` = `50652` → Polymaker  
@@ -143,8 +160,12 @@ All multi-byte values are encoded in **big-endian** format.
 
 ## 2.8 ID Unit
 
+**GitHub Json**  
+<a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/id_measure_unit.json" target="_blank">View JSON reference on GitHub</a>
+
 **API Link:**  
 <a href="https://api.tigertag.io/api:tigertag/measure_unit/get/all" target="_blank">https://api.tigertag.io/api:tigertag/measure_unit/get/all</a>
+
 
 **Examples:**  
 - `0x15` = `21` → g  
