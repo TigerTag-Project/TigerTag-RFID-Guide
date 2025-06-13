@@ -190,6 +190,24 @@ All multi-byte values are encoded in **big-endian** format.
 - etc.
 
 
+## 2.9 Timestamp & Unique Pairing Identifier
+
+The `Time Stamp` field in the TigerTag format serves a **dual purpose** that adds both traceability and pairing functionality:
+
+### 1. Manufacturing Timestamp
+This 4-byte field stores the number of seconds elapsed since 01/01/2000 GMT, providing a reliable, encoded date of fabrication for the spool. This information can be decoded by any compliant reader or software to determine when the filament was produced or packaged.
+
+### 2. Twin Tag Linking (Left & Right Tags)
+In addition to tracking production time, the `Time Stamp` acts as a **spool pairing identifier**. When two TigerTag RFID chips are written simultaneously for the left and right sides of the same spool, they receive the exact same timestamp value.
+
+This shared value enables:
+- Identifying both tags as part of the same spool.
+- Supporting redundancy: if one tag fails or is unreadable, the twin can still provide valid metadata.
+- Visual matching in user interfaces or spool management systems (e.g. “Left/Right tag matched” indicators).
+
+🧠 Think of the `Time Stamp` as a **"twin tag ID"** in addition to being a clock — a clever way to bind two tags using time as the key.
+
+
 
 ---
 
@@ -265,7 +283,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Dry Time         | 0x05          | 5              | Time in hours                             |
 | Bed Temp Min     | 0x32          | 50             | °C bed minimum                            |
 | Bed Temp Max     | 0x3C          | 60             | °C bed maximum                            |
-| Timestamp        | 0x66061A5C    | 1711492444     | Encoded as seconds since 01/01/2000       |
+| Timestamp        | 0x66061A5C    | 1711492444     | Encoded as seconds since 01/01/2000 & twin tag ID     |
 | Emoji            | 0xF09F9880    | 😀             | custom user UTF-8 encoded emoji (4 bytes) |
 | Message          | Starter Red   | Starter Red    | custom user message                       |
 
