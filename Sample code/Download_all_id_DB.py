@@ -19,7 +19,7 @@ import requests
 # List of URLs and corresponding filenames to download
 json_files = [
     ("https://api.tigertag.io/api:tigertag/version/get/all", "id_version.json"),
-    ("https://api.tigertag.io/api:tigertag/material/filament/get/all", "id_material.json"),
+    ("https://api.tigertag.io/api:tigertag/material/get/all", "id_material.json"),
     ("https://api.tigertag.io/api:tigertag/aspect/get/all", "id_aspect.json"),
     ("https://api.tigertag.io/api:tigertag/type/get/all", "id_type.json"),
     ("https://api.tigertag.io/api:tigertag/diameter/filament/get/all", "id_diameter.json"),

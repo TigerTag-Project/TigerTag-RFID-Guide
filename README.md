@@ -86,7 +86,7 @@ All multi-byte values are encoded in **big-endian** format.
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_material.json
 
 **API Link:**  
-<a href="https://api.tigertag.io/api:tigertag/material/filament/get/all" target="_blank">https://api.tigertag.io/api:tigertag/material/filament/get/all</a>
+<a href="https://api.tigertag.io/api:tigertag/material/get/all" target="_blank">https://api.tigertag.io/api:tigertag/material/get/all</a>
 
 **Examples:**  
 - `0x954B` = `38219` → PLA  
