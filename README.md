@@ -197,7 +197,7 @@ All multi-byte values are encoded in **big-endian** format.
 
 The `Time Stamp` field in the TigerTag format serves a **dual purpose** that adds both traceability and pairing functionality:
 
-## 2.10 Transmission Distance (TD) – HueForge Value ( https://shop.thehueforge.com/ )
+## 2.10 Transmission Distance (TD) – HueForge Value
 
 In the TigerTag format, the field `TD` is reserved to store the **HueForge Transmission Distance Value**.  
 ⚠️ This field is an optical/material parameter used by HueForge for rendering and simulation.
