@@ -208,7 +208,7 @@ In the TigerTag format, the field `TD` is reserved to store the **HueForge Trans
 
 **Encoding:**
 - Length: **2 bytes** (unsigned, big-endian)
-- Scale: **value / 10**
+- TD : **value / 10**
 - Valid range: **0.1–100.0** (encoded **10–1000**); values outside this range are invalid
 
 **Examples:**
