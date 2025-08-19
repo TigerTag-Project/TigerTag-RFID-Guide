@@ -31,7 +31,10 @@ All multi-byte values are encoded in **big-endian** format.
 | ID Type           | 1 byte   | Type (e.g. 0x8E = 142 = Filament, 0xAD = 173 = Resin)      |
 | ID Brand          | 2 byte   | Manufacturer/Brand ID                           |
 | ID Unit           | 1 byte   | Measurement unit (e.g. 0x15 = 21 = grams, 0x4F = 79 = Liter)  |
-| Color (RGBA)      | 4 bytes  | Red, Green, Blue, Alpha (1 byte each)           |
+| Color1 (RGBA)      | 4 bytes  | Red, Green, Blue, Alpha (1 byte each)           |
+| Color2 (RGB)       | 3 bytes  | Red, Green, Blue (1 byte each)                  |
+| Color3 (RGB)       | 3 bytes  | Red, Green, Blue (1 byte each)                  |
+| TD (Transmission Distance)      | 2 bytes  | Decimal / 10  ( ex: 230 / 10 = 2.3 )                  |
 | Measure           | 3 byte   | Weight in grams , kilo , litter (e.g 1000 )     |
 | Nozzle Temp Min   | 1 byte   | Minimum printing temperature (°C)               |
 | Nozzle Temp Max   | 1 byte   | Maximum printing temperature (°C)               |
@@ -194,6 +197,32 @@ All multi-byte values are encoded in **big-endian** format.
 
 The `Time Stamp` field in the TigerTag format serves a **dual purpose** that adds both traceability and pairing functionality:
 
+## 2.10 Transmission Distance (TD) – HueForge Value ( https://shop.thehueforge.com/ )
+
+In the TigerTag format, the field `TD` is reserved to store the **HueForge Transmission Distance Value**.  
+⚠️ This field is an optical/material parameter used by HueForge for rendering and simulation.
+
+**Purpose:**
+- Defines how light passes through or is attenuated by the material in HueForge’s simulation.
+- Enables more realistic previews of prints, especially for lithophanes or color-sensitive layers.
+
+**Encoding:**
+- Length: **2 bytes** (unsigned, big-endian)
+- Scale: **value / 10**
+- Valid range: **0.1–100.0** (encoded **10–1000**); values outside this range are invalid
+
+**Examples:**
+- `0x0000` → Undefined (no HueForge TD specified)
+- `0x000A` = 10  → **0.1** (minimum allowed) = Opaque
+- `0x00E6` = 230 → **23.0**
+- `0x03E8` = 1000 → **100.0** (maximum allowed) = Translucent
+
+**Identification / Measurement Tools:**
+- Users can determine a material’s HueForge TD using a **TD1S** device.
+- TD1S hardware (AJAX TD1S V1.0) available 
+    - Atome3D.com — https://www.atome3d.com/products/biqu-ajax-td1s-v1-0
+    - Tigertag.io : https://tigertag.io/fr/products/biqu-ajax-td1s-v1-0
+
 ### 1. Manufacturing Timestamp
 This 4-byte field stores the number of seconds elapsed since 01/01/2000 GMT, providing a reliable, encoded date of fabrication for the spool. This information can be decoded by any compliant reader or software to determine when the filament was produced or packaged.
 
@@ -276,6 +305,9 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Brand ID         | 0x4E19        | 19961          | Rosa3D                                    |
 | Unit ID          | 0x15          | 21             | grams                                     |
 | Color RGBA       | 0xFF0000FF    | 4278190335     | Red                                       |
+| Color2 RGB       | 0x00000000    | 0             | Default                                    |
+| Color3 RGB       | 0x00000000.   | 0             | Default                                    |
+| TD               | 0x0000        | 0             | Default                                    |
 | Weight           | 0x0003E8      | 1000           | weight value                              |
 | Temp Min         | 0xC3          | 195            | °C nozzle minimum                         |
 | Temp Max         | 0xE6          | 230            | °C nozzle maximum                         |
@@ -304,6 +336,9 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Brand ID      | 0xC5DC       | 50652         | Polymaker                                     |
 | Unit ID       | 0x23         | 35            | Kilograms                                     |
 | Color RGBA    | 0x89D9D9FF   | 2310590719    | Arctic Teal (hex color code to RGBA)          |
+| Color2 RGB    | 0x00000000   | 0             | Default                                       |
+| Color3 RGB    | 0x00000000   | 0             | Default                                       |
+| TD            | 0x0000       | 0             | Default                                       |
 | Weight        | 0x0003E8     | 1000          | grams                                         |
 | Temp Min      | 0xBE         | 190           | °C nozzle minimum                             |
 | Temp Max      | 0xF0         | 240           | °C nozzle maximum                             |
@@ -339,7 +374,10 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 | Type ID          | 0x00         | 0             | Not defined                                |
 | Brand ID         | 0x0000       | 0             | Not defined                                |
 | Unit ID          | 0x00         | 0             | Not defined                                |
-| Color RGBA       | 0x00000000   | 0             | Default                                     |
+| Color1 RGBA      | 0x00000000   | 0             | Default                                    |
+| Color2 RGB       | 0x00000000   | 0             | Default                                    |
+| Color3 RGB       | 0x00000000   | 0             | Default                                    |
+| TD               | 0x0000       | 0             | Default                                    |
 | Weight           | 0x000000     | 0             | 0 grams                                    |
 | Temp Min         | 0x00         | 0             | °C nozzle minimum                          |
 | Temp Max         | 0x00         | 0             | °C nozzle maximum                          |
