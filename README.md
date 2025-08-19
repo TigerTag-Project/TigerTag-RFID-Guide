@@ -6,7 +6,7 @@ This document defines the data structure and format used in TigerTag-compatible 
 
 TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory, structured from page 4 to page 39.
 
-## 1.1 Page Mapping Overview
+## 1.1 TigerTag Page Mapping Overview
 
 <img src="Images/TigerTag%20Mapping%20RFID%20NXP213.png" alt="TigerTag Mapping Diagram">
 
