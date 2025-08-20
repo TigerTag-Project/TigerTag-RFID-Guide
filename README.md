@@ -213,7 +213,7 @@ In the TigerTag format, the field `TD` is reserved to store the **HueForge Trans
 
 **Examples:**
 - `0x0000` → Undefined (no HueForge TD specified)
-- `0x000A` = 10  → **0.1** (minimum allowed) = Opaque
+- `0x0001` = 1 → **0.1** (minimum allowed) = Opaque
 - `0x00E6` = 230 → **23.0**
 - `0x03E8` = 1000 → **100.0** (maximum allowed) = Translucent
 
