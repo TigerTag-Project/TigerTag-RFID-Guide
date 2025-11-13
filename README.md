@@ -63,8 +63,8 @@ All multi-byte values are encoded in **big-endian** format.
 
 **Examples:**  
 - `0x6C46A3C1` = `1816240865` → TigerTag Init (Initialized)  
-- `0x5C15E2E4` = `1542820452` → TigerTag Maker V1.0 (Offline)  
-- `0x12C4C408` = `315515176` → TigerTag Pro V1.0 (Hybrid Offline & Online Mode)
+- `0x5C15E2E4` = `1542820452` → TigerTag V1.0 (Offline)  
+- `0x12C4C408` = `315515176` → TigerTag+ V1.0 (Offline + Cloud)
 
 ---
 
@@ -76,8 +76,9 @@ All multi-byte values are encoded in **big-endian** format.
 **Example:**  
 <a href="https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10" target="_blank">https://api.tigertag.io/api:tigertag/product/get?uid=123456789&product_id=10</a>
 
-- `0xFFFFFFFF` = `4294967295` → TigerTag Maker (Offline)
-- `XXXXX` = TigerTag Hybrid (Offline & Online Mode)
+- `0x00000000` = `0` → Reserved (Init / blank product)
+- `0xFFFFFFFF` = `4294967295` → Reserved for all TigerTag (Offline)
+- `0x00000001`–`0xFFFFFFFE` = `1–4294967294` → TigerTag+ Product IDs (Offline + Cloud)
 
 ---
 
@@ -291,11 +292,11 @@ Without signature verification, anyone could clone a tag. This process protects 
 🔐 With this system, you get security, authenticity, and peace of mind for every TigerTag spool.
 ---
 
-## 4. Example: TigerTag Maker - Encoded Rosa3D Red PLA
+## 4. Example: TigerTag - Encoded Rosa3D Red PLA
 
 | Field            | Hex           | Decimal        | Notes                                      |
 | ---------------- | ------------- | -------------- | ------------------------------------------ |
-| ID TigerTag      | 0x5C15E2E4    | 1542820452     | TigerTag Maker V1.0 (Offline)              |
+| ID TigerTag      | 0x5C15E2E4    | 1542820452     | TigerTag V1.0 (Offline)              |
 | Product ID       | 0xFFFFFFFF    | 4294967295     | Maker version, (Always 0xFFFFFFFF)         |
 | Material ID      | 0x954B        | 38219          | PLA                                       |
 | Diameter ID      | 0x38          | 56             | 1.75 mm                                   |
@@ -322,11 +323,11 @@ Without signature verification, anyone could clone a tag. This process protects 
 
 ---
 
-## 4.1 Example: TigerTag Pro - Encoded Polymaker PolyTerra Arctic Teal
+## 4.1 Example: TigerTag+ - Encoded Polymaker PolyTerra Arctic Teal
 
 | Field         | Hex Value    | Decimal Value | Notes                                         |
 | ------------- | ------------ | ------------- | --------------------------------------------- |
-| ID TigerTag   | 0x12C4C408   | 315515176     | TigerTag Pro V1.0                             |
+| ID TigerTag   | 0x12C4C408   | 315515176     | TigerTag+ V1.0                             |
 | Product ID    | 0x0000000A   | 10            | Online sync enabled product                   |
 | Material ID   | 0x954B       | 38219         | PLA                                           |
 | Diameter ID   | 0x38         | 56            | 1.75 mm                                       |

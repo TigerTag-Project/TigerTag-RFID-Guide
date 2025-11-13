@@ -1,6 +1,6 @@
 # TigerTag OEM Commercial License Agreement
 
-This TigerTag OEM Commercial License ("Agreement") governs the use of the TigerTag technology, including its specification, software tools, and any associated branding, when integrated into products or systems intended for commercial sale or distribution.
+This TigerTag & TigerTag+ OEM Commercial License ("Agreement") governs the use of the TigerTag technology, including its specification, software tools, and any associated branding, when integrated into products or systems intended for commercial sale or distribution.
 
 ---
 
