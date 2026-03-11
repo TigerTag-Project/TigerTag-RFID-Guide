@@ -64,7 +64,7 @@ All multi-byte values are encoded in **big-endian** format.
 **Examples:**  
 - `0x6C46A3C1` = `1816240865` → TigerTag Init (Initialized)  
 - `0x5C15E2E4` = `1542820452` → TigerTag V1.0 (Offline)  
-- `0x12C4C408` = `315515176` → TigerTag+ V1.0 (Offline + Cloud)
+- `0x12C4C408` = `3155151767` → TigerTag+ V1.0 (Offline + Cloud)
 
 ---
 
