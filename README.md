@@ -62,9 +62,9 @@ All multi-byte values are encoded in **big-endian** format.
 <a href="https://api.tigertag.io/api:tigertag/version/get/all" target="_blank">https://api.tigertag.io/api:tigertag/version/get/all</a>
 
 **Examples:**  
-- `0x6C46A3C1` = `1816240865` → TigerTag Init (Initialized)  
-- `0x5C15E2E4` = `1542820452` → TigerTag V1.0 (Offline)  
-- `0x12C4C408` = `3155151767` → TigerTag+ V1.0 (Offline + Cloud)
+- `0x6C41A2E1` = `1816240865` → TigerTag Init (Initialized)  
+- `0x5BF59264` = `1542820452` → TigerTag (100% Offline)  
+- `0xBC0FCB97` = `3155151767` → TigerTag+ (100% Offline + Optional Cloud)
 
 ---
 
