@@ -13,6 +13,14 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 
+# Live-API version: pulls each JSON reference file directly from the
+# TigerTag API (api.tigertag.io). Always returns the freshest data, but
+# every run consumes a small amount of API resources.
+#
+# If you don't need real-time freshness, prefer Download_all_id_DB_GitHub.py
+# — it pulls the same files from the GitHub mirror, which is auto-synced
+# every 6 hours and served via GitHub's CDN.
+
 import os
 import requests
 
