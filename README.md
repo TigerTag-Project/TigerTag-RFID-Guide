@@ -193,6 +193,45 @@ All multi-byte values are encoded in **big-endian** format.
 - `0x3E` = `62` → cl  
 - etc.
 
+---
+
+## 2.8.1 Database Last Update
+
+Sidecar metadata file that exposes the **server-side last-modification timestamp** of every reference dataset listed above. Useful for cache invalidation: clients can fetch this small file first and only re-download the JSON references whose timestamp has changed since their last sync.
+
+**GitHub Json**  
+<a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/last_update.json" target="_blank">View JSON reference on GitHub</a>
+
+🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/last_update.json
+
+**API Link:**  
+<a href="https://api.tigertag.io/api:tigertag/all/last_update" target="_blank">https://api.tigertag.io/api:tigertag/all/last_update</a>
+
+**Format:** JSON object — one entry per dataset, value is a Unix epoch in **milliseconds** (UTC).
+
+**Example response:**
+```json
+{
+  "versions":           1763073059935,
+  "types":              1777884684291,
+  "brands":             1777885837902,
+  "filament_diameters": 1777895560487,
+  "filament_materials": 1777972858568,
+  "aspects":            1777894570720,
+  "measure_units":      1777896731691
+}
+```
+
+**Key mapping:**
+- `versions` → `id_version.json`
+- `types` → `id_type.json`
+- `brands` → `id_brand.json`
+- `filament_diameters` → `id_diameter.json`
+- `filament_materials` → `id_material.json`
+- `aspects` → `id_aspect.json`
+- `measure_units` → `id_measure_unit.json`
+
+---
 
 ## 2.9 Timestamp & Unique Pairing Identifier
 
