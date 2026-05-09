@@ -65,18 +65,22 @@ Sidecar metadata file that exposes the **server-side last-modification timestamp
 
 **Format:** JSON object — one entry per dataset, value is a Unix epoch in **milliseconds** (UTC).
 
-**Example response:**
-```json
+**Example response** *(comments shown for clarity — the real API returns plain JSON)*:
+```jsonc
 {
-  "versions":           1763073059935,
-  "types":              1777884684291,
-  "brands":             1777885837902,
-  "filament_diameters": 1777895560487,
-  "filament_materials": 1777972858568,
-  "aspects":            1777894570720,
-  "measure_units":      1777896731691
+  "versions":           1763073059935,  // 2025-11-13 22:30:59 UTC
+  "types":              1777884684291,  // 2026-05-04 08:51:24 UTC
+  "brands":             1777885837902,  // 2026-05-04 09:10:37 UTC
+  "filament_diameters": 1777895560487,  // 2026-05-04 11:52:40 UTC
+  "filament_materials": 1777972858568,  // 2026-05-05 09:20:58 UTC
+  "aspects":            1777894570720,  // 2026-05-04 11:36:10 UTC
+  "measure_units":      1777896731691   // 2026-05-04 12:12:11 UTC
 }
 ```
+
+**Decoding a timestamp:**
+- JavaScript: `new Date(1763073059935).toISOString()` → `"2025-11-13T22:30:59.935Z"`
+- Python: `datetime.fromtimestamp(1763073059935 / 1000, tz=timezone.utc)`
 
 **Key mapping:**
 - `versions` → `id_version.json`
