@@ -44,8 +44,7 @@ All multi-byte values are encoded in **big-endian** format.
 | Bed Temp Max      | 1 byte   | Max bed temp (°C), optional                     |
 | Time Stamp        | 4 bytes  | Seconds since 01/01/2000 GMT                    |
 | Reserved          | 12 bytes | Reserved for future use                         |
-| Emoji             | 4 bytes  | UTF-8 Emoji (if supported)                      |
-| Custom Message    | 28 bytes | Free text (UTF-8 or ASCII, max 28 chars)        |
+| Custom Message    | 32 bytes | Free text (UTF-8 or ASCII, max 32 bytes — may include an emoji if the user wants) |
 | Signature (ECDSA) | 64 bytes | Optional digital signature to authenticate data |
 
 ---
@@ -359,8 +358,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Bed Temp Min     | 0x32          | 50             | °C bed minimum                            |
 | Bed Temp Max     | 0x3C          | 60             | °C bed maximum                            |
 | Timestamp        | 0x66061A5C    | 1711492444     | Encoded as seconds since 01/01/2000 & twin tag ID     |
-| Emoji            | 0xF09F9880    | 😀             | custom user UTF-8 encoded emoji (4 bytes) |
-| Message          | Starter Red   | Starter Red    | custom user message                       |
+| Message          | Starter Red   | Starter Red    | custom user message (32 bytes max, may include emoji) |
 
 
 ---
@@ -390,8 +388,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Bed Temp Min  | 0x23         | 35            | °C bed minimum                                |
 | Bed Temp Max  | 0x41         | 65            | °C bed maximum                                |
 | Timestamp     | 0x66061E90   | 1711493264    | Encoded as seconds since 01/01/2000           |
-| Emoji         | 0xF09F8CB1  | 🌱            | custom user UTF-8 encoded emoji (4 bytes)     |
-| Message       | Private msg  | Private msg   | custom user message                           |
+| Message       | Private msg  | Private msg   | custom user message (32 bytes max, may include emoji) |
 | Signature R   | A6B3...D7DA1AA | A6B3...D7DA1AA            | 32-byte ECDSA signature part 1 (r), p24–31    |
 | Signature S   | 91F4...F8AE29CE| 91F4...F8AE29CE  | 32-byte ECDSA signature part 2 (s), p32–39    |
 ---
@@ -429,8 +426,7 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 | Bed Temp Min     | 0x00         | 0             | °C bed minimum                             |
 | Bed Temp Max     | 0x00         | 0             | °C bed maximum                             |
 | Timestamp        | 0x00000000   | 0             | No timestamp                               |
-| Emoji            | 0x00000000   | 0             | Default placeholder                        |
-| Message          | Unprogrammed | Unprogrammed  | Placeholder message                        |
+| Message          | Unprogrammed | Unprogrammed  | Placeholder message (32 bytes max)         |
 
 ## 5. Commercial License & Trademark Usage
 
