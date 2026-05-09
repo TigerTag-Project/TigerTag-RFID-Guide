@@ -1,0 +1,48 @@
+name: Sync TigerTag database
+
+on:
+  schedule:
+    # Every 6 hours. Adjust the cron if you want a different cadence.
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-database
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install --no-cache-dir requests
+
+      - name: Run incremental sync
+        run: python database/db_update.py
+
+      - name: Commit and push if changes
+        run: |
+          if [[ -z "$(git status --porcelain database/)" ]]; then
+            echo "No dataset changes — nothing to commit."
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add database/
+
+          changed=$(git diff --cached --name-only | xargs -n1 basename | paste -sd ', ' -)
+          git commit -m "Auto-sync database: ${changed}"
+          git push
