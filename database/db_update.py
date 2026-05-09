@@ -24,7 +24,8 @@ json_files = [
     ("https://api.tigertag.io/api:tigertag/type/get/all", "id_type.json"),
     ("https://api.tigertag.io/api:tigertag/diameter/filament/get/all", "id_diameter.json"),
     ("https://api.tigertag.io/api:tigertag/brand/get/all", "id_brand.json"),
-    ("https://api.tigertag.io/api:tigertag/measure_unit/get/all", "id_measure_unit.json")
+    ("https://api.tigertag.io/api:tigertag/measure_unit/get/all", "id_measure_unit.json"),
+    ("https://api.tigertag.io/api:tigertag/all/last_update", "id_last_update.json")
 ]
 
 # Target folder
