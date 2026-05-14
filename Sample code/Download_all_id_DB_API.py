@@ -72,8 +72,12 @@ def download_dataset(endpoint, filename):
     url = f"{API_BASE}/{endpoint}"
     response = requests.get(url, timeout=HTTP_TIMEOUT)
     response.raise_for_status()
+    try:
+        data = response.json()
+    except ValueError as e:
+        raise RuntimeError(f"Invalid JSON received for {filename}: {e}")
     with open(os.path.join(TARGET_FOLDER, filename), "w", encoding="utf-8") as f:
-        f.write(response.text)
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 def sync():
