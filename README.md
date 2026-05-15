@@ -488,7 +488,23 @@ To request commercial rights, OEM access, or brand guidelines, please contact us
 ---
 
 
-## 5.0 Developer Notice on the Mobile App
+## 5.0 Apps & Tools
+
+TigerTag is built around an open protocol and a free public API. Below are the official **TigerTag-Project apps and tools** — all open-source where indicated — that consume that API. For developer references, the protocol specification is the rest of this document; the API is documented at [https://api.tigertag.io/api:tigertag](https://api.tigertag.io/api:tigertag), and the project website is [https://tigertag.io](https://tigertag.io).
+
+## 5.1 TigerTag Studio Manager (Open Source)
+
+Desktop application for **Windows, macOS, and Linux** that manages your 3D-printing filament inventory. It reads RFID spool tags through an ACR122U NFC reader, tracks remaining weight, and surfaces print temperatures, MSDS/TDS links, and product details. Auto-updates via GitHub Releases.
+
+🔗 [TigerTag-Project/TigerTag-Studio-Manager](https://github.com/TigerTag-Project/TigerTag-Studio-Manager) — built with Electron.
+
+## 5.2 Tiger Scale (Open Source)
+
+DIY smart scale (~30 € BoM) that identifies which spool sits on it. Drop a spool with a TigerTag NFC sticker on the platform — the scale reads the tag, weighs the spool, computes the **net filament weight** (subtracting the empty spool), and syncs the result to your TigerTag account in real time. Dual RC522 RFID readers for twin-tag spools, HX711 + 5 kg load cell, OLED display, mobile-friendly web UI served by the ESP32 itself, 9-language UI.
+
+🔗 [TigerTag-Project/Tiger_Scale](https://github.com/TigerTag-Project/Tiger_Scale) — ESP32 / Arduino / PlatformIO, with a one-click [Web Installer](https://tigertag-project.github.io/Tiger_Scale/) (Chrome/Edge).
+
+## 5.3 TigerTag RFID Connect — Mobile Apps (iOS & Android)
 
 The official TigerTag mobile app (iOS and Android) is a **closed-source proof of concept** provided for convenience. It demonstrates how TigerTag tags can be read and written using the open protocol.
 
@@ -502,21 +518,38 @@ The TigerTag mobile app uses only the **free public API** to ensure fair access 
 
 For protocol details, refer to the sections above or contact us for technical guidance.
 
-## 5.1 API & Documentation Links
-
-For developers and integrators, here are quick access links:
-
-- 🔗 Official Website: [https://tigertag.io](https://tigertag.io)
-- 📘 Swagger API Documentation: [https://api.tigertag.io/api:tigertag](https://api.tigertag.io/api:tigertag)
-
 ### 📱 Mobile Apps
 
-<img src="Images/TigerTag_RFID_Connect_Apps.png" alt="TigerTag Mobile Apps">
+<img src="https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/Images/TigerTag_RFID_Connect_Apps.png" alt="TigerTag Mobile Apps">
 
 - 🧭 iOS App: [https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963](https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963)
 - 🤖 Android App: [https://play.google.com/store/apps/details?id=com.tigertag.connect](https://play.google.com/store/apps/details?id=com.tigertag.connect)
 
-## 6. Version History
+---
+
+## 6. Community Integrations & Acknowledgments
+
+Third-party projects built on the TigerTag protocol or the public API. These are independent community efforts — they are **not officially maintained or endorsed by TigerTag Project** — and we list them here as a thank-you to their authors for extending the TigerTag ecosystem.
+
+## 6.1 OpenRFID
+
+RFID controller and parsing library for common 3D-printing filament tags, with native support for the **TigerTag** format (alongside OpenSpool, OpenTag3D, and others). Marked by the author as a work in progress.
+
+🔗 [suchmememanyskill/OpenRFID](https://github.com/suchmememanyskill/OpenRFID) — author: [@suchmememanyskill](https://github.com/suchmememanyskill). Python.
+
+## 6.2 Snapmaker U1 Extended Firmware
+
+Custom and repackaged firmware for the **Snapmaker U1** 3D printer, adding debug features (SSH access) and extended capabilities. RFID filament-tag support is provided via an embedded **OpenRFID** module, which is what brings TigerTag parsing to the printer.
+
+🔗 [paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware](https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware) — author: [@paxx12](https://github.com/paxx12). Independent of, and not affiliated with, Snapmaker.
+
+## 6.3 TigerTag — Home Assistant Integration
+
+HACS-compatible custom integration that synchronises your TigerTag filament inventory into **Home Assistant**: sensors and number entities per spool, custom Lovelace card, twin-tag deduplication, rack/level/position assignment, optional integration with [ha-bambulab](https://github.com/greghesp/ha-bambulab) to push filament configuration to a Bambu Lab AMS.
+
+🔗 [Kenny3231/TigerTag](https://github.com/Kenny3231/TigerTag) — author: [@Kenny3231](https://github.com/Kenny3231). Per its own README, this is a community project **not officially affiliated with TigerTag Project**.
+
+## 7. Version History
 
 | Version | Date       | Description           | Author        |
 | ------- | ---------- | --------------------- | ------------- |
@@ -524,7 +557,7 @@ For developers and integrators, here are quick access links:
 
 ---
 
-## 7. Contributions
+## 8. Contributions
 
 Want to contribute improvements or integrations? Fork this repository and open a pull request.
 
