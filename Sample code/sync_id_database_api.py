@@ -13,22 +13,22 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-# Plug-and-play GitHub-mirror sync for the TigerTag reference JSONs.
+# Plug-and-play live-API sync for the TigerTag reference JSONs.
 #
 # What it does on each run:
-#   1. Fetches last_update.json from this repo's GitHub raw mirror
+#   1. Calls the API's all/last_update endpoint
 #   2. Compares every per-dataset timestamp to the local last_update.json
-#   3. Downloads only the files whose timestamp has changed in the mirror
+#   3. Downloads only the files whose server-side timestamp has changed
 #
 # First run downloads everything; subsequent runs are no-ops when nothing
-# has changed. Drop this script wherever you want the JSON files to live
-# and run it — no other setup needed.
+# has changed server-side. Drop this script wherever you want the JSON
+# files to live and run it — no other setup needed.
 #
-# The mirror is auto-synced with the live TigerTag API every 6 hours by a
-# GitHub Actions workflow, so the data is at most ~6 h stale. Use this
-# variant when you don't need real-time freshness — it offloads bandwidth
-# from the TigerTag API to the GitHub CDN. For real-time data, use
-# Download_all_id_DB_API.py instead.
+# If you don't need real-time freshness, prefer sync_id_database_github.py:
+# it pulls the same files from the auto-synced GitHub mirror via the GitHub
+# CDN, which avoids any load on the TigerTag API. If you want real-time data
+# but still want sync to keep working when the API is down, use
+# sync_id_database_api_or_github.py (API primary, GitHub fallback).
 
 import json
 import os
@@ -36,18 +36,18 @@ import sys
 
 import requests
 
-GITHUB_RAW_BASE = "https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database"
+API_BASE = "https://api.tigertag.io/api:tigertag"
 HTTP_TIMEOUT = 30
 
-# last_update key  ->  filename (same on both the GitHub mirror and locally)
+# last_update key  ->  (API endpoint path,           local filename)
 DATASETS = {
-    "versions":           "id_version.json",
-    "types":              "id_type.json",
-    "brands":             "id_brand.json",
-    "filament_diameters": "id_diameter.json",
-    "filament_materials": "id_material.json",
-    "aspects":            "id_aspect.json",
-    "measure_units":      "id_measure_unit.json",
+    "versions":           ("version/get/all",            "id_version.json"),
+    "types":              ("type/get/all",               "id_type.json"),
+    "brands":             ("brand/get/all",              "id_brand.json"),
+    "filament_diameters": ("diameter/filament/get/all",  "id_diameter.json"),
+    "filament_materials": ("material/get/all",           "id_material.json"),
+    "aspects":            ("aspect/get/all",             "id_aspect.json"),
+    "measure_units":      ("measure_unit/get/all",       "id_measure_unit.json"),
 }
 
 TARGET_FOLDER = os.path.dirname(os.path.abspath(__file__))
@@ -65,13 +65,13 @@ def load_local_last_update():
 
 
 def fetch_remote_last_update():
-    response = requests.get(f"{GITHUB_RAW_BASE}/last_update.json", timeout=HTTP_TIMEOUT)
+    response = requests.get(f"{API_BASE}/all/last_update", timeout=HTTP_TIMEOUT)
     response.raise_for_status()
     return response.json(), response.text
 
 
-def download_dataset(filename):
-    url = f"{GITHUB_RAW_BASE}/{filename}"
+def download_dataset(endpoint, filename):
+    url = f"{API_BASE}/{endpoint}"
     response = requests.get(url, timeout=HTTP_TIMEOUT)
     response.raise_for_status()
     try:
@@ -87,13 +87,13 @@ def sync():
     local_data = load_local_last_update()
 
     updated = []
-    for key, filename in DATASETS.items():
+    for key, (endpoint, filename) in DATASETS.items():
         remote_ts = remote_data.get(key)
         local_ts = local_data.get(key)
         local_file = os.path.join(TARGET_FOLDER, filename)
 
         if remote_ts is None:
-            print(f"[skip] {key}: not present in mirror last_update payload")
+            print(f"[skip] {key}: not present in API last_update payload")
             continue
 
         if remote_ts == local_ts and os.path.exists(local_file):
@@ -101,7 +101,7 @@ def sync():
             continue
 
         print(f"[sync] {filename}: {local_ts} -> {remote_ts}")
-        download_dataset(filename)
+        download_dataset(endpoint, filename)
         updated.append(filename)
 
     if updated or local_data != remote_data:
@@ -117,7 +117,7 @@ if __name__ == "__main__":
     try:
         changed = sync()
     except requests.RequestException as exc:
-        print(f"error: GitHub request failed: {exc}", file=sys.stderr)
+        print(f"error: API request failed: {exc}", file=sys.stderr)
         sys.exit(1)
 
     if changed:
