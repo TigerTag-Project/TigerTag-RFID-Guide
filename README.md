@@ -90,6 +90,14 @@ Sidecar metadata file that exposes the **server-side last-modification timestamp
 - `aspects` → `id_aspect.json`
 - `measure_units` → `id_measure_unit.json`
 
+**Reference implementations:** ready-to-run Python scripts implementing the smart-diff sync described above are available in [`Sample code/`](Sample%20code/):
+
+- [`sync_id_database_api.py`](Sample%20code/sync_id_database_api.py) — live TigerTag API (real-time freshness).
+- [`sync_id_database_github.py`](Sample%20code/sync_id_database_github.py) — GitHub mirror (auto-synced every 6 h, ~6 h stale, no API traffic).
+- [`sync_id_database_api_or_github.py`](Sample%20code/sync_id_database_api_or_github.py) — API primary with automatic GitHub fallback when the API is unreachable.
+
+Drop one of these next to where you want the JSON files and run it — first run downloads everything, subsequent runs are no-ops when nothing has changed server-side.
+
 ---
 
 ## 2.1 ID TigerTag
