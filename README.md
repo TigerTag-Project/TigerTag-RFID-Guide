@@ -207,9 +207,9 @@ The `color_count` value from the aspect reference dataset indicates how many col
 
 | Aspect label | `color_count` | Recommended display |
 | ------------ | ------------- | ------------------- |
-| Bicolor | 2 | two-color pie chart / split circle |
-| Tricolor | 3 | three-color pie chart / split circle |
-| Rainbow | 3 | left-to-right rainbow gradient |
+| Bicolor | 2 | <img src="Images/bicolor.svg" width="32" alt="Bicolor display"> two-color pie chart / split circle |
+| Tricolor | 3 | <img src="Images/tricolor.svg" width="32" alt="Tricolor display"> three-color pie chart / split circle |
+| Rainbow | 3 | <img src="Images/rainbow.svg" width="32" alt="Rainbow display"> circular left-to-right gradient |
 
 To avoid contradictory metadata, aspects that define the number or distribution of colors SHOULD NOT be placed in both `ID Aspect 1` and `ID Aspect 2` at the same time.
 
