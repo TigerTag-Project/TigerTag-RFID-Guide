@@ -6,6 +6,8 @@ This document defines the data structure and format used in TigerTag-compatible 
 
 TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory, structured from page 4 to page 39.
 
+The TigerTag protocol is also compatible with NTAG215 and NTAG216 chips. The binary layout is optimized to fit within the smaller NTAG213 user memory capacity, which ensures that all NTAG21x variants remain compatible.
+
 ## 1.1 TigerTag Page Mapping Overview
 
 <img src="Images/TigerTag%20Mapping%20RFID%20NXP213.png" alt="TigerTag Mapping Diagram">
@@ -20,32 +22,41 @@ TigerTag uses the NTAG213 chip format with a total of 144 bytes of usable memory
 
 All multi-byte values are encoded in **big-endian** format.
 
-| Field             | Length   | Description                                     |
-| ----------------- | -------- | ----------------------------------------------- |
-| ID TigerTag       | 4 byte   | Format identifier (e.g. Maker : 1542820452)     |
-| ID Product        | 4 bytes  | Fixed value (0xFFFFFFFF for Maker version)      |
-| ID Material       | 2 byte   | Material Type (e.g. PLA, PETG, ABS...)          |
-| ID Diameter       | 1 byte   | 0x38 = 56 = 1.75mm, 0xDD = 221 = 2.85mm                       |
-| ID Aspect 1       | 1 byte   | First visual aspect                             |
-| ID Aspect 2       | 1 byte   | Second visual aspect                            |
-| ID Type           | 1 byte   | Type (e.g. 0x8E = 142 = Filament, 0xAD = 173 = Resin)      |
-| ID Brand          | 2 byte   | Manufacturer/Brand ID                           |
-| ID Unit           | 1 byte   | Measurement unit (e.g. 0x15 = 21 = grams, 0x4F = 79 = Liter)  |
-| Color1 (RGBA)      | 4 bytes  | Red, Green, Blue, Alpha (1 byte each)           |
-| Color2 (RGB)       | 3 bytes  | Red, Green, Blue (1 byte each)                  |
-| Color3 (RGB)       | 3 bytes  | Red, Green, Blue (1 byte each)                  |
-| TD (Transmission Distance)      | 2 bytes  | Decimal / 10  ( ex: 230 / 10 = 2.3 )                  |
-| Measure           | 3 byte   | Weight in grams , kilo , litter (e.g 1000 )     |
-| Nozzle Temp Min   | 1 byte   | Minimum printing temperature (°C)               |
-| Nozzle Temp Max   | 1 byte   | Maximum printing temperature (°C)               |
-| Dry Temp          | 1 byte   | Drying temperature (°C)                         |
-| Dry Time          | 1 byte   | Drying duration in hours                        |
-| Bed Temp Min      | 1 byte   | Min bed temp (°C), optional                     |
-| Bed Temp Max      | 1 byte   | Max bed temp (°C), optional                     |
-| Time Stamp        | 4 bytes  | Seconds since 01/01/2000 GMT                    |
-| Reserved          | 12 bytes | Reserved for future use                         |
-| Custom Message    | 32 bytes | Free text (UTF-8 or ASCII, max 32 bytes — may include an emoji if the user wants) |
-| Signature (ECDSA) | 64 bytes | Optional digital signature to authenticate data |
+| Page | Byte(s) | Offset | Size | Field | Type | Description |
+| ---- | ------- | ------ | ---- | ----- | ---- | ----------- |
+| `0x04` | `0-3` | `+0` | 4 bytes | ID TigerTag | u32 BE | Format identifier (Init / Offline / Cloud) |
+| `0x05` | `0-3` | `+4` | 4 bytes | ID Product | u32 BE | `0xFFFFFFFF` for Maker offline, else cloud product ID |
+| `0x06` | `0-1` | `+8` | 2 bytes | ID Material | u16 BE | Material type ID (see section 2.3) |
+| `0x06` | `2` | `+10` | 1 byte | ID Aspect 1 | u8 | Primary visual aspect (see section 2.5) |
+| `0x06` | `3` | `+11` | 1 byte | ID Aspect 2 | u8 | Secondary visual aspect (see section 2.5) |
+| `0x07` | `0` | `+12` | 1 byte | ID Type | u8 | `0x8E`=Filament, `0xAD`=Resin (see section 2.6) |
+| `0x07` | `1` | `+13` | 1 byte | ID Diameter | u8 | `0x38`=1.75mm, `0xDD`=2.85mm (see section 2.4) |
+| `0x07` | `2-3` | `+14` | 2 bytes | ID Brand | u16 BE | Manufacturer/Brand ID (see section 2.7) |
+| `0x08` | `0-3` | `+16` | 4 bytes | Color 1 (RGBA) | bytes | Primary color R/G/B/A |
+| `0x09` | `0-2` | `+20` | 3 bytes | Measure | u24 BE | Quantity at manufacturing (see ID Unit) |
+| `0x09` | `3` | `+23` | 1 byte | ID Unit | u8 | Measurement unit (see section 2.8) |
+| `0x0A` | `0-1` | `+24` | 2 bytes | Nozzle Temp Min | u16 BE | Minimum nozzle temperature (°C) |
+| `0x0A` | `2-3` | `+26` | 2 bytes | Nozzle Temp Max | u16 BE | Maximum nozzle temperature (°C) |
+| `0x0B` | `0` | `+28` | 1 byte | Dry Temp | u8 | Drying temperature (°C) |
+| `0x0B` | `1` | `+29` | 1 byte | Dry Time | u8 | Drying duration (hours) |
+| `0x0B` | `2` | `+30` | 1 byte | Bed Temp Min | u8 | Minimum bed temperature (°C) |
+| `0x0B` | `3` | `+31` | 1 byte | Bed Temp Max | u8 | Maximum bed temperature (°C) |
+| `0x0C` | `0-3` | `+32` | 4 bytes | Twin Tag ID & Timestamp | u32 BE | Seconds since 2000-01-01 GMT + twin tag pairing ID (see section 2.9) |
+| `0x0D` | `0-2` | `+36` | 3 bytes | Color 2 (RGB) | bytes | Secondary color R/G/B |
+| `0x0D` | `3` | `+39` | 1 byte | Reserved | u8 | Must be `0x00` |
+| `0x0E` | `0-2` | `+40` | 3 bytes | Color 3 (RGB) | bytes | Tertiary color R/G/B |
+| `0x0E` | `3` | `+43` | 1 byte | Reserved | u8 | Must be `0x00` |
+| `0x0F` | `0-1` | `+44` | 2 bytes | TD (HueForge) | u16 BE | HueForge Transmission Distance × 10 (see section 2.10) |
+| `0x0F` | `2-3` | `+46` | 2 bytes | Reserved | u16 | Must be `0x0000` |
+| `0x10`-`0x16` | all | `+48` | 28 bytes | Custom Message | UTF-8 | Free text up to 28 bytes (emoji allowed) |
+| `0x17` | `0-2` | `+76` | 3 bytes | Measure Available | u24 BE | Remaining quantity (updated by Tiger Scale) |
+| `0x17` | `3` | `+79` | 1 byte | Reserved | u8 | Must be `0x00` |
+| `0x18`-`0x1F` | all | `+80` | 32 bytes | Signature R (ECDSA) | bytes | ECDSA signature part r (optional, see section 3) |
+| `0x20`-`0x27` | all | `+112` | 32 bytes | Signature S (ECDSA) | bytes | ECDSA signature part s (optional, see section 3) |
+
+> **Capacity check** : 80 bytes user data (pages `0x04`-`0x17`) + 64 bytes signature (pages `0x18`-`0x27`) = **144 bytes** = full NTAG213 user memory capacity.
+>
+> **Implementer's note** : the page/byte/offset columns above are normative. Any parser MUST use these exact offsets. The visual mapping in `Images/TigerTag Mapping RFID NXP213.png` is provided for human reference and matches this table.
 
 ---
 
@@ -348,27 +359,26 @@ Without signature verification, anyone could clone a tag. This process protects 
 | ID TigerTag      | 0x5C15E2E4    | 1542820452     | TigerTag V1.0 (Offline)              |
 | Product ID       | 0xFFFFFFFF    | 4294967295     | Maker version, (Always 0xFFFFFFFF)         |
 | Material ID      | 0x954B        | 38219          | PLA                                       |
-| Diameter ID      | 0x38          | 56             | 1.75 mm                                   |
 | Aspect1          | 0x68          | 104            | Basic                                     |
 | Aspect2          | 0x00          | 0              | (none)                                    |
 | Type ID          | 0x8E          | 142            | Filament                                  |
+| Diameter ID      | 0x38          | 56             | 1.75 mm                                   |
 | Brand ID         | 0x4E19        | 19961          | Rosa3D                                    |
-| Unit ID          | 0x15          | 21             | grams                                     |
 | Color RGBA       | 0xFF0000FF    | 4278190335     | Red                                       |
-| Color2 RGB       | 0x00000000    | 0             | Default                                    |
-| Color3 RGB       | 0x00000000.   | 0             | Default                                    |
-| TD               | 0x0000        | 0             | Default                                    |
 | Weight           | 0x0003E8      | 1000           | weight value                              |
-| Temp Min         | 0xC3          | 195            | °C nozzle minimum                         |
-| Temp Max         | 0xE6          | 230            | °C nozzle maximum                         |
+| Unit ID          | 0x15          | 21             | grams                                     |
+| Temp Min         | 0x00C3        | 195            | °C nozzle minimum                         |
+| Temp Max         | 0x00E6        | 230            | °C nozzle maximum                         |
 | Dry Temp         | 0x32          | 50             | °C                                        |
 | Dry Time         | 0x05          | 5              | Time in hours                             |
 | Bed Temp Min     | 0x32          | 50             | °C bed minimum                            |
 | Bed Temp Max     | 0x3C          | 60             | °C bed maximum                            |
 | Timestamp        | 0x66061A5C    | 1711492444     | Encoded as seconds since 01/01/2000 & twin tag ID     |
-| Message          | Starter Red   | Starter Red    | custom user message (32 bytes max, may include emoji) |
-
-
+| Color2 RGB       | 0x00000000    | 0             | Default                                    |
+| Color3 RGB       | 0x00000000.   | 0             | Default                                    |
+| TD               | 0x0000        | 0             | Default                                    |
+| Message          | Starter Red   | Starter Red    | custom user message (28 bytes max, may include emoji) |
+| Measure Available | 0x0003E8      | 1000           | remaining quantity                         |
 ---
 
 ## 4.1 Example: TigerTag+ - Encoded Polymaker PolyTerra Arctic Teal
@@ -378,25 +388,26 @@ Without signature verification, anyone could clone a tag. This process protects 
 | ID TigerTag   | 0x12C4C408   | 315515176     | TigerTag+ V1.0                             |
 | Product ID    | 0x0000000A   | 10            | Online sync enabled product                   |
 | Material ID   | 0x954B       | 38219         | PLA                                           |
-| Diameter ID   | 0x38         | 56            | 1.75 mm                                       |
 | Aspect1       | 0x86         | 134           | Matt                                          |
 | Aspect2       | 0x00         | 0             | (none)                                        |
 | Type ID       | 0x8E         | 142           | Filament                                      |
+| Diameter ID   | 0x38         | 56            | 1.75 mm                                       |
 | Brand ID      | 0xC5DC       | 50652         | Polymaker                                     |
-| Unit ID       | 0x23         | 35            | Kilograms                                     |
 | Color RGBA    | 0x89D9D9FF   | 2310590719    | Arctic Teal (hex color code to RGBA)          |
-| Color2 RGB    | 0x00000000   | 0             | Default                                       |
-| Color3 RGB    | 0x00000000   | 0             | Default                                       |
-| TD            | 0x0000       | 0             | Default                                       |
 | Weight        | 0x0003E8     | 1000          | grams                                         |
-| Temp Min      | 0xBE         | 190           | °C nozzle minimum                             |
-| Temp Max      | 0xF0         | 240           | °C nozzle maximum                             |
+| Unit ID       | 0x23         | 35            | Kilograms                                     |
+| Temp Min      | 0x00BE       | 190           | °C nozzle minimum                             |
+| Temp Max      | 0x00F0       | 240           | °C nozzle maximum                             |
 | Dry Temp      | 0x37         | 55            | °C                                            |
 | Dry Time      | 0x06         | 6             | Time in hours                                 |
 | Bed Temp Min  | 0x23         | 35            | °C bed minimum                                |
 | Bed Temp Max  | 0x41         | 65            | °C bed maximum                                |
 | Timestamp     | 0x66061E90   | 1711493264    | Encoded as seconds since 01/01/2000           |
-| Message       | Private msg  | Private msg   | custom user message (32 bytes max, may include emoji) |
+| Color2 RGB    | 0x00000000   | 0             | Default                                       |
+| Color3 RGB    | 0x00000000   | 0             | Default                                       |
+| TD            | 0x0000       | 0             | Default                                       |
+| Message       | Private msg  | Private msg   | custom user message (28 bytes max, may include emoji) |
+| Measure Available | 0x0003E8     | 1000          | remaining quantity                           |
 | Signature R   | A6B3...D7DA1AA | A6B3...D7DA1AA            | 32-byte ECDSA signature part 1 (r), p24–31    |
 | Signature S   | 91F4...F8AE29CE| 91F4...F8AE29CE  | 32-byte ECDSA signature part 2 (s), p32–39    |
 ---
@@ -416,25 +427,26 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 | ID TigerTag      | 0x6C46A3C1   | 1816240865    | TigerTag Init                              |
 | Product ID       | 0x00000000   | 0             | Default offline value                      |
 | Material ID      | 0x0000       | 0             | Not defined                                |
-| Diameter ID      | 0x00         | 0             | Not defined                                |
 | Aspect1          | 0x00         | 0             | Not defined                                |
 | Aspect2          | 0x00         | 0             | Not defined                                |
 | Type ID          | 0x00         | 0             | Not defined                                |
+| Diameter ID      | 0x00         | 0             | Not defined                                |
 | Brand ID         | 0x0000       | 0             | Not defined                                |
-| Unit ID          | 0x00         | 0             | Not defined                                |
 | Color1 RGBA      | 0x00000000   | 0             | Default                                    |
-| Color2 RGB       | 0x00000000   | 0             | Default                                    |
-| Color3 RGB       | 0x00000000   | 0             | Default                                    |
-| TD               | 0x0000       | 0             | Default                                    |
 | Weight           | 0x000000     | 0             | 0 grams                                    |
-| Temp Min         | 0x00         | 0             | °C nozzle minimum                          |
-| Temp Max         | 0x00         | 0             | °C nozzle maximum                          |
+| Unit ID          | 0x00         | 0             | Not defined                                |
+| Temp Min         | 0x0000       | 0             | °C nozzle minimum                          |
+| Temp Max         | 0x0000       | 0             | °C nozzle maximum                          |
 | Dry Temp         | 0x00         | 0             | °C                                         |
 | Dry Time         | 0x00         | 0             | Time in hours                              |
 | Bed Temp Min     | 0x00         | 0             | °C bed minimum                             |
 | Bed Temp Max     | 0x00         | 0             | °C bed maximum                             |
 | Timestamp        | 0x00000000   | 0             | No timestamp                               |
-| Message          | Unprogrammed | Unprogrammed  | Placeholder message (32 bytes max)         |
+| Color2 RGB       | 0x00000000   | 0             | Default                                    |
+| Color3 RGB       | 0x00000000   | 0             | Default                                    |
+| TD               | 0x0000       | 0             | Default                                    |
+| Message          | Unprogrammed | Unprogrammed  | Placeholder message (28 bytes max)         |
+| Measure Available | 0x000000     | 0             | remaining quantity                          |
 
 ## 5. Commercial License & Trademark Usage
 
@@ -562,6 +574,7 @@ HACS-compatible custom integration that synchronises your TigerTag filament inve
 | Version | Date       | Description           | Author        |
 | ------- | ---------- | --------------------- | ------------- |
 | 1.0     | 2025-06-09 | Initial public format | TigerTag Team |
+| 2.0     | 2026-03-11 | Corrected binary memory layout and NTAG213 capacity alignment | TigerTag Team |
 
 ---
 
