@@ -187,12 +187,42 @@ Drop one of these next to where you want the JSON files and run it — first run
 <a href="https://api.tigertag.io/api:tigertag/aspect/get/all" target="_blank">https://api.tigertag.io/api:tigertag/aspect/get/all</a>
 
 
+
 **Examples:**  
 - `0x15` = `21` → Clear  
 - `0x5C` = `92` → Silk  
 - `0x68` = `104` → Basix  
 - `0x7B` = `123` → Wood  
 - etc.
+
+**Aspect combination and multi-color handling:**
+
+`ID Aspect 1` SHOULD describe the main visual finish or material effect of the filament, such as Basic, Silk, Matt, Wood, Glitter, Carbon, Marble, Pearl, Neon, Pastel, and similar visual properties.
+
+`ID Aspect 2` MAY be used either for an additional visual/material aspect or for the color composition mode. For example, a mono-color filament may use `Aspect 1 = Matt` and `Aspect 2 = Carbon`.
+
+Multi-color behavior is determined by the `color_count` value of the selected aspects. Implementations SHOULD check `ID Aspect 2` first for multi-color modes such as Bicolor, Tricolor, or Rainbow, then fallback to `ID Aspect 1` only if needed.
+
+The `color_count` value from the aspect reference dataset indicates how many colors are expected:
+
+| Aspect label | `color_count` | Recommended display |
+| ------------ | ------------- | ------------------- |
+| Bicolor | 2 | two-color pie chart / split circle |
+| Tricolor | 3 | three-color pie chart / split circle |
+| Rainbow | 3 | left-to-right rainbow gradient |
+
+To avoid contradictory metadata, aspects that define the number or distribution of colors SHOULD NOT be placed in both `ID Aspect 1` and `ID Aspect 2` at the same time.
+
+Recommended usage:
+- `ID Aspect 1` = primary finish / material appearance
+- `ID Aspect 2` = secondary finish / material appearance OR multi-color composition mode
+
+Example:
+- Basic red filament: `Aspect 1 = Basic`, `Aspect 2 = None`
+- Matt carbon filament: `Aspect 1 = Matt`, `Aspect 2 = Carbon`
+- Silk bicolor filament: `Aspect 1 = Silk`, `Aspect 2 = Bicolor`
+- Matt tricolor filament: `Aspect 1 = Matt`, `Aspect 2 = Tricolor`
+- Rainbow filament: `Aspect 1 = Basic` or another finish, `Aspect 2 = Rainbow`
 
 ---
 
@@ -376,7 +406,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Timestamp        | 0x66061A5C    | 1711492444     | Encoded as seconds since 01/01/2000 & twin tag ID     |
 | Color2 RGB       | 0x00000000    | 0             | Default                                    |
 | Color3 RGB       | 0x00000000.   | 0             | Default                                    |
-| TD               | 0x0000        | 0             | Default                                    |
+| TD               | 0x00E6        | 230           | HueForge TD = 23.0                         |
 | Message          | Starter Red   | Starter Red    | custom user message (28 bytes max, may include emoji) |
 | Measure Available | 0x0003E8      | 1000           | remaining quantity                         |
 ---
@@ -405,7 +435,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Timestamp     | 0x66061E90   | 1711493264    | Encoded as seconds since 01/01/2000           |
 | Color2 RGB    | 0x00000000   | 0             | Default                                       |
 | Color3 RGB    | 0x00000000   | 0             | Default                                       |
-| TD            | 0x0000       | 0             | Default                                       |
+| TD            | 0x00FA       | 250           | HueForge TD = 25.0                            |
 | Message       | Private msg  | Private msg   | custom user message (28 bytes max, may include emoji) |
 | Measure Available | 0x0003E8     | 1000          | remaining quantity                           |
 | Signature R   | A6B3...D7DA1AA | A6B3...D7DA1AA            | 32-byte ECDSA signature part 1 (r), p24–31    |
