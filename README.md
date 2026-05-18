@@ -22,6 +22,29 @@ The TigerTag protocol is also compatible with NTAG215 and NTAG216 chips. The bin
 
 All multi-byte values are encoded in **big-endian** format.
 
+### System pages (read-only / manufacturer data)
+
+| Page | Byte(s) | Size | Field | Type | Description |
+| ---- | ------- | ---- | ----- | ---- | ----------- |
+| `0x00` | `0-2` | 3 bytes | UID0-UID2 | bytes | First part of the 7-byte UID, assigned by the chip manufacturer at production |
+| `0x00` | `3` | 1 byte | BCC0 | u8 | UID block check character |
+| `0x01` | `0-3` | 4 bytes | UID3-UID6 | bytes | Second part of the 7-byte UID, assigned by the chip manufacturer at production |
+| `0x02` | `0` | 1 byte | BCC1 | u8 | UID block check character |
+| `0x02` | `1` | 1 byte | Internal | u8 | Manufacturer internal byte |
+| `0x02` | `2-3` | 2 bytes | Lock bytes | bytes | Static lock bytes |
+| `0x03` | `0-3` | 4 bytes | Capability Container | bytes | NFC Type 2 Tag capability container |
+
+> **UID note** : the 7-byte UID is stored in system pages `0x00`-`0x01`. It is read-only, unique per chip, and assigned by the chip manufacturer at production. It is not part of the 144-byte user memory capacity, but it is required for TigerTag signature verification.
+>
+> **UID in practice** : the UID is exposed directly by NFC SDKs as a
+> separate property — it does not need to be extracted from the page dump.
+> All major NFC SDKs (Android NFC, iOS CoreNFC, flutter_nfc_kit, nfcpy,
+> MFRC522, ACR122U) provide it natively alongside the page read.
+> Used as raw bytes in signature verification — not as a hex string or decimal integer.
+> The TigerTag payload always occupies pages 0x04-0x27. Extra pages on NTAG215/216 are unused.
+
+### User memory pages (TigerTag payload)
+
 | Page | Byte(s) | Offset | Size | Field | Type | Description |
 | ---- | ------- | ------ | ---- | ----- | ---- | ----------- |
 | `0x04` | `0-3` | `+0` | 4 bytes | ID TigerTag | u32 BE | Format identifier (Init / Offline / Cloud) |
@@ -345,12 +368,16 @@ A digital signature is like a unique stamp made using a private key. Only the or
 
 #### 2. What Do We Verify?
 
-To check if the tag is authentic, we combine three parts:
-- The tag's unique ID (called UID)
-- The header block (block 4)
-- An extra data block (block 5)
+To check if the tag is authentic, implementations MUST build the signed message from exactly three binary parts:
 
-These are concatenated and hashed using SHA-256.
+- **UID** — 7 raw bytes from system pages: `page0[0:3] + page1[0:4]`  
+  Used as binary bytes — NOT as a hex string, NOT as a decimal integer.
+- **block4** — page `0x04`, bytes 0–3: ID TigerTag (`u32 BE`, 4 bytes)
+- **block5** — page `0x05`, bytes 0–3: ID Product (`u32 BE`, 4 bytes)
+
+Signed message: `SHA-256( UID_bytes + block4 + block5 )` → 15 bytes total.
+
+The public key is stored in `database/id_version.json` under the `public_key` field of the entry matching the tag's `ID TigerTag` value.
 
 #### 3. What is Stored on the Tag?
 
@@ -364,8 +391,8 @@ These are concatenated and hashed using SHA-256.
 2. The UID, block 4, and block 5 are read.
 3. The 64-byte signature (r + s) is read.
 4. The software recreates the message: UID + block4 + block5.
-5. This message is hashed using SHA-256.
-6. The public key (freely available) is used to verify the hash against the signature.
+5. The ECDSA-P256 algorithm signs and verifies using SHA-256 internally.
+6. The public key is used to verify the signature against the message.
 
 ✅ If everything matches, the tag is declared authentic.
 
@@ -386,7 +413,8 @@ Without signature verification, anyone could clone a tag. This process protects 
 
 | Field            | Hex           | Decimal        | Notes                                      |
 | ---------------- | ------------- | -------------- | ------------------------------------------ |
-| ID TigerTag      | 0x5C15E2E4    | 1542820452     | TigerTag V1.0 (Offline)              |
+| UID              | 04 A1 B2 C3 D4 E5 F6 | —              | 7-byte chip UID (pages 0x00-0x01, read-only) |
+| ID TigerTag      | 0x5BF59264    | 1542820452     | TigerTag V1.0 (Offline)              | 
 | Product ID       | 0xFFFFFFFF    | 4294967295     | Maker version, (Always 0xFFFFFFFF)         |
 | Material ID      | 0x954B        | 38219          | PLA                                       |
 | Aspect1          | 0x68          | 104            | Basic                                     |
@@ -395,7 +423,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Diameter ID      | 0x38          | 56             | 1.75 mm                                   |
 | Brand ID         | 0x4E19        | 19961          | Rosa3D                                    |
 | Color RGBA       | 0xFF0000FF    | 4278190335     | Red                                       |
-| Weight           | 0x0003E8      | 1000           | weight value                              |
+| Measure           | 0x0003E8      | 1000           | weight value                              |
 | Unit ID          | 0x15          | 21             | grams                                     |
 | Temp Min         | 0x00C3        | 195            | °C nozzle minimum                         |
 | Temp Max         | 0x00E6        | 230            | °C nozzle maximum                         |
@@ -405,17 +433,20 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Bed Temp Max     | 0x3C          | 60             | °C bed maximum                            |
 | Timestamp        | 0x66061A5C    | 1711492444     | Encoded as seconds since 01/01/2000 & twin tag ID     |
 | Color2 RGB       | 0x00000000    | 0             | Default                                    |
-| Color3 RGB       | 0x00000000.   | 0             | Default                                    |
+| Color3 RGB       | 0x00000000   | 0             | Default                                    |
 | TD               | 0x00E6        | 230           | HueForge TD = 23.0                         |
 | Message          | Starter Red   | Starter Red    | custom user message (28 bytes max, may include emoji) |
 | Measure Available | 0x0003E8      | 1000           | remaining quantity                         |
+
+> ⚠️ The UID is unique per chip and assigned by the chip manufacturer at production. Values shown above are illustrative only.
 ---
 
 ## 4.1 Example: TigerTag+ - Encoded Polymaker PolyTerra Arctic Teal
 
 | Field         | Hex Value    | Decimal Value | Notes                                         |
 | ------------- | ------------ | ------------- | --------------------------------------------- |
-| ID TigerTag   | 0x12C4C408   | 315515176     | TigerTag+ V1.0                             |
+| UID           | 04 11 22 33 44 55 66 | —             | 7-byte chip UID (pages 0x00-0x01, read-only) |
+| ID TigerTag   | 0xBC0FCB97   | 3155151767     | TigerTag+ V1.0                             |
 | Product ID    | 0x0000000A   | 10            | Online sync enabled product                   |
 | Material ID   | 0x954B       | 38219         | PLA                                           |
 | Aspect1       | 0x86         | 134           | Matt                                          |
@@ -424,7 +455,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Diameter ID   | 0x38         | 56            | 1.75 mm                                       |
 | Brand ID      | 0xC5DC       | 50652         | Polymaker                                     |
 | Color RGBA    | 0x89D9D9FF   | 2310590719    | Arctic Teal (hex color code to RGBA)          |
-| Weight        | 0x0003E8     | 1000          | grams                                         |
+| Measure        | 0x0003E8     | 1000          | grams                                         |
 | Unit ID       | 0x23         | 35            | Kilograms                                     |
 | Temp Min      | 0x00BE       | 190           | °C nozzle minimum                             |
 | Temp Max      | 0x00F0       | 240           | °C nozzle maximum                             |
@@ -440,6 +471,8 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Measure Available | 0x0003E8     | 1000          | remaining quantity                           |
 | Signature R   | A6B3...D7DA1AA | A6B3...D7DA1AA            | 32-byte ECDSA signature part 1 (r), p24–31    |
 | Signature S   | 91F4...F8AE29CE| 91F4...F8AE29CE  | 32-byte ECDSA signature part 2 (s), p32–39    |
+
+> ⚠️ The UID is unique per chip and assigned by the chip manufacturer at production. Values shown above are illustrative only.
 ---
 Use the `public_key` together with the UID, block 4, and block 5 to verify the authenticity of a TigerTag. For details, see <a href="#4-verify-signature">Section 4: Verify Signature</a> and the sample code in `verify_signature.py`.
 
@@ -454,7 +487,8 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 
 | Field            | Hex Value    | Decimal Value | Notes                                      |
 | ---------------- | ------------ | ------------- | ------------------------------------------ |
-| ID TigerTag      | 0x6C46A3C1   | 1816240865    | TigerTag Init                              |
+| UID              | 04 A0 B1 C2 D3 E4 F5 | —             | 7-byte chip UID (pages 0x00-0x01, read-only) |
+| ID TigerTag      | 0x6C41A2E1   | 1816240865    | TigerTag Init                              |
 | Product ID       | 0x00000000   | 0             | Default offline value                      |
 | Material ID      | 0x0000       | 0             | Not defined                                |
 | Aspect1          | 0x00         | 0             | Not defined                                |
@@ -463,7 +497,7 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 | Diameter ID      | 0x00         | 0             | Not defined                                |
 | Brand ID         | 0x0000       | 0             | Not defined                                |
 | Color1 RGBA      | 0x00000000   | 0             | Default                                    |
-| Weight           | 0x000000     | 0             | 0 grams                                    |
+| Measure           | 0x000000     | 0             | 0 grams                                    |
 | Unit ID          | 0x00         | 0             | Not defined                                |
 | Temp Min         | 0x0000       | 0             | °C nozzle minimum                          |
 | Temp Max         | 0x0000       | 0             | °C nozzle maximum                          |
@@ -477,6 +511,8 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 | TD               | 0x0000       | 0             | Default                                    |
 | Message          | Unprogrammed | Unprogrammed  | Placeholder message (28 bytes max)         |
 | Measure Available | 0x000000     | 0             | remaining quantity                          |
+
+> ⚠️ The UID is unique per chip and assigned by the chip manufacturer at production. Values shown above are illustrative only.
 
 ## 5. Commercial License & Trademark Usage
 
@@ -605,6 +641,7 @@ HACS-compatible custom integration that synchronises your TigerTag filament inve
 | ------- | ---------- | --------------------- | ------------- |
 | 1.0     | 2025-06-09 | Initial public format | TigerTag Team |
 | 2.0     | 2026-03-11 | Corrected binary memory layout and NTAG213 capacity alignment | TigerTag Team |
+| 2.1 | 2026-05-18 | Add UID documentation, system pages layout, fix example hex values | TigerTag Team |
 
 ---
 
