@@ -435,7 +435,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Dry Time         | 0x05          | 5              | Time in hours                             |
 | Bed Temp Min     | 0x32          | 50             | °C bed minimum                            |
 | Bed Temp Max     | 0x3C          | 60             | °C bed maximum                            |
-| Timestamp        | 0x66061A5C    | 1711492444     | Encoded as seconds since 01/01/2000 & twin tag ID     |
+| Timestamp        | 0x2F7A0A5C    | 796527196      | Encoded as seconds since 01/01/2000 GMT (~2025-03-29 01:33:16 UTC) & twin tag ID |
 | Color2 RGB       | 0x00000000    | 0             | Default                                    |
 | Color3 RGB       | 0x00000000   | 0             | Default                                    |
 | TD               | 0x00E6        | 230           | HueForge TD = 23.0                         |
@@ -467,7 +467,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Dry Time      | 0x06         | 6             | Time in hours                                 |
 | Bed Temp Min  | 0x23         | 35            | °C bed minimum                                |
 | Bed Temp Max  | 0x41         | 65            | °C bed maximum                                |
-| Timestamp     | 0x66061E90   | 1711493264    | Encoded as seconds since 01/01/2000           |
+| Timestamp     | 0x2F7A0E90   | 796528272     | Encoded as seconds since 01/01/2000 GMT (~2025-03-29 01:51:12 UTC) |
 | Color2 RGB    | 0x00000000   | 0             | Default                                       |
 | Color3 RGB    | 0x00000000   | 0             | Default                                       |
 | TD            | 0x00FA       | 250           | HueForge TD = 25.0                            |
