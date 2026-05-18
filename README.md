@@ -136,6 +136,8 @@ Drop one of these next to where you want the JSON files and run it — first run
 
 ## 2.1 ID TigerTag
 
+The `ID TigerTag` field acts as a **magic number** / **protocol identifier** used to detect the TigerTag protocol variant stored on the chip.
+
 **GitHub Json**  
 <a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/id_version.json" target="_blank">View JSON reference on GitHub</a>
 
@@ -146,8 +148,10 @@ Drop one of these next to where you want the JSON files and run it — first run
 
 **Examples:**  
 - `0x6C41A2E1` = `1816240865` → TigerTag Init (Initialized)  
-- `0x5BF59264` = `1542820452` → TigerTag (100% Offline)  
-- `0xBC0FCB97` = `3155151767` → TigerTag+ (100% Offline + Optional Cloud)
+- `0x5BF59264` = `1542820452` → TigerTag  
+- `0xBC0FCB97` = `3155151767` → TigerTag+ ("TigerTag" + "Optional Cloud" <- only made by Filament Manufactured)
+
+**Naming note:** `TigerTag`, `TigerTag+`, and `TigerTag Init` are the canonical protocol names. `Offline` describes the operating mode of standard TigerTag tags, but it is not the protocol name and MUST NOT be used as a replacement label for `TigerTag`.
 
 ---
 
@@ -414,7 +418,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Field            | Hex           | Decimal        | Notes                                      |
 | ---------------- | ------------- | -------------- | ------------------------------------------ |
 | UID              | 04 A1 B2 C3 D4 E5 F6 | —              | 7-byte chip UID (pages 0x00-0x01, read-only) |
-| ID TigerTag      | 0x5BF59264    | 1542820452     | TigerTag V1.0 (Offline)              | 
+| ID TigerTag      | 0x5BF59264    | 1542820452     | TigerTag V1.0                         | 
 | Product ID       | 0xFFFFFFFF    | 4294967295     | Maker version, (Always 0xFFFFFFFF)         |
 | Material ID      | 0x954B        | 38219          | PLA                                       |
 | Aspect1          | 0x68          | 104            | Basic                                     |
@@ -446,7 +450,7 @@ Without signature verification, anyone could clone a tag. This process protects 
 | Field         | Hex Value    | Decimal Value | Notes                                         |
 | ------------- | ------------ | ------------- | --------------------------------------------- |
 | UID           | 04 11 22 33 44 55 66 | —             | 7-byte chip UID (pages 0x00-0x01, read-only) |
-| ID TigerTag   | 0xBC0FCB97   | 3155151767     | TigerTag+ V1.0                             |
+| ID TigerTag   | 0xBC0FCB97   | 3155151767    | TigerTag+ V1.0                            |
 | Product ID    | 0x0000000A   | 10            | Online sync enabled product                   |
 | Material ID   | 0x954B       | 38219         | PLA                                           |
 | Aspect1       | 0x86         | 134           | Matt                                          |
