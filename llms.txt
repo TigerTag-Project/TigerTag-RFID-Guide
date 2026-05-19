@@ -163,6 +163,126 @@ open-source projects are all covered for free by the GPLv3 path.
 
 ---
 
+## PYTHON SDK
+
+The official Python SDK for the TigerTag protocol.
+
+Repository:  https://github.com/TigerTag-Project/TigerTag-SDK-Python
+Install:     pip install tigertag           # offline core — zero deps
+             pip install tigertag[full]     # + ECDSA verify + DB sync
+Version:     1.1.0 — Production/Stable
+Python:      3.8, 3.9, 3.10, 3.11, 3.12
+License:     GPLv3
+
+### Zero-dependency offline design
+
+The core package ships with a bundled copy of every reference JSON
+(id_material, id_brand, id_aspect, id_type, id_diameter,
+id_measure_unit, id_version, last_update). It works fully offline from
+the first install. The optional extras add:
+  - cryptography>=41.0  for ECDSA-P256 signature verification
+  - requests>=2.28      for live database sync from the API / GitHub
+
+Both extras degrade gracefully: missing cryptography → SignatureResult
+returns NO_CRYPTO (not a crash); missing requests → install instructions
+are printed.
+
+### Main classes and methods
+
+class TigerTag (dataclass):
+  Constructors:
+    TigerTag.from_pages(payload: bytes, uid: bytes, db=None) -> TigerTag
+      Primary NFC SDK integration point. payload = 80 or 144 bytes
+      from pages 0x04–0x27. uid = 7-byte chip UID.
+    TigerTag.from_dump(data: bytes, db=None) -> TigerTag
+      Accepts 80 B (data only), 144 B (data + signature), or 180 B
+      (full chip dump — UID auto-extracted from system pages).
+    TigerTag.from_file(path, db=None) -> TigerTag
+    TigerTag.create(**kwargs) -> TigerTag
+      Creates a new tag from field values. Auto-selects id_tigertag
+      based on product_id (0xFFFFFFFF → TigerTag, else TigerTag+).
+    TigerTag.as_init(uid=None) -> TigerTag
+      Returns a TigerTag Init placeholder (all-zero fields).
+    TigerTag.erase() -> bytes
+      Returns 80 zero bytes to wipe a chip back to blank NDEF.
+
+  Read / output:
+    tag.to_bytes(include_signature=False) -> bytes   (80 or 144 B)
+    tag.to_dict(db=None) -> dict     fully resolved (labels, dates, units)
+    tag.to_raw_dict() -> dict        raw integers, no label lookup
+    tag.pretty(db=None) -> str       Unicode box-drawing human summary
+    tag.describe(db=None) -> str     one-paragraph LLM-ready description
+
+  Validation and verification:
+    tag.validate() -> List[str]      sanity checks; empty = clean
+    tag.verify(db=None) -> SignatureResult   100% offline ECDSA verify
+
+  Write (immutable — each call returns a new TigerTag):
+    tag.patch(**kwargs) -> TigerTag  surgical field update
+    Protected fields (id_tigertag, id_product, uid, signature_r/s)
+    cannot be patched — raises ValueError.
+
+  Cloud sync (TigerTag+ only):
+    tag.raw_api(timeout=5) -> Optional[dict]   fetch live cloud data
+    tag.diff_api(api_data=None) -> List[ApiDiff]
+    tag.patch_from_api(api_data=None) -> Tuple[TigerTag, List[ApiDiff]]
+
+  Useful properties:
+    is_maker | is_init | is_signed | uid_hex | td_value (float)
+    manufacturing_date (datetime, UTC) | color1_hex / color2_hex / color3_hex
+    stock_percent | product_page_url | api_url
+
+class SignatureResult:
+  Statuses: VALID | INVALID | UNSIGNED | NO_CRYPTO | NO_KEY | NO_UID
+  ok (bool) — True only when VALID
+  detail (str) — human-readable explanation
+  to_dict() -> dict
+
+class ApiDiff:
+  field (str) | chip_value (Any) | api_value (Any)
+
+class TigerTagDB:
+  Lookup by numeric ID: version() | material() | aspect() | type_()
+                        diameter() | brand() | unit()
+  TigerTagDB.label(entry) -> str   safe label extraction
+  db.sync(force=False) -> List[str]
+
+def sync_databases(db_path, force=False, verbose=True) -> List[str]
+  Syncs from live API first, GitHub mirror as fallback.
+
+### Signed message construction
+
+SHA-256( uid_bytes[7] + id_tigertag_bytes[4 BE] + id_product_bytes[4 BE] )
+The public key for each variant lives in id_version.json under
+public_key for the entry whose id_version matches the chip's ID TigerTag.
+
+### CLI
+
+tigertag dump.bin              # parse + human-readable output
+tigertag dump.bin --json       # JSON output (fully resolved)
+tigertag dump.bin --raw        # raw integer fields, no DB lookup
+tigertag --sync-only           # update bundled databases only
+tigertag --db PATH             # use a custom database folder
+
+### Interactive playground
+
+python3 tools/server.py 7432
+Opens a 3-column browser UI (parse / preview / diff) at localhost:7432.
+
+### Bundled fixture binary files
+
+Real chip dumps for offline integration testing, in fixtures/:
+  tigertag_full_dump.bin       — 180-byte full dump (UID in system pages)
+  tigertag_pla_rosa3d.bin      — Rosa3D Red PLA
+  tigertag_petg_bambu_silk.bin — Bambu PETG Silk
+  tigertag_pla_bicolor.bin     — bicolor PLA
+  tigertag_resin_generic.bin   — generic resin
+  tigertag_plus_bambu.bin      — TigerTag+ with ECDSA signature
+  tigertag_low_stock.bin       — spool with measure_available < measure
+  tigertag_init.bin            — blank initialization tag
+
+---
+
 ## BRAND ASSETS / PRESS KIT
 
 The canonical official TigerTag brand assets live in the `brand/`
