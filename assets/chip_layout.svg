@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>TigerTag chip memory layout — pages 0x04 to 0x27 (144 bytes)</title>
+  <desc>Color-coded byte map of the TigerTag RFID payload. Orange: header. Blue: material. Pink: colors and HueForge TD. Green: print settings. Purple: metadata. Cyan: quantity. Gray: ECDSA-P256 signature.</desc>
+
+  <defs>
+    <style>
+      .page-label  { font-size: 13px; fill: #1a1a1a; font-weight: 600; }
+      .byte-label  { font-size: 11px; fill: #1a1a1a; }
+      .field-label { font-size: 12px; fill: #ffffff; font-weight: 600; }
+      .field-sub   { font-size: 10px; fill: #ffffff; opacity: 0.9; }
+      .title       { font-size: 22px; fill: #0e0e0e; font-weight: 700; }
+      .subtitle    { font-size: 13px; fill: #4a4a4a; }
+      .legend-text { font-size: 12px; fill: #1a1a1a; }
+      .legend-head { font-size: 13px; fill: #1a1a1a; font-weight: 700; }
+      .axis        { font-size: 11px; fill: #555555; }
+    </style>
+  </defs>
+
+  <!-- Header -->
+  <text x="40" y="40" class="title">TigerTag chip memory layout</text>
+  <text x="40" y="62" class="subtitle">Pages 0x04 to 0x27 — 144 bytes — NTAG21x user memory — ISO 14443-3 compatible</text>
+
+  <!-- Column header (byte index 0..3) -->
+  <text x="120" y="100" class="axis">byte 0</text>
+  <text x="200" y="100" class="axis">byte 1</text>
+  <text x="280" y="100" class="axis">byte 2</text>
+  <text x="360" y="100" class="axis">byte 3</text>
+  <text x="500" y="100" class="axis" font-weight="600">Field</text>
+
+  <!-- Geometry: each row = one page, 32 px high. 36 pages = 0x04..0x27. Origin y=110. -->
+  <!-- Cell width 76px, gap 4px, starting at x=110. -->
+
+  <!-- Page 0x04 - ID TigerTag (Orange, full row) -->
+  <rect x="110" y="110" width="316" height="28" fill="#F39C12" rx="3"/>
+  <text x="40"  y="129" class="page-label">0x04</text>
+  <text x="268" y="129" class="field-label" text-anchor="middle">ID TigerTag — u32 BE</text>
+  <text x="450" y="129" class="byte-label">Protocol magic (TigerTag / TigerTag+ / TigerTag Init)</text>
+
+  <!-- Page 0x05 - ID Product (Orange, full row) -->
+  <rect x="110" y="142" width="316" height="28" fill="#F39C12" rx="3"/>
+  <text x="40"  y="161" class="page-label">0x05</text>
+  <text x="268" y="161" class="field-label" text-anchor="middle">ID Product — u32 BE</text>
+  <text x="450" y="161" class="byte-label">0xFFFFFFFF for standard TigerTag, else TigerTag+ product ID</text>
+
+  <!-- Page 0x06 - Material(2) + Aspect1 + Aspect2 (Blue) -->
+  <rect x="110" y="174" width="156" height="28" fill="#2E86DE" rx="3"/>
+  <rect x="270" y="174" width="76"  height="28" fill="#2E86DE" rx="3"/>
+  <rect x="350" y="174" width="76"  height="28" fill="#2E86DE" rx="3"/>
+  <text x="40"  y="193" class="page-label">0x06</text>
+  <text x="188" y="193" class="field-label" text-anchor="middle">ID Material — u16 BE</text>
+  <text x="308" y="193" class="field-label" text-anchor="middle">Aspect 1</text>
+  <text x="388" y="193" class="field-label" text-anchor="middle">Aspect 2</text>
+  <text x="450" y="193" class="byte-label">Material / primary finish / secondary finish or multi-color mode</text>
+
+  <!-- Page 0x07 - Type + Diameter + Brand(2) (Blue) -->
+  <rect x="110" y="206" width="76"  height="28" fill="#2E86DE" rx="3"/>
+  <rect x="190" y="206" width="76"  height="28" fill="#2E86DE" rx="3"/>
+  <rect x="270" y="206" width="156" height="28" fill="#2E86DE" rx="3"/>
+  <text x="40"  y="225" class="page-label">0x07</text>
+  <text x="148" y="225" class="field-label" text-anchor="middle">Type</text>
+  <text x="228" y="225" class="field-label" text-anchor="middle">Diameter</text>
+  <text x="348" y="225" class="field-label" text-anchor="middle">ID Brand — u16 BE</text>
+  <text x="450" y="225" class="byte-label">Filament/Resin · 1.75/2.85 mm · eSun, Rosa3D, Sunlu, R3D, Landu…</text>
+
+  <!-- Page 0x08 - Color1 RGBA (Pink) -->
+  <rect x="110" y="238" width="316" height="28" fill="#E84393" rx="3"/>
+  <text x="40"  y="257" class="page-label">0x08</text>
+  <text x="268" y="257" class="field-label" text-anchor="middle">Color 1 — R · G · B · A</text>
+  <text x="450" y="257" class="byte-label">Primary color (RGBA)</text>
+
+  <!-- Page 0x09 - Measure(3) + Unit (Cyan) -->
+  <rect x="110" y="270" width="236" height="28" fill="#17C0EB" rx="3"/>
+  <rect x="350" y="270" width="76"  height="28" fill="#17C0EB" rx="3"/>
+  <text x="40"  y="289" class="page-label">0x09</text>
+  <text x="228" y="289" class="field-label" text-anchor="middle">Measure — u24 BE</text>
+  <text x="388" y="289" class="field-label" text-anchor="middle">Unit</text>
+  <text x="450" y="289" class="byte-label">Quantity at manufacturing + unit (g, kg, L, cl…)</text>
+
+  <!-- Page 0x0A - Nozzle Temp Min/Max (Green) -->
+  <rect x="110" y="302" width="156" height="28" fill="#27AE60" rx="3"/>
+  <rect x="270" y="302" width="156" height="28" fill="#27AE60" rx="3"/>
+  <text x="40"  y="321" class="page-label">0x0A</text>
+  <text x="188" y="321" class="field-label" text-anchor="middle">Nozzle Temp Min — u16 BE</text>
+  <text x="348" y="321" class="field-label" text-anchor="middle">Nozzle Temp Max — u16 BE</text>
+  <text x="450" y="321" class="byte-label">Nozzle temperature range (°C)</text>
+
+  <!-- Page 0x0B - Dry Temp + Dry Time + Bed Min + Bed Max (Green) -->
+  <rect x="110" y="334" width="76" height="28" fill="#27AE60" rx="3"/>
+  <rect x="190" y="334" width="76" height="28" fill="#27AE60" rx="3"/>
+  <rect x="270" y="334" width="76" height="28" fill="#27AE60" rx="3"/>
+  <rect x="350" y="334" width="76" height="28" fill="#27AE60" rx="3"/>
+  <text x="40"  y="353" class="page-label">0x0B</text>
+  <text x="148" y="353" class="field-label" text-anchor="middle">Dry T</text>
+  <text x="228" y="353" class="field-label" text-anchor="middle">Dry h</text>
+  <text x="308" y="353" class="field-label" text-anchor="middle">Bed min</text>
+  <text x="388" y="353" class="field-label" text-anchor="middle">Bed max</text>
+  <text x="450" y="353" class="byte-label">Drying + bed temperature window</text>
+
+  <!-- Page 0x0C - Timestamp / Twin tag ID (Purple) -->
+  <rect x="110" y="366" width="316" height="28" fill="#8E44AD" rx="3"/>
+  <text x="40"  y="385" class="page-label">0x0C</text>
+  <text x="268" y="385" class="field-label" text-anchor="middle">Timestamp + Twin Tag ID — u32 BE</text>
+  <text x="450" y="385" class="byte-label">Seconds since 2000-01-01 GMT, shared by paired left/right tags</text>
+
+  <!-- Page 0x0D - Color2 RGB + reserved (Pink) -->
+  <rect x="110" y="398" width="236" height="28" fill="#E84393" rx="3"/>
+  <rect x="350" y="398" width="76" height="28" fill="#bbbbbb" rx="3"/>
+  <text x="40"  y="417" class="page-label">0x0D</text>
+  <text x="228" y="417" class="field-label" text-anchor="middle">Color 2 — R · G · B</text>
+  <text x="388" y="417" class="field-label" text-anchor="middle" fill="#1a1a1a">rsv</text>
+  <text x="450" y="417" class="byte-label">Secondary color for bicolor / tricolor spools</text>
+
+  <!-- Page 0x0E - Color3 RGB + reserved (Pink) -->
+  <rect x="110" y="430" width="236" height="28" fill="#E84393" rx="3"/>
+  <rect x="350" y="430" width="76" height="28" fill="#bbbbbb" rx="3"/>
+  <text x="40"  y="449" class="page-label">0x0E</text>
+  <text x="228" y="449" class="field-label" text-anchor="middle">Color 3 — R · G · B</text>
+  <text x="388" y="449" class="field-label" text-anchor="middle" fill="#1a1a1a">rsv</text>
+  <text x="450" y="449" class="byte-label">Tertiary color for tricolor / rainbow spools</text>
+
+  <!-- Page 0x0F - HueForge TD + reserved (Pink) -->
+  <rect x="110" y="462" width="156" height="28" fill="#E84393" rx="3"/>
+  <rect x="270" y="462" width="156" height="28" fill="#bbbbbb" rx="3"/>
+  <text x="40"  y="481" class="page-label">0x0F</text>
+  <text x="188" y="481" class="field-label" text-anchor="middle">HueForge TD — u16 BE</text>
+  <text x="348" y="481" class="field-label" text-anchor="middle" fill="#1a1a1a">reserved</text>
+  <text x="450" y="481" class="byte-label">HueForge Transmission Distance × 10 — native integration</text>
+
+  <!-- Pages 0x10–0x16 - Custom Message 28 bytes (Purple) -->
+  <rect x="110" y="494" width="316" height="60" fill="#8E44AD" rx="3"/>
+  <text x="40"  y="518" class="page-label">0x10</text>
+  <text x="40"  y="538" class="page-label">…</text>
+  <text x="40"  y="554" class="page-label">0x16</text>
+  <text x="268" y="520" class="field-label" text-anchor="middle">Custom Message — UTF-8, 28 bytes</text>
+  <text x="268" y="540" class="field-sub"   text-anchor="middle">free text, emoji allowed</text>
+  <text x="450" y="528" class="byte-label">User-defined message (also used for batch / lot codes)</text>
+
+  <!-- Page 0x17 - Measure Available + reserved (Cyan) -->
+  <rect x="110" y="558" width="236" height="28" fill="#17C0EB" rx="3"/>
+  <rect x="350" y="558" width="76"  height="28" fill="#bbbbbb" rx="3"/>
+  <text x="40"  y="577" class="page-label">0x17</text>
+  <text x="228" y="577" class="field-label" text-anchor="middle">Measure Available — u24 BE</text>
+  <text x="388" y="577" class="field-label" text-anchor="middle" fill="#1a1a1a">rsv</text>
+  <text x="450" y="577" class="byte-label">Remaining quantity, live-updated by Tiger Scale</text>
+
+  <!-- Pages 0x18–0x1F - Signature R (Gray) -->
+  <rect x="110" y="590" width="316" height="40" fill="#7f8c8d" rx="3"/>
+  <text x="40"  y="606" class="page-label">0x18</text>
+  <text x="40"  y="624" class="page-label">…0x1F</text>
+  <text x="268" y="610" class="field-label" text-anchor="middle">Signature R — 32 bytes</text>
+  <text x="268" y="624" class="field-sub"   text-anchor="middle">ECDSA-P256 (optional)</text>
+  <text x="450" y="615" class="byte-label">Cryptographic proof — verifiable 100% offline</text>
+
+  <!-- Pages 0x20–0x27 - Signature S (Gray) -->
+  <rect x="110" y="634" width="316" height="40" fill="#7f8c8d" rx="3"/>
+  <text x="40"  y="650" class="page-label">0x20</text>
+  <text x="40"  y="668" class="page-label">…0x27</text>
+  <text x="268" y="654" class="field-label" text-anchor="middle">Signature S — 32 bytes</text>
+  <text x="268" y="668" class="field-sub"   text-anchor="middle">ECDSA-P256 (optional)</text>
+  <text x="450" y="659" class="byte-label">No server required — public key shipped with the protocol</text>
+
+  <!-- Legend -->
+  <text x="720" y="100" class="legend-head">Legend</text>
+
+  <rect x="720" y="115" width="18" height="18" fill="#F39C12" rx="2"/>
+  <text x="746" y="129" class="legend-text">Header (ID TigerTag, ID Product)</text>
+
+  <rect x="720" y="140" width="18" height="18" fill="#2E86DE" rx="2"/>
+  <text x="746" y="154" class="legend-text">Material (Material, Aspect, Type, Diameter, Brand)</text>
+
+  <rect x="720" y="165" width="18" height="18" fill="#E84393" rx="2"/>
+  <text x="746" y="179" class="legend-text">Colors + HueForge TD</text>
+
+  <rect x="720" y="190" width="18" height="18" fill="#27AE60" rx="2"/>
+  <text x="746" y="204" class="legend-text">Print settings (Nozzle, Dry, Bed)</text>
+
+  <rect x="720" y="215" width="18" height="18" fill="#8E44AD" rx="2"/>
+  <text x="746" y="229" class="legend-text">Metadata (Timestamp, Custom message)</text>
+
+  <rect x="720" y="240" width="18" height="18" fill="#17C0EB" rx="2"/>
+  <text x="746" y="254" class="legend-text">Quantity (Measure, Measure Available)</text>
+
+  <rect x="720" y="265" width="18" height="18" fill="#7f8c8d" rx="2"/>
+  <text x="746" y="279" class="legend-text">Signature ECDSA-P256 (R + S, 64 bytes optional)</text>
+
+  <rect x="720" y="290" width="18" height="18" fill="#bbbbbb" rx="2"/>
+  <text x="746" y="304" class="legend-text">Reserved bytes (must be 0x00)</text>
+
+  <!-- Footer / capacity check -->
+  <text x="720" y="350" class="legend-head">Capacity</text>
+  <text x="720" y="370" class="legend-text">80 bytes user data (0x04–0x17)</text>
+  <text x="720" y="388" class="legend-text">+ 64 bytes signature (0x18–0x27)</text>
+  <text x="720" y="406" class="legend-text">= 144 bytes total user memory</text>
+
+  <text x="720" y="440" class="legend-head">Key properties</text>
+  <text x="720" y="460" class="legend-text">• EXCLUSIVE: ECDSA-P256, offline verify</text>
+  <text x="720" y="478" class="legend-text">• EXCLUSIVE: chip never write-locked</text>
+  <text x="720" y="496" class="legend-text">• EXCLUSIVE: remote update via TigerTag+</text>
+  <text x="720" y="514" class="legend-text">• EXCLUSIVE: HueForge TD native</text>
+  <text x="720" y="532" class="legend-text">• Open source, GPLv3, free for users</text>
+
+  <text x="720" y="670" class="axis">tigertag.io · api.tigertag.io/api:tigertag</text>
+</svg>
