@@ -1,4 +1,20 @@
-# TigerTag — open RFID protocol for material identification
+<p align="center">
+  <a href="https://tigertag.io">
+    <img src="brand/TigerTag_Banner.png" alt="TigerTag — open RFID protocol for material identification" width="100%">
+  </a>
+</p>
+
+<h1 align="center">TigerTag — open RFID protocol for material identification</h1>
+
+<p align="center">
+  <a href="https://tigertag.io">tigertag.io</a>
+  ·
+  <a href="https://api.tigertag.io/api:tigertag">Public API</a>
+  ·
+  <a href="#5-ecosystem--official-tools-and-hardware">Ecosystem</a>
+  ·
+  <a href="#press-kit--brand-assets">Press kit</a>
+</p>
 
 [![Protocol](https://img.shields.io/badge/protocol-v2.1-orange)](#7-version-history)
 [![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE.md)
@@ -38,6 +54,12 @@ largest independent filament and resin brands.
 | Official mobile apps                  | TigerTag RFID Connect — free on iOS and Android                                 |
 | DIY hardware                          | Tiger Scale (open-source ESP32 scale, ~30 € BoM)                                |
 | Plug-and-play hardware                | TigerTag Pod (NFC reader / writer)                                              |
+
+<p align="center">
+  <img src="brand/TigerScale_Photo.png" alt="Tiger Scale — open-source ESP32 smart scale that reads the TigerTag, weighs the spool, and writes the remaining quantity back to the chip in real time" width="640">
+  <br>
+  <sub><em>Tiger Scale — open-source ESP32 smart scale, ~30 € BoM, identifies and weighs a TigerTag spool in real time.</em></sub>
+</p>
 
 ---
 
@@ -695,6 +717,20 @@ the project website is <https://tigertag.io>.
 
 Desktop application for **Windows, macOS, and Linux** that manages your 3D-printing filament inventory. It reads RFID spool tags through an ACR122U NFC reader, tracks remaining weight, and surfaces print temperatures, MSDS/TDS links, and product details. Auto-updates via GitHub Releases.
 
+<p align="center">
+  <a href="https://github.com/TigerTag-Project/TigerTag-Studio-Manager/releases/latest">
+    <img src="brand/download_windows.svg" alt="Download TigerTag Studio Manager for Windows" height="56">
+  </a>
+  &nbsp;
+  <a href="https://github.com/TigerTag-Project/TigerTag-Studio-Manager/releases/latest">
+    <img src="brand/download_macos.svg" alt="Download TigerTag Studio Manager for macOS" height="56">
+  </a>
+  &nbsp;
+  <a href="https://github.com/TigerTag-Project/TigerTag-Studio-Manager/releases/latest">
+    <img src="brand/download_linux.svg" alt="Download TigerTag Studio Manager for Linux" height="56">
+  </a>
+</p>
+
 🔗 [TigerTag-Project/TigerTag-Studio-Manager](https://github.com/TigerTag-Project/TigerTag-Studio-Manager) — built with Electron.
 
 ### 5.2 Tiger Scale (open source)
@@ -747,6 +783,42 @@ Custom and repackaged firmware for the **Snapmaker U1** 3D printer, adding debug
 HACS-compatible custom integration that synchronises your TigerTag filament inventory into **Home Assistant**: sensors and number entities per spool, custom Lovelace card, twin-tag deduplication, rack/level/position assignment, optional integration with [ha-bambulab](https://github.com/greghesp/ha-bambulab) to push filament configuration to a Bambu Lab AMS.
 
 🔗 [Kenny3231/TigerTag](https://github.com/Kenny3231/TigerTag) — author: [@Kenny3231](https://github.com/Kenny3231). Per its own README, this is a community project **not officially affiliated with TigerTag Project**.
+
+---
+
+## Press kit & brand assets
+
+Logos, banner, app icons, and OS download buttons are gathered in the
+[`brand/`](brand/) folder of this repository. They are the **canonical
+official assets** for TigerTag and may be used by journalists, partners,
+integrators, and slicer / printer projects that ship native TigerTag
+support — within the [logo usage guidelines](#c-logo-usage-guidelines)
+of section 8.
+
+<p align="center">
+  <img src="brand/logo_tigertag.svg" alt="TigerTag logo (vector)" height="120">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="brand/TigerTag_Logo.png" alt="TigerTag logo (raster)" height="120">
+</p>
+
+| Asset                            | Format     | Preview                                                                                          | File                                                                  |
+| -------------------------------- | ---------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| TigerTag logo (vector)           | SVG        | <img src="brand/logo_tigertag.svg" alt="logo SVG" height="40">                                   | [`brand/logo_tigertag.svg`](brand/logo_tigertag.svg)                  |
+| TigerTag logo with contour       | SVG        | <img src="brand/logo_tigertag_contouring.svg" alt="logo contour SVG" height="40">                | [`brand/logo_tigertag_contouring.svg`](brand/logo_tigertag_contouring.svg) |
+| TigerTag logo (raster)           | PNG        | <img src="brand/TigerTag_Logo.png" alt="logo PNG" height="40">                                   | [`brand/TigerTag_Logo.png`](brand/TigerTag_Logo.png)                  |
+| Repository / project banner      | PNG        | <img src="brand/TigerTag_Banner.png" alt="banner" height="48">                                   | [`brand/TigerTag_Banner.png`](brand/TigerTag_Banner.png)              |
+| App icon — generic               | PNG (1024) | <img src="brand/icon.png" alt="icon PNG" height="40">                                            | [`brand/icon.png`](brand/icon.png)                                    |
+| App icon — Windows               | ICO        | —                                                                                                | [`brand/icon.ico`](brand/icon.ico)                                    |
+| App icon — macOS                 | ICNS       | —                                                                                                | [`brand/icon.icns`](brand/icon.icns)                                  |
+| "Download" button — Windows      | SVG        | <img src="brand/download_windows.svg" alt="download windows" height="36">                        | [`brand/download_windows.svg`](brand/download_windows.svg)            |
+| "Download" button — macOS        | SVG        | <img src="brand/download_macos.svg" alt="download macos" height="36">                            | [`brand/download_macos.svg`](brand/download_macos.svg)                |
+| "Download" button — Linux        | SVG        | <img src="brand/download_linux.svg" alt="download linux" height="36">                            | [`brand/download_linux.svg`](brand/download_linux.svg)                |
+| Tiger Scale — hardware photo     | PNG        | <img src="brand/TigerScale_Photo.png" alt="Tiger Scale photo" height="48">                       | [`brand/TigerScale_Photo.png`](brand/TigerScale_Photo.png)            |
+
+**Usage in one line:** clone or download the file you need, do not
+modify the logo, and do not use the TigerTag name or logo inside a
+product or app name. Full rules are in
+[section 8.C — Logo usage guidelines](#c-logo-usage-guidelines).
 
 ---
 
@@ -897,6 +969,18 @@ Community integrations:
 - OpenRFID: https://github.com/suchmememanyskill/OpenRFID
 - Home Assistant: https://github.com/Kenny3231/TigerTag
 - Snapmaker U1 firmware: https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware
+
+## BRAND ASSETS
+Canonical official assets live in brand/:
+- brand/logo_tigertag.svg            — primary logo (vector)
+- brand/logo_tigertag_contouring.svg — logo with contour
+- brand/TigerTag_Logo.png            — raster logo
+- brand/TigerTag_Banner.png          — repository banner
+- brand/icon.png / icon.ico / icon.icns — app icons
+- brand/download_windows.svg / download_macos.svg / download_linux.svg
+- brand/TigerScale_Photo.png         — Tiger Scale hardware photo
+Do not modify the logo, and do not use the TigerTag name or logo
+inside a product or app name. Full rules: section 8.C of the README.
 
 ## PROTOCOL QUICK REFERENCE
 Chip: ISO 14443-3 compatible, NTAG21x family.
