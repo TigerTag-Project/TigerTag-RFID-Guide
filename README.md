@@ -716,6 +716,69 @@ the project website is <https://tigertag.io>.
 | **TigerTag Pod**                       | Plug-and-play NFC reader / writer     | Hardware                 | https://tigertag.io                                                                                     |
 | **Interactive SDK playground**         | Local web playground                  | GPLv3, free              | `python3 tools/server.py 7432` from the Python SDK                                                      |
 
+### 5.0 TigerTag SDK for Python
+
+The **official Python SDK** for the TigerTag protocol. Covers the full
+protocol lifecycle — reading, writing, signing, verifying, cloud sync,
+and LLM-ready output — with zero required dependencies. A bundled
+offline reference database is included so it works immediately after
+install, without any network call.
+
+**Install:**
+
+```bash
+pip install tigertag           # offline core — zero dependencies
+pip install tigertag[full]     # + ECDSA verification + database sync
+```
+
+**Quick start:**
+
+```python
+from tigertag import TigerTag
+
+# From an NFC SDK (nfcpy, Android NFC, iOS CoreNFC, flutter_nfc_kit…)
+tag = TigerTag.from_pages(payload, uid=uid)
+
+# Or from a binary dump file (.bin)
+tag = TigerTag.from_file("dump.bin")
+
+print(tag.pretty())      # formatted human-readable summary (box-drawing)
+print(tag.verify())      # ✅ VALID / ⬜ NOT SIGNED / ❌ INVALID (offline)
+print(tag.to_dict())     # fully resolved dict — IDs replaced by labels
+print(tag.describe())    # one-paragraph natural-language description
+```
+
+**Core capabilities:**
+
+| Capability | API | Notes |
+| --- | --- | --- |
+| Parse from NFC SDK | `TigerTag.from_pages(payload, uid)` | 80 or 144 bytes + 7-byte UID |
+| Parse from binary dump | `TigerTag.from_dump(data)` | 80, 144, or 180 bytes |
+| Parse from file | `TigerTag.from_file(path)` | Reads `.bin`, then calls `from_dump` |
+| Create a new tag | `TigerTag.create(**kwargs)` | Builds TigerTag or TigerTag+ from fields |
+| Initialize a blank chip | `TigerTag.as_init(uid)` | Returns TigerTag Init placeholder |
+| Erase a chip | `TigerTag.erase()` | Returns 80 zero bytes to write to pages |
+| Serialize to bytes | `tag.to_bytes(include_signature)` | 80 B or 144 B (with ECDSA signature) |
+| Surgical field update | `tag.patch(**kwargs)` | Immutable — returns new instance |
+| Verify ECDSA signature | `tag.verify()` | 100% offline, returns `SignatureResult` |
+| Validate field ranges | `tag.validate()` | Returns list of warning strings |
+| Resolve IDs to labels | `tag.to_dict()` | All IDs → human-readable labels |
+| LLM-ready paragraph | `tag.describe()` | Natural-language summary for prompt injection |
+| Compare with cloud API | `tag.diff_api()` | Returns list of `ApiDiff` |
+| Auto-patch from cloud | `tag.patch_from_api()` | Applies cloud corrections without touching signature |
+| CLI parser | `tigertag dump.bin` | `--json` flag for machine output |
+| Interactive playground | `python3 tools/server.py 7432` | Browser UI: parse / preview / diff |
+
+**Real fixture `.bin` files** are included in the `fixtures/` folder:
+Rosa3D PLA, Bambu PETG Silk, bicolor PLA, resin (generic), TigerTag+
+Bambu, and more — ideal for integration testing without physical chips.
+
+**Python support:** 3.8 – 3.12. **License:** GPLv3.
+
+🔗 [TigerTag-Project/TigerTag-SDK-Python](https://github.com/TigerTag-Project/TigerTag-SDK-Python)
+
+---
+
 ### 5.1 TigerTag Studio Manager (open source)
 
 Desktop application for **Windows, macOS, and Linux** that manages your 3D-printing filament inventory. It reads RFID spool tags through an ACR122U NFC reader, tracks remaining weight, and surfaces print temperatures, MSDS/TDS links, and product details. Auto-updates via GitHub Releases.
@@ -957,6 +1020,28 @@ Deployment as of 2026:
 5. EXCLUSIVE: native TD1s by Ajax support — TigerTag is the only
    RFID material protocol read and written by the TD1s open-source
    filament manager.
+
+## PYTHON SDK
+pip install tigertag           — zero-dependency offline core
+pip install tigertag[full]     — + ECDSA (cryptography) + sync (requests)
+Repo: https://github.com/TigerTag-Project/TigerTag-SDK-Python
+Version: 1.1.0 (Production/Stable). Python 3.8–3.12. License: GPLv3.
+Key classes:
+- TigerTag (dataclass) — parse, create, serialize, patch, verify, diff
+  Constructors: from_pages(payload,uid) | from_dump(data) | from_file(path) | create(**kw) | as_init() | erase()
+  Read: to_bytes() | to_dict() | to_raw_dict() | pretty() | describe()
+  Write: patch(**kw) — immutable, returns new instance
+  Verify: verify() → SignatureResult (VALID/INVALID/UNSIGNED/NO_CRYPTO)
+  Cloud: raw_api() | diff_api() → List[ApiDiff] | patch_from_api()
+  Properties: is_maker | is_init | is_signed | uid_hex | td_value
+              manufacturing_date | color1_hex | stock_percent | api_url
+- TigerTagDB — reference data (material, brand, aspect, type, diameter, unit)
+- SignatureResult — ok (bool), status, detail; .to_dict()
+- ApiDiff — field, chip_value, api_value
+Signed message: SHA-256(uid[7B] + id_tigertag[4B BE] + id_product[4B BE]).
+Bundled fixtures: Rosa3D PLA, Bambu PETG Silk, bicolor PLA, resin, TigerTag+.
+Interactive playground: python3 tools/server.py 7432
+CLI: tigertag dump.bin [--json] [--raw] [--sync-only] [--db PATH]
 
 ## COST MODEL
 Free for all end users and developers.
