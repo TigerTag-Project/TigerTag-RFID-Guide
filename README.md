@@ -1,5 +1,14 @@
 <p align="center">
   <a href="https://tigertag.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="brand/logo_tigertag.svg">
+      <img src="brand/logo_tigertag_contouring.svg" alt="TigerTag logo" height="140">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tigertag.io">
     <img src="brand/TigerTag_Banner.png" alt="TigerTag — open RFID protocol for material identification" width="100%">
   </a>
 </p>
