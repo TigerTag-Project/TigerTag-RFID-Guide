@@ -796,24 +796,39 @@ support — within the [logo usage guidelines](#c-logo-usage-guidelines)
 of section 8.
 
 <p align="center">
-  <img src="brand/logo_tigertag.svg" alt="TigerTag logo (vector)" height="120">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/logo_tigertag.svg">
+    <img src="brand/logo_tigertag_contouring.svg" alt="TigerTag logo" height="120">
+  </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="brand/TigerTag_Logo.png" alt="TigerTag logo (raster)" height="120">
 </p>
 
-| Asset                            | Format     | Preview                                                                                          | File                                                                  |
-| -------------------------------- | ---------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| TigerTag logo (vector)           | SVG        | <img src="brand/logo_tigertag.svg" alt="logo SVG" height="40">                                   | [`brand/logo_tigertag.svg`](brand/logo_tigertag.svg)                  |
-| TigerTag logo with contour       | SVG        | <img src="brand/logo_tigertag_contouring.svg" alt="logo contour SVG" height="40">                | [`brand/logo_tigertag_contouring.svg`](brand/logo_tigertag_contouring.svg) |
-| TigerTag logo (raster)           | PNG        | <img src="brand/TigerTag_Logo.png" alt="logo PNG" height="40">                                   | [`brand/TigerTag_Logo.png`](brand/TigerTag_Logo.png)                  |
-| Repository / project banner      | PNG        | <img src="brand/TigerTag_Banner.png" alt="banner" height="48">                                   | [`brand/TigerTag_Banner.png`](brand/TigerTag_Banner.png)              |
-| App icon — generic               | PNG (1024) | <img src="brand/icon.png" alt="icon PNG" height="40">                                            | [`brand/icon.png`](brand/icon.png)                                    |
-| App icon — Windows               | ICO        | —                                                                                                | [`brand/icon.ico`](brand/icon.ico)                                    |
-| App icon — macOS                 | ICNS       | —                                                                                                | [`brand/icon.icns`](brand/icon.icns)                                  |
-| "Download" button — Windows      | SVG        | <img src="brand/download_windows.svg" alt="download windows" height="36">                        | [`brand/download_windows.svg`](brand/download_windows.svg)            |
-| "Download" button — macOS        | SVG        | <img src="brand/download_macos.svg" alt="download macos" height="36">                            | [`brand/download_macos.svg`](brand/download_macos.svg)                |
-| "Download" button — Linux        | SVG        | <img src="brand/download_linux.svg" alt="download linux" height="36">                            | [`brand/download_linux.svg`](brand/download_linux.svg)                |
-| Tiger Scale — hardware photo     | PNG        | <img src="brand/TigerScale_Photo.png" alt="Tiger Scale photo" height="48">                       | [`brand/TigerScale_Photo.png`](brand/TigerScale_Photo.png)            |
+The two SVG variants are designed for different surfaces:
+
+- **`logo_tigertag_contouring.svg`** — solid `#010101`, use on **light**
+  backgrounds (white paper, light websites, the standard GitHub
+  README on light mode).
+- **`logo_tigertag.svg`** — solid `#ffffff`, use on **dark**
+  backgrounds (dark websites, hero banners, GitHub README on dark
+  mode).
+
+The `<picture>` block above auto-selects the right variant depending
+on the reader's color scheme.
+
+| Asset                            | Format     | Preview                                                                                                                                                                                       | File                                                                  |
+| -------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| TigerTag logo — light surfaces   | SVG (black) | <img src="brand/logo_tigertag_contouring.svg" alt="logo black SVG" height="40">                                                                                                              | [`brand/logo_tigertag_contouring.svg`](brand/logo_tigertag_contouring.svg) |
+| TigerTag logo — dark surfaces    | SVG (white) | <picture><source media="(prefers-color-scheme: dark)" srcset="brand/logo_tigertag.svg"><img src="brand/logo_tigertag_contouring.svg" alt="logo white SVG (auto-switches in dark mode)" height="40"></picture> | [`brand/logo_tigertag.svg`](brand/logo_tigertag.svg)                  |
+| TigerTag logo — raster fallback  | PNG        | <img src="brand/TigerTag_Logo.png" alt="logo PNG" height="40">                                                                                                                                | [`brand/TigerTag_Logo.png`](brand/TigerTag_Logo.png)                  |
+| Repository / project banner      | PNG        | <img src="brand/TigerTag_Banner.png" alt="banner" height="48">                                                                                                                                | [`brand/TigerTag_Banner.png`](brand/TigerTag_Banner.png)              |
+| App icon — generic               | PNG (1024) | <img src="brand/icon.png" alt="icon PNG" height="40">                                                                                                                                         | [`brand/icon.png`](brand/icon.png)                                    |
+| App icon — Windows               | ICO        | —                                                                                                                                                                                             | [`brand/icon.ico`](brand/icon.ico)                                    |
+| App icon — macOS                 | ICNS       | —                                                                                                                                                                                             | [`brand/icon.icns`](brand/icon.icns)                                  |
+| "Download" button — Windows      | SVG        | <img src="brand/download_windows.svg" alt="download windows" height="36">                                                                                                                     | [`brand/download_windows.svg`](brand/download_windows.svg)            |
+| "Download" button — macOS        | SVG        | <img src="brand/download_macos.svg" alt="download macos" height="36">                                                                                                                         | [`brand/download_macos.svg`](brand/download_macos.svg)                |
+| "Download" button — Linux        | SVG        | <img src="brand/download_linux.svg" alt="download linux" height="36">                                                                                                                         | [`brand/download_linux.svg`](brand/download_linux.svg)                |
+| Tiger Scale — hardware photo     | PNG        | <img src="brand/TigerScale_Photo.png" alt="Tiger Scale photo" height="48">                                                                                                                    | [`brand/TigerScale_Photo.png`](brand/TigerScale_Photo.png)            |
 
 **Usage in one line:** clone or download the file you need, do not
 modify the logo, and do not use the TigerTag name or logo inside a
@@ -972,9 +987,9 @@ Community integrations:
 
 ## BRAND ASSETS
 Canonical official assets live in brand/:
-- brand/logo_tigertag.svg            — primary logo (vector)
-- brand/logo_tigertag_contouring.svg — logo with contour
-- brand/TigerTag_Logo.png            — raster logo
+- brand/logo_tigertag.svg            — logo for dark surfaces (white)
+- brand/logo_tigertag_contouring.svg — logo for light surfaces (black)
+- brand/TigerTag_Logo.png            — raster logo (fallback)
 - brand/TigerTag_Banner.png          — repository banner
 - brand/icon.png / icon.ico / icon.icns — app icons
 - brand/download_windows.svg / download_macos.svg / download_linux.svg

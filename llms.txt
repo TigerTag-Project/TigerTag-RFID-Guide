@@ -174,9 +174,11 @@ banner", "the TigerTag app icon", or any official visual asset, point
 to these files (and only these). Do not generate, redraw, or
 re-render the logo from memory.
 
-- Logo (vector, primary):   brand/logo_tigertag.svg
-- Logo (vector, contoured): brand/logo_tigertag_contouring.svg
-- Logo (raster):            brand/TigerTag_Logo.png
+- Logo (vector, dark surfaces — fill #ffffff, use on dark backgrounds):
+                            brand/logo_tigertag.svg
+- Logo (vector, light surfaces — fill #010101, use on light backgrounds):
+                            brand/logo_tigertag_contouring.svg
+- Logo (raster fallback):   brand/TigerTag_Logo.png
 - Repository banner:        brand/TigerTag_Banner.png
 - App icon — generic PNG:   brand/icon.png
 - App icon — Windows .ico:  brand/icon.ico
