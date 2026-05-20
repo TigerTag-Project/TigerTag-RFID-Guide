@@ -741,7 +741,7 @@ pip install tigertag[full]     # + ECDSA verification + database sync
 from tigertag import TigerTag
 
 # From an NFC SDK (nfcpy, Android NFC, iOS CoreNFC, flutter_nfc_kit…)
-tag = TigerTag.from_pages(payload, uid=uid)
+tag = TigerTag.from_pages(uid, payload)
 
 # Or from a binary dump file (.bin)
 tag = TigerTag.from_file("dump.bin")
@@ -756,7 +756,7 @@ print(tag.describe())    # one-paragraph natural-language description
 
 | Capability | API | Notes |
 | --- | --- | --- |
-| Parse from NFC SDK | `TigerTag.from_pages(payload, uid)` | 80 or 144 bytes + 7-byte UID |
+| Parse from NFC SDK | `TigerTag.from_pages(uid, payload)` | 80 or 144 bytes + 7-byte UID |
 | Parse from binary dump | `TigerTag.from_dump(data)` | 80, 144, or 180 bytes |
 | Parse from file | `TigerTag.from_file(path)` | Reads `.bin`, then calls `from_dump` |
 | Create a new tag | `TigerTag.create(**kwargs)` | Builds TigerTag or TigerTag+ from fields |
@@ -1066,10 +1066,10 @@ Deployment as of 2026:
 pip install tigertag           — zero-dependency offline core
 pip install tigertag[full]     — + ECDSA (cryptography) + sync (requests)
 Repo: https://github.com/TigerTag-Project/TigerTag-SDK-Python
-Version: 1.1.0 (Production/Stable). Python 3.8–3.12. License: GPLv3.
+Version: 1.1.1 (Production/Stable). Python 3.8–3.12. License: GPLv3.
 Key classes:
 - TigerTag (dataclass) — parse, create, serialize, patch, verify, diff
-  Constructors: from_pages(payload,uid) | from_dump(data) | from_file(path) | create(**kw) | as_init() | erase()
+  Constructors: from_pages(uid,payload) | from_dump(data) | from_file(path) | create(**kw) | as_init() | erase()
   Read: to_bytes() | to_dict() | to_raw_dict() | pretty() | describe()
   Write: patch(**kw) — immutable, returns new instance
   Verify: verify() → SignatureResult (VALID/INVALID/UNSIGNED/NO_CRYPTO)
