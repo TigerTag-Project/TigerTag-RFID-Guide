@@ -717,7 +717,8 @@ the project website is <https://tigertag.io>.
 | **TigerTag RFID Connect** (Android)    | Mobile app                            | Free download            | https://play.google.com/store/apps/details?id=com.tigertag.connect                                      |
 | **Public API**                         | REST API                              | Free read access         | https://api.tigertag.io/api:tigertag                                                                    |
 | **TigerTag Pod**                       | Plug-and-play NFC reader / writer     | Hardware                 | https://tigertag.io                                                                                     |
-| **Interactive SDK playground**         | Local web playground                  | GPLv3, free              | `python3 tools/server.py 7432` from the Python SDK                                                      |
+| **Interactive SDK playground (Python)**| Local web playground                  | GPLv3, free              | `python3 tools/server.py 7432` from the Python SDK                                                      |
+| **Interactive SDK playground (JS)**    | Local web playground                  | GPLv3, free              | `node tools/server.js 7432` from the JS SDK                                                             |
 
 ### 5.0 TigerTag SDK for Python
 
@@ -806,6 +807,12 @@ console.log(tag.toDict());       // fully resolved object — IDs replaced by la
 ```
 
 **Core capabilities:** parse · verify ECDSA-P256 · create · patch · serialize to bytes · cloud diff/patch — identical feature set to the Python SDK.
+
+**Interactive playground:**
+
+```bash
+node tools/server.js 7432   # then open http://localhost:7432/tools/playground.html
+```
 
 **Node.js support:** 18+. **License:** GPLv3.
 
