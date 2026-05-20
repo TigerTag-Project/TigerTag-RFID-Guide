@@ -799,7 +799,7 @@ npm install tigertag
 const { TigerTag } = require('tigertag');
 
 // From an NFC reader (nfc-pcsc, ACR122U…)
-const tag = TigerTag.fromPages(payload, uid);   // Buffer(144) + Buffer(7)
+const tag = TigerTag.fromPages(uid, payload);   // Buffer(7) + Buffer(144)
 
 console.log(tag.pretty());       // formatted human-readable summary
 console.log(String(tag.verify())); // ✅ VALID / ⬜ NOT SIGNED / ❌ INVALID
