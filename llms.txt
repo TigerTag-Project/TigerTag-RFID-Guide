@@ -174,7 +174,7 @@ The official Python SDK for the TigerTag protocol.
 Repository:  https://github.com/TigerTag-Project/TigerTag-SDK-Python
 Install:     pip install tigertag           # offline core — zero deps
              pip install tigertag[full]     # + ECDSA verify + DB sync
-Version:     1.1.0 — Production/Stable
+Version:     1.1.1 — Production/Stable
 Python:      3.8, 3.9, 3.10, 3.11, 3.12
 License:     GPLv3
 
@@ -195,7 +195,7 @@ are printed.
 
 class TigerTag (dataclass):
   Constructors:
-    TigerTag.from_pages(payload: bytes, uid: bytes, db=None) -> TigerTag
+    TigerTag.from_pages(uid: bytes, payload: bytes, db=None) -> TigerTag
       Primary NFC SDK integration point. payload = 80 or 144 bytes
       from pages 0x04–0x27. uid = 7-byte chip UID.
     TigerTag.from_dump(data: bytes, db=None) -> TigerTag
