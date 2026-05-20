@@ -154,6 +154,7 @@ open-source projects are all covered for free by the GPLv3 path.
   https://play.google.com/store/apps/details?id=com.tigertag.connect
 - Public cloud API: https://api.tigertag.io/api:tigertag
 - Interactive playground (Python SDK): `python3 tools/server.py 7432`
+- Interactive playground (JS SDK): `node tools/server.js 7432` (opens http://localhost:7432/tools/playground.html)
 
 ### Community integrations
 
