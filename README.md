@@ -22,6 +22,7 @@
 [![Protocol](https://img.shields.io/badge/protocol-v2.1-orange)](#7-version-history)
 [![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE.md)
 [![Python SDK](https://img.shields.io/badge/SDK-Python-3776AB?logo=python&logoColor=white)](https://github.com/TigerTag-Project/TigerTag-SDK-Python)
+[![JavaScript SDK](https://img.shields.io/badge/SDK-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/TigerTag-Project/TigerTag-SDK-JS)
 [![Deployed](https://img.shields.io/badge/chips%20deployed-2M%2B-success)](#industry-adoption)
 [![Offline auth](https://img.shields.io/badge/ECDSA--P256-offline%20verify-brightgreen)](#3-verify-signature)
 [![Apps](https://img.shields.io/badge/iOS%20%26%20Android-free-lightgrey)](#53-tigertag-rfid-connect--mobile-apps-ios--android)
@@ -707,6 +708,7 @@ the project website is <https://tigertag.io>.
 | -------------------------------------- | ------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------- |
 | **TigerTag RFID Guide** (this repo)    | Protocol specification                | GPLv3, free              | https://github.com/TigerTag-Project/TigerTag-RFID-Guide                                                 |
 | **TigerTag SDK for Python**            | SDK                                   | GPLv3, free              | https://github.com/TigerTag-Project/TigerTag-SDK-Python                                                 |
+| **TigerTag SDK for JavaScript**        | SDK                                   | GPLv3, free              | https://github.com/TigerTag-Project/TigerTag-SDK-JS                                                     |
 | **TigerTag Studio Manager**            | Desktop app (Win / macOS / Linux)     | GPLv3, free              | https://github.com/TigerTag-Project/TigerTag-Studio-Manager                                             |
 | **Tiger Scale**                        | DIY smart scale (ESP32, ~30 € BoM)    | GPLv3, free              | https://github.com/TigerTag-Project/Tiger-Scale                                                         |
 | **TigerTag Firebase Integration**      | Cloud backend integration             | GPLv3, free              | https://github.com/TigerTag-Project/TigerTag_Firebase_Integration                                       |
@@ -779,7 +781,38 @@ Bambu, and more — ideal for integration testing without physical chips.
 
 ---
 
-### 5.1 TigerTag Studio Manager (open source)
+### 5.1 TigerTag SDK for JavaScript
+
+The **official JavaScript SDK** for the TigerTag protocol. Mirrors the Python SDK API in native Node.js — no Python runtime, no subprocess. Used internally by Tiger Studio Manager for all chip parsing, writing, and cloud sync.
+
+**Install:**
+
+```bash
+npm install tigertag
+```
+
+**Quick start:**
+
+```js
+const { TigerTag } = require('tigertag');
+
+// From an NFC reader (nfc-pcsc, ACR122U…)
+const tag = TigerTag.fromPages(payload, uid);   // Buffer(144) + Buffer(7)
+
+console.log(tag.pretty());       // formatted human-readable summary
+console.log(String(tag.verify())); // ✅ VALID / ⬜ NOT SIGNED / ❌ INVALID
+console.log(tag.toDict());       // fully resolved object — IDs replaced by labels
+```
+
+**Core capabilities:** parse · verify ECDSA-P256 · create · patch · serialize to bytes · cloud diff/patch — identical feature set to the Python SDK.
+
+**Node.js support:** 18+. **License:** GPLv3.
+
+🔗 [TigerTag-Project/TigerTag-SDK-JS](https://github.com/TigerTag-Project/TigerTag-SDK-JS)
+
+---
+
+### 5.2 TigerTag Studio Manager (open source)
 
 Desktop application for **Windows, macOS, and Linux** that manages your 3D-printing filament inventory. It reads RFID spool tags through an ACR122U NFC reader, tracks remaining weight, and surfaces print temperatures, MSDS/TDS links, and product details. Auto-updates via GitHub Releases.
 
