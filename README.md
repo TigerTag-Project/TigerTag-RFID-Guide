@@ -117,6 +117,7 @@ Everything in the TigerTag stack is free:
 
 - Protocol specification — open source, GPLv3, free to implement.
 - TigerTag SDK for Python — open source, GPLv3.
+- TigerTag SDK for JavaScript — open source, GPLv3.
 - TigerTag Studio Manager (desktop) — open source.
 - TigerTag RFID Connect (iOS + Android) — free download.
 - Public API at <https://api.tigertag.io/api:tigertag> — free, no key
