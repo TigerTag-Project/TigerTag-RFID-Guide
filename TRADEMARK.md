@@ -12,6 +12,7 @@
 - ❌ You cannot **name your product or protocol "TigerTag"**, or use the name commercially as a brand.
 - ❌ You cannot **issue TigerTag+ signatures** — we hold the private key.
 - ❌ You cannot imply **certification, affiliation, or endorsement** without written authorization.
+- 🔍 **Certification is an audit, and it is a paid service** — see [`CERTIFICATION.md`](CERTIFICATION.md).
 
 > Say what your product *does* as loudly as you like. Only we say what a TigerTag *is*.
 
@@ -106,8 +107,8 @@ Applied to a product, the mark no longer says *"this works with TigerTag"*. It s
 **"this *is* a TigerTag"** — an assertion about who made it and whether it can be trusted.
 That assertion is ours to make, and only ours.
 
-Authorization is granted through certification — see
-[`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md) and *Official integration* below.
+Authorization is granted through **certification**: an audit of your product and your process,
+followed by a trademark licence. It is a paid service. See [`CERTIFICATION.md`](CERTIFICATION.md).
 
 ### Why this line exists
 
@@ -158,19 +159,28 @@ the logo descriptively; it is not a copyright licence to the artwork.
 
 ## Official integration
 
+Two marks, and only one of them needs us:
+
+| | **TigerTag Compatible** | **TigerTag Certified** |
+|---|---|---|
+| For | Readers, apps, printers, slicers — anything that **talks to** TigerTag | Anything that **is** a TigerTag: filament and resin manufacturers, inlay and carrier producers, machine makers whose product writes TigerTag identities |
+| Audit | None | **Required** |
+| Cost | Free | **Paid** |
+| Logo | In your app, docs, store listing | **On the product, the chip, the packaging** |
+| Signatures, product-ID, public listing | — | Yes |
+
 If you manufacture filament or resin and want **officially supplied TigerTag media**
 (pre-printed carriers), **TigerTag+ signatures**, **product-ID allocation**, the right to put
-**the TigerTag logo on your product or packaging**, or **certified partner status**, that is
-what [`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md) covers.
+**the TigerTag logo on your product or packaging**, or **certified partner status**, you need
+certification.
 
-Certification exists so that a buyer can trust the mark. It verifies that:
+Certification is an **audit** — of your product and of your process — followed by a trademark
+licence. It is a paid service, on the model the Connectivity Standards Alliance uses for Zigbee
+and Matter. The process, what the audit verifies, surveillance and revocation are all described
+in [`CERTIFICATION.md`](CERTIFICATION.md). The agreement itself is
+[`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md).
 
-1. your integration writes the chip correctly, per the specification;
-2. the data you publish for your products is accurate and kept up to date;
-3. your TigerTag+ products carry valid signatures issued by TigerTag Corp;
-4. the logo appears on your packaging only where the chip is actually present.
-
-Certified partners are listed publicly. That list is the only authoritative way for a buyer
+Certified partners are listed publicly. That registry is the only authoritative way for a buyer
 to check whether a logo on a spool is legitimate.
 
 **None of it is required to implement the protocol.** Implement it freely, sell freely, say

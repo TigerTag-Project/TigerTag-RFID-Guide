@@ -52,8 +52,16 @@ specification is [CC-BY-4.0](LICENSING.md), the reference database is
 
 The TigerTag™ name, the logo, the TigerTag+ signature service, and
 official product-ID allocation are separate, and are **not** required
-to implement the protocol. See [`LICENSING.md`](LICENSING.md) and
-[`TRADEMARK.md`](TRADEMARK.md).
+to implement the protocol.
+
+Putting the TigerTag logo **on a product, a chip or its packaging** is a
+statement about authenticity, not compatibility. That requires
+**certification** — an audit of your product and your process, and a paid
+service, on the model the Connectivity Standards Alliance uses for Zigbee
+and Matter.
+
+See [`LICENSING.md`](LICENSING.md), [`TRADEMARK.md`](TRADEMARK.md) and
+[`CERTIFICATION.md`](CERTIFICATION.md).
 
 ---
 
