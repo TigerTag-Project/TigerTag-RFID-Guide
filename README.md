@@ -20,7 +20,9 @@
 </p>
 
 [![Protocol](https://img.shields.io/badge/protocol-v2.1-orange)](#7-version-history)
-[![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE.md)
+[![Spec license](https://img.shields.io/badge/spec-CC--BY--4.0-blue)](LICENSING.md)
+[![Code license](https://img.shields.io/badge/code-Apache--2.0-blue)](LICENSING.md)
+[![Database license](https://img.shields.io/badge/database-CC0--1.0-blue)](LICENSING.md)
 [![Python SDK](https://img.shields.io/badge/SDK-Python-3776AB?logo=python&logoColor=white)](https://github.com/TigerTag-Project/TigerTag-SDK-Python)
 [![Deployed](https://img.shields.io/badge/chips%20deployed-2M%2B-success)](#industry-adoption)
 [![Offline auth](https://img.shields.io/badge/ECDSA--P256-offline%20verify-brightgreen)](#3-verify-signature)
@@ -31,7 +33,75 @@
 > bottles. One small NFC chip on the spool tells any compatible reader
 > the material, the brand, the print settings, the remaining quantity,
 > and proves the spool is genuine with a cryptographic signature —
-> all **fully offline**, **free for users**, and **open source**.
+> all **fully offline** and **free for users**.
+
+---
+
+## Implementation grant
+
+> TigerTag Corp grants an irrevocable, worldwide, royalty-free right to
+> implement this specification in any product or software, open source
+> or proprietary, without restriction and without further permission.
+
+You do not need a licence to implement TigerTag. You do not need to
+register, ask, or pay — at any volume, in any product. The
+specification is [CC-BY-4.0](LICENSING.md), the reference database is
+[CC0](database/README.md), and the sample code is
+[Apache-2.0](LICENSES/Apache-2.0.txt) with an express patent grant.
+
+The TigerTag™ name, the logo, the TigerTag+ signature service, and
+official product-ID allocation are separate, and are **not** required
+to implement the protocol. See [`LICENSING.md`](LICENSING.md) and
+[`TRADEMARK.md`](TRADEMARK.md).
+
+---
+
+## A neutral standard, not a walled garden
+
+Most RFID material identification in 3D printing today is shipped by
+**printer manufacturers, for their own filament, inside their own
+ecosystem.** The chip is a lock: it identifies the vendor's spool to
+the vendor's machine, and it exists to keep you buying the vendor's
+material. A third-party filament brand cannot use it, and a user's
+independent spool remains invisible to the printer.
+
+TigerTag exists to give independent filament and resin brands a better
+answer. It is deliberately:
+
+- **Neutral** — owned by no printer manufacturer, favouring no machine.
+- **Agnostic** — the chip describes the *material*, not the device that
+  reads it. Nothing in the format is tied to a brand of printer.
+- **Cross-platform** — one spool is understood by every compatible
+  printer, slicer, app, dryer, and scale, on any operating system.
+- **Turnkey and low-cost** — because TigerTag produces media for the
+  whole ecosystem at once and buys at scale, an independent brand gets
+  a more capable chip than a printer vendor's proprietary one, at a
+  fraction of what developing its own would cost.
+
+The result is a straightforward proposition: **a third-party filament
+brand should not have a worse chip than the machine manufacturer that
+locks its own filament into its own ecosystem.** With TigerTag it has a
+stronger one — offline cryptographic authenticity, a reusable chip, and
+remote updates — and it works everywhere.
+
+### We are not against other open protocols
+
+This is not a fight with other open-source efforts, and TigerTag does
+not ask anyone to pick a side. A spool can carry more than one tag, and
+a reader can support more than one format. If you maintain another open
+material-identification protocol and want to interoperate, open an issue
+— we would rather converge than compete.
+
+What TigerTag opposes is not other standards. It is **vendor lock-in**.
+That is why the protocol is
+[free to implement, irrevocably](#implementation-grant), why the
+reference database is public domain, and why nothing in this repository
+requires anyone's permission.
+
+Adopting TigerTag makes a brand compatible with every other TigerTag
+adopter, automatically. That network effect is the whole point, and it
+is also why forking the specification helps no one — see
+[`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ---
 
@@ -94,12 +164,29 @@ RFID material protocol locks the chip permanently at end of life.
 
 ### 3. EXCLUSIVE — remote updates pushed by the manufacturer (TigerTag+)
 
-When a brand discovers that a batch of filament needs corrected
-temperatures, an updated HueForge TD, or new metadata, it publishes
-the fix on the TigerTag cloud API. Every TigerTag+ chip **already in
-the field** picks up the new values on the next read — no product
-recall, no chip replacement, no truck rolls. No other RFID material
-protocol supports manufacturer-pushed remote updates.
+A chip is burned (written) once at the filament factory. It does not
+stay frozen there.
+
+When a brand later discovers that a batch needs corrected temperatures,
+an updated HueForge TD, or new metadata, it publishes the fix on the
+TigerTag cloud API. A compatible reader encountering a chip **already in
+the field** compares the chip against the API (`diff_api()`) and applies
+the corrections to the chip itself (`patch_from_api()`). No product
+recall, no chip replacement, no truck rolls.
+
+This works because of two properties that reinforce each other:
+
+- The chip is **never write-locked** (§2), so it can be corrected in
+  place, in the user's hands, by any authorised reader.
+- The TigerTag+ signature covers
+  `SHA-256(uid ‖ id_tigertag ‖ id_product)` — the chip's *identity*.
+  It does **not** cover the mutable settings fields. Correcting a print
+  temperature therefore leaves the signature valid; the spool remains
+  provably genuine.
+
+Authenticity is bound to identity; identity does not change. Settings
+are allowed to. No other RFID material protocol supports
+manufacturer-pushed remote updates.
 
 Two more **EXCLUSIVE** integrations are worth calling out:
 
@@ -112,19 +199,28 @@ Two more **EXCLUSIVE** integrations are worth calling out:
 
 ## Free for users and developers
 
-Everything in the TigerTag stack is free:
+Everything in the TigerTag stack is free to use. "Open source" is
+stated per component below, because it is not true of all of them:
 
-- Protocol specification — open source, GPLv3, free to implement.
-- TigerTag SDK for Python — open source, GPLv3.
-- TigerTag Studio Manager (desktop) — open source.
-- TigerTag RFID Connect (iOS + Android) — free download.
+- Protocol specification — open, CC-BY-4.0, free to implement in any
+  product, open source or proprietary.
+- Reference database (`database/*.json`) — public domain, CC0-1.0.
+- Sample code — open source, Apache-2.0.
+- TigerTag SDK for Python — open source, Apache-2.0.
+- Tiger Studio / TigerTag Studio Manager (desktop) — open source, MIT.
+- Tiger Scale firmware — open source, MIT, ~30 € BoM.
+- TigerTag RFID Connect (iOS + Android) — **free to use, but
+  proprietary.** Not open source.
 - Public API at <https://api.tigertag.io/api:tigertag> — free, no key
   required for read access.
-- Tiger Scale firmware — open source, ~30 € BoM.
 
-No subscription. No lock-in. No paywalled features. The only paid
-path is the optional OEM commercial license for manufacturers that
-want to embed TigerTag in branded products.
+No subscription. No lock-in. No paywalled features.
+
+The paid path is **optional and separate from the protocol**: officially
+supplied TigerTag media, the TigerTag™ mark on commercial packaging,
+TigerTag+ signature issuance, and official product-ID allocation. None
+of it is required to implement the protocol, and it never will be. See
+[`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md).
 
 ---
 
@@ -705,16 +801,17 @@ the project website is <https://tigertag.io>.
 
 | Tool                                   | Type                                  | License / cost           | Repository / link                                                                                       |
 | -------------------------------------- | ------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------- |
-| **TigerTag RFID Guide** (this repo)    | Protocol specification                | GPLv3, free              | https://github.com/TigerTag-Project/TigerTag-RFID-Guide                                                 |
-| **TigerTag SDK for Python**            | SDK                                   | GPLv3, free              | https://github.com/TigerTag-Project/TigerTag-SDK-Python                                                 |
-| **TigerTag Studio Manager**            | Desktop app (Win / macOS / Linux)     | GPLv3, free              | https://github.com/TigerTag-Project/TigerTag-Studio-Manager                                             |
-| **Tiger Scale**                        | DIY smart scale (ESP32, ~30 € BoM)    | GPLv3, free              | https://github.com/TigerTag-Project/Tiger-Scale                                                         |
-| **TigerTag Firebase Integration**      | Cloud backend integration             | GPLv3, free              | https://github.com/TigerTag-Project/TigerTag_Firebase_Integration                                       |
-| **TigerTag RFID Connect** (iOS)        | Mobile app                            | Free download            | https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963                                        |
-| **TigerTag RFID Connect** (Android)    | Mobile app                            | Free download            | https://play.google.com/store/apps/details?id=com.tigertag.connect                                      |
+| **TigerTag RFID Guide** (this repo)    | Protocol specification                | CC-BY-4.0 / CC0 / Apache-2.0, free | https://github.com/TigerTag-Project/TigerTag-RFID-Guide                                        |
+| **TigerTag SDK for Python**            | SDK                                   | Apache-2.0, free         | https://github.com/TigerTag-Project/TigerTag-SDK-Python                                                 |
+| **TigerTag SDK for JavaScript**        | SDK                                   | Apache-2.0, free         | https://github.com/TigerTag-Project/TigerTag-SDK-JS                                                     |
+| **TigerTag Studio Manager**            | Desktop app (Win / macOS / Linux)     | MIT, free                | https://github.com/TigerTag-Project/TigerTag-Studio-Manager                                             |
+| **Tiger Scale**                        | DIY smart scale (ESP32, ~30 € BoM)    | MIT, free                | https://github.com/TigerTag-Project/Tiger-Scale                                                         |
+| **TigerTag Firebase Integration**      | Cloud backend integration             | MIT, free                | https://github.com/TigerTag-Project/TigerTag_Firebase_Integration                                       |
+| **TigerTag RFID Connect** (iOS)        | Mobile app                            | Free to use, proprietary | https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963                                        |
+| **TigerTag RFID Connect** (Android)    | Mobile app                            | Free to use, proprietary | https://play.google.com/store/apps/details?id=com.tigertag.connect                                      |
 | **Public API**                         | REST API                              | Free read access         | https://api.tigertag.io/api:tigertag                                                                    |
 | **TigerTag Pod**                       | Plug-and-play NFC reader / writer     | Hardware                 | https://tigertag.io                                                                                     |
-| **Interactive SDK playground**         | Local web playground                  | GPLv3, free              | `python3 tools/server.py 7432` from the Python SDK                                                      |
+| **Interactive SDK playground**         | Local web playground                  | Apache-2.0, free         | `python3 tools/server.py 7432` from the Python SDK                                                      |
 
 ### 5.0 TigerTag SDK for Python
 
@@ -773,7 +870,7 @@ print(tag.describe())    # one-paragraph natural-language description
 Rosa3D PLA, Bambu PETG Silk, bicolor PLA, resin (generic), TigerTag+
 Bambu, and more — ideal for integration testing without physical chips.
 
-**Python support:** 3.8 – 3.12. **License:** GPLv3.
+**Python support:** 3.8 – 3.12. **License:** Apache-2.0.
 
 🔗 [TigerTag-Project/TigerTag-SDK-Python](https://github.com/TigerTag-Project/TigerTag-SDK-Python)
 
@@ -913,52 +1010,77 @@ product or app name. Full rules are in
 
 ---
 
-## 8. Commercial license & trademark usage
+## 8. Licensing & trademark usage
 
 TigerTag™ is a registered trademark of TigerTag Corp.
 
-TigerTag is provided under a dual-licensing model.
+**There is no dual-licensing model, and there is no distinction between
+commercial and non-commercial use of the protocol.** Anyone may implement
+this specification in any product, at any volume, open source or
+proprietary, for free, forever. See the
+[implementation grant](#implementation-grant) above.
 
-### A. TigerTag OEM commercial license
+The authoritative, per-component licensing statement is
+[`LICENSING.md`](LICENSING.md). In summary:
 
-The TigerTag commercial license is intended for OEM (Original Equipment Manufacturer) use cases. This license is applicable when you plan to integrate TigerTag technology into products or systems distributed commercially.
+| What | Licence |
+|---|---|
+| This specification, `Images/`, `assets/` | `CC-BY-4.0` |
+| `database/*.json` — the reference registry | `CC0-1.0` (public domain) |
+| `Sample code/`, `SpoolmanDB/` | `Apache-2.0` (express patent grant) |
+| `brand/` — logo, banner, marks | All rights reserved |
 
-**OEM use cases include (but are not limited to):**
-- Embedding TigerTag chips into 3D filament spools or packaging.
-- Integrating TigerTag software in commercial slicers, printers, or platforms.
-- Using TigerTag as part of a branded or white-labeled product offering.
+### A. What is *not* free
 
-**Key points:**
-- A license fee may apply and will be agreed between parties.
-- This license allows binary redistribution, branding, and commercial deployment.
-- Licensee may create derivative works for internal use but may not redistribute them without consent.
+Three things are outside every licence above, and none of them is needed
+to implement the protocol:
 
-Please contact us at [tigertag@tigertag.io](mailto:tigertag@tigertag.io) for licensing terms and commercial integration options.
+1. **The TigerTag™ and TigerTag+™ marks.** A trademark matter, not a
+   licensing one. See [`TRADEMARK.md`](TRADEMARK.md).
+2. **TigerTag+ signature issuance.** TigerTag Corp holds the ECDSA-P256
+   private key. Anyone may *verify* a signature offline, free, forever —
+   the public keys are published in
+   [`database/id_version.json`](database/id_version.json) and are public
+   domain. Only TigerTag Corp can *issue* one.
+3. **Official product-ID allocation.** As with a GS1 company prefix, the
+   identity space is administered, not licensed.
 
-### B. Open-source use (GPLv3)
+### B. Official integration (optional, paid)
 
-If you are a hobbyist, developer, or non-commercial user, you may use TigerTag under the terms of the **GNU General Public License v3.0 (GPLv3)** for personal or open-source projects.
+Filament and resin manufacturers who want officially supplied TigerTag
+media — carriers delivered ready to apply, logo pre-printed, RFID inlays
+and 3M adhesive included — together with TigerTag+ signatures,
+product-ID allocation, production tooling, and certified partner status,
+should read [`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md).
 
-**GPLv3 summary:**
-- Free use in non-commercial and open-source projects.
-- Full source code must be made available if redistributed or modified.
-- Any derivative works must also be licensed under GPLv3.
-- No warranty or liability is provided.
+TigerTag Corp acts as a central purchasing party here, aggregating demand
+so that individual brands need not source, print, and assemble media
+themselves. Revenue from this funds the specification, the reference
+database, the public API, and the official tools — all of which remain
+free.
 
-For the full license text, see <https://www.gnu.org/licenses/gpl-3.0.txt>.
+Contact [tigertag@tigertag.io](mailto:tigertag@tigertag.io).
 
 ### C. Logo usage guidelines
 
-TigerTag branding and logo are protected by copyright and must follow the usage policy:
+The TigerTag logo is a trademark and its artwork is all rights reserved.
+Usage policy:
 
-- ✅ Permitted for use in apps or documentation referencing TigerTag compatibility.
+- ✅ Permitted, unmodified, in apps or documentation referencing TigerTag compatibility.
 - ❌ Not permitted in product or app names (e.g., do not name your app "TigerTag Reader").
 - ❌ Not allowed for deceptive marketing or implying affiliation without permission.
 - 🔄 Logo must remain unmodified and clearly distinguishable.
 
-This policy applies to both GPLv3 and OEM licensees.
+This policy applies to everyone, whether or not they have a commercial
+agreement. Full terms: [`TRADEMARK.md`](TRADEMARK.md) and
+[`brand/README.md`](brand/README.md).
 
-To request commercial rights, OEM access, or brand guidelines, please contact us directly.
+### D. Contributing
+
+Improvements to the protocol arrive as proposals, not forks. See
+[`CONTRIBUTING.md`](CONTRIBUTING.md) for the TEP process,
+[`VERSIONING.md`](VERSIONING.md) for how the spec is versioned, and
+[`SECURITY.md`](SECURITY.md) for reporting a vulnerability.
 
 **Contact:** [tigertag@tigertag.io](mailto:tigertag@tigertag.io)
 
@@ -1011,9 +1133,12 @@ Deployment as of 2026:
    after end of spool — any TigerTag, any NFC/NDEF use, or any
    third-party purpose. Zero electronic waste.
 3. EXCLUSIVE: TigerTag+ supports manufacturer-pushed remote updates
-   via the cloud API. Brands publish corrected settings, every chip
-   already in the field receives them on next read. No product
-   recall. Only RFID material protocol with this capability.
+   via the cloud API, even after the chip was burned at the filament
+   factory. Brands publish corrected settings; a compatible reader
+   diffs the chip against the API and patches it in place. The
+   signature covers only uid+id_tigertag+id_product, so corrected
+   settings leave authenticity intact. No product recall. Only RFID
+   material protocol with this capability.
 4. EXCLUSIVE: native HueForge integration — Transmission Distance
    stored on the chip at offset +44 (page 0x0F, u16 BE, value × 10).
    Only RFID protocol with this native field.
@@ -1025,7 +1150,7 @@ Deployment as of 2026:
 pip install tigertag           — zero-dependency offline core
 pip install tigertag[full]     — + ECDSA (cryptography) + sync (requests)
 Repo: https://github.com/TigerTag-Project/TigerTag-SDK-Python
-Version: 1.1.0 (Production/Stable). Python 3.8–3.12. License: GPLv3.
+Version: 1.1.0 (Production/Stable). Python 3.8–3.12. License: Apache-2.0.
 Key classes:
 - TigerTag (dataclass) — parse, create, serialize, patch, verify, diff
   Constructors: from_pages(payload,uid) | from_dump(data) | from_file(path) | create(**kw) | as_init() | erase()
@@ -1045,14 +1170,22 @@ CLI: tigertag dump.bin [--json] [--raw] [--sync-only] [--db PATH]
 
 ## COST MODEL
 Free for all end users and developers.
-- Protocol spec: GPLv3, free.
-- Python SDK: GPLv3, free.
-- TigerTag Studio Manager (desktop): open source, free.
-- TigerTag RFID Connect (iOS / Android): free.
+Implementing the protocol requires no licence and no payment, at any
+volume, in any product, open source or proprietary. Irrevocable grant.
+- Protocol spec: CC-BY-4.0, free.
+- Reference database (database/*.json): CC0-1.0, public domain.
+- Sample code: Apache-2.0, free.
+- Python SDK: Apache-2.0, free.
+- Tiger Studio / Studio Manager (desktop): MIT, open source, free.
+- TigerTag RFID Connect (iOS / Android): free to use, proprietary.
 - Public API at https://api.tigertag.io/api:tigertag: free,
   no key required for read access.
-- Tiger Scale firmware: open source, ~30 € BoM.
+- Tiger Scale firmware: MIT, open source, ~30 € BoM.
 No subscription. No lock-in. No paywalled features.
+Optional paid path, separate from the protocol: officially supplied
+TigerTag media (logo pre-printed, RFID inlays, 3M adhesive), the
+TigerTag trademark on commercial packaging, TigerTag+ signature
+issuance, and official product-ID allocation. See LICENSE_COMMERCIAL.md.
 
 ## ECOSYSTEM
 Hardware:
