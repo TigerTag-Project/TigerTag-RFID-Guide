@@ -5,10 +5,15 @@
 - ✅ You can **implement the TigerTag protocol** in any product, open source or proprietary, for free, forever. See [`LICENSING.md`](LICENSING.md).
 - ✅ You can **build and sell commercial products** that read or write TigerTag chips.
 - ✅ You can say your product is **"compatible with TigerTag"**.
-- ✅ You can **display the TigerTag logo** to indicate compatibility, unmodified.
-- ❌ You cannot **name your product or protocol "TigerTag"**.
+- ✅ You can **display the TigerTag logo to indicate compatibility**, unmodified — in your app, your
+  docs, your store listing.
+- ❌ You cannot put the TigerTag logo **on a chip, a spool, or its packaging** without written
+  authorization. There, the logo is a mark of **authenticity**, not of compatibility.
+- ❌ You cannot **name your product or protocol "TigerTag"**, or use the name commercially as a brand.
 - ❌ You cannot **issue TigerTag+ signatures** — we hold the private key.
 - ❌ You cannot imply **certification, affiliation, or endorsement** without written authorization.
+
+> Say what your product *does* as loudly as you like. Only we say what a TigerTag *is*.
 
 ---
 
@@ -65,22 +70,64 @@ domain.
 
 ## Logo usage
 
-You **may** use the TigerTag logo, unmodified, to indicate compatibility:
+There are **two different uses of the logo**, and only one of them is free.
+
+The distinction is the same one Zigbee draws between *"Zigbee Compatible"* and
+*"Zigbee Certified"*: saying your product **talks to** TigerTag is a factual statement about
+your product. Putting our mark **on** a chip, a spool, or its packaging is a statement about
+**origin and authenticity** — and a buyer reads it as a guarantee.
+
+### 1. Referential use — free, no permission needed
+
+You **may** use the TigerTag logo, unmodified, to indicate **compatibility**:
 
 - inside your application's UI,
 - in your documentation, README, or store listing,
-- on packaging, to state that a spool carries a TigerTag chip.
+- in marketing that describes what your product works with.
 
 Conditions:
 
 - Your product name must be clearly distinct from "TigerTag".
 - The logo must remain unmodified — no recolouring, stretching, or recomposition.
-- You must not imply affiliation, certification, or endorsement without permission.
+- It must appear as a compatibility statement, never as a seal or a badge of quality.
+- You must not imply affiliation, certification, or endorsement.
 - You must respect the visual guidelines in [`brand/`](brand/).
 
+### 2. Product use — written authorization required
+
+You **may not**, without a written trademark licence from TigerTag Corp:
+
+- print, emboss, engrave or otherwise apply the TigerTag logo **on an RFID chip, an inlay,
+  a carrier, a label, a spool, a resin bottle, or its packaging**;
+- use the TigerTag name **commercially as a brand or product designation**;
+- present the logo as a **mark of authenticity, certification, quality, or partnership**.
+
+Applied to a product, the mark no longer says *"this works with TigerTag"*. It says
+**"this *is* a TigerTag"** — an assertion about who made it and whether it can be trusted.
+That assertion is ours to make, and only ours.
+
+Authorization is granted through certification — see
+[`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md) and *Official integration* below.
+
+### Why this line exists
+
+Trademark law exists to **protect the buyer**, not the brand: it prevents confusion about who
+made a product and whether it meets the standard it claims. A consumer who sees our logo on a
+spool must be able to conclude, without checking anything, that the chip is genuine, correctly
+written, and will behave as the specification promises.
+
+That guarantee is only worth something if we verify the integrations behind it. So certification
+is not paperwork — it is what makes the promise true. It is also a legal necessity: a trademark
+owner who licenses a mark without exercising quality control over licensees risks losing the mark
+altogether.
+
+**The protocol stays free. The promise stays ours to keep.**
+
+### Artwork
+
 The contents of `brand/` are **all rights reserved** and are not covered by the licences
-in `LICENSING.md`. The permission above is a limited, revocable permission to use the logo
-descriptively; it is not a copyright licence to the artwork.
+in `LICENSING.md`. The referential permission above is a limited, revocable permission to use
+the logo descriptively; it is not a copyright licence to the artwork.
 
 ---
 
@@ -94,9 +141,12 @@ descriptively; it is not a copyright licence to the artwork.
 | Copy the sample code into your firmware | ✅ Yes (Apache-2.0) |
 | Embed `database/*.json` in your product | ✅ Yes (CC0, no attribution needed) |
 | Verify a TigerTag+ signature offline | ✅ Yes |
-| Say "compatible with TigerTag" | ✅ Yes |
-| Display the unmodified TigerTag logo for compatibility | ✅ Yes |
+| Say "compatible with TigerTag", including on a commercial product | ✅ Yes |
+| Display the unmodified logo **in your app, docs or store listing** to show compatibility | ✅ Yes |
 | Propose a change to the protocol | ✅ Encouraged — see [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| Put the TigerTag logo **on a chip, inlay, label, spool, bottle or packaging** | ❌ No — written authorization + certification |
+| Use the TigerTag name **commercially as a brand or product designation** | ❌ No (trademark) |
+| Present the logo as a **seal of authenticity, quality or partnership** | ❌ No — written authorization + certification |
 | Name your app or protocol "TigerTag" | ❌ No (trademark) |
 | Name your company or domain "TigerTag" | ❌ No (trademark) |
 | Create a competing RFID protocol called "TigerTag" | ❌ No (trademark) |
@@ -109,11 +159,23 @@ descriptively; it is not a copyright licence to the artwork.
 ## Official integration
 
 If you manufacture filament or resin and want **officially supplied TigerTag media**
-(pre-printed carriers), **TigerTag+ signatures**, **product-ID allocation**, or
-**certified partner status**, that is what [`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md)
-covers.
+(pre-printed carriers), **TigerTag+ signatures**, **product-ID allocation**, the right to put
+**the TigerTag logo on your product or packaging**, or **certified partner status**, that is
+what [`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md) covers.
 
-None of it is required to implement the protocol.
+Certification exists so that a buyer can trust the mark. It verifies that:
+
+1. your integration writes the chip correctly, per the specification;
+2. the data you publish for your products is accurate and kept up to date;
+3. your TigerTag+ products carry valid signatures issued by TigerTag Corp;
+4. the logo appears on your packaging only where the chip is actually present.
+
+Certified partners are listed publicly. That list is the only authoritative way for a buyer
+to check whether a logo on a spool is legitimate.
+
+**None of it is required to implement the protocol.** Implement it freely, sell freely, say
+"compatible with TigerTag" freely. Certification is required only to make the *promise* —
+to put our mark on your product and tell a buyer it is genuine.
 
 ---
 
