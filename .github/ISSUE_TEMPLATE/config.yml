@@ -1,0 +1,17 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/TigerTag-Project/TigerTag-RFID-Guide/security/advisories/new
+    about: Never report a vulnerability in a public issue — especially anything touching the TigerTag+ signature, key handling, or verification. Use a private security advisory.
+
+  - name: 📄 Licensing questions
+    url: https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/LICENSING.md
+    about: Implementing the TigerTag protocol requires no licence and no payment. LICENSING.md states exactly what is under what.
+
+  - name: 🏷️ Add a brand or material to the reference database
+    url: mailto:tigertag@tigertag.io
+    about: database/*.json is generated from the TigerTag catalogue. Pull requests against it are reverted on the next sync — contact us instead.
+
+  - name: 💬 Discord
+    url: https://discord.gg/3Qv5TSqnJH
+    about: Questions, integration help, and general discussion.

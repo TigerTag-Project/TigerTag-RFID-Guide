@@ -1,0 +1,126 @@
+name: Protocol proposal (TEP)
+description: Propose a change to the TigerTag protocol specification
+title: "[TEP] "
+labels: ["tep", "draft"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for proposing an improvement to the TigerTag protocol.
+
+        **Improvements arrive as proposals, not forks.** This spec is the source of truth for
+        over two million chips in production. A change here reaches every reader in the field.
+
+        Before you start:
+        - Corrections (typos, wrong hex values, broken links, sample-code bugs) do **not** need a
+          TEP — just open a pull request.
+        - Security issues must **not** be filed here. See [SECURITY.md](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/SECURITY.md).
+        - Requests to add a brand or material to the reference database are not TEPs — open a
+          regular issue instead.
+        - Read [CONTRIBUTING.md](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/CONTRIBUTING.md) for how a TEP is processed.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: >
+        What can you not do today? Describe the problem before the solution. Name a real product,
+        workflow, or user if you can. A TEP that describes a real problem badly is more useful than
+        one that describes an elegant solution to nothing.
+      placeholder: |
+        Our slicer needs to know X in order to Y. Today the chip carries no way to express it, so we
+        fall back on Z, which fails when...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: The proposal
+      description: What exactly should change? Be concrete about fields, offsets, encodings, and byte order.
+      placeholder: |
+        Add a u8 field at offset +NN (page 0xNN) encoding ... as ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of change is this?
+      options:
+        - New field in currently reserved/unused space
+        - Change to the meaning or encoding of an existing field
+        - Change to a memory offset or layout
+        - Change to signature or verification behaviour
+        - New tag format version
+        - Documentation of existing behaviour (no protocol change)
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: compatibility
+    attributes:
+      label: Backward compatibility
+      description: >
+        **This is the load-bearing question for almost every TEP.** What does an existing reader in
+        the field do when it encounters a chip written under your proposal? If the answer is
+        "misbehaves", your proposal needs a new tag format version, not a new field. Say so — that is
+        a legitimate answer, not a disqualifying one.
+      placeholder: |
+        An existing v2.1 reader encountering a chip written under this proposal would...
+        Chips written before this change would still...
+    validations:
+      required: true
+
+  - type: input
+    id: memory
+    attributes:
+      label: Memory cost
+      description: >
+        How many bytes on the chip? NTAG213 has 144 usable bytes and space is the scarcest resource
+        in this project. If you need 4 bytes, explain why 2 will not do.
+      placeholder: "2 bytes at offset +NN — a u16 BE is required because ..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Core constraints
+      description: A TEP that violates any of these will be rejected. Please confirm.
+      options:
+        - label: This change works **fully offline** — it does not require a network round-trip to read or verify a chip.
+          required: true
+        - label: This change does **not weaken the TigerTag+ signature** or its verification.
+          required: true
+        - label: This change can be implemented by **anyone, without permission from TigerTag Corp**.
+          required: true
+        - label: This change does **not duplicate** information already on the chip or derivable from the public API.
+          required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What else did you try, and why is this better? "Nothing" is an acceptable answer.
+    validations:
+      required: false
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation experience
+      description: >
+        Have you prototyped this? A working implementation, a chip dump, or a patched reader makes a
+        TEP far more likely to be accepted. Link it if you have it.
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        By opening this proposal you agree that any specification text you contribute is licensed
+        under `CC-BY-4.0`, and any code under `Apache-2.0`, per
+        [LICENSING.md](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/LICENSING.md). You retain copyright. There is no CLA.
