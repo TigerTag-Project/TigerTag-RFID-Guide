@@ -24,6 +24,7 @@
 [![Code license](https://img.shields.io/badge/code-Apache--2.0-blue)](LICENSING.md)
 [![Database license](https://img.shields.io/badge/database-CC0--1.0-blue)](LICENSING.md)
 [![Python SDK](https://img.shields.io/badge/SDK-Python-3776AB?logo=python&logoColor=white)](https://github.com/TigerTag-Project/TigerTag-SDK-Python)
+[![JavaScript SDK](https://img.shields.io/badge/SDK-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/TigerTag-Project/TigerTag-SDK-JS)
 [![Deployed](https://img.shields.io/badge/chips%20deployed-2M%2B-success)](#industry-adoption)
 [![Offline auth](https://img.shields.io/badge/ECDSA--P256-offline%20verify-brightgreen)](#3-verify-signature)
 [![Apps](https://img.shields.io/badge/iOS%20%26%20Android-free-lightgrey)](#53-tigertag-rfid-connect--mobile-apps-ios--android)
@@ -207,6 +208,7 @@ stated per component below, because it is not true of all of them:
 - Reference database (`database/*.json`) — public domain, CC0-1.0.
 - Sample code — open source, Apache-2.0.
 - TigerTag SDK for Python — open source, Apache-2.0.
+- TigerTag SDK for JavaScript — open source, Apache-2.0.
 - Tiger Studio / TigerTag Studio Manager (desktop) — open source, MIT.
 - Tiger Scale firmware — open source, MIT, ~30 € BoM.
 - TigerTag RFID Connect (iOS + Android) — **free to use, but
@@ -811,7 +813,8 @@ the project website is <https://tigertag.io>.
 | **TigerTag RFID Connect** (Android)    | Mobile app                            | Free to use, proprietary | https://play.google.com/store/apps/details?id=com.tigertag.connect                                      |
 | **Public API**                         | REST API                              | Free read access         | https://api.tigertag.io/api:tigertag                                                                    |
 | **TigerTag Pod**                       | Plug-and-play NFC reader / writer     | Hardware                 | https://tigertag.io                                                                                     |
-| **Interactive SDK playground**         | Local web playground                  | Apache-2.0, free         | `python3 tools/server.py 7432` from the Python SDK                                                      |
+| **Interactive SDK playground (Python)**| Local web playground                  | Apache-2.0, free         | `python3 tools/server.py 7432` from the Python SDK                                                      |
+| **Interactive SDK playground (JS)**    | Local web playground                  | Apache-2.0, free         | `node tools/server.js 7432` from the JS SDK                                                             |
 
 ### 5.0 TigerTag SDK for Python
 
@@ -834,7 +837,7 @@ pip install tigertag[full]     # + ECDSA verification + database sync
 from tigertag import TigerTag
 
 # From an NFC SDK (nfcpy, Android NFC, iOS CoreNFC, flutter_nfc_kit…)
-tag = TigerTag.from_pages(payload, uid=uid)
+tag = TigerTag.from_pages(uid, payload)
 
 # Or from a binary dump file (.bin)
 tag = TigerTag.from_file("dump.bin")
@@ -849,7 +852,7 @@ print(tag.describe())    # one-paragraph natural-language description
 
 | Capability | API | Notes |
 | --- | --- | --- |
-| Parse from NFC SDK | `TigerTag.from_pages(payload, uid)` | 80 or 144 bytes + 7-byte UID |
+| Parse from NFC SDK | `TigerTag.from_pages(uid, payload)` | 80 or 144 bytes + 7-byte UID |
 | Parse from binary dump | `TigerTag.from_dump(data)` | 80, 144, or 180 bytes |
 | Parse from file | `TigerTag.from_file(path)` | Reads `.bin`, then calls `from_dump` |
 | Create a new tag | `TigerTag.create(**kwargs)` | Builds TigerTag or TigerTag+ from fields |
@@ -876,7 +879,44 @@ Bambu, and more — ideal for integration testing without physical chips.
 
 ---
 
-### 5.1 TigerTag Studio Manager (open source)
+### 5.1 TigerTag SDK for JavaScript
+
+The **official JavaScript SDK** for the TigerTag protocol. Mirrors the Python SDK API in native Node.js — no Python runtime, no subprocess. Used internally by Tiger Studio Manager for all chip parsing, writing, and cloud sync.
+
+**Install:**
+
+```bash
+npm install tigertag
+```
+
+**Quick start:**
+
+```js
+const { TigerTag } = require('tigertag');
+
+// From an NFC reader (nfc-pcsc, ACR122U…)
+const tag = TigerTag.fromPages(uid, payload);   // Buffer(7) + Buffer(144)
+
+console.log(tag.pretty());       // formatted human-readable summary
+console.log(String(tag.verify())); // ✅ VALID / ⬜ NOT SIGNED / ❌ INVALID
+console.log(tag.toDict());       // fully resolved object — IDs replaced by labels
+```
+
+**Core capabilities:** parse · verify ECDSA-P256 · create · patch · serialize to bytes · cloud diff/patch — identical feature set to the Python SDK.
+
+**Interactive playground:**
+
+```bash
+node tools/server.js 7432   # then open http://localhost:7432/tools/playground.html
+```
+
+**Node.js support:** 18+. **License:** Apache-2.0.
+
+🔗 [TigerTag-Project/TigerTag-SDK-JS](https://github.com/TigerTag-Project/TigerTag-SDK-JS)
+
+---
+
+### 5.2 TigerTag Studio Manager (open source)
 
 Desktop application for **Windows, macOS, and Linux** that manages your 3D-printing filament inventory. It reads RFID spool tags through an ACR122U NFC reader, tracks remaining weight, and surfaces print temperatures, MSDS/TDS links, and product details. Auto-updates via GitHub Releases.
 
@@ -1150,10 +1190,10 @@ Deployment as of 2026:
 pip install tigertag           — zero-dependency offline core
 pip install tigertag[full]     — + ECDSA (cryptography) + sync (requests)
 Repo: https://github.com/TigerTag-Project/TigerTag-SDK-Python
-Version: 1.1.0 (Production/Stable). Python 3.8–3.12. License: Apache-2.0.
+Version: 1.1.1 (Production/Stable). Python 3.8–3.12. License: Apache-2.0.
 Key classes:
 - TigerTag (dataclass) — parse, create, serialize, patch, verify, diff
-  Constructors: from_pages(payload,uid) | from_dump(data) | from_file(path) | create(**kw) | as_init() | erase()
+  Constructors: from_pages(uid,payload) | from_dump(data) | from_file(path) | create(**kw) | as_init() | erase()
   Read: to_bytes() | to_dict() | to_raw_dict() | pretty() | describe()
   Write: patch(**kw) — immutable, returns new instance
   Verify: verify() → SignatureResult (VALID/INVALID/UNSIGNED/NO_CRYPTO)

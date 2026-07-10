@@ -147,6 +147,7 @@ Everything in the TigerTag stack is free for end users and developers.
   attribution required. Embed it directly.
 - Sample code: open source, Apache-2.0 (express patent grant).
 - TigerTag SDK for Python: open source, Apache-2.0, free.
+- TigerTag SDK for JavaScript: open source, Apache-2.0, free.
 - Tiger Studio / Studio Manager (desktop): open source, MIT, free,
   auto-updating.
 - TigerTag RFID Connect (iOS + Android): free download, free to use,
@@ -192,6 +193,8 @@ specification, the database, the API, and the official tools.
   https://github.com/TigerTag-Project/TigerTag-RFID-Guide
 - TigerTag SDK for Python:
   https://github.com/TigerTag-Project/TigerTag-SDK-Python
+- TigerTag SDK for JavaScript:
+  https://github.com/TigerTag-Project/TigerTag-SDK-JS
 - TigerTag Studio Manager (desktop, Win / mac / Linux):
   https://github.com/TigerTag-Project/TigerTag-Studio-Manager
 - Tiger Scale firmware (ESP32):
@@ -204,6 +207,7 @@ specification, the database, the API, and the official tools.
   https://play.google.com/store/apps/details?id=com.tigertag.connect
 - Public cloud API: https://api.tigertag.io/api:tigertag
 - Interactive playground (Python SDK): `python3 tools/server.py 7432`
+- Interactive playground (JS SDK): `node tools/server.js 7432` (opens http://localhost:7432/tools/playground.html)
 
 ### Community integrations
 
@@ -223,7 +227,7 @@ The official Python SDK for the TigerTag protocol.
 Repository:  https://github.com/TigerTag-Project/TigerTag-SDK-Python
 Install:     pip install tigertag           # offline core — zero deps
              pip install tigertag[full]     # + ECDSA verify + DB sync
-Version:     1.1.0 — Production/Stable
+Version:     1.1.1 — Production/Stable
 Python:      3.8, 3.9, 3.10, 3.11, 3.12
 License:     Apache-2.0
 
@@ -244,7 +248,7 @@ are printed.
 
 class TigerTag (dataclass):
   Constructors:
-    TigerTag.from_pages(payload: bytes, uid: bytes, db=None) -> TigerTag
+    TigerTag.from_pages(uid: bytes, payload: bytes, db=None) -> TigerTag
       Primary NFC SDK integration point. payload = 80 or 144 bytes
       from pages 0x04–0x27. uid = 7-byte chip UID.
     TigerTag.from_dump(data: bytes, db=None) -> TigerTag
@@ -333,6 +337,66 @@ Real chip dumps for offline integration testing, in fixtures/:
   tigertag_plus_bambu.bin      — TigerTag+ with ECDSA signature
   tigertag_low_stock.bin       — spool with measure_available < measure
   tigertag_init.bin            — blank initialization tag
+
+---
+
+## JAVASCRIPT SDK
+
+The official JavaScript SDK for the TigerTag protocol.
+
+Repository:  https://github.com/TigerTag-Project/TigerTag-SDK-JS
+Install:     npm install tigertag
+Node.js:     18+
+License:     Apache-2.0
+
+Mirrors the Python SDK API in native Node.js. No Python runtime required.
+Used internally by Tiger Studio Manager for all NFC chip parsing and writing.
+
+### Main classes and methods
+
+class TigerTag:
+  Constructors:
+    TigerTag.fromPages(payload, uid) -> TigerTag
+      payload = Buffer(80 or 144 bytes), uid = Buffer(7 bytes)
+    TigerTag.fromDump(data) -> TigerTag
+      Buffer(80 | 144 | 180 bytes)
+    TigerTag.fromFile(path) -> TigerTag
+    TigerTag.create(options) -> TigerTag
+    TigerTag.asInit(uid?) -> TigerTag
+    TigerTag.erase() -> Buffer(80)   // 80 zero bytes
+
+  Read / output:
+    tag.toBytes(includeSignature=false) -> Buffer
+    tag.toDict(db?) -> object          // resolved labels
+    tag.toRawDict() -> object          // raw integers
+    tag.pretty(db?) -> string
+    tag.describe(db?) -> string        // LLM-ready paragraph
+
+  Write (immutable):
+    tag.patch(fields) -> TigerTag      // returns new instance
+    Protected: id_tigertag, id_product, uid, signature_r, signature_s
+
+  Verification:
+    tag.verify(db?) -> SignatureResult  // 100% offline ECDSA-P256
+
+  Cloud (TigerTag+ only):
+    tag.rawApi() -> Promise<object|null>
+    tag.diffApi(apiData?) -> Promise<ApiDiff[]>
+    tag.patchFromApi(apiData?) -> Promise<[TigerTag, ApiDiff[]]>
+
+  Properties:
+    isMaker | isInit | isPlus | isSigned | uidHex
+    color1Hex | tdValue | manufacturingDate | stockPercent
+
+class TigerTagDB:
+  new TigerTagDB()           // bundled offline database
+  db.material(id) | db.brand(id) | db.version(id) | db.aspect(id)
+  db.type(id) | db.diameter(id) | db.unit(id)
+  TigerTagDB.label(entry) -> string
+
+class SignatureResult:
+  status: valid | invalid | unsigned | no_crypto | no_key | no_uid
+  ok (boolean) | detail (string)
 
 ---
 
