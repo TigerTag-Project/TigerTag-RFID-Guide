@@ -52,6 +52,27 @@ the logo on a background that reduces its contrast below legibility.
 
 ---
 
+## Neutral icon kit (no wordmark)
+
+These four assets are a generic "Tiger" icon kit: tiger-head motif only, no "TIGER TAG RFID"
+lettering. They are **additional**, not replacements — the lettered logos above
+(`TigerTag_Logo.png`, `logo_tigertag.svg`, `logo_tigertag_contouring.svg`, `icon.icns/ico/png`)
+remain the references for brand communication and are used everywhere they already are.
+
+Use the neutral kit only in product/app contexts where the name is displayed alongside the
+icon, or where a wordmark would be superfluous or illegible at the render size:
+
+| Asset | Use on |
+|---|---|
+| `logo_tigertag_head.svg` | Tiger-head lockup (head + speed lines + circuit traces), white motif on transparent — headers or contexts already labelled with the product name |
+| `logo_tiger_icon_overflow.svg` | Rounded black card icon with elements overflowing a white keyline — general app icon use |
+| `logo_tiger_icon_contained.svg` | Same icon, fully contained within the rounded card — masked contexts (round favicons, adaptive icons) |
+| `logo_tiger_icon_square.svg` | Full-bleed square variant (black fills 100% of canvas) — masked contexts requiring a square source |
+
+Same trademark terms apply: unmodified use only, no implied affiliation or endorsement.
+
+---
+
 ## Questions
 
 Trademark authorization requests and press enquiries:
