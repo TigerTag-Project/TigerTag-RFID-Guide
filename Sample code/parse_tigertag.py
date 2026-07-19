@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
-# TigerTag RFID Guide
+# TigerTag NFC (RFID-compatible) Guide
 # Copyright (c) 2025-2026 TigerTag Corp.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,7 +21,7 @@
 """
 parse_tigertag.py — TigerTag NTAG213 Offline SDK  (v1.0)
 =========================================================
-Single-file, self-contained SDK for reading TigerTag RFID chips.
+Single-file, self-contained SDK for reading TigerTag NFC/RFID chips.
 
 Spec    : https://github.com/TigerTag-Project/TigerTag-RFID-Guide
 SDK repo: https://github.com/TigerTag-Project/tigertag-sdk-python

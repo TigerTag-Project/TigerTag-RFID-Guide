@@ -42,7 +42,14 @@ Prusa Research, GS1, Bluetooth SIG).
 
 ### "TigerTag"
 
-**"TigerTag"** is a registered trademark of TigerTag Corp.
+**"TigerTag"** is a trademark of TigerTag Corp.
+
+> **Registration status.** TigerTag is claimed as an unregistered ("common law") mark and is
+> written **TigerTag™**, never TigerTag®. No application has been filed at INPI, EUIPO or the
+> USPTO yet; filing is planned (see `docs/TRADEMARK-FILING.md`). Do not write "registered"
+> or use the ® symbol anywhere until a registration certificate actually exists — claiming a
+> registration you do not hold is an offence in several jurisdictions, France included, and
+> this document is the one a partner reads before signing.
 
 TigerTag refers to the **RFID material-identification protocol**, the **cloud service**
 (`tigertag.io`), and the **official product catalogue**.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 980" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
   <title>TigerTag chip memory layout — pages 0x04 to 0x27 (144 bytes)</title>
-  <desc>Color-coded byte map of the TigerTag RFID payload. Layout on top in full width; Legend, Capacity and Key properties below in three columns. Orange: header. Blue: material. Pink: colors and HueForge TD. Green: print settings. Purple: metadata. Cyan: quantity. Gray: ECDSA-P256 signature.</desc>
+  <desc>Color-coded byte map of the TigerTag NFC/RFID payload. Layout on top in full width; Legend, Capacity and Key properties below in three columns. Orange: header. Blue: material. Pink: colors and HueForge TD. Green: print settings. Purple: metadata. Cyan: quantity. Gray: ECDSA-P256 signature.</desc>
 
   <defs>
     <style>

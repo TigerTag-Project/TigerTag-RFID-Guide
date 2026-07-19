@@ -4,7 +4,7 @@ This folder contains a pre-generated `materials.json` file that is compatible wi
 
 ## 📦 What is this?
 
-We've generated this JSON file to help Spoolman users quickly import a curated list of 3D printing materials from the TigerTag project. This dataset includes standardized material definitions based on our open-source RFID protocol for 3D printing spools.
+We've generated this JSON file to help Spoolman users quickly import a curated list of 3D printing materials from the TigerTag project. This dataset includes standardized material definitions based on our open-source NFC (RFID-compatible) protocol for 3D printing spools.
 
 ## 🌐 TigerTag REST API (Free and Open)
 
@@ -34,6 +34,6 @@ If you're using Spoolman and want to import our materials database:
 
 ## 🛠 About TigerTag
 
-TigerTag is an open-source protocol for embedding RFID data into 3D printing workflows. Learn more at [TigerTag.io](https://www.tigertag.io).
+TigerTag is an open-source protocol for embedding NFC/RFID data into 3D printing workflows. Learn more at [TigerTag.io](https://www.tigertag.io).
 
 ---
