@@ -52,8 +52,55 @@ The same data is available, always current, with no key and no login:
 | `id_type.json` | Product type identifiers |
 | `id_diameter.json` | Filament diameter identifiers |
 | `id_measure_unit.json` | Measurement unit identifiers |
-| `last_update.json` | Sync timestamp |
-| `db_update.py` | Sync tooling (Apache-2.0) |
+| `products.json` | **The full TigerTag+ product catalogue** — every referenced product with its brand, series, name, material, aspect, colour, SKU, barcode, capacity and image |
+| `last_update.json` | Sync timestamps |
+| `db_update.py` | Sync tooling for the tables above (Apache-2.0) |
+| `products_update.py` | Sync tooling for the catalogue (Apache-2.0) |
+
+### The product catalogue
+
+The tables above name the *vocabulary* — what a material or a brand id means.
+`products.json` is the **catalogue itself**: ~3 000 real products, each with the
+`id` a chip carries in `id_product`. Resolving a scanned chip to an actual
+product needs nothing more than this file.
+
+It is mirrored here so an integration can ship the catalogue with it — no API
+call, no key, no pagination, no rebuilding anything, and it works offline. Same
+deal as the reference tables.
+
+```jsonc
+{
+  "id": 1251796608,            // matches the chip's id_product
+  "product_type": "Filament",
+  "brand": "3DXTech",
+  "series": "CarbonX",
+  "name": "Black",
+  "title": "CarbonX - Black",  // series + name, pre-joined
+  "material": "PP",
+  "aspect1": "Carbon",
+  "aspect2": null,
+  "color": "#000000FF",
+  "color_info": { "type": "mono", "colors": ["#000000FF"] },
+  "measure": "750 g",
+  "sku": "PP01010750BK0",
+  "barcode": "07050135",
+  "img_src": "https://cdn.tigertag.io/img?id=1251796608&v=4",
+  "updated_at": 1785083620855
+}
+```
+
+Read `series` and `name` from their own fields — do **not** split `title` on the
+last `" - "`. A colour name may contain one: *"PLA Basic - CMYK - Magenta"* is
+series `PLA Basic` + name `CMYK - Magenta`, and splitting gets it backwards.
+
+`sku`, `barcode` and `updated_at` are **not** filled in for every product; treat
+them as optional. `id`, `product_type`, `brand`, `series`, `name`, `material`,
+`aspect1`, `color`, `color_info` and `measure` are always present.
+
+Refresh with `python products_update.py`. It walks every page, sorts by `id` and
+sorts each product's keys, so an unchanged catalogue yields a byte-identical
+file and no commit. `--check` writes nothing and exits non-zero when the mirror
+has fallen behind — handy in CI.
 
 ## A note on the public keys
 
