@@ -66,13 +66,57 @@ def fetch_remote_last_update():
     return response.json(), response.text
 
 
+def write_atomic(path, text):
+    """Write via a temp file + rename, so a good file is never half-replaced.
+
+    `open(path, "w")` truncates BEFORE writing: a crash, a full disk or a killed
+    process between those two moments leaves a truncated JSON that the app then
+    fails to parse. `os.replace` is atomic on POSIX and on Windows, so the file at
+    `path` is either entirely the old one or entirely the new one.
+    """
+    tmp = path + ".tmp"
+    try:
+        with open(tmp, "w", encoding="utf-8") as f:
+            f.write(text)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp, path)
+    finally:
+        if os.path.exists(tmp):
+            try:
+                os.remove(tmp)
+            except OSError:
+                pass
+
+
+def validate_dataset(data, filename):
+    """Refuse anything that would silently destroy a good reference file.
+
+    Every dataset here is a non-empty JSON array. A 200 response is NOT proof of
+    a good payload: an API can answer `[]` during a migration, `{"error": ...}`
+    on a soft failure, or an HTML page from a proxy — all of which parse or fail
+    in ways that would otherwise overwrite live data. The bar is deliberately
+    crude and absolute: a list, and not empty.
+    """
+    if not isinstance(data, list):
+        raise RuntimeError(
+            f"{filename}: expected a JSON array, got {type(data).__name__} — refusing to overwrite"
+        )
+    if not data:
+        raise RuntimeError(f"{filename}: the API returned an EMPTY array — refusing to overwrite")
+
+
 def download_dataset(endpoint, filename):
     url = f"{API_BASE}/{endpoint}"
     response = requests.get(url, timeout=HTTP_TIMEOUT)
     response.raise_for_status()
+    try:
+        data = response.json()
+    except ValueError as e:
+        raise RuntimeError(f"Invalid JSON received for {filename}: {e}")
+    validate_dataset(data, filename)
     path = os.path.join(TARGET_FOLDER, filename)
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(response.text)
+    write_atomic(path, json.dumps(data, ensure_ascii=False, indent=2))
     return path
 
 
@@ -103,8 +147,7 @@ def sync():
         print(f"[warn] unknown dataset key in API response: {key}")
 
     if updated or local_data != remote_data:
-        with open(LAST_UPDATE_PATH, "w", encoding="utf-8") as f:
-            f.write(remote_text)
+        write_atomic(LAST_UPDATE_PATH, remote_text)
         if "last_update.json" not in updated:
             updated.append("last_update.json")
 
@@ -116,6 +159,11 @@ if __name__ == "__main__":
         changed = sync()
     except requests.RequestException as exc:
         print(f"error: API request failed: {exc}", file=sys.stderr)
+        sys.exit(1)
+    # A bad payload is not a network error, and it must not surface as a traceback.
+    # Nothing was written when it fires — the guards run before any write.
+    except (RuntimeError, ValueError, OSError) as exc:
+        print(f"error: {exc}", file=sys.stderr)
         sys.exit(1)
 
     if changed:

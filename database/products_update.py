@@ -18,7 +18,7 @@
 # Implementing the TigerTag protocol requires no licence and no payment.
 # See LICENSING.md.
 
-"""Mirror the full TigerTag product catalogue into `products.json`.
+"""Mirror the full TigerTag product catalogue into `id_catalog.json`.
 
 Companion to `db_update.py`, which syncs the small reference tables. This one
 handles the product catalogue, and it differs in three ways that shape the
@@ -60,7 +60,7 @@ PER_PAGE = 1000
 MAX_PAGES = 100
 
 TARGET_FOLDER = os.path.dirname(os.path.abspath(__file__))
-PRODUCTS_PATH = os.path.join(TARGET_FOLDER, "products.json")
+CATALOG_PATH = os.path.join(TARGET_FOLDER, "id_catalog.json")
 LAST_UPDATE_PATH = os.path.join(TARGET_FOLDER, "last_update.json")
 
 
@@ -99,11 +99,51 @@ def render(items):
     return json.dumps(items, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
 
 
+def write_atomic(path, text):
+    """Write via a temp file + rename, so a good file is never half-replaced.
+
+    `open(path, "w")` truncates BEFORE writing: a crash, a full disk or a killed
+    process between those two moments leaves a truncated JSON that the app then
+    fails to parse. `os.replace` is atomic on POSIX and on Windows, so the file at
+    `path` is either entirely the old one or entirely the new one.
+    """
+    tmp = path + ".tmp"
+    try:
+        with open(tmp, "w", encoding="utf-8") as f:
+            f.write(text)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp, path)
+    finally:
+        if os.path.exists(tmp):
+            try:
+                os.remove(tmp)
+            except OSError:
+                pass
+
+
+def validate_dataset(data, filename):
+    """Refuse anything that would silently destroy a good reference file.
+
+    Every dataset here is a non-empty JSON array. A 200 response is NOT proof of
+    a good payload: an API can answer `[]` during a migration, `{"error": ...}`
+    on a soft failure, or an HTML page from a proxy — all of which parse or fail
+    in ways that would otherwise overwrite live data. The bar is deliberately
+    crude and absolute: a list, and not empty.
+    """
+    if not isinstance(data, list):
+        raise RuntimeError(
+            f"{filename}: expected a JSON array, got {type(data).__name__} — refusing to overwrite"
+        )
+    if not data:
+        raise RuntimeError(f"{filename}: the API returned an EMPTY array — refusing to overwrite")
+
+
 def read_local():
-    if not os.path.exists(PRODUCTS_PATH):
+    if not os.path.exists(CATALOG_PATH):
         return None
     try:
-        with open(PRODUCTS_PATH, "r", encoding="utf-8") as f:
+        with open(CATALOG_PATH, "r", encoding="utf-8") as f:
             return f.read()
     except OSError:
         return None
@@ -151,17 +191,16 @@ def sync(check_only=False):
 
     fresh, current = render(items), read_local()
     if fresh == current:
-        print(f"[ok]   products.json: up to date ({len(items)} products)")
+        print(f"[ok]   id_catalog.json: up to date ({len(items)} products)")
         return False
 
     if check_only:
-        print(f"[stale] products.json differs from the API ({len(items)} products)")
+        print(f"[stale] id_catalog.json differs from the API ({len(items)} products)")
         return True
 
-    with open(PRODUCTS_PATH, "w", encoding="utf-8") as f:
-        f.write(fresh)
+    write_atomic(CATALOG_PATH, fresh)
     stamp_last_update(items)
-    print(f"[sync] products.json: written ({len(items)} products)")
+    print(f"[sync] id_catalog.json: written ({len(items)} products)")
     return True
 
 

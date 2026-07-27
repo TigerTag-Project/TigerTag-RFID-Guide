@@ -52,7 +52,7 @@ The same data is available, always current, with no key and no login:
 | `id_type.json` | Product type identifiers |
 | `id_diameter.json` | Filament diameter identifiers |
 | `id_measure_unit.json` | Measurement unit identifiers |
-| `products.json` | **The full TigerTag+ product catalogue** — every referenced product with its brand, series, name, material, aspect, colour, SKU, barcode, capacity and image |
+| `id_catalog.json` | **The full TigerTag+ product catalogue** — named like its `id_*.json` neighbours because that is what it is: the ids — every referenced product with its brand, series, name, material, aspect, colour, SKU, barcode, capacity and image |
 | `last_update.json` | Sync timestamps |
 | `db_update.py` | Sync tooling for the tables above (Apache-2.0) |
 | `products_update.py` | Sync tooling for the catalogue (Apache-2.0) |
@@ -60,7 +60,7 @@ The same data is available, always current, with no key and no login:
 ### The product catalogue
 
 The tables above name the *vocabulary* — what a material or a brand id means.
-`products.json` is the **catalogue itself**: ~3 000 real products, each with the
+`id_catalog.json` is the **catalogue itself**: ~3 000 real products, each with the
 `id` a chip carries in `id_product`. Resolving a scanned chip to an actual
 product needs nothing more than this file.
 
