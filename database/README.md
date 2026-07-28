@@ -54,8 +54,7 @@ The same data is available, always current, with no key and no login:
 | `id_measure_unit.json` | Measurement unit identifiers |
 | `id_catalog.json` | **The full TigerTag+ product catalogue** — named like its `id_*.json` neighbours because that is what it is: the ids — every referenced product with its brand, series, name, material, aspect, colour, SKU, barcode, capacity and image |
 | `last_update.json` | Sync timestamps |
-| `db_update.py` | Sync tooling for the tables above (Apache-2.0) |
-| `products_update.py` | Sync tooling for the catalogue (Apache-2.0) |
+| `db_update.py` | Sync tooling for everything above — tables and catalogue (Apache-2.0) |
 
 ### The product catalogue
 
@@ -97,10 +96,18 @@ series `PLA Basic` + name `CMYK - Magenta`, and splitting gets it backwards.
 them as optional. `id`, `product_type`, `brand`, `series`, `name`, `material`,
 `aspect1`, `color`, `color_info` and `measure` are always present.
 
-Refresh with `python products_update.py`. It walks every page, sorts by `id` and
-sorts each product's keys, so an unchanged catalogue yields a byte-identical
-file and no commit. `--check` writes nothing and exits non-zero when the mirror
-has fallen behind — handy in CI.
+Refreshed by `python db_update.py`, in the same run as the tables above — there
+is no separate catalogue command. It walks every page, sorts by `id` and sorts
+each product's keys, so an unchanged catalogue yields a byte-identical file and
+no commit. `--check` writes nothing and exits non-zero when any file has fallen
+behind — handy in CI.
+
+Unlike the tables, the catalogue has no key in `all/last_update`, so there is no
+server timestamp to compare and every run downloads it in full (~3 400 products,
+four pages, ~1.5 MB). That is why the byte-comparison above matters: the download
+is unconditional, the *write* is not. The `products` key in `last_update.json` is
+ours rather than the API's — it carries the catalogue's own newest `updated_at`,
+so it means the same thing as its neighbours.
 
 ## A note on the public keys
 
