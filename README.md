@@ -501,7 +501,18 @@ The `color_count` value from the aspect reference dataset indicates how many col
 | ------------ | ------------- | ------------------- |
 | Bicolor | 2 | <img src="Images/bicolor.svg" width="32" alt="Bicolor display"> two-color pie chart / split circle |
 | Tricolor | 3 | <img src="Images/tricolor.svg" width="32" alt="Tricolor display"> three-color pie chart / split circle |
-| Rainbow | 3 | <img src="Images/rainbow.svg" width="32" alt="Rainbow display"> circular left-to-right gradient |
+| Rainbow | 3 | <img src="Images/rainbow.svg" width="32" alt="Rainbow display"> smooth gradient on the diagonal |
+
+The pie sectors start at **12 o'clock and sweep clockwise**, so the first color
+occupies the right half of a two-color chip — which is what the illustrations
+above show. **How these colors become a picture is specified in full** — the
+decision ladder, the exact gradient expressions, test vectors and the rules for
+platforms without conic gradients — in the **material swatch convention**:
+[TigerSystem-Docs → `docs/developers/material-swatch.md`](https://github.com/TigerTag-Project/TigerSystem-Docs/blob/main/docs/developers/material-swatch.md),
+with a live [reference renderer](https://github.com/TigerTag-Project/TigerSystem-Docs/blob/main/docs/developers/material-swatch-playground.html)
+you can check an implementation against. That page also covers what a chip
+cannot express: a cloud-side product can carry an ordered color list and an
+explicit gradient type, while a chip has only these three slots and an aspect.
 
 To avoid contradictory metadata, aspects that define the number or distribution of colors SHOULD NOT be placed in both `ID Aspect 1` and `ID Aspect 2` at the same time.
 

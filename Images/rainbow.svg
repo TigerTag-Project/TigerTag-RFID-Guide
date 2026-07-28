@@ -1,6 +1,10 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="rainbowCircle" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Diagonal, top-left to bottom-right: the 135deg ramp of the material
+         swatch convention. Horizontal (x2=100% y2=0%) reads as a botched
+         bicolor, which is why every ramp in the ecosystem runs on the
+         diagonal. -->
+    <linearGradient id="rainbowCircle" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0055FF"/>
       <stop offset="50%" stop-color="#FFFFFF"/>
       <stop offset="100%" stop-color="#FF0000"/>
