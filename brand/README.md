@@ -79,7 +79,8 @@ illegible at the render size (small app icons, favicons, tray icons).
 
 | Asset | Composition | Use on |
 |---|---|---|
-| `logo_tigertag_head.svg` | Lockup (head + speed lines + circuit traces), white motif on transparent | Headers or contexts already labelled with the product name |
+| `logo_tigertag_head.svg` | Lockup (head + speed lines + circuit traces), white motif on transparent | Dark backgrounds, and headers already labelled with the product name |
+| `logo_tigertag_contouring_head.svg` | The same lockup, black motif on transparent | White and light backgrounds — the `contouring` counterpart, same rule as `logo_tigertag_contouring.svg` |
 | `logo_tiger_icon_overflow.svg` | Overflow | General app icon use |
 | `logo_tiger_icon_contained.svg` | Contained | Masked contexts (round favicons, adaptive icons) |
 | `logo_tiger_icon_square.svg` | Square | Masked contexts requiring a square source |
