@@ -98,8 +98,27 @@ separate text.
 | `logo_tigertag_icon_contained.svg` | Contained | Masked contexts (round favicons, adaptive icons) |
 | `logo_tigertag_icon_square.svg` | Square | Masked contexts requiring a square source |
 
-Same trademark terms apply to both families: unmodified use only, no implied affiliation or
-endorsement. Full rules: [`../TRADEMARK.md`](../TRADEMARK.md).
+### TigerSystem — a different mark
+
+**This is not a TigerTag icon.** TigerSystem is the ecosystem the guide sits in
+(see [TigerSystem-Docs](https://github.com/TigerTag-Project/TigerSystem-Docs)), and its icon is
+a distinct piece of artwork: a full tiger face, with none of the speed lines or circuit traces
+that identify the TigerTag families above. It is shipped here so that an integration showing
+both marks takes them from one place. Do not substitute one for the other — a TigerTag chip is
+not a TigerSystem product, and the two icons say different things.
+
+The square cut is the same file TigerTag Studio Manager uses as its application icon and
+favicon, byte for byte.
+
+| Asset | Composition | Use on |
+|---|---|---|
+| `logo_tigersystem_icon_contained.svg` | Contained | General use, and masked contexts (round favicons, adaptive icons) |
+| `logo_tigersystem_icon_square.svg` | Square | Masked contexts requiring a square source |
+
+No `overflow` cut was supplied for this family; use `contained` where you would reach for it.
+
+Same trademark terms apply to every family on this page: unmodified use only, no implied
+affiliation or endorsement. Full rules: [`../TRADEMARK.md`](../TRADEMARK.md).
 
 ---
 
