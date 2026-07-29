@@ -69,6 +69,29 @@
     "updated_at": 1763045571369
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323700",
+    "brand": "R3D",
+    "color": "#8d5342FF",
+    "color_info": {
+      "colors": [
+        "#8d5342FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1627329,
+    "img_src": "https://cdn.tigertag.io/img?id=1627329&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Brown",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E116MLS",
+    "title": "PETG Matte - Brown",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "3830063546989",
@@ -1158,11 +1181,11 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#D4AF37FF",
+    "color": "#D4AF37",
     "color_info": {
       "colors": [
-        "#D4AF37FF",
-        "#B87333FF"
+        "#D4AF37",
+        "#B87333"
       ],
       "type": "gradient"
     },
@@ -1175,7 +1198,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-GOLDCOPPER",
     "title": "PLA Silk Dual Color - Silk Dual Color Gold/Copper",
-    "updated_at": 1785248367475
+    "updated_at": 1785307390865
   },
   {
     "aspect1": "Basic",
@@ -1498,6 +1521,29 @@
     "sku": "50.203.0257",
     "title": "Matte PLA - Lavender Purple",
     "updated_at": 1784637104869
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532918394",
+    "brand": "Winkle",
+    "color": "#2E86C1FF",
+    "color_info": {
+      "colors": [
+        "#2E86C1FF"
+      ],
+      "type": "mono"
+    },
+    "id": 72694062,
+    "img_src": "https://winkle.shop/391-large_default/silk-winkle-pla-filament.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Smile Blue by Maria",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI01000175SONMARWNK",
+    "title": "PLA Silk - PLA Silk Smile Blue by Maria",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Silk",
@@ -2094,7 +2140,7 @@
       "type": "multi"
     },
     "id": 88796996,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-rdylbl-c.jpg",
+    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/SILK-C-RDYLBL.jpg",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Red+Yellow+Blue",
@@ -2102,7 +2148,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-RD+YL+BL-1.1kg",
     "title": "Multi-Color Silk - Red+Yellow+Blue",
-    "updated_at": 1785281893320
+    "updated_at": 1785313559252
   },
   {
     "aspect1": "Bicolor",
@@ -2196,6 +2242,31 @@
     "sku": "175MPLA-UGCAM-0750",
     "title": "Matt PLA - Urban Grey Camouflage",
     "updated_at": 1784884929574
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919094",
+    "brand": "Winkle",
+    "color": "#388E3CFF",
+    "color_info": {
+      "colors": [
+        "#388E3CFF",
+        "#F5F5F5FF",
+        "#D32F2FFF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 93386096,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Italia, Mexico",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001VERBLAROJWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Italia, Mexico",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Basic",
@@ -2774,7 +2845,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-ARMYGREEN",
     "title": "PLA+ PRO - PLA+ PRO Army Green",
-    "updated_at": 1785250014254
+    "updated_at": 1785307673874
   },
   {
     "aspect1": "Matt",
@@ -2984,7 +3055,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-MYRTILLE",
     "title": "PLA+ PRO - PLA+ PRO Myrtille",
-    "updated_at": 1785257026161
+    "updated_at": 1785308469849
   },
   {
     "aspect1": "Basic",
@@ -3694,7 +3765,7 @@
       "type": "multi"
     },
     "id": 165765284,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-blgnpp-c.jpg",
+    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/SILK-C-BLGNPP.jpg",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Blue+Green+Purple",
@@ -3702,7 +3773,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BL+GN+PP-1.1kg",
     "title": "Multi-Color Silk - Blue+Green+Purple",
-    "updated_at": 1785281889911
+    "updated_at": 1785313511916
   },
   {
     "aspect1": "Matt",
@@ -4120,7 +4191,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-ORANGEFIRE",
     "title": "PLA+ PRO - PLA+ PRO Orange Fire",
-    "updated_at": 1785257124464
+    "updated_at": 1785308486205
   },
   {
     "aspect1": "Basic",
@@ -4770,6 +4841,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323472",
+    "brand": "R3D",
+    "color": "#9a634cFF",
+    "color_info": {
+      "colors": [
+        "#9a634cFF"
+      ],
+      "type": "mono"
+    },
+    "id": 225392737,
+    "img_src": "https://cdn.tigertag.io/img?id=225392737&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Brown",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E123MLS",
+    "title": "PLA Matte - Brown",
+    "updated_at": null
+  },
+  {
     "aspect1": "Marble",
     "aspect2": "Basic",
     "barcode": "",
@@ -5183,7 +5277,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-WALNUTWOODNOYER",
     "title": "PLA+ PRO - PLA+ PRO Walnut Wood (Noyer)",
-    "updated_at": 1785257807153
+    "updated_at": 1785308771859
   },
   {
     "aspect1": "Basic",
@@ -6068,16 +6162,16 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#0F52BAFF",
+    "color": "#0F52BA",
     "color_info": {
       "colors": [
-        "#0F52BAFF",
-        "#1C2B22FF"
+        "#0F52BA",
+        "#1C2B22"
       ],
       "type": "gradient"
     },
     "id": 269778408,
-    "img_src": "https://cdn.tigertag.io/img?id=269778408&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=269778408&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Matte Dual Color Sapphire/Blackish-Green",
@@ -6085,7 +6179,7 @@
     "series": "PLA+ Matte Dual Color",
     "sku": "PMX-MDUAL-SAPPHIREBLACKISHGREEN",
     "title": "PLA+ Matte Dual Color - Matte Dual Color Sapphire/Blackish-Green",
-    "updated_at": 1785248738450
+    "updated_at": 1785307296934
   },
   {
     "aspect1": "Basic",
@@ -6108,7 +6202,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-MINT",
     "title": "PLA+ PRO - PLA+ PRO Mint",
-    "updated_at": 1785256932176
+    "updated_at": 1785308387855
   },
   {
     "aspect1": "Basic",
@@ -6526,6 +6620,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323427",
+    "brand": "R3D",
+    "color": "#929096FF",
+    "color_info": {
+      "colors": [
+        "#929096FF"
+      ],
+      "type": "mono"
+    },
+    "id": 290995320,
+    "img_src": "https://cdn.tigertag.io/img?id=290995320&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E118MLS",
+    "title": "PLA Matte - Grey",
+    "updated_at": null
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": null,
     "barcode": "3301060031",
@@ -6685,6 +6802,29 @@
     "sku": "3301010459",
     "title": "Hyper PLA RFID - Gold",
     "updated_at": 1784640600050
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323625",
+    "brand": "R3D",
+    "color": "#ffde6fFF",
+    "color_info": {
+      "colors": [
+        "#ffde6fFF"
+      ],
+      "type": "mono"
+    },
+    "id": 296389917,
+    "img_src": "https://cdn.tigertag.io/img?id=296389917&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Zinc Yellow",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E108MLS",
+    "title": "PETG Matte - Zinc Yellow",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -7242,7 +7382,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BK+GN-1.1kg",
     "title": "Multi-Color Silk - Black+Green",
-    "updated_at": 1785281853930
+    "updated_at": 1785313486904
   },
   {
     "aspect1": "Glow in the Dark",
@@ -7481,16 +7621,16 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#1F6FB2FF",
+    "color": "#1F6FB2",
     "color_info": {
       "colors": [
-        "#1F6FB2FF",
-        "#D32F2FFF"
+        "#1F6FB2",
+        "#D32F2F"
       ],
       "type": "gradient"
     },
     "id": 322010043,
-    "img_src": "https://cdn.tigertag.io/img?id=322010043&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=322010043&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Matte Dual Color Blue/Red",
@@ -7498,7 +7638,7 @@
     "series": "PLA+ Matte Dual Color",
     "sku": "PMX-MDUAL-BLUERED",
     "title": "PLA+ Matte Dual Color - Matte Dual Color Blue/Red",
-    "updated_at": 1785248738450
+    "updated_at": 1785307261001
   },
   {
     "aspect1": "Bicolor",
@@ -7815,7 +7955,7 @@
       "type": "multi"
     },
     "id": 330013485,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-bkgd-c.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=330013485&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Black+Gold",
@@ -7823,7 +7963,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BK+GD-1.1kg",
     "title": "Multi-Color Silk - Black+Gold",
-    "updated_at": 1785281851838
+    "updated_at": 1785313463534
   },
   {
     "aspect1": "Basic",
@@ -8657,7 +8797,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-PAMPLEMOUSSE",
     "title": "PLA+ PRO - PLA+ PRO Pamplemousse",
-    "updated_at": 1785257236153
+    "updated_at": 1785308565433
   },
   {
     "aspect1": "Basic",
@@ -8841,7 +8981,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-LIGHTLILAS",
     "title": "PLA+ PRO - PLA+ PRO Light Lilas",
-    "updated_at": 1785256725927
+    "updated_at": 1785308356015
   },
   {
     "aspect1": "Basic",
@@ -9098,6 +9238,29 @@
     "updated_at": 1785268605677
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323441",
+    "brand": "R3D",
+    "color": "#ee4030FF",
+    "color_info": {
+      "colors": [
+        "#ee4030FF"
+      ],
+      "type": "mono"
+    },
+    "id": 388095235,
+    "img_src": "https://cdn.tigertag.io/img?id=388095235&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Chinese Red",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E120MLS",
+    "title": "PLA Matte - Chinese Red",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -9164,7 +9327,7 @@
     "series": "PLA+ PRO",
     "sku": "27-YQ01-VQF9",
     "title": "PLA+ PRO - PLA+ PRO Light Lemon",
-    "updated_at": 1785256675156
+    "updated_at": 1785308350137
   },
   {
     "aspect1": "Basic",
@@ -9742,7 +9905,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-BLUE",
     "title": "PLA+ PRO - PLA+ PRO Blue",
-    "updated_at": 1785251603374
+    "updated_at": 1785307798044
   },
   {
     "aspect1": "Matt",
@@ -9904,6 +10067,29 @@
     "sku": "B0381016",
     "title": "PETG Lite - Transparent Red",
     "updated_at": 1785280281235
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323779",
+    "brand": "R3D",
+    "color": "#638cb8FF",
+    "color_info": {
+      "colors": [
+        "#638cb8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 419223684,
+    "img_src": "https://cdn.tigertag.io/img?id=419223684&v=1",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "Deep Navy Blue",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC8E105MLS",
+    "title": "PETG Matte - Deep Navy Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -10411,6 +10597,29 @@
     "series": "PLA Matte",
     "sku": "SL-N-PLAYG-BW-1KG-A",
     "title": "PLA Matte - Bone White",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323526",
+    "brand": "R3D",
+    "color": "#f5d6d9FF",
+    "color_info": {
+      "colors": [
+        "#f5d6d9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 445274092,
+    "img_src": "https://cdn.tigertag.io/img?id=445274092&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Apricot Pollen",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E113MLS",
+    "title": "PLA Matte - Apricot Pollen",
     "updated_at": null
   },
   {
@@ -10947,6 +11156,29 @@
     "sku": "G0114003",
     "title": "PLA Matte High-Speed Triple-Color - Black & yellow & blue",
     "updated_at": 1785272107642
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323656",
+    "brand": "R3D",
+    "color": "#7dd2e8FF",
+    "color_info": {
+      "colors": [
+        "#7dd2e8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 469783013,
+    "img_src": "https://cdn.tigertag.io/img?id=469783013&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E111MLS",
+    "title": "PETG Matte - Sky Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -11528,6 +11760,29 @@
     "updated_at": 1754554116755
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323786",
+    "brand": "R3D",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 497310253,
+    "img_src": "https://cdn.tigertag.io/img?id=497310253&v=1",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA8E101MMS",
+    "title": "PLA Matte - Black",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "3830063544930",
@@ -11665,6 +11920,31 @@
     "sku": "PWB-3D-F4125",
     "title": "PLA Starter - Rose Beige Skin",
     "updated_at": 1752672081092
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919308",
+    "brand": "Winkle",
+    "color": "#D32F2FFF",
+    "color_info": {
+      "colors": [
+        "#D32F2FFF",
+        "#388E3CFF",
+        "#D32F2FFF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 500954687,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Portugal, Marruecos",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001ROJVERWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Portugal, Marruecos",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Basic",
@@ -11805,6 +12085,29 @@
     "updated_at": 1782976076629
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323687",
+    "brand": "R3D",
+    "color": "#6cb06dFF",
+    "color_info": {
+      "colors": [
+        "#6cb06dFF"
+      ],
+      "type": "mono"
+    },
+    "id": 509447480,
+    "img_src": "https://cdn.tigertag.io/img?id=509447480&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Olive Green",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E114MLS",
+    "title": "PETG Matte - Olive Green",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -11871,7 +12174,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-LIGHTPINK",
     "title": "PLA+ PRO - PLA+ PRO Light Pink",
-    "updated_at": 1785256794245
+    "updated_at": 1785308367426
   },
   {
     "aspect1": "Matt",
@@ -11986,7 +12289,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-PISTACHIO",
     "title": "PLA+ PRO - PLA+ PRO Pistachio",
-    "updated_at": 1785257335961
+    "updated_at": 1785308582238
   },
   {
     "aspect1": "Basic",
@@ -12195,7 +12498,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-BLOODRED",
     "title": "PLA+ PRO - PLA+ PRO Blood Red",
-    "updated_at": 1785251511949
+    "updated_at": 1785307790968
   },
   {
     "aspect1": "Silk",
@@ -12521,6 +12824,29 @@
     "sku": "PWB-3D-FM3C4325",
     "title": "PLA Magic - Army",
     "updated_at": null
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915652",
+    "brand": "Winkle",
+    "color": "#E0115FFF",
+    "color_info": {
+      "colors": [
+        "#E0115FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 537351435,
+    "img_src": "https://winkle.shop/391-large_default/silk-winkle-pla-filament.jpg",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Ruby Pink",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175ROSRUBWNK",
+    "title": "PLA Silk - PLA Silk Ruby Pink",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Basic",
@@ -12916,7 +13242,7 @@
     "series": "PLA+ PRO",
     "sku": "1A-4BVU-YCMG",
     "title": "PLA+ PRO - PLA+ PRO Fruity Melon",
-    "updated_at": 1785253749465
+    "updated_at": 1785308047934
   },
   {
     "aspect1": "Basic",
@@ -13407,10 +13733,10 @@
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#E8720CFF",
+    "color": "#E8720C",
     "color_info": {
       "colors": [
-        "#E8720CFF"
+        "#E8720C"
       ],
       "type": "mono"
     },
@@ -13423,7 +13749,7 @@
     "series": "PETG",
     "sku": "PMX-PETG-ORANGEPUMPKIN",
     "title": "PETG - PETG Orange Pumpkin",
-    "updated_at": 1785248176772
+    "updated_at": 1785307159919
   },
   {
     "aspect1": "Neon",
@@ -13699,6 +14025,29 @@
     "series": "PLA+",
     "sku": "PLA+175J1R1",
     "title": "PLA+ - GOLD",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323410",
+    "brand": "R3D",
+    "color": "#fafafaFF",
+    "color_info": {
+      "colors": [
+        "#fafafaFF"
+      ],
+      "type": "mono"
+    },
+    "id": 599939002,
+    "img_src": "https://cdn.tigertag.io/img?id=599939002&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E117MLS",
+    "title": "PLA Matte - White",
     "updated_at": null
   },
   {
@@ -14906,7 +15255,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-DARKBLUE",
     "title": "PLA+ PRO - PLA+ PRO Dark Blue",
-    "updated_at": 1785252689063
+    "updated_at": 1785307926927
   },
   {
     "aspect1": "Basic",
@@ -14953,6 +15302,31 @@
     "sku": "50.203.0218",
     "title": "Rapid PETG - Red",
     "updated_at": 1784559511911
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919155",
+    "brand": "Winkle",
+    "color": "#F4D03FFF",
+    "color_info": {
+      "colors": [
+        "#F4D03FFF",
+        "#D32F2FFF",
+        "#1F6FB2FF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 642579301,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Colombia",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175AMAROJAZUWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Colombia",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Silk",
@@ -15484,6 +15858,29 @@
     "updated_at": 1784640890933
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915256",
+    "brand": "Winkle",
+    "color": "#4682B4",
+    "color_info": {
+      "colors": [
+        "#4682B4"
+      ],
+      "type": "mono"
+    },
+    "id": 666730760,
+    "img_src": "https://cdn.tigertag.io/img?id=666730760&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Steel Blue",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175AZUACEWNK",
+    "title": "PLA Silk - PLA Silk Steel Blue",
+    "updated_at": 1785313070651
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936715368",
@@ -15897,6 +16294,29 @@
     "sku": "DLZ-JY-PLA-TPYL-1.1kg-C",
     "title": "Standard PLA - Transparent Yellow",
     "updated_at": 1785268066628
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323762",
+    "brand": "R3D",
+    "color": "#f07471FF",
+    "color_info": {
+      "colors": [
+        "#f07471FF"
+      ],
+      "type": "mono"
+    },
+    "id": 676936555,
+    "img_src": "https://cdn.tigertag.io/img?id=676936555&v=1",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "China Red",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC8E104MLS",
+    "title": "PETG Matte - China Red",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -17424,7 +17844,7 @@
     "series": "PLA+ PRO",
     "sku": "19-U9MB-08C2",
     "title": "PLA+ PRO - PLA+ PRO Red Racing",
-    "updated_at": 1785257548161
+    "updated_at": 1785308676867
   },
   {
     "aspect1": "Basic",
@@ -17801,10 +18221,10 @@
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#C62839FF",
+    "color": "#C62839",
     "color_info": {
       "colors": [
-        "#C62839FF"
+        "#C62839"
       ],
       "type": "mono"
     },
@@ -17817,7 +18237,7 @@
     "series": "PETG",
     "sku": "PMX-PETG-STRAWBERRY",
     "title": "PETG - PETG Strawberry",
-    "updated_at": 1785248176772
+    "updated_at": 1785307179907
   },
   {
     "aspect1": "Matt",
@@ -20572,7 +20992,7 @@
     "series": "PLA+ PRO",
     "sku": "2J-GBPL-J1JE",
     "title": "PLA+ PRO - PLA+ PRO Beige",
-    "updated_at": 1785250405761
+    "updated_at": 1785307679845
   },
   {
     "aspect1": "Fiber",
@@ -20711,6 +21131,31 @@
     "sku": "DLZ-JY-PLAMATTE-LB-1.1kg-C",
     "title": "PLA Matte - Light Blue",
     "updated_at": 1785272426533
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532918868",
+    "brand": "Winkle",
+    "color": "#1F6FB2FF",
+    "color_info": {
+      "colors": [
+        "#1F6FB2FF",
+        "#7B2D8EFF",
+        "#C2185BFF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 877481115,
+    "img_src": "https://cdn.tigertag.io/img?id=877481115&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Metamorphosis",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175METMETWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Metamorphosis",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Matt",
@@ -23230,7 +23675,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BK+BL-1.1kg",
     "title": "Multi-Color Silk - Black+Blue",
-    "updated_at": 1785281876219
+    "updated_at": 1785313446512
   },
   {
     "aspect1": "Basic",
@@ -23830,7 +24275,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-BIRCHWOODBOULEAU",
     "title": "PLA+ PRO - PLA+ PRO Birch Wood (Bouleau)",
-    "updated_at": 1785250749254
+    "updated_at": 1785307685854
   },
   {
     "aspect1": "Basic",
@@ -23883,11 +24328,11 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#1B4D3EFF",
+    "color": "#1B4D3E",
     "color_info": {
       "colors": [
-        "#1B4D3EFF",
-        "#101010FF"
+        "#1B4D3E",
+        "#101010"
       ],
       "type": "gradient"
     },
@@ -23900,7 +24345,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-DARKGREENBLACK",
     "title": "PLA Silk Dual Color - Silk Dual Color Dark Green/Black",
-    "updated_at": 1785248367475
+    "updated_at": 1785307384026
   },
   {
     "aspect1": "Basic",
@@ -24102,7 +24547,7 @@
       "type": "multi"
     },
     "id": 1004878576,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-rdbl-c.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=1004878576&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Red+Blue",
@@ -24110,7 +24555,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-RD+BL-1.1kg",
     "title": "Multi-Color Silk - Red+Blue",
-    "updated_at": 1785281851297
+    "updated_at": 1785313547937
   },
   {
     "aspect1": "Silk",
@@ -25780,15 +26225,15 @@
     "aspect2": "Gloss",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#B7410EFF",
+    "color": "#B7410E",
     "color_info": {
       "colors": [
-        "#B7410EFF"
+        "#B7410E"
       ],
       "type": "mono"
     },
     "id": 1073110473,
-    "img_src": "https://cdn.tigertag.io/img?id=1073110473&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1073110473&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk High Glossy Red Copper",
@@ -25796,7 +26241,7 @@
     "series": "PLA Silk High Glossy",
     "sku": "PMX-SGLOSS-REDCOPPER",
     "title": "PLA Silk High Glossy - Silk High Glossy Red Copper",
-    "updated_at": 1785248532755
+    "updated_at": 1785307570853
   },
   {
     "aspect1": "Basic",
@@ -25958,7 +26403,7 @@
     "series": "PLA+ PRO",
     "sku": "2U-5COL-1308",
     "title": "PLA+ PRO - PLA+ PRO Earth Red",
-    "updated_at": 1785253324077
+    "updated_at": 1785308022940
   },
   {
     "aspect1": "Basic",
@@ -26442,7 +26887,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-PK+GD-1.1kg",
     "title": "Multi-Color Silk - Pink+Gold",
-    "updated_at": 1785281848644
+    "updated_at": 1785313547009
   },
   {
     "aspect1": "Silk",
@@ -26587,15 +27032,15 @@
     "aspect2": "Gloss",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A"
       ],
       "type": "mono"
     },
     "id": 1100532727,
-    "img_src": "https://cdn.tigertag.io/img?id=1100532727&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1100532727&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk High Glossy Black",
@@ -26603,7 +27048,7 @@
     "series": "PLA Silk High Glossy",
     "sku": "PMX-SGLOSS-BLACK",
     "title": "PLA Silk High Glossy - Silk High Glossy Black",
-    "updated_at": 1785248532755
+    "updated_at": 1785307497920
   },
   {
     "aspect1": "Basic",
@@ -26627,6 +27072,29 @@
     "sku": "376034597266",
     "title": "PETG - ESD",
     "updated_at": 1763045553298
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323540",
+    "brand": "R3D",
+    "color": "#83d3e7FF",
+    "color_info": {
+      "colors": [
+        "#83d3e7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1101825059,
+    "img_src": "https://cdn.tigertag.io/img?id=1101825059&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Light Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E115MLS",
+    "title": "PLA Matte - Light Sky Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Carbon",
@@ -26858,17 +27326,17 @@
     "series": "PLA+ PRO",
     "sku": "36-8F2D-HPAW",
     "title": "PLA+ PRO - PLA+ PRO Blue Navy",
-    "updated_at": 1785251800166
+    "updated_at": 1785307810857
   },
   {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#7B2D8EFF",
+    "color": "#7B2D8E",
     "color_info": {
       "colors": [
-        "#7B2D8EFF"
+        "#7B2D8E"
       ],
       "type": "mono"
     },
@@ -26881,7 +27349,7 @@
     "series": "PETG",
     "sku": "PMX-PETG-PURPLE",
     "title": "PETG - PETG Purple",
-    "updated_at": 1785248176772
+    "updated_at": 1785307174126
   },
   {
     "aspect1": "Silk",
@@ -27931,15 +28399,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A"
       ],
       "type": "mono"
     },
     "id": 1142892306,
-    "img_src": "https://cdn.tigertag.io/img?id=1142892306&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1142892306&v=4",
     "material": "PETG",
     "measure": "1 kg",
     "name": "PETG Black",
@@ -27947,7 +28415,30 @@
     "series": "PETG",
     "sku": "PMX-PETG-BLACK",
     "title": "PETG - PETG Black",
-    "updated_at": 1785248176772
+    "updated_at": 1785307015039
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323588",
+    "brand": "R3D",
+    "color": "#f07471FF",
+    "color_info": {
+      "colors": [
+        "#f07471FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1142948061,
+    "img_src": "https://cdn.tigertag.io/img?id=1142948061&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "China Red",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E104MLS",
+    "title": "PETG Matte - China Red",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -28384,7 +28875,7 @@
     "series": "PLA+ PRO",
     "sku": "32-3VTD-2UDH",
     "title": "PLA+ PRO - PLA+ PRO Gray",
-    "updated_at": 1785254394170
+    "updated_at": 1785308149933
   },
   {
     "aspect1": "Clear",
@@ -28453,7 +28944,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-INDIGO",
     "title": "PLA+ PRO - PLA+ PRO Indigo",
-    "updated_at": 1785255251431
+    "updated_at": 1785308235847
   },
   {
     "aspect1": "Wood",
@@ -28493,7 +28984,7 @@
       "type": "multi"
     },
     "id": 1172416088,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-bkgdpp-c.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=1172416088&v=2",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Black+Gold+Purple",
@@ -28501,7 +28992,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BK+GD+PP-1.1kg",
     "title": "Multi-Color Silk - Black+Gold+Purple",
-    "updated_at": 1785281895641
+    "updated_at": 1785313479908
   },
   {
     "aspect1": "Basic",
@@ -28942,7 +29433,7 @@
     "series": "PLA+ Matte Tricolor",
     "sku": "PMX-MTRI-PINKPURPLEYELLOW",
     "title": "PLA+ Matte Tricolor - Matte Tricolor Pink/Purple/Yellow",
-    "updated_at": 1785257954172
+    "updated_at": 1785307364918
   },
   {
     "aspect1": "Glitter",
@@ -29174,7 +29665,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-DARKGREEN",
     "title": "PLA+ PRO - PLA+ PRO Dark Green",
-    "updated_at": 1785252892943
+    "updated_at": 1785307939845
   },
   {
     "aspect1": "Basic",
@@ -29726,7 +30217,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-IVOIRE",
     "title": "PLA+ PRO - PLA+ PRO Ivoire",
-    "updated_at": 1785255384579
+    "updated_at": 1785308242034
   },
   {
     "aspect1": "Pearl",
@@ -30143,6 +30634,29 @@
     "sku": "B0102466",
     "title": "PLA Silk - Azalea Pink",
     "updated_at": 1785265625591
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323533",
+    "brand": "R3D",
+    "color": "#1b8b3bFF",
+    "color_info": {
+      "colors": [
+        "#1b8b3bFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1248753231,
+    "img_src": "https://cdn.tigertag.io/img?id=1248753231&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Pine green",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E114MLS",
+    "title": "PLA Matte - Pine green",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -31641,7 +32155,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-FRUITYFRAMBOISEFUSHIA",
     "title": "PLA+ PRO - PLA+ PRO Fruity Framboise / Fushia",
-    "updated_at": 1785253634485
+    "updated_at": 1785308040864
   },
   {
     "aspect1": "Pastel",
@@ -31967,6 +32481,31 @@
     "sku": "PA02055",
     "title": "PolyLite™ - Beige",
     "updated_at": 1785275205243
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532918691",
+    "brand": "Winkle",
+    "color": "#D4AF37FF",
+    "color_info": {
+      "colors": [
+        "#D4AF37FF",
+        "#6B4226FF",
+        "#B87333FF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 1326762188,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Dubai Chocolate",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175CHODUBWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Dubai Chocolate",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Wood",
@@ -32413,11 +32952,11 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#C2185BFF",
+    "color": "#C2185B",
     "color_info": {
       "colors": [
-        "#C2185BFF",
-        "#90CAF9FF"
+        "#C2185B",
+        "#90CAF9"
       ],
       "type": "gradient"
     },
@@ -32430,7 +32969,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-ROSEREDLIGHTBLUE",
     "title": "PLA Silk Dual Color - Silk Dual Color Rose Red/Light Blue",
-    "updated_at": 1785248367475
+    "updated_at": 1785307485116
   },
   {
     "aspect1": "Basic",
@@ -33173,22 +33712,22 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-FRUITYPECHE",
     "title": "PLA+ PRO - PLA+ PRO Fruity Peche",
-    "updated_at": 1785253960661
+    "updated_at": 1785308126129
   },
   {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#F5F5F5FF",
+    "color": "#F5F5F5",
     "color_info": {
       "colors": [
-        "#F5F5F5FF"
+        "#F5F5F5"
       ],
       "type": "mono"
     },
     "id": 1393708497,
-    "img_src": "https://cdn.tigertag.io/img?id=1393708497&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1393708497&v=3",
     "material": "PETG",
     "measure": "1 kg",
     "name": "PETG White",
@@ -33196,7 +33735,7 @@
     "series": "PETG",
     "sku": "PMX-PETG-WHITE",
     "title": "PETG - PETG White",
-    "updated_at": 1785248176772
+    "updated_at": 1785307188233
   },
   {
     "aspect1": "Metal",
@@ -34665,15 +35204,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#5D4037FF",
+    "color": "#5D4037",
     "color_info": {
       "colors": [
-        "#5D4037FF"
+        "#5D4037"
       ],
       "type": "mono"
     },
     "id": 1451005782,
-    "img_src": "https://cdn.tigertag.io/img?id=1451005782&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1451005782&v=3",
     "material": "PETG",
     "measure": "1 kg",
     "name": "PETG Brown",
@@ -34681,7 +35220,7 @@
     "series": "PETG",
     "sku": "PMX-PETG-BROWN",
     "title": "PETG - PETG Brown",
-    "updated_at": 1785248176772
+    "updated_at": 1785307078938
   },
   {
     "aspect1": "Tricolor",
@@ -35082,16 +35621,16 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#4B0082FF",
+    "color": "#4B0082",
     "color_info": {
       "colors": [
-        "#4B0082FF",
-        "#F4D03FFF"
+        "#4B0082",
+        "#F4D03F"
       ],
       "type": "gradient"
     },
     "id": 1462960405,
-    "img_src": "https://cdn.tigertag.io/img?id=1462960405&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1462960405&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Matte Dual Color Darkpurple/Yellow",
@@ -35099,7 +35638,7 @@
     "series": "PLA+ Matte Dual Color",
     "sku": "PMX-MDUAL-DARKPURPLEYELLOW",
     "title": "PLA+ Matte Dual Color - Matte Dual Color Darkpurple/Yellow",
-    "updated_at": 1785248738450
+    "updated_at": 1785307281934
   },
   {
     "aspect1": "Translucent",
@@ -35196,6 +35735,31 @@
     "updated_at": 1762240552942
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919315",
+    "brand": "Winkle",
+    "color": "#1F6FB2FF",
+    "color_info": {
+      "colors": [
+        "#1F6FB2FF",
+        "#F4D03FFF",
+        "#1F6FB2FF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 1471509437,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Suecia, Ucrania",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001AZUAMAWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Suecia, Ucrania",
+    "updated_at": 1785312954239
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -35239,7 +35803,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-DARKBROWN",
     "title": "PLA+ PRO - PLA+ PRO Dark Brown",
-    "updated_at": 1785252789482
+    "updated_at": 1785307932845
   },
   {
     "aspect1": "Translucent",
@@ -35850,15 +36414,15 @@
     "aspect2": "Gloss",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#F2D7D9FF",
+    "color": "#F2D7D9",
     "color_info": {
       "colors": [
-        "#F2D7D9FF"
+        "#F2D7D9"
       ],
       "type": "mono"
     },
     "id": 1498503585,
-    "img_src": "https://cdn.tigertag.io/img?id=1498503585&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1498503585&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk High Glossy Powder",
@@ -35866,7 +36430,7 @@
     "series": "PLA Silk High Glossy",
     "sku": "PMX-SGLOSS-POWDER",
     "title": "PLA Silk High Glossy - Silk High Glossy Powder",
-    "updated_at": 1785248532755
+    "updated_at": 1785307563864
   },
   {
     "aspect1": "Matt",
@@ -37883,6 +38447,31 @@
     "updated_at": 1752804070809
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919131",
+    "brand": "Winkle",
+    "color": "#388E3CFF",
+    "color_info": {
+      "colors": [
+        "#388E3CFF",
+        "#F4D03FFF",
+        "#388E3CFF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 1569883338,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Yellow-Green",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175VERAMAWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Yellow-Green",
+    "updated_at": 1785312954239
+  },
+  {
     "aspect1": "Matt",
     "aspect2": "Fiber",
     "barcode": "6938936716747",
@@ -38229,7 +38818,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-PAINDPICES",
     "title": "PLA+ PRO - PLA+ PRO Pain D'Ãpices",
-    "updated_at": 1785257202173
+    "updated_at": 1785308499060
   },
   {
     "aspect1": "Basic",
@@ -38555,6 +39144,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323663",
+    "brand": "R3D",
+    "color": "#d5edf7FF",
+    "color_info": {
+      "colors": [
+        "#d5edf7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1600717942,
+    "img_src": "https://cdn.tigertag.io/img?id=1600717942&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Glacier Blue",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E112MLS",
+    "title": "PETG Matte - Glacier Blue",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -38575,7 +39187,7 @@
     "series": "PLA+ PRO",
     "sku": "2B-7YIC-SQHG",
     "title": "PLA+ PRO - PLA+ PRO Black",
-    "updated_at": 1785251070847
+    "updated_at": 1785307697923
   },
   {
     "aspect1": "Basic",
@@ -38738,6 +39350,29 @@
     "sku": "PE01006",
     "title": "PolyLite™ - Yellow",
     "updated_at": 1785242429650
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323601",
+    "brand": "R3D",
+    "color": "#f0d2f0FF",
+    "color_info": {
+      "colors": [
+        "#f0d2f0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1607331718,
+    "img_src": "https://cdn.tigertag.io/img?id=1607331718&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Light Purple",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E106MLS",
+    "title": "PETG Matte - Light Purple",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -38952,16 +39587,16 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#7B2D8EFF",
+    "color": "#7B2D8E",
     "color_info": {
       "colors": [
-        "#7B2D8EFF",
-        "#D4AF37FF"
+        "#7B2D8E",
+        "#D4AF37"
       ],
       "type": "gradient"
     },
     "id": 1622606390,
-    "img_src": "https://cdn.tigertag.io/img?id=1622606390&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1622606390&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk Dual Color Purple/Gold",
@@ -38969,7 +39604,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-PURPLEGOLD",
     "title": "PLA Silk Dual Color - Silk Dual Color Purple/Gold",
-    "updated_at": 1785248367475
+    "updated_at": 1785307405907
   },
   {
     "aspect1": "Silk",
@@ -39107,7 +39742,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-BROWN",
     "title": "PLA+ PRO - PLA+ PRO Brown",
-    "updated_at": 1785258138951
+    "updated_at": 1785307816849
   },
   {
     "aspect1": "Glitter",
@@ -39292,6 +39927,29 @@
     "series": "PLA-Silk",
     "sku": "PWB-3D-F4467",
     "title": "PLA-Silk - Fuchsia",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323731",
+    "brand": "R3D",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1641410944,
+    "img_src": "https://cdn.tigertag.io/img?id=1641410944&v=1",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC8E101MLS",
+    "title": "PETG Matte - Black",
     "updated_at": null
   },
   {
@@ -41122,15 +41780,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#0D3B66FF",
+    "color": "#0D3B66",
     "color_info": {
       "colors": [
-        "#0D3B66FF"
+        "#0D3B66"
       ],
       "type": "mono"
     },
     "id": 1723942237,
-    "img_src": "https://cdn.tigertag.io/img?id=1723942237&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1723942237&v=3",
     "material": "PETG",
     "measure": "1 kg",
     "name": "PETG Dark Blue",
@@ -41138,7 +41796,7 @@
     "series": "PETG",
     "sku": "PMX-PETG-DARKBLUE",
     "title": "PETG - PETG Dark Blue",
-    "updated_at": 1785248176772
+    "updated_at": 1785307085924
   },
   {
     "aspect1": "Basic",
@@ -42793,7 +43451,7 @@
     "series": "PLA+ PRO",
     "sku": "13-9NOZ-Y8RT",
     "title": "PLA+ PRO - PLA+ PRO Orange Citrouille",
-    "updated_at": 1785257092176
+    "updated_at": 1785308480121
   },
   {
     "aspect1": "Rainbow",
@@ -43442,7 +44100,7 @@
     "series": "PLA+ PRO",
     "sku": "W0-TVKA-N3S5",
     "title": "PLA+ PRO - PLA+ PRO Moutarde",
-    "updated_at": 1785256995270
+    "updated_at": 1785308463707
   },
   {
     "aspect1": "Basic",
@@ -43645,7 +44303,7 @@
       "type": "multi"
     },
     "id": 1843724046,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-blpporyl-c.jpg",
+    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk_four-color_-BLPPORYL.jpg",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Blue+Purple+Orange+Yellow",
@@ -43653,7 +44311,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BL+PP+OR+YL-1.1kg",
     "title": "Multi-Color Silk - Blue+Purple+Orange+Yellow",
-    "updated_at": 1785281899314
+    "updated_at": 1785313512763
   },
   {
     "aspect1": "Basic",
@@ -44377,15 +45035,15 @@
     "aspect2": "Gloss",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#FFD700FF",
+    "color": "#FFD700",
     "color_info": {
       "colors": [
-        "#FFD700FF"
+        "#FFD700"
       ],
       "type": "mono"
     },
     "id": 1874714514,
-    "img_src": "https://cdn.tigertag.io/img?id=1874714514&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1874714514&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk High Glossy Yellow",
@@ -44393,7 +45051,7 @@
     "series": "PLA Silk High Glossy",
     "sku": "PMX-SGLOSS-YELLOW",
     "title": "PLA Silk High Glossy - Silk High Glossy Yellow",
-    "updated_at": 1785248532755
+    "updated_at": 1785307584929
   },
   {
     "aspect1": "Basic",
@@ -44417,6 +45075,29 @@
     "sku": "ABS+175H1P1",
     "title": "ABS+ - GREY",
     "updated_at": null
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532917786",
+    "brand": "Winkle",
+    "color": "#F5F5F5FF",
+    "color_info": {
+      "colors": [
+        "#F5F5F5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1876204158,
+    "img_src": "https://cdn.tigertag.io/img?id=1876204158&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Snow White",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175BLANIEWNK",
+    "title": "PLA Silk - PLA Silk Snow White",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Basic",
@@ -44717,7 +45398,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-PURPLECOSMOS",
     "title": "PLA+ PRO - PLA+ PRO Purple Cosmos",
-    "updated_at": 1785257467197
+    "updated_at": 1785308604063
   },
   {
     "aspect1": "Satin",
@@ -44833,6 +45514,29 @@
     "sku": "DLZ-JY-HSMPLA-SO-1.1kg",
     "title": "High Speed Matte PLA - Sunny Orange",
     "updated_at": 1785281659818
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323755",
+    "brand": "R3D",
+    "color": "#a6a8abFF",
+    "color_info": {
+      "colors": [
+        "#a6a8abFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1903225337,
+    "img_src": "https://cdn.tigertag.io/img?id=1903225337&v=1",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "Gunmetal Gray",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC8E103MLS",
+    "title": "PETG Matte - Gunmetal Gray",
+    "updated_at": null
   },
   {
     "aspect1": "Satin",
@@ -46309,7 +47013,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-SKYBLUE",
     "title": "PLA+ PRO - PLA+ PRO Sky Blue",
-    "updated_at": 1785257709236
+    "updated_at": 1785308707707
   },
   {
     "aspect1": "Basic",
@@ -46432,16 +47136,16 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#1F6FB2FF",
+    "color": "#1F6FB2",
     "color_info": {
       "colors": [
-        "#1F6FB2FF",
-        "#C2185BFF"
+        "#1F6FB2",
+        "#C2185B"
       ],
       "type": "gradient"
     },
     "id": 1978268261,
-    "img_src": "https://cdn.tigertag.io/img?id=1978268261&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1978268261&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Matte Dual Color Blue/Pink(Rose-Red)",
@@ -46449,7 +47153,7 @@
     "series": "PLA+ Matte Dual Color",
     "sku": "PMX-MDUAL-BLUEPINK",
     "title": "PLA+ Matte Dual Color - Matte Dual Color Blue/Pink(Rose-Red)",
-    "updated_at": 1785248738450
+    "updated_at": 1785307253865
   },
   {
     "aspect1": "Basic",
@@ -47056,6 +47760,29 @@
     "updated_at": 1784106145201
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323519",
+    "brand": "R3D",
+    "color": "#5d469dFF",
+    "color_info": {
+      "colors": [
+        "#5d469dFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2004238503,
+    "img_src": "https://cdn.tigertag.io/img?id=2004238503&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Purple",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E127MLS",
+    "title": "PLA Matte - Purple",
+    "updated_at": null
+  },
+  {
     "aspect1": "Metal",
     "aspect2": null,
     "barcode": "6938936713814",
@@ -47421,7 +48148,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-LIGHTGREEN",
     "title": "PLA+ PRO - PLA+ PRO Light Green",
-    "updated_at": 1785256585969
+    "updated_at": 1785308272954
   },
   {
     "aspect1": "Basic",
@@ -47514,6 +48241,29 @@
     "sku": "A06-W0-1.75-1000-spl",
     "title": "PLA Silk+ - Blanc (White)",
     "updated_at": 1783936659103
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323649",
+    "brand": "R3D",
+    "color": "#638cb8FF",
+    "color_info": {
+      "colors": [
+        "#638cb8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2018167807,
+    "img_src": "https://cdn.tigertag.io/img?id=2018167807&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Deep Navy Blue",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E110MLS",
+    "title": "PETG Matte - Deep Navy Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -47889,6 +48639,29 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
+    "barcode": "6931677323717",
+    "brand": "R3D",
+    "color": "#bf9e64FF",
+    "color_info": {
+      "colors": [
+        "#bf9e64FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2035281423,
+    "img_src": "https://cdn.tigertag.io/img?id=2035281423&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Khaki",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E117MLS",
+    "title": "PETG Matte - Khaki",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6922572225510",
     "brand": "eSun",
     "color": "#FFDB98FF",
@@ -47914,10 +48687,10 @@
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#4CAF50FF",
+    "color": "#4CAF50",
     "color_info": {
       "colors": [
-        "#4CAF50FF"
+        "#4CAF50"
       ],
       "type": "mono"
     },
@@ -47930,7 +48703,7 @@
     "series": "PETG",
     "sku": "PMX-PETG-GRASSGREEN",
     "title": "PETG - PETG Grass Green",
-    "updated_at": 1785248176772
+    "updated_at": 1785308819827
   },
   {
     "aspect1": "Silk",
@@ -48000,7 +48773,7 @@
     "series": "PLA+ PRO",
     "sku": "UF-YEE4-RBTX",
     "title": "PLA+ PRO - PLA+ PRO Saumon",
-    "updated_at": 1785257611247
+    "updated_at": 1785308688847
   },
   {
     "aspect1": "Basic",
@@ -48069,7 +48842,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-FUSHIARACING",
     "title": "PLA+ PRO - PLA+ PRO Fushia Racing",
-    "updated_at": 1785254072230
+    "updated_at": 1785308131854
   },
   {
     "aspect1": "Translucent",
@@ -48254,7 +49027,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-BLACK-3KG",
     "title": "PLA+ PRO - PLA+ PRO Black",
-    "updated_at": 1785250959671
+    "updated_at": 1785307691900
   },
   {
     "aspect1": "Basic",
@@ -48397,6 +49170,29 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
+    "barcode": "6931677323793",
+    "brand": "R3D",
+    "color": "#fafafaFF",
+    "color_info": {
+      "colors": [
+        "#fafafaFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2055772237,
+    "img_src": "https://cdn.tigertag.io/img?id=2055772237&v=1",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA8E102MMS",
+    "title": "PLA Matte - White",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6922572231429",
     "brand": "eSun",
     "color": "#717E8E",
@@ -48526,7 +49322,7 @@
       "type": "multi"
     },
     "id": 2063197631,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-bkrdylgy-c.jpg",
+    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk_four-color_-BKGYRDYL.jpg",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Black+Red+Yellow+Gray",
@@ -48534,7 +49330,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BK+RD+YL+GY-1.1kg",
     "title": "Multi-Color Silk - Black+Red+Yellow+Gray",
-    "updated_at": 1785281896606
+    "updated_at": 1785313493725
   },
   {
     "aspect1": "Translucent",
@@ -48860,6 +49656,29 @@
     "sku": "A01-Y3-1.75-1000-splfree",
     "title": "PLA Matte - Désert (Desert Tan)",
     "updated_at": 1783934576797
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532916499",
+    "brand": "Winkle",
+    "color": "#9B111EFF",
+    "color_info": {
+      "colors": [
+        "#9B111EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2076296318,
+    "img_src": "https://cdn.tigertag.io/img?id=2076296318&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Ruby Red",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175ROJRUBWNK",
+    "title": "PLA Silk - PLA Silk Ruby Red",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Matt",
@@ -49399,10 +50218,10 @@
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#D6336CFF",
+    "color": "#D6336C",
     "color_info": {
       "colors": [
-        "#D6336CFF"
+        "#D6336C"
       ],
       "type": "mono"
     },
@@ -49415,7 +50234,7 @@
     "series": "PETG",
     "sku": "PMX-PETG-PINKCHERRY",
     "title": "PETG - PETG Pink Cherry",
-    "updated_at": 1785248176772
+    "updated_at": 1785307166867
   },
   {
     "aspect1": "Bicolor",
@@ -49577,7 +50396,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-PUNCHYPINK",
     "title": "PLA+ PRO - PLA+ PRO Punchy Pink",
-    "updated_at": 1785257405192
+    "updated_at": 1785308592626
   },
   {
     "aspect1": "Basic",
@@ -49692,7 +50511,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-TERREBATTUE",
     "title": "PLA+ PRO - PLA+ PRO Terre Battue",
-    "updated_at": 1785257742290
+    "updated_at": 1785308712644
   },
   {
     "aspect1": "Basic",
@@ -49854,6 +50673,29 @@
     "sku": "G02-G1-1.75-1000-spl",
     "title": "PETG HF - Lime Green",
     "updated_at": 1784101711319
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323694",
+    "brand": "R3D",
+    "color": "#bceca9FF",
+    "color_info": {
+      "colors": [
+        "#bceca9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2116985205,
+    "img_src": "https://cdn.tigertag.io/img?id=2116985205&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "White Green",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E115MLS",
+    "title": "PETG Matte - White Green",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -50114,11 +50956,11 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#D4AF37FF",
+    "color": "#D4AF37",
     "color_info": {
       "colors": [
-        "#D4AF37FF",
-        "#C0C0C0FF"
+        "#D4AF37",
+        "#C0C0C0"
       ],
       "type": "gradient"
     },
@@ -50131,7 +50973,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-GOLDSILVER",
     "title": "PLA Silk Dual Color - Silk Dual Color Gold/Silver",
-    "updated_at": 1785248367475
+    "updated_at": 1785307397847
   },
   {
     "aspect1": "Basic",
@@ -51355,7 +52197,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-GREEN",
     "title": "PLA+ PRO - PLA+ PRO Green",
-    "updated_at": 1785254797840
+    "updated_at": 1785308155922
   },
   {
     "aspect1": "Basic",
@@ -52422,7 +53264,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-LIGHTAIGUEMARINEBLUE",
     "title": "PLA+ PRO - PLA+ PRO Light Aigue Marine Blue",
-    "updated_at": 1785256485057
+    "updated_at": 1785308260886
   },
   {
     "aspect1": "Basic",
@@ -53533,6 +54375,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323434",
+    "brand": "R3D",
+    "color": "#0762deFF",
+    "color_info": {
+      "colors": [
+        "#0762deFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2266434411,
+    "img_src": "https://cdn.tigertag.io/img?id=2266434411&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sapphire Blue",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E119MLS",
+    "title": "PLA Matte - Sapphire Blue",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936710493",
@@ -53738,7 +54603,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-BLEURACING",
     "title": "PLA+ PRO - PLA+ PRO Bleu Racing",
-    "updated_at": 1785251263034
+    "updated_at": 1785307710854
   },
   {
     "aspect1": "Silk",
@@ -54023,11 +54888,11 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#D32F2FFF",
+    "color": "#D32F2F",
     "color_info": {
       "colors": [
-        "#D32F2FFF",
-        "#1F6FB2FF"
+        "#D32F2F",
+        "#1F6FB2"
       ],
       "type": "gradient"
     },
@@ -54040,7 +54905,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-REDBLUE",
     "title": "PLA Silk Dual Color - Silk Dual Color Red/Blue",
-    "updated_at": 1785248367475
+    "updated_at": 1785307471129
   },
   {
     "aspect1": "Basic",
@@ -54274,7 +55139,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-BLEURACINGBULL",
     "title": "PLA+ PRO - PLA+ PRO Bleu Racing Bull",
-    "updated_at": 1785251356549
+    "updated_at": 1785307717829
   },
   {
     "aspect1": "Basic",
@@ -55707,7 +56572,7 @@
     "series": "PLA+ PRO",
     "sku": "3T-HQKY-TNME",
     "title": "PLA+ PRO - PLA+ PRO Potter'S Clay",
-    "updated_at": 1785257373327
+    "updated_at": 1785308587359
   },
   {
     "aspect1": "Basic",
@@ -56950,7 +57815,7 @@
       "type": "multi"
     },
     "id": 2409229364,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-rdylgn-c.jpg",
+    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/SILK-C-RDYLGN.jpg",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Red+Yellow+Green",
@@ -56958,7 +57823,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-RD+YL+GN-1.1kg",
     "title": "Multi-Color Silk - Red+Yellow+Green",
-    "updated_at": 1785281892351
+    "updated_at": 1785313559833
   },
   {
     "aspect1": "Silk",
@@ -57030,7 +57895,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-CREAMYWHITE",
     "title": "PLA+ PRO - PLA+ PRO Creamy White",
-    "updated_at": 1785252596853
+    "updated_at": 1785307919856
   },
   {
     "aspect1": "Basic",
@@ -58160,7 +59025,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-FRUITYAPPLE",
     "title": "PLA+ PRO - PLA+ PRO Fruity Apple",
-    "updated_at": 1785253432881
+    "updated_at": 1785308028849
   },
   {
     "aspect1": "Basic",
@@ -58784,7 +59649,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-GRASSGREEN",
     "title": "PLA+ PRO - PLA+ PRO Grass Green",
-    "updated_at": 1785254288076
+    "updated_at": 1785308143852
   },
   {
     "aspect1": "Silk",
@@ -59108,7 +59973,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-BLEUALPIN",
     "title": "PLA+ PRO - PLA+ PRO Bleu Alpin",
-    "updated_at": 1785251166193
+    "updated_at": 1785307704843
   },
   {
     "aspect1": "Matt",
@@ -59385,6 +60250,29 @@
     "sku": "PWB-3D-F4485",
     "title": "ASA + 5Kevlar - Black",
     "updated_at": 1755680596666
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323632",
+    "brand": "R3D",
+    "color": "#fdee90FF",
+    "color_info": {
+      "colors": [
+        "#fdee90FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2522925710,
+    "img_src": "https://cdn.tigertag.io/img?id=2522925710&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E109MLS",
+    "title": "PETG Matte - Yellow",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -60102,7 +60990,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-REDINTENSE",
     "title": "PLA+ PRO - PLA+ PRO Red Intense",
-    "updated_at": 1785257502179
+    "updated_at": 1785308670950
   },
   {
     "aspect1": "Matt",
@@ -60196,6 +61084,29 @@
     "sku": "PA17009",
     "title": "PLA - HT-Orange",
     "updated_at": 1785242224595
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323502",
+    "brand": "R3D",
+    "color": "#d7bd98FF",
+    "color_info": {
+      "colors": [
+        "#d7bd98FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2552038702,
+    "img_src": "https://cdn.tigertag.io/img?id=2552038702&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Oats",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E126MLS",
+    "title": "PLA Matte - Oats",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -60618,15 +61529,15 @@
     "aspect2": "Gloss",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#6E4B3AFF",
+    "color": "#6E4B3A",
     "color_info": {
       "colors": [
-        "#6E4B3AFF"
+        "#6E4B3A"
       ],
       "type": "mono"
     },
     "id": 2568407619,
-    "img_src": "https://cdn.tigertag.io/img?id=2568407619&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2568407619&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk High Glossy Zijin",
@@ -60634,7 +61545,7 @@
     "series": "PLA Silk High Glossy",
     "sku": "PMX-SGLOSS-ZIJIN",
     "title": "PLA Silk High Glossy - Silk High Glossy Zijin",
-    "updated_at": 1785248532755
+    "updated_at": 1785307592059
   },
   {
     "aspect1": "Carbon",
@@ -60911,7 +61822,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-LIGHTPEACH",
     "title": "PLA+ PRO - PLA+ PRO Light Peach",
-    "updated_at": 1785256757628
+    "updated_at": 1785308362220
   },
   {
     "aspect1": "Basic",
@@ -61262,6 +62173,29 @@
     "updated_at": 1785277056845
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915577",
+    "brand": "Winkle",
+    "color": "#D4AF37",
+    "color_info": {
+      "colors": [
+        "#D4AF37"
+      ],
+      "type": "mono"
+    },
+    "id": 2595303931,
+    "img_src": "https://cdn.tigertag.io/img?id=2595303931&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk King Gold",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175OROREYWNK",
+    "title": "PLA Silk - PLA Silk King Gold",
+    "updated_at": 1785313590106
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -61428,11 +62362,11 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#D32F2FFF",
+    "color": "#D32F2F",
     "color_info": {
       "colors": [
-        "#D32F2FFF",
-        "#388E3CFF"
+        "#D32F2F",
+        "#388E3C"
       ],
       "type": "gradient"
     },
@@ -61445,7 +62379,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-REDGREEN",
     "title": "PLA Silk Dual Color - Silk Dual Color Red/Green",
-    "updated_at": 1785248367475
+    "updated_at": 1785307478057
   },
   {
     "aspect1": "Basic",
@@ -61707,15 +62641,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#1565C0FF",
+    "color": "#1565C0",
     "color_info": {
       "colors": [
-        "#1565C0FF"
+        "#1565C0"
       ],
       "type": "mono"
     },
     "id": 2612834585,
-    "img_src": "https://cdn.tigertag.io/img?id=2612834585&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2612834585&v=3",
     "material": "PETG",
     "measure": "1 kg",
     "name": "PETG Blue",
@@ -61723,7 +62657,7 @@
     "series": "PETG",
     "sku": "PMX-PETG-BLUE",
     "title": "PETG - PETG Blue",
-    "updated_at": 1785248176772
+    "updated_at": 1785307045927
   },
   {
     "aspect1": "Glitter",
@@ -61887,6 +62821,31 @@
     "sku": "A01-R4-1.75-1000-splfree",
     "title": "PLA Matte - Rouge Foncé (Dark Red)",
     "updated_at": 1783932703319
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919292",
+    "brand": "Winkle",
+    "color": "#F5F5F5FF",
+    "color_info": {
+      "colors": [
+        "#F5F5F5FF",
+        "#D32F2FFF",
+        "#F5F5F5FF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 2617340204,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Polonia, Austria, Japon, Malta, Dinamarca, Suiza, Qatar, Turquia, Peru, Suiza",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001BLAROJWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Polonia, Austria, Japon, Malta, Dinamarca, Suiza, Qatar, Turquia, Peru, Suiza",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Rainbow",
@@ -62073,6 +63032,29 @@
     "sku": "CA14016",
     "title": "Panchroma™ CoPE - Cold White",
     "updated_at": 1785275008956
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323557",
+    "brand": "R3D",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2622100749,
+    "img_src": "https://cdn.tigertag.io/img?id=2622100749&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E101MLS",
+    "title": "PETG Matte - Black",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -62673,7 +63655,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-RD+GD-1.1kg",
     "title": "Multi-Color Silk - Red+Gold",
-    "updated_at": 1785281849807
+    "updated_at": 1785313558033
   },
   {
     "aspect1": "Basic",
@@ -63497,11 +64479,11 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#F4D03FFF",
+    "color": "#F4D03F",
     "color_info": {
       "colors": [
-        "#F4D03FFF",
-        "#4CAF50FF"
+        "#F4D03F",
+        "#4CAF50"
       ],
       "type": "gradient"
     },
@@ -63514,7 +64496,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-YELLOWGREEN",
     "title": "PLA Silk Dual Color - Silk Dual Color Yellow/Green",
-    "updated_at": 1785248367475
+    "updated_at": 1785307492329
   },
   {
     "aspect1": "Basic",
@@ -63624,7 +64606,7 @@
       "type": "multi"
     },
     "id": 2682589129,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-gdpprdbl-c.jpg",
+    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk_four-color_-GDPPRDBL.jpg",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Gold+Purple+Red+Blue",
@@ -63632,7 +64614,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-GD+PP+RD+BL-1.1kg",
     "title": "Multi-Color Silk - Gold+Purple+Red+Blue",
-    "updated_at": 1785281900534
+    "updated_at": 1785313519626
   },
   {
     "aspect1": "Basic",
@@ -63655,7 +64637,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-MAGENTA",
     "title": "PLA+ PRO - PLA+ PRO Magenta",
-    "updated_at": 1785256869154
+    "updated_at": 1785308377735
   },
   {
     "aspect1": "Stone",
@@ -63895,6 +64877,29 @@
     "updated_at": 1784817268533
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915331",
+    "brand": "Winkle",
+    "color": "#7C4A3AFF",
+    "color_info": {
+      "colors": [
+        "#7C4A3AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2692986321,
+    "img_src": "https://cdn.tigertag.io/img?id=2692986321&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Old Copper",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175COBANTWNK",
+    "title": "PLA Silk - PLA Silk Old Copper",
+    "updated_at": 1785312954239
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -63915,7 +64920,7 @@
     "series": "PLA+ PRO",
     "sku": "39-BOL9-GGL9",
     "title": "PLA+ PRO - PLA+ PRO Fruity Fraise",
-    "updated_at": 1785253536567
+    "updated_at": 1785308034857
   },
   {
     "aspect1": "Basic",
@@ -64168,7 +65173,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-YELLOWRACING",
     "title": "PLA+ PRO - PLA+ PRO Yellow Racing",
-    "updated_at": 1785257923186
+    "updated_at": 1785308789828
   },
   {
     "aspect1": "Bicolor",
@@ -64814,7 +65819,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-ORANGERACING",
     "title": "PLA+ PRO - PLA+ PRO Orange Racing",
-    "updated_at": 1785257157854
+    "updated_at": 1785308491847
   },
   {
     "aspect1": "Carbon",
@@ -67911,7 +68916,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-PAPERKRAFT",
     "title": "PLA+ PRO - PLA+ PRO Paper Kraft",
-    "updated_at": 1785257271449
+    "updated_at": 1785308570609
   },
   {
     "aspect1": "Carbon",
@@ -68931,6 +69936,31 @@
     "updated_at": 1783908139547
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919193",
+    "brand": "Winkle",
+    "color": "#1A1A1AFF",
+    "color_info": {
+      "colors": [
+        "#1A1A1AFF",
+        "#D32F2FFF",
+        "#F4D03FFF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 2909210317,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Alemania",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001NEGROJAMAWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Alemania",
+    "updated_at": 1785312954239
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936709794",
@@ -68975,7 +70005,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BK+PP-1.1kg",
     "title": "Multi-Color Silk - Black+Purple",
-    "updated_at": 1785281874315
+    "updated_at": 1785313487311
   },
   {
     "aspect1": "Silk",
@@ -69070,7 +70100,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BL+GN-1.1kg",
     "title": "Multi-Color Silk - Blue+Green",
-    "updated_at": 1785281850712
+    "updated_at": 1785313509836
   },
   {
     "aspect1": "Basic",
@@ -69627,6 +70657,31 @@
     "updated_at": 1782975995132
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919087",
+    "brand": "Winkle",
+    "color": "#D32F2FFF",
+    "color_info": {
+      "colors": [
+        "#D32F2FFF",
+        "#F4D03FFF",
+        "#D32F2FFF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 2946020157,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor EspaÃ±a",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001ROJAMAROJWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor EspaÃ±a",
+    "updated_at": 1785312954239
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": null,
     "barcode": "5907753131461",
@@ -70155,7 +71210,7 @@
     "series": "PLA+ PRO",
     "sku": "1A-UHY5-25H3",
     "title": "PLA+ PRO - PLA+ PRO Red Wine Bordeaux",
-    "updated_at": 1785257579340
+    "updated_at": 1785308682844
   },
   {
     "aspect1": "Silk",
@@ -70877,7 +71932,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-LAVANDE",
     "title": "PLA+ PRO - PLA+ PRO Lavande",
-    "updated_at": 1785256294672
+    "updated_at": 1785308254850
   },
   {
     "aspect1": "Silk",
@@ -71062,6 +72117,29 @@
     "sku": "PA08002",
     "title": "PolyLite™ - LW-White",
     "updated_at": 1785242224595
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532916376",
+    "brand": "Winkle",
+    "color": "#009A44",
+    "color_info": {
+      "colors": [
+        "#009A44"
+      ],
+      "type": "mono"
+    },
+    "id": 3002295762,
+    "img_src": "https://winkle.shop/391-large_default/silk-winkle-pla-filament.jpg",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Irish Green",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175VERIRLWNK",
+    "title": "PLA Silk - PLA Silk Irish Green",
+    "updated_at": 1785313271950
   },
   {
     "aspect1": "Basic",
@@ -71343,7 +72421,7 @@
     "series": "PLA+ Matte Tricolor",
     "sku": "PMX-MTRI-REDGREENBLUE",
     "title": "PLA+ Matte Tricolor - Matte Tricolor Red/Green/Blue",
-    "updated_at": 1785257997964
+    "updated_at": 1785307370946
   },
   {
     "aspect1": "Basic",
@@ -71413,6 +72491,29 @@
     "sku": "PA04040",
     "title": "PolyTerra™ - Periwinkle",
     "updated_at": 1785242286991
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323489",
+    "brand": "R3D",
+    "color": "#6b7349FF",
+    "color_info": {
+      "colors": [
+        "#6b7349FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3016896723,
+    "img_src": "https://cdn.tigertag.io/img?id=3016896723&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Army Green",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E124MLS",
+    "title": "PLA Matte - Army Green",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -71830,7 +72931,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-OAKWOODCHENE",
     "title": "PLA+ PRO - PLA+ PRO Oak Wood (Chene)",
-    "updated_at": 1785257057241
+    "updated_at": 1785308474919
   },
   {
     "aspect1": "Basic",
@@ -74493,16 +75594,16 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#4B0082FF",
+    "color": "#4B0082",
     "color_info": {
       "colors": [
-        "#4B0082FF",
-        "#388E3CFF"
+        "#4B0082",
+        "#388E3C"
       ],
       "type": "gradient"
     },
     "id": 3153436977,
-    "img_src": "https://cdn.tigertag.io/img?id=3153436977&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3153436977&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Matte Dual Color Darkpurple/Green",
@@ -74510,7 +75611,7 @@
     "series": "PLA+ Matte Dual Color",
     "sku": "PMX-MDUAL-DARKPURPLEGREEN",
     "title": "PLA+ Matte Dual Color - Matte Dual Color Darkpurple/Green",
-    "updated_at": 1785248738450
+    "updated_at": 1785307275028
   },
   {
     "aspect1": "Silk",
@@ -74764,6 +75865,29 @@
     "sku": "PWB-3D-F0226",
     "title": "BioWOOD - Natural",
     "updated_at": 1768294637156
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323496",
+    "brand": "R3D",
+    "color": "#f8c7a7FF",
+    "color_info": {
+      "colors": [
+        "#f8c7a7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3162702340,
+    "img_src": "https://cdn.tigertag.io/img?id=3162702340&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Skin",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E125MLS",
+    "title": "PLA Matte - Skin",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -75918,6 +77042,29 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175B1R1",
     "title": "PLA-Basic - BLACK",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323618",
+    "brand": "R3D",
+    "color": "#f9ae69FF",
+    "color_info": {
+      "colors": [
+        "#f9ae69FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3226058976,
+    "img_src": "https://cdn.tigertag.io/img?id=3226058976&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Yellow Orange",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E107MLS",
+    "title": "PETG Matte - Yellow Orange",
     "updated_at": null
   },
   {
@@ -77172,7 +78319,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-YELLOW",
     "title": "PLA+ PRO - PLA+ PRO Yellow",
-    "updated_at": 1785257838178
+    "updated_at": 1785308777848
   },
   {
     "aspect1": "Matt",
@@ -78118,7 +79265,7 @@
       "type": "multi"
     },
     "id": 3330703354,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-rdylgnbk-c.jpg",
+    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk_four-color_-RDYLGNBK.jpg",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Red+Yellow+Green+Black",
@@ -78126,7 +79273,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-RD+YL+GN+BK-1.1kg",
     "title": "Multi-Color Silk - Red+Yellow+Green+Black",
-    "updated_at": 1785281901419
+    "updated_at": 1785313563515
   },
   {
     "aspect1": "Basic",
@@ -78287,7 +79434,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-YELLOWBRICK",
     "title": "PLA+ PRO - PLA+ PRO Yellow Brick",
-    "updated_at": 1785257890378
+    "updated_at": 1785308783850
   },
   {
     "aspect1": "Glow in the Dark",
@@ -78587,7 +79734,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-DESERTDUST",
     "title": "PLA+ PRO - PLA+ PRO Desert Dust",
-    "updated_at": 1785252995744
+    "updated_at": 1785307945915
   },
   {
     "aspect1": "Matt",
@@ -78612,6 +79759,29 @@
     "sku": "B0301008",
     "title": "PLA Matte High Speed - Arctic Blue",
     "updated_at": 1785270476968
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915416",
+    "brand": "Winkle",
+    "color": "#E8DFC8FF",
+    "color_info": {
+      "colors": [
+        "#E8DFC8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3351711248,
+    "img_src": "https://cdn.tigertag.io/img?id=3351711248&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk White Gold",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175OROBLAWNK",
+    "title": "PLA Silk - PLA Silk White Gold",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Matt",
@@ -78726,7 +79896,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-DUCKBLUE",
     "title": "PLA+ PRO - PLA+ PRO Duck Blue",
-    "updated_at": 1785253093759
+    "updated_at": 1785308010842
   },
   {
     "aspect1": "Basic",
@@ -79801,16 +80971,16 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#0D2C54FF",
+    "color": "#0D2C54",
     "color_info": {
       "colors": [
-        "#0D2C54FF",
-        "#F4D03FFF"
+        "#0D2C54",
+        "#F4D03F"
       ],
       "type": "gradient"
     },
     "id": 3405518531,
-    "img_src": "https://cdn.tigertag.io/img?id=3405518531&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3405518531&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Matte Dual Color Dark-Blue/Yellow",
@@ -79818,7 +80988,7 @@
     "series": "PLA+ Matte Dual Color",
     "sku": "PMX-MDUAL-DARKBLUEYELLOW",
     "title": "PLA+ Matte Dual Color - Matte Dual Color Dark-Blue/Yellow",
-    "updated_at": 1785248738450
+    "updated_at": 1785307267865
   },
   {
     "aspect1": "Silk",
@@ -80417,7 +81587,7 @@
     "series": "PLA+ PRO",
     "sku": "7Q-ENFB-HOOW",
     "title": "PLA+ PRO - PLA+ PRO Dull Grey",
-    "updated_at": 1785253226196
+    "updated_at": 1785308016905
   },
   {
     "aspect1": "Basic",
@@ -80701,16 +81871,16 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#3C8D40FF",
+    "color": "#3C8D40",
     "color_info": {
       "colors": [
-        "#3C8D40FF",
-        "#8E2A4BFF"
+        "#3C8D40",
+        "#8E2A4B"
       ],
       "type": "gradient"
     },
     "id": 3443573604,
-    "img_src": "https://cdn.tigertag.io/img?id=3443573604&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3443573604&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Matte Dual Color Green/Purple-Red",
@@ -80718,7 +81888,7 @@
     "series": "PLA+ Matte Dual Color",
     "sku": "PMX-MDUAL-GREENPURPLERED",
     "title": "PLA+ Matte Dual Color - Matte Dual Color Green/Purple-Red",
-    "updated_at": 1785248738450
+    "updated_at": 1785307290138
   },
   {
     "aspect1": "Basic",
@@ -81135,7 +82305,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-BK+WT-1.1kg",
     "title": "Multi-Color Silk - Black+White",
-    "updated_at": 1785281877020
+    "updated_at": 1785313503206
   },
   {
     "aspect1": "Basic",
@@ -82056,7 +83226,7 @@
       "type": "multi"
     },
     "id": 3486785695,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-orblgn-c.jpg",
+    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/SILK-C-ORBLGN.jpg",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Orange+Blue+Green",
@@ -82064,7 +83234,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-OR+BL+GN-1.1kg",
     "title": "Multi-Color Silk - Orange+Blue+Green",
-    "updated_at": 1785281894712
+    "updated_at": 1785313532553
   },
   {
     "aspect1": "Bicolor",
@@ -82134,7 +83304,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-PURPLE",
     "title": "PLA+ PRO - PLA+ PRO Purple",
-    "updated_at": 1785257436554
+    "updated_at": 1785308599018
   },
   {
     "aspect1": "Basic",
@@ -82203,7 +83373,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-SKINCOLOR",
     "title": "PLA+ PRO - PLA+ PRO Skin Color",
-    "updated_at": 1785257678163
+    "updated_at": 1785308701257
   },
   {
     "aspect1": "Basic",
@@ -84077,6 +85247,31 @@
     "updated_at": 1785256706188
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919148",
+    "brand": "Winkle",
+    "color": "#1F6FB2FF",
+    "color_info": {
+      "colors": [
+        "#1F6FB2FF",
+        "#F5F5F5FF",
+        "#1F6FB2FF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 3563004988,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Argentina",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175AZUBLAWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Argentina",
+    "updated_at": 1785312954239
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -84166,6 +85361,29 @@
     "series": "PLA-Silk",
     "sku": "PWB-3D-F0481",
     "title": "PLA-Silk - Silver",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323465",
+    "brand": "R3D",
+    "color": "#feef57FF",
+    "color_info": {
+      "colors": [
+        "#feef57FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3567121491,
+    "img_src": "https://cdn.tigertag.io/img?id=3567121491&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E122MLS",
+    "title": "PLA Matte - Yellow",
     "updated_at": null
   },
   {
@@ -84466,7 +85684,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-FRUITYORANGE",
     "title": "PLA+ PRO - PLA+ PRO Fruity Orange",
-    "updated_at": 1785253852559
+    "updated_at": 1785308054456
   },
   {
     "aspect1": "Basic",
@@ -84884,7 +86102,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-CHESTNUTWOODCHATAIGNE",
     "title": "PLA+ PRO - PLA+ PRO Chestnut Wood (Chataigne)",
-    "updated_at": 1785252290046
+    "updated_at": 1785307901921
   },
   {
     "aspect1": "Translucent",
@@ -85092,7 +86310,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-LIGHTGREENLEMON",
     "title": "PLA+ PRO - PLA+ PRO Light Green Lemon",
-    "updated_at": 1785256639472
+    "updated_at": 1785308278853
   },
   {
     "aspect1": "Basic",
@@ -85765,6 +86983,29 @@
     "updated_at": 1760704691113
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323724",
+    "brand": "R3D",
+    "color": "#f0e4d4FF",
+    "color_info": {
+      "colors": [
+        "#f0e4d4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3638298946,
+    "img_src": "https://cdn.tigertag.io/img?id=3638298946&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Oat White",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E118MLS",
+    "title": "PETG Matte - Oat White",
+    "updated_at": null
+  },
+  {
     "aspect1": "Bicolor",
     "aspect2": "Basic",
     "barcode": "6977252425339",
@@ -86000,11 +87241,11 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#7B2D8EFF",
+    "color": "#7B2D8E",
     "color_info": {
       "colors": [
-        "#7B2D8EFF",
-        "#388E3CFF"
+        "#7B2D8E",
+        "#388E3C"
       ],
       "type": "gradient"
     },
@@ -86017,7 +87258,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-PURPLEGREEN",
     "title": "PLA Silk Dual Color - Silk Dual Color Purple/Green",
-    "updated_at": 1785248367475
+    "updated_at": 1785307463855
   },
   {
     "aspect1": "Basic",
@@ -86510,6 +87751,29 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
+    "barcode": "6931677323670",
+    "brand": "R3D",
+    "color": "#789278FF",
+    "color_info": {
+      "colors": [
+        "#789278FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3670266674,
+    "img_src": "https://cdn.tigertag.io/img?id=3670266674&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Military Green",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E113MLS",
+    "title": "PETG Matte - Military Green",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6974868565411",
     "brand": "R3D",
     "color": "#D4D4D4FF",
@@ -86715,6 +87979,31 @@
     "updated_at": 1782980351727
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532918707",
+    "brand": "Winkle",
+    "color": "#388E3CFF",
+    "color_info": {
+      "colors": [
+        "#388E3CFF",
+        "#1F6FB2FF",
+        "#7B2D8EFF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 3676989248,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Aurora Borealis",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175AURBORWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Aurora Borealis",
+    "updated_at": 1785312954239
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -86735,7 +88024,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-CHOCOLATE",
     "title": "PLA+ PRO - PLA+ PRO Chocolate",
-    "updated_at": 1785252384770
+    "updated_at": 1785307907916
   },
   {
     "aspect1": "Matt",
@@ -87548,7 +88837,7 @@
     "series": "PLA+ PRO",
     "sku": "23-8J0A-BC2J",
     "title": "PLA+ PRO - PLA+ PRO Mauve",
-    "updated_at": 1785256901172
+    "updated_at": 1785308382833
   },
   {
     "aspect1": "Silk",
@@ -87598,6 +88887,29 @@
     "updated_at": 1785274145945
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915492",
+    "brand": "Winkle",
+    "color": "#B0B0B0",
+    "color_info": {
+      "colors": [
+        "#B0B0B0"
+      ],
+      "type": "mono"
+    },
+    "id": 3729298693,
+    "img_src": "https://cdn.tigertag.io/img?id=3729298693&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Mercury Silver",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175PLAMERWNK",
+    "title": "PLA Silk - PLA Silk Mercury Silver",
+    "updated_at": 1785313806933
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -87642,6 +88954,29 @@
     "sku": "50.203.0230",
     "title": "Galaxy - Purple",
     "updated_at": 1784750528566
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323564",
+    "brand": "R3D",
+    "color": "#ffffffFF",
+    "color_info": {
+      "colors": [
+        "#ffffffFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3730310140,
+    "img_src": "https://cdn.tigertag.io/img?id=3730310140&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E102MLS",
+    "title": "PETG Matte - White",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -88175,7 +89510,7 @@
     "series": "PLA+ PRO",
     "sku": "1I-ARPA-JBIN",
     "title": "PLA+ PRO - PLA+ PRO Corail",
-    "updated_at": 1785252495557
+    "updated_at": 1785307913929
   },
   {
     "aspect1": "Basic",
@@ -88479,7 +89814,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-SILVER",
     "title": "PLA+ PRO - PLA+ PRO Silver",
-    "updated_at": 1785257645972
+    "updated_at": 1785308694939
   },
   {
     "aspect1": "Silk",
@@ -88851,7 +90186,7 @@
     "series": "PLA+ PRO",
     "sku": "22-NLG0-TYR3",
     "title": "PLA+ PRO - PLA+ PRO Pink Gold",
-    "updated_at": 1785257305080
+    "updated_at": 1785308577228
   },
   {
     "aspect1": "Basic",
@@ -89127,7 +90462,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-GREENRACING",
     "title": "PLA+ PRO - PLA+ PRO Green Racing",
-    "updated_at": 1785255094156
+    "updated_at": 1785308167861
   },
   {
     "aspect1": "Silk",
@@ -89734,15 +91069,15 @@
     "aspect2": "Gloss",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#CD7F32FF",
+    "color": "#CD7F32",
     "color_info": {
       "colors": [
-        "#CD7F32FF"
+        "#CD7F32"
       ],
       "type": "mono"
     },
     "id": 3820941496,
-    "img_src": "https://cdn.tigertag.io/img?id=3820941496&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3820941496&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk High Glossy Bronze",
@@ -89750,7 +91085,7 @@
     "series": "PLA Silk High Glossy",
     "sku": "PMX-SGLOSS-BRONZE",
     "title": "PLA Silk High Glossy - Silk High Glossy Bronze",
-    "updated_at": 1785248532755
+    "updated_at": 1785307556844
   },
   {
     "aspect1": "Carbon",
@@ -90291,15 +91626,15 @@
     "aspect2": "Gloss",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#F5F5F0FF",
+    "color": "#F5F5F0",
     "color_info": {
       "colors": [
-        "#F5F5F0FF"
+        "#F5F5F0"
       ],
       "type": "mono"
     },
     "id": 3865276960,
-    "img_src": "https://cdn.tigertag.io/img?id=3865276960&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3865276960&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk High Glossy White",
@@ -90307,7 +91642,7 @@
     "series": "PLA Silk High Glossy",
     "sku": "PMX-SGLOSS-WHITE",
     "title": "PLA Silk High Glossy - Silk High Glossy White",
-    "updated_at": 1785248532755
+    "updated_at": 1785307577841
   },
   {
     "aspect1": "Basic",
@@ -90583,7 +91918,7 @@
     "series": "PLA+ PRO",
     "sku": "3U-DKQR-YHBR",
     "title": "PLA+ PRO - PLA+ PRO Candy Pink",
-    "updated_at": 1785252084884
+    "updated_at": 1785307828855
   },
   {
     "aspect1": "Basic",
@@ -91322,7 +92657,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-CACTUSGREEN",
     "title": "PLA+ PRO - PLA+ PRO Cactus Green",
-    "updated_at": 1785251929678
+    "updated_at": 1785307822847
   },
   {
     "aspect1": "Matt",
@@ -91576,7 +92911,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-GOLDENGOLD",
     "title": "PLA+ PRO - PLA+ PRO Golden (Gold)",
-    "updated_at": 1785254176066
+    "updated_at": 1785308137903
   },
   {
     "aspect1": "Basic",
@@ -91645,7 +92980,7 @@
     "series": "PLA+ PRO",
     "sku": "IY-26D5-E5X0",
     "title": "PLA+ PRO - PLA+ PRO Blue (Cyan)",
-    "updated_at": 1785251692246
+    "updated_at": 1785307804919
   },
   {
     "aspect1": "Basic",
@@ -91692,6 +93027,29 @@
     "sku": "RFPLABSC175YL1",
     "title": "PLA Basic - Yellow",
     "updated_at": 1770864696890
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323458",
+    "brand": "R3D",
+    "color": "#f8600eFF",
+    "color_info": {
+      "colors": [
+        "#f8600eFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3919339762,
+    "img_src": "https://cdn.tigertag.io/img?id=3919339762&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E121MLS",
+    "title": "PLA Matte - Orange",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -92645,6 +94003,29 @@
     "updated_at": 1785264016646
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323748",
+    "brand": "R3D",
+    "color": "#ffffffFF",
+    "color_info": {
+      "colors": [
+        "#ffffffFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3960734889,
+    "img_src": "https://cdn.tigertag.io/img?id=3960734889&v=1",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC8E102MLS",
+    "title": "PETG Matte - White",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6922572208162",
@@ -93034,6 +94415,31 @@
     "sku": "DLZ-JY-HSPLAMB-CB-1.1kg-C",
     "title": "High Speed Marble PLA - Chestnut Brown",
     "updated_at": 1785274368148
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919124",
+    "brand": "Winkle",
+    "color": "#1F6FB2FF",
+    "color_info": {
+      "colors": [
+        "#1F6FB2FF",
+        "#F5F5F5FF",
+        "#D32F2FFF"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 3973863970,
+    "img_src": "https://winkle.shop/2113-large_default/pla-silk-tricolor-winkle-pla-filament-175-mm-1kg.jpg",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Francia, Paises Bajos, EEUU",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175AZUBLAROJWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Francia, Paises Bajos, EEUU",
+    "updated_at": 1785312954239
   },
   {
     "aspect1": "Pastel",
@@ -93819,7 +95225,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-KIWI",
     "title": "PLA+ PRO - PLA+ PRO Kiwi",
-    "updated_at": 1785255537305
+    "updated_at": 1785308247847
   },
   {
     "aspect1": "Basic",
@@ -93889,6 +95295,29 @@
     "sku": "DLZ-JY-PLA+-BK-5kg",
     "title": "Standard PLA+ - Black",
     "updated_at": 1785280462067
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323595",
+    "brand": "R3D",
+    "color": "#ffced9FF",
+    "color_info": {
+      "colors": [
+        "#ffced9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4009862799,
+    "img_src": "https://cdn.tigertag.io/img?id=4009862799&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Apricot pollen",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E105MLS",
+    "title": "PETG Matte - Apricot pollen",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -94030,7 +95459,7 @@
     "series": "Multi-Color Silk",
     "sku": "DLZ-JY-PLA+SKTC-GN+PP-1.1kg",
     "title": "Multi-Color Silk - Green+Purple",
-    "updated_at": 1785281875498
+    "updated_at": 1785313525625
   },
   {
     "aspect1": "Basic",
@@ -94176,11 +95605,11 @@
     "aspect2": "Bicolor",
     "barcode": "",
     "brand": "PrintoMax 3D",
-    "color": "#1F6FB2FF",
+    "color": "#1F6FB2",
     "color_info": {
       "colors": [
-        "#1F6FB2FF",
-        "#2E8B57FF"
+        "#1F6FB2",
+        "#2E8B57"
       ],
       "type": "gradient"
     },
@@ -94193,7 +95622,7 @@
     "series": "PLA Silk Dual Color",
     "sku": "PMX-SDUAL-BLUEGREEN",
     "title": "PLA Silk Dual Color - Silk Dual Color Blue/Green",
-    "updated_at": 1785248367475
+    "updated_at": 1785307376920
   },
   {
     "aspect1": "Basic",
@@ -94795,6 +96224,29 @@
     "sku": "",
     "title": "PLA - Interstellar Violet",
     "updated_at": 1785249212945
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323403",
+    "brand": "R3D",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 4050911830,
+    "img_src": "https://cdn.tigertag.io/img?id=4050911830&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "R3DA1E116MLS",
+    "title": "PLA Matte - Black",
+    "updated_at": 1785295535831
   },
   {
     "aspect1": "Basic",
@@ -95954,6 +97406,29 @@
     "updated_at": 1785138967570
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "6931677323571",
+    "brand": "R3D",
+    "color": "#a6a8abFF",
+    "color_info": {
+      "colors": [
+        "#a6a8abFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4096927083,
+    "img_src": "https://cdn.tigertag.io/img?id=4096927083&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Gunmetal Gray",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "R3DC1E103MLS",
+    "title": "PETG Matte - Gunmetal Gray",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "3830063547108",
@@ -96461,7 +97936,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-TURQUOISERACING",
     "title": "PLA+ PRO - PLA+ PRO Turquoise Racing",
-    "updated_at": 1785257776153
+    "updated_at": 1785308765147
   },
   {
     "aspect1": "Basic",
@@ -97779,7 +99254,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-LIGHTPURPLE",
     "title": "PLA+ PRO - PLA+ PRO Light Purple",
-    "updated_at": 1785256825178
+    "updated_at": 1785308372504
   },
   {
     "aspect1": "Silk",
@@ -97940,7 +99415,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-LIGHTBLUEGLACIER",
     "title": "PLA+ PRO - PLA+ PRO Light Blue Glacier",
-    "updated_at": 1785256540135
+    "updated_at": 1785308266853
   },
   {
     "aspect1": "Silk",
@@ -100346,7 +101821,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-CARAMEL",
     "title": "PLA+ PRO - PLA+ PRO Caramel",
-    "updated_at": 1785252197152
+    "updated_at": 1785307835903
   },
   {
     "aspect1": "Glitter",
@@ -100462,7 +101937,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-MOCHAMOUSSE",
     "title": "PLA+ PRO - PLA+ PRO Mocha Mousse",
-    "updated_at": 1785256965364
+    "updated_at": 1785308457311
   },
   {
     "aspect1": "Basic",
@@ -100508,7 +101983,7 @@
     "series": "PLA+ PRO",
     "sku": "PMX-PRO-GREENMONSTERRACING",
     "title": "PLA+ PRO - PLA+ PRO Green Monster Racing",
-    "updated_at": 1785254923251
+    "updated_at": 1785308161849
   },
   {
     "aspect1": "Matt",
