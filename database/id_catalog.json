@@ -1767,7 +1767,7 @@
       "type": "mono"
     },
     "id": 74914167,
-    "img_src": "https://cdn.tigertag.io/img?id=74914167&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=74914167&v=4",
     "material": "Biopolymer",
     "measure": "500 g",
     "name": "Flex B4C",
@@ -2826,15 +2826,15 @@
     "aspect2": null,
     "barcode": "8435532914495",
     "brand": "Winkle",
-    "color": "#F5F7FAFF",
+    "color": "#F5F7FA",
     "color_info": {
       "colors": [
-        "#F5F7FAFF"
+        "#F5F7FA"
       ],
       "type": "mono"
     },
     "id": 113106968,
-    "img_src": "https://cdn.tigertag.io/img?id=708410562&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=113106968&v=2",
     "material": "ABS",
     "measure": "0.25 kg",
     "name": "ABS Glacier White 250g",
@@ -2842,7 +2842,7 @@
     "series": "ABS",
     "sku": "ABS00250175BLAGLAWNK",
     "title": "ABS - ABS Glacier White 250g",
-    "updated_at": null
+    "updated_at": 1785400193441
   },
   {
     "aspect1": "Matt",
@@ -3019,7 +3019,7 @@
       "type": "mono"
     },
     "id": 119054382,
-    "img_src": "https://cdn.tigertag.io/img?id=119054382&v=6",
+    "img_src": "https://cdn.tigertag.io/img?id=119054382&v=7",
     "material": "PLA",
     "measure": "750 g",
     "name": "EF Black",
@@ -3424,6 +3424,29 @@
     "updated_at": 1758708542029
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532915843",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 132243478,
+    "img_src": "https://cdn.tigertag.io/img?id=132243478&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Tough Black",
+    "product_type": "Filament",
+    "series": "PLA Tough",
+    "sku": "PTO00300175NEGNEGWNK",
+    "title": "PLA Tough - PLA Tough Black",
+    "updated_at": 1785416466334
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": null,
@@ -3796,6 +3819,29 @@
     "sku": "NNTPU2NT2A050",
     "title": "TPU CF ESD - Black",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907753138910",
+    "brand": "Rosa3D",
+    "color": "#1B8B8C",
+    "color_info": {
+      "colors": [
+        "#1B8B8C"
+      ],
+      "type": "mono"
+    },
+    "id": 152779497,
+    "img_src": null,
+    "material": "ASA",
+    "measure": "1 kg",
+    "name": "Turquoise (RAL 5018)",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "PWB-3D-F5014",
+    "title": "ASA - Turquoise (RAL 5018)",
+    "updated_at": 1785407998514
   },
   {
     "aspect1": "Metal",
@@ -4542,6 +4588,29 @@
     "updated_at": 1784641454371
   },
   {
+    "aspect1": "Pearl",
+    "aspect2": null,
+    "barcode": "8435532912903",
+    "brand": "Winkle",
+    "color": "#0F5C3D",
+    "color_info": {
+      "colors": [
+        "#0F5C3D"
+      ],
+      "type": "mono"
+    },
+    "id": 187654816,
+    "img_src": "https://cdn.tigertag.io/img?id=187654816&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Interference Emerald Green",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175VERESMWNK",
+    "title": "PLA HD - PLA HD Interference Emerald Green",
+    "updated_at": 1785407340129
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "6938936714835",
@@ -5286,6 +5355,31 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919124",
+    "brand": "Winkle",
+    "color": "#1F6FB2",
+    "color_info": {
+      "colors": [
+        "#1F6FB2",
+        "#F5F5F5",
+        "#D32F2F"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 225332783,
+    "img_src": "https://cdn.tigertag.io/img?id=225332783&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Francia, Paises Bajos, EEUU",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175AZUBLAROJWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Francia, Paises Bajos, EEUU",
+    "updated_at": 1785415587038
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "6931677323472",
@@ -5815,6 +5909,29 @@
     "sku": "R3DA1E110MHS",
     "title": "PLA HS Matte - Matte Avocado Green",
     "updated_at": 1762507903321
+  },
+  {
+    "aspect1": "Pearl",
+    "aspect2": null,
+    "barcode": "8435532912705",
+    "brand": "Winkle",
+    "color": "#1F3A5F",
+    "color_info": {
+      "colors": [
+        "#1F3A5F"
+      ],
+      "type": "mono"
+    },
+    "id": 239506234,
+    "img_src": "https://cdn.tigertag.io/img?id=239506234&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Interference Galaxy Blue",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AZUGAAWNK",
+    "title": "PLA HD - PLA HD Interference Galaxy Blue",
+    "updated_at": 1785407408596
   },
   {
     "aspect1": "Glow in the Dark",
@@ -6395,6 +6512,29 @@
     "updated_at": 1785265586482
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "8435532915027",
+    "brand": "Winkle",
+    "color": "#848484",
+    "color_info": {
+      "colors": [
+        "#848484"
+      ],
+      "type": "mono"
+    },
+    "id": 257206391,
+    "img_src": "https://cdn.tigertag.io/img?id=257206391&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Matte Smoke Gray",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "PMA01000175GRIHUMWNK",
+    "title": "PLA Matte - PLA Matte Smoke Gray",
+    "updated_at": 1785412074723
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936717966",
@@ -6578,6 +6718,29 @@
     "sku": "VSD030011",
     "title": "High Speed TPU - Pastel Rose",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910510",
+    "brand": "Winkle",
+    "color": "#3B2519",
+    "color_info": {
+      "colors": [
+        "#3B2519"
+      ],
+      "type": "mono"
+    },
+    "id": 261507551,
+    "img_src": "https://cdn.tigertag.io/img?id=261507551&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Ebony Brown",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175MAREBAWNK",
+    "title": "PLA HD - PLA HD Ebony Brown",
+    "updated_at": 1785406178746
   },
   {
     "aspect1": "Basic",
@@ -9023,7 +9186,7 @@
       "type": "mono"
     },
     "id": 347750420,
-    "img_src": "https://cdn.tigertag.io/img?id=347750420&v=6",
+    "img_src": "https://cdn.tigertag.io/img?id=347750420&v=7",
     "material": "PETG",
     "measure": "750 g",
     "name": "Red",
@@ -9475,6 +9638,29 @@
     "updated_at": 1785278765353
   },
   {
+    "aspect1": "Stone",
+    "aspect2": null,
+    "barcode": "8435532919254",
+    "brand": "Winkle",
+    "color": "#E8D9D9",
+    "color_info": {
+      "colors": [
+        "#E8D9D9"
+      ],
+      "type": "mono"
+    },
+    "id": 363812668,
+    "img_src": "https://cdn.tigertag.io/img?id=363812668&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Quartz",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD003001TRACONWNK",
+    "title": "PLA HD - PLA HD Quartz",
+    "updated_at": 1785409235440
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -9634,6 +9820,29 @@
     "sku": "B0112042",
     "title": "PLA Matte - Mint green",
     "updated_at": 1785270125259
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910374",
+    "brand": "Winkle",
+    "color": "#B87333",
+    "color_info": {
+      "colors": [
+        "#B87333"
+      ],
+      "type": "mono"
+    },
+    "id": 365688405,
+    "img_src": "https://cdn.tigertag.io/img?id=365688405&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Copper",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175COBCOBWNK",
+    "title": "PLA HD - PLA HD Copper",
+    "updated_at": 1785406038119
   },
   {
     "aspect1": "Basic",
@@ -9864,6 +10073,29 @@
     "sku": "G01-P1-1.75-1000-splfree",
     "title": "PETG Translucent - Pink",
     "updated_at": 1784099815001
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532919032",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 381296620,
+    "img_src": "https://cdn.tigertag.io/img?id=381296620&v=2",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "PETG Flame Retardant Black",
+    "product_type": "Filament",
+    "series": "PETG Flame Retardant",
+    "sku": "PEN010001NEGAZAWNK",
+    "title": "PETG Flame Retardant - PETG Flame Retardant Black",
+    "updated_at": 1785401832896
   },
   {
     "aspect1": "Basic",
@@ -11658,7 +11890,7 @@
       "type": "mono"
     },
     "id": 450064137,
-    "img_src": "https://cdn.tigertag.io/img?id=450064137&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=450064137&v=2",
     "material": "ABS",
     "measure": "1 kg",
     "name": "Red",
@@ -13195,6 +13427,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": "8435532913184",
+    "brand": "Winkle",
+    "color": "#7FD4C9",
+    "color_info": {
+      "colors": [
+        "#7FD4C9"
+      ],
+      "type": "mono"
+    },
+    "id": 510815508,
+    "img_src": "https://cdn.tigertag.io/img?id=510815508&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Pastel Turquoise Blue",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AZUTURWNK",
+    "title": "PLA HD - PLA HD Pastel Turquoise Blue",
+    "updated_at": 1785408831164
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -13588,6 +13843,29 @@
     "updated_at": 1785242224595
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916567",
+    "brand": "Winkle",
+    "color": "#C0392B",
+    "color_info": {
+      "colors": [
+        "#C0392B"
+      ],
+      "type": "mono"
+    },
+    "id": 522270013,
+    "img_src": "https://cdn.tigertag.io/img?id=522270013&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA High Speed Devil Red",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "PHS01000175ROJDIAWNK",
+    "title": "PLA High Speed - PLA High Speed Devil Red",
+    "updated_at": 1785411059203
+  },
+  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "6938936714699",
@@ -13738,7 +14016,7 @@
       "type": "mono"
     },
     "id": 526277554,
-    "img_src": "https://cdn.tigertag.io/img?id=526277554&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=526277554&v=2",
     "material": "PETG",
     "measure": "1 kg",
     "name": "Black",
@@ -13934,6 +14212,29 @@
     "updated_at": 1782980205130
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916543",
+    "brand": "Winkle",
+    "color": "#B2B2B2",
+    "color_info": {
+      "colors": [
+        "#B2B2B2"
+      ],
+      "type": "mono"
+    },
+    "id": 536224605,
+    "img_src": "https://cdn.tigertag.io/img?id=536224605&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA High Speed Ash Gray",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "PHS01000175GRICENWNK",
+    "title": "PLA High Speed - PLA High Speed Ash Gray",
+    "updated_at": 1785410866508
+  },
+  {
     "aspect1": "Tricolor",
     "aspect2": null,
     "barcode": "5907753135810",
@@ -14086,7 +14387,7 @@
       "type": "mono"
     },
     "id": 541906971,
-    "img_src": "https://cdn.tigertag.io/img?id=541906971&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=541906971&v=2",
     "material": "ABS",
     "measure": "1 kg",
     "name": "White",
@@ -14141,6 +14442,29 @@
     "sku": "50.203.0118",
     "title": "Rapid PLA+ - Green",
     "updated_at": 1784633601247
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "8435532915188",
+    "brand": "Winkle",
+    "color": "#0047AB",
+    "color_info": {
+      "colors": [
+        "#0047AB"
+      ],
+      "type": "mono"
+    },
+    "id": 549528739,
+    "img_src": "https://cdn.tigertag.io/img?id=549528739&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Matte Cobalt Blue",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "PMA01000175AZUCOBWNK",
+    "title": "PLA Matte - PLA Matte Cobalt Blue",
+    "updated_at": 1785411528341
   },
   {
     "aspect1": "Silk",
@@ -15166,6 +15490,29 @@
     "updated_at": 1785136786944
   },
   {
+    "aspect1": "Clear",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Winkle",
+    "color": "#F0F5F54D",
+    "color_info": {
+      "colors": [
+        "#F0F5F54D"
+      ],
+      "type": "mono"
+    },
+    "id": 593847838,
+    "img_src": "https://cdn.tigertag.io/img?id=593847838&v=2",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "PETG Prototype Transparent",
+    "product_type": "Filament",
+    "series": "PETG Prototype",
+    "sku": "PEP01000175TRATRAWNK",
+    "title": "PETG Prototype - PETG Prototype Transparent",
+    "updated_at": 1785402215358
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -15908,6 +16255,29 @@
     "updated_at": 1785280625413
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532915928",
+    "brand": "Winkle",
+    "color": "#5C5C5C",
+    "color_info": {
+      "colors": [
+        "#5C5C5C"
+      ],
+      "type": "mono"
+    },
+    "id": 618611237,
+    "img_src": "https://cdn.tigertag.io/img?id=618611237&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Tough Iron Gray",
+    "product_type": "Filament",
+    "series": "PLA Tough",
+    "sku": "PTO00300175GRIHIEWNK",
+    "title": "PLA Tough - PLA Tough Iron Gray",
+    "updated_at": 1785416649739
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "6975337030140",
@@ -16490,6 +16860,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532910572",
+    "brand": "Winkle",
+    "color": "#E8D9B5",
+    "color_info": {
+      "colors": [
+        "#E8D9B5"
+      ],
+      "type": "mono"
+    },
+    "id": 638636510,
+    "img_src": "https://cdn.tigertag.io/img?id=638636510&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Beige",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175BEIBEIWNK",
+    "title": "PLA HD - PLA HD Beige",
+    "updated_at": 1785405560922
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "",
     "brand": "PrintoMax 3D",
     "color": "#2B3A67FF",
@@ -16555,6 +16948,29 @@
     "sku": "50.203.0218",
     "title": "Rapid PETG - Red",
     "updated_at": 1784559511911
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532918271",
+    "brand": "Winkle",
+    "color": "#F8F8F8",
+    "color_info": {
+      "colors": [
+        "#F8F8F8"
+      ],
+      "type": "mono"
+    },
+    "id": 642710027,
+    "img_src": "https://cdn.tigertag.io/img?id=642710027&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA HD Ghost White",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD01000175BLAFANWNK",
+    "title": "PLA HD - PLA HD Ghost White",
+    "updated_at": 1785406649711
   },
   {
     "aspect1": "Silk",
@@ -16762,6 +17178,29 @@
     "sku": "PWB-3D-F0482",
     "title": "PLA-Silk - Steel",
     "updated_at": null
+  },
+  {
+    "aspect1": "Marble",
+    "aspect2": null,
+    "barcode": "8435532913481",
+    "brand": "Winkle",
+    "color": "#EDEDED",
+    "color_info": {
+      "colors": [
+        "#EDEDED"
+      ],
+      "type": "mono"
+    },
+    "id": 647944221,
+    "img_src": "https://cdn.tigertag.io/img?id=647944221&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Marble",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175MARMARWNK",
+    "title": "PLA HD - PLA HD Marble",
+    "updated_at": 1785407712213
   },
   {
     "aspect1": "Silk",
@@ -17282,7 +17721,7 @@
       "type": "mono"
     },
     "id": 671324141,
-    "img_src": "https://cdn.tigertag.io/img?id=671324141&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=671324141&v=2",
     "material": "PETG",
     "measure": "1 kg",
     "name": "Red",
@@ -17421,7 +17860,7 @@
       "type": "mono"
     },
     "id": 676252288,
-    "img_src": "https://cdn.tigertag.io/img?id=676252288&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=676252288&v=2",
     "material": "PCTG",
     "measure": "1 kg",
     "name": "Navy Blue Tr.",
@@ -17845,6 +18284,29 @@
     "sku": "FOFF0459",
     "title": "EasyWood - Birch",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532917502",
+    "brand": "Winkle",
+    "color": "#1CA9C9",
+    "color_info": {
+      "colors": [
+        "#1CA9C9"
+      ],
+      "type": "mono"
+    },
+    "id": 686257793,
+    "img_src": "https://cdn.tigertag.io/img?id=686257793&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA PRO Pacific Blue",
+    "product_type": "Filament",
+    "series": "PLA PRO",
+    "sku": "PPR00300175AZUPACWNK",
+    "title": "PLA PRO - PLA PRO Pacific Blue",
+    "updated_at": 1785412813921
   },
   {
     "aspect1": "Basic",
@@ -19195,6 +19657,31 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919193",
+    "brand": "Winkle",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A",
+        "#D32F2F",
+        "#F4D03F"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 732438213,
+    "img_src": "https://cdn.tigertag.io/img?id=732438213&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Alemania",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001NEGROJAMAWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Alemania",
+    "updated_at": 1785415074836
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -19519,6 +20006,29 @@
     "updated_at": 1785258428183
   },
   {
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": "8435532917700",
+    "brand": "Winkle",
+    "color": "#D8BFD8",
+    "color_info": {
+      "colors": [
+        "#D8BFD8"
+      ],
+      "type": "mono"
+    },
+    "id": 747613069,
+    "img_src": "https://cdn.tigertag.io/img?id=747613069&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Pastel Soft Lilac",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175LILSUAWNK",
+    "title": "PLA HD - PLA HD Pastel Soft Lilac",
+    "updated_at": 1785408690609
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "5907753138071",
@@ -19600,7 +20110,7 @@
       "type": "mono"
     },
     "id": 753213479,
-    "img_src": "https://printomax3d.com/cdn/shop/files/E334C4D4-71E3-49B7-BC21-94E42C44094B.jpg?v=17642749&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=753213479&v=1",
     "material": "PETG",
     "measure": "1 kg",
     "name": "PETG Strawberry",
@@ -20285,6 +20795,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532913375",
+    "brand": "Winkle",
+    "color": "#6A0DAD",
+    "color_info": {
+      "colors": [
+        "#6A0DAD"
+      ],
+      "type": "mono"
+    },
+    "id": 777146669,
+    "img_src": "https://cdn.tigertag.io/img?id=777146669&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Purple",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175MORWINWNK",
+    "title": "PLA HD - PLA HD Purple",
+    "updated_at": 1785409077297
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#1470ADFF",
@@ -20434,7 +20967,7 @@
       "type": "mono"
     },
     "id": 783537826,
-    "img_src": "https://cdn.tigertag.io/img?id=783537826&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=783537826&v=2",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Magenta Neon",
@@ -20564,15 +21097,15 @@
     "aspect2": null,
     "barcode": "8435532914501",
     "brand": "Winkle",
-    "color": "#F5F7FAFF",
+    "color": "#F5F7FA",
     "color_info": {
       "colors": [
-        "#F5F7FAFF"
+        "#F5F7FA"
       ],
       "type": "mono"
     },
     "id": 789916116,
-    "img_src": "https://cdn.tigertag.io/img?id=50803679&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=789916116&v=2",
     "material": "ABS",
     "measure": "1 kg",
     "name": "ABS Glacier White",
@@ -20580,7 +21113,7 @@
     "series": "ABS",
     "sku": "ABS01000175BLAGLAWNK",
     "title": "ABS - ABS Glacier White",
-    "updated_at": null
+    "updated_at": 1785400108637
   },
   {
     "aspect1": "Basic",
@@ -21398,6 +21931,29 @@
     "updated_at": 1785161806681
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "8435532914860",
+    "brand": "Winkle",
+    "color": "#FFFDD0",
+    "color_info": {
+      "colors": [
+        "#FFFDD0"
+      ],
+      "type": "mono"
+    },
+    "id": 814329297,
+    "img_src": "https://cdn.tigertag.io/img?id=814329297&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Matte Cream White",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "PMA01000175BLANATWNK",
+    "title": "PLA Matte - PLA Matte Cream White",
+    "updated_at": 1785411850911
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "6976021769506",
@@ -21975,6 +22531,29 @@
     "updated_at": 1784702297545
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916000",
+    "brand": "Winkle",
+    "color": "#1A2E5A",
+    "color_info": {
+      "colors": [
+        "#1A2E5A"
+      ],
+      "type": "mono"
+    },
+    "id": 834057065,
+    "img_src": "https://cdn.tigertag.io/img?id=834057065&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Tough Dark Blue",
+    "product_type": "Filament",
+    "series": "PLA Tough",
+    "sku": "PTO00300175AZUOSCWNK",
+    "title": "PLA Tough - PLA Tough Dark Blue",
+    "updated_at": 1785416557365
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": null,
     "barcode": "6974868568825",
@@ -22140,6 +22719,29 @@
     "sku": "PA02096",
     "title": "PolyLite™ - Cold White",
     "updated_at": 1785277786249
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532914037",
+    "brand": "Winkle",
+    "color": "#C0C0C0",
+    "color_info": {
+      "colors": [
+        "#C0C0C0"
+      ],
+      "type": "mono"
+    },
+    "id": 843557058,
+    "img_src": "https://cdn.tigertag.io/img?id=843557058&v=2",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Silver",
+    "product_type": "Filament",
+    "series": "PETG Standard",
+    "sku": "PET00300175PLAPLAWNK",
+    "title": "PETG Standard - PETG Silver",
+    "updated_at": 1785403053642
   },
   {
     "aspect1": "Basic",
@@ -22318,7 +22920,7 @@
       "type": "mono"
     },
     "id": 857183859,
-    "img_src": "https://cdn.tigertag.io/img?id=857183859&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=857183859&v=5",
     "material": "PETG",
     "measure": "750 g",
     "name": "Green",
@@ -22572,7 +23174,7 @@
       "type": "mono"
     },
     "id": 863881759,
-    "img_src": "https://printomax3d.com/cdn/shop/files/30_021bce88-92fd-40d7-9fac-a917445b49dd.jpg?v=177643840&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=863881759&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Beige",
@@ -22627,6 +23229,29 @@
     "sku": "OT1001004",
     "title": "PLA+ - Orange",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532917281",
+    "brand": "Winkle",
+    "color": "#F5F7FA",
+    "color_info": {
+      "colors": [
+        "#F5F7FA"
+      ],
+      "type": "mono"
+    },
+    "id": 867089151,
+    "img_src": "https://cdn.tigertag.io/img?id=867089151&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA PRO Glacier White",
+    "product_type": "Filament",
+    "series": "PLA PRO",
+    "sku": "PPR00300175BLAGLAWNK",
+    "title": "PLA PRO - PLA PRO Glacier White",
+    "updated_at": 1785412619249
   },
   {
     "aspect1": "Silk",
@@ -23173,7 +23798,7 @@
       "type": "mono"
     },
     "id": 894098213,
-    "img_src": "https://cdn.tigertag.io/img?id=894098213&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=894098213&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "RED",
@@ -23627,15 +24252,15 @@
     "aspect2": null,
     "barcode": "8435532914594",
     "brand": "Winkle",
-    "color": "#0D0D0DFF",
+    "color": "#0D0D0D",
     "color_info": {
       "colors": [
-        "#0D0D0DFF"
+        "#0D0D0D"
       ],
       "type": "mono"
     },
     "id": 907063872,
-    "img_src": "https://cdn.tigertag.io/img?id=1361194590&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=907063872&v=2",
     "material": "ABS",
     "measure": "1 kg",
     "name": "ABS Jet Black",
@@ -23643,7 +24268,7 @@
     "series": "ABS",
     "sku": "ABS01000175NEGAZAWNK",
     "title": "ABS - ABS Jet Black",
-    "updated_at": null
+    "updated_at": 1785400262229
   },
   {
     "aspect1": "Basic",
@@ -24245,6 +24870,29 @@
     "sku": "PC1002008",
     "title": "Panchroma™ PLA Refill - Matte Lime Green",
     "updated_at": 1785275815872
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532914136",
+    "brand": "Winkle",
+    "color": "#B2B2B2",
+    "color_info": {
+      "colors": [
+        "#B2B2B2"
+      ],
+      "type": "mono"
+    },
+    "id": 924596447,
+    "img_src": "https://cdn.tigertag.io/img?id=924596447&v=2",
+    "material": "ASA",
+    "measure": "1 kg",
+    "name": "ASA Ash Gray",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "ASA01000175GRICENWNK",
+    "title": "ASA - ASA Ash Gray",
+    "updated_at": 1785400821418
   },
   {
     "aspect1": "Basic",
@@ -24985,6 +25633,29 @@
     "updated_at": 1784813163957
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915331",
+    "brand": "Winkle",
+    "color": "#7C4A3A",
+    "color_info": {
+      "colors": [
+        "#7C4A3A"
+      ],
+      "type": "mono"
+    },
+    "id": 950662118,
+    "img_src": "https://cdn.tigertag.io/img?id=950662118&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Old Copper",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175COBANTWNK",
+    "title": "PLA Silk - PLA Silk Old Copper",
+    "updated_at": 1785413462548
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -25261,6 +25932,30 @@
     "sku": "RFHPPETG175WH1",
     "title": "Hyper PETG - White",
     "updated_at": 1770863014101
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919292",
+    "brand": "Winkle",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5",
+        "#D32F2F"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 964381871,
+    "img_src": "https://cdn.tigertag.io/img?id=964381871&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Polonia, Austria, Japon, Malta, Dinamarca, Suiza, Qatar, Turquia, Peru, Suiza",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001BLAROJWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Polonia, Austria, Japon, Malta, Dinamarca, Suiza, Qatar, Turquia, Peru, Suiza",
+    "updated_at": 1785415862800
   },
   {
     "aspect1": "Silk",
@@ -25822,6 +26517,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532917113",
+    "brand": "Winkle",
+    "color": "#1F3A93",
+    "color_info": {
+      "colors": [
+        "#1F3A93"
+      ],
+      "type": "mono"
+    },
+    "id": 990521346,
+    "img_src": "https://cdn.tigertag.io/img?id=990521346&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Royal Blue",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AZUROYWNK",
+    "title": "PLA HD - PLA HD Royal Blue",
+    "updated_at": 1785409457720
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": "Basic",
     "barcode": "",
@@ -26354,6 +27072,29 @@
     "sku": "376004456595",
     "title": "PLA - Lin Noir",
     "updated_at": 1763047516359
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916574",
+    "brand": "Winkle",
+    "color": "#87CEEB",
+    "color_info": {
+      "colors": [
+        "#87CEEB"
+      ],
+      "type": "mono"
+    },
+    "id": 1005688157,
+    "img_src": "https://cdn.tigertag.io/img?id=1005688157&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA High Speed Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "PHS01000175AZUCELWNK",
+    "title": "PLA High Speed - PLA High Speed Sky Blue",
+    "updated_at": 1785411270199
   },
   {
     "aspect1": "Glitter",
@@ -26915,6 +27656,29 @@
     "updated_at": 1773410789027
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532916376",
+    "brand": "Winkle",
+    "color": "#009A44",
+    "color_info": {
+      "colors": [
+        "#009A44"
+      ],
+      "type": "mono"
+    },
+    "id": 1035730971,
+    "img_src": "https://cdn.tigertag.io/img?id=1035730971&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Irish Green",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175VERIRLWNK",
+    "title": "PLA Silk - PLA Silk Irish Green",
+    "updated_at": 1785413151811
+  },
+  {
     "aspect1": "Metal",
     "aspect2": null,
     "barcode": "6938936709930",
@@ -27174,6 +27938,29 @@
     "updated_at": 1784725436946
   },
   {
+    "aspect1": "Stone",
+    "aspect2": null,
+    "barcode": "8435532919216",
+    "brand": "Winkle",
+    "color": "#4A5A6A",
+    "color_info": {
+      "colors": [
+        "#4A5A6A"
+      ],
+      "type": "mono"
+    },
+    "id": 1043029696,
+    "img_src": "https://cdn.tigertag.io/img?id=1043029696&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Blue Granite",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD003001AZUINDWNK",
+    "title": "PLA HD - PLA HD Blue Granite",
+    "updated_at": 1785405622161
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
     "barcode": "",
@@ -27197,6 +27984,29 @@
     "sku": "B0291003",
     "title": "PLA Burnt Titanium Triple-Color - Purple Blue & Gold & Green",
     "updated_at": 1785274838570
+  },
+  {
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8435532914211",
+    "brand": "Winkle",
+    "color": "#1B2A4A",
+    "color_info": {
+      "colors": [
+        "#1B2A4A"
+      ],
+      "type": "mono"
+    },
+    "id": 1043398990,
+    "img_src": "https://cdn.tigertag.io/img?id=1043398990&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Glitter Blue Night",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AZUNOCWNK",
+    "title": "PLA HD - PLA HD Glitter Blue Night",
+    "updated_at": 1785406843003
   },
   {
     "aspect1": "Basic",
@@ -28905,6 +29715,29 @@
     "updated_at": 1785307497920
   },
   {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "8435532914945",
+    "brand": "Winkle",
+    "color": "#1C1C1C",
+    "color_info": {
+      "colors": [
+        "#1C1C1C"
+      ],
+      "type": "mono"
+    },
+    "id": 1100638372,
+    "img_src": "https://cdn.tigertag.io/img?id=1100638372&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Matte Graphite Black",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "PMA01000175NEGGRAWNK",
+    "title": "PLA Matte - PLA Matte Graphite Black",
+    "updated_at": 1785411949244
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -29708,7 +30541,7 @@
       "type": "mono"
     },
     "id": 1126260433,
-    "img_src": "https://cdn.tigertag.io/img?id=1126260433&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1126260433&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "GREEN",
@@ -31226,6 +32059,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532910152",
+    "brand": "Winkle",
+    "color": "#F5F7FA",
+    "color_info": {
+      "colors": [
+        "#F5F7FA"
+      ],
+      "type": "mono"
+    },
+    "id": 1176834960,
+    "img_src": "https://cdn.tigertag.io/img?id=1176834960&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Glacier White",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175BLAGLAWNK",
+    "title": "PLA HD - PLA HD Glacier White",
+    "updated_at": 1785406708035
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "",
     "brand": "Jayo",
     "color": "#808000",
@@ -32408,6 +33264,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532910176",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 1225031735,
+    "img_src": "https://cdn.tigertag.io/img?id=1225031735&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Jet Black",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175NEGAZAWNK",
+    "title": "PLA HD - PLA HD Jet Black",
+    "updated_at": 1785407549924
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "",
     "brand": "Eryone",
     "color": "#F5711E",
@@ -32672,7 +33551,7 @@
       "type": "mono"
     },
     "id": 1237385155,
-    "img_src": "https://cdn.tigertag.io/img?id=1237385155&v=5",
+    "img_src": "https://cdn.tigertag.io/img?id=1237385155&v=6",
     "material": "PETG",
     "measure": "750 g",
     "name": "Black",
@@ -33110,7 +33989,7 @@
       "type": "mono"
     },
     "id": 1263500226,
-    "img_src": "https://cdn.tigertag.io/img?id=1263500226&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1263500226&v=2",
     "material": "TPU-GF",
     "measure": "1 kg",
     "name": "Black",
@@ -33287,15 +34166,15 @@
     "aspect2": null,
     "barcode": "8435532914679",
     "brand": "Winkle",
-    "color": "#F0E6D2FF",
+    "color": "#F0E6D2",
     "color_info": {
       "colors": [
-        "#F0E6D2FF"
+        "#F0E6D2"
       ],
       "type": "mono"
     },
     "id": 1272816050,
-    "img_src": "https://cdn.tigertag.io/img?id=4171344212&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1272816050&v=2",
     "material": "ABS",
     "measure": "0.25 kg",
     "name": "ABS Natural",
@@ -33303,7 +34182,7 @@
     "series": "ABS",
     "sku": "ABS00250175NATNATWNK",
     "title": "ABS - ABS Natural",
-    "updated_at": null
+    "updated_at": 1785400393830
   },
   {
     "aspect1": "Translucent",
@@ -33928,6 +34807,29 @@
     "sku": "PA02019",
     "title": "PolyLite™ - Red",
     "updated_at": 1785277786249
+  },
+  {
+    "aspect1": "Clear",
+    "aspect2": null,
+    "barcode": "8435532910411",
+    "brand": "Winkle",
+    "color": "#F0F5F54D",
+    "color_info": {
+      "colors": [
+        "#F0F5F54D"
+      ],
+      "type": "mono"
+    },
+    "id": 1299470911,
+    "img_src": "https://cdn.tigertag.io/img?id=1299470911&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Transparent",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175TRATRAWNK",
+    "title": "PLA HD - PLA HD Transparent",
+    "updated_at": 1785409637405
   },
   {
     "aspect1": "Matt",
@@ -34576,6 +35478,29 @@
     "updated_at": 1785274828831
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915577",
+    "brand": "Winkle",
+    "color": "#D4AF37",
+    "color_info": {
+      "colors": [
+        "#D4AF37"
+      ],
+      "type": "mono"
+    },
+    "id": 1321257032,
+    "img_src": "https://cdn.tigertag.io/img?id=1321257032&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk King Gold",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175OROREYWNK",
+    "title": "PLA Silk - PLA Silk King Gold",
+    "updated_at": 1785413274635
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936710769",
@@ -35144,7 +36069,7 @@
       "type": "mono"
     },
     "id": 1341357453,
-    "img_src": "https://cdn.tigertag.io/img?id=1341357453&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1341357453&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Brillant Silver",
@@ -35735,6 +36660,29 @@
     "updated_at": 1785272200251
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532912309",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 1379333479,
+    "img_src": "https://cdn.tigertag.io/img?id=1379333479&v=2",
+    "material": "ASA",
+    "measure": "1 kg",
+    "name": "ASA Jet Black",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "ASA01000175NEGAZAWNK",
+    "title": "ASA - ASA Jet Black",
+    "updated_at": 1785400978820
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "",
@@ -35988,6 +36936,29 @@
     "sku": "B0105001",
     "title": "PLA Marble - White Marble",
     "updated_at": 1785259539572
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910213",
+    "brand": "Winkle",
+    "color": "#FFEF00FF",
+    "color_info": {
+      "colors": [
+        "#FFEF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1391029603,
+    "img_src": "https://cdn.tigertag.io/img?id=1391029603&v=1",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Canary Yellow",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AMACANWNK",
+    "title": "PLA HD - PLA HD Canary Yellow",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -36334,6 +37305,31 @@
     "sku": "VFPYLW17511",
     "title": "PLA - Yellow",
     "updated_at": null
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532918707",
+    "brand": "Winkle",
+    "color": "#388E3C",
+    "color_info": {
+      "colors": [
+        "#388E3C",
+        "#1F6FB2",
+        "#7B2D8E"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 1406818565,
+    "img_src": "https://cdn.tigertag.io/img?id=1406818565&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Aurora Borealis",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175AURBORWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Aurora Borealis",
+    "updated_at": 1785415237910
   },
   {
     "aspect1": "Basic",
@@ -36759,6 +37755,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532913764",
+    "brand": "Winkle",
+    "color": "#B2B2B2",
+    "color_info": {
+      "colors": [
+        "#B2B2B2"
+      ],
+      "type": "mono"
+    },
+    "id": 1419147219,
+    "img_src": "https://cdn.tigertag.io/img?id=1419147219&v=2",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Ash Gray",
+    "product_type": "Filament",
+    "series": "PETG Standard",
+    "sku": "PET00300175GRICENWNK",
+    "title": "PETG Standard - PETG Ash Gray",
+    "updated_at": 1785402465239
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "EUW030-3301010464B",
     "brand": "Creality",
     "color": "#FFD48A",
@@ -37058,6 +38077,30 @@
     "updated_at": 1785242224596
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919131",
+    "brand": "Winkle",
+    "color": "#388E3C",
+    "color_info": {
+      "colors": [
+        "#388E3C",
+        "#F4D03F"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 1431267499,
+    "img_src": "https://cdn.tigertag.io/img?id=1431267499&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Yellow-Green",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175VERAMAWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Yellow-Green",
+    "updated_at": 1785416139728
+  },
+  {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
     "barcode": "",
@@ -37220,6 +38263,29 @@
     "sku": "R3DA1E125NHS",
     "title": "PLA High Speed - Orange",
     "updated_at": 1752803760209
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "8435532909002",
+    "brand": "Winkle",
+    "color": "#4FD8E899",
+    "color_info": {
+      "colors": [
+        "#4FD8E899"
+      ],
+      "type": "mono"
+    },
+    "id": 1438836607,
+    "img_src": "https://cdn.tigertag.io/img?id=1438836607&v=1",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Translucent Aquamarine Blue",
+    "product_type": "Filament",
+    "series": "PETG Translucent",
+    "sku": "PET00300175AZUAGUWNK",
+    "title": "PETG Translucent - PETG Translucent Aquamarine Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -38289,6 +39355,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532917892",
+    "brand": "Winkle",
+    "color": "#F4D03F",
+    "color_info": {
+      "colors": [
+        "#F4D03F"
+      ],
+      "type": "mono"
+    },
+    "id": 1471401622,
+    "img_src": "https://cdn.tigertag.io/img?id=1471401622&v=2",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Lemon Yellow",
+    "product_type": "Filament",
+    "series": "PETG Standard",
+    "sku": "PET00300175AMALIMWNK",
+    "title": "PETG Standard - PETG Lemon Yellow",
+    "updated_at": 1785402862047
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "",
     "brand": "Jayo",
     "color": "#7CB342",
@@ -38424,6 +39513,29 @@
     "sku": "",
     "title": "PETG - Brown",
     "updated_at": 1785157669877
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "8435532909026",
+    "brand": "Winkle",
+    "color": "#D68A2C99",
+    "color_info": {
+      "colors": [
+        "#D68A2C99"
+      ],
+      "type": "mono"
+    },
+    "id": 1478282914,
+    "img_src": "https://cdn.tigertag.io/img?id=1478282914&v=3",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Translucent Amber",
+    "product_type": "Filament",
+    "series": "PETG Translucent",
+    "sku": "PET00300175NARAMBWNK",
+    "title": "PETG Translucent - PETG Translucent Amber",
+    "updated_at": 1785403429327
   },
   {
     "aspect1": "Basic",
@@ -38867,6 +39979,29 @@
     "updated_at": 1784818244869
   },
   {
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": "8435532913221",
+    "brand": "Winkle",
+    "color": "#B8D8E8",
+    "color_info": {
+      "colors": [
+        "#B8D8E8"
+      ],
+      "type": "mono"
+    },
+    "id": 1495001282,
+    "img_src": "https://cdn.tigertag.io/img?id=1495001282&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Pastel Cloud Blue",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AZUNUBWNK",
+    "title": "PLA HD - PLA HD Pastel Cloud Blue",
+    "updated_at": 1785408538233
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "",
@@ -38981,6 +40116,29 @@
     "sku": "",
     "title": "PLA - Ice Blue",
     "updated_at": 1785154933679
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532916499",
+    "brand": "Winkle",
+    "color": "#9B111E",
+    "color_info": {
+      "colors": [
+        "#9B111E"
+      ],
+      "type": "mono"
+    },
+    "id": 1499664946,
+    "img_src": "https://cdn.tigertag.io/img?id=1499664946&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Ruby Red",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175ROJRUBWNK",
+    "title": "PLA Silk - PLA Silk Ruby Red",
+    "updated_at": 1785413768522
   },
   {
     "aspect1": "Basic",
@@ -40308,6 +41466,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532917304",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 1540557679,
+    "img_src": "https://cdn.tigertag.io/img?id=1540557679&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA PRO Jet Black",
+    "product_type": "Filament",
+    "series": "PLA PRO",
+    "sku": "PPR00300175NEGAZAWNK",
+    "title": "PLA PRO - PLA PRO Jet Black",
+    "updated_at": 1785412713348
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E1E0DAFF",
@@ -40516,6 +41697,29 @@
     "updated_at": 1785242154335
   },
   {
+    "aspect1": "Pearl",
+    "aspect2": null,
+    "barcode": "8435532913009",
+    "brand": "Winkle",
+    "color": "#5D3FD3",
+    "color_info": {
+      "colors": [
+        "#5D3FD3"
+      ],
+      "type": "mono"
+    },
+    "id": 1547162803,
+    "img_src": "https://cdn.tigertag.io/img?id=1547162803&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Interference Violet Agate",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175VIOAGAWNK",
+    "title": "PLA HD - PLA HD Interference Violet Agate",
+    "updated_at": 1785407472824
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "9010241480029",
@@ -40537,6 +41741,29 @@
     "sku": "EXFE2551",
     "title": "XPETG MATT - Black",
     "updated_at": null
+  },
+  {
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "8435532910459",
+    "brand": "Winkle",
+    "color": "#39FF14",
+    "color_info": {
+      "colors": [
+        "#39FF14"
+      ],
+      "type": "mono"
+    },
+    "id": 1549220162,
+    "img_src": "https://cdn.tigertag.io/img?id=1549220162&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Fluorescent Electric Green",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PLD00300175VERELEWNK",
+    "title": "PLA HD - PLA HD Fluorescent Electric Green",
+    "updated_at": 1785406447531
   },
   {
     "aspect1": "Basic",
@@ -41280,6 +42507,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916857",
+    "brand": "Winkle",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5"
+      ],
+      "type": "mono"
+    },
+    "id": 1577622055,
+    "img_src": "https://cdn.tigertag.io/img?id=1577622055&v=2",
+    "material": "PP",
+    "measure": "0.7 kg",
+    "name": "PP White",
+    "product_type": "Filament",
+    "series": "Polypropylene",
+    "sku": "POL00700175BLABLAWNK",
+    "title": "Polypropylene - PP White",
+    "updated_at": 1785417486603
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": null,
     "barcode": "6975337032472",
@@ -41324,6 +42574,29 @@
     "sku": "",
     "title": "PLA - Pink Peach",
     "updated_at": 1785249212936
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532913276",
+    "brand": "Winkle",
+    "color": "#FF7F32",
+    "color_info": {
+      "colors": [
+        "#FF7F32"
+      ],
+      "type": "mono"
+    },
+    "id": 1579923563,
+    "img_src": "https://cdn.tigertag.io/img?id=1579923563&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Nemo Orange",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175NARNEMWNK",
+    "title": "PLA HD - PLA HD Nemo Orange",
+    "updated_at": 1785407906020
   },
   {
     "aspect1": "Glitter",
@@ -41986,7 +43259,7 @@
       "type": "mono"
     },
     "id": 1607068195,
-    "img_src": "https://cdn.tigertag.io/img?id=1607068195&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1607068195&v=3",
     "material": "PLA+",
     "measure": "1 kg",
     "name": "LILAC",
@@ -42087,6 +43360,29 @@
     "sku": "CA02038",
     "title": "Panchroma™ Starlight PLA - Starlight Aurora",
     "updated_at": 1785242338387
+  },
+  {
+    "aspect1": "Stone",
+    "aspect2": null,
+    "barcode": "8435532919209",
+    "brand": "Winkle",
+    "color": "#8B4A3B",
+    "color_info": {
+      "colors": [
+        "#8B4A3B"
+      ],
+      "type": "mono"
+    },
+    "id": 1613092080,
+    "img_src": "https://cdn.tigertag.io/img?id=1613092080&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Brick",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD003001LADCOOWNK",
+    "title": "PLA HD - PLA HD Brick",
+    "updated_at": 1785405681730
   },
   {
     "aspect1": "Silk",
@@ -42573,6 +43869,29 @@
     "sku": "OVS-VFSDGR11-010140",
     "title": "ASA - Diamond Green",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910558",
+    "brand": "Winkle",
+    "color": "#4E2A1E",
+    "color_info": {
+      "colors": [
+        "#4E2A1E"
+      ],
+      "type": "mono"
+    },
+    "id": 1638450409,
+    "img_src": "https://cdn.tigertag.io/img?id=1638450409&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Mahogany Brown",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175MARCAOWNK",
+    "title": "PLA HD - PLA HD Mahogany Brown",
+    "updated_at": 1785407636615
   },
   {
     "aspect1": "Basic",
@@ -43642,6 +44961,29 @@
     "updated_at": 1785272182630
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "8435532909088",
+    "brand": "Winkle",
+    "color": "#F2F2F299",
+    "color_info": {
+      "colors": [
+        "#F2F2F299"
+      ],
+      "type": "mono"
+    },
+    "id": 1676741945,
+    "img_src": "https://cdn.tigertag.io/img?id=1676741945&v=3",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Transparent",
+    "product_type": "Filament",
+    "series": "PETG Standard",
+    "sku": "PET00300175TRATRAWNK",
+    "title": "PETG Standard - PETG Transparent",
+    "updated_at": 1785403105452
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "6938936715665",
@@ -44124,6 +45466,29 @@
     "sku": "CA04027",
     "title": "Panchroma™ Matte PLA - Matte Muted Red",
     "updated_at": 1785242286990
+  },
+  {
+    "aspect1": "Wood",
+    "aspect2": null,
+    "barcode": "8435532914433",
+    "brand": "Winkle",
+    "color": "#C8A165",
+    "color_info": {
+      "colors": [
+        "#C8A165"
+      ],
+      "type": "mono"
+    },
+    "id": 1697216329,
+    "img_src": "https://cdn.tigertag.io/img?id=1697216329&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Wood Maple",
+    "product_type": "Filament",
+    "series": "PLA Wood",
+    "sku": "PWO00300175ARCARCWNK",
+    "title": "PLA Wood - PLA Wood Maple",
+    "updated_at": 1785417080045
   },
   {
     "aspect1": "Basic",
@@ -46125,6 +47490,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": "8435532902263",
+    "brand": "Winkle",
+    "color": "#7FFF00",
+    "color_info": {
+      "colors": [
+        "#7FFF00"
+      ],
+      "type": "mono"
+    },
+    "id": 1779102931,
+    "img_src": "https://cdn.tigertag.io/img?id=1779102931&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Glow Alien Green",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175VERALIWNK",
+    "title": "PLA HD - PLA HD Glow Alien Green",
+    "updated_at": 1785407145519
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -46934,6 +48322,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8435532914396",
+    "brand": "Winkle",
+    "color": "#6A0DAD",
+    "color_info": {
+      "colors": [
+        "#6A0DAD"
+      ],
+      "type": "mono"
+    },
+    "id": 1830394750,
+    "img_src": "https://cdn.tigertag.io/img?id=1830394750&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Glitter Purple",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175PURPURWNK",
+    "title": "PLA HD - PLA HD Glitter Purple",
+    "updated_at": 1785407074816
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936705239",
@@ -47024,6 +48435,29 @@
     "sku": "",
     "title": "TPU 95A - Galaxy Black",
     "updated_at": 1784720292623
+  },
+  {
+    "aspect1": "Stone",
+    "aspect2": null,
+    "barcode": "8435532919278",
+    "brand": "Winkle",
+    "color": "#9C9C94",
+    "color_info": {
+      "colors": [
+        "#9C9C94"
+      ],
+      "type": "mono"
+    },
+    "id": 1833560441,
+    "img_src": "https://cdn.tigertag.io/img?id=1833560441&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Concrete",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD003001GRICEMWNK",
+    "title": "PLA HD - PLA HD Concrete",
+    "updated_at": 1785405968063
   },
   {
     "aspect1": "Basic",
@@ -47724,6 +49158,29 @@
     "updated_at": 1785242224595
   },
   {
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8435532913948",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 1858550744,
+    "img_src": "https://cdn.tigertag.io/img?id=1858550744&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Glitter Galaxy Black",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175NEGGALWNK",
+    "title": "PLA HD - PLA HD Glitter Galaxy Black",
+    "updated_at": 1785407008524
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -48273,7 +49730,7 @@
       "type": "mono"
     },
     "id": 1880456717,
-    "img_src": "https://cdn.tigertag.io/img?id=1880456717&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1880456717&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PURPLE",
@@ -48551,7 +50008,7 @@
       "type": "mono"
     },
     "id": 1894285100,
-    "img_src": "https://cdn.tigertag.io/img?id=1894285100&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1894285100&v=2",
     "material": "TPU-GF",
     "measure": "500 g",
     "name": "Black",
@@ -48817,6 +50274,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532916666",
+    "brand": "Winkle",
+    "color": "#8A8A8A",
+    "color_info": {
+      "colors": [
+        "#8A8A8A"
+      ],
+      "type": "mono"
+    },
+    "id": 1908899301,
+    "img_src": "https://cdn.tigertag.io/img?id=1908899301&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "Recycled PLA Random Color",
+    "product_type": "Filament",
+    "series": "Recycled PLA",
+    "sku": "PLR00300175COLAZAWNK",
+    "title": "Recycled PLA - Recycled PLA Random Color",
+    "updated_at": 1785417748002
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -48951,6 +50431,29 @@
     "sku": "3301060043",
     "title": "Hyper PETG-CF - Wood Green",
     "updated_at": 1784644062170
+  },
+  {
+    "aspect1": "Carbon",
+    "aspect2": "Fiber",
+    "barcode": "8435532917601",
+    "brand": "Winkle",
+    "color": "#2B2B2B",
+    "color_info": {
+      "colors": [
+        "#2B2B2B"
+      ],
+      "type": "mono"
+    },
+    "id": 1913676219,
+    "img_src": "https://cdn.tigertag.io/img?id=1913676219&v=2",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Carbon Fiber Carbon Black",
+    "product_type": "Filament",
+    "series": "PETG Carbon Fiber",
+    "sku": "PET00300175NEGCARWNK",
+    "title": "PETG Carbon Fiber - PETG Carbon Fiber Carbon Black",
+    "updated_at": 1785401621903
   },
   {
     "aspect1": "Matt",
@@ -49289,7 +50792,7 @@
       "type": "mono"
     },
     "id": 1925323920,
-    "img_src": "https://cdn.tigertag.io/img?id=1925323920&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=1925323920&v=5",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Black",
@@ -50148,6 +51651,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532916550",
+    "brand": "Winkle",
+    "color": "#F5F7FA",
+    "color_info": {
+      "colors": [
+        "#F5F7FA"
+      ],
+      "type": "mono"
+    },
+    "id": 1967126268,
+    "img_src": "https://cdn.tigertag.io/img?id=1967126268&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA High Speed Glacier White",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "PHS01000175BLAGLAWNK",
+    "title": "PLA High Speed - PLA High Speed Glacier White",
+    "updated_at": 1785411133658
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6975337037286",
     "brand": "Bambu Lab",
     "color": "#F48438FF",
@@ -50328,6 +51854,29 @@
     "sku": "PMX-PRO-SKYBLUE",
     "title": "PLA+ PRO - PLA+ PRO Sky Blue",
     "updated_at": 1785393939640
+  },
+  {
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "8435532915102",
+    "brand": "Winkle",
+    "color": "#C4133C",
+    "color_info": {
+      "colors": [
+        "#C4133C"
+      ],
+      "type": "mono"
+    },
+    "id": 1972178441,
+    "img_src": "https://cdn.tigertag.io/img?id=1972178441&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Matte Raspberry Red",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "PMA01000175ROJFRAWNK",
+    "title": "PLA Matte - PLA Matte Raspberry Red",
+    "updated_at": 1785412017426
   },
   {
     "aspect1": "Basic",
@@ -51311,6 +52860,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532914129",
+    "brand": "Winkle",
+    "color": "#B2B2B2",
+    "color_info": {
+      "colors": [
+        "#B2B2B2"
+      ],
+      "type": "mono"
+    },
+    "id": 2007250029,
+    "img_src": "https://cdn.tigertag.io/img?id=2007250029&v=2",
+    "material": "ASA",
+    "measure": "0.25 kg",
+    "name": "ASA Ash Gray 250g",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "ASA00250175GRICENWNK",
+    "title": "ASA - ASA Ash Gray 250g",
+    "updated_at": 1785400899325
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936711902",
     "brand": "Polymaker",
     "color": "#CCCCCCFF",
@@ -51514,6 +53086,29 @@
     "sku": "PMX-PRO-LIGHTGREEN",
     "title": "PLA+ PRO - PLA+ PRO Light Green",
     "updated_at": 1785393939640
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910275",
+    "brand": "Winkle",
+    "color": "#568203",
+    "color_info": {
+      "colors": [
+        "#568203"
+      ],
+      "type": "mono"
+    },
+    "id": 2015709228,
+    "img_src": "https://cdn.tigertag.io/img?id=2015709228&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Avocado Green",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175VERAGUWNK",
+    "title": "PLA HD - PLA HD Avocado Green",
+    "updated_at": 1785405486810
   },
   {
     "aspect1": "Basic",
@@ -51882,6 +53477,29 @@
     "sku": "VSA090018",
     "title": "Easy PLA - Easy Yolk Yellow",
     "updated_at": null
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915652",
+    "brand": "Winkle",
+    "color": "#E0115F",
+    "color_info": {
+      "colors": [
+        "#E0115F"
+      ],
+      "type": "mono"
+    },
+    "id": 2029070729,
+    "img_src": "https://cdn.tigertag.io/img?id=2029070729&v=1",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Ruby Pink",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175ROSRUBWNK",
+    "title": "PLA Silk - PLA Silk Ruby Pink",
+    "updated_at": 1785413614706
   },
   {
     "aspect1": "Translucent",
@@ -52277,6 +53895,29 @@
     "sku": "3301060017",
     "title": "Hyper PLA-CF - Greyish Yellow",
     "updated_at": 1784639754646
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915416",
+    "brand": "Winkle",
+    "color": "#E8DFC8",
+    "color_info": {
+      "colors": [
+        "#E8DFC8"
+      ],
+      "type": "mono"
+    },
+    "id": 2043638933,
+    "img_src": "https://cdn.tigertag.io/img?id=2043638933&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk White Gold",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175OROBLAWNK",
+    "title": "PLA Silk - PLA Silk White Gold",
+    "updated_at": 1785414270549
   },
   {
     "aspect1": "Basic",
@@ -53935,6 +55576,29 @@
     "updated_at": 1783936098511
   },
   {
+    "aspect1": "Marble",
+    "aspect2": null,
+    "barcode": "8435532919230",
+    "brand": "Winkle",
+    "color": "#D9C46A",
+    "color_info": {
+      "colors": [
+        "#D9C46A"
+      ],
+      "type": "mono"
+    },
+    "id": 2102774602,
+    "img_src": "https://cdn.tigertag.io/img?id=2102774602&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Yellow Marble",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD003001AMAMACWNK",
+    "title": "PLA HD - PLA HD Yellow Marble",
+    "updated_at": 1785409754815
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -54108,7 +55772,7 @@
       "type": "mono"
     },
     "id": 2111335674,
-    "img_src": "https://cdn.tigertag.io/img?id=2111335674&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=2111335674&v=5",
     "material": "PETG",
     "measure": "750 g",
     "name": "Green",
@@ -56584,6 +58248,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532910534",
+    "brand": "Winkle",
+    "color": "#6F4E37",
+    "color_info": {
+      "colors": [
+        "#6F4E37"
+      ],
+      "type": "mono"
+    },
+    "id": 2202823610,
+    "img_src": "https://cdn.tigertag.io/img?id=2202823610&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Brown Acacia",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175MARACAWNK",
+    "title": "PLA HD - PLA HD Brown Acacia",
+    "updated_at": 1785405742117
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936717928",
     "brand": "Polymaker",
     "color": "#474648FF",
@@ -57204,6 +58891,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915492",
+    "brand": "Winkle",
+    "color": "#B0B0B0",
+    "color_info": {
+      "colors": [
+        "#B0B0B0"
+      ],
+      "type": "mono"
+    },
+    "id": 2224296943,
+    "img_src": "https://cdn.tigertag.io/img?id=2224296943&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Mercury Silver",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175PLAMERWNK",
+    "title": "PLA Silk - PLA Silk Mercury Silver",
+    "updated_at": 1785413370255
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6922572219199.0",
@@ -57317,6 +59027,29 @@
     "sku": "",
     "title": "TPU 90A - Grape Jelly",
     "updated_at": 1784115764432
+  },
+  {
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "8435532910497",
+    "brand": "Winkle",
+    "color": "#FF1493",
+    "color_info": {
+      "colors": [
+        "#FF1493"
+      ],
+      "type": "mono"
+    },
+    "id": 2229781037,
+    "img_src": "https://cdn.tigertag.io/img?id=2229781037&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Fluorescent Electric Pink",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PLD00300175ROSELEWNK",
+    "title": "PLA HD - PLA HD Fluorescent Electric Pink",
+    "updated_at": 1785406577643
   },
   {
     "aspect1": "Basic",
@@ -59563,6 +61296,31 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532918691",
+    "brand": "Winkle",
+    "color": "#D4AF37",
+    "color_info": {
+      "colors": [
+        "#D4AF37",
+        "#6B4226",
+        "#B87333"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 2315102867,
+    "img_src": "https://cdn.tigertag.io/img?id=2315102867&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Dubai Chocolate",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175CHODUBWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Dubai Chocolate",
+    "updated_at": 1785415416135
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6922572277106",
@@ -60799,6 +62557,29 @@
     "sku": "DLZ-JY-OWOOD-CW-1.1kg-C",
     "title": "Wood PLA - Cherry Wood",
     "updated_at": 1785275883647
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916840",
+    "brand": "Winkle",
+    "color": "#F0E6D2",
+    "color_info": {
+      "colors": [
+        "#F0E6D2"
+      ],
+      "type": "mono"
+    },
+    "id": 2370407288,
+    "img_src": "https://cdn.tigertag.io/img?id=2370407288&v=2",
+    "material": "PP",
+    "measure": "0.7 kg",
+    "name": "PP Natural",
+    "product_type": "Filament",
+    "series": "Polypropylene",
+    "sku": "POL00700175NATNATWNK",
+    "title": "Polypropylene - PP Natural",
+    "updated_at": 1785417399543
   },
   {
     "aspect1": "Basic",
@@ -62752,6 +64533,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532910237",
+    "brand": "Winkle",
+    "color": "#1CA9C9",
+    "color_info": {
+      "colors": [
+        "#1CA9C9"
+      ],
+      "type": "mono"
+    },
+    "id": 2447221811,
+    "img_src": "https://cdn.tigertag.io/img?id=2447221811&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Pacific Blue",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AZUPACWNK",
+    "title": "PLA HD - PLA HD Pacific Blue",
+    "updated_at": 1785408260996
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "",
     "brand": "Anycubic",
     "color": "#CF4F80",
@@ -63521,6 +65325,31 @@
     "updated_at": 1783934429577
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919155",
+    "brand": "Winkle",
+    "color": "#F4D03F",
+    "color_info": {
+      "colors": [
+        "#F4D03F",
+        "#D32F2F",
+        "#1F6FB2"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 2476174964,
+    "img_src": "https://cdn.tigertag.io/img?id=2476174964&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Colombia",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175AMAROJAZUWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Colombia",
+    "updated_at": 1785415337665
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": null,
     "barcode": "51187771",
@@ -63613,6 +65442,30 @@
     "updated_at": 1785280208346
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919087",
+    "brand": "Winkle",
+    "color": "#D32F2F",
+    "color_info": {
+      "colors": [
+        "#D32F2F",
+        "#F4D03F"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 2480505107,
+    "img_src": "https://cdn.tigertag.io/img?id=2480505107&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor España",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001ROJAMAROJWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor España",
+    "updated_at": 1785415505727
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936711063",
@@ -63657,6 +65510,29 @@
     "sku": "RFPLABSC175BN1",
     "title": "PLA Basic - Brown",
     "updated_at": 1770865638386
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532917489",
+    "brand": "Winkle",
+    "color": "#FFEF00",
+    "color_info": {
+      "colors": [
+        "#FFEF00"
+      ],
+      "type": "mono"
+    },
+    "id": 2481202995,
+    "img_src": "https://cdn.tigertag.io/img?id=2481202995&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA PRO Canary Yellow",
+    "product_type": "Filament",
+    "series": "PLA PRO",
+    "sku": "PPR00300175AMACANWNK",
+    "title": "PLA PRO - PLA PRO Canary Yellow",
+    "updated_at": 1785412432628
   },
   {
     "aspect1": "Silk",
@@ -64006,6 +65882,29 @@
     "sku": "PD03003",
     "title": "PolyFlex™ TPU95-HF - Clear",
     "updated_at": 1785264229955
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910251",
+    "brand": "Winkle",
+    "color": "#87CEEB",
+    "color_info": {
+      "colors": [
+        "#87CEEB"
+      ],
+      "type": "mono"
+    },
+    "id": 2503285727,
+    "img_src": "https://cdn.tigertag.io/img?id=2503285727&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AZUCELWNK",
+    "title": "PLA HD - PLA HD Sky Blue",
+    "updated_at": 1785408406537
   },
   {
     "aspect1": "Basic",
@@ -64894,6 +66793,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532915768",
+    "brand": "Winkle",
+    "color": "#F0E6D2",
+    "color_info": {
+      "colors": [
+        "#F0E6D2"
+      ],
+      "type": "mono"
+    },
+    "id": 2538759940,
+    "img_src": "https://cdn.tigertag.io/img?id=2538759940&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Tough Natural",
+    "product_type": "Filament",
+    "series": "PLA Tough",
+    "sku": "PTO00300175NATNATWNK",
+    "title": "PLA Tough - PLA Tough Natural",
+    "updated_at": 1785416740253
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EAB709FF",
@@ -65287,6 +67209,29 @@
     "sku": "G00-K00-1.75-1000-spl",
     "title": "PETG Basic - Black",
     "updated_at": 1784098683147
+  },
+  {
+    "aspect1": "Pearl",
+    "aspect2": null,
+    "barcode": "8435532912804",
+    "brand": "Winkle",
+    "color": "#5C4033",
+    "color_info": {
+      "colors": [
+        "#5C4033"
+      ],
+      "type": "mono"
+    },
+    "id": 2556748386,
+    "img_src": "https://cdn.tigertag.io/img?id=2556748386&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Interference Dark Bronze",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175BROOSCWNK",
+    "title": "PLA HD - PLA HD Interference Dark Bronze",
+    "updated_at": 1785407274047
   },
   {
     "aspect1": "Glitter",
@@ -66120,6 +68065,29 @@
     "updated_at": 1785276218872
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "8435532908982",
+    "brand": "Winkle",
+    "color": "#7B4F5F99",
+    "color_info": {
+      "colors": [
+        "#7B4F5F99"
+      ],
+      "type": "mono"
+    },
+    "id": 2587290927,
+    "img_src": "https://cdn.tigertag.io/img?id=2587290927&v=3",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Translucent Deep Mauve",
+    "product_type": "Filament",
+    "series": "PETG Translucent",
+    "sku": "PET00300175MALOSCWNK",
+    "title": "PETG Translucent - PETG Translucent Deep Mauve",
+    "updated_at": 1785403516750
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936712480",
@@ -66282,6 +68250,29 @@
     "sku": "DLZ-JY-PLA+-LY-1.1kg-C",
     "title": "Standard PLA+ - Lemon Yellow",
     "updated_at": 1785271796734
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "8435532909040",
+    "brand": "Winkle",
+    "color": "#A8D93F99",
+    "color_info": {
+      "colors": [
+        "#A8D93F99"
+      ],
+      "type": "mono"
+    },
+    "id": 2593778858,
+    "img_src": "https://cdn.tigertag.io/img?id=2593778858&v=5",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Translucent Lime",
+    "product_type": "Filament",
+    "series": "PETG Translucent",
+    "sku": "PET00300175VERLIMWNK",
+    "title": "PETG Translucent - PETG Translucent Lime",
+    "updated_at": 1785403653547
   },
   {
     "aspect1": "Basic",
@@ -66466,6 +68457,29 @@
     "sku": "DLZ-JY-ASA-BK-1kg",
     "title": "TPU / ASA - ASA Black",
     "updated_at": 1785282217648
+  },
+  {
+    "aspect1": "Clear",
+    "aspect2": null,
+    "barcode": "8435532918974",
+    "brand": "Winkle",
+    "color": "#F0F5F54D",
+    "color_info": {
+      "colors": [
+        "#F0F5F54D"
+      ],
+      "type": "mono"
+    },
+    "id": 2601097117,
+    "img_src": "https://cdn.tigertag.io/img?id=2601097117&v=2",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "PETG Flame Retardant Transparent",
+    "product_type": "Filament",
+    "series": "PETG Flame Retardant",
+    "sku": "PEN010001TRATRAWNK",
+    "title": "PETG Flame Retardant - PETG Flame Retardant Transparent",
+    "updated_at": 1785401976740
   },
   {
     "aspect1": "Matt",
@@ -67663,7 +69677,7 @@
       "type": "mono"
     },
     "id": 2639211432,
-    "img_src": "https://cdn.tigertag.io/img?id=2639211432&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2639211432&v=2",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PEAK GREEN",
@@ -67811,6 +69825,29 @@
     "sku": "PLA+175O-AY1R1",
     "title": "PLA+ - ALMOND YELLOW",
     "updated_at": 1754553482960
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532915256",
+    "brand": "Winkle",
+    "color": "#4682B4",
+    "color_info": {
+      "colors": [
+        "#4682B4"
+      ],
+      "type": "mono"
+    },
+    "id": 2648811984,
+    "img_src": "https://cdn.tigertag.io/img?id=2648811984&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Steel Blue",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175AZUACEWNK",
+    "title": "PLA Silk - PLA Silk Steel Blue",
+    "updated_at": 1785414099932
   },
   {
     "aspect1": "Basic",
@@ -68361,7 +70398,7 @@
       "type": "mono"
     },
     "id": 2668495179,
-    "img_src": "https://cdn.tigertag.io/img?id=2668495179&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=2668495179&v=5",
     "material": "PETG",
     "measure": "2 kg",
     "name": "Red",
@@ -68744,6 +70781,29 @@
     "sku": "PC1002028",
     "title": "Panchroma™ PLA Refill - Matte Muted Moss",
     "updated_at": 1785275815872
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532918165",
+    "brand": "Winkle",
+    "color": "#2E5339",
+    "color_info": {
+      "colors": [
+        "#2E5339"
+      ],
+      "type": "mono"
+    },
+    "id": 2682130966,
+    "img_src": "https://cdn.tigertag.io/img?id=2682130966&v=3",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Pine Green",
+    "product_type": "Filament",
+    "series": "PETG Standard",
+    "sku": "PET00300175VERPINWNK",
+    "title": "PETG Standard - PETG Pine Green",
+    "updated_at": 1785402914926
   },
   {
     "aspect1": "Wood",
@@ -70930,15 +72990,15 @@
     "aspect2": null,
     "barcode": "8435532914587",
     "brand": "Winkle",
-    "color": "#0D0D0DFF",
+    "color": "#0D0D0D",
     "color_info": {
       "colors": [
-        "#0D0D0DFF"
+        "#0D0D0D"
       ],
       "type": "mono"
     },
     "id": 2768277803,
-    "img_src": "https://cdn.tigertag.io/img?id=620488639&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2768277803&v=2",
     "material": "ABS",
     "measure": "0.25 kg",
     "name": "ABS Jet Black 250g",
@@ -70946,7 +73006,7 @@
     "series": "ABS",
     "sku": "ABS00250175NEGAZAWNK",
     "title": "ABS - ABS Jet Black 250g",
-    "updated_at": null
+    "updated_at": 1785400339923
   },
   {
     "aspect1": "Matt",
@@ -71338,6 +73398,29 @@
     "sku": "PF98-175BLCK-00500",
     "title": "Python Flex (TPU 98A) - Black",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910657",
+    "brand": "Winkle",
+    "color": "#F78FB3",
+    "color_info": {
+      "colors": [
+        "#F78FB3"
+      ],
+      "type": "mono"
+    },
+    "id": 2785972736,
+    "img_src": "https://cdn.tigertag.io/img?id=2785972736&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Pink Bubblegum",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175ROSCHIWNK",
+    "title": "PLA HD - PLA HD Pink Bubblegum",
+    "updated_at": 1785408900227
   },
   {
     "aspect1": "Basic",
@@ -72055,6 +74138,29 @@
     "updated_at": 1784104597962
   },
   {
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "8435532910435",
+    "brand": "Winkle",
+    "color": "#F5FF00FF",
+    "color_info": {
+      "colors": [
+        "#F5FF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2810396121,
+    "img_src": "https://cdn.tigertag.io/img?id=2810396121&v=1",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Fluorescent Electric Yellow",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PLD00300175AMAELEWNK",
+    "title": "PLA HD - PLA HD Fluorescent Electric Yellow",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "8594173675193",
@@ -72261,6 +74367,29 @@
     "sku": "FOFF0441",
     "title": "ApolloX - Red",
     "updated_at": 1784816699247
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532912293",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 2824468251,
+    "img_src": "https://cdn.tigertag.io/img?id=2824468251&v=2",
+    "material": "ASA",
+    "measure": "0.25 kg",
+    "name": "ASA Jet Black 250g",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "ASA00250175NEGAZAWNK",
+    "title": "ASA - ASA Jet Black 250g",
+    "updated_at": 1785401066694
   },
   {
     "aspect1": "Matt",
@@ -72817,6 +74946,29 @@
     "sku": "PWB-3D-F0487",
     "title": "PLA-Silk - Violet",
     "updated_at": null
+  },
+  {
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": "8435532913160",
+    "brand": "Winkle",
+    "color": "#F5E1A4",
+    "color_info": {
+      "colors": [
+        "#F5E1A4"
+      ],
+      "type": "mono"
+    },
+    "id": 2850952395,
+    "img_src": "https://cdn.tigertag.io/img?id=2850952395&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Pastel Banana Yellow",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AMAPLAWNK",
+    "title": "PLA HD - PLA HD Pastel Banana Yellow",
+    "updated_at": 1785408472416
   },
   {
     "aspect1": "Glow in the Dark",
@@ -74805,6 +76957,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532917786",
+    "brand": "Winkle",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5"
+      ],
+      "type": "mono"
+    },
+    "id": 2927670873,
+    "img_src": "https://cdn.tigertag.io/img?id=2927670873&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Silk Snow White",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI00300175BLANIEWNK",
+    "title": "PLA Silk - PLA Silk Snow White",
+    "updated_at": 1785413998131
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936711384",
@@ -75196,6 +77371,29 @@
     "sku": "376034597132",
     "title": "PLA - XRS",
     "updated_at": 1763047805317
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916598",
+    "brand": "Winkle",
+    "color": "#568203",
+    "color_info": {
+      "colors": [
+        "#568203"
+      ],
+      "type": "mono"
+    },
+    "id": 2947800601,
+    "img_src": "https://cdn.tigertag.io/img?id=2947800601&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA High Speed Avocado Green",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "PHS01000175VERAGUWNK",
+    "title": "PLA High Speed - PLA High Speed Avocado Green",
+    "updated_at": 1785410926344
   },
   {
     "aspect1": "Silk",
@@ -75847,6 +78045,31 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532918868",
+    "brand": "Winkle",
+    "color": "#1F6FB2",
+    "color_info": {
+      "colors": [
+        "#1F6FB2",
+        "#7B2D8E",
+        "#C2185B"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 2968083142,
+    "img_src": "https://cdn.tigertag.io/img?id=2968083142&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Metamorphosis",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175METMETWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Metamorphosis",
+    "updated_at": 1785415756232
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -75891,6 +78114,29 @@
     "sku": "50.203.0222",
     "title": "Rapid PETG - Grey",
     "updated_at": 1784559256432
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910398",
+    "brand": "Winkle",
+    "color": "#B2B2B2",
+    "color_info": {
+      "colors": [
+        "#B2B2B2"
+      ],
+      "type": "mono"
+    },
+    "id": 2973362812,
+    "img_src": "https://cdn.tigertag.io/img?id=2973362812&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Ash Gray",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175GRICENWNK",
+    "title": "PLA HD - PLA HD Ash Gray",
+    "updated_at": 1785405425144
   },
   {
     "aspect1": "Lithophane",
@@ -77101,6 +79347,29 @@
     "sku": "PA04023",
     "title": "PolyTerra™ - Dual Matte Foggy Purple (Grey-Purple)",
     "updated_at": 1785242224594
+  },
+  {
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": "8435532913146",
+    "brand": "Winkle",
+    "color": "#F7C6D9",
+    "color_info": {
+      "colors": [
+        "#F7C6D9"
+      ],
+      "type": "mono"
+    },
+    "id": 3019082373,
+    "img_src": "https://cdn.tigertag.io/img?id=3019082373&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Pastel Cotton Candy Pink",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175ROSALGWNK",
+    "title": "PLA HD - PLA HD Pastel Cotton Candy Pink",
+    "updated_at": 1785408613339
   },
   {
     "aspect1": "Matt",
@@ -79193,6 +81462,29 @@
     "updated_at": 1785242286990
   },
   {
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": "8435532913207",
+    "brand": "Winkle",
+    "color": "#F4C430",
+    "color_info": {
+      "colors": [
+        "#F4C430"
+      ],
+      "type": "mono"
+    },
+    "id": 3102164558,
+    "img_src": "https://cdn.tigertag.io/img?id=3102164558&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Pastel Turmeric Yellow",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AMACURWNK",
+    "title": "PLA HD - PLA HD Pastel Turmeric Yellow",
+    "updated_at": 1785408759546
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6931677320136",
@@ -79983,6 +82275,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532919049",
+    "brand": "Winkle",
+    "color": "#F5F7FA",
+    "color_info": {
+      "colors": [
+        "#F5F7FA"
+      ],
+      "type": "mono"
+    },
+    "id": 3136919150,
+    "img_src": "https://cdn.tigertag.io/img?id=3136919150&v=2",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "PETG Flame Retardant White",
+    "product_type": "Filament",
+    "series": "PETG Flame Retardant",
+    "sku": "PEN010001BLAGLAWNK",
+    "title": "PETG Flame Retardant - PETG Flame Retardant White",
+    "updated_at": 1785401910047
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "5907753138736",
     "brand": "Rosa3D",
     "color": "#000000",
@@ -80748,6 +83063,29 @@
     "updated_at": 1785272164547
   },
   {
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8435532913665",
+    "brand": "Winkle",
+    "color": "#FF6F61",
+    "color_info": {
+      "colors": [
+        "#FF6F61"
+      ],
+      "type": "mono"
+    },
+    "id": 3167742139,
+    "img_src": "https://cdn.tigertag.io/img?id=3167742139&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Glitter Coral",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175CORCORWNK",
+    "title": "PLA HD - PLA HD Glitter Coral",
+    "updated_at": 1785406929317
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -80932,6 +83270,29 @@
     "updated_at": 1752804484380
   },
   {
+    "aspect1": "Stone",
+    "aspect2": null,
+    "barcode": "8435532913856",
+    "brand": "Winkle",
+    "color": "#C2A878",
+    "color_info": {
+      "colors": [
+        "#C2A878"
+      ],
+      "type": "mono"
+    },
+    "id": 3172964134,
+    "img_src": "https://cdn.tigertag.io/img?id=3172964134&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Sand",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175AREAREWNK",
+    "title": "PLA HD - PLA HD Sand",
+    "updated_at": 1785409529329
+  },
+  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "5907753136220",
@@ -81114,6 +83475,29 @@
     "sku": "DLZ-JY-PLATPRB-04-1.1kg-C",
     "title": "PLA Rainbow - Transparent Rainbow 04",
     "updated_at": 1785275345144
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910299",
+    "brand": "Winkle",
+    "color": "#915F6D",
+    "color_info": {
+      "colors": [
+        "#915F6D"
+      ],
+      "type": "mono"
+    },
+    "id": 3187404789,
+    "img_src": "https://cdn.tigertag.io/img?id=3187404789&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Mauve",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175MALMALWNK",
+    "title": "PLA HD - PLA HD Mauve",
+    "updated_at": 1785407776414
   },
   {
     "aspect1": "Basic",
@@ -81951,6 +84335,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532918073",
+    "brand": "Winkle",
+    "color": "#C0392B",
+    "color_info": {
+      "colors": [
+        "#C0392B"
+      ],
+      "type": "mono"
+    },
+    "id": 3223891477,
+    "img_src": "https://cdn.tigertag.io/img?id=3223891477&v=2",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Devil Red",
+    "product_type": "Filament",
+    "series": "PETG Standard",
+    "sku": "PET00300175ROJDIAWNK",
+    "title": "PETG Standard - PETG Devil Red",
+    "updated_at": 1785402555504
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6922572211469",
     "brand": "eSun",
     "color": "#393D47FF",
@@ -82270,6 +84677,29 @@
     "sku": "PA08003",
     "title": "PolyLite™ - LW-Gray",
     "updated_at": 1785242224595
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916864",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 3235183295,
+    "img_src": "https://cdn.tigertag.io/img?id=3235183295&v=2",
+    "material": "PP",
+    "measure": "0.7 kg",
+    "name": "PP Black",
+    "product_type": "Filament",
+    "series": "Polypropylene",
+    "sku": "POL00700175NEGNEGWNK",
+    "title": "Polypropylene - PP Black",
+    "updated_at": 1785417328819
   },
   {
     "aspect1": "Basic",
@@ -83136,6 +85566,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532912576",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 3274412984,
+    "img_src": "https://cdn.tigertag.io/img?id=3274412984&v=2",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Jet Black",
+    "product_type": "Filament",
+    "series": "PETG Standard",
+    "sku": "PET00300175NEGAZAWNK",
+    "title": "PETG Standard - PETG Jet Black",
+    "updated_at": 1785402809613
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "5907753135865",
     "brand": "Rosa3D",
     "color": "#000000FF",
@@ -83155,6 +85608,29 @@
     "sku": "PWB-3D-F04330",
     "title": "PCTG - Black",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910350",
+    "brand": "Winkle",
+    "color": "#D4AF37",
+    "color_info": {
+      "colors": [
+        "#D4AF37"
+      ],
+      "type": "mono"
+    },
+    "id": 3276294536,
+    "img_src": "https://cdn.tigertag.io/img?id=3276294536&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Gold",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175OROOROWNK",
+    "title": "PLA HD - PLA HD Gold",
+    "updated_at": 1785407204545
   },
   {
     "aspect1": "Basic",
@@ -84926,6 +87402,29 @@
     "sku": "NYL6010500BK0",
     "title": "CarbonX - Black",
     "updated_at": 1785083620855
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910312",
+    "brand": "Winkle",
+    "color": "#C0C0C0",
+    "color_info": {
+      "colors": [
+        "#C0C0C0"
+      ],
+      "type": "mono"
+    },
+    "id": 3353363075,
+    "img_src": "https://cdn.tigertag.io/img?id=3353363075&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Silver",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175PLAPLAWNK",
+    "title": "PLA HD - PLA HD Silver",
+    "updated_at": 1785409586224
   },
   {
     "aspect1": "Basic",
@@ -87110,6 +89609,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532917984",
+    "brand": "Winkle",
+    "color": "#1F3A93",
+    "color_info": {
+      "colors": [
+        "#1F3A93"
+      ],
+      "type": "mono"
+    },
+    "id": 3442202633,
+    "img_src": "https://cdn.tigertag.io/img?id=3442202633&v=2",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Royal Blue",
+    "product_type": "Filament",
+    "series": "PETG Standard",
+    "sku": "PET00300175AZUROYWNK",
+    "title": "PETG Standard - PETG Royal Blue",
+    "updated_at": 1785402974549
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936712053",
     "brand": "Polymaker",
     "color": "#CCCCCCFF",
@@ -87686,6 +90208,29 @@
     "sku": "ABS+175B1P1",
     "title": "ABS+ - BLACK",
     "updated_at": null
+  },
+  {
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "8435532910473",
+    "brand": "Winkle",
+    "color": "#FF6700",
+    "color_info": {
+      "colors": [
+        "#FF6700"
+      ],
+      "type": "mono"
+    },
+    "id": 3463432897,
+    "img_src": "https://cdn.tigertag.io/img?id=3463432897&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Fluorescent Electric Orange",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PLD00300175NARELEWNK",
+    "title": "PLA HD - PLA HD Fluorescent Electric Orange",
+    "updated_at": 1785406516435
   },
   {
     "aspect1": "Basic",
@@ -88305,7 +90850,7 @@
       "type": "mono"
     },
     "id": 3477133487,
-    "img_src": "https://cdn.tigertag.io/img?id=3477133487&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3477133487&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Navy Blue",
@@ -88397,7 +90942,7 @@
       "type": "mono"
     },
     "id": 3480614334,
-    "img_src": "https://cdn.tigertag.io/img?id=3480614334&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3480614334&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "BLACK",
@@ -90056,6 +92601,30 @@
     "updated_at": 1785271818349
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919315",
+    "brand": "Winkle",
+    "color": "#1F6FB2",
+    "color_info": {
+      "colors": [
+        "#1F6FB2",
+        "#F4D03F"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 3544934514,
+    "img_src": "https://cdn.tigertag.io/img?id=3544934514&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Suecia, Ucrania",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001AZUAMAWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Suecia, Ucrania",
+    "updated_at": 1785416044910
+  },
+  {
     "aspect1": "Translucent",
     "aspect2": null,
     "barcode": "6975337039037",
@@ -90286,6 +92855,30 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919308",
+    "brand": "Winkle",
+    "color": "#D32F2F",
+    "color_info": {
+      "colors": [
+        "#D32F2F",
+        "#388E3C"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 3552316595,
+    "img_src": "https://cdn.tigertag.io/img?id=3552316595&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Portugal, Marruecos",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001ROJVERWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Portugal, Marruecos",
+    "updated_at": 1785415957140
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936708964",
@@ -90422,6 +93015,29 @@
     "sku": "PD01003",
     "title": "PolyFlex™ TPU95 - Red",
     "updated_at": 1785263860442
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532912385",
+    "brand": "Winkle",
+    "color": "#F0E6D2",
+    "color_info": {
+      "colors": [
+        "#F0E6D2"
+      ],
+      "type": "mono"
+    },
+    "id": 3558511196,
+    "img_src": "https://cdn.tigertag.io/img?id=3558511196&v=2",
+    "material": "ASA",
+    "measure": "0.25 kg",
+    "name": "ASA Natural",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "ASA00250175NATNATWNK",
+    "title": "ASA - ASA Natural",
+    "updated_at": 1785401150396
   },
   {
     "aspect1": "Basic",
@@ -90657,6 +93273,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532916581",
+    "brand": "Winkle",
+    "color": "#FFEF00",
+    "color_info": {
+      "colors": [
+        "#FFEF00"
+      ],
+      "type": "mono"
+    },
+    "id": 3565652168,
+    "img_src": "https://cdn.tigertag.io/img?id=3565652168&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA High Speed Canary Yellow",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "PHS01000175AMACANWNK",
+    "title": "PLA High Speed - PLA High Speed Canary Yellow",
+    "updated_at": 1785410992546
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3830063547054",
     "brand": "AzureFilm",
     "color": "#434B4DFF",
@@ -90676,6 +93315,29 @@
     "sku": "FPR171-7011",
     "title": "PLA Original - SHARK GREY",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532917540",
+    "brand": "Winkle",
+    "color": "#B2B2B2",
+    "color_info": {
+      "colors": [
+        "#B2B2B2"
+      ],
+      "type": "mono"
+    },
+    "id": 3566358504,
+    "img_src": "https://cdn.tigertag.io/img?id=3566358504&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA PRO Ash Gray",
+    "product_type": "Filament",
+    "series": "PLA PRO",
+    "sku": "PPR00300175GRICENWNK",
+    "title": "PLA PRO - PLA PRO Ash Gray",
+    "updated_at": 1785412243399
   },
   {
     "aspect1": "Silk",
@@ -91116,6 +93778,29 @@
     "sku": "DLZ-JY-PLA+-TPBL-1.1kg-C",
     "title": "Standard PLA+ - Transparent Blue",
     "updated_at": 1785271822541
+  },
+  {
+    "aspect1": "Pearl",
+    "aspect2": null,
+    "barcode": "8435532910336",
+    "brand": "Winkle",
+    "color": "#E8E4D8",
+    "color_info": {
+      "colors": [
+        "#E8E4D8"
+      ],
+      "type": "mono"
+    },
+    "id": 3595125401,
+    "img_src": "https://cdn.tigertag.io/img?id=3595125401&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Mother-of-Pearl",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175NACNACWNK",
+    "title": "PLA HD - PLA HD Mother-of-Pearl",
+    "updated_at": 1785407840130
   },
   {
     "aspect1": "Basic",
@@ -92056,7 +94741,7 @@
       "type": "mono"
     },
     "id": 3627622016,
-    "img_src": "https://cdn.tigertag.io/img?id=3627622016&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=3627622016&v=5",
     "material": "PP-CF",
     "measure": "2 kg",
     "name": "CF",
@@ -93408,6 +96093,29 @@
     "updated_at": 1782980351727
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532918394",
+    "brand": "Winkle",
+    "color": "#2E86C1",
+    "color_info": {
+      "colors": [
+        "#2E86C1"
+      ],
+      "type": "mono"
+    },
+    "id": 3676090356,
+    "img_src": "https://cdn.tigertag.io/img?id=3676090356&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Smile Blue by Maria",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "PSI01000175SONMARWNK",
+    "title": "PLA Silk - PLA Silk Smile Blue by Maria",
+    "updated_at": 1785413880934
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -94314,6 +97022,31 @@
   },
   {
     "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919094",
+    "brand": "Winkle",
+    "color": "#388E3C",
+    "color_info": {
+      "colors": [
+        "#388E3C",
+        "#F5F5F5",
+        "#D32F2F"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 3724734592,
+    "img_src": "https://cdn.tigertag.io/img?id=3724734592&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Italia, Mexico",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI010001VERBLAROJWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Italia, Mexico",
+    "updated_at": 1785415673436
+  },
+  {
+    "aspect1": "Silk",
     "aspect2": "Rainbow",
     "barcode": "",
     "brand": "Eryone",
@@ -94546,6 +97279,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532917526",
+    "brand": "Winkle",
+    "color": "#568203",
+    "color_info": {
+      "colors": [
+        "#568203"
+      ],
+      "type": "mono"
+    },
+    "id": 3736211632,
+    "img_src": "https://cdn.tigertag.io/img?id=3736211632&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA PRO Avocado Green",
+    "product_type": "Filament",
+    "series": "PLA PRO",
+    "sku": "PPR00300175VERAGUWNK",
+    "title": "PLA PRO - PLA PRO Avocado Green",
+    "updated_at": 1785412333216
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "5907753134691",
     "brand": "Rosa3D",
     "color": "#131AA3FF",
@@ -94707,6 +97463,29 @@
     "updated_at": 1785274870654
   },
   {
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8435532914303",
+    "brand": "Winkle",
+    "color": "#4B5320",
+    "color_info": {
+      "colors": [
+        "#4B5320"
+      ],
+      "type": "mono"
+    },
+    "id": 3743421309,
+    "img_src": "https://cdn.tigertag.io/img?id=3743421309&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Glitter Army Green",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175VERMILWNK",
+    "title": "PLA HD - PLA HD Glitter Army Green",
+    "updated_at": 1785406776140
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
     "barcode": "",
@@ -94848,6 +97627,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Wood",
+    "aspect2": null,
+    "barcode": "8435532914440",
+    "brand": "Winkle",
+    "color": "#DEB887",
+    "color_info": {
+      "colors": [
+        "#DEB887"
+      ],
+      "type": "mono"
+    },
+    "id": 3746426999,
+    "img_src": "https://cdn.tigertag.io/img?id=3746426999&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA Wood Pine",
+    "product_type": "Filament",
+    "series": "PLA Wood",
+    "sku": "PWO00300175PINPINWNK",
+    "title": "PLA Wood - PLA Wood Pine",
+    "updated_at": 1785417180631
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -94892,6 +97694,29 @@
     "sku": "PA06028",
     "title": "PolyMax™ - Grey",
     "updated_at": 1785275205243
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532912477",
+    "brand": "Winkle",
+    "color": "#F5F7FA",
+    "color_info": {
+      "colors": [
+        "#F5F7FA"
+      ],
+      "type": "mono"
+    },
+    "id": 3751186581,
+    "img_src": "https://cdn.tigertag.io/img?id=3751186581&v=2",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "PETG Glacier White",
+    "product_type": "Filament",
+    "series": "PETG Standard",
+    "sku": "PET00300175BLAGLAWNK",
+    "title": "PETG Standard - PETG Glacier White",
+    "updated_at": 1785402635334
   },
   {
     "aspect1": "Matt",
@@ -95055,6 +97880,29 @@
     "sku": "B0112215",
     "title": "PLA Matte Gradient Dual-Color - Pink & Green & Blue",
     "updated_at": 1785271240928
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532917465",
+    "brand": "Winkle",
+    "color": "#C0392B",
+    "color_info": {
+      "colors": [
+        "#C0392B"
+      ],
+      "type": "mono"
+    },
+    "id": 3755655460,
+    "img_src": "https://cdn.tigertag.io/img?id=3755655460&v=2",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA PRO Devil Red",
+    "product_type": "Filament",
+    "series": "PLA PRO",
+    "sku": "PPR00300175ROJDIAWNK",
+    "title": "PLA PRO - PLA PRO Devil Red",
+    "updated_at": 1785412524313
   },
   {
     "aspect1": "Matt",
@@ -95316,6 +98164,29 @@
     "sku": "PMX-PRO-SILVER",
     "title": "PLA+ PRO - PLA+ PRO Silver",
     "updated_at": 1785394142046
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916536",
+    "brand": "Winkle",
+    "color": "#0D0D0D",
+    "color_info": {
+      "colors": [
+        "#0D0D0D"
+      ],
+      "type": "mono"
+    },
+    "id": 3764445972,
+    "img_src": "https://cdn.tigertag.io/img?id=3764445972&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA High Speed Jet Black",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "PHS01000175NEGAZAWNK",
+    "title": "PLA High Speed - PLA High Speed Jet Black",
+    "updated_at": 1785411205232
   },
   {
     "aspect1": "Silk",
@@ -96671,7 +99542,7 @@
       "type": "mono"
     },
     "id": 3826724139,
-    "img_src": "https://cdn.tigertag.io/img?id=3826724139&v=5",
+    "img_src": "https://cdn.tigertag.io/img?id=3826724139&v=6",
     "material": "PETG",
     "measure": "2 kg",
     "name": "Orange",
@@ -97388,7 +100259,7 @@
       "type": "mono"
     },
     "id": 3875089630,
-    "img_src": "https://cdn.tigertag.io/img?id=3875089630&v=7",
+    "img_src": "https://cdn.tigertag.io/img?id=3875089630&v=8",
     "material": "PETG-CF",
     "measure": "2 kg",
     "name": "CF",
@@ -102469,6 +105340,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "8435532914778",
+    "brand": "Winkle",
+    "color": "#4F7942",
+    "color_info": {
+      "colors": [
+        "#4F7942"
+      ],
+      "type": "mono"
+    },
+    "id": 4073657871,
+    "img_src": "https://cdn.tigertag.io/img?id=4073657871&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Ecotisa Green",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175VERECOWNK",
+    "title": "PLA HD - PLA HD Ecotisa Green",
+    "updated_at": 1785406274915
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6922572215610",
     "brand": "eSun",
     "color": "#CE5C90FF",
@@ -103384,7 +106278,7 @@
       "type": "mono"
     },
     "id": 4108436118,
-    "img_src": "https://cdn.tigertag.io/img?id=4108436118&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4108436118&v=2",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Blue",
@@ -103476,7 +106370,7 @@
       "type": "mono"
     },
     "id": 4111085421,
-    "img_src": "https://cdn.tigertag.io/img?id=4111085421&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4111085421&v=3",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Lithophane Cyan",
@@ -103485,6 +106379,29 @@
     "sku": "PWB-3D-F4282",
     "title": "PLA Starter Lithophane - Lithophane Cyan",
     "updated_at": 1762933235422
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532916680",
+    "brand": "Winkle",
+    "color": "#8A8A8A",
+    "color_info": {
+      "colors": [
+        "#8A8A8A"
+      ],
+      "type": "mono"
+    },
+    "id": 4112637790,
+    "img_src": "https://cdn.tigertag.io/img?id=4112637790&v=2",
+    "material": "PETG",
+    "measure": "0.3 kg",
+    "name": "Recycled PETG Random Color",
+    "product_type": "Filament",
+    "series": "Recycled PETG",
+    "sku": "PER00300175COLAZAWNK",
+    "title": "Recycled PETG - Recycled PETG Random Color",
+    "updated_at": 1785417674229
   },
   {
     "aspect1": "Glitter",
@@ -103623,6 +106540,29 @@
     "sku": "PWB-3D-F4772",
     "title": "PET-G Standard HS - Hunter Green",
     "updated_at": 1758538275515
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8435532910190",
+    "brand": "Winkle",
+    "color": "#C0392B",
+    "color_info": {
+      "colors": [
+        "#C0392B"
+      ],
+      "type": "mono"
+    },
+    "id": 4115295514,
+    "img_src": "https://cdn.tigertag.io/img?id=4115295514&v=3",
+    "material": "PLA",
+    "measure": "0.3 kg",
+    "name": "PLA HD Devil Red",
+    "product_type": "Filament",
+    "series": "PLA HD",
+    "sku": "PHD00300175ROJDIAWNK",
+    "title": "PLA HD - PLA HD Devil Red",
+    "updated_at": 1785406104504
   },
   {
     "aspect1": "Matt",
@@ -104614,7 +107554,7 @@
       "type": "mono"
     },
     "id": 4164703579,
-    "img_src": "https://cdn.tigertag.io/img?id=4164703579&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4164703579&v=2",
     "material": "PC-PBT",
     "measure": "500 g",
     "name": "Black",
@@ -105710,6 +108650,30 @@
     "sku": "CA04011",
     "title": "Panchroma™ Matte PLA - Matte Army Light Green",
     "updated_at": 1785242286990
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "8435532919148",
+    "brand": "Winkle",
+    "color": "#1F6FB2",
+    "color_info": {
+      "colors": [
+        "#1F6FB2",
+        "#F5F5F5"
+      ],
+      "type": "conic_gradient"
+    },
+    "id": 4197228512,
+    "img_src": "https://cdn.tigertag.io/img?id=4197228512&v=3",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "PLA Silk Tricolor Argentina",
+    "product_type": "Filament",
+    "series": "PLA Silk Tricolor",
+    "sku": "PSI01000175AZUBLAWNK",
+    "title": "PLA Silk Tricolor - PLA Silk Tricolor Argentina",
+    "updated_at": 1785415157911
   },
   {
     "aspect1": "Basic",
