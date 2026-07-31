@@ -1,0 +1,56 @@
+name: Check documentation
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'llms.txt'
+      - 'Images/**'
+      - 'brand/**'
+      - 'tools/docs_check.py'
+      - '.github/workflows/docs-check.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'llms.txt'
+      - 'Images/**'
+      - 'brand/**'
+      - 'tools/docs_check.py'
+      - '.github/workflows/docs-check.yml'
+  # An external link rots without anyone touching this repository — the site moves
+  # and the link dies quietly. A check that only runs on push would never see it,
+  # so this also sweeps once a week.
+  schedule:
+    - cron: '0 7 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: docs-check-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  # Opt in to Node.js 24 for JavaScript actions ahead of the June 2026
+  # forced cutover (see github.blog/changelog/2025-09-19-deprecation-of-node-20).
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  docs-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install --no-cache-dir requests
+
+      - name: Check links and facts
+        run: python tools/docs_check.py

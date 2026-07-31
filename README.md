@@ -26,7 +26,7 @@
 [![Python SDK](https://img.shields.io/badge/SDK-Python-3776AB?logo=python&logoColor=white)](https://github.com/TigerTag-Project/TigerTag-SDK-Python)
 [![JavaScript SDK](https://img.shields.io/badge/SDK-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/TigerTag-Project/TigerTag-SDK-JS)
 [![Deployed](https://img.shields.io/badge/chips%20deployed-2.5M%2B-success)](#industry-adoption)
-[![Offline auth](https://img.shields.io/badge/ECDSA--P256-offline%20verify-brightgreen)](#3-verify-signature)
+[![Offline auth](https://img.shields.io/badge/ECDSA--P256-offline%20verify-brightgreen)](#3-verify-signature-ecdsa-p256-fully-offline)
 [![Apps](https://img.shields.io/badge/iOS%20%26%20Android-free-lightgrey)](#55-tigertag-rfid-connect--mobile-apps-ios--android)
 
 > **TigerTag NFC** (RFID-compatible) is the open protocol used to identify raw materials
