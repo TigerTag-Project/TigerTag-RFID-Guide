@@ -334,15 +334,15 @@
       "type": "mono"
     },
     "id": 15795922,
-    "img_src": "https://cdn.tigertag.io/img?id=15795922&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=15795922&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Silk Golden",
+    "name": "Golden",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "YMX0028-D",
-    "title": "PLA Silk - PLA Silk Golden",
-    "updated_at": 1785426038999
+    "title": "PLA Silk - Golden",
+    "updated_at": 1785491296278
   },
   {
     "aspect1": "Basic",
@@ -613,7 +613,7 @@
       "type": "gradient"
     },
     "id": 27996997,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA03035_Isometric_Top_7067413e-aefd-422f-b220-59919bdb2d07.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=27996997&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Fire",
@@ -1502,7 +1502,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#ECECE8",
     "color_info": {
@@ -1663,7 +1663,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C0202A",
     "color_info": {
@@ -2080,7 +2080,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E4FA0",
     "color_info": {
@@ -2301,7 +2301,7 @@
       "type": "multi"
     },
     "id": 88796996,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/SILK-C-RDYLBL.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=88796996&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Red+Yellow+Blue",
@@ -2545,7 +2545,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#6B2D8F",
     "color_info": {
@@ -2591,6 +2591,29 @@
     "updated_at": 1770862576025
   },
   {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#F5F5F0",
+    "color_info": {
+      "colors": [
+        "#F5F5F0"
+      ],
+      "type": "mono"
+    },
+    "id": 99404720,
+    "img_src": "https://cdn.tigertag.io/img?id=99404720&v=1",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS014",
+    "title": "PETG Rapid - White",
+    "updated_at": 1785500672967
+  },
+  {
     "aspect1": "Wood",
     "aspect2": null,
     "barcode": "191314041435",
@@ -2616,7 +2639,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1A1A1A",
     "color_info": {
@@ -2849,10 +2872,10 @@
     "aspect2": null,
     "barcode": "8435532914495",
     "brand": "Winkle",
-    "color": "#F5F7FA",
+    "color": "#F5F7FAFF",
     "color_info": {
       "colors": [
-        "#F5F7FA"
+        "#F5F7FAFF"
       ],
       "type": "mono"
     },
@@ -2865,7 +2888,7 @@
     "series": "ABS",
     "sku": "ABS00250175BLAGLAWNK",
     "title": "ABS - ABS Glacier White 250g",
-    "updated_at": 1785400193441
+    "updated_at": 1785499473247
   },
   {
     "aspect1": "Matt",
@@ -3191,29 +3214,6 @@
     "sku": "OVS-VFBPNK11-010175",
     "title": "Super PLA+ - Pink",
     "updated_at": null
-  },
-  {
-    "aspect1": "Silk",
-    "aspect2": null,
-    "barcode": "",
-    "brand": "KINGROON",
-    "color": "#4D4D4D",
-    "color_info": {
-      "colors": [
-        "#4D4D4D"
-      ],
-      "type": "mono"
-    },
-    "id": 123871745,
-    "img_src": "https://cdn.tigertag.io/img?id=123871745&v=2",
-    "material": "PLA",
-    "measure": "1 kg",
-    "name": "PLA Silk Multicolor",
-    "product_type": "Filament",
-    "series": "PLA Silk",
-    "sku": "SILK",
-    "title": "PLA Silk - PLA Silk Multicolor",
-    "updated_at": 1785425831036
   },
   {
     "aspect1": "Glitter",
@@ -3640,23 +3640,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#FF7F11FF",
+    "color": "#FF7F11",
     "color_info": {
       "colors": [
-        "#FF7F11FF"
+        "#FF7F11"
       ],
       "type": "mono"
     },
     "id": 144599764,
-    "img_src": "https://cdn.tigertag.io/files/28988/c8682a1b6d56a22c3b0a59f59bf75cf5_05e73e2a-2668-4816-b0f7-e285de8bbfd0.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=144599764&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Orange",
+    "name": "Orange",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC287",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Orange",
-    "updated_at": null
+    "title": "PLA+ - Orange",
+    "updated_at": 1785490364481
   },
   {
     "aspect1": "Basic",
@@ -3833,7 +3833,7 @@
       "type": "gradient"
     },
     "id": 149337471,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA03038_Isometric_Top_f8db0c9e-1975-43ec-95b5-95ca1db71acd.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=149337471&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Earth",
@@ -4076,7 +4076,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E8C4A0",
     "color_info": {
@@ -4274,7 +4274,7 @@
       "type": "multi"
     },
     "id": 165765284,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/SILK-C-BLGNPP.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=165765284&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Blue+Green+Purple",
@@ -5367,7 +5367,7 @@
       "type": "mono"
     },
     "id": 223244368,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/Polymaker_Polylite_Lemon_Yellow_Reshoot.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=223244368&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Lemon Yellow",
@@ -5704,7 +5704,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#B6B8ABFF",
     "color_info": {
@@ -5722,7 +5722,7 @@
     "series": "PC",
     "sku": "376004456527",
     "title": "PC - ABS V0",
-    "updated_at": 1763043219147
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Silk",
@@ -6087,7 +6087,7 @@
       "type": "mono"
     },
     "id": 242571032,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/EPA-BS.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=242571032&v=1",
     "material": "PA",
     "measure": "1 kg",
     "name": "Natural Color",
@@ -7275,7 +7275,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -7967,6 +7967,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#F5F5F0FF",
+    "color_info": {
+      "colors": [
+        "#F5F5F0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 305729664,
+    "img_src": "https://cdn.tigertag.io/img?id=305729664&v=1",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "KINGROON TPU White 95A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "B01392",
+    "title": "TPU - KINGROON TPU White 95A",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936711773",
     "brand": "Polymaker",
     "color": "#CCCCCCFF",
@@ -8037,7 +8060,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#000000FF",
     "color_info": {
@@ -8055,7 +8078,7 @@
     "series": "ABS",
     "sku": "376004456565",
     "title": "ABS - AF Black",
-    "updated_at": 1763041991012
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Rainbow",
@@ -8164,7 +8187,7 @@
       "type": "mono"
     },
     "id": 311013312,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-CY.png",
+    "img_src": "https://cdn.tigertag.io/img?id=311013312&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Cyan",
@@ -9140,7 +9163,7 @@
       "type": "mono"
     },
     "id": 343019059,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19025_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=343019059&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Tan",
@@ -9163,7 +9186,7 @@
       "type": "mono"
     },
     "id": 343350249,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-SP.png",
+    "img_src": "https://cdn.tigertag.io/img?id=343350249&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Sakura Pink",
@@ -9788,7 +9811,7 @@
       "type": "mono"
     },
     "id": 364465778,
-    "img_src": "https://printomax3d.com/cdn/shop/files/74.jpg?v=1776442831&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=364465778&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Pamplemousse",
@@ -9801,7 +9824,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#ECECE8",
     "color_info": {
@@ -10837,7 +10860,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#B5651D",
     "color_info": {
@@ -10873,15 +10896,15 @@
       "type": "mono"
     },
     "id": 405012701,
-    "img_src": "https://cdn.tigertag.io/img?id=405012701&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=405012701&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Silk Green",
+    "name": "Green",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "YMX0026-D",
-    "title": "PLA Silk - PLA Silk Green",
-    "updated_at": 1785426131754
+    "title": "PLA Silk - Green",
+    "updated_at": 1785491326761
   },
   {
     "aspect1": "Matt",
@@ -11057,7 +11080,7 @@
       "type": "mono"
     },
     "id": 410887005,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19002_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=410887005&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Grey",
@@ -11135,6 +11158,29 @@
     "sku": "SL-N-PLAYG-PG-1KG-A",
     "title": "PLA Matte - Sprout Green",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FF7A00",
+    "color_info": {
+      "colors": [
+        "#FF7A00"
+      ],
+      "type": "mono"
+    },
+    "id": 414051265,
+    "img_src": "https://cdn.tigertag.io/img?id=414051265&v=2",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "DLZ021-D-19",
+    "title": "ABS - Orange",
+    "updated_at": 1785498953795
   },
   {
     "aspect1": "Pastel",
@@ -11300,7 +11346,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#000000FF",
     "color_info": {
@@ -11318,7 +11364,7 @@
     "series": "ABS",
     "sku": "376004456497",
     "title": "ABS - AF Black",
-    "updated_at": 1763042019005
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Basic",
@@ -11924,6 +11970,30 @@
     "updated_at": null
   },
   {
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#D0342C",
+    "color_info": {
+      "colors": [
+        "#D0342C",
+        "#D4AF37"
+      ],
+      "type": "gradient"
+    },
+    "id": 448250129,
+    "img_src": "https://cdn.tigertag.io/img?id=448250129&v=4",
+    "material": "PLA Silk",
+    "measure": "1 kg",
+    "name": "Red/Gold",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "HC148",
+    "title": "PLA Silk Dual Color - Red/Gold",
+    "updated_at": 1785501155383
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -11959,7 +12029,7 @@
       "type": "mono"
     },
     "id": 448633945,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19003_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=448633945&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Steel Grey",
@@ -12397,7 +12467,7 @@
       "type": "mono"
     },
     "id": 464563921,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolyLite_ABS_Purple_285_Spool_Picture_Asymmetric.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=464563921&v=1",
     "material": "ABS",
     "measure": "1 kg",
     "name": "Purple",
@@ -12550,7 +12620,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#A03A6E",
     "color_info": {
@@ -14052,6 +14122,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#F5F5F0",
+    "color_info": {
+      "colors": [
+        "#F5F5F0"
+      ],
+      "type": "mono"
+    },
+    "id": 525521150,
+    "img_src": "https://cdn.tigertag.io/img?id=525521150&v=3",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "B0978",
+    "title": "ABS - White",
+    "updated_at": 1785499136457
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6922572208452",
     "brand": "eSun",
     "color": "#A8714EFF",
@@ -14200,15 +14293,15 @@
       "type": "mono"
     },
     "id": 532836366,
-    "img_src": "https://cdn.tigertag.io/img?id=532836366&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=532836366&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Silk Blue",
+    "name": "Blue",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "YMX0025-D",
-    "title": "PLA Silk - PLA Silk Blue",
-    "updated_at": 1785425957577
+    "title": "PLA Silk - Blue",
+    "updated_at": 1785491275248
   },
   {
     "aspect1": "Matt",
@@ -14419,6 +14512,29 @@
     "sku": "PB02001",
     "title": "PolyMax™ - Black",
     "updated_at": 1785242154335
+  },
+  {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#D0342C",
+    "color_info": {
+      "colors": [
+        "#D0342C"
+      ],
+      "type": "mono"
+    },
+    "id": 539347651,
+    "img_src": "https://cdn.tigertag.io/img?id=539347651&v=2",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS017",
+    "title": "PETG Rapid - Red",
+    "updated_at": 1785500298795
   },
   {
     "aspect1": "Basic",
@@ -14701,7 +14817,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C79A2E",
     "color_info": {
@@ -15585,6 +15701,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "KINGROON",
+    "color": "#C0C0C0",
+    "color_info": {
+      "colors": [
+        "#C0C0C0"
+      ],
+      "type": "mono"
+    },
+    "id": 592929938,
+    "img_src": "https://cdn.tigertag.io/img?id=592929938&v=2",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "B0980",
+    "title": "ABS - Silver",
+    "updated_at": 1785499093964
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Sunlu",
     "color": "#EAC640",
     "color_info": {
@@ -16161,7 +16300,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#D0D2CEFF",
     "color_info": {
@@ -16179,7 +16318,7 @@
     "series": "PC",
     "sku": "376034597084",
     "title": "PC - ABS Rail",
-    "updated_at": 1763043147566
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Silk",
@@ -16242,7 +16381,7 @@
       "type": "mono"
     },
     "id": 616093519,
-    "img_src": "https://cdn.shopify.com/s/files/1/0207/3624/5824/products/overture-tpu-3d-printer-filament-175mm-141685.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=616093519&v=1",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Digital Blue",
@@ -17343,7 +17482,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#000000FF",
     "color_info": {
@@ -17361,7 +17500,7 @@
     "series": "PEKK",
     "sku": "376004456439",
     "title": "PEKK - A-CF",
-    "updated_at": 1763044074730
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Basic",
@@ -17560,7 +17699,7 @@
       "type": "mono"
     },
     "id": 663117127,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-GN.png",
+    "img_src": "https://cdn.tigertag.io/img?id=663117127&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Green",
@@ -18750,7 +18889,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#14532D",
     "color_info": {
@@ -19142,6 +19281,29 @@
     "updated_at": 1752810588221
   },
   {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FF7A00",
+    "color_info": {
+      "colors": [
+        "#FF7A00"
+      ],
+      "type": "mono"
+    },
+    "id": 708119303,
+    "img_src": "https://cdn.tigertag.io/img?id=708119303&v=3",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS015",
+    "title": "PETG Rapid - Orange",
+    "updated_at": 1785500249275
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Gloss",
     "barcode": "5907753136572",
@@ -19188,9 +19350,32 @@
     "updated_at": 1785277056845
   },
   {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FFD400",
+    "color_info": {
+      "colors": [
+        "#FFD400"
+      ],
+      "type": "mono"
+    },
+    "id": 711746224,
+    "img_src": "https://cdn.tigertag.io/img?id=711746224&v=3",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS018",
+    "title": "PETG Rapid - Yellow",
+    "updated_at": 1785500718851
+  },
+  {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#6B2D8F",
     "color_info": {
@@ -19307,7 +19492,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#2E7D4F",
     "color_info": {
@@ -19521,7 +19706,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#4F9E3A",
     "color_info": {
@@ -19563,6 +19748,30 @@
     "sku": "PLA+CMYK175W1R1",
     "title": "PLA+CMYK - WHITE",
     "updated_at": null
+  },
+  {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1F4E9C",
+    "color_info": {
+      "colors": [
+        "#1F4E9C",
+        "#F5F5F0"
+      ],
+      "type": "gradient"
+    },
+    "id": 725841714,
+    "img_src": "https://cdn.tigertag.io/img?id=725841714&v=3",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Blue/White 85A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "HC346",
+    "title": "TPU - Blue/White 85A",
+    "updated_at": 1785505347406
   },
   {
     "aspect1": "Basic",
@@ -21118,7 +21327,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Metal",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1A6FA0",
     "color_info": {
@@ -21141,7 +21350,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E0E0DA",
     "color_info": {
@@ -21212,10 +21421,10 @@
     "aspect2": null,
     "barcode": "8435532914501",
     "brand": "Winkle",
-    "color": "#F5F7FA",
+    "color": "#F5F7FAFF",
     "color_info": {
       "colors": [
-        "#F5F7FA"
+        "#F5F7FAFF"
       ],
       "type": "mono"
     },
@@ -21228,7 +21437,7 @@
     "series": "ABS",
     "sku": "ABS01000175BLAGLAWNK",
     "title": "ABS - ABS Glacier White",
-    "updated_at": 1785400108637
+    "updated_at": 1785499473247
   },
   {
     "aspect1": "Basic",
@@ -21536,23 +21745,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A"
       ],
       "type": "mono"
     },
     "id": 796573861,
-    "img_src": "https://cdn.tigertag.io/files/28988/8b9cc7c9808a81fc8db0eaf67a4d79d7_c7b73532-eaae-4729-b1c6-fc9f1407599f.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=796573861&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Black",
+    "name": "Black",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC104",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Black",
-    "updated_at": null
+    "title": "PLA+ - Black",
+    "updated_at": 1785488567063
   },
   {
     "aspect1": "Silk",
@@ -21889,15 +22098,15 @@
     "aspect2": "Fiber",
     "barcode": "6938936716778",
     "brand": "Polymaker",
-    "color": "#CC0033FF",
+    "color": "#CC0033",
     "color_info": {
       "colors": [
-        "#CC0033FF"
+        "#CC0033"
       ],
       "type": "mono"
     },
     "id": 807208574,
-    "img_src": "https://cdn.tigertag.io/img?id=807208574&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=807208574&v=5",
     "material": "PET-GF",
     "measure": "1 kg",
     "name": "Red",
@@ -21905,7 +22114,7 @@
     "series": "Fiberon™",
     "sku": "FL02007",
     "title": "Fiberon™ - Red",
-    "updated_at": 1785256795090
+    "updated_at": 1785504706289
   },
   {
     "aspect1": "Basic",
@@ -22096,23 +22305,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#F2F2F2FF",
+    "color": "#F2F2F2",
     "color_info": {
       "colors": [
-        "#F2F2F2FF"
+        "#F2F2F2"
       ],
       "type": "mono"
     },
     "id": 815447259,
-    "img_src": "https://cdn.tigertag.io/files/28988/HC311-_10-1785482627237.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=815447259&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Matte White",
+    "name": "White",
     "product_type": "Filament",
     "series": "PLA Matte",
     "sku": "C0410",
-    "title": "PLA Matte - KINGROON PLA Matte White",
-    "updated_at": null
+    "title": "PLA Matte - White",
+    "updated_at": 1785488450654
   },
   {
     "aspect1": "Silk",
@@ -22427,7 +22636,7 @@
       "type": "gradient"
     },
     "id": 826008884,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA03037_Isometric_Top_a4e973a3-f703-4d44-b583-d619339c5ab3.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=826008884&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Air",
@@ -22648,7 +22857,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#000000FF",
     "color_info": {
@@ -22666,7 +22875,7 @@
     "series": "ABS",
     "sku": "376004456494",
     "title": "ABS - AF Black",
-    "updated_at": 1763041973955
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Matt",
@@ -22997,6 +23206,29 @@
     "updated_at": 1785242286990
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#D0342C",
+    "color_info": {
+      "colors": [
+        "#D0342C"
+      ],
+      "type": "mono"
+    },
+    "id": 847983592,
+    "img_src": "https://cdn.tigertag.io/img?id=847983592&v=2",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "B0982",
+    "title": "ABS - Red",
+    "updated_at": 1785499048135
+  },
+  {
     "aspect1": "Bicolor",
     "aspect2": "Matt",
     "barcode": "6938936715887",
@@ -23257,23 +23489,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
     "id": 860596019,
-    "img_src": "https://cdn.tigertag.io/files/28988/HC312-_10-1785482627233.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=860596019&v=4",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Matte Gray",
+    "name": "Gray",
     "product_type": "Filament",
     "series": "PLA Matte",
     "sku": "C0411",
-    "title": "PLA Matte - KINGROON PLA Matte Gray",
-    "updated_at": null
+    "title": "PLA Matte - Gray",
+    "updated_at": 1785488378665
   },
   {
     "aspect1": "Matt",
@@ -23450,7 +23682,7 @@
       "type": "mono"
     },
     "id": 869520453,
-    "img_src": "https://cdn.shopify.com/s/files/1/0207/3624/5824/files/overture-silk-pla-3d-printer-filament-175mm-3484095.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=869520453&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk Silver",
@@ -23624,7 +23856,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#17233F",
     "color_info": {
@@ -24436,10 +24668,10 @@
     "aspect2": null,
     "barcode": "8435532914594",
     "brand": "Winkle",
-    "color": "#0D0D0D",
+    "color": "#0D0D0DFF",
     "color_info": {
       "colors": [
-        "#0D0D0D"
+        "#0D0D0DFF"
       ],
       "type": "mono"
     },
@@ -24452,7 +24684,7 @@
     "series": "ABS",
     "sku": "ABS01000175NEGAZAWNK",
     "title": "ABS - ABS Jet Black",
-    "updated_at": 1785400262229
+    "updated_at": 1785499473247
   },
   {
     "aspect1": "Basic",
@@ -24689,7 +24921,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#17233F",
     "color_info": {
@@ -25645,7 +25877,7 @@
       "type": "mono"
     },
     "id": 945461443,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19012_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=945461443&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Wine Red",
@@ -26072,7 +26304,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E89AB8",
     "color_info": {
@@ -26431,7 +26663,7 @@
       "type": "mono"
     },
     "id": 975609564,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-BL.png",
+    "img_src": "https://cdn.tigertag.io/img?id=975609564&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Blue",
@@ -27004,7 +27236,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C79A2E",
     "color_info": {
@@ -27167,7 +27399,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#000000FF",
     "color_info": {
@@ -27185,7 +27417,7 @@
     "series": "PEKK",
     "sku": "376004456440",
     "title": "PEKK - A-CF",
-    "updated_at": 1763044102293
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Silk",
@@ -28474,33 +28706,33 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#F2F2F2FF",
+    "color": "#F2F2F2",
     "color_info": {
       "colors": [
-        "#F2F2F2FF"
+        "#F2F2F2"
       ],
       "type": "mono"
     },
     "id": 1052624164,
-    "img_src": "https://cdn.tigertag.io/files/28988/d92e076f69cb1a6f81c9bab8cd8f57a2_cd74ded2-889d-41ec-bf3c-f1955ed9cfb5.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=1052624164&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus White",
+    "name": "White",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC103",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus White",
-    "updated_at": null
+    "title": "PLA+ - White",
+    "updated_at": 1785490670574
   },
   {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936707899",
     "brand": "Polymaker",
-    "color": "#90785E",
+    "color": "#90785EFF",
     "color_info": {
       "colors": [
-        "#90785E"
+        "#90785EFF"
       ],
       "type": "mono"
     },
@@ -28513,7 +28745,7 @@
     "series": "PolyLite™",
     "sku": "PA07043",
     "title": "PolyLite™ - 3D Print General Flat Dark Earth",
-    "updated_at": 1785270720072
+    "updated_at": 1785499472737
   },
   {
     "aspect1": "Basic",
@@ -28620,7 +28852,7 @@
       "type": "mono"
     },
     "id": 1057348353,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-CR.png",
+    "img_src": "https://cdn.tigertag.io/img?id=1057348353&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Cherry Red",
@@ -28874,7 +29106,7 @@
       "type": "mono"
     },
     "id": 1063782152,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/ASA-GN.png",
+    "img_src": "https://cdn.tigertag.io/img?id=1063782152&v=1",
     "material": "ASA",
     "measure": "1 kg",
     "name": "ASA Green",
@@ -29117,7 +29349,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E4FA0",
     "color_info": {
@@ -29289,7 +29521,7 @@
       "type": "mono"
     },
     "id": 1080554945,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolymakerPolyliteandGalaxy_1.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1080554945&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Olive Green",
@@ -29440,7 +29672,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#D2D3CFFF",
     "color_info": {
@@ -29458,7 +29690,7 @@
     "series": "PC",
     "sku": "376034597062",
     "title": "PC - ABS Rail",
-    "updated_at": 1763043159456
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Basic",
@@ -30585,15 +30817,15 @@
       "type": "mono"
     },
     "id": 1119588433,
-    "img_src": "https://cdn.tigertag.io/img?id=1119588433&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1119588433&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Red",
+    "name": "Red",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "HC010-D",
-    "title": "PLA Basic - PLA Basic Red",
-    "updated_at": 1785422908959
+    "title": "PLA Basic - Red",
+    "updated_at": 1785491112855
   },
   {
     "aspect1": "Matt",
@@ -31038,7 +31270,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#2A4C8F",
     "color_info": {
@@ -31858,15 +32090,15 @@
       "type": "mono"
     },
     "id": 1159768922,
-    "img_src": "https://cdn.tigertag.io/img?id=1159768922&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1159768922&v=4",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Purple",
+    "name": "Purple",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "NPLA009-D",
-    "title": "PLA Basic - PLA Basic Purple",
-    "updated_at": 1785422850262
+    "title": "PLA Basic - Purple",
+    "updated_at": 1785491092365
   },
   {
     "aspect1": "Stone",
@@ -32207,7 +32439,7 @@
       "type": "gradient"
     },
     "id": 1174714634,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA09007_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1174714634&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Rainbow",
@@ -32738,7 +32970,7 @@
       "type": "mono"
     },
     "id": 1192944471,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-CC.png",
+    "img_src": "https://cdn.tigertag.io/img?id=1192944471&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Chocolate",
@@ -32983,7 +33215,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C4C4C4",
     "color_info": {
@@ -33402,7 +33634,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Metal",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#2E7D4F",
     "color_info": {
@@ -33587,7 +33819,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#8FD4A8",
     "color_info": {
@@ -33863,7 +34095,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#3AAFC9",
     "color_info": {
@@ -34419,10 +34651,10 @@
     "aspect2": null,
     "barcode": "8435532914679",
     "brand": "Winkle",
-    "color": "#F0E6D2",
+    "color": "#F0E6D2FF",
     "color_info": {
       "colors": [
-        "#F0E6D2"
+        "#F0E6D2FF"
       ],
       "type": "mono"
     },
@@ -34435,7 +34667,7 @@
     "series": "ABS",
     "sku": "ABS00250175NATNATWNK",
     "title": "ABS - ABS Natural",
-    "updated_at": 1785400393830
+    "updated_at": 1785499473247
   },
   {
     "aspect1": "Translucent",
@@ -35112,23 +35344,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#F5F5F0FF",
+    "color": "#F5F5F0",
     "color_info": {
       "colors": [
-        "#F5F5F0FF"
+        "#F5F5F0"
       ],
       "type": "mono"
     },
     "id": 1300597717,
-    "img_src": "https://cdn.tigertag.io/files/28988/petg_90caa2e5-e33d-4d51-9b7d-5930bc1c6081.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=1300597717&v=2",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "KINGROON PETG Basic White",
+    "name": "White",
     "product_type": "Filament",
     "series": "PETG Basic",
     "sku": "C0034",
-    "title": "PETG Basic - KINGROON PETG Basic White",
-    "updated_at": null
+    "title": "PETG Basic - White",
+    "updated_at": 1785487774564
   },
   {
     "aspect1": "Silk",
@@ -35373,7 +35605,7 @@
       "type": "mono"
     },
     "id": 1309599228,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/TPU_SILK-LB.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=1309599228&v=1",
     "material": "TPU",
     "measure": "1.1 kg",
     "name": "Light Blue",
@@ -35442,7 +35674,7 @@
       "type": "mono"
     },
     "id": 1312199399,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolyLite_ABS_Blue_285_Spool_Picture_Asymmetric.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1312199399&v=1",
     "material": "ABS",
     "measure": "1 kg",
     "name": "Blue",
@@ -35802,7 +36034,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#2E7D4F",
     "color_info": {
@@ -36066,7 +36298,7 @@
       "type": "mono"
     },
     "id": 1331600073,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolyLite_ABS_Yellow_285_Spool_Picture_Asymmetric.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1331600073&v=1",
     "material": "ABS",
     "measure": "1 kg",
     "name": "Yellow",
@@ -36984,6 +37216,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1F4E9C",
+    "color_info": {
+      "colors": [
+        "#1F4E9C"
+      ],
+      "type": "mono"
+    },
+    "id": 1381857653,
+    "img_src": "https://cdn.tigertag.io/img?id=1381857653&v=3",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Blue 95A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "B01396",
+    "title": "TPU - Blue 95A",
+    "updated_at": 1785505289208
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6931677320693",
     "brand": "R3D",
     "color": "#FFFFFFFF",
@@ -37411,15 +37666,15 @@
       "type": "mono"
     },
     "id": 1395528200,
-    "img_src": "https://cdn.tigertag.io/img?id=1395528200&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1395528200&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Green",
+    "name": "Green",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "NPLA007-D",
-    "title": "PLA Basic - PLA Basic Green",
-    "updated_at": 1785422415062
+    "title": "PLA Basic - Green",
+    "updated_at": 1785491007269
   },
   {
     "aspect1": "Metal",
@@ -37447,7 +37702,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E4FA0",
     "color_info": {
@@ -37843,7 +38098,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C79A2E",
     "color_info": {
@@ -38239,7 +38494,7 @@
   {
     "aspect1": "Carbon",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#4F9E3A",
     "color_info": {
@@ -38249,7 +38504,7 @@
       "type": "mono"
     },
     "id": 1423805319,
-    "img_src": "https://cdn.tigertag.io/img?id=1102726975&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1423805319&v=1",
     "material": "PETG-CF",
     "measure": "1 kg",
     "name": "Grass Green",
@@ -38518,29 +38773,6 @@
     "updated_at": 1776648888883
   },
   {
-    "aspect1": "Basic",
-    "aspect2": null,
-    "barcode": "",
-    "brand": "KINGROON",
-    "color": "#4D4D4DFF",
-    "color_info": {
-      "colors": [
-        "#4D4D4DFF"
-      ],
-      "type": "mono"
-    },
-    "id": 1437611363,
-    "img_src": "https://cdn.tigertag.io/files/28988/pla_C0750.jpg",
-    "material": "PLA",
-    "measure": "1 kg",
-    "name": "KINGROON PLA Plus Multicolor",
-    "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
-    "sku": "C0705",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Multicolor",
-    "updated_at": null
-  },
-  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "8901588505814",
@@ -38737,7 +38969,7 @@
       "type": "mono"
     },
     "id": 1443651960,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolymakerPolyliteandGalaxy_10.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1443651960&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Lime Green",
@@ -39213,7 +39445,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E4FA0",
     "color_info": {
@@ -39306,7 +39538,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#000000FF",
     "color_info": {
@@ -39324,7 +39556,7 @@
     "series": "PEKK",
     "sku": "376034597224",
     "title": "PEKK - A-CF",
-    "updated_at": 1763044089905
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Basic",
@@ -39467,7 +39699,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#9AA0D8",
     "color_info": {
@@ -39650,6 +39882,30 @@
     "sku": "R3DC1E115NHS",
     "title": "PETG High Speed - Coffee",
     "updated_at": 1752130620916
+  },
+  {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A",
+        "#D0342C"
+      ],
+      "type": "gradient"
+    },
+    "id": 1467447794,
+    "img_src": "https://cdn.tigertag.io/img?id=1467447794&v=3",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Black/Red 85A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "HC340",
+    "title": "TPU - Black/Red 85A",
+    "updated_at": 1785505239330
   },
   {
     "aspect1": "Matt",
@@ -40048,6 +40304,30 @@
     "updated_at": 1785156235667
   },
   {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FF8FB1FF",
+    "color_info": {
+      "colors": [
+        "#FF8FB1FF",
+        "#F5F5F0FF"
+      ],
+      "type": "gradient"
+    },
+    "id": 1486133338,
+    "img_src": "https://cdn.tigertag.io/img?id=1486133338&v=1",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "KINGROON TPU Pink/White Rainbow 85A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "HC343",
+    "title": "TPU - KINGROON TPU Pink/White Rainbow 85A",
+    "updated_at": null
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": "Matt",
     "barcode": "5907753137333",
@@ -40098,23 +40378,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A"
       ],
       "type": "mono"
     },
     "id": 1488457979,
-    "img_src": "https://cdn.tigertag.io/files/28988/petg_-1.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=1488457979&v=2",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "KINGROON PETG Basic Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "PETG Basic",
     "sku": "C0389",
-    "title": "PETG Basic - KINGROON PETG Basic Black",
-    "updated_at": null
+    "title": "PETG Basic - Black",
+    "updated_at": 1785487549993
   },
   {
     "aspect1": "Basic",
@@ -40395,7 +40675,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#7A9AB0",
     "color_info": {
@@ -40626,7 +40906,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#B6B8ABFF",
     "color_info": {
@@ -40644,7 +40924,7 @@
     "series": "PC",
     "sku": "376004456663",
     "title": "PC - ABS V0",
-    "updated_at": 1763043205623
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Matt",
@@ -40881,7 +41161,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#6B5D3E",
     "color_info": {
@@ -41236,15 +41516,15 @@
       "type": "mono"
     },
     "id": 1519415449,
-    "img_src": "https://cdn.tigertag.io/img?id=1519415449&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1519415449&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Silver",
+    "name": "Silver",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "YMX0020-D",
-    "title": "PLA Basic - PLA Basic Silver",
-    "updated_at": 1785422972154
+    "title": "PLA Basic - Silver",
+    "updated_at": 1785491138455
   },
   {
     "aspect1": "Silk",
@@ -41380,7 +41660,7 @@
       "type": "mono"
     },
     "id": 1523811357,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/PolyMide-CoPA_1.75mm_0.75kg_Black.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1523811357&v=1",
     "material": "PA",
     "measure": "0.75 kg",
     "name": "Black",
@@ -41656,7 +41936,7 @@
       "type": "mono"
     },
     "id": 1534075345,
-    "img_src": "https://cdn.shopify.com/s/files/1/0207/3624/5824/files/overture-tpu-3d-printer-filament-175mm-103864.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=1534075345&v=1",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Neon Green",
@@ -41715,7 +41995,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C7CBD1",
     "color_info": {
@@ -41787,7 +42067,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -42499,6 +42779,30 @@
     "series": "Easy PLA",
     "sku": "VFPSGR11-010086",
     "title": "Easy PLA - Easy Space Gray",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#D0342CFF",
+    "color_info": {
+      "colors": [
+        "#D0342CFF",
+        "#FF7A00FF"
+      ],
+      "type": "gradient"
+    },
+    "id": 1563307674,
+    "img_src": "https://cdn.tigertag.io/img?id=1563307674&v=1",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "KINGROON TPU Red/Orange Rainbow 85A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "HC345",
+    "title": "TPU - KINGROON TPU Red/Orange Rainbow 85A",
     "updated_at": null
   },
   {
@@ -44504,7 +44808,7 @@
       "type": "mono"
     },
     "id": 1647169657,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolyLite_ABS_Polymaker_Teal_285_Spool_Picture_Asymmetric.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1647169657&v=1",
     "material": "ABS",
     "measure": "1 kg",
     "name": "Teal",
@@ -44586,7 +44890,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#F2D020",
     "color_info": {
@@ -44679,7 +44983,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -44893,7 +45197,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E8C230",
     "color_info": {
@@ -45512,6 +45816,30 @@
     "sku": "",
     "title": "Soleyin Ultra PLA - Rosehip",
     "updated_at": 1784702139468
+  },
+  {
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1F4E9C",
+    "color_info": {
+      "colors": [
+        "#1F4E9C",
+        "#2E8B57"
+      ],
+      "type": "gradient"
+    },
+    "id": 1684211530,
+    "img_src": "https://cdn.tigertag.io/img?id=1684211530&v=4",
+    "material": "PLA Silk",
+    "measure": "1 kg",
+    "name": "Blue/Green",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "HC117",
+    "title": "PLA Silk Dual Color - Blue/Green",
+    "updated_at": 1785501071339
   },
   {
     "aspect1": "Basic",
@@ -46575,7 +46903,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C0202A",
     "color_info": {
@@ -46829,7 +47157,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#0F7B6C",
     "color_info": {
@@ -47703,7 +48031,7 @@
       "type": "mono"
     },
     "id": 1770443523,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19022_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1770443523&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Lime Green",
@@ -47788,7 +48116,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C0202A",
     "color_info": {
@@ -48226,6 +48554,29 @@
     "sku": "VFAGRY17511",
     "title": "ABS - Gray",
     "updated_at": null
+  },
+  {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#8B5A2B",
+    "color_info": {
+      "colors": [
+        "#8B5A2B"
+      ],
+      "type": "mono"
+    },
+    "id": 1798035342,
+    "img_src": "https://cdn.tigertag.io/img?id=1798035342&v=3",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "Brown",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS023",
+    "title": "PETG Rapid - Brown",
+    "updated_at": 1785500025765
   },
   {
     "aspect1": "Rainbow",
@@ -48757,29 +49108,6 @@
     "sku": "376034597299",
     "title": "PETG - Black",
     "updated_at": 1763044447968
-  },
-  {
-    "aspect1": "Basic",
-    "aspect2": null,
-    "barcode": "",
-    "brand": "KINGROON",
-    "color": "#4D4D4D",
-    "color_info": {
-      "colors": [
-        "#4D4D4D"
-      ],
-      "type": "mono"
-    },
-    "id": 1832112339,
-    "img_src": "https://cdn.tigertag.io/img?id=1832112339&v=3",
-    "material": "PLA",
-    "measure": "1 kg",
-    "name": "PLA Basic Multicolor",
-    "product_type": "Filament",
-    "series": "PLA Basic",
-    "sku": "C0117",
-    "title": "PLA Basic - PLA Basic Multicolor",
-    "updated_at": 1785422724255
   },
   {
     "aspect1": "Matt",
@@ -49457,6 +49785,29 @@
     "updated_at": 1770865135112
   },
   {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#2E8B57",
+    "color_info": {
+      "colors": [
+        "#2E8B57"
+      ],
+      "type": "mono"
+    },
+    "id": 1854823792,
+    "img_src": "https://cdn.tigertag.io/img?id=1854823792&v=3",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS021",
+    "title": "PETG Rapid - Green",
+    "updated_at": 1785500205194
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6975337033745",
@@ -49622,23 +49973,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A"
       ],
       "type": "mono"
     },
     "id": 1860783859,
-    "img_src": "https://cdn.tigertag.io/files/28988/HC310-_10-1785482627252.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=1860783859&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Matte Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "PLA Matte",
     "sku": "C0409",
-    "title": "PLA Matte - KINGROON PLA Matte Black",
-    "updated_at": null
+    "title": "PLA Matte - Black",
+    "updated_at": 1785488317644
   },
   {
     "aspect1": "Basic",
@@ -51869,7 +52220,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C0202A",
     "color_info": {
@@ -52504,7 +52855,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E89AB8",
     "color_info": {
@@ -53318,6 +53669,29 @@
     "updated_at": 1785264180635
   },
   {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 2007600431,
+    "img_src": "https://cdn.tigertag.io/img?id=2007600431&v=3",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "Gray",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS019",
+    "title": "PETG Rapid - Gray",
+    "updated_at": 1785500154057
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "5907753132482",
@@ -53997,7 +54371,7 @@
       "type": "mono"
     },
     "id": 2030767171,
-    "img_src": "https://cdn.tigertag.io/img?id=2030767171&v=1&timestamp=1784118899697",
+    "img_src": "https://cdn.tigertag.io/img?id=2030767171&v=1",
     "material": "PETG",
     "measure": "500 g",
     "name": "Nature",
@@ -54254,7 +54628,7 @@
       "type": "mono"
     },
     "id": 2038849931,
-    "img_src": "https://printomax3d.com/cdn/shop/files/38_7baa2012-3088-446d-81c3-4492be693ea6.jpg?v=1776438153&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=2038849931&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Saumon",
@@ -54582,7 +54956,7 @@
       "type": "mono"
     },
     "id": 2050483871,
-    "img_src": "https://cdn.shopify.com/s/files/1/0207/3624/5824/files/overture-silk-pla-3d-printer-filament-175mm-7391258.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2050483871&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk Gray",
@@ -54954,7 +55328,7 @@
       "type": "multi"
     },
     "id": 2063197631,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk_four-color_-BKGYRDYL.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2063197631&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Black+Red+Yellow+Gray",
@@ -55057,29 +55431,6 @@
     "sku": "PWB-3D-F4788",
     "title": "PET-G Structure HS - Black",
     "updated_at": 1761200376630
-  },
-  {
-    "aspect1": "Matt",
-    "aspect2": null,
-    "barcode": "",
-    "brand": "KINGROON",
-    "color": "#4D4D4DFF",
-    "color_info": {
-      "colors": [
-        "#4D4D4DFF"
-      ],
-      "type": "mono"
-    },
-    "id": 2067119178,
-    "img_src": "https://cdn.tigertag.io/files/28988/C0302_ad0c4186-83bf-4219-af75-344cb95a4fd0-1785482627240.jpg",
-    "material": "PLA",
-    "measure": "1 kg",
-    "name": "KINGROON PLA Matte Multicolor",
-    "product_type": "Filament",
-    "series": "PLA Matte",
-    "sku": "C0302",
-    "title": "PLA Matte - KINGROON PLA Matte Multicolor",
-    "updated_at": null
   },
   {
     "aspect1": "Glitter",
@@ -56186,7 +56537,7 @@
       "type": "mono"
     },
     "id": 2110448559,
-    "img_src": "https://printomax3d.com/cdn/shop/files/70.jpg?v=1776439432&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=2110448559&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Terre Battue",
@@ -56452,7 +56803,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E4FA0",
     "color_info": {
@@ -56754,7 +57105,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#8E8E8E",
     "color_info": {
@@ -57134,7 +57485,7 @@
       "type": "mono"
     },
     "id": 2143301722,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-BG.png",
+    "img_src": "https://cdn.tigertag.io/img?id=2143301722&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Blue Gray",
@@ -57377,7 +57728,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E2F5A",
     "color_info": {
@@ -57678,7 +58029,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C81E28",
     "color_info": {
@@ -58327,7 +58678,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -58565,7 +58916,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C0202A",
     "color_info": {
@@ -58732,6 +59083,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FFD400FF",
+    "color_info": {
+      "colors": [
+        "#FFD400FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2205276452,
+    "img_src": "https://cdn.tigertag.io/img?id=2205276452&v=1",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "KINGROON TPU Yellow 95A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "B01393-D",
+    "title": "TPU - KINGROON TPU Yellow 95A",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Polymaker",
     "color": "#2E6BE0FF",
     "color_info": {
@@ -58824,7 +59198,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#6FA84F",
     "color_info": {
@@ -59156,7 +59530,7 @@
       "type": "mono"
     },
     "id": 2216869018,
-    "img_src": "https://printomax3d.com/cdn/shop/files/12_7d25e608-4119-412d-af7d-c8062f20b47e.jpg?v=1776439379&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=2216869018&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Light Aigue Marine Blue",
@@ -59846,15 +60220,15 @@
       "type": "mono"
     },
     "id": 2247885016,
-    "img_src": "https://cdn.tigertag.io/img?id=2247885016&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2247885016&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Orange",
+    "name": "Orange",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "HC008",
-    "title": "PLA Basic - PLA Basic Orange",
-    "updated_at": 1785422785749
+    "title": "PLA Basic - Orange",
+    "updated_at": 1785491027678
   },
   {
     "aspect1": "Basic",
@@ -60216,7 +60590,7 @@
       "type": "gradient"
     },
     "id": 2263098062,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA03036_Isometric_Top_c790c8be-c4bd-442a-bb58-8876c916675d.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2263098062&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Water",
@@ -60532,7 +60906,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Metal",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E4FA0",
     "color_info": {
@@ -60936,7 +61310,7 @@
       "type": "gradient"
     },
     "id": 2281577867,
-    "img_src": "https://printomax3d.com/cdn/shop/files/01_Filament_3D_PLA_Silk_Dualcolor_Red_Blue_1_75mm_1kg_Haute_qualite_Livraison_gratuite_et_rapide_Printomax3D.heic?v=1748862877&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=2281577867&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk Dual Color Red/Blue",
@@ -61044,7 +61418,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E89AB8",
     "color_info": {
@@ -61367,7 +61741,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#D6D7D3FF",
     "color_info": {
@@ -61385,7 +61759,7 @@
     "series": "PC",
     "sku": "376034597098",
     "title": "PC - ABS Rail",
-    "updated_at": 1763043091669
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Glitter",
@@ -62297,7 +62671,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C79A2E",
     "color_info": {
@@ -62436,7 +62810,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#9B30FF",
     "color_info": {
@@ -62789,7 +63163,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#B23A3A",
     "color_info": {
@@ -62977,23 +63351,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#4FA8DBFF",
+    "color": "#4FA8DB",
     "color_info": {
       "colors": [
-        "#4FA8DBFF"
+        "#4FA8DB"
       ],
       "type": "mono"
     },
     "id": 2367904065,
-    "img_src": "https://cdn.tigertag.io/files/28988/Sky_blue_PLA.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2367904065&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Sky Blue",
+    "name": "Sky Blue",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC110",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Sky Blue",
-    "updated_at": null
+    "title": "PLA+ - Sky Blue",
+    "updated_at": 1785490570951
   },
   {
     "aspect1": "Basic",
@@ -63090,7 +63464,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E89AB8",
     "color_info": {
@@ -63915,7 +64289,7 @@
       "type": "mono"
     },
     "id": 2402310961,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-PP.png",
+    "img_src": "https://cdn.tigertag.io/img?id=2402310961&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Purple",
@@ -65505,7 +65879,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E2F5A",
     "color_info": {
@@ -65914,7 +66288,7 @@
       "type": "mono"
     },
     "id": 2480290518,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/EPA-BK.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2480290518&v=1",
     "material": "PA",
     "measure": "1 kg",
     "name": "Black",
@@ -66020,7 +66394,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -66333,7 +66707,7 @@
       "type": "mono"
     },
     "id": 2502524175,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAGL-1-SDP.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2502524175&v=1",
     "material": "PLA",
     "measure": "1.1 kg",
     "name": "Stardust Purple",
@@ -67250,7 +67624,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -67387,6 +67761,29 @@
     "sku": "PLA-CLRB175O-CCY1P1",
     "title": "PLA-Clear Rainbow - CYAN CRYSTAL",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 2541410941,
+    "img_src": "https://cdn.tigertag.io/img?id=2541410941&v=3",
+    "material": "PA",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "Nylon PA",
+    "sku": "YMX0185-D",
+    "title": "Nylon PA - Black",
+    "updated_at": 1785499538181
   },
   {
     "aspect1": "Basic",
@@ -67729,7 +68126,7 @@
       "type": "mono"
     },
     "id": 2557575666,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAGL-1-SF.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2557575666&v=1",
     "material": "PLA",
     "measure": "1.1 kg",
     "name": "Starlit Flow",
@@ -68537,7 +68934,7 @@
       "type": "mono"
     },
     "id": 2586838824,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19017_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2586838824&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Stone Blue",
@@ -68643,7 +69040,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C79A2E",
     "color_info": {
@@ -69025,7 +69422,7 @@
       "type": "gradient"
     },
     "id": 2602550399,
-    "img_src": "https://printomax3d.com/cdn/shop/files/01_Filament_3D_PLA_Silk_Dualcolor_Red_Green_1_75mm_1kg_Haute_qualite_Livraison_gratuite_et_rapide_Printomax3D.heic?v=1748775056&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=2602550399&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Silk Dual Color Red/Green",
@@ -69210,7 +69607,7 @@
       "type": "multi"
     },
     "id": 2608646602,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/PA04021_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2608646602&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Shadow Orange",
@@ -69372,15 +69769,15 @@
       "type": "mono"
     },
     "id": 2614709221,
-    "img_src": "https://cdn.tigertag.io/files/28988/6fb7440a665c693a4559b674de646ce2_1cdeb3c2-687d-4bbf-b327-80451ebeb806.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2614709221&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Transparent",
+    "name": "Transparent",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC105",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Transparent",
-    "updated_at": null
+    "title": "PLA+ - Transparent",
+    "updated_at": 1785490618252
   },
   {
     "aspect1": "Wood",
@@ -70299,7 +70696,7 @@
       "type": "multi"
     },
     "id": 2647976750,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-rdgd-c.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2647976750&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Red+Gold",
@@ -70708,7 +71105,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#5A6338",
     "color_info": {
@@ -70940,7 +71337,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C79A2E",
     "color_info": {
@@ -71350,7 +71747,7 @@
       "type": "multi"
     },
     "id": 2682589129,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk_four-color_-GDPPRDBL.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2682589129&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Gold+Purple+Red+Blue",
@@ -73007,7 +73404,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E2F5A",
     "color_info": {
@@ -73285,7 +73682,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E8802A",
     "color_info": {
@@ -73496,10 +73893,10 @@
     "aspect2": null,
     "barcode": "8435532914587",
     "brand": "Winkle",
-    "color": "#0D0D0D",
+    "color": "#0D0D0DFF",
     "color_info": {
       "colors": [
-        "#0D0D0D"
+        "#0D0D0DFF"
       ],
       "type": "mono"
     },
@@ -73512,7 +73909,7 @@
     "series": "ABS",
     "sku": "ABS00250175NEGAZAWNK",
     "title": "ABS - ABS Jet Black 250g",
-    "updated_at": 1785400339923
+    "updated_at": 1785499473247
   },
   {
     "aspect1": "Matt",
@@ -74048,23 +74445,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#D0342CFF",
+    "color": "#D0342C",
     "color_info": {
       "colors": [
-        "#D0342CFF"
+        "#D0342C"
       ],
       "type": "mono"
     },
     "id": 2790211312,
-    "img_src": "https://cdn.tigertag.io/files/28988/520f764beb1954cab793b251ed2a5a3f.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2790211312&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Red",
+    "name": "Red",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC107",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Red",
-    "updated_at": null
+    "title": "PLA+ - Red",
+    "updated_at": 1785490471673
   },
   {
     "aspect1": "Basic",
@@ -74161,7 +74558,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#000000FF",
     "color_info": {
@@ -74179,7 +74576,7 @@
     "series": "PEKK",
     "sku": "376034597265",
     "title": "PEKK - A-CF",
-    "updated_at": 1763044114618
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Basic",
@@ -74207,7 +74604,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#7A5230",
     "color_info": {
@@ -75249,23 +75646,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#F1C6A7FF",
+    "color": "#F1C6A7",
     "color_info": {
       "colors": [
-        "#F1C6A7FF"
+        "#F1C6A7"
       ],
       "type": "mono"
     },
     "id": 2837706747,
-    "img_src": "https://cdn.tigertag.io/files/28988/edecf2425959668f85740753e7035494.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2837706747&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Skin",
+    "name": "Skin",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC109",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Skin",
-    "updated_at": null
+    "title": "PLA+ - Skin",
+    "updated_at": 1785490520657
   },
   {
     "aspect1": "Tricolor",
@@ -75374,7 +75771,7 @@
       "type": "mono"
     },
     "id": 2847424409,
-    "img_src": "https://cdn.shopify.com/s/files/1/0207/3624/5824/products/overture-tpu-3d-printer-filament-175mm-314753.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2847424409&v=1",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Bright Pink",
@@ -75933,7 +76330,7 @@
       "type": "mono"
     },
     "id": 2873623028,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/ASA-BL.png",
+    "img_src": "https://cdn.tigertag.io/img?id=2873623028&v=1",
     "material": "ASA",
     "measure": "1 kg",
     "name": "ASA Blue",
@@ -76050,15 +76447,15 @@
       "type": "mono"
     },
     "id": 2874615576,
-    "img_src": "https://cdn.tigertag.io/img?id=2874615576&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2874615576&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Gray",
+    "name": "Gray",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "NPLA004",
-    "title": "PLA Basic - PLA Basic Gray",
-    "updated_at": 1785422352526
+    "title": "PLA Basic - Gray",
+    "updated_at": 1785490970386
   },
   {
     "aspect1": "Rainbow",
@@ -76660,7 +77057,7 @@
       "type": "mono"
     },
     "id": 2896780252,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19010_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2896780252&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Purple",
@@ -76868,7 +77265,7 @@
       "type": "mono"
     },
     "id": 2900356309,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19020_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2900356309&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Polymaker Teal",
@@ -77103,7 +77500,7 @@
       "type": "mono"
     },
     "id": 2911100895,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolymakerPolyliteandGalaxy_3.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2911100895&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Natural",
@@ -77127,7 +77524,7 @@
       "type": "multi"
     },
     "id": 2912073460,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-bkpp-c.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2912073460&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Black+Purple",
@@ -77707,7 +78104,7 @@
       "type": "mono"
     },
     "id": 2937170484,
-    "img_src": "https://cdn.shopify.com/s/files/1/0207/3624/5824/products/overture-tpu-3d-printer-filament-175mm-650777.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=2937170484&v=1",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Red",
@@ -78445,7 +78842,7 @@
       "type": "mono"
     },
     "id": 2962816430,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-PY.png",
+    "img_src": "https://cdn.tigertag.io/img?id=2962816430&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Pri-Yellow",
@@ -78468,7 +78865,7 @@
       "type": "mono"
     },
     "id": 2964248294,
-    "img_src": "https://printomax3d.com/cdn/shop/files/40_9acaf7a5-fb4e-4801-bbbe-ed6fac6f3bf6.jpg?v=1776438371&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=2964248294&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Red Wine Bordeaux",
@@ -78785,7 +79182,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E8B7A",
     "color_info": {
@@ -79060,6 +79457,29 @@
     "updated_at": 1785275205243
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#2E8B57",
+    "color_info": {
+      "colors": [
+        "#2E8B57"
+      ],
+      "type": "mono"
+    },
+    "id": 2985107307,
+    "img_src": "https://cdn.tigertag.io/img?id=2985107307&v=2",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "B01355",
+    "title": "ABS - Green",
+    "updated_at": 1785498910456
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "",
@@ -79180,7 +79600,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#F0C830",
     "color_info": {
@@ -79237,7 +79657,7 @@
       "type": "mono"
     },
     "id": 2997141355,
-    "img_src": "https://printomax3d.com/cdn/shop/files/10_c1e6ecfc-a35c-4ddf-95c7-047d4486486d.jpg?v=1776442681&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=2997141355&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Lavande",
@@ -79375,7 +79795,7 @@
       "type": "mono"
     },
     "id": 3002004357,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAPLUS-C-FS.png",
+    "img_src": "https://cdn.tigertag.io/img?id=3002004357&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Fuchsia",
@@ -79453,6 +79873,29 @@
     "sku": "376034597236",
     "title": "ABS - EF Native",
     "updated_at": 1763039307657
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FF8FB1",
+    "color_info": {
+      "colors": [
+        "#FF8FB1"
+      ],
+      "type": "mono"
+    },
+    "id": 3002400739,
+    "img_src": "https://cdn.tigertag.io/img?id=3002400739&v=2",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Pink",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "DLZ021-D-11",
+    "title": "ABS - Pink",
+    "updated_at": 1785498996556
   },
   {
     "aspect1": "Basic",
@@ -79854,7 +80297,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#8A8A8A",
     "color_info": {
@@ -80457,7 +80900,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E89AB8",
     "color_info": {
@@ -80569,6 +81012,30 @@
     "sku": "",
     "title": "Woodfill - Linden Light",
     "updated_at": 1784788796469
+  },
+  {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FF7A00FF",
+    "color_info": {
+      "colors": [
+        "#FF7A00FF",
+        "#FFD400FF"
+      ],
+      "type": "gradient"
+    },
+    "id": 3044874100,
+    "img_src": "https://cdn.tigertag.io/img?id=3044874100&v=1",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "KINGROON TPU Orange/Yellow Rainbow 85A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "HC342",
+    "title": "TPU - KINGROON TPU Orange/Yellow Rainbow 85A",
+    "updated_at": null
   },
   {
     "aspect1": "Carbon",
@@ -80876,23 +81343,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#2E8B57FF",
+    "color": "#2E8B57",
     "color_info": {
       "colors": [
-        "#2E8B57FF"
+        "#2E8B57"
       ],
       "type": "mono"
     },
     "id": 3055717338,
-    "img_src": "https://cdn.tigertag.io/files/28988/8c15d41b9b829464843b5aa4449a28f3_534e43da-9306-4139-a40f-a74ea13d374f.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=3055717338&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Green",
+    "name": "Green",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC113",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Green",
-    "updated_at": null
+    "title": "PLA+ - Green",
+    "updated_at": 1785490216250
   },
   {
     "aspect1": "Basic",
@@ -81104,7 +81571,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C81020",
     "color_info": {
@@ -81127,7 +81594,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E4FA0",
     "color_info": {
@@ -81239,6 +81706,29 @@
     "sku": "",
     "title": "PLA - Blue",
     "updated_at": 1785154755143
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FFD400",
+    "color_info": {
+      "colors": [
+        "#FFD400"
+      ],
+      "type": "mono"
+    },
+    "id": 3069245667,
+    "img_src": "https://cdn.tigertag.io/img?id=3069245667&v=2",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "B01352",
+    "title": "ABS - Yellow",
+    "updated_at": 1785499178171
   },
   {
     "aspect1": "Basic",
@@ -81432,7 +81922,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#F0C0D0",
     "color_info": {
@@ -81812,15 +82302,15 @@
       "type": "mono"
     },
     "id": 3092858191,
-    "img_src": "https://cdn.tigertag.io/img?id=3092858191&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3092858191&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Skin",
+    "name": "Skin",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "HC014",
-    "title": "PLA Basic - PLA Basic Skin",
-    "updated_at": 1785423032434
+    "title": "PLA Basic - Skin",
+    "updated_at": 1785491162593
   },
   {
     "aspect1": "Matt",
@@ -82906,15 +83396,15 @@
       "type": "mono"
     },
     "id": 3134509989,
-    "img_src": "https://cdn.tigertag.io/img?id=3134509989&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3134509989&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Yellow",
+    "name": "Yellow",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "HC005-D",
-    "title": "PLA Basic - PLA Basic Yellow",
-    "updated_at": 1785423228936
+    "title": "PLA Basic - Yellow",
+    "updated_at": 1785491250657
   },
   {
     "aspect1": "Basic",
@@ -83081,7 +83571,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -83663,7 +84153,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#B0A070",
     "color_info": {
@@ -83788,15 +84278,15 @@
       "type": "mono"
     },
     "id": 3169392827,
-    "img_src": "https://cdn.tigertag.io/img?id=3169392827&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3169392827&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Transparent",
+    "name": "Transparent",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "KR-PLA-TRANSPARENT",
-    "title": "PLA Basic - PLA Basic Transparent",
-    "updated_at": 1785423103649
+    "title": "PLA Basic - Transparent",
+    "updated_at": 1785491202359
   },
   {
     "aspect1": "Matt",
@@ -84399,7 +84889,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#ECECE8",
     "color_info": {
@@ -84422,7 +84912,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Metal",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#A01828",
     "color_info": {
@@ -84606,7 +85096,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C79A2E",
     "color_info": {
@@ -85073,23 +85563,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#FFD400FF",
+    "color": "#FFD400",
     "color_info": {
       "colors": [
-        "#FFD400FF"
+        "#FFD400"
       ],
       "type": "mono"
     },
     "id": 3226150813,
-    "img_src": "https://cdn.tigertag.io/files/28988/7376d19b161f2a93a4051e47289d0505_626bcf5e-034c-4ae3-8eda-9bc6f2c90b55.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=3226150813&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Yellow",
+    "name": "Yellow",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC112",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Yellow",
-    "updated_at": null
+    "title": "PLA+ - Yellow",
+    "updated_at": 1785490718341
   },
   {
     "aspect1": "Matt",
@@ -85278,7 +85768,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#2E7D4F",
     "color_info": {
@@ -85612,15 +86102,15 @@
       "type": "mono"
     },
     "id": 3243786917,
-    "img_src": "https://cdn.tigertag.io/img?id=3243786917&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3243786917&v=4",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "C0114",
-    "title": "PLA Basic - PLA Basic Black",
-    "updated_at": 1785422178235
+    "title": "PLA Basic - Black",
+    "updated_at": 1785490907444
   },
   {
     "aspect1": "Silk",
@@ -85809,7 +86299,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#4A1E5C",
     "color_info": {
@@ -85881,7 +86371,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C0202A",
     "color_info": {
@@ -85952,7 +86442,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#D6416B",
     "color_info": {
@@ -86183,6 +86673,29 @@
     "sku": "B0102064",
     "title": "PLA Silk Dual-Color - Black&Purple",
     "updated_at": 1785267744630
+  },
+  {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#C0C0C0",
+    "color_info": {
+      "colors": [
+        "#C0C0C0"
+      ],
+      "type": "mono"
+    },
+    "id": 3265213088,
+    "img_src": "https://cdn.tigertag.io/img?id=3265213088&v=3",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS022",
+    "title": "PETG Rapid - Silver",
+    "updated_at": 1785500633671
   },
   {
     "aspect1": "Basic",
@@ -87045,7 +87558,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C0202A",
     "color_info": {
@@ -87713,7 +88226,7 @@
       "type": "mono"
     },
     "id": 3337524192,
-    "img_src": "https://printomax3d.com/cdn/shop/files/34_81dbfc2a-2ad1-45ef-81f2-24ad6b653cb4.jpg?v=1776439948&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=3337524192&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Yellow Brick",
@@ -87957,7 +88470,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#8B5A3C",
     "color_info": {
@@ -88013,7 +88526,7 @@
       "type": "mono"
     },
     "id": 3348748717,
-    "img_src": "https://printomax3d.com/cdn/shop/files/46_21b9611e-56a5-4917-a5a2-0267ccd57a11.jpg?v=177643946&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=3348748717&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Desert Dust",
@@ -88175,7 +88688,7 @@
       "type": "mono"
     },
     "id": 3354213517,
-    "img_src": "https://printomax3d.com/cdn/shop/files/11_28fee4bf-ad7a-42d6-88e1-17fe0340023d.jpg?v=177643879&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=3354213517&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Duck Blue",
@@ -88673,7 +89186,7 @@
       "type": "mono"
     },
     "id": 3375545101,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19023_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3375545101&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Magenta",
@@ -89328,6 +89841,29 @@
     "updated_at": 1785083620855
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#F5F5F0",
+    "color_info": {
+      "colors": [
+        "#F5F5F0"
+      ],
+      "type": "mono"
+    },
+    "id": 3395558500,
+    "img_src": "https://cdn.tigertag.io/img?id=3395558500&v=3",
+    "material": "PA",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "Nylon PA",
+    "sku": "YMX0188-D",
+    "title": "Nylon PA - White",
+    "updated_at": 1785499582945
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "755824910843",
@@ -89631,7 +90167,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#F2C820",
     "color_info": {
@@ -89756,7 +90292,7 @@
       "type": "mono"
     },
     "id": 3422266177,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolyLite_ABS_Red_285_Spool_Picture_Asymmetric.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3422266177&v=1",
     "material": "ABS",
     "measure": "1 kg",
     "name": "Red",
@@ -89825,7 +90361,7 @@
       "type": "mono"
     },
     "id": 3424257904,
-    "img_src": "https://www.rosa3d.pl/picture/158a9e1c5ce0a2f634968c1b97859ead.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=3424257904&v=2",
     "material": "HIPS",
     "measure": "1 kg",
     "name": "Natural White",
@@ -89871,7 +90407,7 @@
       "type": "mono"
     },
     "id": 3425663439,
-    "img_src": "https://cdn.shopify.com/s/files/1/0207/3624/5824/files/overture-pla-refill-3d-printer-filament-175mm-8484479.png",
+    "img_src": "https://cdn.tigertag.io/img?id=3425663439&v=1",
     "material": "PLA+",
     "measure": "1 kg",
     "name": "Black",
@@ -90078,7 +90614,7 @@
       "type": "mono"
     },
     "id": 3431913369,
-    "img_src": "https://printomax3d.com/cdn/shop/files/3_459ce1c2-8a24-4d20-a50d-e548c627a719.jpg?v=177643791&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=3431913369&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Dull Grey",
@@ -90209,15 +90745,15 @@
     "aspect2": "Fiber",
     "barcode": "6938936716761",
     "brand": "Polymaker",
-    "color": "#6E9EFFFF",
+    "color": "#6E9EFF",
     "color_info": {
       "colors": [
-        "#6E9EFFFF"
+        "#6E9EFF"
       ],
       "type": "mono"
     },
     "id": 3438452901,
-    "img_src": "https://cdn.tigertag.io/img?id=3438452901&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=3438452901&v=6",
     "material": "PET-GF",
     "measure": "1 kg",
     "name": "Blue",
@@ -90225,7 +90761,7 @@
     "series": "Fiberon™",
     "sku": "FL02006",
     "title": "Fiberon™ - Blue",
-    "updated_at": 1785256791750
+    "updated_at": 1785505466705
   },
   {
     "aspect1": "Basic",
@@ -90602,7 +91138,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#B6B8ABFF",
     "color_info": {
@@ -90620,7 +91156,7 @@
     "series": "PC",
     "sku": "376034597261",
     "title": "PC - ABS V0",
-    "updated_at": 1763043232354
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Silk",
@@ -90843,7 +91379,7 @@
       "type": "multi"
     },
     "id": 3459918245,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-bkwt-c.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=3459918245&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Black+White",
@@ -90994,7 +91530,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Metal",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#4A3A8F",
     "color_info": {
@@ -91155,7 +91691,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -91869,7 +92405,7 @@
       "type": "multi"
     },
     "id": 3486785695,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/SILK-C-ORBLGN.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=3486785695&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Orange+Blue+Green",
@@ -91939,7 +92475,7 @@
       "type": "mono"
     },
     "id": 3488346947,
-    "img_src": "https://printomax3d.com/cdn/shop/files/19_d82db759-90fc-4a77-b1ca-725a05823fbd.jpg?v=1776440438&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=3488346947&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Purple",
@@ -92113,7 +92649,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Metal",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#A67C00",
     "color_info": {
@@ -92803,29 +93339,6 @@
     "sku": "376034597294",
     "title": "PLA - EF Gray",
     "updated_at": 1763046749161
-  },
-  {
-    "aspect1": "Basic",
-    "aspect2": null,
-    "barcode": "",
-    "brand": "KINGROON",
-    "color": "#4D4D4DFF",
-    "color_info": {
-      "colors": [
-        "#4D4D4DFF"
-      ],
-      "type": "multi"
-    },
-    "id": 3528287712,
-    "img_src": "https://cdn.tigertag.io/files/28988/C0377_9eac2273-daca-4d57-8572-9c4bc159c824.jpg",
-    "material": "PETG",
-    "measure": "1 kg",
-    "name": "KINGROON PETG Basic Multicolor",
-    "product_type": "Filament",
-    "series": "PETG Basic",
-    "sku": "C0377",
-    "title": "PETG Basic - KINGROON PETG Basic Multicolor",
-    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -93696,7 +94209,7 @@
       "type": "mono"
     },
     "id": 3557741473,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/812Ud1heNDL._AC_SL1500.jpg?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3557741473&v=1",
     "material": "PVB",
     "measure": "0.75 kg",
     "name": "Pink",
@@ -94447,7 +94960,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E4FA0",
     "color_info": {
@@ -94587,7 +95100,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1A1A1A",
     "color_info": {
@@ -94680,7 +95193,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#5A6338",
     "color_info": {
@@ -94726,7 +95239,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#6B2D8F",
     "color_info": {
@@ -95190,7 +95703,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1E8B7A",
     "color_info": {
@@ -95846,7 +96359,7 @@
       "type": "mono"
     },
     "id": 3639067036,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolymakerPolyliteandGalaxy_18.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3639067036&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Jungle Green",
@@ -96532,7 +97045,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#5A3A28",
     "color_info": {
@@ -96841,7 +97354,7 @@
       "type": "mono"
     },
     "id": 3677588934,
-    "img_src": "https://printomax3d.com/cdn/shop/files/55_abbefdfe-5da4-48f3-b484-d47c1084d8ec.jpg?v=177643888&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=3677588934&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Chocolate",
@@ -96896,6 +97409,29 @@
     "sku": "PA13024",
     "title": "PLA - Bronze",
     "updated_at": 1785248848275
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 3686672304,
+    "img_src": "https://cdn.tigertag.io/img?id=3686672304&v=2",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Gray",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "B0979",
+    "title": "ABS - Gray",
+    "updated_at": 1785498860446
   },
   {
     "aspect1": "Matt",
@@ -97132,7 +97668,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1A1A1A",
     "color_info": {
@@ -97202,7 +97738,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C0202A",
     "color_info": {
@@ -97759,6 +98295,29 @@
     "updated_at": 1785415673436
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 3725097390,
+    "img_src": "https://cdn.tigertag.io/img?id=3725097390&v=3",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "B0977",
+    "title": "ABS - Black",
+    "updated_at": 1785498753285
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
     "barcode": "",
@@ -98201,7 +98760,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -98572,7 +99131,7 @@
   {
     "aspect1": "Matt",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E89AB8",
     "color_info": {
@@ -98820,7 +99379,7 @@
       "type": "mono"
     },
     "id": 3759792842,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/products/PolyLite_ABS_Green_285_Spool_Picture_Asymmetric.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3759792842&v=1",
     "material": "ABS",
     "measure": "1 kg",
     "name": "Green",
@@ -98868,7 +99427,7 @@
       "type": "mono"
     },
     "id": 3762179427,
-    "img_src": "https://printomax3d.com/cdn/shop/files/36_6a665b20-9442-4018-a4df-712f0950dcbb.jpg?v=1776440072&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=3762179427&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Silver",
@@ -99000,23 +99559,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
     "id": 3772513259,
-    "img_src": "https://cdn.tigertag.io/files/28988/petg_8b83ad6a-fabd-4ac0-b778-81f9bfbb0132.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=3772513259&v=2",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "KINGROON PETG Basic Gray",
+    "name": "Gray",
     "product_type": "Filament",
     "series": "PETG Basic",
     "sku": "C0391",
-    "title": "PETG Basic - KINGROON PETG Basic Gray",
-    "updated_at": null
+    "title": "PETG Basic - Gray",
+    "updated_at": 1785487665754
   },
   {
     "aspect1": "Silk",
@@ -99263,7 +99822,7 @@
       "type": "mono"
     },
     "id": 3784444971,
-    "img_src": "https://printomax3d.com/cdn/shop/files/22_baaa4c69-0a14-47c7-9ee6-d734f75c1058.jpg?v=1776438194&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=3784444971&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Pink Gold",
@@ -99899,7 +100458,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#D4D5D0FF",
     "color_info": {
@@ -99917,7 +100476,7 @@
     "series": "PC",
     "sku": "376034597061",
     "title": "PC - ABS Rail",
-    "updated_at": 1763043129164
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Basic",
@@ -99932,7 +100491,7 @@
       "type": "mono"
     },
     "id": 3811834569,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/PA20018_Isometric_Top.png?v=1",
+    "img_src": "",
     "material": "PLA",
     "measure": "1 kg",
     "name": "3D Print General Flat Dark Earth",
@@ -99940,7 +100499,7 @@
     "series": "PLA",
     "sku": "PA20018",
     "title": "PLA - 3D Print General Flat Dark Earth",
-    "updated_at": 1785275484265
+    "updated_at": 1785499472737
   },
   {
     "aspect1": "Basic",
@@ -100567,6 +101126,29 @@
     "updated_at": 1783349080845
   },
   {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 3850602547,
+    "img_src": "https://cdn.tigertag.io/img?id=3850602547&v=3",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS016",
+    "title": "PETG Rapid - Black",
+    "updated_at": 1785499932475
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "6933582317003",
@@ -100755,7 +101337,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E8C4A0",
     "color_info": {
@@ -100788,15 +101370,15 @@
       "type": "mono"
     },
     "id": 3864292466,
-    "img_src": "https://cdn.tigertag.io/img?id=3864292466&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3864292466&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic White",
+    "name": "White",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "NPLA001",
-    "title": "PLA Basic - PLA Basic White",
-    "updated_at": 1785423159963
+    "title": "PLA Basic - White",
+    "updated_at": 1785491227085
   },
   {
     "aspect1": "Silk",
@@ -101803,7 +102385,7 @@
       "type": "mono"
     },
     "id": 3905928214,
-    "img_src": "https://printomax3d.com/cdn/shop/files/59_cd52ba09-4a73-4a96-bfd2-559205fbeebe.jpg?v=177644307&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=3905928214&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Cactus Green",
@@ -101816,7 +102398,7 @@
   {
     "aspect1": "Matt",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#F0F0EA",
     "color_info": {
@@ -102673,6 +103255,29 @@
     "updated_at": 1784702342751
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#D0342CFF",
+    "color_info": {
+      "colors": [
+        "#D0342CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3944236374,
+    "img_src": "https://cdn.tigertag.io/img?id=3944236374&v=2",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "KINGROON TPU Red 95A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "B01394",
+    "title": "TPU - KINGROON TPU Red 95A",
+    "updated_at": null
+  },
+  {
     "aspect1": "Rainbow",
     "aspect2": "Matt",
     "barcode": "6938936716068",
@@ -102791,7 +103396,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
     "color_info": {
@@ -103419,23 +104024,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#7B2D8EFF",
+    "color": "#7B2D8E",
     "color_info": {
       "colors": [
-        "#7B2D8EFF"
+        "#7B2D8E"
       ],
       "type": "mono"
     },
     "id": 3967348654,
-    "img_src": "https://cdn.tigertag.io/files/28988/996c0314d3c9f4f6a92e228ed4c8e264.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=3967348654&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Purple",
+    "name": "Purple",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC286",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Purple",
-    "updated_at": null
+    "title": "PLA+ - Purple",
+    "updated_at": 1785490421859
   },
   {
     "aspect1": "Basic",
@@ -103924,7 +104529,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Nanovia",
     "color": "#B5B7AAFF",
     "color_info": {
@@ -103942,7 +104547,7 @@
     "series": "PC",
     "sku": "376034597262",
     "title": "PC - ABS V0",
-    "updated_at": 1763043244456
+    "updated_at": 1785499473051
   },
   {
     "aspect1": "Basic",
@@ -104120,15 +104725,15 @@
       "type": "mono"
     },
     "id": 3990614612,
-    "img_src": "https://cdn.tigertag.io/img?id=3990614612&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3990614612&v=3",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "PLA Basic Blue",
+    "name": "Blue",
     "product_type": "Filament",
     "series": "PLA Basic",
     "sku": "HC006",
-    "title": "PLA Basic - PLA Basic Blue",
-    "updated_at": 1785422256281
+    "title": "PLA Basic - Blue",
+    "updated_at": 1785490985182
   },
   {
     "aspect1": "Basic",
@@ -104384,6 +104989,30 @@
     "updated_at": 1784707029160
   },
   {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FFD400FF",
+    "color_info": {
+      "colors": [
+        "#FFD400FF",
+        "#2E8B57FF"
+      ],
+      "type": "gradient"
+    },
+    "id": 4004942665,
+    "img_src": "https://cdn.tigertag.io/img?id=4004942665&v=1",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "KINGROON TPU Yellow/Green Rainbow 85A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "HC344",
+    "title": "TPU - KINGROON TPU Yellow/Green Rainbow 85A",
+    "updated_at": null
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": null,
     "barcode": "",
@@ -104466,7 +105095,7 @@
       "type": "mono"
     },
     "id": 4007545900,
-    "img_src": "https://printomax3d.com/cdn/shop/files/14_e24d4cc5-da7a-4649-9b5c-2ce8c189c579.jpg?v=1776442973&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=4007545900&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Kiwi",
@@ -104723,7 +105352,7 @@
       "type": "multi"
     },
     "id": 4016988584,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/silk-gnpp-c.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=4016988584&v=1",
     "material": "PLA+",
     "measure": "1.1 kg",
     "name": "Green+Purple",
@@ -104862,7 +105491,7 @@
       "type": "mono"
     },
     "id": 4022472282,
-    "img_src": "https://cdn.shopify.com/s/files/1/0548/7299/7945/files/CA19011_Isometric_Top.png?v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4022472282&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "Yellow",
@@ -105594,23 +106223,23 @@
     "aspect2": null,
     "barcode": "",
     "brand": "KINGROON",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
     "id": 4051368384,
-    "img_src": "https://cdn.tigertag.io/files/28988/5689ad8cf382a0b5e30109095f2c5cb5_73929206-8067-4172-b54e-a9f9592b884b.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=4051368384&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "KINGROON PLA Plus Grey",
+    "name": "Grey",
     "product_type": "Filament",
-    "series": "PLA Plus (PLA+)",
+    "series": "PLA+",
     "sku": "HC108",
-    "title": "PLA Plus (PLA+) - KINGROON PLA Plus Grey",
-    "updated_at": null
+    "title": "PLA+ - Grey",
+    "updated_at": 1785490310546
   },
   {
     "aspect1": "Basic",
@@ -106445,7 +107074,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#E8C4A0",
     "color_info": {
@@ -106583,7 +107212,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C42B6A",
     "color_info": {
@@ -106817,7 +107446,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#6B2D8F",
     "color_info": {
@@ -106920,7 +107549,7 @@
       "type": "mono"
     },
     "id": 4097824635,
-    "img_src": "https://cdn.shopify.com/s/files/1/0742/7666/7697/files/PLAGL-1-GLG.jpg",
+    "img_src": "https://cdn.tigertag.io/img?id=4097824635&v=1",
     "material": "PLA",
     "measure": "1.1 kg",
     "name": "Galaxy Green",
@@ -107653,6 +108282,29 @@
     "updated_at": 1785281634716
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1F4E9C",
+    "color_info": {
+      "colors": [
+        "#1F4E9C"
+      ],
+      "type": "mono"
+    },
+    "id": 4122399663,
+    "img_src": "https://cdn.tigertag.io/img?id=4122399663&v=2",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "B0981",
+    "title": "ABS - Blue",
+    "updated_at": 1785498803156
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": null,
     "barcode": "6117527",
@@ -107884,6 +108536,30 @@
     "updated_at": null
   },
   {
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#D0342C",
+    "color_info": {
+      "colors": [
+        "#D0342C",
+        "#2E8B57"
+      ],
+      "type": "gradient"
+    },
+    "id": 4131912427,
+    "img_src": "https://cdn.tigertag.io/img?id=4131912427&v=4",
+    "material": "PLA Silk",
+    "measure": "1 kg",
+    "name": "Red/Green",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "HC118",
+    "title": "PLA Silk Dual Color - Red/Green",
+    "updated_at": 1785501236075
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
     "barcode": "",
@@ -107997,6 +108673,29 @@
     "sku": "376034597186",
     "title": "ABS - ESD Black",
     "updated_at": 1763042082102
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#FF7A00",
+    "color_info": {
+      "colors": [
+        "#FF7A00"
+      ],
+      "type": "mono"
+    },
+    "id": 4143175966,
+    "img_src": "https://cdn.tigertag.io/img?id=4143175966&v=3",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Orange 95A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "KR-TPU009Y-1CH",
+    "title": "TPU - Orange 95A",
+    "updated_at": 1785505556878
   },
   {
     "aspect1": "Carbon",
@@ -108185,7 +108884,7 @@
   {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#14532D",
     "color_info": {
@@ -109527,6 +110226,29 @@
     "updated_at": 1785242224594
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#2E8B57",
+    "color_info": {
+      "colors": [
+        "#2E8B57"
+      ],
+      "type": "mono"
+    },
+    "id": 4198447750,
+    "img_src": "https://cdn.tigertag.io/img?id=4198447750&v=3",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Green 95A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "B01397",
+    "title": "TPU - Green 95A",
+    "updated_at": 1785505486806
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "6922572208803",
@@ -109738,6 +110460,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 4207996269,
+    "img_src": "https://cdn.tigertag.io/img?id=4207996269&v=3",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Black 95A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "B01391",
+    "title": "TPU - Black 95A",
+    "updated_at": 1785505124900
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Eryone",
     "color": "#1C1C1C",
@@ -109900,7 +110645,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": null,
     "brand": "Eryone",
     "color": "#C0202A",
     "color_info": {
@@ -110524,6 +111269,29 @@
     "sku": "376004456983",
     "title": "PC - PTFE",
     "updated_at": 1762511045325
+  },
+  {
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1F4E9C",
+    "color_info": {
+      "colors": [
+        "#1F4E9C"
+      ],
+      "type": "mono"
+    },
+    "id": 4236456769,
+    "img_src": "https://cdn.tigertag.io/img?id=4236456769&v=3",
+    "material": "PETG HS",
+    "measure": "1 kg",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "PETG Rapid",
+    "sku": "HCGS020",
+    "title": "PETG Rapid - Blue",
+    "updated_at": 1785499976554
   },
   {
     "aspect1": "Carbon",
@@ -111332,6 +112100,30 @@
     "updated_at": 1785083620855
   },
   {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "KINGROON",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A",
+        "#808080"
+      ],
+      "type": "gradient"
+    },
+    "id": 4272506936,
+    "img_src": "https://cdn.tigertag.io/img?id=4272506936&v=3",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Black/Grey 85A",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "HC341",
+    "title": "TPU - Black/Grey 85A",
+    "updated_at": 1785505185985
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "6931677320631",
@@ -111459,7 +112251,7 @@
       "type": "mono"
     },
     "id": 4276479176,
-    "img_src": "https://printomax3d.com/cdn/shop/files/52_f54c5525-8908-4dc1-a57f-33b3bc5d7bc4.jpg?v=177644286&ttv=1785393723217",
+    "img_src": "https://cdn.tigertag.io/img?id=4276479176&v=1",
     "material": "PLA",
     "measure": "1 kg",
     "name": "PLA+ PRO Caramel",
