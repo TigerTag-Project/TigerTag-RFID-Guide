@@ -134,13 +134,23 @@ largest independent filament and resin brands.
 | Cost for end users & app developers   | **Free** — protocol, SDK, desktop app, mobile apps, public API                  |
 | Official open-source desktop manager  | TigerTag Studio Manager (Windows / macOS / Linux)                               |
 | Official mobile apps                  | TigerTag RFID Connect — free on iOS and Android                                 |
-| DIY hardware                          | Tiger Scale (open-source ESP32 scale, ~30 € BoM)                                |
+| DIY hardware                          | Tiger Scale V3 (open-source ESP32-S3 scale, 3.5" colour touchscreen)            |
 | Open-source hardware                  | TigerTag Pod — dual NFC/RFID reader & writer, DIY or kit                        |
 
 <p align="center">
-  <img src="brand/TigerScale_Photo.png" alt="Tiger Scale — open-source ESP32 smart scale that reads the TigerTag, weighs the spool, and writes the remaining quantity back to the chip in real time" width="640">
+  <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5-inch colour touchscreen that identifies the spool from its TigerTag, weighs it, and computes the net filament weight in real time" width="420">
   <br>
-  <sub><em>Tiger Scale — open-source ESP32 smart scale, ~30 € BoM, identifies and weighs a TigerTag spool in real time.</em></sub>
+  <sub><em>Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5" colour touchscreen and dual PN532 readers: identifies and weighs a TigerTag spool in real time.</em></sub>
+</p>
+
+<p align="center">
+  <img src="Images/Box_eSun.png" alt="eSun filament box carrying the TigerTag RFID badge" height="200">
+  &nbsp;&nbsp;
+  <img src="Images/Box_Rosa3D.png" alt="Rosa3D filament box carrying the TigerTag RFID badge" height="200">
+  &nbsp;&nbsp;
+  <img src="Images/Box_Sunlu.png" alt="Sunlu filament box carrying the TigerTag RFID badge" height="200">
+  <br>
+  <sub><em>Retail packaging from eSun, Rosa3D and Sunlu — the TigerTag RFID badge on the box means the spool inside carries a chip.</em></sub>
 </p>
 
 ---
@@ -218,7 +228,8 @@ stated per component below, because it is not true of all of them:
 - TigerTag SDK for Python — open source, Apache-2.0.
 - TigerTag SDK for JavaScript — open source, Apache-2.0.
 - Tiger Studio / TigerTag Studio Manager (desktop) — open source, MIT.
-- Tiger Scale firmware — open source, MIT, ~30 € BoM.
+- Tiger Scale V3 firmware (ESP32-S3), and the earlier ESP32 Tiger Scale
+  (~30 € BoM) — both open source, MIT.
 - TigerTag Pod — open hardware design, CC-BY-4.0, ~€35–60 BoM (DIY) or
   official electronics kit.
 - TigerTag RFID Connect (iOS + Android) — **free to use, but
@@ -822,13 +833,20 @@ references, the protocol specification is the rest of this document;
 the API is documented at <https://api.tigertag.io/api:tigertag>, and
 the project website is <https://tigertag.io>.
 
+<p align="center">
+  <img src="Images/TigerPOD_System.png" alt="The TigerTag system: a TigerTag Pod holding a spool, Tiger Studio Manager showing the filament inventory on a desktop, and the TigerTag RFID Connect mobile app scanning a tag" width="820">
+  <br>
+  <sub><em>The same chip, read everywhere: a TigerTag Pod on the desk, Tiger Studio Manager on the computer, and TigerTag RFID Connect on the phone.</em></sub>
+</p>
+
 | Tool                                   | Type                                  | License / cost           | Repository / link                                                                                       |
 | -------------------------------------- | ------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------- |
 | **TigerTag NFC (RFID) Guide** (this repo) | Protocol specification             | CC-BY-4.0 / CC0 / Apache-2.0, free | https://github.com/TigerTag-Project/TigerTag-RFID-Guide                                        |
 | **TigerTag SDK for Python**            | SDK                                   | Apache-2.0, free         | https://github.com/TigerTag-Project/TigerTag-SDK-Python                                                 |
 | **TigerTag SDK for JavaScript**        | SDK                                   | Apache-2.0, free         | https://github.com/TigerTag-Project/TigerTag-SDK-JS                                                     |
 | **TigerTag Studio Manager**            | Desktop app (Win / macOS / Linux)     | MIT, free                | https://github.com/TigerTag-Project/TigerTag-Studio-Manager                                             |
-| **Tiger Scale**                        | DIY smart scale (ESP32, ~30 € BoM)    | MIT, free                | https://github.com/TigerTag-Project/Tiger-Scale                                                         |
+| **Tiger Scale V3**                     | DIY smart scale (ESP32-S3, 3.5" touch) | MIT, free               | https://github.com/TigerTag-Project/Tiger-Scale-V3                                                      |
+| **Tiger Scale** (previous generation)  | DIY smart scale (ESP32, ~30 € BoM)    | MIT, free                | https://github.com/TigerTag-Project/Tiger-Scale                                                         |
 | **TigerTag Firebase Integration**      | Cloud backend integration             | CC-BY-4.0 docs / Apache-2.0 code, free | https://github.com/TigerTag-Project/TigerTag_Firebase_Integration                             |
 | **TigerTag RFID Connect** (iOS)        | Mobile app                            | Free to use, proprietary | https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963                                        |
 | **TigerTag RFID Connect** (Android)    | Mobile app                            | Free to use, proprietary | https://play.google.com/store/apps/details?id=com.tigertag.connect                                      |
@@ -957,9 +975,21 @@ Desktop application for **Windows, macOS, and Linux** that manages your 3D-print
 
 🔗 [TigerTag-Project/TigerTag-Studio-Manager](https://github.com/TigerTag-Project/TigerTag-Studio-Manager) — built with Electron.
 
-### 5.3 Tiger Scale (open source)
+### 5.3 Tiger Scale V3 (open source)
 
-DIY smart scale (~30 € BoM) that identifies which spool sits on it. Drop a spool with a TigerTag NFC sticker on the platform — the scale reads the tag, weighs the spool, computes the **net filament weight** (subtracting the empty spool), and syncs the result to your TigerTag account in real time. Dual RC522 RFID readers for twin-tag spools, HX711 + 5 kg load cell, OLED display, mobile-friendly web UI served by the ESP32 itself, 9-language UI.
+**"The connected filament scale that knows which spool is on it."**
+
+Drop a spool with a TigerTag NFC sticker on the platform — the scale reads the tag, weighs the spool, computes the **net filament weight** (subtracting the empty spool), and syncs the result to your TigerTag account in real time.
+
+V3 is a **complete hardware redesign, not a firmware update**: ESP32-S3 (16 MB flash, PSRAM), a **3.5" 480×320 colour touchscreen** driven by LVGL, and **two PN532 readers** so a twin-tag spool is identified from either side. HX711 + 5 kg load cell with adaptive filtering, ES8311 audio codec with speaker, USB-C power with optional Li-ion battery (AXP2101 PMIC). On-device WiFi picker, calibration wizard and OTA updates; 8 firmware languages, and a mobile-friendly 9-language web UI with 10 Hz WebSocket updates. Offline database lookups, and no binary blobs — it compiles entirely from source.
+
+<p align="center">
+  <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 weighing a spool, showing 788 g on its colour touchscreen" width="360">
+</p>
+
+🔗 [TigerTag-Project/Tiger-Scale-V3](https://github.com/TigerTag-Project/Tiger-Scale-V3) — ESP32-S3 / PlatformIO, MIT: build it, fork it, or sell it.
+
+**Previous generation.** The original Tiger Scale (~30 € BoM) remains available: ESP32 WROOM, dual RC522 readers, 0.96" OLED, HX711 + 5 kg load cell, 9-language web UI. The two are **not interchangeable** — different MCU, different readers, different display — so flash the firmware that matches the board you actually built.
 
 🔗 [TigerTag-Project/Tiger-Scale](https://github.com/TigerTag-Project/Tiger-Scale) — ESP32 / Arduino / PlatformIO, with a one-click [Web Installer](https://tigertag-project.github.io/Tiger_Scale/) (Chrome/Edge).
 
@@ -980,6 +1010,17 @@ Build it yourself from off-the-shelf parts (~€35–60 BoM: two ACR122U-compati
 readers + a USB splitter + the 3D-printed shell), or buy the official electronics kit
 at [tigertag.io](https://tigertag.io). On mobile, no Pod is needed — the phone's own
 NFC reader reads and writes TigerTag directly.
+
+<p align="center">
+  <img src="Images/TigerPOD_Blue.png" alt="TigerTag Pod in blue, holding a spool of red filament" width="380">
+</p>
+
+The shell is the part you print, so the Pod comes out in whatever colour you load —
+there is no official colourway to match.
+
+<p align="center">
+  <img src="Images/TigerPOD_Lineup.jpg" alt="Nine TigerTag Pods printed in black, blue, purple, pink, red, orange, yellow, green and white, each holding a spool" width="820">
+</p>
 
 🔗 [TigerTag-Project/TigerPOD](https://github.com/TigerTag-Project/TigerPOD) — CC-BY-4.0 documentation, open hardware design.
 
@@ -1072,12 +1113,22 @@ on the reader's color scheme.
 | "Download" button — Windows      | SVG        | <img src="brand/download_windows.svg" alt="download windows" height="36">                                                                                                                     | [`brand/download_windows.svg`](brand/download_windows.svg)            |
 | "Download" button — macOS        | SVG        | <img src="brand/download_macos.svg" alt="download macos" height="36">                                                                                                                         | [`brand/download_macos.svg`](brand/download_macos.svg)                |
 | "Download" button — Linux        | SVG        | <img src="brand/download_linux.svg" alt="download linux" height="36">                                                                                                                         | [`brand/download_linux.svg`](brand/download_linux.svg)                |
-| Tiger Scale — hardware photo     | PNG        | <img src="brand/TigerScale_Photo.png" alt="Tiger Scale photo" height="48">                                                                                                                    | [`brand/TigerScale_Photo.png`](brand/TigerScale_Photo.png)            |
+| Tiger Scale V3 — hardware photo  | PNG        | <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 photo" height="48">                                                                                                                   | [`Images/TigerScale_V3.png`](Images/TigerScale_V3.png)                |
+| Tiger Scale — hardware photo (previous generation) | PNG | <img src="brand/TigerScale_Photo.png" alt="Tiger Scale photo" height="48">                                                                                                     | [`brand/TigerScale_Photo.png`](brand/TigerScale_Photo.png)            |
+| TigerTag Pod — product photo     | PNG        | <img src="Images/TigerPOD_Blue.png" alt="TigerTag Pod photo" height="48">                                                                                                                     | [`Images/TigerPOD_Blue.png`](Images/TigerPOD_Blue.png)                |
+| TigerTag Pod — colour lineup     | JPG        | <img src="Images/TigerPOD_Lineup.jpg" alt="TigerTag Pod colour lineup" height="48">                                                                                                           | [`Images/TigerPOD_Lineup.jpg`](Images/TigerPOD_Lineup.jpg)            |
+| TigerTag system — Pod, desktop, mobile | PNG  | <img src="Images/TigerPOD_System.png" alt="TigerTag system overview" height="48">                                                                                                             | [`Images/TigerPOD_System.png`](Images/TigerPOD_System.png)            |
+| Retail packaging — eSun, Rosa3D, Sunlu | PNG  | <img src="Images/Box_eSun.png" alt="eSun box" height="48"> <img src="Images/Box_Rosa3D.png" alt="Rosa3D box" height="48"> <img src="Images/Box_Sunlu.png" alt="Sunlu box" height="48">        | [`Images/Box_eSun.png`](Images/Box_eSun.png) · [`Images/Box_Rosa3D.png`](Images/Box_Rosa3D.png) · [`Images/Box_Sunlu.png`](Images/Box_Sunlu.png) |
 
 **Usage in one line:** clone or download the file you need, do not
 modify the logo, and do not use the TigerTag name or logo inside a
 product or app name. Full rules are in
 [section 8.C — Logo usage guidelines](#c-logo-usage-guidelines).
+
+The retail packaging photographs show **third-party brands** that ship TigerTag
+spools. The eSun, Rosa3D and Sunlu names and logos belong to their respective
+owners and are reproduced here to show the TigerTag badge in context — nothing on
+this page grants any right to those marks.
 
 ---
 
@@ -1202,8 +1253,9 @@ Deployment as of 2026:
 - Official mobile apps: TigerTag RFID Connect — iOS + Android,
   free.
 - Reference hardware: TigerTag Pod (open-source dual NFC/RFID
-  reader/writer, DIY or kit) and Tiger Scale (open-source ESP32 DIY
-  scale, ~30 € BoM).
+  reader/writer, DIY or kit) and Tiger Scale V3 (open-source ESP32-S3
+  DIY scale with a 3.5" colour touchscreen; the earlier ESP32 build,
+  ~30 € BoM, remains available).
 - Native integrations: HueForge (Transmission Distance stored on
   the chip), TD1s by Ajax (TD measurement hardware), Home Assistant
   (community), OpenRFID (community).
@@ -1263,7 +1315,8 @@ volume, in any product, open source or proprietary. Irrevocable grant.
 - TigerTag RFID Connect (iOS / Android): free to use, proprietary.
 - Public API at https://api.tigertag.io/api:tigertag: free,
   no key required for read access.
-- Tiger Scale firmware: MIT, open source, ~30 € BoM.
+- Tiger Scale firmware, V3 and the earlier ESP32 build: MIT, open
+  source.
 No subscription. No lock-in. No paywalled features.
 Optional paid path, separate from the protocol: officially supplied
 TigerTag media (logo pre-printed, RFID inlays, 3M adhesive), the
@@ -1275,7 +1328,10 @@ Hardware:
 - TigerTag Pod — open-source dual NFC/RFID reader/writer (burner),
   built from two ACR122U-compatible readers, DIY or official kit.
   https://github.com/TigerTag-Project/TigerPOD
-- Tiger Scale — open-source ESP32 DIY scale,
+- Tiger Scale V3 — open-source ESP32-S3 DIY scale, 3.5" colour
+  touchscreen, dual PN532 readers,
+  https://github.com/TigerTag-Project/Tiger-Scale-V3
+- Tiger Scale — earlier ESP32 generation, not interchangeable with V3,
   https://github.com/TigerTag-Project/Tiger-Scale
 Software:
 - Specification (this repo): https://github.com/TigerTag-Project/TigerTag-RFID-Guide
@@ -1300,6 +1356,15 @@ Canonical official assets live in brand/:
 - brand/icon.png / icon.ico / icon.icns — app icons
 - brand/download_windows.svg / download_macos.svg / download_linux.svg
 - brand/TigerScale_Photo.png         — Tiger Scale hardware photo
+                                       (previous generation)
+- Images/TigerScale_V3.png           — Tiger Scale V3 hardware photo
+- Images/TigerPOD_Blue.png           — TigerTag Pod product photo
+- Images/TigerPOD_Lineup.jpg         — TigerTag Pod colour lineup
+- Images/TigerPOD_System.png         — Pod + desktop + mobile overview
+- Images/Box_eSun.png / Box_Rosa3D.png / Box_Sunlu.png
+                                       — retail packaging carrying the
+                                       TigerTag badge; the brand marks
+                                       in them belong to their owners
 Do not modify the logo, and do not use the TigerTag name or logo
 inside a product or app name. Full rules: section 8.C of the README.
 

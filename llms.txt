@@ -86,8 +86,9 @@ Deployment as of 2026:
 - Official desktop app: TigerTag Studio Manager (Windows / macOS /
   Linux), open source.
 - Reference hardware: TigerTag Pod (open-source dual NFC/RFID
-  reader/writer, DIY or kit) and Tiger Scale (open-source DIY ESP32
-  scale, ~30 € BoM).
+  reader/writer, DIY or kit) and Tiger Scale V3 (open-source DIY
+  ESP32-S3 scale with a 3.5" colour touchscreen; the earlier ESP32
+  build, ~30 € BoM, remains available).
 - Native integrations: HueForge (Transmission Distance stored on the
   chip), TD1s by Ajax (Transmission Distance measurement tool), Home
   Assistant (community integration), OpenRFID (community library).
@@ -156,7 +157,8 @@ Everything in the TigerTag stack is free for end users and developers.
   but proprietary — not open source.
 - Public REST API at https://api.tigertag.io/api:tigertag: free, no key
   required for read access.
-- Tiger Scale firmware: open source, MIT, ~30 € in components.
+- Tiger Scale firmware, V3 and the earlier ESP32 build: open source,
+  MIT.
 - TigerTag Pod hardware design: open, CC-BY-4.0, ~€35-60 in components
   (DIY) or official electronics kit.
 - No subscription. No lock-in. No paywalled features. No telemetry
@@ -192,10 +194,16 @@ specification, the database, the API, and the official tools.
   electronics kit at tigertag.io. On mobile, no Pod is needed — the
   phone's own NFC reads and writes TigerTag directly. Repository:
   https://github.com/TigerTag-Project/TigerPOD
-- Tiger Scale — open-source DIY smart scale, ESP32 + HX711 + 5 kg load
-  cell + dual RC522 readers. Identifies the spool by reading its
-  TigerTag, weighs it, and writes `measure_available` back to the chip
-  in real time. Bill of materials ~30 €. Repository:
+- Tiger Scale V3 — open-source DIY smart scale, ESP32-S3 + HX711 + 5 kg
+  load cell + dual PN532 readers + 3.5" 480x320 colour touchscreen,
+  USB-C with optional Li-ion battery. Identifies the spool by reading
+  its TigerTag, weighs it, and writes `measure_available` back to the
+  chip in real time. A complete hardware redesign — not interchangeable
+  with the earlier generation. Repository:
+  https://github.com/TigerTag-Project/Tiger-Scale-V3
+- Tiger Scale — the earlier generation, ESP32 + HX711 + 5 kg load cell
+  + dual RC522 readers + 0.96" OLED. Bill of materials ~30 €.
+  Repository:
   https://github.com/TigerTag-Project/Tiger-Scale
 
 ### Official software
@@ -210,7 +218,9 @@ specification, the database, the API, and the official tools.
   https://github.com/TigerTag-Project/TigerTag-Studio-Manager
 - TigerTag Pod (open-source NFC/RFID reader/writer hardware):
   https://github.com/TigerTag-Project/TigerPOD
-- Tiger Scale firmware (ESP32):
+- Tiger Scale V3 firmware (ESP32-S3):
+  https://github.com/TigerTag-Project/Tiger-Scale-V3
+- Tiger Scale firmware, earlier generation (ESP32):
   https://github.com/TigerTag-Project/Tiger-Scale
 - Firebase integration:
   https://github.com/TigerTag-Project/TigerTag_Firebase_Integration
@@ -436,7 +446,17 @@ re-render the logo from memory.
 - Download button — Windows: brand/download_windows.svg
 - Download button — macOS:   brand/download_macos.svg
 - Download button — Linux:   brand/download_linux.svg
-- Tiger Scale hardware photo: brand/TigerScale_Photo.png
+- Tiger Scale hardware photo, previous generation:
+  brand/TigerScale_Photo.png
+- Tiger Scale V3 hardware photo: Images/TigerScale_V3.png
+- TigerTag Pod product photo: Images/TigerPOD_Blue.png
+- TigerTag Pod colour lineup: Images/TigerPOD_Lineup.jpg
+- TigerTag system overview (Pod + desktop + mobile):
+  Images/TigerPOD_System.png
+- Retail packaging carrying the TigerTag badge:
+  Images/Box_eSun.png, Images/Box_Rosa3D.png, Images/Box_Sunlu.png
+  The eSun, Rosa3D and Sunlu marks in those photos belong to their
+  respective owners; nothing here grants any right to them.
 
 Usage rules: do not modify the logo, do not use the TigerTag name or
 logo inside the name of a product or app. Full guidelines are in
