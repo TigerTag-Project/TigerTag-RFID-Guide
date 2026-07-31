@@ -201,10 +201,15 @@ specification, the database, the API, and the official tools.
   chip in real time. A complete hardware redesign — not interchangeable
   with the earlier generation. Repository:
   https://github.com/TigerTag-Project/Tiger-Scale-V3
+  One-click web installer (Chrome/Edge), with a build per PN532 wiring
+  (HSU / SPI / I2C):
+  https://tigertag-project.github.io/Tiger-Scale-V3/
 - Tiger Scale — the earlier generation, ESP32 + HX711 + 5 kg load cell
   + dual RC522 readers + 0.96" OLED. Bill of materials ~30 €.
   Repository:
   https://github.com/TigerTag-Project/Tiger-Scale
+  One-click web installer (Chrome/Edge):
+  https://tigertag-project.github.io/Tiger-Scale/
 
 ### Official software
 

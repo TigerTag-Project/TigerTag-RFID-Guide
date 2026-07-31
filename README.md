@@ -987,11 +987,11 @@ V3 is a **complete hardware redesign, not a firmware update**: ESP32-S3 (16 MB f
   <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 weighing a spool, showing 788 g on its colour touchscreen" width="360">
 </p>
 
-🔗 [TigerTag-Project/Tiger-Scale-V3](https://github.com/TigerTag-Project/Tiger-Scale-V3) — ESP32-S3 / PlatformIO, MIT: build it, fork it, or sell it.
+🔗 [TigerTag-Project/Tiger-Scale-V3](https://github.com/TigerTag-Project/Tiger-Scale-V3) — ESP32-S3 / PlatformIO, MIT: build it, fork it, or sell it. One-click [Web Installer](https://tigertag-project.github.io/Tiger-Scale-V3/) (Chrome/Edge) — pick the build that matches how you wired the PN532 readers (HSU / SPI / I²C).
 
 **Previous generation.** The original Tiger Scale (~30 € BoM) remains available: ESP32 WROOM, dual RC522 readers, 0.96" OLED, HX711 + 5 kg load cell, 9-language web UI. The two are **not interchangeable** — different MCU, different readers, different display — so flash the firmware that matches the board you actually built.
 
-🔗 [TigerTag-Project/Tiger-Scale](https://github.com/TigerTag-Project/Tiger-Scale) — ESP32 / Arduino / PlatformIO, with a one-click [Web Installer](https://tigertag-project.github.io/Tiger_Scale/) (Chrome/Edge).
+🔗 [TigerTag-Project/Tiger-Scale](https://github.com/TigerTag-Project/Tiger-Scale) — ESP32 / Arduino / PlatformIO, with a one-click [Web Installer](https://tigertag-project.github.io/Tiger-Scale/) (Chrome/Edge).
 
 ### 5.4 TigerTag Pod (open source) — "a CD player, for spools"
 
