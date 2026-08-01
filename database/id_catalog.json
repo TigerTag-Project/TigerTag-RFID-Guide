@@ -142,10 +142,10 @@
     "aspect2": null,
     "barcode": "6937285509727",
     "brand": "Bambu Lab",
-    "color": "#FFFFFF",
+    "color": "#FFFFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFF"
+        "#FFFFFFFF"
       ],
       "type": "mono"
     },
@@ -158,7 +158,7 @@
     "series": "PETG Basic",
     "sku": "G00-W00-1.75-1000-spl",
     "title": "PETG Basic - White",
-    "updated_at": 1784098509734
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Carbon",
@@ -3638,12 +3638,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285510808",
     "brand": "Bambu Lab",
-    "color": "#034638",
+    "color": "#034638FF",
     "color_info": {
       "colors": [
-        "#034638"
+        "#034638FF"
       ],
       "type": "mono"
     },
@@ -3654,9 +3654,9 @@
     "name": "Pine Green",
     "product_type": "Filament",
     "series": "PETG Basic",
-    "sku": "",
+    "sku": "G00-G01-1.75-1000-SPL",
     "title": "PETG Basic - Pine Green",
-    "updated_at": 1784099103570
+    "updated_at": 1785588260297
   },
   {
     "aspect1": "Matt",
@@ -9640,12 +9640,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285510440",
     "brand": "Bambu Lab",
-    "color": "#FF671F",
+    "color": "#FF671FFF",
     "color_info": {
       "colors": [
-        "#FF671F"
+        "#FF671FFF"
       ],
       "type": "mono"
     },
@@ -9656,9 +9656,9 @@
     "name": "Orange",
     "product_type": "Filament",
     "series": "PETG Basic",
-    "sku": "",
+    "sku": "G00-A00-1.75-1000-SPL",
     "title": "PETG Basic - Orange",
-    "updated_at": 1784098930939
+    "updated_at": 1785588260297
   },
   {
     "aspect1": "Basic",
@@ -17116,10 +17116,10 @@
     "aspect2": null,
     "barcode": "6937285510044",
     "brand": "Bambu Lab",
-    "color": "#4F2C1D",
+    "color": "#4F2C1DFF",
     "color_info": {
       "colors": [
-        "#4F2C1D"
+        "#4F2C1DFF"
       ],
       "type": "mono"
     },
@@ -17132,7 +17132,7 @@
     "series": "PETG Basic",
     "sku": "G00-N00-1.75-1000-spl",
     "title": "PETG Basic - Dark Brown",
-    "updated_at": 1784098760538
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Basic",
@@ -18052,7 +18052,7 @@
     "series": "PETG Basic",
     "sku": "G00-R00-1.75-1000-spl",
     "title": "PETG Basic - Red",
-    "updated_at": null
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Basic",
@@ -18519,12 +18519,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285508867",
     "brand": "Bambu Lab",
-    "color": "#000000",
+    "color": "#000000FF",
     "color_info": {
       "colors": [
-        "#000000"
+        "#000000FF"
       ],
       "type": "mono"
     },
@@ -18535,9 +18535,9 @@
     "name": "Black",
     "product_type": "Filament",
     "series": "TPU 85A",
-    "sku": "",
+    "sku": "U04-K0-1.75-1000-SPL",
     "title": "TPU 85A - Black",
-    "updated_at": 1784115089532
+    "updated_at": 1785589121704
   },
   {
     "aspect1": "Basic",
@@ -22692,6 +22692,29 @@
     "updated_at": 1752811276306
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6937285509901",
+    "brand": "Bambu Lab",
+    "color": "#7F7E83FF",
+    "color_info": {
+      "colors": [
+        "#7F7E83FF"
+      ],
+      "type": "mono"
+    },
+    "id": 825388832,
+    "img_src": "https://cdn.tigertag.io/img?id=825388832&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Gray",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-D00-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Gray",
+    "updated_at": 1785588037489
+  },
+  {
     "aspect1": "Rainbow",
     "aspect2": "Silk",
     "barcode": "6938936716655",
@@ -25286,6 +25309,29 @@
     "sku": "376004456756",
     "title": "PA - PA-6 Native",
     "updated_at": 1763042542119
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6937285509895",
+    "brand": "Bambu Lab",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 922503326,
+    "img_src": "https://cdn.tigertag.io/img?id=922503326&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-W00-1.75-1000-SPLFREE",
+    "title": "PETG Basic - White",
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Basic",
@@ -34510,12 +34556,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285508843",
     "brand": "Bambu Lab",
-    "color": "#9EA2A2",
+    "color": "#9EA2A2FF",
     "color_info": {
       "colors": [
-        "#9EA2A2"
+        "#9EA2A2FF"
       ],
       "type": "mono"
     },
@@ -34526,9 +34572,9 @@
     "name": "Quicksilver",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "",
+    "sku": "U03-D0-1.75-1000-SPL",
     "title": "TPU 90A - Quicksilver",
-    "updated_at": 1784115555226
+    "updated_at": 1785589121704
   },
   {
     "aspect1": "Satin",
@@ -39816,10 +39862,10 @@
     "aspect2": null,
     "barcode": "6937285509765",
     "brand": "Bambu Lab",
-    "color": "#001489",
+    "color": "#001489FF",
     "color_info": {
       "colors": [
-        "#001489"
+        "#001489FF"
       ],
       "type": "mono"
     },
@@ -39832,7 +39878,7 @@
     "series": "PETG Basic",
     "sku": "G00-B00-1.75-1000-spl",
     "title": "PETG Basic - Reflex blue",
-    "updated_at": 1784098415407
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Matt",
@@ -42623,12 +42669,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "921084358822",
+    "barcode": "6937285510051",
     "brand": "Bambu Lab",
-    "color": "#009639",
+    "color": "#009639FF",
     "color_info": {
       "colors": [
-        "#009639"
+        "#009639FF"
       ],
       "type": "mono"
     },
@@ -42639,9 +42685,9 @@
     "name": "Green",
     "product_type": "Filament",
     "series": "PETG Basic",
-    "sku": "G00-G6-1.75-1000-spl",
+    "sku": "G00-G00-1.75-1000-SPL",
     "title": "PETG Basic - Green",
-    "updated_at": 1784098314820
+    "updated_at": 1785588452104
   },
   {
     "aspect1": "Basic",
@@ -46488,6 +46534,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "6937285510846",
+    "brand": "Bambu Lab",
+    "color": "#DBC8B6FF",
+    "color_info": {
+      "colors": [
+        "#DBC8B6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1706308621,
+    "img_src": "https://cdn.tigertag.io/img?id=1706308621&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Dark Beige",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-Y01-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Dark Beige",
+    "updated_at": 1785588037489
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936718468",
     "brand": "Polymaker",
     "color": "#FE9B42FF",
@@ -47038,6 +47107,29 @@
     "sku": "DLZ-JY-SKRB-02-1.1kg-C",
     "title": "PLA Rainbow - Silk PLA+ Rainbow 02",
     "updated_at": 1785275332132
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6937285510143",
+    "brand": "Bambu Lab",
+    "color": "#FF671FFF",
+    "color_info": {
+      "colors": [
+        "#FF671FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1732852417,
+    "img_src": "https://cdn.tigertag.io/img?id=1732852417&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-R00-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Red",
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Basic",
@@ -48090,12 +48182,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6975337032151",
     "brand": "Bambu Lab",
-    "color": "#87909A",
+    "color": "#87909AFF",
     "color_info": {
       "colors": [
-        "#87909A"
+        "#87909AFF"
       ],
       "type": "mono"
     },
@@ -48106,9 +48198,9 @@
     "name": "Silver",
     "product_type": "Filament",
     "series": "ABS",
-    "sku": "",
+    "sku": "B00-D1-1.75-1000-SPL",
     "title": "ABS - Silver",
-    "updated_at": 1784104090921
+    "updated_at": 1785589246936
   },
   {
     "aspect1": "Basic",
@@ -48904,6 +48996,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "6937285510860",
+    "brand": "Bambu Lab",
+    "color": "#0086D6FF",
+    "color_info": {
+      "colors": [
+        "#0086D6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1808761287,
+    "img_src": "https://cdn.tigertag.io/img?id=1808761287&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Navy Blue",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-B01-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Navy Blue",
+    "updated_at": 1785588037489
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936712497",
     "brand": "Polymaker",
     "color": "#CCCCCCFF",
@@ -49644,6 +49759,29 @@
     "sku": "B50-B0-1.75-1000-spl",
     "title": "ABS-GF - Blue",
     "updated_at": 1784104461827
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6937285510853",
+    "brand": "Bambu Lab",
+    "color": "#034638FF",
+    "color_info": {
+      "colors": [
+        "#034638FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1845877644,
+    "img_src": "https://cdn.tigertag.io/img?id=1845877644&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Pine Green",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-G01-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Pine Green",
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Matt",
@@ -59911,12 +60049,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285508836",
     "brand": "Bambu Lab",
-    "color": "#D6ABFF",
+    "color": "#D6ABFFFF",
     "color_info": {
       "colors": [
-        "#D6ABFF"
+        "#D6ABFFFF"
       ],
       "type": "mono"
     },
@@ -59927,9 +60065,9 @@
     "name": "Grape Jelly",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "",
+    "sku": "U03-P1-1.75-1000-SPL",
     "title": "TPU 90A - Grape Jelly",
-    "updated_at": 1784115764432
+    "updated_at": 1785589121704
   },
   {
     "aspect1": "Neon",
@@ -62740,12 +62878,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285510822",
     "brand": "Bambu Lab",
-    "color": "#688197",
+    "color": "#688197FF",
     "color_info": {
       "colors": [
-        "#688197"
+        "#688197FF"
       ],
       "type": "mono"
     },
@@ -62756,9 +62894,9 @@
     "name": "Misty Blue",
     "product_type": "Filament",
     "series": "PETG Basic",
-    "sku": "",
+    "sku": "G00-D01-1.75-1000-SPL",
     "title": "PETG Basic - Misty Blue",
-    "updated_at": 1784099044528
+    "updated_at": 1785588260297
   },
   {
     "aspect1": "Silk",
@@ -64134,6 +64272,29 @@
     "sku": "PA07046",
     "title": "PolyLite™ - Version B - Sand-ability with extra durability",
     "updated_at": 1785275205243
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6937285510174",
+    "brand": "Bambu Lab",
+    "color": "#009639FF",
+    "color_info": {
+      "colors": [
+        "#009639FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2396973148,
+    "img_src": "https://cdn.tigertag.io/img?id=2396973148&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-G00-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Green",
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Basic",
@@ -67994,6 +68155,29 @@
     "updated_at": 1785271251036
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6937285509888",
+    "brand": "Bambu Lab",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2547666990,
+    "img_src": "https://cdn.tigertag.io/img?id=2547666990&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-K00-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Black",
+    "updated_at": 1785588037489
+  },
+  {
     "aspect1": "Clear",
     "aspect2": null,
     "barcode": "",
@@ -68164,10 +68348,10 @@
     "aspect2": null,
     "barcode": "6937285509710",
     "brand": "Bambu Lab",
-    "color": "#000000",
+    "color": "#000000FF",
     "color_info": {
       "colors": [
-        "#000000"
+        "#000000FF"
       ],
       "type": "mono"
     },
@@ -68180,7 +68364,7 @@
     "series": "PETG Basic",
     "sku": "G00-K00-1.75-1000-spl",
     "title": "PETG Basic - Black",
-    "updated_at": 1784098683147
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Pearl",
@@ -75366,6 +75550,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "6937285510167",
+    "brand": "Bambu Lab",
+    "color": "#001489FF",
+    "color_info": {
+      "colors": [
+        "#001489FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2820903014,
+    "img_src": "https://cdn.tigertag.io/img?id=2820903014&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Reflex blue",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-B00-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Reflex blue",
+    "updated_at": 1785588037489
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476376",
     "brand": "FormFutura",
     "color": "#FF0000",
@@ -77301,7 +77508,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "A00-B3-1.75-1000-SPLFREE",
+    "barcode": "6977252426961",
     "brand": "Bambu Lab",
     "color": "#0056B8FF",
     "color_info": {
@@ -77317,9 +77524,9 @@
     "name": "Cobalt Blue",
     "product_type": "Filament",
     "series": "PLA Basic",
-    "sku": "A00-B3-1.75-1000-splfree",
+    "sku": "A00-B3-1.75-1000-SPLFREE",
     "title": "PLA Basic - Cobalt Blue",
-    "updated_at": null
+    "updated_at": 1785589121704
   },
   {
     "aspect1": "Translucent",
@@ -80180,12 +80387,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285510792",
     "brand": "Bambu Lab",
-    "color": "#DBC8B6",
+    "color": "#DBC8B6FF",
     "color_info": {
       "colors": [
-        "#DBC8B6"
+        "#DBC8B6FF"
       ],
       "type": "mono"
     },
@@ -80196,9 +80403,9 @@
     "name": "Dark Beige",
     "product_type": "Filament",
     "series": "PETG Basic",
-    "sku": "",
+    "sku": "G00-Y01-1.75-1000-SPL",
     "title": "PETG Basic - Dark Beige",
-    "updated_at": 1784098990547
+    "updated_at": 1785588260297
   },
   {
     "aspect1": "Matt",
@@ -82246,12 +82453,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6975337032168",
     "brand": "Bambu Lab",
-    "color": "#FF6A13",
+    "color": "#FF6A13FF",
     "color_info": {
       "colors": [
-        "#FF6A13"
+        "#FF6A13FF"
       ],
       "type": "mono"
     },
@@ -82262,9 +82469,9 @@
     "name": "Orange",
     "product_type": "Filament",
     "series": "ABS",
-    "sku": "",
+    "sku": "B00-A0-1.75-1000-SPL",
     "title": "ABS - Orange",
-    "updated_at": 1784103528049
+    "updated_at": 1785589246936
   },
   {
     "aspect1": "Silk",
@@ -82968,10 +83175,10 @@
     "aspect2": null,
     "barcode": "6937285509734",
     "brand": "Bambu Lab",
-    "color": "#7F7E83",
+    "color": "#7F7E83FF",
     "color_info": {
       "colors": [
-        "#7F7E83"
+        "#7F7E83FF"
       ],
       "type": "mono"
     },
@@ -82984,7 +83191,7 @@
     "series": "PETG Basic",
     "sku": "G00-D00-1.75-1000-spl",
     "title": "PETG Basic - Gray",
-    "updated_at": 1784098823550
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Basic",
@@ -87041,6 +87248,29 @@
     "sku": "VSA070003",
     "title": "PLA Professional - Royal Gold",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6937285510877",
+    "brand": "Bambu Lab",
+    "color": "#688197FF",
+    "color_info": {
+      "colors": [
+        "#688197FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3281085851,
+    "img_src": "https://cdn.tigertag.io/img?id=3281085851&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Misty Blue",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-D01-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Misty Blue",
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Basic",
@@ -94060,12 +94290,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285510815",
     "brand": "Bambu Lab",
-    "color": "#0086D6",
+    "color": "#0086D6FF",
     "color_info": {
       "colors": [
-        "#0086D6"
+        "#0086D6FF"
       ],
       "type": "mono"
     },
@@ -94076,9 +94306,9 @@
     "name": "Navy Blue",
     "product_type": "Filament",
     "series": "PETG Basic",
-    "sku": "",
+    "sku": "G00-B01-1.75-1000-SPL",
     "title": "PETG Basic - Navy Blue",
-    "updated_at": 1784099156355
+    "updated_at": 1785588260297
   },
   {
     "aspect1": "Basic",
@@ -96371,12 +96601,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6975337033783",
     "brand": "Bambu Lab",
-    "color": "#0C2340",
+    "color": "#0C2340FF",
     "color_info": {
       "colors": [
-        "#0C2340"
+        "#0C2340FF"
       ],
       "type": "mono"
     },
@@ -96387,9 +96617,9 @@
     "name": "Navy Blue",
     "product_type": "Filament",
     "series": "ABS",
-    "sku": "",
+    "sku": "B00-B6-1.75-1000-SPL",
     "title": "ABS - Navy Blue",
-    "updated_at": 1784103632505
+    "updated_at": 1785589246936
   },
   {
     "aspect1": "Basic",
@@ -104853,6 +105083,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "6937285510839",
+    "brand": "Bambu Lab",
+    "color": "#FF671FFF",
+    "color_info": {
+      "colors": [
+        "#FF671FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3992776995,
+    "img_src": "https://cdn.tigertag.io/img?id=3992776995&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-A00-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Orange",
+    "updated_at": 1785588037489
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6971636403579",
     "brand": "Creality",
     "color": "#000000FF",
@@ -105014,12 +105267,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "921084358823",
+    "barcode": "6937285509758",
     "brand": "Bambu Lab",
-    "color": "#FCE300",
+    "color": "#FCE300FF",
     "color_info": {
       "colors": [
-        "#FCE300"
+        "#FCE300FF"
       ],
       "type": "mono"
     },
@@ -105030,9 +105283,9 @@
     "name": "Yellow",
     "product_type": "Filament",
     "series": "PETG Basic",
-    "sku": "G00-YO-1.75-1000-spl",
+    "sku": "G00-Y00-1.75-1000-SPL",
     "title": "PETG Basic - Yellow",
-    "updated_at": 1784098217347
+    "updated_at": 1785588452104
   },
   {
     "aspect1": "Basic",
@@ -105735,12 +105988,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285509246",
     "brand": "Bambu Lab",
-    "color": "#CDEA80",
+    "color": "#CDEA80FF",
     "color_info": {
       "colors": [
-        "#CDEA80"
+        "#CDEA80FF"
       ],
       "type": "mono"
     },
@@ -105751,9 +106004,9 @@
     "name": "Lime Green",
     "product_type": "Filament",
     "series": "TPU 85A",
-    "sku": "",
+    "sku": "U04-G1-1.75-1000-SPL",
     "title": "TPU 85A - Lime Green",
-    "updated_at": 1784115192417
+    "updated_at": 1785589121704
   },
   {
     "aspect1": "Basic",
@@ -106105,12 +106358,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285508850",
     "brand": "Bambu Lab",
-    "color": "#7EB4E1",
+    "color": "#7EB4E1FF",
     "color_info": {
       "colors": [
-        "#7EB4E1"
+        "#7EB4E1FF"
       ],
       "type": "mono"
     },
@@ -106121,9 +106374,9 @@
     "name": "Crystal Blue",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "",
+    "sku": "U03-B1-1.75-1000-SPL",
     "title": "TPU 90A - Crystal Blue",
-    "updated_at": 1784115813249
+    "updated_at": 1785589121704
   },
   {
     "aspect1": "Matt",
@@ -106286,6 +106539,29 @@
     "sku": "",
     "title": "PLA - Interstellar Violet",
     "updated_at": 1785249212945
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6937285510181",
+    "brand": "Bambu Lab",
+    "color": "#4F2C1DFF",
+    "color_info": {
+      "colors": [
+        "#4F2C1DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4049893671,
+    "img_src": "https://cdn.tigertag.io/img?id=4049893671&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Dark Brown",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-N00-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Dark Brown",
+    "updated_at": 1785588037489
   },
   {
     "aspect1": "Basic",
@@ -111062,12 +111338,12 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "",
+    "barcode": "6937285509260",
     "brand": "Bambu Lab",
-    "color": "#5C4738",
+    "color": "#5C4738FF",
     "color_info": {
       "colors": [
-        "#5C4738"
+        "#5C4738FF"
       ],
       "type": "mono"
     },
@@ -111078,9 +111354,9 @@
     "name": "Cocoa Brown",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "",
+    "sku": "U03-N0-1.75-1000-SPL",
     "title": "TPU 90A - Cocoa Brown",
-    "updated_at": 1784115506242
+    "updated_at": 1785589121704
   },
   {
     "aspect1": "Basic",
@@ -111591,6 +111867,29 @@
     "sku": "COFC3354",
     "title": "VarioShore Prosthetic - Dark Brown",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6937285510150",
+    "brand": "Bambu Lab",
+    "color": "#FCE300FF",
+    "color_info": {
+      "colors": [
+        "#FCE300FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4244033876,
+    "img_src": "https://cdn.tigertag.io/img?id=4244033876&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "G00-Y00-1.75-1000-SPLFREE",
+    "title": "PETG Basic - Yellow",
+    "updated_at": 1785587852424
   },
   {
     "aspect1": "Matt",
