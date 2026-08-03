@@ -53,7 +53,18 @@ from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import unquote
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DOCS = ["README.md", "llms.txt"]
+# The sub-directory READMEs are the ones that point at the asset and data files,
+# so a rename that breaks them has to be caught here too. Their links are written
+# relative to their OWN directory, which is why targets resolve against the
+# document rather than against the repository root.
+DOCS = ["README.md", "llms.txt", "brand/README.md", "database/README.md"]
+
+# Docs whose backticked filenames name files sitting in that same directory, so a
+# bare `name.svg` can be resolved and checked. The root README is deliberately not
+# in here: it backticks bare names as labels for files that live elsewhere
+# (`id_brand.json` is in database/, `logo_tigertag.svg` is in brand/), and the
+# real path is carried by the link next to them.
+BACKTICK_DOCS = {"brand/README.md", "database/README.md"}
 
 HTTP_TIMEOUT = 20
 MAX_WORKERS = 8
@@ -175,6 +186,26 @@ def collect_anchors(lines):
     return anchors
 
 
+ASSET_EXT = (".svg", ".png", ".ico", ".icns", ".jpg", ".jpeg", ".json", ".py", ".yml", ".yaml")
+RE_BACKTICK = re.compile(r"`([^`\s]+)`")
+
+
+def backticked_assets(line):
+    """Filenames named in prose as `like_this.svg` rather than linked.
+
+    The brand and database READMEs list their assets in tables of backticked
+    names, so a rename breaks them in a way no link check would ever see. Tokens
+    carrying a glob or a slash are skipped: `id_*.json` is a pattern, and
+    `icon.icns/ico/png` is three extensions written as one word, not a path.
+    """
+    for token in RE_BACKTICK.findall(line):
+        if not token.lower().endswith(ASSET_EXT):
+            continue
+        if "*" in token or "/" in token:
+            continue
+        yield token
+
+
 def collect_refs(relpath, lines):
     """Return (external, local, anchors) references as (value, line_no) pairs."""
     external, local, anchors = [], [], []
@@ -208,13 +239,26 @@ def check_local_and_anchors(problems):
         lines = read_lines(relpath)
         _, local, anchors = collect_refs(relpath, lines)
 
+        base = os.path.dirname(os.path.join(REPO_ROOT, relpath))
         for target, n in local:
             if not target:
                 continue
             # Markdown percent-encodes spaces in paths ("Sample%20code/"), so the
             # link on the page is not the name on disk.
-            if not os.path.exists(os.path.join(REPO_ROOT, unquote(target))):
+            resolved = os.path.normpath(os.path.join(base, unquote(target)))
+            if not os.path.exists(resolved):
                 problems.append(f"{relpath}:{n}  missing file: {target}")
+
+        in_fence = False
+        for n, line in enumerate(lines, 1) if relpath in BACKTICK_DOCS else []:
+            if line.lstrip().startswith("```"):
+                in_fence = not in_fence
+                continue
+            if in_fence:
+                continue
+            for token in backticked_assets(line):
+                if not os.path.exists(os.path.join(base, token)):
+                    problems.append(f"{relpath}:{n}  backticked asset not found: {token}")
 
         if relpath.endswith(".md"):
             defined = collect_anchors(lines)

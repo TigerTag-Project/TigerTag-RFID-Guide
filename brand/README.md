@@ -117,6 +117,11 @@ favicon, byte for byte.
 
 No `overflow` cut was supplied for this family; use `contained` where you would reach for it.
 
+`contained` is built for masking: its black field extends about 10% beyond the canvas on
+every side, so a platform that crops to a circle or a squircle bites into bleed rather than
+into a corner. Keep that margin — exporting it to a tight bounding box is what puts white
+corners back under the mask.
+
 Same trademark terms apply to every family on this page: unmodified use only, no implied
 affiliation or endorsement. Full rules: [`../TRADEMARK.md`](../TRADEMARK.md).
 
