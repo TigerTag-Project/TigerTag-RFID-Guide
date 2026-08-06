@@ -580,15 +580,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 19596321,
-    "img_src": "https://cdn.tigertag.io/img?id=19596321&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=19596321&v=3",
     "material": "PLA High Speed",
     "measure": "1000 g",
     "name": "Ziro3D HS-PLA - Black",
@@ -596,7 +596,7 @@
     "series": "HS-PLA",
     "sku": "HSPLA-BLACK-1000-175",
     "title": "HS-PLA - Ziro3D HS-PLA - Black",
-    "updated_at": null
+    "updated_at": 1786016660901
   },
   {
     "aspect1": "Basic",
@@ -5295,15 +5295,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#4B5320FF",
+    "color": "#4B5320",
     "color_info": {
       "colors": [
-        "#4B5320FF"
+        "#4B5320"
       ],
       "type": "mono"
     },
     "id": 114586508,
-    "img_src": "https://cdn.tigertag.io/img?id=114586508&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=114586508&v=3",
     "material": "PLA-CF",
     "measure": "800 g",
     "name": "Ziro3D PLA Carbon Fiber - Military green",
@@ -5311,7 +5311,7 @@
     "series": "PLA Carbon Fiber",
     "sku": "PLACF-MILITARY-GREEN-800-175",
     "title": "PLA Carbon Fiber - Ziro3D PLA Carbon Fiber - Military green",
-    "updated_at": null
+    "updated_at": 1786018058193
   },
   {
     "aspect1": "Basic",
@@ -5503,15 +5503,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#00FFFFFF",
+    "color": "#00FFFF",
     "color_info": {
       "colors": [
-        "#00FFFFFF"
+        "#00FFFF"
       ],
       "type": "mono"
     },
     "id": 119271329,
-    "img_src": "https://cdn.tigertag.io/img?id=119271329&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=119271329&v=3",
     "material": "PLA High Speed",
     "measure": "1000 g",
     "name": "Ziro3D HS-PLA - Cyan",
@@ -5519,7 +5519,7 @@
     "series": "HS-PLA",
     "sku": "HSPLA-CYAN-1000-175",
     "title": "HS-PLA - Ziro3D HS-PLA - Cyan",
-    "updated_at": null
+    "updated_at": 1786016756401
   },
   {
     "aspect1": "Matt",
@@ -8475,15 +8475,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#008000FF",
+    "color": "#008000",
     "color_info": {
       "colors": [
-        "#008000FF"
+        "#008000"
       ],
       "type": "mono"
     },
     "id": 193141491,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=193141491&v=2",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - Green",
@@ -8491,7 +8491,7 @@
     "series": "PETG",
     "sku": "PETG-GREEN-1000-175",
     "title": "PETG - Ziro3D PETG - Green",
-    "updated_at": null
+    "updated_at": 1786017287358
   },
   {
     "aspect1": "Basic",
@@ -9010,15 +9010,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#008000FF",
+    "color": "#008000",
     "color_info": {
       "colors": [
-        "#008000FF"
+        "#008000"
       ],
       "type": "mono"
     },
     "id": 206680838,
-    "img_src": "https://cdn.tigertag.io/img?id=206680838&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=206680838&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Diamond - Green",
@@ -9026,7 +9026,7 @@
     "series": "PLA Diamond",
     "sku": "PLA-DIA-GREEN-1000-175",
     "title": "PLA Diamond - Ziro3D PLA Diamond - Green",
-    "updated_at": null
+    "updated_at": 1786019262892
   },
   {
     "aspect1": "Glow in the Dark",
@@ -11257,15 +11257,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
     "id": 247428434,
-    "img_src": "https://cdn.tigertag.io/img?id=247428434&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=247428434&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - Gray",
@@ -11273,7 +11273,7 @@
     "series": "PETG",
     "sku": "PETG-GRAY-1000-175",
     "title": "PETG - Ziro3D PETG - Gray",
-    "updated_at": null
+    "updated_at": 1786017224118
   },
   {
     "aspect1": "Carbon",
@@ -12503,15 +12503,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FF66CCFF",
+    "color": "#FF66CC",
     "color_info": {
       "colors": [
-        "#FF66CCFF"
+        "#FF66CC",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 270826089,
-    "img_src": "https://cdn.tigertag.io/img?id=270826089&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=270826089&v=3",
     "material": "PLA Silk",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Silky - Rainbow",
@@ -12519,7 +12520,7 @@
     "series": "PLA Gradient Silky",
     "sku": "PLA-GRSLK-RAINBOW-1000-175",
     "title": "PLA Gradient Silky - Ziro3D PLA Gradient Silky - Rainbow",
-    "updated_at": null
+    "updated_at": 1786020911806
   },
   {
     "aspect1": "Basic",
@@ -13379,15 +13380,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 294803197,
-    "img_src": "https://cdn.tigertag.io/img?id=294803197&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=294803197&v=3",
     "material": "ASA",
     "measure": "1000 g",
     "name": "Ziro3D ASA Basic - Black",
@@ -13395,7 +13396,7 @@
     "series": "ASA Basic",
     "sku": "ASA-BLACK-1000-175",
     "title": "ASA Basic - Ziro3D ASA Basic - Black",
-    "updated_at": null
+    "updated_at": 1786016410819
   },
   {
     "aspect1": "Basic",
@@ -13617,7 +13618,7 @@
       "type": "mono"
     },
     "id": 298775395,
-    "img_src": "https://cdn.tigertag.io/img?id=298775395&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=298775395&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - Transparent",
@@ -13625,7 +13626,7 @@
     "series": "PETG",
     "sku": "PETG-TRANSPARENT-1000-175",
     "title": "PETG - Ziro3D PETG - Transparent",
-    "updated_at": null
+    "updated_at": 1786017625040
   },
   {
     "aspect1": "None",
@@ -13701,15 +13702,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#9C6B3EFF",
+    "color": "#9C6B3E",
     "color_info": {
       "colors": [
-        "#9C6B3EFF"
+        "#9C6B3E",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 300770038,
-    "img_src": "https://cdn.tigertag.io/img?id=300770038&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=300770038&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Matte - Wood grain",
@@ -13717,7 +13719,7 @@
     "series": "PLA Gradient Matte",
     "sku": "PLA-GRMAT-WOOD-GRAIN-1000-175",
     "title": "PLA Gradient Matte - Ziro3D PLA Gradient Matte - Wood grain",
-    "updated_at": null
+    "updated_at": 1786020615801
   },
   {
     "aspect1": "Basic",
@@ -20352,6 +20354,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#B36A5EFF",
+    "color_info": {
+      "colors": [
+        "#B36A5EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 444112964,
+    "img_src": "https://cdn.tigertag.io/img?id=444112964&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Red copper",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-RED-COPPER-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Red copper",
+    "updated_at": null
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "6931677323526",
@@ -21577,6 +21602,29 @@
     "sku": "G0114003",
     "title": "PLA Matte High-Speed Triple-Color - Black & yellow & blue",
     "updated_at": 1785272107642
+  },
+  {
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFFF00FF",
+    "color_info": {
+      "colors": [
+        "#FFFF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 469039183,
+    "img_src": "https://cdn.tigertag.io/img?id=469039183&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Fluorescent - yellow",
+    "product_type": "Filament",
+    "series": "PLA PRO Fluorescent",
+    "sku": "PLAPRO-FLU-YELLOW-1000-175",
+    "title": "PLA PRO Fluorescent - Ziro3D PLA PRO Fluorescent - yellow",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -24079,15 +24127,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#800080FF",
+    "color": "#800080",
     "color_info": {
       "colors": [
-        "#800080FF"
+        "#800080"
       ],
       "type": "mono"
     },
     "id": 521035317,
-    "img_src": "https://cdn.tigertag.io/img?id=521035317&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=521035317&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - Purple",
@@ -24095,7 +24143,7 @@
     "series": "PETG",
     "sku": "PETG-PURPLE-1000-175",
     "title": "PETG - Ziro3D PETG - Purple",
-    "updated_at": null
+    "updated_at": 1786017363493
   },
   {
     "aspect1": "Basic",
@@ -24561,6 +24609,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Ziro",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 533472346,
+    "img_src": "https://cdn.tigertag.io/img?id=533472346&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Red",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-RED-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Red",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Snapmaker",
     "color": "#C19E86FF",
     "color_info": {
@@ -24927,6 +24998,29 @@
     "sku": "HCGS017",
     "title": "PETG Rapid - Red",
     "updated_at": 1785500298795
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#0000FFFF",
+    "color_info": {
+      "colors": [
+        "#0000FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 539359238,
+    "img_src": "https://cdn.tigertag.io/img?id=539359238&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Blue",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-BLUE-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -26858,15 +26952,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
     "id": 587950842,
-    "img_src": "https://cdn.tigertag.io/img?id=587950842&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=587950842&v=3",
     "material": "ASA",
     "measure": "1000 g",
     "name": "Ziro3D ASA Basic - Gray",
@@ -26874,7 +26968,7 @@
     "series": "ASA Basic",
     "sku": "ASA-GRAY-1000-175",
     "title": "ASA Basic - Ziro3D ASA Basic - Gray",
-    "updated_at": null
+    "updated_at": 1786016480330
   },
   {
     "aspect1": "Basic",
@@ -28888,6 +28982,29 @@
     "updated_at": 1785271827143
   },
   {
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#0000FFFF",
+    "color_info": {
+      "colors": [
+        "#0000FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 630994483,
+    "img_src": "https://cdn.tigertag.io/img?id=630994483&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Fluorescent - blue",
+    "product_type": "Filament",
+    "series": "PLA PRO Fluorescent",
+    "sku": "PLAPRO-FLU-BLUE-1000-175",
+    "title": "PLA PRO Fluorescent - Ziro3D PLA PRO Fluorescent - blue",
+    "updated_at": null
+  },
+  {
     "aspect1": "Bicolor",
     "aspect2": "Matt",
     "barcode": "6938936715818",
@@ -30044,6 +30161,29 @@
     "updated_at": 1785275815872
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#B266FF99",
+    "color_info": {
+      "colors": [
+        "#B266FF99"
+      ],
+      "type": "mono"
+    },
+    "id": 652886898,
+    "img_src": "https://cdn.tigertag.io/img?id=652886898&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Translucent - Translucent purple",
+    "product_type": "Filament",
+    "series": "PLA PRO Translucent",
+    "sku": "PLAPRO-TRL-TRANSLUCENT-PURPLE-1000-175",
+    "title": "PLA PRO Translucent - Ziro3D PLA PRO Translucent - Translucent purple",
+    "updated_at": null
+  },
+  {
     "aspect1": "None",
     "aspect2": null,
     "barcode": "",
@@ -30092,6 +30232,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 654346572,
+    "img_src": "https://cdn.tigertag.io/img?id=654346572&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - White",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-WHITE-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - White",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6974994170541",
     "brand": "Geeetech",
     "color": "#C7C9CAFF",
@@ -30111,6 +30274,29 @@
     "sku": "700-001-1321",
     "title": "PETG - Argent",
     "updated_at": 1785607601628
+  },
+  {
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFA500FF",
+    "color_info": {
+      "colors": [
+        "#FFA500FF"
+      ],
+      "type": "mono"
+    },
+    "id": 655418027,
+    "img_src": "https://cdn.tigertag.io/img?id=655418027&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Fluorescent - orange",
+    "product_type": "Filament",
+    "series": "PLA PRO Fluorescent",
+    "sku": "PLAPRO-FLU-ORANGE-1000-175",
+    "title": "PLA PRO Fluorescent - Ziro3D PLA PRO Fluorescent - orange",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -30157,6 +30343,30 @@
     "sku": "SL-Y-PLAYG-PK-1KG-A",
     "title": "PLA Matte - Pink",
     "updated_at": 1782742522129
+  },
+  {
+    "aspect1": "Tricolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#B39DDBFF",
+    "color_info": {
+      "colors": [
+        "#B39DDBFF",
+        "#FFFFFFFF"
+      ],
+      "type": "multi"
+    },
+    "id": 659109941,
+    "img_src": "https://cdn.tigertag.io/img?id=659109941&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Triple Co-extrusion Matte - Colorful mist",
+    "product_type": "Filament",
+    "series": "PLA Triple Co-extrusion Matte",
+    "sku": "PLA-3CMAT-COLORFUL-MIST-1000-175",
+    "title": "PLA Triple Co-extrusion Matte - Ziro3D PLA Triple Co-extrusion Matte - Colorful mist",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -30971,15 +31181,15 @@
     "aspect2": null,
     "barcode": "6931677323762",
     "brand": "R3D",
-    "color": "#f07471FF",
+    "color": "#E83430",
     "color_info": {
       "colors": [
-        "#f07471FF"
+        "#E83430"
       ],
       "type": "mono"
     },
     "id": 676936555,
-    "img_src": "https://cdn.tigertag.io/img?id=676936555&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=676936555&v=2",
     "material": "PETG",
     "measure": "0.3 kg",
     "name": "China Red",
@@ -30987,7 +31197,7 @@
     "series": "PETG Matte",
     "sku": "R3DC8E104MLS",
     "title": "PETG Matte - China Red",
-    "updated_at": null
+    "updated_at": 1786009271918
   },
   {
     "aspect1": "Basic",
@@ -31711,15 +31921,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 690381142,
-    "img_src": "https://cdn.tigertag.io/img?id=690381142&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=690381142&v=3",
     "material": "PLA High Speed",
     "measure": "1000 g",
     "name": "Ziro3D HS-PLA - White",
@@ -31727,7 +31937,7 @@
     "series": "HS-PLA",
     "sku": "HSPLA-WHITE-1000-175",
     "title": "HS-PLA - Ziro3D HS-PLA - White",
-    "updated_at": null
+    "updated_at": 1786016946356
   },
   {
     "aspect1": "Basic",
@@ -35658,15 +35868,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#00FFFFFF",
+    "color": "#00FFFF",
     "color_info": {
       "colors": [
-        "#00FFFFFF"
+        "#00FFFF"
       ],
       "type": "mono"
     },
     "id": 778914024,
-    "img_src": "https://cdn.tigertag.io/img?id=778914024&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=778914024&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Matte - Cyan",
@@ -35674,7 +35884,7 @@
     "series": "PLA Matte",
     "sku": "PLA-MAT-CYAN-1000-175",
     "title": "PLA Matte - Ziro3D PLA Matte - Cyan",
-    "updated_at": null
+    "updated_at": 1786021839992
   },
   {
     "aspect1": "Basic",
@@ -35860,6 +36070,29 @@
     "sku": "B0161021",
     "title": "PLA Burnt Titanium - Technology Blue",
     "updated_at": 1785274162031
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#008000",
+    "color_info": {
+      "colors": [
+        "#008000"
+      ],
+      "type": "mono"
+    },
+    "id": 784329515,
+    "img_src": "https://cdn.tigertag.io/img?id=784329515&v=3",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Green",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-GREEN-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Green",
+    "updated_at": 1786023419390
   },
   {
     "aspect1": "Basic",
@@ -41381,15 +41614,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
     "id": 917546046,
-    "img_src": "https://cdn.tigertag.io/img?id=917546046&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=917546046&v=3",
     "material": "PLA High Speed",
     "measure": "1000 g",
     "name": "Ziro3D HS-PLA - Gray",
@@ -41397,7 +41630,7 @@
     "series": "HS-PLA",
     "sku": "HSPLA-GRAY-1000-175",
     "title": "HS-PLA - Ziro3D HS-PLA - Gray",
-    "updated_at": null
+    "updated_at": 1786016817401
   },
   {
     "aspect1": "Marble",
@@ -43601,15 +43834,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 970586052,
-    "img_src": "https://cdn.tigertag.io/img?id=970586052&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=970586052&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - White",
@@ -43617,7 +43850,7 @@
     "series": "PETG",
     "sku": "PETG-WHITE-1000-175",
     "title": "PETG - Ziro3D PETG - White",
-    "updated_at": null
+    "updated_at": 1786017701932
   },
   {
     "aspect1": "Basic",
@@ -47479,15 +47712,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
     "id": 1057682603,
-    "img_src": "https://cdn.tigertag.io/img?id=1057682603&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1057682603&v=3",
     "material": "ABS",
     "measure": "1000 g",
     "name": "Ziro3D ABS Basic - Gray",
@@ -47495,7 +47728,7 @@
     "series": "ABS Basic",
     "sku": "ABS-GRAY-1000-175",
     "title": "ABS Basic - Ziro3D ABS Basic - Gray",
-    "updated_at": null
+    "updated_at": 1786016178594
   },
   {
     "aspect1": "Silk",
@@ -49249,6 +49482,29 @@
     "updated_at": 1785607678588
   },
   {
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#008000FF",
+    "color_info": {
+      "colors": [
+        "#008000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1095724168,
+    "img_src": "https://cdn.tigertag.io/img?id=1095724168&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Fluorescent - green",
+    "product_type": "Filament",
+    "series": "PLA PRO Fluorescent",
+    "sku": "PLAPRO-FLU-GREEN-1000-175",
+    "title": "PLA PRO Fluorescent - Ziro3D PLA PRO Fluorescent - green",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -50014,15 +50270,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#0B1E3DFF",
+    "color": "#0B1E3D",
     "color_info": {
       "colors": [
-        "#0B1E3DFF"
+        "#0B1E3D",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 1112973254,
-    "img_src": "https://cdn.tigertag.io/img?id=1112973254&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1112973254&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Twinkling - Starry sky",
@@ -50030,7 +50287,7 @@
     "series": "PLA Gradient Twinkling",
     "sku": "PLA-GRTWK-STARRY-SKY-1000-175",
     "title": "PLA Gradient Twinkling - Ziro3D PLA Gradient Twinkling - Starry sky",
-    "updated_at": null
+    "updated_at": 1786021589073
   },
   {
     "aspect1": "Basic",
@@ -52420,6 +52677,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#4A4A4AFF",
+    "color_info": {
+      "colors": [
+        "#4A4A4AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1167922426,
+    "img_src": "https://cdn.tigertag.io/img?id=1167922426&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Dark gray",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-DARK-GRAY-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Dark gray",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -53159,6 +53439,29 @@
     "sku": "B0DSB9W28N",
     "title": "Silk PLA - Holly Green",
     "updated_at": 1785692778017
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#8B4513FF",
+    "color_info": {
+      "colors": [
+        "#8B4513FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1180266363,
+    "img_src": "https://cdn.tigertag.io/img?id=1180266363&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Brown",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-BROWN-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Brown",
+    "updated_at": null
   },
   {
     "aspect1": "Stone",
@@ -54206,15 +54509,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#7FFFD4FF",
+    "color": "#7FFFD4",
     "color_info": {
       "colors": [
-        "#7FFFD4FF"
+        "#7FFFD4",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 1209460462,
-    "img_src": "https://cdn.tigertag.io/img?id=1209460462&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1209460462&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient GID Rainbow - GID rainbow",
@@ -54222,7 +54526,7 @@
     "series": "PLA Gradient GID Rainbow",
     "sku": "PLA-GIDRB-GID-RAINBOW-1000-175",
     "title": "PLA Gradient GID Rainbow - Ziro3D PLA Gradient GID Rainbow - GID rainbow",
-    "updated_at": null
+    "updated_at": 1786019684097
   },
   {
     "aspect1": "Basic",
@@ -55498,6 +55802,29 @@
     "sku": "B0112037",
     "title": "PLA Matte - Aqua Blue",
     "updated_at": 1785270131687
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFC0CBFF",
+    "color_info": {
+      "colors": [
+        "#FFC0CBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1241987587,
+    "img_src": "https://cdn.tigertag.io/img?id=1241987587&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Pink",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-PINK-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Pink",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -57583,6 +57910,30 @@
     "updated_at": 1785275484265
   },
   {
+    "aspect1": "Tricolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#3B3B3BFF",
+    "color_info": {
+      "colors": [
+        "#3B3B3BFF",
+        "#000000FF"
+      ],
+      "type": "multi"
+    },
+    "id": 1293864323,
+    "img_src": "https://cdn.tigertag.io/img?id=1293864323&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Triple Co-extrusion Matte - Shadow",
+    "product_type": "Filament",
+    "series": "PLA Triple Co-extrusion Matte",
+    "sku": "PLA-3CMAT-SHADOW-1000-175",
+    "title": "PLA Triple Co-extrusion Matte - Ziro3D PLA Triple Co-extrusion Matte - Shadow",
+    "updated_at": null
+  },
+  {
     "aspect1": "Rainbow",
     "aspect2": "Translucent",
     "barcode": "6938936717386",
@@ -57904,6 +58255,29 @@
     "series": "High Speed Matte PETG",
     "sku": "DLZ-EU-TB-HSMPETG-SB-1KG",
     "title": "High Speed Matte PETG - Tecbears High Speed Matte PETG Matte Sky Blue (1kg)",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#00FFFFFF",
+    "color_info": {
+      "colors": [
+        "#00FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1299028727,
+    "img_src": "https://cdn.tigertag.io/img?id=1299028727&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Cyan",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-CYAN-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Cyan",
     "updated_at": null
   },
   {
@@ -58765,15 +59139,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 1313803094,
-    "img_src": "https://cdn.tigertag.io/img?id=1313803094&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1313803094&v=3",
     "material": "ASA",
     "measure": "1000 g",
     "name": "Ziro3D ASA Basic - White",
@@ -58781,7 +59155,7 @@
     "series": "ASA Basic",
     "sku": "ASA-WHITE-1000-175",
     "title": "ASA Basic - Ziro3D ASA Basic - White",
-    "updated_at": null
+    "updated_at": 1786016562433
   },
   {
     "aspect1": "Basic",
@@ -59360,6 +59734,29 @@
     "sku": "PWB-3D-F4846",
     "title": "BioWOOD - Natural",
     "updated_at": 1773411206955
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#77DD7799",
+    "color_info": {
+      "colors": [
+        "#77DD7799"
+      ],
+      "type": "mono"
+    },
+    "id": 1329920840,
+    "img_src": "https://cdn.tigertag.io/img?id=1329920840&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Translucent - Translucent green",
+    "product_type": "Filament",
+    "series": "PLA PRO Translucent",
+    "sku": "PLAPRO-TRL-TRANSLUCENT-GREEN-1000-175",
+    "title": "PLA PRO Translucent - Ziro3D PLA PRO Translucent - Translucent green",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -62007,15 +62404,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#F6C6D0FF",
+    "color": "#F6C6D0",
     "color_info": {
       "colors": [
-        "#F6C6D0FF"
+        "#F6C6D0",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 1393845139,
-    "img_src": "https://cdn.tigertag.io/img?id=1393845139&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1393845139&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Matte - Macaron",
@@ -62023,7 +62421,7 @@
     "series": "PLA Gradient Matte",
     "sku": "PLA-GRMAT-MACARON-1000-175",
     "title": "PLA Gradient Matte - Ziro3D PLA Gradient Matte - Macaron",
-    "updated_at": null
+    "updated_at": 1786019899644
   },
   {
     "aspect1": "Silk",
@@ -62168,15 +62566,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
     "id": 1396831887,
-    "img_src": "https://cdn.tigertag.io/img?id=1396831887&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1396831887&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Matte - Gray",
@@ -62184,7 +62582,7 @@
     "series": "PLA Matte",
     "sku": "PLA-MAT-GRAY-1000-175",
     "title": "PLA Matte - Ziro3D PLA Matte - Gray",
-    "updated_at": null
+    "updated_at": 1786021903210
   },
   {
     "aspect1": "Basic",
@@ -63213,15 +63611,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#E63946FF",
+    "color": "#E63946",
     "color_info": {
       "colors": [
-        "#E63946FF"
+        "#E63946",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 1421291847,
-    "img_src": "https://cdn.tigertag.io/img?id=1421291847&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1421291847&v=3",
     "material": "PLA Silk",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Silky - Passionate",
@@ -63229,7 +63628,7 @@
     "series": "PLA Gradient Silky",
     "sku": "PLA-GRSLK-PASSIONATE-1000-175",
     "title": "PLA Gradient Silky - Ziro3D PLA Gradient Silky - Passionate",
-    "updated_at": null
+    "updated_at": 1786020770365
   },
   {
     "aspect1": "Basic",
@@ -65802,6 +66201,29 @@
     "sku": "A17-G0-1.75-1000-spl",
     "title": "PLA Translucent - Light Jade",
     "updated_at": 1785872868782
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1477080009,
+    "img_src": "https://cdn.tigertag.io/img?id=1477080009&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - White",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-WHITE-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - White",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -70325,6 +70747,30 @@
     "updated_at": null
   },
   {
+    "aspect1": "Tricolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#8C6A3FFF",
+    "color_info": {
+      "colors": [
+        "#8C6A3FFF",
+        "#B87333FF"
+      ],
+      "type": "multi"
+    },
+    "id": 1575198232,
+    "img_src": "https://cdn.tigertag.io/img?id=1575198232&v=2",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Triple Co-extrusion Silky - Steampunk",
+    "product_type": "Filament",
+    "series": "PLA Triple Co-extrusion Silky",
+    "sku": "PLA-3CSLK-STEAMPUNK-1000-175",
+    "title": "PLA Triple Co-extrusion Silky - Ziro3D PLA Triple Co-extrusion Silky - Steampunk",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -70815,15 +71261,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#3A6EA5FF",
+    "color": "#3A6EA5",
     "color_info": {
       "colors": [
-        "#3A6EA5FF"
+        "#3A6EA5",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 1589716705,
-    "img_src": "https://cdn.tigertag.io/img?id=1589716705&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1589716705&v=3",
     "material": "PLA Silk",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Silky - Steady",
@@ -70831,7 +71278,7 @@
     "series": "PLA Gradient Silky",
     "sku": "PLA-GRSLK-STEADY-1000-175",
     "title": "PLA Gradient Silky - Ziro3D PLA Gradient Silky - Steady",
-    "updated_at": null
+    "updated_at": 1786021059836
   },
   {
     "aspect1": "Glow in the Dark",
@@ -71000,15 +71447,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FF0000FF",
+    "color": "#FF0000",
     "color_info": {
       "colors": [
-        "#FF0000FF"
+        "#FF0000"
       ],
       "type": "mono"
     },
     "id": 1593097966,
-    "img_src": "https://cdn.tigertag.io/img?id=1593097966&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1593097966&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - Red",
@@ -71016,7 +71463,7 @@
     "series": "PETG",
     "sku": "PETG-RED-1000-175",
     "title": "PETG - Ziro3D PETG - Red",
-    "updated_at": null
+    "updated_at": 1786017444109
   },
   {
     "aspect1": "Silk",
@@ -73523,6 +73970,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1652191686,
+    "img_src": "https://cdn.tigertag.io/img?id=1652191686&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Red",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-RED-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Red",
+    "updated_at": null
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "",
@@ -74666,15 +75136,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#1B3A5CFF",
+    "color": "#1B3A5C",
     "color_info": {
       "colors": [
-        "#1B3A5CFF"
+        "#1B3A5C"
       ],
       "type": "mono"
     },
     "id": 1674307000,
-    "img_src": "https://cdn.tigertag.io/img?id=1674307000&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1674307000&v=3",
     "material": "PLA-CF",
     "measure": "800 g",
     "name": "Ziro3D PLA Carbon Fiber - Nave blue",
@@ -74682,7 +75152,7 @@
     "series": "PLA Carbon Fiber",
     "sku": "PLACF-NAVE-BLUE-800-175",
     "title": "PLA Carbon Fiber - Ziro3D PLA Carbon Fiber - Nave blue",
-    "updated_at": null
+    "updated_at": 1786018138133
   },
   {
     "aspect1": "Metal",
@@ -74781,15 +75251,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFA500FF",
+    "color": "#FFA500",
     "color_info": {
       "colors": [
-        "#FFA500FF"
+        "#FFA500"
       ],
       "type": "mono"
     },
     "id": 1677499072,
-    "img_src": "https://cdn.tigertag.io/img?id=1677499072&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1677499072&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Matte - Orange",
@@ -74797,7 +75267,7 @@
     "series": "PLA Matte",
     "sku": "PLA-MAT-ORANGE-1000-175",
     "title": "PLA Matte - Ziro3D PLA Matte - Orange",
-    "updated_at": null
+    "updated_at": 1786022027396
   },
   {
     "aspect1": "Silk",
@@ -75657,15 +76127,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#800080FF",
+    "color": "#800080",
     "color_info": {
       "colors": [
-        "#800080FF"
+        "#800080"
       ],
       "type": "mono"
     },
     "id": 1700288565,
-    "img_src": "https://cdn.tigertag.io/img?id=1700288565&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1700288565&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Diamond - Purple",
@@ -75673,7 +76143,7 @@
     "series": "PLA Diamond",
     "sku": "PLA-DIA-PURPLE-1000-175",
     "title": "PLA Diamond - Ziro3D PLA Diamond - Purple",
-    "updated_at": null
+    "updated_at": 1786019344294
   },
   {
     "aspect1": "Basic",
@@ -83210,15 +83680,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 1875256725,
-    "img_src": "https://cdn.tigertag.io/img?id=1875256725&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1875256725&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Diamond - Black",
@@ -83226,7 +83696,7 @@
     "series": "PLA Diamond",
     "sku": "PLA-DIA-BLACK-1000-175",
     "title": "PLA Diamond - Ziro3D PLA Diamond - Black",
-    "updated_at": null
+    "updated_at": 1786019144249
   },
   {
     "aspect1": "Silk",
@@ -83948,6 +84418,30 @@
     "sku": "PMX-PRO-PURPLECOSMOS",
     "title": "PLA+ PRO - PLA+ PRO Purple Cosmos",
     "updated_at": 1785388744011
+  },
+  {
+    "aspect1": "Tricolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#39FF14FF",
+    "color_info": {
+      "colors": [
+        "#39FF14FF",
+        "#000000FF"
+      ],
+      "type": "multi"
+    },
+    "id": 1893599524,
+    "img_src": "https://cdn.tigertag.io/img?id=1893599524&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Triple Co-extrusion Matte - Neon",
+    "product_type": "Filament",
+    "series": "PLA Triple Co-extrusion Matte",
+    "sku": "PLA-3CMAT-NEON-1000-175",
+    "title": "PLA Triple Co-extrusion Matte - Ziro3D PLA Triple Co-extrusion Matte - Neon",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -85639,6 +86133,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFFAFAFF",
+    "color_info": {
+      "colors": [
+        "#FFFAFAFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1936719479,
+    "img_src": "https://cdn.tigertag.io/img?id=1936719479&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Snow white",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-SNOW-WHITE-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Snow white",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CAC8C4FF",
@@ -85733,15 +86250,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FF0000FF",
+    "color": "#FF0000",
     "color_info": {
       "colors": [
-        "#FF0000FF"
+        "#FF0000"
       ],
       "type": "mono"
     },
     "id": 1941354434,
-    "img_src": "https://cdn.tigertag.io/img?id=1941354434&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1941354434&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Diamond - Red",
@@ -85749,7 +86266,7 @@
     "series": "PLA Diamond",
     "sku": "PLA-DIA-RED-1000-175",
     "title": "PLA Diamond - Ziro3D PLA Diamond - Red",
-    "updated_at": null
+    "updated_at": 1786019399725
   },
   {
     "aspect1": "Basic",
@@ -87654,6 +88171,29 @@
     "series": "ABS GP450",
     "sku": "5903175650474",
     "title": "ABS GP450 - Natural",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFEB6699",
+    "color_info": {
+      "colors": [
+        "#FFEB6699"
+      ],
+      "type": "mono"
+    },
+    "id": 1993015306,
+    "img_src": "https://cdn.tigertag.io/img?id=1993015306&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Translucent - Translucent yellow",
+    "product_type": "Filament",
+    "series": "PLA PRO Translucent",
+    "sku": "PLAPRO-TRL-TRANSLUCENT-YELLOW-1000-175",
+    "title": "PLA PRO Translucent - Ziro3D PLA PRO Translucent - Translucent yellow",
     "updated_at": null
   },
   {
@@ -90296,15 +90836,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 2048034953,
-    "img_src": "https://cdn.tigertag.io/img?id=2048034953&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2048034953&v=3",
     "material": "PLA-CF",
     "measure": "800 g",
     "name": "Ziro3D PLA Carbon Fiber - Black",
@@ -90312,7 +90852,7 @@
     "series": "PLA Carbon Fiber",
     "sku": "PLACF-BLACK-800-175",
     "title": "PLA Carbon Fiber - Ziro3D PLA Carbon Fiber - Black",
-    "updated_at": null
+    "updated_at": 1786017995621
   },
   {
     "aspect1": "Basic",
@@ -91039,15 +91579,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFB6C1FF",
+    "color": "#FFB6C1",
     "color_info": {
       "colors": [
-        "#FFB6C1FF"
+        "#FFB6C1",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 2063331493,
-    "img_src": "https://cdn.tigertag.io/img?id=2063331493&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2063331493&v=3",
     "material": "PLA Silk",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Silky - Sweet",
@@ -91055,7 +91596,7 @@
     "series": "PLA Gradient Silky",
     "sku": "PLA-GRSLK-SWEET-1000-175",
     "title": "PLA Gradient Silky - Ziro3D PLA Gradient Silky - Sweet",
-    "updated_at": null
+    "updated_at": 1786021123007
   },
   {
     "aspect1": "Translucent",
@@ -92346,15 +92887,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#F5F5F5FF",
+    "color": "#F5F5F5",
     "color_info": {
       "colors": [
-        "#F5F5F5FF"
+        "#F5F5F5",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 2092903609,
-    "img_src": "https://cdn.tigertag.io/img?id=2092903609&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2092903609&v=3",
     "material": "PLA Silk",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Silky - Pure",
@@ -92362,7 +92904,7 @@
     "series": "PLA Gradient Silky",
     "sku": "PLA-GRSLK-PURE-1000-175",
     "title": "PLA Gradient Silky - Ziro3D PLA Gradient Silky - Pure",
-    "updated_at": null
+    "updated_at": 1786020845898
   },
   {
     "aspect1": "Silk",
@@ -93245,15 +93787,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 2111430477,
-    "img_src": "https://cdn.tigertag.io/img?id=2111430477&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2111430477&v=3",
     "material": "ABS",
     "measure": "1000 g",
     "name": "Ziro3D ABS Basic - Black",
@@ -93261,7 +93803,7 @@
     "series": "ABS Basic",
     "sku": "ABS-BLACK-1000-175",
     "title": "ABS Basic - Ziro3D ABS Basic - Black",
-    "updated_at": null
+    "updated_at": 1786016069594
   },
   {
     "aspect1": "Basic",
@@ -96114,6 +96656,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#800080FF",
+    "color_info": {
+      "colors": [
+        "#800080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2173304035,
+    "img_src": "https://cdn.tigertag.io/img?id=2173304035&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Purple",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-PURPLE-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Purple",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -96444,15 +97009,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#D97B29FF",
+    "color": "#D97B29",
     "color_info": {
       "colors": [
-        "#D97B29FF"
+        "#D97B29",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 2181927396,
-    "img_src": "https://cdn.tigertag.io/img?id=2181927396&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2181927396&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Translucent Season - Autumn",
@@ -96460,7 +97026,7 @@
     "series": "PLA Gradient Translucent Season",
     "sku": "PLA-GRTRL-AUTUMN-1000-175",
     "title": "PLA Gradient Translucent Season - Ziro3D PLA Gradient Translucent Season - Autumn",
-    "updated_at": null
+    "updated_at": 1786021202711
   },
   {
     "aspect1": "Basic",
@@ -99780,15 +100346,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FF00FFFF",
+    "color": "#FF00FF",
     "color_info": {
       "colors": [
-        "#FF00FFFF"
+        "#FF00FF"
       ],
       "type": "mono"
     },
     "id": 2252922049,
-    "img_src": "https://cdn.tigertag.io/img?id=2252922049&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2252922049&v=3",
     "material": "PLA High Speed",
     "measure": "1000 g",
     "name": "Ziro3D HS-PLA - Magenta",
@@ -99796,7 +100362,7 @@
     "series": "HS-PLA",
     "sku": "HSPLA-MAGENTA-1000-175",
     "title": "HS-PLA - Ziro3D HS-PLA - Magenta",
-    "updated_at": null
+    "updated_at": 1786016882062
   },
   {
     "aspect1": "Basic",
@@ -100034,15 +100600,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#66FFFFFF",
+    "color": "#66FFFF",
     "color_info": {
       "colors": [
-        "#66FFFFFF"
+        "#66FFFF"
       ],
       "type": "mono"
     },
     "id": 2254761778,
-    "img_src": "https://cdn.tigertag.io/img?id=2254761778&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2254761778&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Glow in Dark - GID Cyan",
@@ -100050,7 +100616,7 @@
     "series": "PLA Glow in Dark",
     "sku": "PLA-GID-GID-CYAN-1000-175",
     "title": "PLA Glow in Dark - Ziro3D PLA Glow in Dark - GID Cyan",
-    "updated_at": null
+    "updated_at": 1786019560641
   },
   {
     "aspect1": "Matt",
@@ -106254,6 +106820,30 @@
     "updated_at": 1752830460609
   },
   {
+    "aspect1": "Tricolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#D4AF37FF",
+    "color_info": {
+      "colors": [
+        "#D4AF37FF",
+        "#C0C0C0FF"
+      ],
+      "type": "multi"
+    },
+    "id": 2399782267,
+    "img_src": "https://cdn.tigertag.io/img?id=2399782267&v=2",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Triple Co-extrusion Silky - Gold&Silver",
+    "product_type": "Filament",
+    "series": "PLA Triple Co-extrusion Silky",
+    "sku": "PLA-3CSLK-GOLD-SILVER-1000-175",
+    "title": "PLA Triple Co-extrusion Silky - Ziro3D PLA Triple Co-extrusion Silky - Gold&Silver",
+    "updated_at": null
+  },
+  {
     "aspect1": "None",
     "aspect2": null,
     "barcode": "",
@@ -108198,6 +108788,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Marble",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#C9DCEBFF",
+    "color_info": {
+      "colors": [
+        "#C9DCEBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2441598271,
+    "img_src": "https://cdn.tigertag.io/img?id=2441598271&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Stone - Blue&White PLA",
+    "product_type": "Filament",
+    "series": "PLA Stone",
+    "sku": "PLA-STN-BLUE-WHITE-PLA-1000-175",
+    "title": "PLA Stone - Ziro3D PLA Stone - Blue&White PLA",
+    "updated_at": null
+  },
+  {
     "aspect1": "Stone",
     "aspect2": null,
     "barcode": "6922572215672",
@@ -109693,15 +110306,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#A9D6E5FF",
+    "color": "#A9D6E5",
     "color_info": {
       "colors": [
-        "#A9D6E5FF"
+        "#A9D6E5",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 2471183786,
-    "img_src": "https://cdn.tigertag.io/img?id=2471183786&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2471183786&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Translucent Season - Winter",
@@ -109709,7 +110323,7 @@
     "series": "PLA Gradient Translucent Season",
     "sku": "PLA-GRTRL-WINTER-1000-175",
     "title": "PLA Gradient Translucent Season - Ziro3D PLA Gradient Translucent Season - Winter",
-    "updated_at": null
+    "updated_at": 1786021379680
   },
   {
     "aspect1": "Basic",
@@ -111402,6 +112016,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2524175533,
+    "img_src": "https://cdn.tigertag.io/img?id=2524175533&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Gray",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-GRAY-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Gray",
+    "updated_at": null
+  },
+  {
     "aspect1": "None",
     "aspect2": null,
     "barcode": "",
@@ -111866,6 +112503,29 @@
     "sku": "B0102497",
     "title": "PLA Silk - Black",
     "updated_at": 1785265639486
+  },
+  {
+    "aspect1": "Stone",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#D8C27AFF",
+    "color_info": {
+      "colors": [
+        "#D8C27AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2534370586,
+    "img_src": "https://cdn.tigertag.io/img?id=2534370586&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Stone - Straw fiber PLA",
+    "product_type": "Filament",
+    "series": "PLA Stone",
+    "sku": "PLA-STN-STRAW-FIBER-PLA-1000-175",
+    "title": "PLA Stone - Ziro3D PLA Stone - Straw fiber PLA",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -113984,15 +114644,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 2577222433,
-    "img_src": "https://cdn.tigertag.io/img?id=2577222433&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2577222433&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - Black",
@@ -114000,7 +114660,7 @@
     "series": "PETG",
     "sku": "PETG-BLACK-1000-175",
     "title": "PETG - Ziro3D PETG - Black",
-    "updated_at": null
+    "updated_at": 1786017090823
   },
   {
     "aspect1": "Basic",
@@ -114487,6 +115147,29 @@
     "sku": "5903175655219",
     "title": "PET-G Premium - Iceland Blue",
     "updated_at": 1785792598613
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFA36699",
+    "color_info": {
+      "colors": [
+        "#FFA36699"
+      ],
+      "type": "mono"
+    },
+    "id": 2590664512,
+    "img_src": "https://cdn.tigertag.io/img?id=2590664512&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Translucent - Translucent orange",
+    "product_type": "Filament",
+    "series": "PLA PRO Translucent",
+    "sku": "PLAPRO-TRL-TRANSLUCENT-ORANGE-1000-175",
+    "title": "PLA PRO Translucent - Ziro3D PLA PRO Translucent - Translucent orange",
+    "updated_at": null
   },
   {
     "aspect1": "Glow in the Dark",
@@ -116803,6 +117486,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2635667022,
+    "img_src": "https://cdn.tigertag.io/img?id=2635667022&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Black",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-BLACK-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Black",
+    "updated_at": null
+  },
+  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "5903175659583",
@@ -116894,6 +117600,29 @@
     "sku": "ASA+175H1P1",
     "title": "ASA+ - GREY",
     "updated_at": null
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#D4AF37",
+    "color_info": {
+      "colors": [
+        "#D4AF37"
+      ],
+      "type": "mono"
+    },
+    "id": 2638594795,
+    "img_src": "https://cdn.tigertag.io/img?id=2638594795&v=3",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Gold",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-GOLD-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Gold",
+    "updated_at": 1786023487200
   },
   {
     "aspect1": "Matt",
@@ -118343,15 +119072,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#C0C0C0FF",
+    "color": "#C0C0C0",
     "color_info": {
       "colors": [
-        "#C0C0C0FF"
+        "#C0C0C0"
       ],
       "type": "mono"
     },
     "id": 2672715037,
-    "img_src": "https://cdn.tigertag.io/img?id=2672715037&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2672715037&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - Silver",
@@ -118359,7 +119088,7 @@
     "series": "PETG",
     "sku": "PETG-SILVER-1000-175",
     "title": "PETG - Ziro3D PETG - Silver",
-    "updated_at": null
+    "updated_at": 1786017554954
   },
   {
     "aspect1": "Pastel",
@@ -122932,6 +123661,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFFF00FF",
+    "color_info": {
+      "colors": [
+        "#FFFF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2773809189,
+    "img_src": "https://cdn.tigertag.io/img?id=2773809189&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Yellow",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-YELLOW-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Yellow",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6974994170756",
     "brand": "Geeetech",
     "color": "#FFFFFFFF",
@@ -123922,6 +124674,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Marble",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#EDEDEDFF",
+    "color_info": {
+      "colors": [
+        "#EDEDEDFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2794351816,
+    "img_src": "https://cdn.tigertag.io/img?id=2794351816&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Stone - Marble White PLA",
+    "product_type": "Filament",
+    "series": "PLA Stone",
+    "sku": "PLA-STN-MARBLE-WHITE-PLA-1000-175",
+    "title": "PLA Stone - Ziro3D PLA Stone - Marble White PLA",
+    "updated_at": null
+  },
+  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "",
@@ -124173,6 +124948,29 @@
     "sku": "A19-B00-1.75-1000-splfree",
     "title": "PLA Pure - Baby Blue",
     "updated_at": 1785881346646
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#C0C0C0FF",
+    "color_info": {
+      "colors": [
+        "#C0C0C0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2801342752,
+    "img_src": "https://cdn.tigertag.io/img?id=2801342752&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Silver",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-SILVER-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Silver",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -129166,15 +129964,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#0000FFFF",
+    "color": "#0000FF",
     "color_info": {
       "colors": [
-        "#0000FFFF"
+        "#0000FF"
       ],
       "type": "mono"
     },
     "id": 2913184855,
-    "img_src": "https://cdn.tigertag.io/img?id=2913184855&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2913184855&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - Blue",
@@ -129182,7 +129980,7 @@
     "series": "PETG",
     "sku": "PETG-BLUE-1000-175",
     "title": "PETG - Ziro3D PETG - Blue",
-    "updated_at": null
+    "updated_at": 1786017166819
   },
   {
     "aspect1": "Clear",
@@ -130964,6 +131762,29 @@
     "series": "PLA",
     "sku": "512935",
     "title": "PLA - Silver",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#9EA0A1FF",
+    "color_info": {
+      "colors": [
+        "#9EA0A1FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2952314157,
+    "img_src": "https://cdn.tigertag.io/img?id=2952314157&v=2",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Silver gray",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-SILVER-GRAY-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Silver gray",
     "updated_at": null
   },
   {
@@ -133707,15 +134528,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#B7E4C7FF",
+    "color": "#B7E4C7",
     "color_info": {
       "colors": [
-        "#B7E4C7FF"
+        "#B7E4C7",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 3023366999,
-    "img_src": "https://cdn.tigertag.io/img?id=3023366999&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3023366999&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Translucent Season - Spring",
@@ -133723,7 +134545,7 @@
     "series": "PLA Gradient Translucent Season",
     "sku": "PLA-GRTRL-SPRING-1000-175",
     "title": "PLA Gradient Translucent Season - Ziro3D PLA Gradient Translucent Season - Spring",
-    "updated_at": null
+    "updated_at": 1786021256211
   },
   {
     "aspect1": "Marble",
@@ -135665,6 +136487,29 @@
     "sku": "B0FPR2DSBX",
     "title": "Matte PLA - Orange",
     "updated_at": 1785692630431
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFDBACFF",
+    "color_info": {
+      "colors": [
+        "#FFDBACFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3060729724,
+    "img_src": "https://cdn.tigertag.io/img?id=3060729724&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Skin",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-SKIN-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Skin",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -137738,15 +138583,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#4A4A4CFF",
+    "color": "#4A4A4C",
     "color_info": {
       "colors": [
-        "#4A4A4CFF"
+        "#4A4A4C"
       ],
       "type": "mono"
     },
     "id": 3104444309,
-    "img_src": "https://cdn.tigertag.io/img?id=3104444309&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3104444309&v=3",
     "material": "PLA-CF",
     "measure": "800 g",
     "name": "Ziro3D PLA Carbon Fiber - Space gray",
@@ -137754,7 +138599,7 @@
     "series": "PLA Carbon Fiber",
     "sku": "PLACF-SPACE-GRAY-800-175",
     "title": "PLA Carbon Fiber - Ziro3D PLA Carbon Fiber - Space gray",
-    "updated_at": null
+    "updated_at": 1786019016619
   },
   {
     "aspect1": "Basic",
@@ -138454,15 +139299,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#5A6B3DFF",
+    "color": "#5A6B3D",
     "color_info": {
       "colors": [
-        "#5A6B3DFF"
+        "#5A6B3D",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 3120315503,
-    "img_src": "https://cdn.tigertag.io/img?id=3120315503&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3120315503&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Matte - Camouflage",
@@ -138470,7 +139316,7 @@
     "series": "PLA Gradient Matte",
     "sku": "PLA-GRMAT-CAMOUFLAGE-1000-175",
     "title": "PLA Gradient Matte - Ziro3D PLA Gradient Matte - Camouflage",
-    "updated_at": null
+    "updated_at": 1786019813107
   },
   {
     "aspect1": "None",
@@ -141899,6 +142745,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#8F00FFFF",
+    "color_info": {
+      "colors": [
+        "#8F00FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3210355096,
+    "img_src": "https://cdn.tigertag.io/img?id=3210355096&v=2",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Violet",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-VIOLET-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Violet",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -144356,6 +145225,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Ziro",
+    "color": "#FF007FFF",
+    "color_info": {
+      "colors": [
+        "#FF007FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3259381770,
+    "img_src": "https://cdn.tigertag.io/img?id=3259381770&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Rose",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-ROSE-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Rose",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Wanhao",
     "color": "#E8590CFF",
     "color_info": {
@@ -145931,15 +146823,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFD166FF",
+    "color": "#FFD166",
     "color_info": {
       "colors": [
-        "#FFD166FF"
+        "#FFD166",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 3292406820,
-    "img_src": "https://cdn.tigertag.io/img?id=3292406820&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3292406820&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Translucent Season - Summer",
@@ -145947,7 +146840,7 @@
     "series": "PLA Gradient Translucent Season",
     "sku": "PLA-GRTRL-SUMMER-1000-175",
     "title": "PLA Gradient Translucent Season - Ziro3D PLA Gradient Translucent Season - Summer",
-    "updated_at": null
+    "updated_at": 1786021326168
   },
   {
     "aspect1": "Basic",
@@ -146605,15 +147498,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#0000FFFF",
+    "color": "#0000FF",
     "color_info": {
       "colors": [
-        "#0000FFFF"
+        "#0000FF"
       ],
       "type": "mono"
     },
     "id": 3306541073,
-    "img_src": "https://cdn.tigertag.io/img?id=3306541073&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3306541073&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Matte - Blue",
@@ -146621,7 +147514,7 @@
     "series": "PLA Matte",
     "sku": "PLA-MAT-BLUE-1000-175",
     "title": "PLA Matte - Ziro3D PLA Matte - Blue",
-    "updated_at": null
+    "updated_at": 1786021729284
   },
   {
     "aspect1": "Silk",
@@ -146742,6 +147635,29 @@
     "sku": "LTP04J05K11",
     "title": "PLA Force - Lotactree PLA Force Glow Rainbow",
     "updated_at": null
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#CD7F32",
+    "color_info": {
+      "colors": [
+        "#CD7F32"
+      ],
+      "type": "mono"
+    },
+    "id": 3310953746,
+    "img_src": "https://cdn.tigertag.io/img?id=3310953746&v=4",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Bronze",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-BRONZE-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Bronze",
+    "updated_at": 1786023549723
   },
   {
     "aspect1": "Basic",
@@ -155274,6 +156190,29 @@
     "updated_at": 1785274159050
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#66B2FF99",
+    "color_info": {
+      "colors": [
+        "#66B2FF99"
+      ],
+      "type": "mono"
+    },
+    "id": 3498794449,
+    "img_src": "https://cdn.tigertag.io/img?id=3498794449&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Translucent - Translucent blue",
+    "product_type": "Filament",
+    "series": "PLA PRO Translucent",
+    "sku": "PLAPRO-TRL-TRANSLUCENT-BLUE-1000-175",
+    "title": "PLA PRO Translucent - Ziro3D PLA PRO Translucent - Translucent blue",
+    "updated_at": null
+  },
+  {
     "aspect1": "Tricolor",
     "aspect2": null,
     "barcode": "5907753135858",
@@ -156921,15 +157860,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#8DAA6BFF",
+    "color": "#8DAA6B",
     "color_info": {
       "colors": [
-        "#8DAA6BFF"
+        "#8DAA6B",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 3535951300,
-    "img_src": "https://cdn.tigertag.io/img?id=3535951300&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3535951300&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Matte - Matcha",
@@ -156937,7 +157877,7 @@
     "series": "PLA Gradient Matte",
     "sku": "PLA-GRMAT-MATCHA-1000-175",
     "title": "PLA Gradient Matte - Ziro3D PLA Gradient Matte - Matcha",
-    "updated_at": null
+    "updated_at": 1786019980928
   },
   {
     "aspect1": "Basic",
@@ -157560,6 +158500,29 @@
     "series": "PETG-Matte",
     "sku": "PETG-MT175O-CH1R1",
     "title": "PETG-Matte - CONCRETE GREY",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FFFFFF4D",
+    "color_info": {
+      "colors": [
+        "#FFFFFF4D"
+      ],
+      "type": "mono"
+    },
+    "id": 3550621512,
+    "img_src": "https://cdn.tigertag.io/img?id=3550621512&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Translucent - Transparent / Clear",
+    "product_type": "Filament",
+    "series": "PLA PRO Translucent",
+    "sku": "PLAPRO-TRL-TRANSPARENT-CLEAR-1000-175",
+    "title": "PLA PRO Translucent - Ziro3D PLA PRO Translucent - Transparent / Clear",
     "updated_at": null
   },
   {
@@ -160759,15 +161722,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#4B5320FF",
+    "color": "#4B5320",
     "color_info": {
       "colors": [
-        "#4B5320FF"
+        "#4B5320"
       ],
       "type": "mono"
     },
     "id": 3629540331,
-    "img_src": "https://cdn.tigertag.io/img?id=3629540331&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3629540331&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Matte - Military green",
@@ -160775,7 +161738,7 @@
     "series": "PLA Matte",
     "sku": "PLA-MAT-MILITARY-GREEN-1000-175",
     "title": "PLA Matte - Ziro3D PLA Matte - Military green",
-    "updated_at": null
+    "updated_at": 1786021972506
   },
   {
     "aspect1": "Translucent",
@@ -160943,15 +161906,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#800080FF",
+    "color": "#800080",
     "color_info": {
       "colors": [
-        "#800080FF"
+        "#800080"
       ],
       "type": "mono"
     },
     "id": 3632800359,
-    "img_src": "https://cdn.tigertag.io/img?id=3632800359&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3632800359&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Matte - Purple",
@@ -160959,7 +161922,7 @@
     "series": "PLA Matte",
     "sku": "PLA-MAT-PURPLE-1000-175",
     "title": "PLA Matte - Ziro3D PLA Matte - Purple",
-    "updated_at": null
+    "updated_at": 1786024313424
   },
   {
     "aspect1": "Basic",
@@ -161700,6 +162663,29 @@
     "sku": "PMX-SDUAL-PURPLEGREEN",
     "title": "PLA Silk Dual Color - Silk Dual Color Purple/Green",
     "updated_at": 1785394142046
+  },
+  {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#0000FF",
+    "color_info": {
+      "colors": [
+        "#0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3646547765,
+    "img_src": "https://cdn.tigertag.io/img?id=3646547765&v=3",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Blue",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-BLUE-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Blue",
+    "updated_at": 1786023630719
   },
   {
     "aspect1": "Basic",
@@ -163877,6 +164863,29 @@
     "updated_at": 1785249981237
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#800080FF",
+    "color_info": {
+      "colors": [
+        "#800080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3705208314,
+    "img_src": "https://cdn.tigertag.io/img?id=3705208314&v=2",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Purple",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-PURPLE-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Purple",
+    "updated_at": null
+  },
+  {
     "aspect1": "None",
     "aspect2": null,
     "barcode": "",
@@ -165265,6 +166274,30 @@
     "updated_at": null
   },
   {
+    "aspect1": "Tricolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#D4AF37FF",
+    "color_info": {
+      "colors": [
+        "#D4AF37FF",
+        "#FF0000FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3738472359,
+    "img_src": "https://cdn.tigertag.io/img?id=3738472359&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Triple Co-extrusion Silky - Gold&Red",
+    "product_type": "Filament",
+    "series": "PLA Triple Co-extrusion Silky",
+    "sku": "PLA-3CSLK-GOLD-RED-1000-175",
+    "title": "PLA Triple Co-extrusion Silky - Ziro3D PLA Triple Co-extrusion Silky - Gold&Red",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "5907753130570",
@@ -165805,15 +166838,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFFF00FF",
+    "color": "#FFFF00",
     "color_info": {
       "colors": [
-        "#FFFF00FF"
+        "#FFFF00"
       ],
       "type": "mono"
     },
     "id": 3749498143,
-    "img_src": "https://cdn.tigertag.io/img?id=3749498143&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3749498143&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "name": "Ziro3D PETG - Yellow",
@@ -165821,7 +166854,7 @@
     "series": "PETG",
     "sku": "PETG-YELLOW-1000-175",
     "title": "PETG - Ziro3D PETG - Yellow",
-    "updated_at": null
+    "updated_at": 1786017845829
   },
   {
     "aspect1": "Basic",
@@ -166569,6 +167602,29 @@
     "series": "PLA-Rapid",
     "sku": "PLA-Grey-New",
     "title": "PLA-Rapid - Rapid PLA  3D Printer Filament 1.75mm, 1 KG,  Grey",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#008000FF",
+    "color_info": {
+      "colors": [
+        "#008000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3766864197,
+    "img_src": "https://cdn.tigertag.io/img?id=3766864197&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Basic - Green",
+    "product_type": "Filament",
+    "series": "PLA PRO Basic",
+    "sku": "PLAPRO-BAS-GREEN-1000-175",
+    "title": "PLA PRO Basic - Ziro3D PLA PRO Basic - Green",
     "updated_at": null
   },
   {
@@ -167476,15 +168532,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFFF00FF",
+    "color": "#FFFF00",
     "color_info": {
       "colors": [
-        "#FFFF00FF"
+        "#FFFF00"
       ],
       "type": "mono"
     },
     "id": 3790371756,
-    "img_src": "https://cdn.tigertag.io/img?id=3790371756&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3790371756&v=3",
     "material": "PLA High Speed",
     "measure": "1000 g",
     "name": "Ziro3D HS-PLA - Yellow",
@@ -167492,7 +168548,7 @@
     "series": "HS-PLA",
     "sku": "HSPLA-YELLOW-1000-175",
     "title": "HS-PLA - Ziro3D HS-PLA - Yellow",
-    "updated_at": null
+    "updated_at": 1786017010541
   },
   {
     "aspect1": "Glitter",
@@ -167637,15 +168693,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#5C3A21FF",
+    "color": "#5C3A21",
     "color_info": {
       "colors": [
-        "#5C3A21FF"
+        "#5C3A21"
       ],
       "type": "mono"
     },
     "id": 3793873609,
-    "img_src": "https://cdn.tigertag.io/img?id=3793873609&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3793873609&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Matte - Chocolate",
@@ -167653,7 +168709,7 @@
     "series": "PLA Matte",
     "sku": "PLA-MAT-CHOCOLATE-1000-175",
     "title": "PLA Matte - Ziro3D PLA Matte - Chocolate",
-    "updated_at": null
+    "updated_at": 1786021782698
   },
   {
     "aspect1": "Silk",
@@ -168786,6 +169842,29 @@
     "updated_at": 1763017907060
   },
   {
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#5A5A5AFF",
+    "color_info": {
+      "colors": [
+        "#5A5A5AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3829028894,
+    "img_src": "https://cdn.tigertag.io/img?id=3829028894&v=2",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Silky - Silver black",
+    "product_type": "Filament",
+    "series": "PLA Silky",
+    "sku": "PLA-SLK-SILVER-BLACK-1000-175",
+    "title": "PLA Silky - Ziro3D PLA Silky - Silver black",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -169069,15 +170148,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 3837563202,
-    "img_src": "https://cdn.tigertag.io/img?id=3837563202&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3837563202&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Matte - White",
@@ -169085,7 +170164,7 @@
     "series": "PLA Matte",
     "sku": "PLA-MAT-WHITE-1000-175",
     "title": "PLA Matte - Ziro3D PLA Matte - White",
-    "updated_at": null
+    "updated_at": 1786024407166
   },
   {
     "aspect1": "Basic",
@@ -170150,6 +171229,31 @@
     "updated_at": null
   },
   {
+    "aspect1": "Tricolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#7BDFF2FF",
+    "color_info": {
+      "colors": [
+        "#7BDFF2FF",
+        "#B8E0D2FF",
+        "#D8B4E2FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3874921067,
+    "img_src": "https://cdn.tigertag.io/img?id=3874921067&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Triple Co-extrusion Silky - Aurora",
+    "product_type": "Filament",
+    "series": "PLA Triple Co-extrusion Silky",
+    "sku": "PLA-3CSLK-AURORA-1000-175",
+    "title": "PLA Triple Co-extrusion Silky - Ziro3D PLA Triple Co-extrusion Silky - Aurora",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -170338,15 +171442,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 3876518047,
-    "img_src": "https://cdn.tigertag.io/img?id=3876518047&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3876518047&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Matte - Black",
@@ -170354,7 +171458,7 @@
     "series": "PLA Matte",
     "sku": "PLA-MAT-BLACK-1000-175",
     "title": "PLA Matte - Ziro3D PLA Matte - Black",
-    "updated_at": null
+    "updated_at": 1786021656210
   },
   {
     "aspect1": "Basic",
@@ -172463,6 +173567,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#FF6B6B99",
+    "color_info": {
+      "colors": [
+        "#FF6B6B99"
+      ],
+      "type": "mono"
+    },
+    "id": 3923081103,
+    "img_src": "https://cdn.tigertag.io/img?id=3923081103&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA PRO Translucent - Translucent red",
+    "product_type": "Filament",
+    "series": "PLA PRO Translucent",
+    "sku": "PLAPRO-TRL-TRANSLUCENT-RED-1000-175",
+    "title": "PLA PRO Translucent - Ziro3D PLA PRO Translucent - Translucent red",
+    "updated_at": null
+  },
+  {
     "aspect1": "Glow in the Dark",
     "aspect2": null,
     "barcode": "6974994170510",
@@ -173487,15 +174614,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#4D94FFFF",
+    "color": "#4D94FF",
     "color_info": {
       "colors": [
-        "#4D94FFFF"
+        "#4D94FF"
       ],
       "type": "mono"
     },
     "id": 3948114265,
-    "img_src": "https://cdn.tigertag.io/img?id=3948114265&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3948114265&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Glow in Dark - GID Blue",
@@ -173503,7 +174630,7 @@
     "series": "PLA Glow in Dark",
     "sku": "PLA-GID-GID-BLUE-1000-175",
     "title": "PLA Glow in Dark - Ziro3D PLA Glow in Dark - GID Blue",
-    "updated_at": null
+    "updated_at": 1786019495412
   },
   {
     "aspect1": "Basic",
@@ -173556,15 +174683,16 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FF8FB1FF",
+    "color": "#FF8FB1",
     "color_info": {
       "colors": [
-        "#FF8FB1FF"
+        "#FF8FB1",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 3948823882,
-    "img_src": "https://cdn.tigertag.io/img?id=3948823882&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3948823882&v=3",
     "material": "PLA Silk",
     "measure": "1000 g",
     "name": "Ziro3D PLA Gradient Silky - Romantic",
@@ -173572,7 +174700,7 @@
     "series": "PLA Gradient Silky",
     "sku": "PLA-GRSLK-ROMANTIC-1000-175",
     "title": "PLA Gradient Silky - Ziro3D PLA Gradient Silky - Romantic",
-    "updated_at": null
+    "updated_at": 1786020984786
   },
   {
     "aspect1": "Basic",
@@ -174152,6 +175280,31 @@
     "sku": "50.203.0189",
     "title": "PLA Pro - White",
     "updated_at": 1784635098321
+  },
+  {
+    "aspect1": "Tricolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#0000FFFF",
+    "color_info": {
+      "colors": [
+        "#0000FFFF",
+        "#008000FF",
+        "#800080FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3963072547,
+    "img_src": "https://cdn.tigertag.io/img?id=3963072547&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Triple Co-extrusion Silky - Blue&Green&Purp",
+    "product_type": "Filament",
+    "series": "PLA Triple Co-extrusion Silky",
+    "sku": "PLA-3CSLK-BLUE-GREEN-PURP-1000-175",
+    "title": "PLA Triple Co-extrusion Silky - Ziro3D PLA Triple Co-extrusion Silky - Blue&Green&Purp",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -180213,15 +181366,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#66FF66FF",
+    "color": "#66FF66",
     "color_info": {
       "colors": [
-        "#66FF66FF"
+        "#66FF66"
       ],
       "type": "mono"
     },
     "id": 4096230417,
-    "img_src": "https://cdn.tigertag.io/img?id=4096230417&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4096230417&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Glow in Dark - GID Green",
@@ -180229,7 +181382,7 @@
     "series": "PLA Glow in Dark",
     "sku": "PLA-GID-GID-GREEN-1000-175",
     "title": "PLA Glow in Dark - Ziro3D PLA Glow in Dark - GID Green",
-    "updated_at": null
+    "updated_at": 1786019619018
   },
   {
     "aspect1": "Basic",
@@ -185163,15 +186316,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 4205668179,
-    "img_src": "https://cdn.tigertag.io/img?id=4205668179&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4205668179&v=3",
     "material": "ABS",
     "measure": "1000 g",
     "name": "Ziro3D ABS Basic - White",
@@ -185179,7 +186332,7 @@
     "series": "ABS Basic",
     "sku": "ABS-WHITE-1000-175",
     "title": "ABS Basic - Ziro3D ABS Basic - White",
-    "updated_at": null
+    "updated_at": 1786016292011
   },
   {
     "aspect1": "Basic",
@@ -186066,6 +187219,30 @@
     "updated_at": 1785256535336
   },
   {
+    "aspect1": "Tricolor",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Ziro",
+    "color": "#F7C6D9FF",
+    "color_info": {
+      "colors": [
+        "#F7C6D9FF",
+        "#FFFFFFFF"
+      ],
+      "type": "multi"
+    },
+    "id": 4228050416,
+    "img_src": "https://cdn.tigertag.io/img?id=4228050416&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ziro3D PLA Triple Co-extrusion Matte - Rosy cloud",
+    "product_type": "Filament",
+    "series": "PLA Triple Co-extrusion Matte",
+    "sku": "PLA-3CMAT-ROSY-CLOUD-1000-175",
+    "title": "PLA Triple Co-extrusion Matte - Ziro3D PLA Triple Co-extrusion Matte - Rosy cloud",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "5903175658036",
@@ -186948,15 +188125,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Ziro",
-    "color": "#0000FFFF",
+    "color": "#0000FF",
     "color_info": {
       "colors": [
-        "#0000FFFF"
+        "#0000FF"
       ],
       "type": "mono"
     },
     "id": 4246559346,
-    "img_src": "https://cdn.tigertag.io/img?id=4246559346&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4246559346&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "name": "Ziro3D PLA Diamond - Blue",
@@ -186964,7 +188141,7 @@
     "series": "PLA Diamond",
     "sku": "PLA-DIA-BLUE-1000-175",
     "title": "PLA Diamond - Ziro3D PLA Diamond - Blue",
-    "updated_at": null
+    "updated_at": 1786019199552
   },
   {
     "aspect1": "Translucent",
