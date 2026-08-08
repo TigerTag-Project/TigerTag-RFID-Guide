@@ -52,7 +52,7 @@ Prusa Research, GS1, Bluetooth SIG).
 > this document is the one a partner reads before signing.
 
 TigerTag refers to the **RFID material-identification protocol**, the **cloud service**
-(`tigertag.io`), and the **official product catalogue**.
+(`tigersystem.io`), and the **official product catalogue**.
 
 You **may** reference "TigerTag" in a factual, descriptive way
 (e.g. *"compatible with TigerTag"*, *"reads TigerTag spools"*, *"implements the TigerTag

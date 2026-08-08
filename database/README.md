@@ -19,7 +19,7 @@ require an explicit grant before anyone could lawfully extract and re-use a subs
 of it. CC0 waives that right along with copyright. Maximum adoption is the goal; a registry
 that manufacturers hesitate to embed is a registry that fails.
 
-We would still enjoy a credit and a link to <https://tigertag.io>. You do not owe us one.
+We would still enjoy a credit and a link to <https://tigersystem.io>. You do not owe us one.
 
 `database/db_update.py` is **source code**, not data, and is licensed under
 [Apache-2.0](../LICENSES/Apache-2.0.txt). See [`../LICENSING.md`](../LICENSING.md).

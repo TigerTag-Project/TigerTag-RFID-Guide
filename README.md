@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tigertag.io">
+  <a href="https://tigersystem.io">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="brand/logo_tigertag.svg">
       <img src="brand/logo_tigertag_contouring.svg" alt="TigerTag logo" height="160">
@@ -10,7 +10,7 @@
 <h1 align="center">TigerTag NFC (RFID-compatible) — open protocol for material identification</h1>
 
 <p align="center">
-  <a href="https://tigertag.io">tigertag.io</a>
+  <a href="https://tigersystem.io">tigersystem.io</a>
   ·
   <a href="https://api.tigertag.io/api:tigertag">Public API</a>
   ·
@@ -831,7 +831,7 @@ Below are the official **TigerTag-Project apps and tools** — all
 open-source where indicated — that consume that API. For developer
 references, the protocol specification is the rest of this document;
 the API is documented at <https://api.tigertag.io/api:tigertag>, and
-the project website is <https://tigertag.io>.
+the project website is <https://tigersystem.io>.
 
 <p align="center">
   <img src="Images/TigerPOD_System.png" alt="The TigerTag system: a TigerTag Pod holding a spool, Tiger Studio Manager showing the filament inventory on a desktop, and the TigerTag RFID Connect mobile app scanning a tag" width="820">

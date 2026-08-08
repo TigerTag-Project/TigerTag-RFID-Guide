@@ -34,6 +34,6 @@ If you're using Spoolman and want to import our materials database:
 
 ## 🛠 About TigerTag
 
-TigerTag is an open-source protocol for embedding NFC/RFID data into 3D printing workflows. Learn more at [TigerTag.io](https://www.tigertag.io).
+TigerTag is an open-source protocol for embedding NFC/RFID data into 3D printing workflows. Learn more at [tigersystem.io](https://tigersystem.io).
 
 ---
