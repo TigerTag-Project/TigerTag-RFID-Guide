@@ -1479,17 +1479,40 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": "6949551138968",
+    "barcode": "",
     "brand": "Sunlu",
-    "color": "#1C1C1CFF",
+    "color": "#FFFFFFFF",
     "color_info": {
       "colors": [
-        "#1C1C1CFF"
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 36382151,
+    "img_src": "https://cdn.tigertag.io/img?id=36382151&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-WHITE-1KG-A",
+    "title": "PLA Meta - White",
+    "updated_at": 1786237377377
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "6949551138968",
+    "brand": "Sunlu",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 36397554,
-    "img_src": "https://cdn.tigertag.io/img?id=36397554&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=36397554&v=4",
     "material": "ASA",
     "measure": "1 kg",
     "name": "Black",
@@ -1497,7 +1520,7 @@
     "series": "ASA",
     "sku": "SL-ASA-BLACK",
     "title": "ASA - Black",
-    "updated_at": null
+    "updated_at": 1786233701700
   },
   {
     "aspect1": "Basic",
@@ -2542,15 +2565,15 @@
     "aspect2": null,
     "barcode": "6949575280001",
     "brand": "Sunlu",
-    "color": "#EFE8D8FF",
+    "color": "#EFE8D8",
     "color_info": {
       "colors": [
-        "#EFE8D8FF"
+        "#EFE8D8"
       ],
       "type": "mono"
     },
     "id": 57160108,
-    "img_src": "https://cdn.tigertag.io/img?id=57160108&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=57160108&v=3",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Cream White",
@@ -2558,7 +2581,7 @@
     "series": "Silk TPU",
     "sku": "SL-SILKTPU-CREAMWHITE",
     "title": "Silk TPU - Cream White",
-    "updated_at": null
+    "updated_at": 1786230548195
   },
   {
     "aspect1": "Basic",
@@ -2605,6 +2628,29 @@
     "sku": "A17-B2-1.75-1000-spl",
     "title": "PLA Translucent - Teal",
     "updated_at": 1785872960363
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#D6313D80",
+    "color_info": {
+      "colors": [
+        "#D6313D80"
+      ],
+      "type": "mono"
+    },
+    "id": 57945492,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-TRRD-1KG-A",
+    "title": "PLA+ - Transparent Red",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -3158,6 +3204,52 @@
     "sku": "700-001-1574",
     "title": "PLA Silk Dual Color - Gold+Red",
     "updated_at": 1785607601628
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E0E2E6FF",
+    "color_info": {
+      "colors": [
+        "#E0E2E6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 71141505,
+    "img_src": "https://cdn.tigertag.io/img?id=71141505&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Ceramic White",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-CERA-1KG-A",
+    "title": "PETG - Ceramic White",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FDD4DEFF",
+    "color_info": {
+      "colors": [
+        "#FDD4DEFF"
+      ],
+      "type": "mono"
+    },
+    "id": 72377740,
+    "img_src": "https://cdn.tigertag.io/img?id=72377740&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sakura Pink",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-SAKURAPINK-1KG-A",
+    "title": "PLA Meta - Sakura Pink",
+    "updated_at": 1786237377377
   },
   {
     "aspect1": "Matt",
@@ -4390,6 +4482,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#75787BFF",
+    "color_info": {
+      "colors": [
+        "#75787BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 92264897,
+    "img_src": "https://media.sunlu.com/prod/20260323/a0cf87dd-4188-44f4-87d2-48d14aeb79f5.jpg",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-GREY-1KG-A",
+    "title": "High Speed ABS - Grey",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6922572220867",
     "brand": "eSun",
     "color": "#D2D755FF",
@@ -4455,6 +4570,29 @@
     "sku": "175MPLA-UGCAM-0750",
     "title": "Matt PLA - Urban Grey Camouflage",
     "updated_at": 1784884929574
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#476EFC80",
+    "color_info": {
+      "colors": [
+        "#476EFC80"
+      ],
+      "type": "mono"
+    },
+    "id": 93767231,
+    "img_src": "https://cdn.tigertag.io/img?id=93767231&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-TRAN-1KG-A",
+    "title": "PETG - Transparent Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -4803,6 +4941,30 @@
     "sku": "HCGS014",
     "title": "PETG Rapid - White",
     "updated_at": 1785500672967
+  },
+  {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF",
+        "#9400D3FF"
+      ],
+      "type": "gradient"
+    },
+    "id": 100233313,
+    "img_src": "https://cdn.tigertag.io/img?id=100233313&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Rainbow 04",
+    "product_type": "Filament",
+    "series": "Rainbow PLA",
+    "sku": "SL-N-RAINBOWPLA-04-1KG-A",
+    "title": "Rainbow PLA - Rainbow 04",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -5662,6 +5824,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FFFFF9",
+    "color_info": {
+      "colors": [
+        "#FFFFF9"
+      ],
+      "type": "mono"
+    },
+    "id": 120213903,
+    "img_src": "https://cdn.tigertag.io/img?id=120213903&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-WHITE-1KG-A",
+    "title": "PLA Lite - White",
+    "updated_at": 1786232659565
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "",
@@ -6214,6 +6399,29 @@
     "series": "PLA Standard",
     "sku": "117570160500",
     "title": "PLA Standard - FRANCOFIL PLA Anthracite RAL 7016 3D Printer Filament 1.75mm",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E7E7E580",
+    "color_info": {
+      "colors": [
+        "#E7E7E580"
+      ],
+      "type": "mono"
+    },
+    "id": 133238593,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-TR-1KG-A",
+    "title": "PLA+ - Transparent",
     "updated_at": null
   },
   {
@@ -7263,6 +7471,29 @@
     "sku": "B0DPWMSMNQ",
     "title": "High-Speed PLA - White",
     "updated_at": null
+  },
+  {
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#202020",
+    "color_info": {
+      "colors": [
+        "#202020"
+      ],
+      "type": "mono"
+    },
+    "id": 158819090,
+    "img_src": "https://cdn.tigertag.io/img?id=158819090&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Twinkling Black",
+    "product_type": "Filament",
+    "series": "Twinkling PLA",
+    "sku": "SL-N-TWPLA-BLK-1KG-A",
+    "title": "Twinkling PLA - Twinkling Black",
+    "updated_at": 1786229905820
   },
   {
     "aspect1": "Basic",
@@ -8450,6 +8681,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F2F0A1",
+    "color_info": {
+      "colors": [
+        "#F2F0A1"
+      ],
+      "type": "mono"
+    },
+    "id": 189512430,
+    "img_src": "https://cdn.tigertag.io/img?id=189512430&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Lemon Yellow",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-LEMONYELLOW-1KG-A",
+    "title": "PLA Lite - Lemon Yellow",
+    "updated_at": 1786232239164
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "5907753134882",
     "brand": "Rosa3D",
     "color": "#4E3524FF",
@@ -8676,6 +8930,29 @@
     "sku": "PLA- Black-New",
     "title": "PLA-Rapid - Rapid PLA  3D Printer Filament 1.75mm, 1 KG, Black",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FD404B",
+    "color_info": {
+      "colors": [
+        "#FD404B"
+      ],
+      "type": "mono"
+    },
+    "id": 196149406,
+    "img_src": "https://cdn.tigertag.io/img?id=196149406&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Cherry Red",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-CHERRYRED-1KG-A",
+    "title": "PLA Lite - Cherry Red",
+    "updated_at": 1786232029472
   },
   {
     "aspect1": "Basic",
@@ -9744,6 +10021,29 @@
     "sku": "1",
     "title": "Nylon - Aramid + LockPad",
     "updated_at": 1785715876014
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#05B12280",
+    "color_info": {
+      "colors": [
+        "#05B12280"
+      ],
+      "type": "mono"
+    },
+    "id": 221420955,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-TRGN-1KG-A",
+    "title": "PLA+ - Transparent Green",
+    "updated_at": null
   },
   {
     "aspect1": "Translucent",
@@ -11874,6 +12174,29 @@
     "updated_at": 1785265586482
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#05B12280",
+    "color_info": {
+      "colors": [
+        "#05B12280"
+      ],
+      "type": "mono"
+    },
+    "id": 257142694,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-TRGN-1KG-A",
+    "title": "PLA+ - Transparent Green",
+    "updated_at": null
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "8435532915027",
@@ -12936,6 +13259,29 @@
     "sku": "R3DT1R104NMS",
     "title": "PEBA 90A - Coral Orange",
     "updated_at": 1765943050665
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#476EFC80",
+    "color_info": {
+      "colors": [
+        "#476EFC80"
+      ],
+      "type": "mono"
+    },
+    "id": 277395756,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-TRBL-1KG-A",
+    "title": "PLA+ - Transparent Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -17171,6 +17517,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#AC892EFF",
+    "color_info": {
+      "colors": [
+        "#AC892EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 367511435,
+    "img_src": "https://cdn.tigertag.io/img?id=367511435&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Gold",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-GLD-1KG-A",
+    "title": "PLA+ - Gold",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFF5EEFF",
@@ -18528,6 +18897,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 398176626,
+    "img_src": "https://cdn.tigertag.io/img?id=398176626&v=7",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "ABS-FR Black",
+    "product_type": "Filament",
+    "series": "ABS-FR",
+    "sku": "SL-N-ABSFR-BLK-1KG-A",
+    "title": "ABS-FR - ABS-FR Black",
+    "updated_at": 1786237840680
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "",
@@ -19060,6 +19452,29 @@
     "updated_at": 1785277891449
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F9E82C80",
+    "color_info": {
+      "colors": [
+        "#F9E82C80"
+      ],
+      "type": "mono"
+    },
+    "id": 410166755,
+    "img_src": "https://cdn.tigertag.io/img?id=410166755&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Yellow",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-TRYL-1KG-A",
+    "title": "PLA - Transparent Yellow",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "60391293",
@@ -19453,6 +19868,29 @@
     "updated_at": 1785720907181
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F0804E80",
+    "color_info": {
+      "colors": [
+        "#F0804E80"
+      ],
+      "type": "mono"
+    },
+    "id": 416591286,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Orange",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-TRO-1KG-A",
+    "title": "PLA+ - Transparent Orange",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6922572219021.0",
@@ -19754,6 +20192,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E84245FF",
+    "color_info": {
+      "colors": [
+        "#E84245FF"
+      ],
+      "type": "mono"
+    },
+    "id": 426649440,
+    "img_src": "https://cdn.tigertag.io/img?id=426649440&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Cherry Red",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-CHER-1KG-A",
+    "title": "PETG - Cherry Red",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -19894,6 +20355,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Sunlu",
+    "color": "#00A4E1",
+    "color_info": {
+      "colors": [
+        "#00A4E1"
+      ],
+      "type": "mono"
+    },
+    "id": 429249367,
+    "img_src": "https://cdn.tigertag.io/img?id=429249367&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Pri-Cyan",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-PRICYAN-1KG-A",
+    "title": "PLA Lite - Pri-Cyan",
+    "updated_at": 1786232364113
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Smart3DPT",
     "color": "#FFFFFFFF",
     "color_info": {
@@ -19935,6 +20419,29 @@
     "sku": "DLZ-JY-HSMPLA-SB-1.1kg",
     "title": "High Speed Matte PLA - Sky Blue",
     "updated_at": 1785281659018
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#05B12280",
+    "color_info": {
+      "colors": [
+        "#05B12280"
+      ],
+      "type": "mono"
+    },
+    "id": 429885738,
+    "img_src": "https://cdn.tigertag.io/img?id=429885738&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-TRGN-1KG-A",
+    "title": "PLA - Transparent Green",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -22878,6 +23385,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#2C1916FF",
+    "color_info": {
+      "colors": [
+        "#2C1916FF"
+      ],
+      "type": "mono"
+    },
+    "id": 494466485,
+    "img_src": "https://cdn.tigertag.io/img?id=494466485&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Roasted Chestnut Black",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-RCB-1KG-A",
+    "title": "PLA - Roasted Chestnut Black",
+    "updated_at": null
+  },
+  {
     "aspect1": "Pastel",
     "aspect2": null,
     "barcode": "",
@@ -23525,6 +24055,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FBF9AFFF",
+    "color_info": {
+      "colors": [
+        "#FBF9AFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 506977928,
+    "img_src": "https://cdn.tigertag.io/img?id=506977928&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Lemon Yellow",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-LEMONYELLOW-1KG-A",
+    "title": "PLA Meta - Lemon Yellow",
+    "updated_at": 1786237377377
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6922572240063.0",
     "brand": "eSun",
     "color": "#9D9C9E",
@@ -24095,6 +24648,29 @@
     "series": "PLA Wood",
     "sku": "S3D-PLA-WOD-TAN",
     "title": "PLA Wood - SMART3DPT PLA Wood Tan",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E0E2E6FF",
+    "color_info": {
+      "colors": [
+        "#E0E2E6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 517454946,
+    "img_src": "https://cdn.tigertag.io/img?id=517454946&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Ceramic White",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-CERA-1KG-A",
+    "title": "PETG - Ceramic White",
     "updated_at": null
   },
   {
@@ -25507,6 +26083,29 @@
     "updated_at": 1784633601247
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F0804E80",
+    "color_info": {
+      "colors": [
+        "#F0804E80"
+      ],
+      "type": "mono"
+    },
+    "id": 545745833,
+    "img_src": "https://cdn.tigertag.io/img?id=545745833&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Orange",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-TRor-1KG-A",
+    "title": "PLA - Transparent Orange",
+    "updated_at": null
+  },
+  {
     "aspect1": "Glow in the Dark",
     "aspect2": null,
     "barcode": "",
@@ -26109,6 +26708,29 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175Q-K1P1",
     "title": "PLA+ with spool - LIGHT KHAKI",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#2C1916FF",
+    "color_info": {
+      "colors": [
+        "#2C1916FF"
+      ],
+      "type": "mono"
+    },
+    "id": 562445870,
+    "img_src": "https://cdn.tigertag.io/img?id=562445870&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Roasted Chestnut Black",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-RCB-1KG-A",
+    "title": "PLA+ - Roasted Chestnut Black",
     "updated_at": null
   },
   {
@@ -26831,6 +27453,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#009CA6FF",
+    "color_info": {
+      "colors": [
+        "#009CA6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 580721347,
+    "img_src": "https://cdn.tigertag.io/img?id=580721347&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Teal",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-TEAL-1KG-A",
+    "title": "PLA Meta - Teal",
+    "updated_at": 1786237377377
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "",
@@ -26898,6 +27543,29 @@
     "sku": "A06-Y1-1.75-1000-splfree",
     "title": "PLA Silk+ - Gold",
     "updated_at": 1785881346646
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E0E2E6FF",
+    "color_info": {
+      "colors": [
+        "#E0E2E6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 582002013,
+    "img_src": "https://cdn.tigertag.io/img?id=582002013&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Ceramic White",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-CMW-1KG-A",
+    "title": "PLA - Ceramic White",
+    "updated_at": null
   },
   {
     "aspect1": "Clear",
@@ -29051,6 +29719,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#1B3A73",
+    "color_info": {
+      "colors": [
+        "#1B3A73"
+      ],
+      "type": "mono"
+    },
+    "id": 627397659,
+    "img_src": "https://cdn.tigertag.io/img?id=627397659&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Twinkling Blue",
+    "product_type": "Filament",
+    "series": "Twinkling PLA",
+    "sku": "SL-N-TWPLA-BLU-1KG-A",
+    "title": "Twinkling PLA - Twinkling Blue",
+    "updated_at": 1786229863786
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "6938936709800",
@@ -29098,7 +29789,7 @@
   },
   {
     "aspect1": "Matt",
-    "aspect2": null,
+    "aspect2": "Bicolor",
     "barcode": "6949575283132",
     "brand": "Sunlu",
     "color": "#C77A2EFF",
@@ -29118,7 +29809,7 @@
     "series": "Matte Dual-Color PLA",
     "sku": "SL-MATTEDC-ORANGERED",
     "title": "Matte Dual-Color PLA - Orange+Red",
-    "updated_at": null
+    "updated_at": 1786230714965
   },
   {
     "aspect1": "Basic",
@@ -29884,6 +30575,29 @@
     "sku": "FPR171-2008",
     "title": "PLA Original - ORANGE",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#AEEAFF",
+    "color_info": {
+      "colors": [
+        "#AEEAFF"
+      ],
+      "type": "mono"
+    },
+    "id": 642918533,
+    "img_src": "https://cdn.tigertag.io/img?id=642918533&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-SKYBLUE-1KG-A",
+    "title": "PLA Lite - Sky Blue",
+    "updated_at": 1786232574172
   },
   {
     "aspect1": "Silk",
@@ -31919,6 +32633,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#EFB0C9FF",
+    "color_info": {
+      "colors": [
+        "#EFB0C9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 686101266,
+    "img_src": "https://cdn.tigertag.io/img?id=686101266&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Sakura Pink",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-SAKU-1KG-A",
+    "title": "PETG - Sakura Pink",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8435532917502",
     "brand": "Winkle",
     "color": "#1CA9C9",
@@ -32285,6 +33022,29 @@
     "sku": "376034597295",
     "title": "PLA - EF Gray",
     "updated_at": 1763046714429
+  },
+  {
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#DCEABEFF",
+    "color_info": {
+      "colors": [
+        "#DCEABEFF"
+      ],
+      "type": "mono"
+    },
+    "id": 692874096,
+    "img_src": "https://cdn.tigertag.io/img?id=692874096&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Glow in the Dark White (to Green)",
+    "product_type": "Filament",
+    "series": "PETG Glow in the Dark",
+    "sku": "SL-N-PETGGLOW-WHITETOGREEN-1KG-A",
+    "title": "PETG Glow in the Dark - Glow in the Dark White (to Green)",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -33303,6 +34063,29 @@
     "sku": "B0DZGXXZDD",
     "title": "PETG Pro - Grey",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#906557",
+    "color_info": {
+      "colors": [
+        "#906557"
+      ],
+      "type": "mono"
+    },
+    "id": 715920059,
+    "img_src": "https://cdn.tigertag.io/img?id=715920059&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Chocolate",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-CHOCOLATE-1KG-A",
+    "title": "PLA Lite - Chocolate",
+    "updated_at": 1786232073170
   },
   {
     "aspect1": "Rainbow",
@@ -34494,6 +35277,29 @@
     "series": "Rock PLA",
     "sku": "VSA110023",
     "title": "Rock PLA - Jarrah",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E84245FF",
+    "color_info": {
+      "colors": [
+        "#E84245FF"
+      ],
+      "type": "mono"
+    },
+    "id": 737228027,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Cherry Red",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-CHR-1KG-A",
+    "title": "PLA+ - Cherry Red",
     "updated_at": null
   },
   {
@@ -36190,6 +36996,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Sunlu",
+    "color": "#1D0E07FF",
+    "color_info": {
+      "colors": [
+        "#1D0E07FF"
+      ],
+      "type": "mono"
+    },
+    "id": 779988831,
+    "img_src": "https://media.sunlu.com/prod/20260323/3b65ccc9-4664-4d46-8231-a61d25f43eca.jpg",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Chestnut Black",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-CHESTNUTBLACK-1KG-A",
+    "title": "High Speed ABS - Chestnut Black",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Eryone",
     "color": "#8A8A8A",
     "color_info": {
@@ -37348,6 +38177,29 @@
     "updated_at": 1785242286990
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#EEE7D4FF",
+    "color_info": {
+      "colors": [
+        "#EEE7D4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 804361022,
+    "img_src": "https://cdn.tigertag.io/img?id=804361022&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Cream White",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-CREAMWHITE-1KG-A",
+    "title": "PLA Meta - Cream White",
+    "updated_at": 1786237377377
+  },
+  {
     "aspect1": "Wood",
     "aspect2": null,
     "barcode": "",
@@ -37926,6 +38778,29 @@
     "updated_at": 1785248914548
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F0E0D6FF",
+    "color_info": {
+      "colors": [
+        "#F0E0D6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 820209614,
+    "img_src": "https://media.sunlu.com/prod/20260323/f06e16aa-32e8-4eb7-ac6d-1da7b55d2129.jpg",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Beige",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-BEIGE-1KG-A",
+    "title": "High Speed ABS - Beige",
+    "updated_at": null
+  },
+  {
     "aspect1": "Translucent",
     "aspect2": null,
     "barcode": "",
@@ -38248,6 +39123,29 @@
     "updated_at": 1785881346646
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E5DFD3",
+    "color_info": {
+      "colors": [
+        "#E5DFD3"
+      ],
+      "type": "mono"
+    },
+    "id": 825840032,
+    "img_src": "https://cdn.tigertag.io/img?id=825840032&v=2",
+    "material": "PP",
+    "measure": "0.8 kg",
+    "name": "PP Natural",
+    "product_type": "Filament",
+    "series": "PP",
+    "sku": "SL-N-PP-NAT-08KG-A",
+    "title": "PP - PP Natural",
+    "updated_at": 1786229828294
+  },
+  {
     "aspect1": "Rainbow",
     "aspect2": "Silk",
     "barcode": "6938936716655",
@@ -38456,6 +39354,29 @@
     "updated_at": 1763043917256
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F4C2D0FF",
+    "color_info": {
+      "colors": [
+        "#F4C2D0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 831476084,
+    "img_src": "https://cdn.tigertag.io/img?id=831476084&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Sakura Pink",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-SKP-1KG-A",
+    "title": "PLA+ - Sakura Pink",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
     "barcode": "5907753135681",
@@ -38504,7 +39425,7 @@
   },
   {
     "aspect1": "Matt",
-    "aspect2": null,
+    "aspect2": "Bicolor",
     "barcode": "6949550961765",
     "brand": "Sunlu",
     "color": "#2A2A2AFF",
@@ -38524,7 +39445,7 @@
     "series": "Matte Dual-Color PLA",
     "sku": "SL-MATTEDC-BLACKBLUE",
     "title": "Matte Dual-Color PLA - Black+Blue",
-    "updated_at": null
+    "updated_at": 1786230714965
   },
   {
     "aspect1": "Basic",
@@ -38807,6 +39728,29 @@
     "sku": "PWB-3D-F0246",
     "title": "ROSA-Flex 85A - White",
     "updated_at": 1780310341923
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F4C2D0FF",
+    "color_info": {
+      "colors": [
+        "#F4C2D0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 838348302,
+    "img_src": "https://cdn.tigertag.io/img?id=838348302&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sakura Pink",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-SKP-1KG-A",
+    "title": "PLA - Sakura Pink",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -40707,6 +41651,29 @@
     "updated_at": 1785277056845
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#03CCB5FF",
+    "color_info": {
+      "colors": [
+        "#03CCB5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 888713970,
+    "img_src": "https://cdn.tigertag.io/img?id=888713970&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-MINTGREEN-1KG-A",
+    "title": "PLA Meta - Mint Green",
+    "updated_at": 1786237377377
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
     "barcode": "",
@@ -41312,6 +42279,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#5A6D3D",
+    "color_info": {
+      "colors": [
+        "#5A6D3D"
+      ],
+      "type": "mono"
+    },
+    "id": 903031247,
+    "img_src": "https://cdn.tigertag.io/img?id=903031247&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Olive Green",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-OLIVEGREEN-1KG-A",
+    "title": "PLA Lite - Olive Green",
+    "updated_at": 1786232323373
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936711735",
     "brand": "Polymaker",
     "color": "#CCCCCCFF",
@@ -41471,6 +42461,29 @@
     "updated_at": 1785499473247
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F9E82C80",
+    "color_info": {
+      "colors": [
+        "#F9E82C80"
+      ],
+      "type": "mono"
+    },
+    "id": 907114452,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Yellow",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-TRYL-1KG-A",
+    "title": "PLA+ - Transparent Yellow",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -41561,6 +42574,29 @@
     "sku": "PF01044",
     "title": "ASA - Jet Black",
     "updated_at": 1785242224595
+  },
+  {
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 910740474,
+    "img_src": "https://cdn.tigertag.io/img?id=910740474&v=1",
+    "material": "PETG-CF",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PETG-CF",
+    "sku": "SL-N-PETGCF-BLACK-1KG-A",
+    "title": "PETG-CF - Black",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -42162,6 +43198,29 @@
     "sku": "CA04061",
     "title": "Panchroma™ Marble PLA - Marble Brick",
     "updated_at": 1785242286990
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#D6313D80",
+    "color_info": {
+      "colors": [
+        "#D6313D80"
+      ],
+      "type": "mono"
+    },
+    "id": 920722434,
+    "img_src": "https://cdn.tigertag.io/img?id=920722434&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-TRRD-1KG-A",
+    "title": "PLA - Transparent Red",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -44061,6 +45120,29 @@
     "updated_at": 1785882381996
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E8E76BFF",
+    "color_info": {
+      "colors": [
+        "#E8E76BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 966611887,
+    "img_src": "https://cdn.tigertag.io/img?id=966611887&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Lemon Yellow",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-LMY-1KG-A",
+    "title": "PLA - Lemon Yellow",
+    "updated_at": null
+  },
+  {
     "aspect1": "Glow in the Dark",
     "aspect2": null,
     "barcode": "6974994174884",
@@ -44566,6 +45648,29 @@
     "sku": "PC02001",
     "title": "PolyMax™ - Black",
     "updated_at": 1785264260448
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#ED7334",
+    "color_info": {
+      "colors": [
+        "#ED7334"
+      ],
+      "type": "mono"
+    },
+    "id": 978290622,
+    "img_src": "https://cdn.tigertag.io/img?id=978290622&v=2",
+    "material": "ASA",
+    "measure": "1 kg",
+    "name": "Sunny Orange",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "SL-ASA-SUNNYORANGE",
+    "title": "ASA - Sunny Orange",
+    "updated_at": 1786234158290
   },
   {
     "aspect1": "Matt",
@@ -46084,6 +47189,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FA7A25FF",
+    "color_info": {
+      "colors": [
+        "#FA7A25FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1010520059,
+    "img_src": "https://cdn.tigertag.io/img?id=1010520059&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-ORG-1KG-A",
+    "title": "PLA+ - Orange",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "5903175652218",
@@ -46779,6 +47907,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 1031341880,
+    "img_src": "https://cdn.tigertag.io/img?id=1031341880&v=2",
+    "material": "PA",
+    "measure": "1 kg",
+    "name": "PA6-GF Grey",
+    "product_type": "Filament",
+    "series": "PA6-GF",
+    "sku": "SL-N-PA6GF-GRY-1KG-A",
+    "title": "PA6-GF - PA6-GF Grey",
+    "updated_at": 1786229788969
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936710455",
     "brand": "Polymaker",
     "color": "#8D8E93FF",
@@ -46942,15 +48093,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Sunlu",
-    "color": "#2A3FA0FF",
+    "color": "#1729AB",
     "color_info": {
       "colors": [
-        "#2A3FA0FF"
+        "#1729AB"
       ],
       "type": "mono"
     },
     "id": 1035539730,
-    "img_src": "https://cdn.tigertag.io/img?id=1035539730&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1035539730&v=4",
     "material": "ASA",
     "measure": "1 kg",
     "name": "Klein Blue",
@@ -46958,7 +48109,7 @@
     "series": "ASA",
     "sku": "SL-ASA-KLEINBLUE",
     "title": "ASA - Klein Blue",
-    "updated_at": null
+    "updated_at": 1786233838187
   },
   {
     "aspect1": "Silk",
@@ -53742,6 +54893,29 @@
     "updated_at": 1783348123599
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#476EFC80",
+    "color_info": {
+      "colors": [
+        "#476EFC80"
+      ],
+      "type": "mono"
+    },
+    "id": 1175752068,
+    "img_src": "https://cdn.tigertag.io/img?id=1175752068&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-TRAN-1KG-A",
+    "title": "PETG - Transparent Blue",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "5907138400731",
@@ -54299,6 +55473,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#367862FF",
+    "color_info": {
+      "colors": [
+        "#367862FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1186666097,
+    "img_src": "https://cdn.tigertag.io/img?id=1186666097&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Grass Green",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-GRG-1KG-A",
+    "title": "PLA - Grass Green",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6974868568900",
     "brand": "R3D",
     "color": "#F4C180FF",
@@ -54691,6 +55888,29 @@
     "updated_at": 1785393939639
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F0804E80",
+    "color_info": {
+      "colors": [
+        "#F0804E80"
+      ],
+      "type": "mono"
+    },
+    "id": 1196712648,
+    "img_src": "https://cdn.tigertag.io/img?id=1196712648&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Orange",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-TRAN5-1KG-A",
+    "title": "PETG - Transparent Orange",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "6938936706939",
@@ -55080,6 +56300,29 @@
     "sku": "117508090100",
     "title": "PLA Translucide - FRANCOFIL PLA Orange Translucide 3D Printer Filament 1.75mm",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#A47B67",
+    "color_info": {
+      "colors": [
+        "#A47B67"
+      ],
+      "type": "mono"
+    },
+    "id": 1208754779,
+    "img_src": "https://cdn.tigertag.io/img?id=1208754779&v=2",
+    "material": "ASA",
+    "measure": "1 kg",
+    "name": "Mocha Mousse",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "SL-ASA-MOCHAMOUSSE",
+    "title": "ASA - Mocha Mousse",
+    "updated_at": 1786233927469
   },
   {
     "aspect1": "Glow in the Dark",
@@ -56102,6 +57345,29 @@
     "sku": "B0106007",
     "title": "PETG - Blue",
     "updated_at": 1785276845781
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#476EFC80",
+    "color_info": {
+      "colors": [
+        "#476EFC80"
+      ],
+      "type": "mono"
+    },
+    "id": 1234921498,
+    "img_src": "https://cdn.tigertag.io/img?id=1234921498&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-TRBL-1KG-A",
+    "title": "PLA - Transparent Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -57725,6 +58991,29 @@
   {
     "aspect1": "Translucent",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#D6313D80",
+    "color_info": {
+      "colors": [
+        "#D6313D80"
+      ],
+      "type": "mono"
+    },
+    "id": 1274097939,
+    "img_src": "https://cdn.tigertag.io/img?id=1274097939&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-TRAN4-1KG-A",
+    "title": "PETG - Transparent Red",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "6977252428460",
     "brand": "Bambu Lab",
     "color": "#B8CDE9FF",
@@ -58236,6 +59525,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Sunlu",
+    "color": "#356FC5FF",
+    "color_info": {
+      "colors": [
+        "#356FC5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1283432039,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Blue Grey",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-BLG-1KG-A",
+    "title": "PLA+ - Blue Grey",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Polymaker",
     "color": "#A79E82",
     "color_info": {
@@ -58323,6 +59635,29 @@
     "sku": "R3DC1E117NHS",
     "title": "PETG High Speed - Turquoise",
     "updated_at": 1752130709825
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E7E7E580",
+    "color_info": {
+      "colors": [
+        "#E7E7E580"
+      ],
+      "type": "mono"
+    },
+    "id": 1285450126,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-TR-1KG-A",
+    "title": "PLA+ - Transparent",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -58462,6 +59797,29 @@
     "sku": "MPLA-175PUCM-00750",
     "title": "Matt PLA - Purple Camouflage",
     "updated_at": 1784885334069
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E0E2E6FF",
+    "color_info": {
+      "colors": [
+        "#E0E2E6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1291643799,
+    "img_src": "https://cdn.tigertag.io/img?id=1291643799&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Ceramic White",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-CMW-1KG-A",
+    "title": "PLA+ - Ceramic White",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
@@ -59039,6 +60397,29 @@
     "series": "PETG-Metallic",
     "sku": "PETG-Metallic-SpaceGrey",
     "title": "PETG-Metallic - Metallic PETG 3D Printer Filament 1.75mm, 1 KG, Metallic Space Grey",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#03A895FF",
+    "color_info": {
+      "colors": [
+        "#03A895FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1301660435,
+    "img_src": "https://cdn.tigertag.io/img?id=1301660435&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-MTG-1KG-A",
+    "title": "PLA - Mint Green",
     "updated_at": null
   },
   {
@@ -62004,6 +63385,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FFE0E8",
+    "color_info": {
+      "colors": [
+        "#FFE0E8"
+      ],
+      "type": "mono"
+    },
+    "id": 1369784397,
+    "img_src": "https://cdn.tigertag.io/img?id=1369784397&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sakura Pink",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-SAKURAPINK-1KG-A",
+    "title": "PLA Lite - Sakura Pink",
+    "updated_at": 1786232532077
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inland",
     "color": "#40E0D0FF",
@@ -62023,6 +63427,29 @@
     "sku": "512132",
     "title": "PLA - Turquoise",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#00C7B1",
+    "color_info": {
+      "colors": [
+        "#00C7B1"
+      ],
+      "type": "mono"
+    },
+    "id": 1370145502,
+    "img_src": "https://cdn.tigertag.io/img?id=1370145502&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-MINTGREEN-1KG-A",
+    "title": "PLA Lite - Mint Green",
+    "updated_at": 1786232281393
   },
   {
     "aspect1": "Silk",
@@ -62258,6 +63685,29 @@
     "sku": "5905991404675",
     "title": "PLA Magic SILK - Magenta Dream",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#5A6D3DFF",
+    "color_info": {
+      "colors": [
+        "#5A6D3DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1376434632,
+    "img_src": "https://cdn.tigertag.io/img?id=1376434632&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Olive Green",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-OLIVEGREEN-1KG-A",
+    "title": "PLA Meta - Olive Green",
+    "updated_at": 1786237377377
   },
   {
     "aspect1": "Basic",
@@ -63000,6 +64450,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#523331FF",
+    "color_info": {
+      "colors": [
+        "#523331FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1392986500,
+    "img_src": "https://cdn.tigertag.io/img?id=1392986500&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Chocolate",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-CHOC-1KG-A",
+    "title": "PETG - Chocolate",
+    "updated_at": null
+  },
+  {
     "aspect1": "None",
     "aspect2": null,
     "barcode": "",
@@ -63367,6 +64840,29 @@
     "sku": "DLZ-JY-ASA-BS-1kg",
     "title": "TPU / ASA - ASA Natural",
     "updated_at": 1785282192716
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#0AB4E5FF",
+    "color_info": {
+      "colors": [
+        "#0AB4E5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1400102507,
+    "img_src": "https://cdn.tigertag.io/img?id=1400102507&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-SKYBLUE-1KG-A",
+    "title": "PLA Meta - Sky Blue",
+    "updated_at": 1786237377377
   },
   {
     "aspect1": "Basic",
@@ -66524,6 +68020,29 @@
     "updated_at": 1785882647458
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#03A895FF",
+    "color_info": {
+      "colors": [
+        "#03A895FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1465201471,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PETG13th.jpg?v=1782888528",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-MINT-1KG-A",
+    "title": "PETG - Mint Green",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
     "barcode": "",
@@ -67290,6 +68809,29 @@
     "sku": "HC343",
     "title": "TPU - Pink/White 85A",
     "updated_at": 1785506715698
+  },
+  {
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E40046FF",
+    "color_info": {
+      "colors": [
+        "#E40046FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1486346846,
+    "img_src": "https://cdn.tigertag.io/img?id=1486346846&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Glow in the Dark Red",
+    "product_type": "Filament",
+    "series": "PETG Glow in the Dark",
+    "sku": "SL-N-PETGGLOW-RED-1KG-A",
+    "title": "PETG Glow in the Dark - Glow in the Dark Red",
+    "updated_at": null
   },
   {
     "aspect1": "Carbon",
@@ -68169,6 +69711,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#523331FF",
+    "color_info": {
+      "colors": [
+        "#523331FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1501268112,
+    "img_src": "https://cdn.tigertag.io/img?id=1501268112&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Chocolate",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-CHOC-1KG-A",
+    "title": "PETG - Chocolate",
+    "updated_at": null
+  },
+  {
     "aspect1": "Satin",
     "aspect2": null,
     "barcode": "6938936715429",
@@ -68675,6 +70240,29 @@
     "sku": "DLZ-JY-HSMPETG-BL-1.1kg-C",
     "title": "High Speed Matte PETG - Blue",
     "updated_at": 1785274577542
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#36C7F4FF",
+    "color_info": {
+      "colors": [
+        "#36C7F4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1511835861,
+    "img_src": "https://cdn.tigertag.io/img?id=1511835861&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-SKB-1KG-A",
+    "title": "PLA+ - Sky Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -69400,6 +70988,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FA7A25FF",
+    "color_info": {
+      "colors": [
+        "#FA7A25FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1524715418,
+    "img_src": "https://cdn.tigertag.io/img?id=1524715418&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-ORAN-1KG-A",
+    "title": "PETG - Orange",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#FFD52EFF",
@@ -69539,6 +71150,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#36C7F4FF",
+    "color_info": {
+      "colors": [
+        "#36C7F4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1529669619,
+    "img_src": "https://cdn.tigertag.io/img?id=1529669619&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-SKB-1KG-A",
+    "title": "PLA - Sky Blue",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936719144",
     "brand": "Polymaker",
     "color": "#AD2723FF",
@@ -69626,6 +71260,29 @@
     "series": "High Speed PLA Plus",
     "sku": "DLZ-EU-TB-HIGHSPEEDP-RED3-1KG",
     "title": "High Speed PLA Plus - Tecbears High Speed PLA Plus Red (1kg)",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#CDB891FF",
+    "color_info": {
+      "colors": [
+        "#CDB891FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1532652130,
+    "img_src": "https://cdn.tigertag.io/img?id=1532652130&v=1",
+    "material": "PEEK",
+    "measure": "1 kg",
+    "name": "PEEK Natural",
+    "product_type": "Filament",
+    "series": "PEEK",
+    "sku": "SL-N-PEEK-NAT-1KG-A",
+    "title": "PEEK - PEEK Natural",
     "updated_at": null
   },
   {
@@ -70998,6 +72655,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#9FECF7FF",
+    "color_info": {
+      "colors": [
+        "#9FECF7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1564239732,
+    "img_src": "https://cdn.tigertag.io/img?id=1564239732&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Ice Blue",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-ICEBLUE-1KG-A",
+    "title": "PLA Meta - Ice Blue",
+    "updated_at": 1786237377377
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6922572219335.0",
     "brand": "eSun",
     "color": "#D1C1A8FF",
@@ -72296,6 +73976,29 @@
     "updated_at": 1783345194282
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#685BC7",
+    "color_info": {
+      "colors": [
+        "#685BC7"
+      ],
+      "type": "mono"
+    },
+    "id": 1594749412,
+    "img_src": "https://cdn.tigertag.io/img?id=1594749412&v=2",
+    "material": "ASA",
+    "measure": "1 kg",
+    "name": "Lavender Purple",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "SL-ASA-LAVENDERPURPLE",
+    "title": "ASA - Lavender Purple",
+    "updated_at": 1786233881360
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": null,
@@ -72896,6 +74599,29 @@
     "updated_at": 1786148713825
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#75787B",
+    "color_info": {
+      "colors": [
+        "#75787B"
+      ],
+      "type": "mono"
+    },
+    "id": 1609946945,
+    "img_src": "https://cdn.tigertag.io/img?id=1609946945&v=2",
+    "material": "ASA",
+    "measure": "1 kg",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "SL-ASA-GREY",
+    "title": "ASA - Grey",
+    "updated_at": 1786233790595
+  },
+  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "6938936715719",
@@ -73292,6 +75018,29 @@
     "series": "Dual Color PLA Matte",
     "sku": "DLZ-EU-TB-PLAYG_DC-BK+BL-1KG",
     "title": "Dual Color PLA Matte - Tecbears Dual Color PLA Matte Matte Dual Black Blue (1kg)",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#B9C4D2FF",
+    "color_info": {
+      "colors": [
+        "#B9C4D2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1620758199,
+    "img_src": "https://cdn.tigertag.io/img?id=1620758199&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-SLV-1KG-A",
+    "title": "PLA - Silver",
     "updated_at": null
   },
   {
@@ -74016,6 +75765,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#1729ABFF",
+    "color_info": {
+      "colors": [
+        "#1729ABFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1638119863,
+    "img_src": "https://media.sunlu.com/prod/20260323/f178fa39-cbb9-4b06-b3ff-850194cb2cc0.jpg",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Klein Blue",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-KLEINBLUE-1KG-A",
+    "title": "High Speed ABS - Klein Blue",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8435532910558",
     "brand": "Winkle",
     "color": "#4E2A1E",
@@ -74544,6 +76316,29 @@
     "sku": "PWB-3D-F4923",
     "title": "ABS-X - Natural",
     "updated_at": 1785628736826
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#367862FF",
+    "color_info": {
+      "colors": [
+        "#367862FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1648203748,
+    "img_src": "https://cdn.tigertag.io/img?id=1648203748&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Grass Green",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-GRG-1KG-A",
+    "title": "PLA+ - Grass Green",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -75222,6 +77017,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F9FDFF",
+    "color_info": {
+      "colors": [
+        "#F9FDFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1661813040,
+    "img_src": "https://cdn.tigertag.io/img?id=1661813040&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Pri-White",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-PRIWHITE-1KG-A",
+    "title": "PLA Lite - Pri-White",
+    "updated_at": 1786232449486
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "6975337030072",
@@ -75526,7 +77344,7 @@
   },
   {
     "aspect1": "Matt",
-    "aspect2": null,
+    "aspect2": "Bicolor",
     "barcode": "6949550961741",
     "brand": "Sunlu",
     "color": "#D9C13AFF",
@@ -75546,7 +77364,7 @@
     "series": "Matte Dual-Color PLA",
     "sku": "SL-MATTEDC-YELLOWCYAN",
     "title": "Matte Dual-Color PLA - Yellow+Cyan",
-    "updated_at": null
+    "updated_at": 1786230714965
   },
   {
     "aspect1": "Basic",
@@ -75777,6 +77595,29 @@
     "sku": "376004456882",
     "title": "PEI - Ultem 1010",
     "updated_at": 1763044024472
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#B9C4D2FF",
+    "color_info": {
+      "colors": [
+        "#B9C4D2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1671408926,
+    "img_src": "https://cdn.tigertag.io/img?id=1671408926&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-SLV-1KG-A",
+    "title": "PLA+ - Silver",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -76862,6 +78703,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#8F38C180",
+    "color_info": {
+      "colors": [
+        "#8F38C180"
+      ],
+      "type": "mono"
+    },
+    "id": 1699451676,
+    "img_src": "https://cdn.tigertag.io/img?id=1699451676&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-TRPP-1KG-A",
+    "title": "PLA - Transparent Purple",
+    "updated_at": null
+  },
+  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "",
@@ -77877,6 +79741,29 @@
     "sku": "",
     "title": "PLA - Purple",
     "updated_at": 1785146406158
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F0804E80",
+    "color_info": {
+      "colors": [
+        "#F0804E80"
+      ],
+      "type": "mono"
+    },
+    "id": 1728427724,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Orange",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-TRO-1KG-A",
+    "title": "PLA+ - Transparent Orange",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -79365,6 +81252,29 @@
     "updated_at": 1785744877845
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#D6313D80",
+    "color_info": {
+      "colors": [
+        "#D6313D80"
+      ],
+      "type": "mono"
+    },
+    "id": 1756199784,
+    "img_src": "https://cdn.tigertag.io/img?id=1756199784&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-TRAN4-1KG-A",
+    "title": "PETG - Transparent Red",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Glow in the Dark",
     "barcode": "",
@@ -79616,6 +81526,29 @@
     "series": "Neon & Transparent PLA",
     "sku": "SL-NEON-FLUORESCENTBLUE",
     "title": "Neon & Transparent PLA - Fluorescent Blue",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E8E76BFF",
+    "color_info": {
+      "colors": [
+        "#E8E76BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1763618580,
+    "img_src": "https://cdn.tigertag.io/img?id=1763618580&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Lemon Yellow",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-LEMO-1KG-A",
+    "title": "PETG - Lemon Yellow",
     "updated_at": null
   },
   {
@@ -82489,6 +84422,29 @@
     "updated_at": 1786148713825
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#9AA0A6FF",
+    "color_info": {
+      "colors": [
+        "#9AA0A6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1833511073,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PETG13th.jpg?v=1782888528",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Coffee",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-COFF-1KG-A",
+    "title": "PETG - Coffee",
+    "updated_at": null
+  },
+  {
     "aspect1": "Stone",
     "aspect2": null,
     "barcode": "8435532919278",
@@ -82927,6 +84883,29 @@
     "sku": "PC1001047",
     "title": "Panchroma™ Translucent PLA - Translucent Brown",
     "updated_at": 1785631576326
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E0E2E6FF",
+    "color_info": {
+      "colors": [
+        "#E0E2E6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1840774875,
+    "img_src": "https://cdn.tigertag.io/img?id=1840774875&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Ceramic White",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-CMW-1KG-A",
+    "title": "PLA+ - Ceramic White",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -84650,6 +86629,29 @@
     "updated_at": 1785277786249
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E7E7E580",
+    "color_info": {
+      "colors": [
+        "#E7E7E580"
+      ],
+      "type": "mono"
+    },
+    "id": 1878347317,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PETG13th.jpg?v=1782888528",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-TRAN7-1KG-A",
+    "title": "PETG - Transparent",
+    "updated_at": null
+  },
+  {
     "aspect1": "None",
     "aspect2": null,
     "barcode": "",
@@ -86311,6 +88313,29 @@
     "updated_at": 1785692630431
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#476EFC80",
+    "color_info": {
+      "colors": [
+        "#476EFC80"
+      ],
+      "type": "mono"
+    },
+    "id": 1917537113,
+    "img_src": "https://cdn.tigertag.io/img?id=1917537113&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-TRBL-1KG-A",
+    "title": "PLA - Transparent Blue",
+    "updated_at": null
+  },
+  {
     "aspect1": "Satin",
     "aspect2": null,
     "barcode": "5907753135520",
@@ -86355,6 +88380,29 @@
     "sku": "SL-Y-PLA-GN-1KG-A",
     "title": "PLA - Green",
     "updated_at": 1782741483640
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FFF13F",
+    "color_info": {
+      "colors": [
+        "#FFF13F"
+      ],
+      "type": "mono"
+    },
+    "id": 1918957148,
+    "img_src": "https://cdn.tigertag.io/img?id=1918957148&v=2",
+    "material": "ASA",
+    "measure": "1 kg",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "SL-ASA-YELLOW",
+    "title": "ASA - Yellow",
+    "updated_at": 1786234341206
   },
   {
     "aspect1": "Marble",
@@ -87172,6 +89220,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#28334AFF",
+    "color_info": {
+      "colors": [
+        "#28334AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1942068241,
+    "img_src": "https://media.sunlu.com/prod/20260323/3758bce3-baee-400f-a551-26fb38260f96.png",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Midnight Black",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-MIDNIGHTBLACK-1KG-A",
+    "title": "High Speed ABS - Midnight Black",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -87633,6 +89704,29 @@
     "updated_at": 1785881346646
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FA7A25FF",
+    "color_info": {
+      "colors": [
+        "#FA7A25FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1955354203,
+    "img_src": "https://cdn.tigertag.io/img?id=1955354203&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-ORAN-1KG-A",
+    "title": "PETG - Orange",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "",
@@ -87885,6 +89979,29 @@
     "series": "PETG-ECO",
     "sku": "PETG-ECO-SakuraPink",
     "title": "PETG-ECO - Rapid PETG-Eco 3D Printer Filament 1.75mm, 1 KG, Sakura Pink",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FFF13FFF",
+    "color_info": {
+      "colors": [
+        "#FFF13FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1963318134,
+    "img_src": "https://media.sunlu.com/prod/20260323/3dbec523-fd0f-4890-a750-93c1e8068144.jpg",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-YELLOW-1KG-A",
+    "title": "High Speed ABS - Yellow",
     "updated_at": null
   },
   {
@@ -88638,6 +90755,29 @@
     "updated_at": 1785693083326
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#B9C4D2FF",
+    "color_info": {
+      "colors": [
+        "#B9C4D2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1979437534,
+    "img_src": "https://cdn.tigertag.io/img?id=1979437534&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-SLV-1KG-A",
+    "title": "PLA+ - Silver",
+    "updated_at": null
+  },
+  {
     "aspect1": "Translucent",
     "aspect2": null,
     "barcode": "5907753134707",
@@ -88889,6 +91029,29 @@
     "sku": "376034597214",
     "title": "PLA - Wood",
     "updated_at": 1763045879711
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#7671E580",
+    "color_info": {
+      "colors": [
+        "#7671E580"
+      ],
+      "type": "mono"
+    },
+    "id": 1987956885,
+    "img_src": "https://cdn.tigertag.io/img?id=1987956885&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-TRAN3-1KG-A",
+    "title": "PETG - Transparent Purple",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -89164,6 +91327,29 @@
     "series": "PLA Professional",
     "sku": "VFBBLA17511",
     "title": "PLA Professional - Black",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F0804E80",
+    "color_info": {
+      "colors": [
+        "#F0804E80"
+      ],
+      "type": "mono"
+    },
+    "id": 1994609443,
+    "img_src": "https://cdn.tigertag.io/img?id=1994609443&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Orange",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-TRor-1KG-A",
+    "title": "PLA - Transparent Orange",
     "updated_at": null
   },
   {
@@ -93062,6 +95248,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Sunlu",
+    "color": "#2C1916FF",
+    "color_info": {
+      "colors": [
+        "#2C1916FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2074422965,
+    "img_src": "https://cdn.tigertag.io/img?id=2074422965&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Roasted Chestnut Black",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-RCB-1KG-A",
+    "title": "PLA+ - Roasted Chestnut Black",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Tucab",
     "color": "#000000FF",
     "color_info": {
@@ -94870,6 +97079,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#03A895FF",
+    "color_info": {
+      "colors": [
+        "#03A895FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2116052241,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PETG13th.jpg?v=1782888528",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-MINT-1KG-A",
+    "title": "PETG - Mint Green",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6933582314514",
     "brand": "Sunlu",
     "color": "#FFFFFFFF",
@@ -95188,6 +97420,29 @@
     "series": "ASA",
     "sku": "ASA-Red",
     "title": "ASA - ASA 3D Printer Filament 1.75mm, 1 KG, Red",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2121409373,
+    "img_src": "https://media.sunlu.com/prod/20260323/dd544330-179a-4366-b115-ec6fa3f29b54.jpg",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-WHITE-1KG-A",
+    "title": "High Speed ABS - White",
     "updated_at": null
   },
   {
@@ -97883,6 +100138,30 @@
     "updated_at": 1785145642986
   },
   {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF",
+        "#9400D3FF"
+      ],
+      "type": "gradient"
+    },
+    "id": 2177847274,
+    "img_src": "https://cdn.tigertag.io/img?id=2177847274&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Rainbow 03",
+    "product_type": "Filament",
+    "series": "Rainbow PLA",
+    "sku": "SL-N-RAINBOWPLA-03-1KG-A",
+    "title": "Rainbow PLA - Rainbow 03",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -97950,6 +100229,29 @@
     "sku": "DLZ-JY-PETG-SO-1.1kg",
     "title": "Standard PETG - Sunny Orange",
     "updated_at": 1785272186333
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#8F38C180",
+    "color_info": {
+      "colors": [
+        "#8F38C180"
+      ],
+      "type": "mono"
+    },
+    "id": 2181562366,
+    "img_src": "https://cdn.tigertag.io/img?id=2181562366&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-TRPP-1KG-A",
+    "title": "PLA - Transparent Purple",
+    "updated_at": null
   },
   {
     "aspect1": "Translucent",
@@ -99185,6 +101487,29 @@
     "series": "Wood PLA",
     "sku": "DLZ-EU-TB-OWOOD-WD-1KG",
     "title": "Wood PLA - Tecbears Wood PLA Wood (1kg)",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E7E7E580",
+    "color_info": {
+      "colors": [
+        "#E7E7E580"
+      ],
+      "type": "mono"
+    },
+    "id": 2204240432,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PETG13th.jpg?v=1782888528",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-TRAN7-1KG-A",
+    "title": "PETG - Transparent",
     "updated_at": null
   },
   {
@@ -101266,6 +103591,29 @@
     "updated_at": 1785744800823
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#D6313D80",
+    "color_info": {
+      "colors": [
+        "#D6313D80"
+      ],
+      "type": "mono"
+    },
+    "id": 2249613210,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-TRRD-1KG-A",
+    "title": "PLA+ - Transparent Red",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -101840,6 +104188,29 @@
     "sku": "DLZ-JY-PLARB-03-1.1kg-C",
     "title": "PLA Rainbow - Rainbow 03",
     "updated_at": 1785275324331
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#A9EAA7FF",
+    "color_info": {
+      "colors": [
+        "#A9EAA7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2262952883,
+    "img_src": "https://cdn.tigertag.io/img?id=2262952883&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Apple Green",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-APPLEGREEN-1KG-A",
+    "title": "PLA Meta - Apple Green",
+    "updated_at": 1786237377377
   },
   {
     "aspect1": "Rainbow",
@@ -105111,6 +107482,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#AC892EFF",
+    "color_info": {
+      "colors": [
+        "#AC892EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2327107822,
+    "img_src": "https://cdn.tigertag.io/img?id=2327107822&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Gold",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-GLD-1KG-A",
+    "title": "PLA - Gold",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inland",
     "color": "#F5F5F0FF",
@@ -105296,6 +107690,29 @@
     "sku": "G00-D01-1.75-1000-SPL",
     "title": "PETG Basic - Misty Blue",
     "updated_at": 1785872868783
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#356FC5FF",
+    "color_info": {
+      "colors": [
+        "#356FC5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2332141503,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Blue Grey",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-BLG-1KG-A",
+    "title": "PLA+ - Blue Grey",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -105905,6 +108322,29 @@
     "series": "PLA Crystal Transparent",
     "sku": "3DPLATPAPL",
     "title": "PLA Crystal Transparent - Aurora Purple",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E84245FF",
+    "color_info": {
+      "colors": [
+        "#E84245FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2351535798,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Cherry Red",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-CHR-1KG-A",
+    "title": "PLA+ - Cherry Red",
     "updated_at": null
   },
   {
@@ -108303,15 +110743,15 @@
     "aspect2": null,
     "barcode": "6949575279999",
     "brand": "Sunlu",
-    "color": "#2A2A2AFF",
+    "color": "#2A2A2A",
     "color_info": {
       "colors": [
-        "#2A2A2AFF"
+        "#2A2A2A"
       ],
       "type": "mono"
     },
     "id": 2408523263,
-    "img_src": "https://cdn.tigertag.io/img?id=2408523263&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2408523263&v=3",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Black",
@@ -108319,7 +110759,7 @@
     "series": "Silk TPU",
     "sku": "SL-SILKTPU-BLACK",
     "title": "Silk TPU - Black",
-    "updated_at": null
+    "updated_at": 1786230396768
   },
   {
     "aspect1": "Basic",
@@ -109292,6 +111732,29 @@
     "sku": "",
     "title": "PLA+ - Yellow",
     "updated_at": 1785144332966
+  },
+  {
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#0073CBFF",
+    "color_info": {
+      "colors": [
+        "#0073CBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2429445643,
+    "img_src": "https://cdn.tigertag.io/img?id=2429445643&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Glow in the Dark Blue",
+    "product_type": "Filament",
+    "series": "PETG Glow in the Dark",
+    "sku": "SL-N-PETGGLOW-BLUE-1KG-A",
+    "title": "PETG Glow in the Dark - Glow in the Dark Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -110760,6 +113223,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Sunlu",
+    "color": "#AF98DFFF",
+    "color_info": {
+      "colors": [
+        "#AF98DFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2462704618,
+    "img_src": "https://cdn.tigertag.io/img?id=2462704618&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Taro Purple",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-TAROPURPLE-1KG-A",
+    "title": "PLA Meta - Taro Purple",
+    "updated_at": 1786237377377
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "PrintoMax 3D",
     "color": "#A8C93AFF",
     "color_info": {
@@ -111082,7 +113568,7 @@
   },
   {
     "aspect1": "Matt",
-    "aspect2": null,
+    "aspect2": "Bicolor",
     "barcode": "6949575283125",
     "brand": "Sunlu",
     "color": "#2A2A2AFF",
@@ -111102,7 +113588,7 @@
     "series": "Matte Dual-Color PLA",
     "sku": "SL-MATTEDC-BLACKRED",
     "title": "Matte Dual-Color PLA - Black+Red",
-    "updated_at": null
+    "updated_at": 1786230714965
   },
   {
     "aspect1": "Clear",
@@ -111665,6 +114151,29 @@
     "sku": "PTG3010750BK0",
     "title": "CarbonX - Black",
     "updated_at": 1785083620855
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2476851657,
+    "img_src": "https://cdn.tigertag.io/img?id=2476851657&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-BLACK-1KG-A",
+    "title": "PLA Meta - Black",
+    "updated_at": 1786237377377
   },
   {
     "aspect1": "Silk",
@@ -113589,6 +116098,29 @@
     "sku": "W3DTPU95AGREEN500",
     "title": "TPU Flexible - Green 95A",
     "updated_at": 1785886023659
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#1DAA27",
+    "color_info": {
+      "colors": [
+        "#1DAA27"
+      ],
+      "type": "mono"
+    },
+    "id": 2534047093,
+    "img_src": "https://cdn.tigertag.io/img?id=2534047093&v=2",
+    "material": "ASA",
+    "measure": "1 kg",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "SL-ASA-GREEN",
+    "title": "ASA - Green",
+    "updated_at": 1786233743293
   },
   {
     "aspect1": "Basic",
@@ -116837,6 +119369,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Sunlu",
+    "color": "#36C7F4FF",
+    "color_info": {
+      "colors": [
+        "#36C7F4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2601915642,
+    "img_src": "https://cdn.tigertag.io/img?id=2601915642&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-SKB-1KG-A",
+    "title": "PLA - Sky Blue",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Inslogic",
     "color": "#00AA13FF",
     "color_info": {
@@ -119033,6 +121588,29 @@
     "updated_at": 1783348303343
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#EFB0C9FF",
+    "color_info": {
+      "colors": [
+        "#EFB0C9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2646843556,
+    "img_src": "https://cdn.tigertag.io/img?id=2646843556&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Sakura Pink",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-SAKU-1KG-A",
+    "title": "PETG - Sakura Pink",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "",
@@ -120709,6 +123287,29 @@
     "sku": "PC1002028",
     "title": "Panchroma™ PLA Refill - Matte Muted Moss",
     "updated_at": 1786112332584
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#03A895FF",
+    "color_info": {
+      "colors": [
+        "#03A895FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2680495295,
+    "img_src": "https://cdn.tigertag.io/img?id=2680495295&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-MTG-1KG-A",
+    "title": "PLA - Mint Green",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -122429,6 +125030,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E8E76BFF",
+    "color_info": {
+      "colors": [
+        "#E8E76BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2713875363,
+    "img_src": "https://cdn.tigertag.io/img?id=2713875363&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Lemon Yellow",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-LEMO-1KG-A",
+    "title": "PETG - Lemon Yellow",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C8C8C8FF",
@@ -123238,6 +125862,29 @@
     "updated_at": 1785872829671
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#BC2726FF",
+    "color_info": {
+      "colors": [
+        "#BC2726FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2734441970,
+    "img_src": "https://media.sunlu.com/prod/20260323/284ad3bf-b168-45ce-889a-ca9fb79a1132.jpg",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-RED-1KG-A",
+    "title": "High Speed ABS - Red",
+    "updated_at": null
+  },
+  {
     "aspect1": "Translucent",
     "aspect2": null,
     "barcode": "5903175655233",
@@ -123952,6 +126599,29 @@
     "series": "PETG",
     "sku": "VFEPNK17511",
     "title": "PETG - Pink",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#8F38C180",
+    "color_info": {
+      "colors": [
+        "#8F38C180"
+      ],
+      "type": "mono"
+    },
+    "id": 2751841922,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-TRPP-1KG-A",
+    "title": "PLA+ - Transparent Purple",
     "updated_at": null
   },
   {
@@ -124717,6 +127387,29 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP004",
     "title": "Multicolor PLA Silk - Green&Gold SP004",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#8F38C180",
+    "color_info": {
+      "colors": [
+        "#8F38C180"
+      ],
+      "type": "mono"
+    },
+    "id": 2769299565,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-TRPP-1KG-A",
+    "title": "PLA+ - Transparent Purple",
     "updated_at": null
   },
   {
@@ -126247,15 +128940,15 @@
     "aspect2": null,
     "barcode": "6949575280025",
     "brand": "Sunlu",
-    "color": "#1E3A6EFF",
+    "color": "#1E3A6E",
     "color_info": {
       "colors": [
-        "#1E3A6EFF"
+        "#1E3A6E"
       ],
       "type": "mono"
     },
     "id": 2802444518,
-    "img_src": "https://cdn.tigertag.io/img?id=2802444518&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2802444518&v=3",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Dark Blue",
@@ -126263,7 +128956,7 @@
     "series": "Silk TPU",
     "sku": "SL-SILKTPU-DARKBLUE",
     "title": "Silk TPU - Dark Blue",
-    "updated_at": null
+    "updated_at": 1786230607107
   },
   {
     "aspect1": "Basic",
@@ -128762,6 +131455,29 @@
     "updated_at": 1785607601629
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#03A895FF",
+    "color_info": {
+      "colors": [
+        "#03A895FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2861824679,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-MTG-1KG-A",
+    "title": "PLA+ - Mint Green",
+    "updated_at": null
+  },
+  {
     "aspect1": "Stone",
     "aspect2": null,
     "barcode": null,
@@ -128810,6 +131526,29 @@
     "series": "PLA",
     "sku": "DLZ-EU-TB-PLA-GY-1KG",
     "title": "PLA - Tecbears PLA Gray (1kg)",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#7671E580",
+    "color_info": {
+      "colors": [
+        "#7671E580"
+      ],
+      "type": "mono"
+    },
+    "id": 2862526043,
+    "img_src": "https://cdn.tigertag.io/img?id=2862526043&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-TRAN3-1KG-A",
+    "title": "PETG - Transparent Purple",
     "updated_at": null
   },
   {
@@ -129272,6 +132011,29 @@
     "sku": "PWB-3D-F0242",
     "title": "ROSA-Flex 85A - Red",
     "updated_at": 1780310256133
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E7E7E580",
+    "color_info": {
+      "colors": [
+        "#E7E7E580"
+      ],
+      "type": "mono"
+    },
+    "id": 2871242210,
+    "img_src": "https://cdn.tigertag.io/img?id=2871242210&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-TR-1KG-A",
+    "title": "PLA - Transparent",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -132182,6 +134944,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F6F2E8",
+    "color_info": {
+      "colors": [
+        "#F6F2E8"
+      ],
+      "type": "mono"
+    },
+    "id": 2934026236,
+    "img_src": "https://cdn.tigertag.io/img?id=2934026236&v=6",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "ABS-FR Natural",
+    "product_type": "Filament",
+    "series": "ABS-FR",
+    "sku": "SL-N-ABSFR-NAT-1KG-A",
+    "title": "ABS-FR - ABS-FR Natural",
+    "updated_at": 1786237898389
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Bicolor",
     "barcode": "",
@@ -132318,6 +135103,29 @@
     "series": "TPU 95A",
     "sku": "VFTRED17511",
     "title": "TPU 95A - Red",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#356FC5FF",
+    "color_info": {
+      "colors": [
+        "#356FC5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2938610674,
+    "img_src": "https://cdn.tigertag.io/img?id=2938610674&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Blue Grey",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-BLG-1KG-A",
+    "title": "PLA - Blue Grey",
     "updated_at": null
   },
   {
@@ -132850,6 +135658,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FC8B4CFF",
+    "color_info": {
+      "colors": [
+        "#FC8B4CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2950065379,
+    "img_src": "https://cdn.tigertag.io/img?id=2950065379&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sunny Orange",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-SUNNYORANGE-1KG-A",
+    "title": "PLA Meta - Sunny Orange",
+    "updated_at": 1786237377377
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": null,
@@ -132875,7 +135706,7 @@
   },
   {
     "aspect1": "Matt",
-    "aspect2": null,
+    "aspect2": "Bicolor",
     "barcode": "6949550961758",
     "brand": "Sunlu",
     "color": "#3A8A5AFF",
@@ -132895,7 +135726,7 @@
     "series": "Matte Dual-Color PLA",
     "sku": "SL-MATTEDC-GREENPURPLE",
     "title": "Matte Dual-Color PLA - Green+Purple",
-    "updated_at": null
+    "updated_at": 1786230714965
   },
   {
     "aspect1": "Basic",
@@ -133362,6 +136193,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Sunlu",
+    "color": "#1F2123",
+    "color_info": {
+      "colors": [
+        "#1F2123"
+      ],
+      "type": "mono"
+    },
+    "id": 2959766256,
+    "img_src": "https://cdn.tigertag.io/img?id=2959766256&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-BLACK-1KG-A",
+    "title": "PLA Lite - Black",
+    "updated_at": 1786231984775
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "FrancoFil",
     "color": "#D9A441FF",
     "color_info": {
@@ -133523,6 +136377,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E5DFD3",
+    "color_info": {
+      "colors": [
+        "#E5DFD3"
+      ],
+      "type": "mono"
+    },
+    "id": 2962795652,
+    "img_src": "https://cdn.tigertag.io/img?id=2962795652&v=2",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "ABS-GF Natural",
+    "product_type": "Filament",
+    "series": "ABS-GF",
+    "sku": "SL-N-ABSGF-NAT-1KG-A",
+    "title": "ABS-GF - ABS-GF Natural",
+    "updated_at": 1786229710082
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Jayo",
     "color": "#F2D22E",
     "color_info": {
@@ -133635,6 +136512,29 @@
     "sku": "A07-D4-1.75-1000-spl",
     "title": "PLA Marble - White",
     "updated_at": 1785872960364
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 2966424644,
+    "img_src": "https://cdn.tigertag.io/img?id=2966424644&v=2",
+    "material": "PA",
+    "measure": "1 kg",
+    "name": "PA6-GF Black",
+    "product_type": "Filament",
+    "series": "PA6-GF",
+    "sku": "SL-N-PA6GF-BLK-1KG-A",
+    "title": "PA6-GF - PA6-GF Black",
+    "updated_at": 1786229749983
   },
   {
     "aspect1": "Marble",
@@ -133822,6 +136722,29 @@
     "sku": "SP021",
     "title": "Multicolor PLA Silk - Moonlight Pink SP021",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E5DFD3",
+    "color_info": {
+      "colors": [
+        "#E5DFD3"
+      ],
+      "type": "mono"
+    },
+    "id": 2969180360,
+    "img_src": "https://cdn.tigertag.io/img?id=2969180360&v=2",
+    "material": "PC",
+    "measure": "1 kg",
+    "name": "PC Natural",
+    "product_type": "Filament",
+    "series": "PC",
+    "sku": "SL-N-PC-NAT-1KG-A",
+    "title": "PC - PC Natural",
+    "updated_at": 1786229502476
   },
   {
     "aspect1": "Metal",
@@ -134354,6 +137277,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#B9C4D2FF",
+    "color_info": {
+      "colors": [
+        "#B9C4D2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2981713151,
+    "img_src": "https://cdn.tigertag.io/img?id=2981713151&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-SLV-1KG-A",
+    "title": "PLA - Silver",
+    "updated_at": null
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "",
@@ -134771,6 +137717,29 @@
     "sku": "B0102032",
     "title": "PLA Silk Dual-Color - Yellow&Green",
     "updated_at": 1785267765586
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#367862FF",
+    "color_info": {
+      "colors": [
+        "#367862FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2992476624,
+    "img_src": "https://cdn.tigertag.io/img?id=2992476624&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Grass Green",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-GRG-1KG-A",
+    "title": "PLA+ - Grass Green",
+    "updated_at": null
   },
   {
     "aspect1": "Stone",
@@ -135888,6 +138857,30 @@
     "updated_at": null
   },
   {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF",
+        "#9400D3FF"
+      ],
+      "type": "gradient"
+    },
+    "id": 3024760936,
+    "img_src": "https://cdn.tigertag.io/img?id=3024760936&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Rainbow 02",
+    "product_type": "Filament",
+    "series": "Rainbow PLA",
+    "sku": "SL-N-RAINBOWPLA-02-1KG-A",
+    "title": "Rainbow PLA - Rainbow 02",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -135979,6 +138972,29 @@
     "sku": "G0102118",
     "title": "PLA Matte High Speed - Off white",
     "updated_at": 1785270460868
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FA7A25FF",
+    "color_info": {
+      "colors": [
+        "#FA7A25FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3025296196,
+    "img_src": "https://cdn.tigertag.io/img?id=3025296196&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-ORG-1KG-A",
+    "title": "PLA+ - Orange",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -136440,6 +139456,29 @@
     "sku": "B0381013",
     "title": "PETG Lite - Blue",
     "updated_at": 1785280274847
+  },
+  {
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FFE900FF",
+    "color_info": {
+      "colors": [
+        "#FFE900FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3033060812,
+    "img_src": "https://cdn.tigertag.io/img?id=3033060812&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Glow in the Dark Yellow",
+    "product_type": "Filament",
+    "series": "PETG Glow in the Dark",
+    "sku": "SL-N-PETGGLOW-YELLOW-1KG-A",
+    "title": "PETG Glow in the Dark - Glow in the Dark Yellow",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -138107,6 +141146,29 @@
     "updated_at": 1785720931104
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FA7A25FF",
+    "color_info": {
+      "colors": [
+        "#FA7A25FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3066875087,
+    "img_src": "https://cdn.tigertag.io/img?id=3066875087&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-ORG-1KG-A",
+    "title": "PLA - Orange",
+    "updated_at": null
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "",
@@ -138987,6 +142049,29 @@
     "sku": "PWB-3D-F4150CF",
     "title": "PCTG + 10 CF - Black",
     "updated_at": 1785934929741
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E84245FF",
+    "color_info": {
+      "colors": [
+        "#E84245FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3085319882,
+    "img_src": "https://cdn.tigertag.io/img?id=3085319882&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Cherry Red",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-CHR-1KG-A",
+    "title": "PLA - Cherry Red",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -140843,6 +143928,29 @@
     "updated_at": 1785242286990
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E7E7E580",
+    "color_info": {
+      "colors": [
+        "#E7E7E580"
+      ],
+      "type": "mono"
+    },
+    "id": 3126496245,
+    "img_src": "https://cdn.tigertag.io/img?id=3126496245&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Clear (Transparent)",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-CLEA-1KG-A",
+    "title": "PETG - Clear (Transparent)",
+    "updated_at": null
+  },
+  {
     "aspect1": "Rainbow",
     "aspect2": null,
     "barcode": null,
@@ -141171,6 +144279,29 @@
     "sku": "PEN010001BLAGLAWNK",
     "title": "PETG Flame Retardant - PETG Flame Retardant White",
     "updated_at": 1785401910047
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#AC892EFF",
+    "color_info": {
+      "colors": [
+        "#AC892EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3137626743,
+    "img_src": "https://cdn.tigertag.io/img?id=3137626743&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Gold",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-GLD-1KG-A",
+    "title": "PLA - Gold",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -141819,6 +144950,29 @@
     "sku": "PMX-MDUAL-DARKPURPLEGREEN",
     "title": "PLA+ Matte Dual Color - Matte Dual Color Darkpurple/Green",
     "updated_at": 1785378657850
+  },
+  {
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F1F4EDFF",
+    "color_info": {
+      "colors": [
+        "#F1F4EDFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3155666608,
+    "img_src": "https://cdn.tigertag.io/img?id=3155666608&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Glow in the Dark White (to Blue)",
+    "product_type": "Filament",
+    "series": "PETG Glow in the Dark",
+    "sku": "SL-N-PETGGLOW-WHITETOBLUE-1KG-A",
+    "title": "PETG Glow in the Dark - Glow in the Dark White (to Blue)",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -144179,6 +147333,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#2C1916FF",
+    "color_info": {
+      "colors": [
+        "#2C1916FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3209199247,
+    "img_src": "https://cdn.tigertag.io/img?id=3209199247&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Roasted Chestnut Black",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-RCB-1KG-A",
+    "title": "PLA - Roasted Chestnut Black",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6922572206403",
     "brand": "eSun",
     "color": "#FDE336FF",
@@ -144478,7 +147655,7 @@
   },
   {
     "aspect1": "Matt",
-    "aspect2": null,
+    "aspect2": "Bicolor",
     "barcode": "6949550961727",
     "brand": "Sunlu",
     "color": "#B33A3AFF",
@@ -144498,7 +147675,7 @@
     "series": "Matte Dual-Color PLA",
     "sku": "SL-MATTEDC-REDBLUE",
     "title": "Matte Dual-Color PLA - Red+Blue",
-    "updated_at": null
+    "updated_at": 1786230714965
   },
   {
     "aspect1": "Matt",
@@ -145309,6 +148486,30 @@
     "sku": "B0281005",
     "title": "PLA Burnt Titanium Dual-Color - Green & Gold",
     "updated_at": 1785274498733
+  },
+  {
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF",
+        "#9400D3FF"
+      ],
+      "type": "gradient"
+    },
+    "id": 3230839846,
+    "img_src": "https://cdn.tigertag.io/img?id=3230839846&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Rainbow 01",
+    "product_type": "Filament",
+    "series": "Rainbow PLA",
+    "sku": "SL-N-RAINBOWPLA-01-1KG-A",
+    "title": "Rainbow PLA - Rainbow 01",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -146217,6 +149418,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#367862FF",
+    "color_info": {
+      "colors": [
+        "#367862FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3248902854,
+    "img_src": "https://cdn.tigertag.io/img?id=3248902854&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Grass Green",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-GRG-1KG-A",
+    "title": "PLA - Grass Green",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6933582325961",
     "brand": "Sunlu",
     "color": "#C2B29AFF",
@@ -146978,6 +150202,29 @@
     "series": "PLA Basic High Speed",
     "sku": "3DPLACB",
     "title": "PLA Basic High Speed - Chestnut Brown",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#44D62CFF",
+    "color_info": {
+      "colors": [
+        "#44D62CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3265834229,
+    "img_src": "https://cdn.tigertag.io/img?id=3265834229&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Glow in the Dark Green",
+    "product_type": "Filament",
+    "series": "PETG Glow in the Dark",
+    "sku": "SL-N-PETGGLOW-GREEN-1KG-A",
+    "title": "PETG Glow in the Dark - Glow in the Dark Green",
     "updated_at": null
   },
   {
@@ -148787,6 +152034,29 @@
     "updated_at": 1785257634149
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#05B12280",
+    "color_info": {
+      "colors": [
+        "#05B12280"
+      ],
+      "type": "mono"
+    },
+    "id": 3302804989,
+    "img_src": "https://cdn.tigertag.io/img?id=3302804989&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-TRGN-1KG-A",
+    "title": "PLA - Transparent Green",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -149241,15 +152511,15 @@
     "aspect2": null,
     "barcode": "6949551138975",
     "brand": "Sunlu",
-    "color": "#F2F2F2FF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#F2F2F2FF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 3312792565,
-    "img_src": "https://cdn.tigertag.io/img?id=3312792565&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3312792565&v=4",
     "material": "ASA",
     "measure": "1 kg",
     "name": "White",
@@ -149257,7 +152527,7 @@
     "series": "ASA",
     "sku": "SL-ASA-WHITE",
     "title": "ASA - White",
-    "updated_at": null
+    "updated_at": 1786234203388
   },
   {
     "aspect1": "Basic",
@@ -150351,15 +153621,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Sunlu",
-    "color": "#C0392BFF",
+    "color": "#BC2726",
     "color_info": {
       "colors": [
-        "#C0392BFF"
+        "#BC2726"
       ],
       "type": "mono"
     },
     "id": 3342424675,
-    "img_src": "https://cdn.tigertag.io/img?id=3342424675&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3342424675&v=4",
     "material": "ASA",
     "measure": "1 kg",
     "name": "Red",
@@ -150367,7 +153637,7 @@
     "series": "ASA",
     "sku": "SL-ASA-RED",
     "title": "ASA - Red",
-    "updated_at": null
+    "updated_at": 1786234114511
   },
   {
     "aspect1": "Basic",
@@ -151164,6 +154434,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#36C7F4FF",
+    "color_info": {
+      "colors": [
+        "#36C7F4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3359552792,
+    "img_src": "https://cdn.tigertag.io/img?id=3359552792&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-SKYB-1KG-A",
+    "title": "PETG - Sky Blue",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -151443,6 +154736,29 @@
     "series": "PLA Silk+ Rainbow",
     "sku": "SILK-1-RCANDY",
     "title": "PLA Silk+ Rainbow - Candy",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#36C7F4FF",
+    "color_info": {
+      "colors": [
+        "#36C7F4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3366396565,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-SKB-1KG-A",
+    "title": "PLA+ - Sky Blue",
     "updated_at": null
   },
   {
@@ -154884,6 +158200,29 @@
     "updated_at": 1785279281331
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#05B12280",
+    "color_info": {
+      "colors": [
+        "#05B12280"
+      ],
+      "type": "mono"
+    },
+    "id": 3439716599,
+    "img_src": "https://cdn.tigertag.io/img?id=3439716599&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-TRAN2-1KG-A",
+    "title": "PETG - Transparent Green",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -158016,6 +161355,29 @@
     "updated_at": 1785787016203
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#75787BFF",
+    "color_info": {
+      "colors": [
+        "#75787BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3501506066,
+    "img_src": "https://cdn.tigertag.io/img?id=3501506066&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-GREY-1KG-A",
+    "title": "PLA Meta - Grey",
+    "updated_at": 1786237377377
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "6922572225480",
@@ -158152,6 +161514,29 @@
     "sku": "",
     "title": "PLA - Spring Green",
     "updated_at": 1785249212727
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#476EFC80",
+    "color_info": {
+      "colors": [
+        "#476EFC80"
+      ],
+      "type": "mono"
+    },
+    "id": 3503680901,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-TRBL-1KG-A",
+    "title": "PLA+ - Transparent Blue",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -158965,6 +162350,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "Sunlu",
+    "color": "#D5419E",
+    "color_info": {
+      "colors": [
+        "#D5419E"
+      ],
+      "type": "mono"
+    },
+    "id": 3523142485,
+    "img_src": "https://cdn.tigertag.io/img?id=3523142485&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Pri-Magenta",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-PRIMAGENTA-1KG-A",
+    "title": "PLA Lite - Pri-Magenta",
+    "updated_at": 1786232407209
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "FrancoFil",
     "color": "#FF69B4FF",
     "color_info": {
@@ -159637,6 +163045,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F4C2D0FF",
+    "color_info": {
+      "colors": [
+        "#F4C2D0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3537322430,
+    "img_src": "https://cdn.tigertag.io/img?id=3537322430&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Sakura Pink",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-SKP-1KG-A",
+    "title": "PLA+ - Sakura Pink",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Landu",
     "color": "#FED2E1FF",
@@ -159841,6 +163272,29 @@
     "sku": "DLZ-JY-PLA+-SB-1.1kg-C",
     "title": "Standard PLA+ - Sky Blue",
     "updated_at": 1785271818349
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F9E82C80",
+    "color_info": {
+      "colors": [
+        "#F9E82C80"
+      ],
+      "type": "mono"
+    },
+    "id": 3544833441,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Transparent Yellow",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-TRYL-1KG-A",
+    "title": "PLA+ - Transparent Yellow",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -160232,6 +163686,29 @@
     "series": "FiberFlex 40D",
     "sku": "F40-SKIN1-175-085",
     "title": "FiberFlex 40D - Fiberlogy FiberFlex 40D Skin1 (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F9F8F4FF",
+    "color_info": {
+      "colors": [
+        "#F9F8F4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3552292249,
+    "img_src": "https://media.sunlu.com/prod/20260323/57e0dc66-8006-4c70-a509-de4524942c34.jpg",
+    "material": "PC-ABS",
+    "measure": "1 kg",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PC-ABS",
+    "sku": "SL-N-PCABS-WHITE-1KG-A",
+    "title": "PC-ABS - White",
     "updated_at": null
   },
   {
@@ -161484,6 +164961,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3584296590,
+    "img_src": "https://media.sunlu.com/prod/20260323/03292702-16f5-4684-9aa5-ca31568dfbbf.jpg",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-BLACK-1KG-A",
+    "title": "High Speed ABS - Black",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936712732",
     "brand": "Polymaker",
     "color": "#CCCCCCFF",
@@ -162481,15 +165981,15 @@
     "aspect2": null,
     "barcode": "6949575280032",
     "brand": "Sunlu",
-    "color": "#6E2436FF",
+    "color": "#6E2436",
     "color_info": {
       "colors": [
-        "#6E2436FF"
+        "#6E2436"
       ],
       "type": "mono"
     },
     "id": 3609264822,
-    "img_src": "https://cdn.tigertag.io/img?id=3609264822&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3609264822&v=3",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Burgundy",
@@ -162497,7 +165997,7 @@
     "series": "Silk TPU",
     "sku": "SL-SILKTPU-BURGUNDY",
     "title": "Silk TPU - Burgundy",
-    "updated_at": null
+    "updated_at": 1786230490015
   },
   {
     "aspect1": "Basic",
@@ -163379,6 +166879,29 @@
     "sku": "PF01029",
     "title": "ASA - Teal",
     "updated_at": 1785242338387
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E8E76BFF",
+    "color_info": {
+      "colors": [
+        "#E8E76BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3629053380,
+    "img_src": "https://cdn.tigertag.io/img?id=3629053380&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Lemon Yellow",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-LMY-1KG-A",
+    "title": "PLA+ - Lemon Yellow",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -164443,6 +167966,29 @@
     "updated_at": 1785273072265
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#36C7F4FF",
+    "color_info": {
+      "colors": [
+        "#36C7F4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3648284887,
+    "img_src": "https://cdn.tigertag.io/img?id=3648284887&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-SKYB-1KG-A",
+    "title": "PETG - Sky Blue",
+    "updated_at": null
+  },
+  {
     "aspect1": "Glow in the Dark",
     "aspect2": null,
     "barcode": "",
@@ -164769,7 +168315,7 @@
   },
   {
     "aspect1": "Matt",
-    "aspect2": null,
+    "aspect2": "Bicolor",
     "barcode": "6949550961734",
     "brand": "Sunlu",
     "color": "#B33A3AFF",
@@ -164789,7 +168335,7 @@
     "series": "Matte Dual-Color PLA",
     "sku": "SL-MATTEDC-REDYELLOW",
     "title": "Matte Dual-Color PLA - Red+Yellow",
-    "updated_at": null
+    "updated_at": 1786230714965
   },
   {
     "aspect1": "Basic",
@@ -164813,6 +168359,52 @@
     "sku": "700-001-1542",
     "title": "PLA - Black Carbon Fiber",
     "updated_at": 1785607601628
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F9E82C80",
+    "color_info": {
+      "colors": [
+        "#F9E82C80"
+      ],
+      "type": "mono"
+    },
+    "id": 3653597664,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PETG13th.jpg?v=1782888528",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Yellow",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-TRAN6-1KG-A",
+    "title": "PETG - Transparent Yellow",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F0EA02",
+    "color_info": {
+      "colors": [
+        "#F0EA02"
+      ],
+      "type": "mono"
+    },
+    "id": 3654236997,
+    "img_src": "https://cdn.tigertag.io/img?id=3654236997&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Pri-Yellow",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-PRIYELLOW-1KG-A",
+    "title": "PLA Lite - Pri-Yellow",
+    "updated_at": 1786232491263
   },
   {
     "aspect1": "Basic",
@@ -164906,6 +168498,29 @@
     "sku": "PA07032",
     "title": "PolyLite™ - Black",
     "updated_at": 1785275205243
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FF8C54",
+    "color_info": {
+      "colors": [
+        "#FF8C54"
+      ],
+      "type": "mono"
+    },
+    "id": 3657356074,
+    "img_src": "https://cdn.tigertag.io/img?id=3657356074&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sunny Orange",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-SUNNYORANGE-1KG-A",
+    "title": "PLA Lite - Sunny Orange",
+    "updated_at": 1786232617465
   },
   {
     "aspect1": "Basic",
@@ -166571,6 +170186,29 @@
     "updated_at": 1785280559544
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F4C2D0FF",
+    "color_info": {
+      "colors": [
+        "#F4C2D0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3703831295,
+    "img_src": "https://cdn.tigertag.io/img?id=3703831295&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Sakura Pink",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-SKP-1KG-A",
+    "title": "PLA - Sakura Pink",
+    "updated_at": null
+  },
+  {
     "aspect1": "Rainbow",
     "aspect2": null,
     "barcode": "6938936716358",
@@ -168219,6 +171857,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E8E76BFF",
+    "color_info": {
+      "colors": [
+        "#E8E76BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3743356515,
+    "img_src": "https://cdn.tigertag.io/img?id=3743356515&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Lemon Yellow",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-LMY-1KG-A",
+    "title": "PLA - Lemon Yellow",
+    "updated_at": null
+  },
+  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "8435532914303",
@@ -168751,6 +172412,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E7E7E580",
+    "color_info": {
+      "colors": [
+        "#E7E7E580"
+      ],
+      "type": "mono"
+    },
+    "id": 3753037617,
+    "img_src": "https://cdn.tigertag.io/img?id=3753037617&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-TR-1KG-A",
+    "title": "PLA - Transparent",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": null,
@@ -169269,6 +172953,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#5A6D3DFF",
+    "color_info": {
+      "colors": [
+        "#5A6D3DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3764093224,
+    "img_src": "https://media.sunlu.com/prod/20260323/643a6459-8ad3-4e67-8de0-446fa24fb08d.jpg",
+    "material": "ABS",
+    "measure": "1 kg",
+    "name": "Olive Green",
+    "product_type": "Filament",
+    "series": "High Speed ABS",
+    "sku": "SL-N-HSABS-OLIVEGREEN-1KG-A",
+    "title": "High Speed ABS - Olive Green",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8435532916536",
     "brand": "Winkle",
     "color": "#0D0D0D",
@@ -169735,15 +173442,15 @@
     "aspect2": null,
     "barcode": "6949575280018",
     "brand": "Sunlu",
-    "color": "#8FB7E8FF",
+    "color": "#8FB7E8",
     "color_info": {
       "colors": [
-        "#8FB7E8FF"
+        "#8FB7E8"
       ],
       "type": "mono"
     },
     "id": 3778319649,
-    "img_src": "https://cdn.tigertag.io/img?id=3778319649&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3778319649&v=3",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Light Blue",
@@ -169751,7 +173458,7 @@
     "series": "Silk TPU",
     "sku": "SL-SILKTPU-LIGHTBLUE",
     "title": "Silk TPU - Light Blue",
-    "updated_at": null
+    "updated_at": 1786230668091
   },
   {
     "aspect1": "Rainbow",
@@ -171229,6 +174936,29 @@
     "updated_at": 1785272182146
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E7E7E580",
+    "color_info": {
+      "colors": [
+        "#E7E7E580"
+      ],
+      "type": "mono"
+    },
+    "id": 3815176108,
+    "img_src": "https://cdn.tigertag.io/img?id=3815176108&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Clear (Transparent)",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-CLEA-1KG-A",
+    "title": "PETG - Clear (Transparent)",
+    "updated_at": null
+  },
+  {
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
@@ -171619,6 +175349,29 @@
     "sku": "376004456732",
     "title": "PC - V0 Native",
     "updated_at": 1763042830323
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F9E82C80",
+    "color_info": {
+      "colors": [
+        "#F9E82C80"
+      ],
+      "type": "mono"
+    },
+    "id": 3828123782,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PETG13th.jpg?v=1782888528",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Yellow",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-TRAN6-1KG-A",
+    "title": "PETG - Transparent Yellow",
+    "updated_at": null
   },
   {
     "aspect1": "Carbon",
@@ -172291,6 +176044,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#895A4EFF",
+    "color_info": {
+      "colors": [
+        "#895A4EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3848113894,
+    "img_src": "https://cdn.tigertag.io/img?id=3848113894&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Chocolate",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-CHOCOLATE-1KG-A",
+    "title": "PLA Meta - Chocolate",
+    "updated_at": 1786237377377
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
     "barcode": "",
@@ -172342,15 +176118,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Sunlu",
-    "color": "#E8E0CCFF",
+    "color": "#F4F2EB",
     "color_info": {
       "colors": [
-        "#E8E0CCFF"
+        "#F4F2EB"
       ],
       "type": "mono"
     },
     "id": 3849878083,
-    "img_src": "https://cdn.tigertag.io/img?id=3849878083&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3849878083&v=4",
     "material": "ASA",
     "measure": "1 kg",
     "name": "Natural",
@@ -172358,7 +176134,7 @@
     "series": "ASA",
     "sku": "SL-ASA-NATURAL",
     "title": "ASA - Natural",
-    "updated_at": null
+    "updated_at": 1786233971211
   },
   {
     "aspect1": "None",
@@ -172568,6 +176344,29 @@
     "sku": "175MPLA-SBLCK-0750",
     "title": "Matt PLA - Stealth Black",
     "updated_at": 1784884849422
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E0E2E6FF",
+    "color_info": {
+      "colors": [
+        "#E0E2E6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3858576230,
+    "img_src": "https://cdn.tigertag.io/img?id=3858576230&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Ceramic White",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-CMW-1KG-A",
+    "title": "PLA - Ceramic White",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -173563,6 +177362,29 @@
     "updated_at": 1785882647458
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F0804E80",
+    "color_info": {
+      "colors": [
+        "#F0804E80"
+      ],
+      "type": "mono"
+    },
+    "id": 3882877910,
+    "img_src": "https://cdn.tigertag.io/img?id=3882877910&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Orange",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-TRAN5-1KG-A",
+    "title": "PETG - Transparent Orange",
+    "updated_at": null
+  },
+  {
     "aspect1": "None",
     "aspect2": null,
     "barcode": "",
@@ -174047,6 +177869,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E8E76BFF",
+    "color_info": {
+      "colors": [
+        "#E8E76BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3896198165,
+    "img_src": "https://cdn.tigertag.io/img?id=3896198165&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Lemon Yellow",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-N-PLAP-LMY-1KG-A",
+    "title": "PLA+ - Lemon Yellow",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
     "barcode": "5907753135827",
@@ -174208,6 +178053,29 @@
     "sku": "RFHPPETG175RD1",
     "title": "Hyper PETG - Red",
     "updated_at": 1785881041889
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#D6313D80",
+    "color_info": {
+      "colors": [
+        "#D6313D80"
+      ],
+      "type": "mono"
+    },
+    "id": 3900314937,
+    "img_src": "https://cdn.tigertag.io/img?id=3900314937&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-TRRD-1KG-A",
+    "title": "PLA - Transparent Red",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -175713,6 +179581,29 @@
     "series": "PEBA 90A",
     "sku": "R3DT1R105NMS",
     "title": "PEBA 90A - Bright Yellow",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#FA7A25FF",
+    "color_info": {
+      "colors": [
+        "#FA7A25FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3928067704,
+    "img_src": "https://cdn.tigertag.io/img?id=3928067704&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-ORG-1KG-A",
+    "title": "PLA - Orange",
     "updated_at": null
   },
   {
@@ -178516,6 +182407,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E84245FF",
+    "color_info": {
+      "colors": [
+        "#E84245FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3985270319,
+    "img_src": "https://cdn.tigertag.io/img?id=3985270319&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Cherry Red",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-CHR-1KG-A",
+    "title": "PLA - Cherry Red",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Tricolor",
     "barcode": "",
@@ -178817,6 +182731,29 @@
     "sku": "SL-Y-PETG-GN-1KG-A",
     "title": "PETG - Green",
     "updated_at": 1782741899520
+  },
+  {
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3997465326,
+    "img_src": "https://cdn.tigertag.io/img?id=3997465326&v=1",
+    "material": "PLA-CF",
+    "measure": "1 kg",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA-CF",
+    "sku": "SL-N-PLACF-BLACK-1KG-A",
+    "title": "PLA-CF - Black",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -180578,6 +184515,29 @@
   {
     "aspect1": "Translucent",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F9E82C80",
+    "color_info": {
+      "colors": [
+        "#F9E82C80"
+      ],
+      "type": "mono"
+    },
+    "id": 4041154138,
+    "img_src": "https://cdn.tigertag.io/img?id=4041154138&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Transparent Yellow",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-N-PLA-TRYL-1KG-A",
+    "title": "PLA - Transparent Yellow",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "5907753136329",
     "brand": "Rosa3D",
     "color": "#FFFFFF80",
@@ -180690,6 +184650,29 @@
     "series": "PETG-GF",
     "sku": "PETG-GF-FrostedOrange",
     "title": "PETG-GF - Glass Fiber PETG 3D Printer Filament 1.75mm, 1 KG, Frosted Orange",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#05B12280",
+    "color_info": {
+      "colors": [
+        "#05B12280"
+      ],
+      "type": "mono"
+    },
+    "id": 4044353779,
+    "img_src": "https://cdn.tigertag.io/img?id=4044353779&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-TRAN2-1KG-A",
+    "title": "PETG - Transparent Green",
     "updated_at": null
   },
   {
@@ -181636,6 +185619,29 @@
     "sku": "A06-R0-1.75-1000-spl",
     "title": "PLA Silk+ - Candy Red",
     "updated_at": 1785872735186
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#ED374DFF",
+    "color_info": {
+      "colors": [
+        "#ED374DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4060117501,
+    "img_src": "https://cdn.tigertag.io/img?id=4060117501&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Cherry Red",
+    "product_type": "Filament",
+    "series": "PLA Meta",
+    "sku": "SL-N-PLAMETA-CHERRYRED-1KG-A",
+    "title": "PLA Meta - Cherry Red",
+    "updated_at": 1786237377377
   },
   {
     "aspect1": "Basic",
@@ -184158,6 +188164,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#356FC5FF",
+    "color_info": {
+      "colors": [
+        "#356FC5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4113243892,
+    "img_src": "https://cdn.tigertag.io/img?id=4113243892&v=1",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Blue Grey",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-Y-PLA-BLG-1KG-A",
+    "title": "PLA - Blue Grey",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6938936715214",
     "brand": "Polymaker",
     "color": "#C2AB72FF",
@@ -184246,6 +188275,29 @@
     "sku": "PA12005",
     "title": "PolySonic™ PLA - Red",
     "updated_at": 1785242286991
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#63666A",
+    "color_info": {
+      "colors": [
+        "#63666A"
+      ],
+      "type": "mono"
+    },
+    "id": 4113922045,
+    "img_src": "https://cdn.tigertag.io/img?id=4113922045&v=2",
+    "material": "PLA",
+    "measure": "1 kg",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "PLA Lite",
+    "sku": "SL-N-PLALITE-GREY-1KG-A",
+    "title": "PLA Lite - Grey",
+    "updated_at": 1786232193168
   },
   {
     "aspect1": "Basic",
@@ -184969,6 +189021,29 @@
     "sku": "RFHPPETG175PK1",
     "title": "Hyper PETG - Pink",
     "updated_at": 1785881041889
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#9AA0A6FF",
+    "color_info": {
+      "colors": [
+        "#9AA0A6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4127974141,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PETG13th.jpg?v=1782888528",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Coffee",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-Y-PETG-COFF-1KG-A",
+    "title": "PETG - Coffee",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -187261,6 +191336,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#AC892EFF",
+    "color_info": {
+      "colors": [
+        "#AC892EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4184550172,
+    "img_src": "https://cdn.tigertag.io/img?id=4184550172&v=1",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Gold",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-GLD-1KG-A",
+    "title": "PLA+ - Gold",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "5905991401155",
     "brand": "Spectrum",
     "color": "#E8E8E8",
@@ -188018,6 +192116,29 @@
     "sku": "DLZ-JY-PLAMETA-GN-1.1kg-C",
     "title": "PLA Meta - Green",
     "updated_at": 1785274852638
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E84245FF",
+    "color_info": {
+      "colors": [
+        "#E84245FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4201104351,
+    "img_src": "https://cdn.tigertag.io/img?id=4201104351&v=1",
+    "material": "PETG",
+    "measure": "1 kg",
+    "name": "Cherry Red",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-N-PETG-CHER-1KG-A",
+    "title": "PETG - Cherry Red",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -190105,6 +194226,29 @@
     "sku": "G00-Y00-1.75-1000-SPLFREE",
     "title": "PETG Basic - Yellow",
     "updated_at": 1785881428143
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#03A895FF",
+    "color_info": {
+      "colors": [
+        "#03A895FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4244546971,
+    "img_src": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA13th.jpg?v=1782888572",
+    "material": "PLA+",
+    "measure": "1 kg",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-Y-PLAP-MTG-1KG-A",
+    "title": "PLA+ - Mint Green",
+    "updated_at": null
   },
   {
     "aspect1": "Matt",
