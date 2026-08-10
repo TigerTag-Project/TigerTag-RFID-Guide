@@ -1541,9 +1541,9 @@
     "name": "White",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-WHITE-1KG-A",
+    "sku": "SL-PLAMT-WT-1KG",
     "title": "PLA Meta - White",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -2634,10 +2634,10 @@
     "aspect2": null,
     "barcode": "6949575280001",
     "brand": "Sunlu",
-    "color": "#EFE8D8",
+    "color": "#EFE8D8FF",
     "color_info": {
       "colors": [
-        "#EFE8D8"
+        "#EFE8D8FF"
       ],
       "type": "mono"
     },
@@ -2648,9 +2648,9 @@
     "name": "Cream White",
     "product_type": "Filament",
     "series": "Silk TPU",
-    "sku": "SL-SILKTPU-CREAMWHITE",
+    "sku": "SL-TPUSK-CW-1KG",
     "title": "Silk TPU - Cream White",
-    "updated_at": 1786230548195
+    "updated_at": 1786383264173
   },
   {
     "aspect1": "Basic",
@@ -2717,9 +2717,9 @@
     "name": "Grey",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-GREY",
+    "sku": "SL-HSPLA+-GY-1KG",
     "title": "High Speed PLA+ - Grey",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Translucent",
@@ -3182,6 +3182,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3770008753082",
+    "brand": "ArianePlast",
+    "color": "#8a2be2FF",
+    "color_info": {
+      "colors": [
+        "#8a2be2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 66474877,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Violet",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G18-TPU95AVIO05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Violet",
+    "updated_at": null
+  },
+  {
     "aspect1": "Pastel",
     "aspect2": null,
     "barcode": "5903175655196",
@@ -3362,9 +3385,9 @@
     "name": "Sakura Pink",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-SAKURAPINK-1KG-A",
+    "sku": "SL-PLAMT-PK-1KG",
     "title": "PLA Meta - Sakura Pink",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Matt",
@@ -6536,9 +6559,9 @@
     "name": "Transparent Rainbow 04",
     "product_type": "Filament",
     "series": "Transparent Rainbow PLA",
-    "sku": "SL-TRRB-04",
+    "sku": "SL-PLATPRB-RB04-1KG",
     "title": "Transparent Rainbow PLA - Transparent Rainbow 04",
-    "updated_at": 1786308914261
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -7675,9 +7698,9 @@
     "name": "Pink",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-PINK",
+    "sku": "SL-HSPLA+-PK-1KG",
     "title": "High Speed PLA+ - Pink",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -8091,9 +8114,9 @@
     "name": "Black",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "SL-TPU90A-BLACK",
+    "sku": "SL-TPU90A-BK-1KG",
     "title": "TPU 90A - Black",
-    "updated_at": 1786309181567
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Pastel",
@@ -9532,9 +9555,9 @@
     "name": "Red Gold",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-RGo",
+    "sku": "SL-SILKDC-RD+GD-1KG",
     "title": "Silk PLA+ Dual-Color - Red Gold",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Silk",
@@ -9582,6 +9605,29 @@
     "sku": "PRM-PLA-PNK-1000",
     "title": "PLA - Blend Ms. Pink",
     "updated_at": 1784710385863
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349160335",
+    "brand": "ArianePlast",
+    "color": "#8A2BE2FF",
+    "color_info": {
+      "colors": [
+        "#8A2BE2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 202585908,
+    "img_src": "https://cdn.tigertag.io/img?id=202585908&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Violet",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "FTPU85AVIOLET500175",
+    "title": "TPU 85A - ArianePlast TPU 85A - Violet",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -16865,9 +16911,9 @@
     "name": "Green Purple",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-GP",
+    "sku": "SL-SILKDC-GN+PP-1KG",
     "title": "Silk PLA+ Dual-Color - Green Purple",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Translucent",
@@ -20929,6 +20975,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3770008753594",
+    "brand": "ArianePlast",
+    "color": "#f88070FF",
+    "color_info": {
+      "colors": [
+        "#f88070FF"
+      ],
+      "type": "mono"
+    },
+    "id": 428204665,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Corail Pantone 16-1546",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "F-TPU95ACORAIL500",
+    "title": "TPU 95A - ArianePlast TPU 95A - Corail Pantone 16-1546",
+    "updated_at": null
+  },
+  {
     "aspect1": "Wood",
     "aspect2": null,
     "barcode": "8718924473078",
@@ -21340,9 +21409,9 @@
     "name": "Grey",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "SL-TPU90A-GREY",
+    "sku": "SL-TPU90A-GY-1KG",
     "title": "TPU 90A - Grey",
-    "updated_at": 1786309181567
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Stone",
@@ -23864,9 +23933,9 @@
     "name": "Red",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "SL-TPU90A-RED",
+    "sku": "SL-TPU90A-RD-1KG",
     "title": "TPU 90A - Red",
-    "updated_at": 1786309181567
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Matt",
@@ -24401,6 +24470,29 @@
     "updated_at": 1785882647458
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349166696",
+    "brand": "ArianePlast",
+    "color": "#8B8B5AFF",
+    "color_info": {
+      "colors": [
+        "#8B8B5AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 498468702,
+    "img_src": "https://cdn.tigertag.io/img?id=498468702&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Kaki",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "A-TPU85AKAKI05175",
+    "title": "TPU 85A - ArianePlast TPU 85A - Kaki",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "6922572208735",
@@ -24833,9 +24925,9 @@
     "name": "Lemon Yellow",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-LEMONYELLOW-1KG-A",
+    "sku": "SL-PLAMT-YL-1KG",
     "title": "PLA Meta - Lemon Yellow",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -27951,9 +28043,9 @@
     "name": "Green",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-GREEN",
+    "sku": "SL-HSPLA-GN-1KG",
     "title": "High Speed PLA - Green",
-    "updated_at": null
+    "updated_at": 1786383264172
   },
   {
     "aspect1": "Basic",
@@ -28788,9 +28880,9 @@
     "name": "Transparent Rainbow 01",
     "product_type": "Filament",
     "series": "Transparent Rainbow PLA",
-    "sku": "SL-TRRB-01",
+    "sku": "SL-PLATPRB-RB01-1KG",
     "title": "Transparent Rainbow PLA - Transparent Rainbow 01",
-    "updated_at": 1786308914261
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -29457,9 +29549,9 @@
     "name": "Red",
     "product_type": "Filament",
     "series": "High Speed Matte PETG",
-    "sku": "SL-HSMPETG-RED",
+    "sku": "SL-HSMPETG-RD-1KG",
     "title": "High Speed Matte PETG - Red",
-    "updated_at": 1786308601768
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Matt",
@@ -30824,9 +30916,9 @@
     "name": "Orange+Red",
     "product_type": "Filament",
     "series": "Matte Dual-Color PLA",
-    "sku": "SL-MATTEDC-ORANGERED",
+    "sku": "SL-PLAYG_DC-OR+RD-1KG",
     "title": "Matte Dual-Color PLA - Orange+Red",
-    "updated_at": 1786230714965
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -35031,9 +35123,9 @@
     "name": "Orange Blue Green",
     "product_type": "Filament",
     "series": "Silk PLA+ Tri-Color",
-    "sku": "SL-SILK3C-OBG",
+    "sku": "SL-SILKTC-OR+BL+GN-1KG",
     "title": "Silk PLA+ Tri-Color - Orange Blue Green",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "None",
@@ -39421,9 +39513,9 @@
     "name": "Cream White",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-CREAMWHITE-1KG-A",
+    "sku": "SL-PLAMT-CW-1KG",
     "title": "PLA Meta - Cream White",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Wood",
@@ -39490,9 +39582,9 @@
     "name": "Sunny Orange",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "SL-TPU90A-ORANGE",
+    "sku": "SL-TPU90A-SO-1KG",
     "title": "TPU 90A - Sunny Orange",
-    "updated_at": 1786309181567
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Rainbow",
@@ -40230,9 +40322,9 @@
     "name": "Blue Green",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-BLG",
+    "sku": "SL-SILKDC-BL+GN-1KG",
     "title": "Silk PLA+ Dual-Color - Blue Green",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -40739,9 +40831,9 @@
     "name": "Black+Blue",
     "product_type": "Filament",
     "series": "Matte Dual-Color PLA",
-    "sku": "SL-MATTEDC-BLACKBLUE",
+    "sku": "SL-PLAYG_DC-BK+BL-1KG",
     "title": "Matte Dual-Color PLA - Black+Blue",
-    "updated_at": 1786230714965
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -41161,9 +41253,9 @@
     "name": "Black Grey Red Yellow",
     "product_type": "Filament",
     "series": "Silk PLA+ Four-Color",
-    "sku": "SL-SILK4C-BGRY",
+    "sku": "SL-SILKFC-BK+GY+RD+YL-1KG",
     "title": "Silk PLA+ Four-Color - Black Grey Red Yellow",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Matt",
@@ -43082,9 +43174,9 @@
     "name": "Mint Green",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-MINTGREEN-1KG-A",
+    "sku": "SL-PLAMT-GN-1KG",
     "title": "PLA Meta - Mint Green",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Silk",
@@ -44362,6 +44454,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "3760349160045",
+    "brand": "ArianePlast",
+    "color": "#CC0000FF",
+    "color_info": {
+      "colors": [
+        "#CC0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 916660874,
+    "img_src": "https://cdn.tigertag.io/img?id=916660874&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Rouge",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "FTPU85ARGE500175",
+    "title": "TPU 85A - ArianePlast TPU 85A - Rouge",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "5907753131140",
     "brand": "Rosa3D",
     "color": "#F57414FF",
@@ -44999,9 +45114,9 @@
     "name": "White",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-WHITE",
+    "sku": "SL-HSPLA-WT-1KG",
     "title": "High Speed PLA - White",
-    "updated_at": null
+    "updated_at": 1786383264172
   },
   {
     "aspect1": "Basic",
@@ -47621,6 +47736,29 @@
     "updated_at": 1785409457720
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "3770006552489",
+    "brand": "ArianePlast",
+    "color": "#e8e8e899",
+    "color_info": {
+      "colors": [
+        "#e8e8e899"
+      ],
+      "type": "mono"
+    },
+    "id": 990761282,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Translucide",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G21-TPU95ATRANS05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Translucide",
+    "updated_at": null
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": "Basic",
     "barcode": "",
@@ -49430,6 +49568,29 @@
     "series": "PLA+",
     "sku": "PLA+175Q-U1R1",
     "title": "PLA+ - LIGHT BLUE",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349166467",
+    "brand": "ArianePlast",
+    "color": "#8b8b5aFF",
+    "color_info": {
+      "colors": [
+        "#8b8b5aFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1028614850,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Kaki",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G25-TPU95AKAKI05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Kaki",
     "updated_at": null
   },
   {
@@ -52043,9 +52204,9 @@
     "name": "Orange",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-ORANGE",
+    "sku": "SL-HSPLA+-OR-1KG",
     "title": "High Speed PLA+ - Orange",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -53148,9 +53309,9 @@
     "name": "Walnut wood",
     "product_type": "Filament",
     "series": "PLA WOOD",
-    "sku": "SL-N-WOOD-WL-1KG-A",
+    "sku": "SL-OWOOD-WL-1KG",
     "title": "PLA WOOD - Walnut wood",
-    "updated_at": null
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Silk",
@@ -54427,6 +54588,29 @@
     "series": "PLA Shiny Glitter",
     "sku": "3DSHTCBYG",
     "title": "PLA Shiny Glitter - Shiny Black Yellow Green",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3770006552571",
+    "brand": "ArianePlast",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1125775822,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Gris",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "F-TPU95AGRIS500",
+    "title": "TPU 95A - ArianePlast TPU 95A - Gris",
     "updated_at": null
   },
   {
@@ -56389,9 +56573,9 @@
     "name": "Red Yellow Green",
     "product_type": "Filament",
     "series": "Silk PLA+ Tri-Color",
-    "sku": "SL-SILK3C-RYG",
+    "sku": "SL-SILKTC-RD+YL+GN-1KG",
     "title": "Silk PLA+ Tri-Color - Red Yellow Green",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -57787,6 +57971,29 @@
     "updated_at": 1785393939639
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349160007",
+    "brand": "ArianePlast",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1196522437,
+    "img_src": "https://cdn.tigertag.io/img?id=1196522437&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Blanc",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "FTPU85ABLANC500175",
+    "title": "TPU 85A - ArianePlast TPU 85A - Blanc",
+    "updated_at": null
+  },
+  {
     "aspect1": "Translucent",
     "aspect2": null,
     "barcode": "",
@@ -58428,9 +58635,9 @@
     "name": "Yellow",
     "product_type": "Filament",
     "series": "High Speed Matte PETG",
-    "sku": "SL-HSMPETG-YELLOW",
+    "sku": "SL-HSMPETG-YL-1KG",
     "title": "High Speed Matte PETG - Yellow",
-    "updated_at": 1786308601768
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -60259,9 +60466,9 @@
     "name": "Red Yellow Blue",
     "product_type": "Filament",
     "series": "Silk PLA+ Tri-Color",
-    "sku": "SL-SILK3C-RYB",
+    "sku": "SL-SILKTC-RD+YL+BL-1KG",
     "title": "Silk PLA+ Tri-Color - Red Yellow Blue",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Matt",
@@ -60908,9 +61115,9 @@
     "name": "Blue(Klein Blue)",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-BLUEKLEINBLUE",
+    "sku": "SL-HSPLA-BL-1KG",
     "title": "High Speed PLA - Blue(Klein Blue)",
-    "updated_at": null
+    "updated_at": 1786383264172
   },
   {
     "aspect1": "Silk",
@@ -63635,9 +63842,9 @@
     "name": "Grey",
     "product_type": "Filament",
     "series": "APLA",
-    "sku": "SL-APLA-GREY",
+    "sku": "SL-APLA-GY-1KG",
     "title": "APLA - Grey",
-    "updated_at": 1786308914261
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -64700,6 +64907,29 @@
     "series": "PETG",
     "sku": "S3D-PET-BLU",
     "title": "PETG - SMART3DPT PETG Blue",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3770008753204",
+    "brand": "ArianePlast",
+    "color": "#ffffffFF",
+    "color_info": {
+      "colors": [
+        "#ffffffFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1348057605,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Blanc",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G30-TPU95ABLC05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Blanc",
     "updated_at": null
   },
   {
@@ -65951,9 +66181,9 @@
     "name": "Olive Green",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-OLIVEGREEN-1KG-A",
+    "sku": "SL-PLAMT-OG-1KG",
     "title": "PLA Meta - Olive Green",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -67129,9 +67359,9 @@
     "name": "Sky Blue",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-SKYBLUE-1KG-A",
+    "sku": "SL-PLAMT-BL-1KG",
     "title": "PLA Meta - Sky Blue",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -67221,9 +67451,9 @@
     "name": "White",
     "product_type": "Filament",
     "series": "High Speed Matte PLA",
-    "sku": "SL-HSMPLA-WHITE",
+    "sku": "SL-HSMPLA-WT-1KG",
     "title": "High Speed Matte PLA - White",
-    "updated_at": 1786308400405
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Satin",
@@ -67410,6 +67640,29 @@
     "sku": "PSI01000175AURBORWNK",
     "title": "PLA Silk Tricolor - PLA Silk Tricolor Aurora Borealis",
     "updated_at": 1785415237910
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349160021",
+    "brand": "ArianePlast",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1407201772,
+    "img_src": "https://cdn.tigertag.io/img?id=1407201772&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Gris",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "FTPU85AGRIS500175",
+    "title": "TPU 85A - ArianePlast TPU 85A - Gris",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -68987,9 +69240,9 @@
     "name": "Red Blue",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-RB",
+    "sku": "SL-SILKDC-RD+BL-1KG",
     "title": "Silk PLA+ Dual-Color - Red Blue",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -69194,9 +69447,9 @@
     "name": "Black",
     "product_type": "Filament",
     "series": "High Speed Matte PETG",
-    "sku": "SL-HSMPETG-BLACK",
+    "sku": "SL-HSMPETG-BK-1KG",
     "title": "High Speed Matte PETG - Black",
-    "updated_at": 1786308601768
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Matt",
@@ -71352,9 +71605,9 @@
     "name": "Sky Blue",
     "product_type": "Filament",
     "series": "High Speed Matte PETG",
-    "sku": "SL-HSMPETG-SKYBLUE",
+    "sku": "SL-HSMPETG-SB-1KG",
     "title": "High Speed Matte PETG - Sky Blue",
-    "updated_at": 1786308601768
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -71675,9 +71928,9 @@
     "name": "Yellow",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-YELLOW",
+    "sku": "SL-HSPLA-YL-1KG",
     "title": "High Speed PLA - Yellow",
-    "updated_at": null
+    "updated_at": 1786383264172
   },
   {
     "aspect1": "Clear",
@@ -74572,9 +74825,9 @@
     "name": "Transparent Rainbow 02",
     "product_type": "Filament",
     "series": "Transparent Rainbow PLA",
-    "sku": "SL-TRRB-02",
+    "sku": "SL-PLATPRB-RB02-1KG",
     "title": "Transparent Rainbow PLA - Transparent Rainbow 02",
-    "updated_at": 1786308914261
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Neon",
@@ -75264,9 +75517,9 @@
     "name": "Ice Blue",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-ICEBLUE-1KG-A",
+    "sku": "SL-PLAMT-IB-1KG",
     "title": "PLA Meta - Ice Blue",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -80047,9 +80300,9 @@
     "name": "Yellow+Cyan",
     "product_type": "Filament",
     "series": "Matte Dual-Color PLA",
-    "sku": "SL-MATTEDC-YELLOWCYAN",
+    "sku": "SL-PLAYG_DC-YL+CY-1KG",
     "title": "Matte Dual-Color PLA - Yellow+Cyan",
-    "updated_at": 1786230714965
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -84918,6 +85171,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "3770006552564",
+    "brand": "ArianePlast",
+    "color": "#7fff00FF",
+    "color_info": {
+      "colors": [
+        "#7fff00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1775625370,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Vert Fluo",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G17-TPU95AVRFLU05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Vert Fluo",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#757478FF",
@@ -88727,9 +89003,9 @@
     "name": "Red Yellow Green Black",
     "product_type": "Filament",
     "series": "Silk PLA+ Four-Color",
-    "sku": "SL-SILK4C-RYGB",
+    "sku": "SL-SILKFC-RD+YL+GN+BK-1KG",
     "title": "Silk PLA+ Four-Color - Red Yellow Green Black",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -89124,6 +89400,29 @@
     "series": "PETG Hyper Speed",
     "sku": "FGR171-0000",
     "title": "PETG Hyper Speed - TRANSPARENT",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349160397",
+    "brand": "ArianePlast",
+    "color": "#F88070FF",
+    "color_info": {
+      "colors": [
+        "#F88070FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1869412286,
+    "img_src": "https://cdn.tigertag.io/img?id=1869412286&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Corail Pantone 16-1546",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "FTPU85ACORAIL500175",
+    "title": "TPU 85A - ArianePlast TPU 85A - Corail Pantone 16-1546",
     "updated_at": null
   },
   {
@@ -92895,9 +93194,9 @@
     "name": "Black Purple",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-BP",
+    "sku": "SL-SILKDC-BK+PP-1KG",
     "title": "Silk PLA+ Dual-Color - Black Purple",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -102395,9 +102694,9 @@
     "name": "Sunny Orange",
     "product_type": "Filament",
     "series": "High Speed Matte PETG",
-    "sku": "SL-HSMPETG-ORANGE",
+    "sku": "SL-HSMPETG-OR-1KG",
     "title": "High Speed Matte PETG - Sunny Orange",
-    "updated_at": 1786308601768
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -103654,6 +103953,29 @@
     "sku": "DLZ-JY-PETG-SO-1.1kg",
     "title": "Standard PETG - Sunny Orange",
     "updated_at": 1785272186333
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3770008753587",
+    "brand": "ArianePlast",
+    "color": "#cc0000FF",
+    "color_info": {
+      "colors": [
+        "#cc0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2181227262,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Rouge",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G28-TPU95ARGE05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Rouge",
+    "updated_at": null
   },
   {
     "aspect1": "Translucent",
@@ -106711,9 +107033,9 @@
     "name": "Black",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-BLACK",
+    "sku": "SL-HSPLA-BK-1KG",
     "title": "High Speed PLA - Black",
-    "updated_at": null
+    "updated_at": 1786383264172
   },
   {
     "aspect1": "Translucent",
@@ -107656,9 +107978,9 @@
     "name": "Apple Green",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-APPLEGREEN-1KG-A",
+    "sku": "SL-PLAMT-AG-1KG",
     "title": "PLA Meta - Apple Green",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Rainbow",
@@ -110297,6 +110619,29 @@
     "series": "PA6-GF",
     "sku": "PA6-GF-Frosted White",
     "title": "PA6-GF - Glass Fiber Reinforced PA6 Filament, 1 KG 1 Spool, Frosted White",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349166474",
+    "brand": "ArianePlast",
+    "color": "#e8beacFF",
+    "color_info": {
+      "colors": [
+        "#e8beacFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2312874095,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Peau 3Y09SP",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G22-TPU95APEAU05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Peau 3Y09SP",
     "updated_at": null
   },
   {
@@ -114087,9 +114432,9 @@
     "name": "Sky Blue",
     "product_type": "Filament",
     "series": "High Speed Matte PLA",
-    "sku": "SL-HSMPLA-SKYBLUE",
+    "sku": "SL-HSMPLA-SB-1KG",
     "title": "High Speed Matte PLA - Sky Blue",
-    "updated_at": 1786308400405
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Tricolor",
@@ -114536,10 +114881,10 @@
     "aspect2": null,
     "barcode": "6949575279999",
     "brand": "Sunlu",
-    "color": "#2A2A2A",
+    "color": "#2A2A2AFF",
     "color_info": {
       "colors": [
-        "#2A2A2A"
+        "#2A2A2AFF"
       ],
       "type": "mono"
     },
@@ -114550,9 +114895,9 @@
     "name": "Black",
     "product_type": "Filament",
     "series": "Silk TPU",
-    "sku": "SL-SILKTPU-BLACK",
+    "sku": "SL-TPUSK-BK-1KG",
     "title": "Silk TPU - Black",
-    "updated_at": 1786230396768
+    "updated_at": 1786383264173
   },
   {
     "aspect1": "Basic",
@@ -117077,9 +117422,9 @@
     "name": "Taro Purple",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-TAROPURPLE-1KG-A",
+    "sku": "SL-PLAMT-TOP-1KG",
     "title": "PLA Meta - Taro Purple",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -117425,9 +117770,9 @@
     "name": "Black+Red",
     "product_type": "Filament",
     "series": "Matte Dual-Color PLA",
-    "sku": "SL-MATTEDC-BLACKRED",
+    "sku": "SL-PLAYG_DC-BK+RD-1KG",
     "title": "Matte Dual-Color PLA - Black+Red",
-    "updated_at": 1786230714965
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Clear",
@@ -117762,6 +118107,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "3760349164265",
+    "brand": "ArianePlast",
+    "color": "#2E8B57FF",
+    "color_info": {
+      "colors": [
+        "#2E8B57FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2471715273,
+    "img_src": "https://cdn.tigertag.io/img?id=2471715273&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Vert",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "G15-TPU85AVERT05",
+    "title": "TPU 85A - ArianePlast TPU 85A - Vert",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "",
     "brand": "CaiLab",
     "color": "#4B3621FF",
@@ -118056,9 +118424,9 @@
     "name": "Black",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-BLACK-1KG-A",
+    "sku": "SL-PLAMT-BK-1KG",
     "title": "PLA Meta - Black",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Silk",
@@ -119051,9 +119419,9 @@
     "name": "Grey",
     "product_type": "Filament",
     "series": "High Speed Matte PETG",
-    "sku": "SL-HSMPETG-GREY",
+    "sku": "SL-HSMPETG-GY-1KG",
     "title": "High Speed Matte PETG - Grey",
-    "updated_at": 1786308601768
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -119074,9 +119442,9 @@
     "name": "Azure",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "SL-TPU90A-AZURE",
+    "sku": "SL-TPU90A-AZ-1KG",
     "title": "TPU 90A - Azure",
-    "updated_at": 1786309181567
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Matt",
@@ -119491,9 +119859,9 @@
     "name": "Black Blue",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-BBL",
+    "sku": "SL-SILKDC-BK+BL-1KG",
     "title": "Silk PLA+ Dual-Color - Black Blue",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -119560,9 +119928,9 @@
     "name": "Klein Blue",
     "product_type": "Filament",
     "series": "High Speed Matte PETG",
-    "sku": "SL-HSMPETG-KLEIN",
+    "sku": "SL-HSMPETG-BL-1KG",
     "title": "High Speed Matte PETG - Klein Blue",
-    "updated_at": 1786308601768
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -119889,9 +120257,9 @@
     "name": "Green",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "SL-TPU90A-GREEN",
+    "sku": "SL-TPU90A-GN-1KG",
     "title": "TPU 90A - Green",
-    "updated_at": 1786309181567
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -120727,6 +121095,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349160038",
+    "brand": "ArianePlast",
+    "color": "#1E5AA8FF",
+    "color_info": {
+      "colors": [
+        "#1E5AA8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2541226253,
+    "img_src": "https://cdn.tigertag.io/img?id=2541226253&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Bleu",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "FTPU85ABLEU500175",
+    "title": "TPU 85A - ArianePlast TPU 85A - Bleu",
+    "updated_at": null
+  },
+  {
     "aspect1": "Rainbow",
     "aspect2": "Clear",
     "barcode": "6922572217843",
@@ -120883,9 +121274,9 @@
     "name": "Cream White",
     "product_type": "Filament",
     "series": "APLA",
-    "sku": "SL-APLA-CREAM",
+    "sku": "SL-APLA-CW-1KG",
     "title": "APLA - Cream White",
-    "updated_at": 1786308914261
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Glitter",
@@ -123224,9 +123615,9 @@
     "name": "Pink",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-PINK",
+    "sku": "SL-HSPLA-PK-1KG",
     "title": "High Speed PLA - Pink",
-    "updated_at": null
+    "updated_at": 1786383264172
   },
   {
     "aspect1": "Basic",
@@ -124228,10 +124619,10 @@
     "aspect2": null,
     "barcode": "6933582327484",
     "brand": "Sunlu",
-    "color": "#f3d4a4FF",
+    "color": "#F3D4A4FF",
     "color_info": {
       "colors": [
-        "#f3d4a4FF"
+        "#F3D4A4FF"
       ],
       "type": "mono"
     },
@@ -124242,9 +124633,9 @@
     "name": "Maple wood",
     "product_type": "Filament",
     "series": "PLA WOOD",
-    "sku": "SL-N-WOOD-MW-1KG-A",
+    "sku": "SL-OWOOD-MW-1KG",
     "title": "PLA WOOD - Maple wood",
-    "updated_at": null
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -126313,6 +126704,29 @@
     "updated_at": 1785872868783
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349166443",
+    "brand": "ArianePlast",
+    "color": "#ffcc00FF",
+    "color_info": {
+      "colors": [
+        "#ffcc00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2658265770,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Jaune Securite RAL 1003",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G23-TPU95A1003-05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Jaune Securite RAL 1003",
+    "updated_at": null
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "",
@@ -126865,9 +127279,9 @@
     "name": "White",
     "product_type": "Filament",
     "series": "TPU 90A",
-    "sku": "SL-TPU90A-WHITE",
+    "sku": "SL-TPU90A-WT-1KG",
     "title": "TPU 90A - White",
-    "updated_at": 1786309181567
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Glitter",
@@ -128240,9 +128654,9 @@
     "name": "Black",
     "product_type": "Filament",
     "series": "High Speed Matte PLA",
-    "sku": "SL-HSMPLA-BLACK",
+    "sku": "SL-HSMPLA-BK-1KG",
     "title": "High Speed Matte PLA - Black",
-    "updated_at": 1786308400405
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -128309,9 +128723,9 @@
     "name": "Yellow",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-YELLOW",
+    "sku": "SL-HSPLA+-YL-1KG",
     "title": "High Speed PLA+ - Yellow",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -130435,9 +130849,9 @@
     "name": "Light Blue",
     "product_type": "Filament",
     "series": "APLA",
-    "sku": "SL-APLA-LIGHTBLUE",
+    "sku": "SL-APLA-LB-1KG",
     "title": "APLA - Light Blue",
-    "updated_at": 1786308914261
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -133495,10 +133909,10 @@
     "aspect2": null,
     "barcode": "6949575280025",
     "brand": "Sunlu",
-    "color": "#1E3A6E",
+    "color": "#1E3A6EFF",
     "color_info": {
       "colors": [
-        "#1E3A6E"
+        "#1E3A6EFF"
       ],
       "type": "mono"
     },
@@ -133509,9 +133923,9 @@
     "name": "Dark Blue",
     "product_type": "Filament",
     "series": "Silk TPU",
-    "sku": "SL-SILKTPU-DARKBLUE",
+    "sku": "SL-TPUSK-DB-1KG",
     "title": "Silk TPU - Dark Blue",
-    "updated_at": 1786230607107
+    "updated_at": 1786383264173
   },
   {
     "aspect1": "Basic",
@@ -134228,6 +134642,29 @@
     "sku": "376034597243",
     "title": "PC - V0 Black",
     "updated_at": 1763043026964
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349160342",
+    "brand": "ArianePlast",
+    "color": "#2e8b57FF",
+    "color_info": {
+      "colors": [
+        "#2e8b57FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2813427788,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Vert",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G26-TPU95AVERT05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Vert",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -134989,9 +135426,9 @@
     "name": "Black Green",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-BG",
+    "sku": "SL-SILKDC-BK+GN-1KG",
     "title": "Silk PLA+ Dual-Color - Black Green",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -136075,9 +136512,9 @@
     "name": "White",
     "product_type": "Filament",
     "series": "High Speed Matte PETG",
-    "sku": "SL-HSMPETG-WHITE",
+    "sku": "SL-HSMPETG-WT-1KG",
     "title": "High Speed Matte PETG - White",
-    "updated_at": 1786308601768
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Silk",
@@ -138518,9 +138955,9 @@
     "name": "Green",
     "product_type": "Filament",
     "series": "High Speed Matte PETG",
-    "sku": "SL-HSMPETG-GREEN",
+    "sku": "SL-HSMPETG-GN-1KG",
     "title": "High Speed Matte PETG - Green",
-    "updated_at": 1786308601768
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -139354,9 +139791,9 @@
     "name": "Transparent Rainbow 03",
     "product_type": "Filament",
     "series": "Transparent Rainbow PLA",
-    "sku": "SL-TRRB-03",
+    "sku": "SL-PLATPRB-RB03-1KG",
     "title": "Transparent Rainbow PLA - Transparent Rainbow 03",
-    "updated_at": 1786308914261
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -139515,9 +139952,9 @@
     "name": "Red",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-RED",
+    "sku": "SL-HSPLA-RD-1KG",
     "title": "High Speed PLA - Red",
-    "updated_at": null
+    "updated_at": 1786383264172
   },
   {
     "aspect1": "Basic",
@@ -140555,9 +140992,9 @@
     "name": "Sunny Orange",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-SUNNYORANGE-1KG-A",
+    "sku": "SL-PLAMT-SO-1KG",
     "title": "PLA Meta - Sunny Orange",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Matt",
@@ -140603,9 +141040,9 @@
     "name": "Green+Purple",
     "product_type": "Filament",
     "series": "Matte Dual-Color PLA",
-    "sku": "SL-MATTEDC-GREENPURPLE",
+    "sku": "SL-PLAYG_DC-GN+PP-1KG",
     "title": "Matte Dual-Color PLA - Green+Purple",
-    "updated_at": 1786230714965
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -142709,9 +143146,9 @@
     "name": "Black White",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-BW",
+    "sku": "SL-SILKDC-BK+WT-1KG",
     "title": "Silk PLA+ Dual-Color - Black White",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Stone",
@@ -149964,9 +150401,9 @@
     "name": "Jelly Green",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-JELLYGREEN",
+    "sku": "SL-HSPLA-JG-1KG",
     "title": "High Speed PLA - Jelly Green",
-    "updated_at": null
+    "updated_at": 1786383264173
   },
   {
     "aspect1": "Basic",
@@ -150939,9 +151376,9 @@
     "name": "Blue Purple Orange Yellow",
     "product_type": "Filament",
     "series": "Silk PLA+ Four-Color",
-    "sku": "SL-SILK4C-BPOY",
+    "sku": "SL-SILKFC-BL+PP+OR+YL-1KG",
     "title": "Silk PLA+ Four-Color - Blue Purple Orange Yellow",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -152669,9 +153106,9 @@
     "name": "Red",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-RED",
+    "sku": "SL-HSPLA+-RD-1KG",
     "title": "High Speed PLA+ - Red",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -152854,9 +153291,9 @@
     "name": "Red+Blue",
     "product_type": "Filament",
     "series": "Matte Dual-Color PLA",
-    "sku": "SL-MATTEDC-REDBLUE",
+    "sku": "SL-PLAYG_DC-RD+BL-1KG",
     "title": "Matte Dual-Color PLA - Red+Blue",
-    "updated_at": 1786230714965
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Matt",
@@ -153896,9 +154333,9 @@
     "name": "Black",
     "product_type": "Filament",
     "series": "APLA",
-    "sku": "SL-APLA-BLACK",
+    "sku": "SL-APLA-BK-1KG",
     "title": "APLA - Black",
-    "updated_at": 1786308914261
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -155657,9 +156094,9 @@
     "name": "Cherry Red",
     "product_type": "Filament",
     "series": "High Speed Matte PLA",
-    "sku": "SL-HSMPLA-CHERRYRED",
+    "sku": "SL-HSMPLA-CR-1KG",
     "title": "High Speed Matte PLA - Cherry Red",
-    "updated_at": 1786308400405
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -157210,9 +157647,9 @@
     "name": "White",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-WHITE",
+    "sku": "SL-HSPLA+-WT-1KG",
     "title": "High Speed PLA+ - White",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Stone",
@@ -160069,9 +160506,9 @@
     "name": "Coral Pink",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-CORALPINK",
+    "sku": "SL-HSPLA-CP-1KG",
     "title": "High Speed PLA - Coral Pink",
-    "updated_at": null
+    "updated_at": 1786383264173
   },
   {
     "aspect1": "None",
@@ -162360,9 +162797,9 @@
     "name": "Olive Green",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-OLIVEGREEN",
+    "sku": "SL-HSPLA-OG-1KG",
     "title": "High Speed PLA - Olive Green",
-    "updated_at": null
+    "updated_at": 1786383264172
   },
   {
     "aspect1": "Basic",
@@ -164346,9 +164783,9 @@
     "name": "Black",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-BLACK",
+    "sku": "SL-HSPLA+-BK-1KG",
     "title": "High Speed PLA+ - Black",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -164417,9 +164854,9 @@
     "name": "Black Gold Purple",
     "product_type": "Filament",
     "series": "Silk PLA+ Tri-Color",
-    "sku": "SL-SILK3C-BGoP",
+    "sku": "SL-SILKTC-BK+GD+PP-1KG",
     "title": "Silk PLA+ Tri-Color - Black Gold Purple",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -165362,9 +165799,9 @@
     "name": "Orange",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-ORANGE",
+    "sku": "SL-HSPLA-OR-1KG",
     "title": "High Speed PLA - Orange",
-    "updated_at": null
+    "updated_at": 1786383264172
   },
   {
     "aspect1": "Basic",
@@ -167177,9 +167614,9 @@
     "name": "Grey",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-GREY-1KG-A",
+    "sku": "SL-PLAMT-GY-1KG",
     "title": "PLA Meta - Grey",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Matt",
@@ -167525,9 +167962,9 @@
     "name": "Green",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-GREEN",
+    "sku": "SL-HSPLA+-GN-1KG",
     "title": "High Speed PLA+ - Green",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -171483,6 +171920,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "3770006552557",
+    "brand": "ArianePlast",
+    "color": "#dfff00FF",
+    "color_info": {
+      "colors": [
+        "#dfff00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3601497132,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Jaune Fluo",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G20-TPU95AJNFLU05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Jaune Fluo",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6931677300206",
     "brand": "R3D",
     "color": "#CBB98DFF",
@@ -171901,10 +172361,10 @@
     "aspect2": null,
     "barcode": "6949575280032",
     "brand": "Sunlu",
-    "color": "#6E2436",
+    "color": "#6E2436FF",
     "color_info": {
       "colors": [
-        "#6E2436"
+        "#6E2436FF"
       ],
       "type": "mono"
     },
@@ -171915,9 +172375,9 @@
     "name": "Burgundy",
     "product_type": "Filament",
     "series": "Silk TPU",
-    "sku": "SL-SILKTPU-BURGUNDY",
+    "sku": "SL-TPUSK-BD-1KG",
     "title": "Silk TPU - Burgundy",
-    "updated_at": 1786230490015
+    "updated_at": 1786383264173
   },
   {
     "aspect1": "Basic",
@@ -173119,9 +173579,9 @@
     "name": "Blue",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-BLUE",
+    "sku": "SL-HSPLA+-BL-1KG",
     "title": "High Speed PLA+ - Blue",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -174300,9 +174760,9 @@
     "name": "Red+Yellow",
     "product_type": "Filament",
     "series": "Matte Dual-Color PLA",
-    "sku": "SL-MATTEDC-REDYELLOW",
+    "sku": "SL-PLAYG_DC-RD+YL-1KG",
     "title": "Matte Dual-Color PLA - Red+Yellow",
-    "updated_at": 1786230714965
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -179403,6 +179863,29 @@
     "updated_at": 1785280696707
   },
   {
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": "3770006552526",
+    "brand": "ArianePlast",
+    "color": "#E8E8E899",
+    "color_info": {
+      "colors": [
+        "#E8E8E899"
+      ],
+      "type": "mono"
+    },
+    "id": 3773859062,
+    "img_src": "https://cdn.tigertag.io/img?id=3773859062&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Translucide",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "FTPU85ATR500175",
+    "title": "TPU 85A - ArianePlast TPU 85A - Translucide",
+    "updated_at": null
+  },
+  {
     "aspect1": "Carbon",
     "aspect2": null,
     "barcode": "6922572217331",
@@ -179570,10 +180053,10 @@
     "aspect2": null,
     "barcode": "6949575280018",
     "brand": "Sunlu",
-    "color": "#8FB7E8",
+    "color": "#8FB7E8FF",
     "color_info": {
       "colors": [
-        "#8FB7E8"
+        "#8FB7E8FF"
       ],
       "type": "mono"
     },
@@ -179584,9 +180067,9 @@
     "name": "Light Blue",
     "product_type": "Filament",
     "series": "Silk TPU",
-    "sku": "SL-SILKTPU-LIGHTBLUE",
+    "sku": "SL-TPUSK-LB-1KG",
     "title": "Silk TPU - Light Blue",
-    "updated_at": 1786230668091
+    "updated_at": 1786383264173
   },
   {
     "aspect1": "Rainbow",
@@ -179999,9 +180482,9 @@
     "name": "Mocha Mousse",
     "product_type": "Filament",
     "series": "High Speed PLA",
-    "sku": "SL-HSPLA-MOCHAMOUSSE",
+    "sku": "SL-HSPLA-MM-1KG",
     "title": "High Speed PLA - Mocha Mousse",
-    "updated_at": null
+    "updated_at": 1786383264173
   },
   {
     "aspect1": "Basic",
@@ -182259,9 +182742,9 @@
     "name": "Chocolate",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-CHOCOLATE-1KG-A",
+    "sku": "SL-PLAMT-CC-1KG",
     "title": "PLA Meta - Chocolate",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Silk",
@@ -185600,10 +186083,10 @@
     "aspect2": null,
     "barcode": "6933582327477",
     "brand": "Sunlu",
-    "color": "#bfa086FF",
+    "color": "#BFA086FF",
     "color_info": {
       "colors": [
-        "#bfa086FF"
+        "#BFA086FF"
       ],
       "type": "mono"
     },
@@ -185614,9 +186097,9 @@
     "name": "WOOD",
     "product_type": "Filament",
     "series": "PLA WOOD",
-    "sku": "SL-N-WOOD-WD-1KG-A",
+    "sku": "SL-OWOOD-WD-1KG",
     "title": "PLA WOOD - WOOD",
-    "updated_at": null
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Rainbow",
@@ -186958,9 +187441,9 @@
     "name": "Pink Gold",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-PGo",
+    "sku": "SL-SILKDC-PK+GD-1KG",
     "title": "Silk PLA+ Dual-Color - Pink Gold",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -189340,9 +189823,9 @@
     "name": "Sunny Orange",
     "product_type": "Filament",
     "series": "High Speed Matte PLA",
-    "sku": "SL-HSMPLA-ORANGE",
+    "sku": "SL-HSMPLA-SO-1KG",
     "title": "High Speed Matte PLA - Sunny Orange",
-    "updated_at": 1786308400405
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -189779,9 +190262,9 @@
     "name": "Olive Green",
     "product_type": "Filament",
     "series": "High Speed PLA+",
-    "sku": "SL-HSPLAP-OLIVE",
+    "sku": "SL-HSPLA+-OG-1KG",
     "title": "High Speed PLA+ - Olive Green",
-    "updated_at": 1786308400405
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Silk",
@@ -190201,9 +190684,9 @@
     "name": "Blue Purple Red Gold",
     "product_type": "Filament",
     "series": "Silk PLA+ Four-Color",
-    "sku": "SL-SILK4C-BPRG",
+    "sku": "SL-SILKFC-BL+PP+RD+GD-1KG",
     "title": "Silk PLA+ Four-Color - Blue Purple Red Gold",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -190786,10 +191269,10 @@
     "aspect2": null,
     "barcode": "6933582327507",
     "brand": "Sunlu",
-    "color": "#dc9e97FF",
+    "color": "#DC9E97FF",
     "color_info": {
       "colors": [
-        "#dc9e97FF"
+        "#DC9E97FF"
       ],
       "type": "mono"
     },
@@ -190800,9 +191283,9 @@
     "name": "Cherry wood",
     "product_type": "Filament",
     "series": "PLA WOOD",
-    "sku": "SL-N-WOOD-CW-1KG-A",
+    "sku": "SL-OWOOD-CW-1KG",
     "title": "PLA WOOD - Cherry wood",
-    "updated_at": null
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -192092,9 +192575,9 @@
     "name": "Cherry Red",
     "product_type": "Filament",
     "series": "PLA Meta",
-    "sku": "SL-N-PLAMETA-CHERRYRED-1KG-A",
+    "sku": "SL-PLAMT-RD-1KG",
     "title": "PLA Meta - Cherry Red",
-    "updated_at": 1786237377377
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Basic",
@@ -192301,6 +192784,29 @@
     "series": "PLA",
     "sku": "LTP01D02K11",
     "title": "PLA - Lotactree Green",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3770006552588",
+    "brand": "ArianePlast",
+    "color": "#ff7f00FF",
+    "color_info": {
+      "colors": [
+        "#ff7f00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4063725232,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Orange",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G27-TPU95AORG05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Orange",
     "updated_at": null
   },
   {
@@ -192810,9 +193316,9 @@
     "name": "Blue Green Purple",
     "product_type": "Filament",
     "series": "Silk PLA+ Tri-Color",
-    "sku": "SL-SILK3C-BGP",
+    "sku": "SL-SILKTC-BL+GN+PP-1KG",
     "title": "Silk PLA+ Tri-Color - Blue Green Purple",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990385
   },
   {
     "aspect1": "Basic",
@@ -194039,6 +194545,29 @@
     "updated_at": 1786110031451
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3770008753037",
+    "brand": "ArianePlast",
+    "color": "#1e5aa8FF",
+    "color_info": {
+      "colors": [
+        "#1e5aa8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4099362621,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Bleu",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G19-TPU95ABLEU05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Bleu",
+    "updated_at": null
+  },
+  {
     "aspect1": "None",
     "aspect2": null,
     "barcode": "",
@@ -195145,9 +195674,9 @@
     "name": "Black Gold",
     "product_type": "Filament",
     "series": "Silk PLA+ Dual-Color",
-    "sku": "SL-SILK2C-BGo",
+    "sku": "SL-SILKDC-BK+GD-1KG",
     "title": "Silk PLA+ Dual-Color - Black Gold",
-    "updated_at": 1786308001005
+    "updated_at": 1786383990384
   },
   {
     "aspect1": "Matt",
@@ -195804,6 +196333,29 @@
     "updated_at": 1785146321778
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349166504",
+    "brand": "ArianePlast",
+    "color": "#ff69b4FF",
+    "color_info": {
+      "colors": [
+        "#ff69b4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4134291344,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Rose Funky",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "A-TPU95RFUN500",
+    "title": "TPU 95A - ArianePlast TPU 95A - Rose Funky",
+    "updated_at": null
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "",
@@ -195871,6 +196423,29 @@
     "sku": "R3DC1E108CFH",
     "title": "PETG HS Carbon Fiber - Terracotta",
     "updated_at": 1785897019079
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349160014",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4140305702,
+    "img_src": "https://cdn.tigertag.io/img?id=4140305702&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Noir",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "FTPU85ANOIR500175",
+    "title": "TPU 85A - ArianePlast TPU 85A - Noir",
+    "updated_at": null
   },
   {
     "aspect1": "Glow in the Dark",
@@ -196144,9 +196719,9 @@
     "name": "Olive Green",
     "product_type": "Filament",
     "series": "APLA",
-    "sku": "SL-APLA-OLIVE",
+    "sku": "SL-APLA-DG-1KG",
     "title": "APLA - Olive Green",
-    "updated_at": 1786308914261
+    "updated_at": 1786383657164
   },
   {
     "aspect1": "Basic",
@@ -201748,6 +202323,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "3760349166429",
+    "brand": "ArianePlast",
+    "color": "#c0c0c0FF",
+    "color_info": {
+      "colors": [
+        "#c0c0c0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4259182298,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Gris Clair",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G24-TPU95AGRICL05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Gris Clair",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "5903175659095",
     "brand": "Spectrum",
     "color": "#6A3FB0FF",
@@ -202254,6 +202852,29 @@
     "updated_at": 1785505185985
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3770008753198",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4272901266,
+    "img_src": null,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 95A - Noir",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "G29-TPU95ANOIR05",
+    "title": "TPU 95A - ArianePlast TPU 95A - Noir",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "6931677320631",
@@ -202275,6 +202896,29 @@
     "sku": "R3DA1E115SHS",
     "title": "PLA HS Silk - Silk Yellow",
     "updated_at": 1785883241074
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "3760349160441",
+    "brand": "ArianePlast",
+    "color": "#FF7F00FF",
+    "color_info": {
+      "colors": [
+        "#FF7F00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4273067436,
+    "img_src": "https://cdn.tigertag.io/img?id=4273067436&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "ArianePlast TPU 85A - Orange",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "G14-TPU85AORG05",
+    "title": "TPU 85A - ArianePlast TPU 85A - Orange",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
