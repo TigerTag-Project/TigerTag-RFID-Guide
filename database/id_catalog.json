@@ -923,6 +923,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 24661484,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Rouge",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-ROUGE",
+    "title": "PCTG - Rouge",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8A030FF",
@@ -1341,7 +1364,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#ADD8E6FF",
     "color_info": {
@@ -1354,12 +1377,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=33422406&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Light Blue",
+    "name": "Light Blue",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01E10K11",
-    "title": "PLA - Lotactree Light Blue",
-    "updated_at": null
+    "title": "PLA - Light Blue",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -5652,12 +5675,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=113209096&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Sky Blue",
+    "name": "Sky Blue",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G10K11",
-    "title": "PLA Silk - Lotactree Silk Sky Blue",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Sky Blue",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Matt",
@@ -7475,7 +7498,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#F5F5DCFF",
     "color_info": {
@@ -7488,12 +7511,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=150525182&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Beige",
+    "name": "Beige",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01A11K11",
-    "title": "PLA - Lotactree Beige",
-    "updated_at": null
+    "title": "PLA - Beige",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -8402,7 +8425,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#22A94CFF",
     "color_info": {
@@ -8415,12 +8438,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=170331539&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Green (Refill)",
+    "name": "Green (Refill)",
     "product_type": "Filament",
     "series": "PLA-E Refill",
     "sku": "LTP18D02K12",
-    "title": "PLA-E Refill - Lotactree Green (Refill)",
-    "updated_at": null
+    "title": "PLA-E Refill - Green (Refill)",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -8448,7 +8471,7 @@
   {
     "aspect1": "Glow in the Dark",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#9099A2FF",
     "color_info": {
@@ -8461,12 +8484,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=172993184&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Cool Grey Luminous",
+    "name": "Cool Grey Luminous",
     "product_type": "Filament",
     "series": "PLA-F Luminous",
     "sku": "LTP03A02K11",
-    "title": "PLA-F Luminous - Lotactree Cool Grey Luminous",
-    "updated_at": null
+    "title": "PLA-F Luminous - Cool Grey Luminous",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Silk",
@@ -9645,12 +9668,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=202988915&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Black (Refill)",
+    "name": "Black (Refill)",
     "product_type": "Filament",
-    "series": "PLA Silk Refill",
+    "series": "PLA Silk",
     "sku": "LTP09A01K12",
-    "title": "PLA Silk Refill - Lotactree Silk Black (Refill)",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Black (Refill)",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -9816,7 +9839,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFFF33FF",
     "color_info": {
@@ -9829,12 +9852,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=206981313&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Neon Yellow",
+    "name": "Neon Yellow",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01C03K11",
-    "title": "PLA - Lotactree Neon Yellow",
-    "updated_at": null
+    "title": "PLA - Neon Yellow",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Matt",
@@ -10788,7 +10811,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#9099A2FF",
     "color_info": {
@@ -10801,12 +10824,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=226514949&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Cool Grey",
+    "name": "Cool Grey",
     "product_type": "Filament",
     "series": "PLA-F",
     "sku": "LTP04A02K11",
-    "title": "PLA-F - Lotactree Cool Grey",
-    "updated_at": null
+    "title": "PLA-F - Cool Grey",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -13700,6 +13723,29 @@
     "updated_at": 1765943050665
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#F5F5F5FF",
+    "color_info": {
+      "colors": [
+        "#F5F5F5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 276524378,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Translucide",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F9H1-9M-9B1",
+    "title": "ABS - ArianePlast ABS - Translucide",
+    "updated_at": 1786433291061
+  },
+  {
     "aspect1": "Translucent",
     "aspect2": null,
     "barcode": "",
@@ -14159,6 +14205,29 @@
     "sku": "3301060031",
     "title": "Hyper PETG-CF - Black",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 291697659,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Noir",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ABS-NOIR-900",
+    "title": "ABS - ArianePlast ABS - Noir",
+    "updated_at": 1786433291061
   },
   {
     "aspect1": "Basic",
@@ -16550,10 +16619,10 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Lotactree",
-    "color": "#000000",
+    "color": "#000000FF",
     "color_info": {
       "colors": [
-        "#000000"
+        "#000000FF"
       ],
       "type": "mono"
     },
@@ -16561,12 +16630,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=335567832&v=2",
     "material": "ABS",
     "measure": "1 kg",
-    "name": "Lotactree Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "ABS",
     "sku": "LTA01A01K11",
-    "title": "ABS - Lotactree Black",
-    "updated_at": 1785758208847
+    "title": "ABS - Black",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Bicolor",
@@ -16792,12 +16861,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=341963267&v=1",
     "material": "TPU",
     "measure": "250 g",
-    "name": "Lotactree TPU Black 250g",
+    "name": "TPU Black 250g",
     "product_type": "Filament",
     "series": "TPU",
     "sku": "LTT01A01G01",
-    "title": "TPU - Lotactree TPU Black 250g",
-    "updated_at": null
+    "title": "TPU - TPU Black 250g",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -16867,6 +16936,29 @@
     "sku": "DLZ-JY-PLA+-SP-1.1kg-C",
     "title": "Standard PLA+ - Sakura Pink",
     "updated_at": 1785271814361
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#84329B",
+    "color_info": {
+      "colors": [
+        "#84329B"
+      ],
+      "type": "mono"
+    },
+    "id": 344091935,
+    "img_src": "https://cdn.tigertag.io/img?id=344091935&v=2",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "SL-TPU95A-TRANSPARENT-PURPLE",
+    "title": "TPU 95A - Transparent Purple",
+    "updated_at": 1786441312870
   },
   {
     "aspect1": "Basic",
@@ -16964,7 +17056,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
     "color_info": {
@@ -16977,12 +17069,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=345284019&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Milky White (Refill)",
+    "name": "Milky White (Refill)",
     "product_type": "Filament",
     "series": "PLA-E Refill",
     "sku": "LTP18A05K12",
-    "title": "PLA-E Refill - Lotactree Milky White (Refill)",
-    "updated_at": null
+    "title": "PLA-E Refill - Milky White (Refill)",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -17309,6 +17401,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 351671332,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Rouge",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F5H1-5M-5B1",
+    "title": "ABS - ArianePlast ABS - Rouge",
+    "updated_at": 1786433291061
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000010561",
     "brand": "Smart Materials 3D",
     "color": "#F0F0F0FF",
@@ -17579,12 +17694,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=357999077&v=1",
     "material": "TPU",
     "measure": "1 kg",
-    "name": "Lotactree TPU White 1kg",
+    "name": "TPU White 1kg",
     "product_type": "Filament",
     "series": "TPU",
     "sku": "LTT01A00K11",
-    "title": "TPU - Lotactree TPU White 1kg",
-    "updated_at": null
+    "title": "TPU - TPU White 1kg",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Matt",
@@ -18118,7 +18233,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFF5EEFF",
     "color_info": {
@@ -18131,12 +18246,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=368023053&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Marshmallow (Refill)",
+    "name": "Marshmallow (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01B03K12",
-    "title": "PLA Refill - Lotactree Marshmallow (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Marshmallow (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -21683,12 +21798,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=442036410&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Red Copper",
+    "name": "Red Copper",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G11K11",
-    "title": "PLA Silk - Lotactree Silk Red Copper",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Red Copper",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Silk",
@@ -22527,7 +22642,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#2E86C1FF",
     "color_info": {
@@ -22540,12 +22655,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=459512377&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Lake Blue (Refill)",
+    "name": "Lake Blue (Refill)",
     "product_type": "Filament",
     "series": "PLA-E Refill",
     "sku": "LTP18E01K12",
-    "title": "PLA-E Refill - Lotactree Lake Blue (Refill)",
-    "updated_at": null
+    "title": "PLA-E Refill - Lake Blue (Refill)",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Matt",
@@ -24126,7 +24241,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#C68642FF",
     "color_info": {
@@ -24139,12 +24254,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=491809818&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Oak (Refill)",
+    "name": "Oak (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01F06K12",
-    "title": "PLA Refill - Lotactree Oak (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Oak (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -24172,7 +24287,7 @@
   {
     "aspect1": "Glow in the Dark",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -24185,12 +24300,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=493710223&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Black Luminous",
+    "name": "Black Luminous",
     "product_type": "Filament",
     "series": "PLA-F Luminous",
     "sku": "LTP03A01K11",
-    "title": "PLA-F Luminous - Lotactree Black Luminous",
-    "updated_at": null
+    "title": "PLA-F Luminous - Black Luminous",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -27428,7 +27543,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#9099A2FF",
     "color_info": {
@@ -27441,12 +27556,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=554907273&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Cool Grey",
+    "name": "Cool Grey",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01A02K11",
-    "title": "PLA - Lotactree Cool Grey",
-    "updated_at": null
+    "title": "PLA - Cool Grey",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -27609,6 +27724,29 @@
     "sku": "1A-4BVU-YCMG",
     "title": "PLA+ PRO - PLA+ PRO Fruity Melon",
     "updated_at": 1785393939640
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 560590815,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Gris",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F10H1-10M-10B1",
+    "title": "ABS - ArianePlast ABS - Gris",
+    "updated_at": 1786433291061
   },
   {
     "aspect1": "Basic",
@@ -28906,6 +29044,29 @@
     "sku": "PLA+175O-BW5B1",
     "title": "PLA+ - BONE WHITE",
     "updated_at": 1782976152430
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 589011642,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Noir",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-NOIR",
+    "title": "PCTG - Noir",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -32517,7 +32678,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -32530,12 +32691,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=660948191&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Black (Refill)",
+    "name": "Black (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01A01K12",
-    "title": "PLA Refill - Lotactree Black (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Black (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -33001,7 +33162,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D32F2FFF",
     "color_info": {
@@ -33014,12 +33175,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=672837414&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Red",
+    "name": "Red",
     "product_type": "Filament",
     "series": "PLA-F",
     "sku": "LTP04B00K11",
-    "title": "PLA-F - Lotactree Red",
-    "updated_at": null
+    "title": "PLA-F - Red",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -38867,7 +39028,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FF6EC7FF",
     "color_info": {
@@ -38880,12 +39041,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=793063772&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Neon Pink",
+    "name": "Neon Pink",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01B07K11",
-    "title": "PLA - Lotactree Neon Pink",
-    "updated_at": null
+    "title": "PLA - Neon Pink",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -39005,7 +39166,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#2E86C1FF",
     "color_info": {
@@ -39018,12 +39179,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=795785567&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Lake Blue",
+    "name": "Lake Blue",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01E01K11",
-    "title": "PLA - Lotactree Lake Blue",
-    "updated_at": null
+    "title": "PLA - Lake Blue",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Matt",
@@ -39405,7 +39566,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFD500FF",
     "color_info": {
@@ -39418,12 +39579,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=801732396&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Lego Yellow (Refill)",
+    "name": "Lego Yellow (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01C01K12",
-    "title": "PLA Refill - Lotactree Lego Yellow (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Lego Yellow (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -40236,7 +40397,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
     "color_info": {
@@ -40249,12 +40410,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=821829421&v=1",
     "material": "ABS",
     "measure": "1 kg",
-    "name": "Lotactree White",
+    "name": "White",
     "product_type": "Filament",
     "series": "ABS",
     "sku": "LTA01A00K11",
-    "title": "ABS - Lotactree White",
-    "updated_at": null
+    "title": "ABS - White",
+    "updated_at": 1786439789273
   },
   {
     "aspect1": "Basic",
@@ -41307,7 +41468,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#C41E3AFF",
     "color_info": {
@@ -41320,12 +41481,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=840854609&v=1",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "Lotactree Chinese Red",
+    "name": "Chinese Red",
     "product_type": "Filament",
     "series": "PETG",
     "sku": "LTG01B00K11",
-    "title": "PETG - Lotactree Chinese Red",
-    "updated_at": null
+    "title": "PETG - Chinese Red",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Matt",
@@ -41349,6 +41510,29 @@
     "series": "PLA Matte Dual",
     "sku": "3DMEDCPP",
     "title": "PLA Matte Dual - Pink Purple",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 842542383,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Gris Clair",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-GRISCLAIR",
+    "title": "PCTG - Gris Clair",
     "updated_at": null
   },
   {
@@ -42349,7 +42533,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#C19A6BFF",
     "color_info": {
@@ -42362,12 +42546,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=868846638&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Wood (Refill)",
+    "name": "Wood (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01F00K12",
-    "title": "PLA Refill - Lotactree Wood (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Wood (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Silk",
@@ -42556,7 +42740,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D32F2FFF",
     "color_info": {
@@ -42569,12 +42753,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=875909187&v=1",
     "material": "PC",
     "measure": "1 kg",
-    "name": "Lotactree Red",
+    "name": "Red",
     "product_type": "Filament",
     "series": "PC",
     "sku": "LTC01B00K11",
-    "title": "PC - Lotactree Red",
-    "updated_at": null
+    "title": "PC - Red",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -45237,7 +45421,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000080FF",
     "color_info": {
@@ -45250,12 +45434,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=931550637&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Navy Blue (Refill)",
+    "name": "Navy Blue (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01E11K12",
-    "title": "PLA Refill - Lotactree Navy Blue (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Navy Blue (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Matt",
@@ -45725,7 +45909,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#1565C0FF",
     "color_info": {
@@ -45738,12 +45922,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=943779299&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Blue",
+    "name": "Blue",
     "product_type": "Filament",
     "series": "PLA-F",
     "sku": "LTP04E02K11",
-    "title": "PLA-F - Lotactree Blue",
-    "updated_at": null
+    "title": "PLA-F - Blue",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -49064,7 +49248,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#9099A2FF",
     "color_info": {
@@ -49077,12 +49261,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1014987074&v=1",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "Lotactree Cool Grey",
+    "name": "Cool Grey",
     "product_type": "Filament",
     "series": "PETG",
     "sku": "LTG01A02K11",
-    "title": "PETG - Lotactree Cool Grey",
-    "updated_at": null
+    "title": "PETG - Cool Grey",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Matt",
@@ -49481,7 +49665,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D4AF37FF",
     "color_info": {
@@ -49494,12 +49678,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1026422607&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Gold",
+    "name": "Gold",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01F01K11",
-    "title": "PLA - Lotactree Gold",
-    "updated_at": null
+    "title": "PLA - Gold",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -50642,7 +50826,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
     "color_info": {
@@ -50655,12 +50839,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1050122698&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Snowy White",
+    "name": "Snowy White",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18A00K11",
-    "title": "PLA-E - Lotactree Snowy White",
-    "updated_at": null
+    "title": "PLA-E - Snowy White",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Silk",
@@ -50898,7 +51082,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#00FFFFFF",
     "color_info": {
@@ -50911,12 +51095,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1053802146&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Cyan",
+    "name": "Cyan",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01D07K11",
-    "title": "PLA - Lotactree Cyan",
-    "updated_at": null
+    "title": "PLA - Cyan",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -51635,7 +51819,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -51648,12 +51832,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1068430452&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18A01K11",
-    "title": "PLA-E - Lotactree Black",
-    "updated_at": null
+    "title": "PLA-E - Black",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -51953,6 +52137,29 @@
     "series": "TPU-GF",
     "sku": "TPU-GF-Frosted Red",
     "title": "TPU-GF - Glass Fiber TPU Filament 1.75mm, 1 KG, Frosted Red",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1077992250,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Jaune - RAL 1003",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-JAUNE",
+    "title": "PCTG - Jaune - RAL 1003",
     "updated_at": null
   },
   {
@@ -52431,12 +52638,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1085413864&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Red",
+    "name": "Red",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G02K11",
-    "title": "PLA Silk - Lotactree Silk Red",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Red",
+    "updated_at": 1786439960015
   },
   {
     "aspect1": "Basic",
@@ -52575,6 +52782,29 @@
     "sku": "PWB-3D-F01241",
     "title": "PET-G Standard HS - Transparent",
     "updated_at": 1768553151919
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1087239571,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Blanc",
+    "product_type": "Filament",
+    "series": "PETG PTFE",
+    "sku": "PETGPTFEBLANC175",
+    "title": "PETG PTFE - Blanc",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -53063,7 +53293,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
     "color_info": {
@@ -53076,12 +53306,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1096383028&v=1",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "Lotactree Snowy White",
+    "name": "Snowy White",
     "product_type": "Filament",
     "series": "PETG",
     "sku": "LTG01A00K11",
-    "title": "PETG - Lotactree Snowy White",
-    "updated_at": null
+    "title": "PETG - Snowy White",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -53362,7 +53592,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#5C4033FF",
     "color_info": {
@@ -53375,12 +53605,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1101447649&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Walnut (Refill)",
+    "name": "Walnut (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01F04K12",
-    "title": "PLA Refill - Lotactree Walnut (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Walnut (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -53630,12 +53860,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1108710206&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Black",
+    "name": "Silk Black",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G01K11",
-    "title": "PLA Silk - Lotactree Silk Black",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Silk Black",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -54497,7 +54727,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FF5F1FFF",
     "color_info": {
@@ -54510,12 +54740,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1124374417&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Neon Orange",
+    "name": "Neon Orange",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01C04K11",
-    "title": "PLA - Lotactree Neon Orange",
-    "updated_at": null
+    "title": "PLA - Neon Orange",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Silk",
@@ -55077,7 +55307,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#1565C0FF",
     "color_info": {
@@ -55090,12 +55320,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1133334254&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Blue",
+    "name": "Blue",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01E02K11",
-    "title": "PLA - Lotactree Blue",
-    "updated_at": null
+    "title": "PLA - Blue",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Matt",
@@ -55952,7 +56182,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D32F2FFF",
     "color_info": {
@@ -55965,12 +56195,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1155598406&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Red",
+    "name": "Red",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18B00K11",
-    "title": "PLA-E - Lotactree Red",
-    "updated_at": null
+    "title": "PLA-E - Red",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -56095,7 +56325,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFDBACFF",
     "color_info": {
@@ -56108,12 +56338,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1158252590&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Flesh Color",
+    "name": "Flesh Color",
     "product_type": "Filament",
     "series": "PLA-F",
     "sku": "LTP04B04K11",
-    "title": "PLA-F - Lotactree Flesh Color",
-    "updated_at": null
+    "title": "PLA-F - Flesh Color",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Carbon",
@@ -57047,6 +57277,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#00BB31",
+    "color_info": {
+      "colors": [
+        "#00BB31"
+      ],
+      "type": "mono"
+    },
+    "id": 1176782085,
+    "img_src": "https://cdn.tigertag.io/img?id=1176782085&v=2",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "SL-TPU95A-TRANSPARENT-GREEN",
+    "title": "TPU 95A - Transparent Green",
+    "updated_at": 1786440878864
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8435532910152",
     "brand": "Winkle",
     "color": "#F5F7FA",
@@ -57320,6 +57573,29 @@
     "sku": "3DSILKSGF",
     "title": "PLA Silk S-Series - Green Fuchsia",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#0072CE",
+    "color_info": {
+      "colors": [
+        "#0072CE"
+      ],
+      "type": "mono"
+    },
+    "id": 1180835359,
+    "img_src": "https://cdn.tigertag.io/img?id=1180835359&v=2",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "SL-TPU95A-TRANSPARENT-BLUE",
+    "title": "TPU 95A - Transparent Blue",
+    "updated_at": 1786441104762
   },
   {
     "aspect1": "Basic",
@@ -59732,7 +60008,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFD500FF",
     "color_info": {
@@ -59745,12 +60021,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1240249239&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Lego Yellow",
+    "name": "Lego Yellow",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01C01K11",
-    "title": "PLA - Lotactree Lego Yellow",
-    "updated_at": null
+    "title": "PLA - Lego Yellow",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -59868,6 +60144,29 @@
     "updated_at": 1785692630432
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#F0F0F0FF",
+    "color_info": {
+      "colors": [
+        "#F0F0F0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1244083246,
+    "img_src": null,
+    "material": "PC",
+    "measure": "500 g",
+    "name": "Naturel",
+    "product_type": "Filament",
+    "series": "PC",
+    "sku": "FPOLYC500175",
+    "title": "PC - Naturel",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "",
@@ -59976,12 +60275,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1246959628&v=1",
     "material": "TPU",
     "measure": "250 g",
-    "name": "Lotactree TPU Yellow 250g",
+    "name": "TPU Yellow 250g",
     "product_type": "Filament",
     "series": "TPU",
     "sku": "LTT01C01G01",
-    "title": "TPU - Lotactree TPU Yellow 250g",
-    "updated_at": null
+    "title": "TPU - TPU Yellow 250g",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -60786,12 +61085,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1265248100&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Black & Deep Gold",
+    "name": "Black & Deep Gold",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09H02K11",
-    "title": "PLA Silk - Lotactree Silk Black & Deep Gold",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Black & Deep Gold",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -61279,6 +61578,29 @@
     "sku": "A17-B0-1.75-1000-spl",
     "title": "PLA Translucent - Ice Blue",
     "updated_at": 1785872829671
+  },
+  {
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1275912118,
+    "img_src": null,
+    "material": "PA12-CF",
+    "measure": "900 g",
+    "name": "Noir",
+    "product_type": "Filament",
+    "series": "PA12 Carbone",
+    "sku": "FNYLCF900175",
+    "title": "PA12 Carbone - Noir",
+    "updated_at": null
   },
   {
     "aspect1": "Silk",
@@ -62939,12 +63261,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1306485147&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree PLA Translucent Green",
+    "name": "Translucent Green",
     "product_type": "Filament",
     "series": "PLA Translucent",
     "sku": "LTP18L06K13",
-    "title": "PLA Translucent - Lotactree PLA Translucent Green",
-    "updated_at": null
+    "title": "PLA Translucent - Translucent Green",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Silk",
@@ -63364,7 +63686,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#C3B1E1FF",
     "color_info": {
@@ -63377,12 +63699,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1312902939&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Light Purple",
+    "name": "Light Purple",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01E03K11",
-    "title": "PLA - Lotactree Light Purple",
-    "updated_at": null
+    "title": "PLA - Light Purple",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -64820,7 +65142,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FF5F1FFF",
     "color_info": {
@@ -64833,12 +65155,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1345874552&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Neon Orange (Refill)",
+    "name": "Neon Orange (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01C04K12",
-    "title": "PLA Refill - Lotactree Neon Orange (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Neon Orange (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -65435,12 +65757,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1357647047&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Black & Purple",
+    "name": "Black & Purple",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09H06K11",
-    "title": "PLA Silk - Lotactree Silk Black & Purple",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Black & Purple",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Translucent",
@@ -65515,7 +65837,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#6A0DADFF",
     "color_info": {
@@ -65528,12 +65850,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1359862136&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Purple",
+    "name": "Purple",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01E04K11",
-    "title": "PLA - Lotactree Purple",
-    "updated_at": null
+    "title": "PLA - Purple",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -66488,7 +66810,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFDBACFF",
     "color_info": {
@@ -66501,12 +66823,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1386553885&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Flesh Color (Refill)",
+    "name": "Flesh Color (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01B04K12",
-    "title": "PLA Refill - Lotactree Flesh Color (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Flesh Color (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Matt",
@@ -68759,6 +69081,29 @@
     "updated_at": 1785242286990
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#8B4513FF",
+    "color_info": {
+      "colors": [
+        "#8B4513FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1434791176,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Marron",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F18H1-18M-18B1",
+    "title": "ABS - ArianePlast ABS - Marron",
+    "updated_at": 1786433291061
+  },
+  {
     "aspect1": "Matt",
     "aspect2": null,
     "barcode": "",
@@ -70081,7 +70426,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
     "color_info": {
@@ -70094,12 +70439,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1456154114&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Snowy White",
+    "name": "Snowy White",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01A00K11",
-    "title": "PLA - Lotactree Snowy White",
-    "updated_at": null
+    "title": "PLA - Snowy White",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Matt",
@@ -72872,12 +73217,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1508102777&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Ink Green",
+    "name": "Ink Green",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G07K11",
-    "title": "PLA Silk - Lotactree Silk Ink Green",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Ink Green",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Metal",
@@ -75131,6 +75476,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1556019503,
+    "img_src": "",
+    "material": "ASA",
+    "measure": "900 g",
+    "name": "ArianePlast ASA - Blanc",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "G30H1-30M-30B1",
+    "title": "ASA - ArianePlast ASA - Blanc",
+    "updated_at": 1786434493091
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704911808",
     "brand": "ELEGOO",
     "color": "#14C817",
@@ -75219,6 +75587,29 @@
     "sku": "CA04024",
     "title": "Panchroma™ Matte PLA - Muted Blue",
     "updated_at": 1785277056845
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1558074477,
+    "img_src": null,
+    "material": "PC-PTFE",
+    "measure": "660 g",
+    "name": "Noir",
+    "product_type": "Filament",
+    "series": "PC-PTFE",
+    "sku": "FPCPTFE660175",
+    "title": "PC-PTFE - Noir",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -76240,6 +76631,29 @@
     "series": "PLA Macaron",
     "sku": "W3DPLAMATTEMACAROONSMURFBLUE1000",
     "title": "PLA Macaron - Smurf Blue",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1580618636,
+    "img_src": null,
+    "material": "PA6",
+    "measure": "660 g",
+    "name": "Translucide",
+    "product_type": "Filament",
+    "series": "PA6",
+    "sku": "FPA6TRA175",
+    "title": "PA6 - Translucide",
     "updated_at": null
   },
   {
@@ -78980,6 +79394,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#7F00FFFF",
+    "color_info": {
+      "colors": [
+        "#7F00FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1642298828,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Violet",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F6H1-6M-6B1",
+    "title": "ABS - ArianePlast ABS - Violet",
+    "updated_at": 1786433291061
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6931677320525",
     "brand": "R3D",
     "color": "#1D63BFFF",
@@ -79026,7 +79463,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
     "color_info": {
@@ -79039,12 +79476,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1643608337&v=1",
     "material": "PA6",
     "measure": "1 kg",
-    "name": "Lotactree White",
+    "name": "White",
     "product_type": "Filament",
     "series": "PA6 Ease",
     "sku": "LTN04A00K11",
-    "title": "PA6 Ease - Lotactree White",
-    "updated_at": null
+    "title": "PA6 Ease - White",
+    "updated_at": 1786439866205
   },
   {
     "aspect1": "Basic",
@@ -79745,6 +80182,29 @@
     "sku": "B0DZ25FHM2",
     "title": "PLA Pro - Beige",
     "updated_at": 1785622065552
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#A9A9A9FF",
+    "color_info": {
+      "colors": [
+        "#A9A9A9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1656925576,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Aluminium",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F11H1-11M-11B1",
+    "title": "ABS - ArianePlast ABS - Aluminium",
+    "updated_at": 1786433291061
   },
   {
     "aspect1": "Basic",
@@ -81021,7 +81481,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#DE3163FF",
     "color_info": {
@@ -81034,12 +81494,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1682465418&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Cherry",
+    "name": "Cherry",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01F03K11",
-    "title": "PLA - Lotactree Cherry",
-    "updated_at": null
+    "title": "PLA - Cherry",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Matt",
@@ -81202,6 +81662,29 @@
     "sku": "175CARBFIL-BLCK-0500",
     "title": "CarbonFil - Black",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#FFC0CBFF",
+    "color_info": {
+      "colors": [
+        "#FFC0CBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1687000104,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Rose",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F16H1-16M-16B1",
+    "title": "ABS - ArianePlast ABS - Rose",
+    "updated_at": 1786433291061
   },
   {
     "aspect1": "Basic",
@@ -84328,6 +84811,29 @@
     "updated_at": 1785628887835
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#FFA500FF",
+    "color_info": {
+      "colors": [
+        "#FFA500FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1758471505,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Orange",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F17H1-17M-17B1",
+    "title": "ABS - ArianePlast ABS - Orange",
+    "updated_at": 1786433291061
+  },
+  {
     "aspect1": "Rainbow",
     "aspect2": "Glitter",
     "barcode": "6938936717270",
@@ -85726,7 +86232,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFD500FF",
     "color_info": {
@@ -85739,12 +86245,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1788630433&v=1",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "Lotactree Lego Yellow",
+    "name": "Lego Yellow",
     "product_type": "Filament",
     "series": "PETG",
     "sku": "LTG01C01K11",
-    "title": "PETG - Lotactree Lego Yellow",
-    "updated_at": null
+    "title": "PETG - Lego Yellow",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -86785,7 +87291,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFB6C1FF",
     "color_info": {
@@ -86798,12 +87304,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1810780776&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Light Pink",
+    "name": "Light Pink",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01B01K11",
-    "title": "PLA - Lotactree Light Pink",
-    "updated_at": null
+    "title": "PLA - Light Pink",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Rainbow",
@@ -87201,7 +87707,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#22A94CFF",
     "color_info": {
@@ -87214,12 +87720,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1829521365&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Green",
+    "name": "Green",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18D02K11",
-    "title": "PLA-E - Lotactree Green",
-    "updated_at": null
+    "title": "PLA-E - Green",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -87871,7 +88377,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -87884,12 +88390,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1839382319&v=1",
     "material": "PC",
     "measure": "1 kg",
-    "name": "Lotactree Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "PC",
     "sku": "LTC01A01K11",
-    "title": "PC - Lotactree Black",
-    "updated_at": null
+    "title": "PC - Black",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Translucent",
@@ -87964,7 +88470,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D32F2FFF",
     "color_info": {
@@ -87977,12 +88483,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1841320192&v=1",
     "material": "PA6",
     "measure": "1 kg",
-    "name": "Lotactree Red",
+    "name": "Red",
     "product_type": "Filament",
     "series": "PA6 Ease",
     "sku": "LTN04B00K11",
-    "title": "PA6 Ease - Lotactree Red",
-    "updated_at": null
+    "title": "PA6 Ease - Red",
+    "updated_at": 1786439866205
   },
   {
     "aspect1": "Basic",
@@ -89871,7 +90377,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#22A94CFF",
     "color_info": {
@@ -89884,12 +90390,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1879756479&v=1",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "Lotactree Green",
+    "name": "Green",
     "product_type": "Filament",
     "series": "PETG",
     "sku": "LTG01D02K11",
-    "title": "PETG - Lotactree Green",
-    "updated_at": null
+    "title": "PETG - Green",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Carbon",
@@ -90607,6 +91113,29 @@
     "sku": "NAPAFI1050BU",
     "title": "PA - Food Industry Blue",
     "updated_at": 1763042296424
+  },
+  {
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1898203001,
+    "img_src": null,
+    "material": "PA6-CF",
+    "measure": "900 g",
+    "name": "Noir",
+    "product_type": "Filament",
+    "series": "PA6 Carbone",
+    "sku": "FPA6CF900175",
+    "title": "PA6 Carbone - Noir",
+    "updated_at": null
   },
   {
     "aspect1": "Glow in the Dark",
@@ -92081,12 +92610,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1931043162&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silver",
+    "name": "Silver",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18F02K11",
-    "title": "PLA-E - Lotactree Silver",
-    "updated_at": null
+    "title": "PLA-E - Silver",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Silk",
@@ -92436,7 +92965,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -92449,12 +92978,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=1942393178&v=1",
     "material": "PA6",
     "measure": "1 kg",
-    "name": "Lotactree Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "PA6 Ease",
     "sku": "LTN04A01K11",
-    "title": "PA6 Ease - Lotactree Black",
-    "updated_at": null
+    "title": "PA6 Ease - Black",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Matt",
@@ -94874,7 +95403,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -94887,17 +95416,17 @@
     "img_src": "https://cdn.tigertag.io/img?id=2000240002&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01A01K11",
-    "title": "PLA - Lotactree Black",
-    "updated_at": null
+    "title": "PLA - Black",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#1565C0FF",
     "color_info": {
@@ -94910,12 +95439,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2000603304&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Blue (Refill)",
+    "name": "Blue (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01E02K12",
-    "title": "PLA Refill - Lotactree Blue (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Blue (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -95134,7 +95663,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FF69B4FF",
     "color_info": {
@@ -95147,12 +95676,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2003831501&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Neon Hot Pink",
+    "name": "Neon Hot Pink",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01B06K11",
-    "title": "PLA - Lotactree Neon Hot Pink",
-    "updated_at": null
+    "title": "PLA - Neon Hot Pink",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Stone",
@@ -97614,12 +98143,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2051195264&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree PLA Silk Tricolor Pink/Green/Blue",
+    "name": "Tricolor Pink/Green/Blue",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09J01K11",
-    "title": "PLA Silk - Lotactree PLA Silk Tricolor Pink/Green/Blue",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Tricolor Pink/Green/Blue",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -101939,7 +102468,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D9D9D9FF",
     "color_info": {
@@ -101952,12 +102481,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2141317691&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Marble",
+    "name": "Marble",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01F10K11",
-    "title": "PLA - Lotactree Marble",
-    "updated_at": null
+    "title": "PLA - Marble",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -104479,12 +105008,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2190673630&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Deep Gold (Refill)",
+    "name": "Deep Gold (Refill)",
     "product_type": "Filament",
-    "series": "PLA Silk Refill",
+    "series": "PLA Silk",
     "sku": "LTP09G17K12",
-    "title": "PLA Silk Refill - Lotactree Silk Deep Gold (Refill)",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Deep Gold (Refill)",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Fiber",
@@ -104984,7 +105513,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#22A94CFF",
     "color_info": {
@@ -104997,12 +105526,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2199927919&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Green",
+    "name": "Green",
     "product_type": "Filament",
     "series": "PLA-F",
     "sku": "LTP04D02K11",
-    "title": "PLA-F - Lotactree Green",
-    "updated_at": null
+    "title": "PLA-F - Green",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -105748,7 +106277,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#9099A2FF",
     "color_info": {
@@ -105761,12 +106290,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2214185300&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Cool Grey (Refill)",
+    "name": "Cool Grey (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01A02K12",
-    "title": "PLA Refill - Lotactree Cool Grey (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Cool Grey (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -109146,6 +109675,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 2284600402,
+    "img_src": "https://cdn.tigertag.io/img?id=2284600402&v=2",
+    "material": "ABS",
+    "measure": "2000 g",
+    "name": "ArianePlast ABS Recyclé - Noir",
+    "product_type": "Filament",
+    "series": "ABS Recyclé",
+    "sku": "absrecy",
+    "title": "ABS Recyclé - ArianePlast ABS Recyclé - Noir",
+    "updated_at": 1786436221176
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Inland",
     "color": "#D4AF37FF",
     "color_info": {
@@ -110143,15 +110695,15 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Sunlu",
-    "color": "#008BE4FF",
+    "color": "#008BE4",
     "color_info": {
       "colors": [
-        "#008BE4FF"
+        "#008BE4"
       ],
       "type": "mono"
     },
     "id": 2303657457,
-    "img_src": "https://cdn.tigertag.io/img?id=2303657457&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2303657457&v=6",
     "material": "TPU",
     "measure": "1 kg",
     "name": "Azure",
@@ -110159,7 +110711,7 @@
     "series": "TPU 95A",
     "sku": "SL-TPU95A-AZURE",
     "title": "TPU 95A - Azure",
-    "updated_at": 1786307554370
+    "updated_at": 1786441517865
   },
   {
     "aspect1": "Basic",
@@ -111449,12 +112001,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2326747532&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Red & Orange & Gold",
+    "name": "Red & Orange & Gold",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09J03K11",
-    "title": "PLA Silk - Lotactree Silk Red & Orange & Gold",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Red & Orange & Gold",
+    "updated_at": 1786439960015
   },
   {
     "aspect1": "Basic",
@@ -111505,7 +112057,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#2E86C1FF",
     "color_info": {
@@ -111518,12 +112070,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2327865760&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Lake Blue (Refill)",
+    "name": "Lake Blue (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01E01K12",
-    "title": "PLA Refill - Lotactree Lake Blue (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Lake Blue (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -112211,7 +112763,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
     "color_info": {
@@ -112224,12 +112776,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2346358832&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Milky White (Refill)",
+    "name": "Milky White (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01A05K12",
-    "title": "PLA Refill - Lotactree Milky White (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Milky White (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Matt",
@@ -112883,10 +113435,10 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Lotactree",
-    "color": "#FF7F00",
+    "color": "#FF7F00FF",
     "color_info": {
       "colors": [
-        "#FF7F00"
+        "#FF7F00FF"
       ],
       "type": "mono"
     },
@@ -112894,12 +113446,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2361712067&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Orange",
+    "name": "Orange",
     "product_type": "Filament",
     "series": "PLA-F",
     "sku": "LTP04C00K11",
-    "title": "PLA-F - Lotactree Orange",
-    "updated_at": 1785757929335
+    "title": "PLA-F - Orange",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -113230,7 +113782,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FF7F00FF",
     "color_info": {
@@ -113243,12 +113795,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2372816752&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Orange (Refill)",
+    "name": "Orange (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01C00K12",
-    "title": "PLA Refill - Lotactree Orange (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Orange (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -113628,7 +114180,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFD500FF",
     "color_info": {
@@ -113641,12 +114193,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2380547692&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Lego Yellow",
+    "name": "Lego Yellow",
     "product_type": "Filament",
     "series": "PLA-F",
     "sku": "LTP04C01K11",
-    "title": "PLA-F - Lotactree Lego Yellow",
-    "updated_at": null
+    "title": "PLA-F - Lego Yellow",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Pastel",
@@ -115345,7 +115897,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#95A5A6FF",
     "color_info": {
@@ -115358,12 +115910,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2419003029&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Concrete Grey",
+    "name": "Concrete Grey",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01A06K11",
-    "title": "PLA - Lotactree Concrete Grey",
-    "updated_at": null
+    "title": "PLA - Concrete Grey",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Translucent",
@@ -115414,7 +115966,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
     "color_info": {
@@ -115427,12 +115979,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2420128060&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Snowy White",
+    "name": "Snowy White",
     "product_type": "Filament",
     "series": "PLA-F",
     "sku": "LTP04A00K11",
-    "title": "PLA-F - Lotactree Snowy White",
-    "updated_at": null
+    "title": "PLA-F - Snowy White",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Fiber",
@@ -116082,6 +116634,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#F4F9FF",
+    "color_info": {
+      "colors": [
+        "#F4F9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2433849624,
+    "img_src": "https://cdn.tigertag.io/img?id=2433849624&v=2",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Transparent White",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "SL-TPU95A-TRANSPARENT-WHITE",
+    "title": "TPU 95A - Transparent White",
+    "updated_at": 1786440410069
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#389897FF",
@@ -116241,6 +116816,29 @@
     "series": "PLA Matte Triple",
     "sku": "3DMETCRYB",
     "title": "PLA Matte Triple - Red Yellow Blue",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2436127130,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Bleu",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-BLEU",
+    "title": "PCTG - Bleu",
     "updated_at": null
   },
   {
@@ -116779,10 +117377,10 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Lotactree",
-    "color": "#E8F600",
+    "color": "#E8F600FF",
     "color_info": {
       "colors": [
-        "#E8F600"
+        "#E8F600FF"
       ],
       "type": "mono"
     },
@@ -116790,12 +117388,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2447593076&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Acid Yellow",
+    "name": "Acid Yellow",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01C02K11",
-    "title": "PLA - Lotactree Acid Yellow",
-    "updated_at": 1785763649311
+    "title": "PLA - Acid Yellow",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -117149,6 +117747,29 @@
     "sku": "A50-D6-1.75-1000-spl",
     "title": "PLA-CF - Lava Gray",
     "updated_at": 1785872868782
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2455317630,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Blanc",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-BLANC",
+    "title": "PCTG - Blanc",
+    "updated_at": null
   },
   {
     "aspect1": "None",
@@ -118027,12 +118648,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2470575745&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree PLA Silk Tricolor Pink/Green/Dark Blue",
+    "name": "Tricolor Pink/Green/Dark Blue",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09J00K11",
-    "title": "PLA Silk - Lotactree PLA Silk Tricolor Pink/Green/Dark Blue",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Tricolor Pink/Green/Dark Blue",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -119240,6 +119861,29 @@
     "updated_at": 1785806636404
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#87CEEBFF",
+    "color_info": {
+      "colors": [
+        "#87CEEBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2502427659,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Bleu Ciel",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F20H1-20M-20B1",
+    "title": "ABS - ArianePlast ABS - Bleu Ciel",
+    "updated_at": 1786433291061
+  },
+  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "",
@@ -119566,12 +120210,12 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Lotactree",
-    "color": "#FF69B4",
+    "color": "#FF69B4FF",
     "color_info": {
       "colors": [
-        "#FF69B4",
-        "#87CEEB",
-        "#FFEB3B"
+        "#FF69B4FF",
+        "#87CEEBFF",
+        "#FFEB3BFF"
       ],
       "type": "gradient"
     },
@@ -119579,12 +120223,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2511007737&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Rainbow Candy",
+    "name": "Rainbow Candy",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09J07K11",
-    "title": "PLA Silk - Lotactree Silk Rainbow Candy",
-    "updated_at": 1785884582636
+    "title": "PLA Silk - Rainbow Candy",
+    "updated_at": 1786439960015
   },
   {
     "aspect1": "Matt",
@@ -120117,6 +120761,29 @@
     "sku": "",
     "title": "Hyper Rainbow - Wild Blossom-Short",
     "updated_at": 1784645459561
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2526818554,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Blanc Nature",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ABS-NOIR-BLANC-900",
+    "title": "ABS - ArianePlast ABS - Blanc Nature",
+    "updated_at": 1786433291061
   },
   {
     "aspect1": "Basic",
@@ -120840,7 +121507,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#228B22FF",
     "color_info": {
@@ -120853,12 +121520,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2537889256&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Forest Green",
+    "name": "Forest Green",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01D05K11",
-    "title": "PLA - Lotactree Forest Green",
-    "updated_at": null
+    "title": "PLA - Forest Green",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -122297,12 +122964,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2565156289&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree PLA Silk Red/Black",
+    "name": "Red/Black",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09H03K11",
-    "title": "PLA Silk - Lotactree PLA Silk Red/Black",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Red/Black",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -122975,7 +123642,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFF5EEFF",
     "color_info": {
@@ -122988,12 +123655,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2583841134&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Marshmallow",
+    "name": "Marshmallow",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01B03K11",
-    "title": "PLA - Lotactree Marshmallow",
-    "updated_at": null
+    "title": "PLA - Marshmallow",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Matt",
@@ -123382,12 +124049,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2591302157&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree PLA Force Glow Green",
+    "name": "Force Glow Green",
     "product_type": "Filament",
     "series": "PLA Force",
     "sku": "LTP04K00K11",
-    "title": "PLA Force - Lotactree PLA Force Glow Green",
-    "updated_at": null
+    "title": "PLA Force - Force Glow Green",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Silk",
@@ -124153,7 +124820,30 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#383838FF",
+    "color_info": {
+      "colors": [
+        "#383838FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2605636948,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Gris Anthracite",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F19H1-19M-19B1",
+    "title": "ABS - ArianePlast ABS - Gris Anthracite",
+    "updated_at": 1786433291061
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFB6C1FF",
     "color_info": {
@@ -124166,12 +124856,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2606242217&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Light Pink (Refill)",
+    "name": "Light Pink (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01B01K12",
-    "title": "PLA Refill - Lotactree Light Pink (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Light Pink (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "None",
@@ -124699,12 +125389,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2616314567&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Greenish Gold",
+    "name": "Greenish Gold",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G08K11",
-    "title": "PLA Silk - Lotactree Silk Greenish Gold",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Greenish Gold",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Glitter",
@@ -125035,7 +125725,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
     "color_info": {
@@ -125048,12 +125738,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2622350661&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Snowy White (Refill)",
+    "name": "Snowy White (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01A00K12",
-    "title": "PLA Refill - Lotactree Snowy White (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Snowy White (Refill)",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -127914,7 +128604,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -127927,12 +128617,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2679460099&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "PLA-F",
     "sku": "LTP04A01K11",
-    "title": "PLA-F - Lotactree Black",
-    "updated_at": null
+    "title": "PLA-F - Black",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Matt",
@@ -129974,6 +130664,29 @@
     "sku": "611558",
     "title": "PLA Silk - Silk Silver",
     "updated_at": 1786148634162
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2715106436,
+    "img_src": "",
+    "material": "ASA",
+    "measure": "900 g",
+    "name": "ArianePlast ASA - Noir",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "G29H1-29M-29B1",
+    "title": "ASA - ArianePlast ASA - Noir",
+    "updated_at": 1786434493091
   },
   {
     "aspect1": "Basic",
@@ -132084,7 +132797,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#F5F5DCFF",
     "color_info": {
@@ -132097,12 +132810,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2761894082&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Beige",
+    "name": "Beige",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18A11K11",
-    "title": "PLA-E - Lotactree Beige",
-    "updated_at": null
+    "title": "PLA-E - Beige",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Pastel",
@@ -134000,7 +134713,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#8B4513FF",
     "color_info": {
@@ -134013,12 +134726,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2803609889&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Brown (Refill)",
+    "name": "Brown (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01A07K12",
-    "title": "PLA Refill - Lotactree Brown (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Brown (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -134186,7 +134899,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#C68642FF",
     "color_info": {
@@ -134199,12 +134912,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2807178609&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Oak",
+    "name": "Oak",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01F06K11",
-    "title": "PLA - Lotactree Oak",
-    "updated_at": null
+    "title": "PLA - Oak",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -134867,12 +135580,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2817906488&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Orange",
+    "name": "Orange",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G00K11",
-    "title": "PLA Silk - Lotactree Silk Orange",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Orange",
+    "updated_at": 1786439960015
   },
   {
     "aspect1": "Lithophane",
@@ -136532,12 +137245,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2860003913&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Ink Green (Refill)",
+    "name": "Ink Green (Refill)",
     "product_type": "Filament",
-    "series": "PLA Silk Refill",
+    "series": "PLA Silk",
     "sku": "LTP09G07K12",
-    "title": "PLA Silk Refill - Lotactree Silk Ink Green (Refill)",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Ink Green (Refill)",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Matt",
@@ -137090,12 +137803,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2868189675&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Purple",
+    "name": "Purple",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18E04K11",
-    "title": "PLA-E - Lotactree Purple",
-    "updated_at": null
+    "title": "PLA-E - Purple",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -137800,6 +138513,29 @@
     "sku": "PWB-3D-F0567",
     "title": "PLA Starter - Juicy Green",
     "updated_at": 1764341365605
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 2882145725,
+    "img_src": "https://cdn.tigertag.io/img?id=2882145725&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "ArianePlast PLA Recyclé",
+    "product_type": "Filament",
+    "series": "PLA Recyclé",
+    "sku": "C1H1-1M-1B1-1B2",
+    "title": "PLA Recyclé - ArianePlast PLA Recyclé",
+    "updated_at": 1786436200482
   },
   {
     "aspect1": "Basic",
@@ -138975,12 +139711,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2909091204&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Powder Blue",
+    "name": "Powder Blue",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18E12K11",
-    "title": "PLA-E - Lotactree Powder Blue",
-    "updated_at": null
+    "title": "PLA-E - Powder Blue",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -139959,7 +140695,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#002FA7FF",
     "color_info": {
@@ -139972,12 +140708,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2929800693&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Klein Blue",
+    "name": "Klein Blue",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01E00K11",
-    "title": "PLA - Lotactree Klein Blue",
-    "updated_at": null
+    "title": "PLA - Klein Blue",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -142296,7 +143032,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#98FF98FF",
     "color_info": {
@@ -142309,12 +143045,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2977033051&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Mint Green",
+    "name": "Mint Green",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01D00K11",
-    "title": "PLA - Lotactree Mint Green",
-    "updated_at": null
+    "title": "PLA - Mint Green",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Glitter",
@@ -142595,7 +143331,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000080FF",
     "color_info": {
@@ -142608,12 +143344,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=2981457103&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Navy Blue",
+    "name": "Navy Blue",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01E11K11",
-    "title": "PLA - Lotactree Navy Blue",
-    "updated_at": null
+    "title": "PLA - Navy Blue",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -144707,7 +145443,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#95A5A6FF",
     "color_info": {
@@ -144720,12 +145456,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3029451233&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Concrete Grey (Refill)",
+    "name": "Concrete Grey (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01A06K12",
-    "title": "PLA Refill - Lotactree Concrete Grey (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Concrete Grey (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -145746,7 +146482,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FDF5E6FF",
     "color_info": {
@@ -145759,12 +146495,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3051526980&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Warm White (Refill)",
+    "name": "Warm White (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01A03K12",
-    "title": "PLA Refill - Lotactree Warm White (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Warm White (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Translucent",
@@ -146233,7 +146969,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
     "color_info": {
@@ -146246,12 +146982,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3058834022&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Milky White",
+    "name": "Milky White",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01A05K11",
-    "title": "PLA - Lotactree Milky White",
-    "updated_at": null
+    "title": "PLA - Milky White",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Wood",
@@ -146534,7 +147270,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#9099A2FF",
     "color_info": {
@@ -146547,12 +147283,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3064746814&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Cool Grey",
+    "name": "Cool Grey",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18A02K11",
-    "title": "PLA-E - Lotactree Cool Grey",
-    "updated_at": null
+    "title": "PLA-E - Cool Grey",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -147805,6 +148541,29 @@
     "updated_at": 1785881428143
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3090326116,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Gris Anthracite",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-ANTHRACITE",
+    "title": "PCTG - Gris Anthracite",
+    "updated_at": null
+  },
+  {
     "aspect1": "Silk",
     "aspect2": "Rainbow",
     "barcode": "",
@@ -147831,7 +148590,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#6A0DADFF",
     "color_info": {
@@ -147844,12 +148603,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3090863843&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Purple (Refill)",
+    "name": "Purple (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01E04K12",
-    "title": "PLA Refill - Lotactree Purple (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Purple (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Wood",
@@ -148613,12 +149372,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3105386563&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Rose Red & Sky Blue",
+    "name": "Rose Red & Sky Blue",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09H12K11",
-    "title": "PLA Silk - Lotactree Silk Rose Red & Sky Blue",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Rose Red & Sky Blue",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Matt",
@@ -151673,12 +152432,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3175535798&v=1",
     "material": "TPU",
     "measure": "1 kg",
-    "name": "Lotactree TPU Blue 1kg",
+    "name": "TPU Blue 1kg",
     "product_type": "Filament",
     "series": "TPU",
     "sku": "LTT01E02K11",
-    "title": "TPU - Lotactree TPU Blue 1kg",
-    "updated_at": null
+    "title": "TPU - TPU Blue 1kg",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -152330,7 +153089,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#39FF14FF",
     "color_info": {
@@ -152343,12 +153102,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3190861531&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Neon Green",
+    "name": "Neon Green",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01D04K11",
-    "title": "PLA - Lotactree Neon Green",
-    "updated_at": null
+    "title": "PLA - Neon Green",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -152855,6 +153614,29 @@
     "sku": "PLA-SK175U1R1",
     "title": "PLA-Silk - BLUE",
     "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#C1121CFF",
+    "color_info": {
+      "colors": [
+        "#C1121CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3206450631,
+    "img_src": "",
+    "material": "ASA",
+    "measure": "900 g",
+    "name": "ArianePlast ASA - Rouge RAL3020",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "G27H1-27M-27B1",
+    "title": "ASA - ArianePlast ASA - Rouge RAL3020",
+    "updated_at": 1786434493091
   },
   {
     "aspect1": "Glitter",
@@ -155268,7 +156050,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#B08D57FF",
     "color_info": {
@@ -155281,12 +156063,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3253610022&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Teak (Refill)",
+    "name": "Teak (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01F05K12",
-    "title": "PLA Refill - Lotactree Teak (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Teak (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -155591,7 +156373,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFDBACFF",
     "color_info": {
@@ -155604,12 +156386,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3258984113&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Flesh Color",
+    "name": "Flesh Color",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01B04K11",
-    "title": "PLA - Lotactree Flesh Color",
-    "updated_at": null
+    "title": "PLA - Flesh Color",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -156101,7 +156883,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#2E86C1FF",
     "color_info": {
@@ -156114,12 +156896,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3271311382&v=1",
     "material": "TPU",
     "measure": "1 kg",
-    "name": "Lotactree TPU Lake Blue",
+    "name": "TPU Lake Blue",
     "product_type": "Filament",
     "series": "TPU",
     "sku": "LTT01E01K11",
-    "title": "TPU - Lotactree TPU Lake Blue",
-    "updated_at": null
+    "title": "TPU - TPU Lake Blue",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -156540,7 +157322,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D4AF37FF",
     "color_info": {
@@ -156553,12 +157335,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3279104825&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Gold",
+    "name": "Gold",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18F01K11",
-    "title": "PLA-E - Lotactree Gold",
-    "updated_at": null
+    "title": "PLA-E - Gold",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -158249,12 +159031,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3310546261&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree PLA Force Glow Rainbow",
+    "name": "Force Glow Rainbow",
     "product_type": "Filament",
     "series": "PLA Force",
     "sku": "LTP04J05K11",
-    "title": "PLA Force - Lotactree PLA Force Glow Rainbow",
-    "updated_at": null
+    "title": "PLA Force - Force Glow Rainbow",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Silk",
@@ -158278,6 +159060,29 @@
     "sku": "PLA-SLK-BRONZE-1000-175",
     "title": "PLA Silky - Ziro3D PLA Silky - Bronze",
     "updated_at": 1786023549723
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#CCFF00FF",
+    "color_info": {
+      "colors": [
+        "#CCFF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3311004521,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Jaune Fluo",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F7H1-7M-7B1",
+    "title": "ABS - ArianePlast ABS - Jaune Fluo",
+    "updated_at": 1786433291061
   },
   {
     "aspect1": "Basic",
@@ -159618,12 +160423,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3343178362&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Dark Blue",
+    "name": "Dark Blue",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G09K11",
-    "title": "PLA Silk - Lotactree Silk Dark Blue",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Dark Blue",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Matt",
@@ -159675,7 +160480,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#22A94CFF",
     "color_info": {
@@ -159688,12 +160493,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3344766535&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Green (Refill)",
+    "name": "Green (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01D02K12",
-    "title": "PLA Refill - Lotactree Green (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Green (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Carbon",
@@ -160067,7 +160872,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -160080,12 +160885,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3353097644&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Black (Refill)",
+    "name": "Black (Refill)",
     "product_type": "Filament",
     "series": "PLA-E Refill",
     "sku": "LTP18A01K12",
-    "title": "PLA-E Refill - Lotactree Black (Refill)",
-    "updated_at": null
+    "title": "PLA-E Refill - Black (Refill)",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Silk",
@@ -160727,7 +161532,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -160740,12 +161545,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3367759567&v=1",
     "material": "ABS",
     "measure": "1 kg",
-    "name": "Lotactree Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "ABS-LITE",
     "sku": "LTS01A01K11",
-    "title": "ABS-LITE - Lotactree Black",
-    "updated_at": null
+    "title": "ABS-LITE - Black",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Carbon",
@@ -161929,7 +162734,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#1565C0FF",
     "color_info": {
@@ -161942,12 +162747,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3389698417&v=1",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "Lotactree Blue",
+    "name": "Blue",
     "product_type": "Filament",
     "series": "PETG",
     "sku": "LTG01E02K11",
-    "title": "PETG - Lotactree Blue",
-    "updated_at": null
+    "title": "PETG - Blue",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Clear",
@@ -162368,10 +163173,10 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Lotactree",
-    "color": "#FFFFFF",
+    "color": "#FFFFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFF"
+        "#FFFFFFFF"
       ],
       "type": "mono"
     },
@@ -162379,12 +163184,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3396434118&v=2",
     "material": "ASA",
     "measure": "1 kg",
-    "name": "Lotactree White",
+    "name": "White",
     "product_type": "Filament",
     "series": "ASA",
     "sku": "LTA03A00K11",
-    "title": "ASA - Lotactree White",
-    "updated_at": 1785758115746
+    "title": "ASA - White",
+    "updated_at": 1786439848605
   },
   {
     "aspect1": "Basic",
@@ -162874,7 +163679,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#848789FF",
     "color_info": {
@@ -162887,12 +163692,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3407680880&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Metallic Grey",
+    "name": "Metallic Grey",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01A04K11",
-    "title": "PLA - Lotactree Metallic Grey",
-    "updated_at": null
+    "title": "PLA - Metallic Grey",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -165458,6 +166263,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#8DB600FF",
+    "color_info": {
+      "colors": [
+        "#8DB600FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3461075558,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Vert Pomme",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F4H1-4M-4B1",
+    "title": "ABS - ArianePlast ABS - Vert Pomme",
+    "updated_at": 1786433291061
+  },
+  {
     "aspect1": "Pastel",
     "aspect2": null,
     "barcode": "5907753133441",
@@ -166107,7 +166935,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#CE1620FF",
     "color_info": {
@@ -166120,12 +166948,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3470952963&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Apple Red (Refill)",
+    "name": "Apple Red (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01B02K12",
-    "title": "PLA Refill - Lotactree Apple Red (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Apple Red (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -166738,7 +167566,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D32F2FFF",
     "color_info": {
@@ -166751,12 +167579,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3485426934&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Red",
+    "name": "Red",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01B00K11",
-    "title": "PLA - Lotactree Red",
-    "updated_at": null
+    "title": "PLA - Red",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -167272,7 +168100,7 @@
   {
     "aspect1": "Glow in the Dark",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
     "color_info": {
@@ -167285,12 +168113,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3495154595&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Milky White Luminous",
+    "name": "Milky White Luminous",
     "product_type": "Filament",
     "series": "PLA-F Luminous",
     "sku": "LTP03A05K11",
-    "title": "PLA-F Luminous - Lotactree Milky White Luminous",
-    "updated_at": null
+    "title": "PLA-F Luminous - Milky White Luminous",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Matt",
@@ -167379,12 +168207,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3496554531&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Black & Red & Orange",
+    "name": "Black & Red & Orange",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09J13K11",
-    "title": "PLA Silk - Lotactree Silk Black & Red & Orange",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Black & Red & Orange",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Wood",
@@ -168109,10 +168937,10 @@
     "aspect2": null,
     "barcode": "",
     "brand": "Lotactree",
-    "color": "#B0E0E6",
+    "color": "#B0E0E6FF",
     "color_info": {
       "colors": [
-        "#B0E0E6"
+        "#B0E0E6FF"
       ],
       "type": "mono"
     },
@@ -168120,12 +168948,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3512623447&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Powder Blue",
+    "name": "Powder Blue",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01E12K11",
-    "title": "PLA - Lotactree Powder Blue",
-    "updated_at": 1785757639442
+    "title": "PLA - Powder Blue",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Silk",
@@ -168544,7 +169372,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#4B5320FF",
     "color_info": {
@@ -168557,12 +169385,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3521074616&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Army Green",
+    "name": "Army Green",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01D01K11",
-    "title": "PLA - Lotactree Army Green",
-    "updated_at": null
+    "title": "PLA - Army Green",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -169725,7 +170553,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FF7F00FF",
     "color_info": {
@@ -169738,12 +170566,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3547654531&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Orange",
+    "name": "Orange",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01C00K11",
-    "title": "PLA - Lotactree Orange",
-    "updated_at": null
+    "title": "PLA - Orange",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -170902,7 +171730,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#00FFFFFF",
     "color_info": {
@@ -170915,12 +171743,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3571285912&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Cyan (Refill)",
+    "name": "Cyan (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01D07K12",
-    "title": "PLA Refill - Lotactree Cyan (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Cyan (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -171267,6 +172095,29 @@
     "sku": "8595632800026",
     "title": "PLA Extrafill - Traffic Black",
     "updated_at": 1785721230139
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3584295632,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Translucide",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-TRANSLU",
+    "title": "PCTG - Translucide",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -172893,7 +173744,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#002FA7FF",
     "color_info": {
@@ -172906,12 +173757,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3619527521&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Klein Blue (Refill)",
+    "name": "Klein Blue (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01E00K12",
-    "title": "PLA Refill - Lotactree Klein Blue (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Klein Blue (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -173218,7 +174069,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#9099A2FF",
     "color_info": {
@@ -173231,12 +174082,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3627492789&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Cool Grey (Refill)",
+    "name": "Cool Grey (Refill)",
     "product_type": "Filament",
     "series": "PLA-E Refill",
     "sku": "LTP18A02K12",
-    "title": "PLA-E Refill - Lotactree Cool Grey (Refill)",
-    "updated_at": null
+    "title": "PLA-E Refill - Cool Grey (Refill)",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -174131,12 +174982,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3642807786&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Black & Red & Purple",
+    "name": "Black & Red & Purple",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09J02K11",
-    "title": "PLA Silk - Lotactree Silk Black & Red & Purple",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Black & Red & Purple",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -174546,12 +175397,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3649524454&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Cyan",
+    "name": "Cyan",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G16K11",
-    "title": "PLA Silk - Lotactree Silk Cyan",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Cyan",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Carbon",
@@ -175621,6 +176472,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "Sunlu",
+    "color": "#E4002B",
+    "color_info": {
+      "colors": [
+        "#E4002B"
+      ],
+      "type": "mono"
+    },
+    "id": 3673818731,
+    "img_src": "https://cdn.tigertag.io/img?id=3673818731&v=2",
+    "material": "TPU",
+    "measure": "1 kg",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "TPU 95A",
+    "sku": "SL-TPU95A-TRANSPARENT-RED",
+    "title": "TPU 95A - Transparent Red",
+    "updated_at": 1786440646789
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "5907753137197",
     "brand": "Rosa3D",
     "color": "#FF0000FF",
@@ -176175,7 +177049,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D4AF37FF",
     "color_info": {
@@ -176188,12 +177062,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3691638856&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Gold (Refill)",
+    "name": "Gold (Refill)",
     "product_type": "Filament",
     "series": "PLA-E Refill",
     "sku": "LTP18F01K12",
-    "title": "PLA-E Refill - Lotactree Gold (Refill)",
-    "updated_at": null
+    "title": "PLA-E Refill - Gold (Refill)",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Stone",
@@ -176267,7 +177141,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -176280,12 +177154,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3693191518&v=1",
     "material": "PETG",
     "measure": "1 kg",
-    "name": "Lotactree Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "PETG",
     "sku": "LTG01A01K11",
-    "title": "PETG - Lotactree Black",
-    "updated_at": null
+    "title": "PETG - Black",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -177703,6 +178577,29 @@
     "updated_at": 1786354474183
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#800020FF",
+    "color_info": {
+      "colors": [
+        "#800020FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3730167012,
+    "img_src": "",
+    "material": "ABS",
+    "measure": "900 g",
+    "name": "ArianePlast ABS - Bordeaux",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "F8H1-8M-8B1",
+    "title": "ABS - ArianePlast ABS - Bordeaux",
+    "updated_at": 1786433291061
+  },
+  {
     "aspect1": "Silk",
     "aspect2": null,
     "barcode": "",
@@ -177866,7 +178763,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#C0C0C0FF",
     "color_info": {
@@ -177879,12 +178776,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3733914259&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silver (Refill)",
+    "name": "Silver (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01F02K12",
-    "title": "PLA Refill - Lotactree Silver (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Silver (Refill)",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -178519,7 +179416,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D32F2FFF",
     "color_info": {
@@ -178532,12 +179429,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3744851491&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Red (Refill)",
+    "name": "Red (Refill)",
     "product_type": "Filament",
     "series": "PLA-E Refill",
     "sku": "LTP18B00K12",
-    "title": "PLA-E Refill - Lotactree Red (Refill)",
-    "updated_at": null
+    "title": "PLA-E Refill - Red (Refill)",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Matt",
@@ -178561,6 +179458,29 @@
     "sku": "PETG-MT175O-EB1R1",
     "title": "PETG-Matte - EARTH BROWN",
     "updated_at": 1783349956542
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3745595365,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-ORANGE",
+    "title": "PCTG - Orange",
+    "updated_at": null
   },
   {
     "aspect1": "Basic",
@@ -179786,12 +180706,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3770460475&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Green",
+    "name": "Green",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G05K11",
-    "title": "PLA Silk - Lotactree Silk Green",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Green",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -179861,6 +180781,29 @@
     "sku": "DLZ-JY-PLA+SK-SV-1.1kg",
     "title": "Silk PLA+ - Silver",
     "updated_at": 1785280696707
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 3773327698,
+    "img_src": "https://cdn.tigertag.io/img?id=3773327698&v=2",
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "ArianePlast PETG Recyclé",
+    "product_type": "Filament",
+    "series": "PETG Recyclé",
+    "sku": "F25H1-25M-25B1",
+    "title": "PETG Recyclé - ArianePlast PETG Recyclé",
+    "updated_at": 1786436243689
   },
   {
     "aspect1": "Translucent",
@@ -179982,7 +180925,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#98FF98FF",
     "color_info": {
@@ -179995,12 +180938,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3777360247&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Mint Green (Refill)",
+    "name": "Mint Green (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01D00K12",
-    "title": "PLA Refill - Lotactree Mint Green (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Mint Green (Refill)",
+    "updated_at": 1786441809202
   },
   {
     "aspect1": "Basic",
@@ -180548,12 +181491,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3789421786&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Silver (Refill)",
+    "name": "Silver (Refill)",
     "product_type": "Filament",
-    "series": "PLA Silk Refill",
+    "series": "PLA Silk",
     "sku": "LTP09F02K12",
-    "title": "PLA Silk Refill - Lotactree Silk Silver (Refill)",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Silver (Refill)",
+    "updated_at": 1786439468385
   },
   {
     "aspect1": "Silk",
@@ -181158,7 +182101,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFD1DCFF",
     "color_info": {
@@ -181171,12 +182114,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3806855045&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Pastel Pink",
+    "name": "Pastel Pink",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01B05K11",
-    "title": "PLA - Lotactree Pastel Pink",
-    "updated_at": null
+    "title": "PLA - Pastel Pink",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -184645,7 +185588,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#9E9E9EFF",
     "color_info": {
@@ -184658,12 +185601,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3898526104&v=1",
     "material": "ASA",
     "measure": "1 kg",
-    "name": "Lotactree Grey",
+    "name": "Grey",
     "product_type": "Filament",
     "series": "ASA",
     "sku": "LTA03A02K11",
-    "title": "ASA - Lotactree Grey",
-    "updated_at": null
+    "title": "ASA - Grey",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -185688,6 +186631,29 @@
     "aspect1": "Basic",
     "aspect2": null,
     "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 3917730515,
+    "img_src": "https://cdn.tigertag.io/img?id=3917730515&v=4",
+    "material": "TPU",
+    "measure": "1000 g",
+    "name": "ArianePlast TPU 95A Recyclé",
+    "product_type": "Filament",
+    "series": "TPU Recyclé",
+    "sku": "F-TPURECY",
+    "title": "TPU Recyclé - ArianePlast TPU 95A Recyclé",
+    "updated_at": 1786436364574
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
     "brand": "PrintoMax 3D",
     "color": "#00AEEFFF",
     "color_info": {
@@ -186163,12 +187129,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3926641381&v=2",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Deep Gold",
+    "name": "Deep Gold",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G17K11",
-    "title": "PLA Silk - Lotactree Silk Deep Gold",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Deep Gold",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Silk",
@@ -186648,12 +187614,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3934885968&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Purple Red",
+    "name": "Purple Red",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G14K11",
-    "title": "PLA Silk - Lotactree Silk Purple Red",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Purple Red",
+    "updated_at": 1786439960015
   },
   {
     "aspect1": "Matt",
@@ -186717,12 +187683,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3936467462&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree PLA Silk Silver",
+    "name": "Silver",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G12K11",
-    "title": "PLA Silk - Lotactree PLA Silk Silver",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Silver",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Matt",
@@ -187541,7 +188507,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#D32F2FFF",
     "color_info": {
@@ -187554,12 +188520,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3957112844&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Red (Refill)",
+    "name": "Red (Refill)",
     "product_type": "Filament",
     "series": "PLA Refill",
     "sku": "LTP01B00K12",
-    "title": "PLA Refill - Lotactree Red (Refill)",
-    "updated_at": null
+    "title": "PLA Refill - Red (Refill)",
+    "updated_at": 1786439960014
   },
   {
     "aspect1": "Basic",
@@ -188582,7 +189548,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#CE1620FF",
     "color_info": {
@@ -188595,12 +189561,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=3975954090&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Apple Red",
+    "name": "Apple Red",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01B02K11",
-    "title": "PLA - Lotactree Apple Red",
-    "updated_at": null
+    "title": "PLA - Apple Red",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Glitter",
@@ -190108,7 +191074,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#000000FF",
     "color_info": {
@@ -190121,12 +191087,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4008276017&v=1",
     "material": "ASA",
     "measure": "1 kg",
-    "name": "Lotactree Black",
+    "name": "Black",
     "product_type": "Filament",
     "series": "ASA",
     "sku": "LTA03A01K11",
-    "title": "ASA - Lotactree Black",
-    "updated_at": null
+    "title": "ASA - Black",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -190945,6 +191911,29 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4027482812,
+    "img_src": null,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "name": "Vert",
+    "product_type": "Filament",
+    "series": "PCTG",
+    "sku": "PCTG-VERT",
+    "title": "PCTG - Vert",
+    "updated_at": null
+  },
+  {
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#A87332FF",
@@ -191568,7 +192557,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#F5F5DCFF",
     "color_info": {
@@ -191581,12 +192570,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4044641347&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Beige (Refill)",
+    "name": "Beige (Refill)",
     "product_type": "Filament",
     "series": "PLA-E Refill",
     "sku": "LTP18A11K12",
-    "title": "PLA-E Refill - Lotactree Beige (Refill)",
-    "updated_at": null
+    "title": "PLA-E Refill - Beige (Refill)",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Basic",
@@ -192004,6 +192993,29 @@
     "updated_at": null
   },
   {
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "",
+    "brand": "ArianePlast",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4050064472,
+    "img_src": null,
+    "material": "PA6",
+    "measure": "660 g",
+    "name": "Noir",
+    "product_type": "Filament",
+    "series": "PA6",
+    "sku": "FPA6660noir175",
+    "title": "PA6 - Noir",
+    "updated_at": null
+  },
+  {
     "aspect1": "Glitter",
     "aspect2": null,
     "barcode": "",
@@ -192296,12 +193308,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4055534703&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Pastel Pink",
+    "name": "Pastel Pink",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18B05K11",
-    "title": "PLA-E - Lotactree Pastel Pink",
-    "updated_at": null
+    "title": "PLA-E - Pastel Pink",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -192766,7 +193778,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#22A94CFF",
     "color_info": {
@@ -192779,12 +193791,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4063704381&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Green",
+    "name": "Green",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01D02K11",
-    "title": "PLA - Lotactree Green",
-    "updated_at": null
+    "title": "PLA - Green",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -193622,7 +194634,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
     "color_info": {
@@ -193635,12 +194647,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4083660291&v=1",
     "material": "ABS",
     "measure": "1 kg",
-    "name": "Lotactree White",
+    "name": "White",
     "product_type": "Filament",
     "series": "ABS-LITE",
     "sku": "LTS01A00K11",
-    "title": "ABS-LITE - Lotactree White",
-    "updated_at": null
+    "title": "ABS-LITE - White",
+    "updated_at": 1786439833015
   },
   {
     "aspect1": "None",
@@ -193819,12 +194831,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4085563574&v=1",
     "material": "TPU",
     "measure": "250 g",
-    "name": "Lotactree TPU Blue 250g",
+    "name": "TPU Blue 250g",
     "product_type": "Filament",
     "series": "TPU",
     "sku": "LTT01E02G01",
-    "title": "TPU - Lotactree TPU Blue 250g",
-    "updated_at": null
+    "title": "TPU - TPU Blue 250g",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -193914,12 +194926,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4087564122&v=1",
     "material": "TPU",
     "measure": "1 kg",
-    "name": "Lotactree TPU Black 1kg",
+    "name": "TPU Black 1kg",
     "product_type": "Filament",
     "series": "TPU",
     "sku": "LTT01A01K11",
-    "title": "TPU - Lotactree TPU Black 1kg",
-    "updated_at": null
+    "title": "TPU - TPU Black 1kg",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Silk",
@@ -196046,12 +197058,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4127077633&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree PLA Force Glow Light Blue",
+    "name": "Force Glow Light Blue",
     "product_type": "Filament",
     "series": "PLA Force",
     "sku": "LTP04K01K11",
-    "title": "PLA Force - Lotactree PLA Force Glow Light Blue",
-    "updated_at": null
+    "title": "PLA Force - Force Glow Light Blue",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -197130,12 +198142,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4158316196&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Orange",
+    "name": "Orange",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18C00K11",
-    "title": "PLA-E - Lotactree Orange",
-    "updated_at": null
+    "title": "PLA-E - Orange",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Basic",
@@ -199636,7 +200648,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
     "color_info": {
@@ -199649,12 +200661,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4205673452&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Milky White",
+    "name": "Milky White",
     "product_type": "Filament",
     "series": "PLA-E",
     "sku": "LTP18A05K11",
-    "title": "PLA-E - Lotactree Milky White",
-    "updated_at": null
+    "title": "PLA-E - Milky White",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Matt",
@@ -200651,12 +201663,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4228964123&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree PLA Silk Pearl White",
+    "name": "Pearl White",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G15K13",
-    "title": "PLA Silk - Lotactree PLA Silk Pearl White",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Pearl White",
+    "updated_at": 1786439193615
   },
   {
     "aspect1": "Silk",
@@ -201192,7 +202204,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#8B4513FF",
     "color_info": {
@@ -201205,12 +202217,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4237772544&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Brown",
+    "name": "Brown",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01A07K11",
-    "title": "PLA - Lotactree Brown",
-    "updated_at": null
+    "title": "PLA - Brown",
+    "updated_at": 1786440015090
   },
   {
     "aspect1": "Matt",
@@ -202438,7 +203450,7 @@
   {
     "aspect1": "Basic",
     "aspect2": null,
-    "barcode": null,
+    "barcode": "",
     "brand": "Lotactree",
     "color": "#C0C0C0FF",
     "color_info": {
@@ -202451,12 +203463,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4263107092&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silver",
+    "name": "Silver",
     "product_type": "Filament",
     "series": "PLA",
     "sku": "LTP01F02K11",
-    "title": "PLA - Lotactree Silver",
-    "updated_at": null
+    "title": "PLA - Silver",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
@@ -202797,12 +203809,12 @@
     "img_src": "https://cdn.tigertag.io/img?id=4272397171&v=1",
     "material": "PLA",
     "measure": "1 kg",
-    "name": "Lotactree Silk Gold",
+    "name": "Gold",
     "product_type": "Filament",
     "series": "PLA Silk",
     "sku": "LTP09G04K11",
-    "title": "PLA Silk - Lotactree Silk Gold",
-    "updated_at": 1785884420947
+    "title": "PLA Silk - Gold",
+    "updated_at": 1786440015091
   },
   {
     "aspect1": "Basic",
