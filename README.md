@@ -181,6 +181,13 @@ generic NFC / NDEF tag, or repurposed for any other use. **Zero
 electronic waste** — the chip outlives the spool. Every other major
 NFC/RFID material protocol locks the chip permanently at end of life.
 
+This holds for a signed **TigerTag+** chip too, because its signature is
+an **attestation, not a lock**. Copy one onto another tag and it reads,
+parses and prints exactly as before; verification simply returns
+`INVALID`, which lets anyone call it a clone. Nothing is disabled and no
+capability is withheld — the signature answers *"is this genuine?"*,
+never *"may this be used?"*.
+
 ### 3. EXCLUSIVE — remote updates pushed by the manufacturer (TigerTag+)
 
 A chip is burned (written) once at the filament factory. It does not
