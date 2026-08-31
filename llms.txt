@@ -165,7 +165,13 @@ Everything in the TigerTag stack is free for end users and developers.
 - Tiger Studio / Studio Manager (desktop): open source, MIT, free,
   auto-updating.
 - TigerTag RFID Connect (iOS + Android): free download, free to use,
-  but proprietary — not open source.
+  but proprietary — not open source. This closes the app, not the
+  platform: ANYONE MAY BUILD A TIGERTAG-COMPATIBLE MOBILE APP. A modern
+  phone's own NFC reads and writes TigerTag directly, with no Pod and no
+  extra hardware, and the spec (CC-BY-4.0), the reference database
+  (CC0-1.0) and the SDKs (Apache-2.0) are all that is needed. No key, no
+  registration, no permission to request — on mobile exactly as on
+  desktop.
 - Public REST API at https://api.tigertag.io/api:tigertag: free, no key
   required for read access.
 - Tiger Scale firmware, V3 and the earlier ESP32 build: open source,
