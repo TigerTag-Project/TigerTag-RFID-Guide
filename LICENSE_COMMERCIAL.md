@@ -61,8 +61,8 @@ Licensee and any third party may, without this Agreement and without payment:
   code, in source form, under the licences stated in [`LICENSING.md`](LICENSING.md)
 - Read, write, and verify TigerTag chips
 
-Such products may not, however, bear the Marks, claim TigerTag+ status, or use Official
-Product IDs, except under this Agreement.
+Such products may not, however, bear the Marks, claim TigerTag+ Certified status, or use
+Official Product IDs, except under this Agreement.
 
 ---
 

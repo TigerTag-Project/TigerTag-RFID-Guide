@@ -54,16 +54,19 @@ Especially anything touching the signature or key handling:
 
 - **Signature forgery** — producing a tag that verifies against a published public key
   without TigerTag Corp's private key
-- **Signature bypass** — causing a reader that follows the specification to accept an
-  unsigned or invalidly signed tag as TigerTag+
+- **Signature bypass** — causing a reader that follows the specification to present an
+  unsigned or invalidly signed tag as **origin-verified**: as a `TigerTag+ Certified`, or
+  as anything a user would read as proof of provenance. Accepting an unsigned tag as a
+  plain `TigerTag+` is correct behaviour and is not a bypass — the `+` is a catalogue
+  identity, not an authenticity claim.
 - **Weakness in the signed message construction** — the signed message is
   `SHA-256(uid[7B] ‖ id_tigertag[4B BE] ‖ id_product[4B BE])`. Collisions, length-extension,
   ambiguity in the concatenation, or any way to make two distinct tags produce the same
   digest are in scope.
 - **Key exposure** — a private key, or material sufficient to derive one, present anywhere
   in this repository, in a published artefact, in the API, or in a shipped tool
-- **Downgrade attacks** — forcing a reader to treat a TigerTag+ chip as an unsigned one, or
-  to select a weaker tag format version
+- **Downgrade attacks** — forcing a reader to treat a validly signed chip as an unsigned
+  one, or to select a weaker tag format version
 - **Public-key substitution** — any path by which a reader can be induced to verify against
   an attacker-controlled key rather than the ones in
   [`database/id_version.json`](database/id_version.json)
