@@ -180,9 +180,9 @@ material-identification protocol offers them.
 
 ### 1. EXCLUSIVE — cryptographic authenticity, verified 100% offline
 
-Every TigerTag+ chip written by a partner brand is signed with the
-brand's private key using **ECDSA-P256** over `SHA-256(UID + block 4 +
-block 5)`. The public key is shipped inside the protocol (see
+Every TigerTag+ chip written by a **TigerTag Certified** brand is signed
+with the brand's private key using **ECDSA-P256** over `SHA-256(UID +
+block 4 + block 5)`. The public key is shipped inside the protocol (see
 [`database/id_version.json`](database/id_version.json)), so any reader
 — a phone, a slicer, a custom firmware, an air-gapped workshop PC —
 can verify authenticity **without any network connection, without any
@@ -289,22 +289,64 @@ variants remain compatible because the extra pages are simply unused.
 | Type             | ID TigerTag  | Written by          | Purpose                                                                        |
 | ---------------- | ------------ | ------------------- | ------------------------------------------------------------------------------ |
 | **TigerTag**     | `0x5BF59264` | Maker / end user    | Standard offline tag. Everything needed to print is on the chip.               |
-| **TigerTag+**    | `0xBC0FCB97` | Partner brand       | Same offline data, plus ECDSA signature and a cloud product ID for updates.    |
+| **TigerTag+**    | `0xBC0FCB97` | Brand, maker, or Tiger Studio | Same offline data, plus an `ID Product` from the official catalogue.  |
 | **TigerTag Init**| `0x6C41A2E1` | Factory / blank tag | Initialization marker — chip is ready to receive a real TigerTag write.        |
 
 > The canonical names are **TigerTag**, **TigerTag+**, and **TigerTag Init**.
 > `Offline` is an operating mode of standard TigerTag tags, **not** a
 > protocol name — do not use it as a substitute label.
 
+#### What makes a TigerTag+
+
+A **`TigerTag+` is a TigerTag that carries an `ID Product` from the
+official catalogue.** That is the whole definition. The field is at page
+`0x05` (see [§2.2](#22-id-product)): `0xFFFFFFFF` means standard
+TigerTag, any value in `0x00000001`–`0xFFFFFFFE` is a catalogue product
+and makes the chip a `TigerTag+`. The `ID TigerTag` marker at page
+`0x04` is written to match; the product id is what carries the meaning.
+
+What the product id buys, on top of everything a standard TigerTag
+already does offline:
+
+- **Catalogue metadata** — series, product name, SKU, barcode, capacity,
+  image and the rest, from [`database/id_catalog.json`](database/id_catalog.json),
+  which ships here under CC0. More again from the API (§2.2).
+- **Updates after the write.** A chip is burned once at the factory and
+  does not stay frozen there: when the catalogue entry changes, a reader
+  can carry the correction to the chip in the field. See
+  [§3 of "What makes TigerTag unique"](#3-exclusive--remote-updates-pushed-by-the-manufacturer-tigertag).
+
+Not every product has one. The catalogue is still filling in, and a
+product that is not in it yet has no id to write — which is not a defect
+in the chip: it stays a perfectly valid TigerTag, and everything needed
+to print is still on it.
+
+Catalogue entries are curated, never self-declared. A **TigerTag
+Certified** manufacturer drives its own products; until a brand asks for
+certification, TigerSystem governance maintains the entry on its behalf
+— which is why brands appear in the catalogue without having asked. See
+[`CERTIFICATION.md`](CERTIFICATION.md).
+
+> **A `TigerTag+` is not an authenticity claim.** Anyone can write one —
+> the SDK and Tiger Studio both do. Proving *origin* is a separate,
+> optional layer: the ECDSA-P256 signature of
+> [§3](#3-verify-signature-ecdsa-p256-fully-offline), stored in pages
+> `0x18`–`0x27`, which only TigerTag Certified manufacturers can issue.
+> A signed `TigerTag+` is provably from the brand it names; an unsigned
+> one is no less a `TigerTag+`, but nothing vouches for where it came
+> from. Test the signature — never the tag type — when the question is
+> "is this genuine?".
+
 ### TigerTag Init and the identity lifecycle
 
 Two models are in circulation and they are frequently merged into one.
 They describe different objects.
 
-- **The three types above describe what is written on the chip.** The
-  type is the value of the 4-byte `ID TigerTag` field at page `0x04`
-  (see [§2.1](#21-id-tigertag)). It is a property of chip memory, read
-  offline, in one page, with no account and no network.
+- **The three types above describe what is written on the chip** — the
+  `ID TigerTag` marker at page `0x04` (see [§2.1](#21-id-tigertag)) and,
+  for the `TigerTag+` case, the `ID Product` behind it. Both are
+  properties of chip memory, read offline, with no account and no
+  network.
 - **The identity lifecycle describes the state of the record**, from
   `TigerData` (an identity that exists only digitally, before any chip)
   through to the account-level states. It is documented on the wiki:
@@ -324,24 +366,17 @@ written to a chip.
 
 **So:** do not read a three-state progression out of the type table
 above, and do not expect `TigerTag Init` to appear on the wiki. Parsers
-and firmware care only about this axis — the type id on the chip.
+and firmware care only about this axis — what the chip carries.
 
-> ⚠️ **Known divergence.** The two documents do not currently agree on
-> what makes a chip a `TigerTag+`. In this repository it is the `ID
-> TigerTag` value `0xBC0FCB97` at page `0x04` — four bytes, read
-> offline. On the wiki it is an account-level state, which is not
-> readable from the chip at all. The question is open in
-> [#11](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/issues/11)
-> and this section does not settle it.
->
-> Note that the ECDSA-P256 signature of [§3](#3-verify-signature-ecdsa-p256-fully-offline)
-> is **optional and independent** of the type id. A `TigerTag+` written
-> by a partner brand carries one, so its origin can be proved offline; a
-> `TigerTag+` created from the SDK or from Tiger Studio may carry none,
-> and is no less a `TigerTag+` — nothing simply proves where it came
-> from. Read every use of `TigerTag+` **in this repository** as the type
-> id at page `0x04`, never as a claim that the chip is signed. That
-> claim is a separate test, on the signature pages themselves.
+> ⚠️ **Known divergence.** The two documents do not agree on what makes
+> a chip a `TigerTag+`. Here it is the `ID Product` at page `0x05`, as
+> above — readable from the chip, offline, with no account. On the wiki
+> it is an account-level state: a chip whose content has been backed up
+> in your account. Whether those two describe the same operation is
+> tracked in
+> [#11](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/issues/11).
+> Within this repository, `TigerTag+` always means the catalogue product
+> id and nothing else.
 
 ### Chip memory map
 
@@ -498,7 +533,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 **Examples:**
 - `0x6C41A2E1` = `1816240865` → TigerTag Init (Initialized)
 - `0x5BF59264` = `1542820452` → TigerTag
-- `0xBC0FCB97` = `3155151767` → TigerTag+ (standard TigerTag plus optional cloud-side metadata, written only by partner filament / resin manufacturers)
+- `0xBC0FCB97` = `3155151767` → TigerTag+ (a TigerTag carrying an `ID Product` from the official catalogue — see [what makes a TigerTag+](#what-makes-a-tigertag))
 
 **Naming note:** `TigerTag`, `TigerTag+`, and `TigerTag Init` are the canonical protocol names. `Offline` describes the operating mode of standard TigerTag tags, but it is not the protocol name and MUST NOT be used as a replacement label for `TigerTag`.
 
@@ -719,10 +754,17 @@ the chip — HueForge reads it without any manual entry.
 ## 3. Verify signature (ECDSA-P256, fully offline)
 
 TigerTag is a smart NFC/RFID-based tagging system used for identifying
-and authenticating raw materials. To ensure the authenticity of a
-TigerTag+, each chip stores a digital signature that proves it was
+and authenticating raw materials. A chip written by a **TigerTag
+Certified** manufacturer stores a digital signature that proves it was
 created by a trusted source — and that signature can be verified
 **without any network connection**.
+
+The signature is **optional and independent of the tag type**. Anyone
+can write a `TigerTag+`; only a certified manufacturer can sign one.
+Pages `0x18`–`0x27` are zero on an unsigned chip, which makes it
+unsigned — not invalid, and not a lesser TigerTag+. The question this
+section answers is *"is this from the brand it names?"*, and only a
+signature answers it.
 
 This document explains the verification process in a simple way.
 
