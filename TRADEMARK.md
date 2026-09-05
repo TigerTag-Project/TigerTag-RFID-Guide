@@ -63,16 +63,32 @@ company, domain, or product brand without explicit written authorization.
 
 ### "TigerTag+"
 
-**"TigerTag+"** is a trademark of TigerTag Corp and denotes a tag carrying a valid
-ECDSA-P256 signature issued by TigerTag Corp.
+**"TigerTag+"** is a trademark of TigerTag Corp and denotes a tag whose identity carries
+a **product ID from the official catalogue**, together with optional enrichment metadata
+held cloud-side.
 
-Because TigerTag Corp holds the private key, a tag can only be *validly* signed by
-TigerTag Corp. You **may not** describe a tag as "TigerTag+" unless it carries such a
-signature — doing so is both trademark misuse and a false statement about authenticity.
+**The `+` means *identified*, not *certified*.** It says the tag is a known catalogue
+product, not that anyone has vouched for its origin. A TigerTag+ read in airplane mode
+behaves like any other TigerTag: everything needed to print is on the chip, and the
+enrichment is an extra, never a dependency. A TigerTag+ carrying no signature is entirely
+legitimate.
 
-Verifying a TigerTag+ signature is free, offline, and unrestricted. The public keys are
-published in [`database/id_version.json`](database/id_version.json) and are in the public
-domain.
+A TigerTag+ that **additionally** carries a valid ECDSA-P256 signature is a
+**"TigerTag+ Certified"**. That signature is written by a manufacturer holding TigerTag+
+certification, which is what the signing tools come with. **TigerTag Corp holds the private
+key**, so no one else can issue a valid signature — which is the whole reason verification
+means anything.
+
+You **may not** describe a tag as "TigerTag+ Certified" unless it carries such a signature:
+that would be both trademark misuse and a false statement about authenticity. Describing an
+unsigned catalogue tag as "TigerTag+" is correct and always has been intended to be.
+
+Verifying a signature is free, offline, and unrestricted. The public keys are published in
+[`database/id_version.json`](database/id_version.json) and are in the public domain.
+
+The canonical definition of the tier lives on the wiki:
+<https://wiki.tigersystem.io/products/tigertag-plus/>. The binary layout of the signature
+it depends on is specified [here](README.md#3-verify-signature-ecdsa-p256-fully-offline).
 
 ---
 
