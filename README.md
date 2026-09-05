@@ -31,7 +31,7 @@
 [![Offline auth](https://img.shields.io/badge/ECDSA--P256-offline%20verify-brightgreen)](#3-verify-signature-ecdsa-p256-fully-offline)
 [![Apps](https://img.shields.io/badge/iOS%20%26%20Android-free-lightgrey)](#55-tigertag-rfid-connect--mobile-apps-ios--android)
 
-> **TigerTag NFC** (RFID-compatible) is the open protocol used to identify raw materials
+> **TigerTag NFC** (RFID-compatible) is the open source protocol used to identify raw materials
 > in manufacturing — primarily 3D-printing filament spools and resin
 > bottles. One small NFC chip on the spool tells any compatible reader
 > the material, the brand, the print settings, the remaining quantity,
@@ -998,7 +998,7 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 
 ## 5. Ecosystem — official tools and hardware
 
-TigerTag is built around an open protocol and a free public API.
+TigerTag is built around an open source protocol and a free public API.
 Below are the official **TigerTag-Project apps and tools** — all
 open-source where indicated — that consume that API. For developer
 references, the protocol specification is the rest of this document;
@@ -1198,7 +1198,7 @@ there is no official colourway to match.
 
 ### 5.5 TigerTag RFID Connect — mobile apps (iOS & Android)
 
-The official TigerTag mobile app (iOS and Android) is a **closed-source proof of concept** provided for convenience. It demonstrates how TigerTag tags can be read and written using the open protocol.
+The official TigerTag mobile app (iOS and Android) is a **closed-source proof of concept** provided for convenience. It demonstrates how TigerTag tags can be read and written using the open source protocol.
 
 However, **any developer or manufacturer is free to build their own applications** — desktop, mobile, or embedded — by following the TigerTag specification.
 
