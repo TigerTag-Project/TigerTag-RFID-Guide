@@ -327,14 +327,21 @@ above, and do not expect `TigerTag Init` to appear on the wiki. Parsers
 and firmware care only about this axis — the type id on the chip.
 
 > ⚠️ **Known divergence.** The two documents do not currently agree on
-> what makes a chip a `TigerTag+`. This guide defines it as the `ID
-> TigerTag` value `0xBC0FCB97`, written by partner brands, carrying an
-> ECDSA-P256 signature (§3). The wiki defines it as an account-level
-> state. The question is open in
+> what makes a chip a `TigerTag+`. In this repository it is the `ID
+> TigerTag` value `0xBC0FCB97` at page `0x04` — four bytes, read
+> offline. On the wiki it is an account-level state, which is not
+> readable from the chip at all. The question is open in
 > [#11](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/issues/11)
-> and this section does not settle it. Until it is settled, read every
-> use of `TigerTag+` **in this repository** as referring to the type id
-> at page `0x04`, and nothing else.
+> and this section does not settle it.
+>
+> Note that the ECDSA-P256 signature of [§3](#3-verify-signature-ecdsa-p256-fully-offline)
+> is **optional and independent** of the type id. A `TigerTag+` written
+> by a partner brand carries one, so its origin can be proved offline; a
+> `TigerTag+` created from the SDK or from Tiger Studio may carry none,
+> and is no less a `TigerTag+` — nothing simply proves where it came
+> from. Read every use of `TigerTag+` **in this repository** as the type
+> id at page `0x04`, never as a claim that the chip is signed. That
+> claim is a separate test, on the signature pages themselves.
 
 ### Chip memory map
 
