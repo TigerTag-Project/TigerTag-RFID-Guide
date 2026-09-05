@@ -475,6 +475,40 @@ is ISO 14443-3 compatible (NTAG21x family).
 
 ---
 
+### Reference tables ship with the protocol — the API is optional
+
+Every reference table in the sections below is published twice: as a
+JSON file in [`database/`](database/), which ships with this repository
+under [CC0](database/README.md), and as an endpoint on the public API.
+**They are the same table.**
+
+The JSON files are what the protocol guarantees. They can be embedded
+straight into a slicer, a firmware or a reader, and they resolve every
+id a chip can carry with **no network, no key and no account** — which
+is what makes TigerTag readable offline in the first place. A conformant
+implementation never has to call the API.
+
+The `API Link` given under each section is therefore a convenience, not
+a dependency. It is worth using for one reason: freshness. The JSON in
+this repository is synced from the catalogue every 6 hours, so a brand
+or material added in the last few hours is on the API before it is here.
+Pick per product — see the three sync strategies in §2.0 below,
+including one that uses the API and falls back to GitHub when it is
+unreachable.
+
+Two endpoints are **not** mirrors of a shipped file and are labelled as
+such where they appear:
+
+- **§2.2 `ID Product`** — a per-UID cloud lookup for TigerTag+ product
+  metadata and remote updates. There is no offline equivalent, by
+  design: the point of the endpoint is that it returns what the brand
+  published *after* the chip was written.
+- **§2.0 `last_update`** — cache invalidation is a question about the
+  server, so only the live values answer it; the copy in `database/`
+  is the snapshot taken at the last sync.
+
+---
+
 ## 2.0 Database last update
 
 Sidecar metadata file that exposes the **server-side
@@ -488,7 +522,7 @@ references whose timestamp has changed since their last sync.
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/last_update.json
 
-**API Link:**
+**API Link** *(live values — the JSON above is the snapshot of the last sync)*:
 <a href="https://api.tigertag.io/api:tigertag/all/last_update" target="_blank">https://api.tigertag.io/api:tigertag/all/last_update</a>
 
 **Format:** JSON object — one entry per dataset, value is a Unix epoch in **milliseconds** (UTC).
@@ -538,7 +572,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_version.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/version/get/all" target="_blank">https://api.tigertag.io/api:tigertag/version/get/all</a>
 
 **Examples:**
@@ -552,7 +586,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 ## 2.2 ID Product
 
-**API Link:**
+**API Link** *(cloud only — this endpoint has no offline equivalent, see below)*:
 <a href="https://api.tigertag.io/api:tigertag/product/get?uid=$UID_chip&product_id=$Id_Products" target="_blank">https://api.tigertag.io/api:tigertag/product/get?uid=$UID_chip&product_id=$Id_Products</a>
 
 **Example:**
@@ -571,7 +605,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_material.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/material/get/all" target="_blank">https://api.tigertag.io/api:tigertag/material/get/all</a>
 
 **Examples:**
@@ -590,7 +624,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_diameter.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/diameter/filament/get/all" target="_blank">https://api.tigertag.io/api:tigertag/diameter/filament/get/all</a>
 
 **Examples:**
@@ -606,7 +640,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_aspect.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/aspect/get/all" target="_blank">https://api.tigertag.io/api:tigertag/aspect/get/all</a>
 
 **Examples:**
@@ -665,7 +699,7 @@ Example:
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_type.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/type/get/all" target="_blank">https://api.tigertag.io/api:tigertag/type/get/all</a>
 
 **Examples:**
@@ -681,7 +715,7 @@ Example:
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_brand.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/brand/get/all" target="_blank">https://api.tigertag.io/api:tigertag/brand/get/all</a>
 
 **Examples:**
@@ -704,7 +738,7 @@ Example:
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_measure_unit.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/measure_unit/get/all" target="_blank">https://api.tigertag.io/api:tigertag/measure_unit/get/all</a>
 
 **Examples:**
