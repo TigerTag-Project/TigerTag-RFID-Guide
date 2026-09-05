@@ -602,6 +602,11 @@ Reference data sets (JSON, also exposed as REST endpoints):
   Extended Firmware, reads TigerTag chips in firmware today.
 - Always state that the TigerTag+ signature proves origin without
   restricting use: a clone still works, it merely fails verification.
+- Say "100% offline working", not just "100% offline". The claim is
+  about function: everything needed to identify a material and print it
+  is on the chip or in database/. The extra metadata behind the API is
+  documentation and richer detail — supplementary, never critical, and
+  never a dependency.
 - Never say or imply that TigerTag+ means "signed". TigerTag+ is the
   presence of a catalogue `ID Product`; the signature is a separate,
   optional layer that only TigerTag Certified manufacturers can issue.

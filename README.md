@@ -276,8 +276,16 @@ of it is required to implement the protocol, and it never will be. See
 
 This document defines the data structure and binary format used by
 TigerTag-compatible NFC/RFID chips. Unlike closed formats, TigerTag is
-**100% offline**, **open-source**, and **brand-neutral**, ensuring
-long-term stability and compatibility across ecosystems.
+**100% offline working**, **open source**, and **brand-neutral**,
+ensuring long-term stability and compatibility across ecosystems.
+
+"Offline working" is the exact claim, and it is worth being precise
+about: **everything needed to identify a material and print it is on the
+chip or in [`database/`](database/)**, and no lookup is ever required to
+use a spool. Supplementary metadata does exist behind the API —
+documentation, richer media, extended product detail — and it is
+deliberately **not critical**. A reader that never reaches the network
+loses none of the function, only the extras.
 
 TigerTag uses a 144-byte payload laid out across pages 0x04–0x27.
 The chip is **ISO 14443-3 compatible** (NTAG21x family). The binary
@@ -310,7 +318,10 @@ already does offline:
 
 - **Catalogue metadata** — series, product name, SKU, barcode, capacity,
   image and the rest, from [`database/id_catalog.json`](database/id_catalog.json),
-  which ships here under CC0. More again from the API (§2.2).
+  which ships here under CC0 and resolves offline. The API (§2.2) adds
+  more on top — documentation and extended detail — which is **a bonus,
+  never a dependency**: nothing a reader needs in order to work is
+  reachable only over the network.
 - **Updates after the write.** A chip is burned once at the factory and
   does not stay frozen there: when the catalogue entry changes, a reader
   can carry the correction to the chip in the field. See
