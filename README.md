@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">TigerTag NFC (RFID-compatible) — open protocol for material identification</h1>
+<h1 align="center">TigerTag NFC (RFID-compatible) — open source protocol for material identification</h1>
 
 <p align="center">
   <a href="https://tigersystem.io">tigersystem.io</a>
