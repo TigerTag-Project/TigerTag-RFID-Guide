@@ -6159,6 +6159,43 @@
   },
   {
     "RFID_Data": {
+      "color_a": 128,
+      "color_b": 61,
+      "color_g": 49,
+      "color_r": 214,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#D6313D80",
+    "color_info": {
+      "colors": [
+        "#D6313D80"
+      ],
+      "type": "mono"
+    },
+    "id": 57945492,
+    "img_src": "https://cdn.tigertag.io/img?id=57945492&v=3",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PLAP-TRRD-1KG-A",
+    "title": "PLA+ - Transparent Red"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 0,
       "color_g": 0,
@@ -10920,6 +10957,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 123,
+      "color_g": 120,
+      "color_r": 117,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 70,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#75787BFF",
+    "color_info": {
+      "colors": [
+        "#75787BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 92264897,
+    "img_src": "https://cdn.tigertag.io/img?id=92264897&v=3",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-HSABS-GREY-1KG-A",
+    "title": "High Speed ABS - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 85,
       "color_g": 215,
       "color_r": 210,
@@ -11175,43 +11249,6 @@
     "product_type": "Filament",
     "sku": "VXL-PLAHS-BLACK-1KG",
     "title": "PLA+ HS (Pro) - Black"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 128,
-      "color_b": 252,
-      "color_g": 110,
-      "color_r": 71,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#476EFC80",
-    "color_info": {
-      "colors": [
-        "#476EFC80"
-      ],
-      "type": "mono"
-    },
-    "id": 93767231,
-    "img_src": "https://cdn.tigertag.io/img?id=93767231&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PETG-TRAN-1KG-A",
-    "title": "PETG - Transparent Blue"
   },
   {
     "RFID_Data": {
@@ -12145,43 +12182,6 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU75A-CYAN-175-1KG",
     "title": "THE K8 TPU 75A - Cyan"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 0,
-      "color_g": 0,
-      "color_r": 255,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 145,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#FF0000FF",
-    "color_info": {
-      "colors": [
-        "#FF0000FF"
-      ],
-      "type": "gradient"
-    },
-    "id": 100233313,
-    "img_src": "https://cdn.tigertag.io/img?id=100233313&v=3",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-RAINBOWPLA-04-1KG-A",
-    "title": "Rainbow PLA - Rainbow 04"
   },
   {
     "RFID_Data": {
@@ -16581,6 +16581,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 154,
+      "color_g": 178,
+      "color_r": 194,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#C2B29AFF",
+    "color_info": {
+      "colors": [
+        "#C2B29AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 139591715,
+    "img_src": "https://cdn.tigertag.io/img?id=139591715&v=2",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-PLA+V2-OK-1KG",
+    "title": "PLA+ 2.0 - Oak"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 113,
       "color_g": 110,
       "color_r": 109,
@@ -17687,43 +17724,6 @@
     "product_type": "Filament",
     "sku": "VFBPPL17511",
     "title": "PLA Professional - Purple"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 52,
-      "color_g": 115,
-      "color_r": 237,
-      "data1": 56,
-      "data2": 200,
-      "data3": 250,
-      "data4": 60,
-      "data5": 6,
-      "data6": 25,
-      "data7": 45,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 43518,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#ED7334FF",
-    "color_info": {
-      "colors": [
-        "#ED7334FF"
-      ],
-      "type": "mono"
-    },
-    "id": 148943945,
-    "img_src": "https://cdn.tigertag.io/img?id=148943945&v=6",
-    "material": "TPU",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-TPU95A-ORANGE",
-    "title": "TPU 95A - Sunny Orange"
   },
   {
     "RFID_Data": {
@@ -23315,6 +23315,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 215,
+      "color_r": 255,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 252,
+      "id_brand": 51857,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF",
+        "#FFD700FF"
+      ],
+      "type": "multi"
+    },
+    "id": 200782167,
+    "img_src": "https://cdn.tigertag.io/img?id=200782167&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILKDC-RD+GD-1KG",
+    "title": "Silk PLA+ Dual-Color - Red Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 22,
       "color_g": 22,
       "color_r": 22,
@@ -25543,6 +25584,43 @@
     "product_type": "Filament",
     "sku": "772277",
     "title": "ABS-CF - Inland ABS-CF Dark Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 128,
+      "color_b": 34,
+      "color_g": 177,
+      "color_r": 5,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#05B12280",
+    "color_info": {
+      "colors": [
+        "#05B12280"
+      ],
+      "type": "mono"
+    },
+    "id": 221420955,
+    "img_src": "https://cdn.tigertag.io/img?id=221420955&v=3",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLAP-TRGN-1KG-A",
+    "title": "PLA+ - Transparent Green"
   },
   {
     "RFID_Data": {
@@ -33194,6 +33272,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 205,
+      "data3": 245,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 275486852,
+    "img_src": "https://cdn.tigertag.io/img?id=275486852&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PLAYG-WT-1KG-A",
+    "title": "PLA Matte - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 119,
       "color_g": 65,
       "color_r": 89,
@@ -33375,43 +33490,6 @@
     "product_type": "Filament",
     "sku": "F9H1-9M-9B1",
     "title": "ABS - Translucide"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 128,
-      "color_b": 252,
-      "color_g": 110,
-      "color_r": 71,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 46591,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#476EFC80",
-    "color_info": {
-      "colors": [
-        "#476EFC80"
-      ],
-      "type": "mono"
-    },
-    "id": 277395756,
-    "img_src": "https://cdn.tigertag.io/img?id=277395756&v=3",
-    "material": "PLA+",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLAP-TRBL-1KG-A",
-    "title": "PLA+ - Transparent Blue"
   },
   {
     "RFID_Data": {
@@ -34082,6 +34160,43 @@
     "product_type": "Filament",
     "sku": "B0F66DPZKF",
     "title": "PLA PRO - Translucent"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 101,
+      "color_g": 92,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#E85C65FF",
+    "color_info": {
+      "colors": [
+        "#E85C65FF"
+      ],
+      "type": "mono"
+    },
+    "id": 286269312,
+    "img_src": "https://cdn.tigertag.io/img?id=286269312&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILK-RD-1KG",
+    "title": "Silk PLA - Red"
   },
   {
     "RFID_Data": {
@@ -35963,7 +36078,7 @@
       "type": "mono"
     },
     "id": 302105341,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase_1.jpg?v=1759254385",
+    "img_src": "https://cdn.tigertag.io/img?id=302105341&v=1",
     "material": "PETG HS",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -37348,7 +37463,7 @@
       "type": "mono"
     },
     "id": 314216184,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-Vase_2.jpg?v=1759254397",
+    "img_src": "https://cdn.tigertag.io/img?id=314216184&v=1",
     "material": "PETG HS",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -45469,6 +45584,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 201,
+      "color_g": 178,
+      "color_r": 164,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#A4B2C9FF",
+    "color_info": {
+      "colors": [
+        "#A4B2C9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 377771995,
+    "img_src": "https://cdn.tigertag.io/img?id=377771995&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILK-SV-1KG",
+    "title": "Silk PLA - Silver"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 48,
       "color_g": 59,
       "color_r": 255,
@@ -47689,6 +47841,43 @@
     "product_type": "Filament",
     "sku": "34183",
     "title": "TPU 95A HF - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 70,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#1A1A1AFF",
+    "color_info": {
+      "colors": [
+        "#1A1A1AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 398176626,
+    "img_src": "https://cdn.tigertag.io/img?id=398176626&v=9",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-ABSFR-BLK-1KG-A",
+    "title": "ABS-FR - ABS-FR Black"
   },
   {
     "RFID_Data": {
@@ -50290,7 +50479,7 @@
       "type": "multi"
     },
     "id": 419175899,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Luminous_Rainbow_9f9781f0-a6ba-4b74-86f3-edbe31371420.jpg?v=1732222475",
+    "img_src": "https://cdn.tigertag.io/img?id=419175899&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -60399,7 +60588,7 @@
       "type": "mono"
     },
     "id": 508321059,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Aurora_Red.jpg?v=1741359762",
+    "img_src": "https://cdn.tigertag.io/img?id=508321059&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -65414,7 +65603,7 @@
       "type": "mono"
     },
     "id": 545693463,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Orange_Dawn.jpg?v=1737655462",
+    "img_src": "https://cdn.tigertag.io/img?id=545693463&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -66205,43 +66394,6 @@
     "product_type": "Filament",
     "sku": "PLA+175C1R1",
     "title": "PLA+ with spool - BROWN"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 123,
-      "color_g": 120,
-      "color_r": 117,
-      "data1": 56,
-      "data2": 205,
-      "data3": 245,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 247,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#75787BFF",
-    "color_info": {
-      "colors": [
-        "#75787BFF"
-      ],
-      "type": "mono"
-    },
-    "id": 551872453,
-    "img_src": "https://cdn.tigertag.io/img?id=551872453&v=2",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PLAYG-GY-1KG-A",
-    "title": "PLA Matte - Grey"
   },
   {
     "RFID_Data": {
@@ -69564,43 +69716,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 166,
-      "color_g": 156,
-      "color_r": 0,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#009CA6FF",
-    "color_info": {
-      "colors": [
-        "#009CA6FF"
-      ],
-      "type": "mono"
-    },
-    "id": 580721347,
-    "img_src": "https://cdn.tigertag.io/img?id=580721347&v=6",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLAMETA-TEAL-1KG-A",
-    "title": "PLA Meta - Teal"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 200,
       "color_g": 211,
       "color_r": 167,
@@ -72080,6 +72195,43 @@
     "product_type": "Filament",
     "sku": "3DN2BKRD",
     "title": "PLA Silk Shiny Gradient - Silk Black & Shiny Red Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 280,
+      "data4": 65,
+      "data5": 6,
+      "data6": 25,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 600986254,
+    "img_src": "https://cdn.tigertag.io/img?id=600986254&v=4",
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PETG-WT-1KG-A",
+    "title": "PETG - White"
   },
   {
     "RFID_Data": {
@@ -75097,43 +75249,6 @@
     "product_type": "Filament",
     "sku": "SL-N-PETG-CY-1KG-A",
     "title": "PETG - Cyan"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 115,
-      "color_g": 58,
-      "color_r": 27,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 64,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#1B3A73FF",
-    "color_info": {
-      "colors": [
-        "#1B3A73FF"
-      ],
-      "type": "mono"
-    },
-    "id": 627397659,
-    "img_src": "https://cdn.tigertag.io/img?id=627397659&v=8",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-TWPLA-BLU-1KG-A",
-    "title": "Twinkling PLA - Twinkling Blue"
   },
   {
     "RFID_Data": {
@@ -78344,43 +78459,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 0,
-      "color_g": 0,
-      "color_r": 0,
-      "data1": 56,
-      "data2": 240,
-      "data3": 280,
-      "data4": 80,
-      "data5": 8,
-      "data6": 90,
-      "data7": 100,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 56666,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#000000FF",
-    "color_info": {
-      "colors": [
-        "#000000FF"
-      ],
-      "type": "mono"
-    },
-    "id": 653694887,
-    "img_src": "https://cdn.tigertag.io/img?id=653694887&v=3",
-    "material": "PA6",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-EASYPA-BLACK",
-    "title": "Easy PA - Black"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -78821,6 +78899,43 @@
     "product_type": "Filament",
     "sku": "SL-NEON-FLUORESCENTGREEN",
     "title": "Neon & Transparent PLA - Fluorescent Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 180,
+      "color_g": 132,
+      "color_r": 230,
+      "data1": 56,
+      "data2": 205,
+      "data3": 245,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#E684B4FF",
+    "color_info": {
+      "colors": [
+        "#E684B4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 658568816,
+    "img_src": "https://cdn.tigertag.io/img?id=658568816&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PLAYG-PK-1KG-A",
+    "title": "PLA Matte - Pink"
   },
   {
     "RFID_Data": {
@@ -81345,43 +81460,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 63,
-      "color_g": 241,
-      "color_r": 255,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#FFF13FFF",
-    "color_info": {
-      "colors": [
-        "#FFF13FFF"
-      ],
-      "type": "mono"
-    },
-    "id": 679255900,
-    "img_src": "https://cdn.tigertag.io/img?id=679255900&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PETG-YL-1KG-A",
-    "title": "PETG - Yellow"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 96,
       "color_b2": 176,
       "color_g": 37,
@@ -81598,7 +81676,7 @@
       "type": "mono"
     },
     "id": 680776785,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase.jpg?v=1759254369",
+    "img_src": "https://cdn.tigertag.io/img?id=680776785&v=1",
     "material": "PETG HS",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -88808,6 +88886,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 69,
+      "color_g": 66,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#E84245FF",
+    "color_info": {
+      "colors": [
+        "#E84245FF"
+      ],
+      "type": "mono"
+    },
+    "id": 737228027,
+    "img_src": "https://cdn.tigertag.io/img?id=737228027&v=3",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLAP-CHR-1KG-A",
+    "title": "PLA+ - Cherry Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 230,
       "color_g": 241,
       "color_r": 247,
@@ -91586,7 +91701,7 @@
       "type": "mono"
     },
     "id": 767369151,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_4.jpg?v=1757090181",
+    "img_src": "https://cdn.tigertag.io/img?id=767369151&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -92848,7 +92963,7 @@
       "type": "mono"
     },
     "id": 776539358,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/FAST_PLA_Neon_Orange_Main_Pic.jpg?v=1731595676",
+    "img_src": "https://cdn.tigertag.io/img?id=776539358&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -96357,43 +96472,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 212,
-      "color_g": 231,
-      "color_r": 238,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#EEE7D4FF",
-    "color_info": {
-      "colors": [
-        "#EEE7D4FF"
-      ],
-      "type": "mono"
-    },
-    "id": 804361022,
-    "img_src": "https://cdn.tigertag.io/img?id=804361022&v=1",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-PLAMT-CW-1KG",
-    "title": "PLA Meta - Cream White"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 204,
       "color_g": 204,
       "color_r": 204,
@@ -98696,6 +98774,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 211,
+      "color_g": 223,
+      "color_r": 229,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 6,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 30884,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "brand": "Sunlu",
+    "color": "#E5DFD3FF",
+    "color_info": {
+      "colors": [
+        "#E5DFD3FF"
+      ],
+      "type": "mono"
+    },
+    "id": 825840032,
+    "img_src": "https://cdn.tigertag.io/img?id=825840032&v=2",
+    "material": "PP",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PP-NAT-08KG-A",
+    "title": "PP - PP Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 25,
       "color_r": 255,
@@ -100382,6 +100497,51 @@
     "product_type": "Filament",
     "sku": "P037",
     "title": "PLA - Creamsicle"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 128,
+      "color_b3": 0,
+      "color_g": 0,
+      "color_g2": 128,
+      "color_g3": 0,
+      "color_r": 0,
+      "color_r2": 128,
+      "color_r3": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 24,
+      "id_brand": 51857,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF",
+        "#808080FF",
+        "#FF0000FF"
+      ],
+      "type": "multi"
+    },
+    "id": 840347170,
+    "img_src": "https://cdn.tigertag.io/img?id=840347170&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILKFC-BK+GY+RD+YL-1KG",
+    "title": "Silk PLA+ Four-Color - Black Grey Red Yellow"
   },
   {
     "RFID_Data": {
@@ -103991,43 +104151,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 255,
-      "color_g": 253,
-      "color_r": 249,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 247,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 24629,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#F9FDFFFF",
-    "color_info": {
-      "colors": [
-        "#F9FDFFFF"
-      ],
-      "type": "mono"
-    },
-    "id": 872897248,
-    "img_src": "https://cdn.tigertag.io/img?id=872897248&v=4",
-    "material": "PLA High Speed",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-HSMPLA-PRIWHITE",
-    "title": "High Speed Matte PLA - Pri-White"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 192,
       "color_g": 220,
       "color_r": 232,
@@ -105623,6 +105746,43 @@
     "product_type": "Filament",
     "sku": "RFHPPETG175BN1",
     "title": "Hyper PETG - Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 222,
+      "color_g": 228,
+      "color_r": 229,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#E5E4DEFF",
+    "color_info": {
+      "colors": [
+        "#E5E4DEFF"
+      ],
+      "type": "mono"
+    },
+    "id": 890811993,
+    "img_src": "https://cdn.tigertag.io/img?id=890811993&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILK-WT-1KG",
+    "title": "Silk PLA - White"
   },
   {
     "RFID_Data": {
@@ -107303,6 +107463,43 @@
   },
   {
     "RFID_Data": {
+      "color_a": 128,
+      "color_b": 44,
+      "color_g": 232,
+      "color_r": 249,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#F9E82C80",
+    "color_info": {
+      "colors": [
+        "#F9E82C80"
+      ],
+      "type": "mono"
+    },
+    "id": 907114452,
+    "img_src": "https://cdn.tigertag.io/img?id=907114452&v=3",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PLAP-TRYL-1KG-A",
+    "title": "PLA+ - Transparent Yellow"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 0,
       "color_g": 0,
@@ -108227,7 +108424,7 @@
       "type": "mono"
     },
     "id": 916445814,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Glass_Light_Blue_a5552ccc-4bfd-45d0-a62a-1961bb86d6ae.jpg?v=1741033351",
+    "img_src": "https://cdn.tigertag.io/img?id=916445814&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -108416,7 +108613,7 @@
       "type": "gradient"
     },
     "id": 917213209,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/PETG_Crystal_Candy_Rainbow_1_vase.jpg?v=1772135724",
+    "img_src": "https://cdn.tigertag.io/img?id=917213209&v=1",
     "material": "PETG HS",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -125751,6 +125948,80 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 77,
+      "color_g": 77,
+      "color_r": 77,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#4D4D4DFF",
+    "color_info": {
+      "colors": [
+        "#4D4D4DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1064430869,
+    "img_src": "https://cdn.tigertag.io/img?id=1064430869&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILK-BK-1KG",
+    "title": "Silk PLA - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 215,
+      "color_g": 197,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#F4C5D7FF",
+    "color_info": {
+      "colors": [
+        "#F4C5D7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1064798678,
+    "img_src": "https://cdn.tigertag.io/img?id=1064798678&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILK-PK-1KG",
+    "title": "Silk PLA - Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 48,
       "color_g": 80,
       "color_r": 176,
@@ -131332,7 +131603,7 @@
       "type": "mono"
     },
     "id": 1111862425,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-Vase-1_14.jpg?v=1758550383",
+    "img_src": "https://cdn.tigertag.io/img?id=1111862425&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -138488,6 +138759,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_b3": 0,
+      "color_g": 0,
+      "color_g2": 255,
+      "color_g3": 170,
+      "color_r": 255,
+      "color_r2": 255,
+      "color_r3": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 24,
+      "id_brand": 51857,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF",
+        "#FFFF00FF",
+        "#00AA00FF"
+      ],
+      "type": "multi"
+    },
+    "id": 1170275060,
+    "img_src": "https://cdn.tigertag.io/img?id=1170275060&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILKTC-RD+YL+GN-1KG",
+    "title": "Silk PLA+ Tri-Color - Red Yellow Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 107,
       "color_g": 42,
       "color_r": 27,
@@ -139417,43 +139733,6 @@
     "product_type": "Filament",
     "sku": "PLA-SK175O-AQ1R1",
     "title": "PLA-Silk - AQUA"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 128,
-      "color_b": 252,
-      "color_g": 110,
-      "color_r": 71,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#476EFC80",
-    "color_info": {
-      "colors": [
-        "#476EFC80"
-      ],
-      "type": "mono"
-    },
-    "id": 1175752068,
-    "img_src": "https://cdn.tigertag.io/img?id=1175752068&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PETG-TRAN-1KG-A",
-    "title": "PETG - Transparent Blue"
   },
   {
     "RFID_Data": {
@@ -151526,43 +151805,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 171,
-      "color_g": 41,
-      "color_r": 23,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 46591,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#1729ABFF",
-    "color_info": {
-      "colors": [
-        "#1729ABFF"
-      ],
-      "type": "mono"
-    },
-    "id": 1292731486,
-    "img_src": "https://cdn.tigertag.io/img?id=1292731486&v=1",
-    "material": "PLA+",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-PLA+V2-BL-1KG",
-    "title": "PLA+ 2.0 - Klein Blue"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 162,
       "color_g": 95,
       "color_r": 255,
@@ -153879,43 +154121,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 212,
-      "color_g": 231,
-      "color_r": 238,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#EEE7D4FF",
-    "color_info": {
-      "colors": [
-        "#EEE7D4FF"
-      ],
-      "type": "mono"
-    },
-    "id": 1308337439,
-    "img_src": "https://cdn.tigertag.io/img?id=1308337439&v=3",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLA-BW-1KG-A",
-    "title": "PLA - Bone White"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 169,
       "color_g": 168,
       "color_r": 167,
@@ -154282,43 +154487,6 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAM-MATTETECHGRAY-285-3KG",
     "title": "THE K5 PLA M - Matte Tech Gray"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 74,
-      "color_g": 51,
-      "color_r": 40,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#28334AFF",
-    "color_info": {
-      "colors": [
-        "#28334AFF"
-      ],
-      "type": "mono"
-    },
-    "id": 1310674599,
-    "img_src": "https://cdn.tigertag.io/img?id=1310674599&v=1",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PETG-MN-1KG-A",
-    "title": "PETG - Midnight"
   },
   {
     "RFID_Data": {
@@ -158438,43 +158606,6 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU65A-NATURAL-285-1KG",
     "title": "THE K8 TPU 65A - Natural"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 2,
-      "color_g": 234,
-      "color_r": 240,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 247,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 24629,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#F0EA02FF",
-    "color_info": {
-      "colors": [
-        "#F0EA02FF"
-      ],
-      "type": "mono"
-    },
-    "id": 1348257831,
-    "img_src": "https://cdn.tigertag.io/img?id=1348257831&v=4",
-    "material": "PLA High Speed",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-HSMPLA-PRIYELLOW",
-    "title": "High Speed Matte PLA - Pri-Yellow"
   },
   {
     "RFID_Data": {
@@ -164377,7 +164508,7 @@
       "type": "mono"
     },
     "id": 1399188365,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Purple_Dusk.jpg?v=1737655584",
+    "img_src": "https://cdn.tigertag.io/img?id=1399188365&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -177057,6 +177188,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 38,
+      "color_g": 39,
+      "color_r": 188,
+      "data1": 56,
+      "data2": 205,
+      "data3": 245,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#BC2726FF",
+    "color_info": {
+      "colors": [
+        "#BC2726FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1502004835,
+    "img_src": "https://cdn.tigertag.io/img?id=1502004835&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PLAYG-RD-1KG-A",
+    "title": "PLA Matte - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 42,
       "color_g": 40,
       "color_r": 37,
@@ -178134,6 +178302,43 @@
     "product_type": "Filament",
     "sku": "DLZ-JY-HSMPETG-BL-1.1kg-C",
     "title": "High Speed Matte PETG - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 244,
+      "color_g": 199,
+      "color_r": 54,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#36C7F4FF",
+    "color_info": {
+      "colors": [
+        "#36C7F4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1511835861,
+    "img_src": "https://cdn.tigertag.io/img?id=1511835861&v=3",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLAP-SKB-1KG-A",
+    "title": "PLA+ - Sky Blue"
   },
   {
     "RFID_Data": {
@@ -180069,7 +180274,7 @@
       "type": "gradient"
     },
     "id": 1528133340,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_57c62488-ae8a-4a23-8a7b-a0bbaac4b5e5.jpg?v=1757089924",
+    "img_src": "https://cdn.tigertag.io/img?id=1528133340&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -180556,6 +180761,43 @@
     "product_type": "Filament",
     "sku": "REFPETGVERT3268C",
     "title": "PETG - Vert Pantone 3268C"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 145,
+      "color_g": 184,
+      "color_r": 205,
+      "data1": 56,
+      "data2": 380,
+      "data3": 420,
+      "data4": 120,
+      "data5": 12,
+      "data6": 120,
+      "data7": 150,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 29815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#CDB891FF",
+    "color_info": {
+      "colors": [
+        "#CDB891FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1532652130,
+    "img_src": "https://cdn.tigertag.io/img?id=1532652130&v=1",
+    "material": "PEEK",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PEEK-NAT-1KG-A",
+    "title": "PEEK - PEEK Natural"
   },
   {
     "RFID_Data": {
@@ -182835,7 +183077,7 @@
       "type": "mono"
     },
     "id": 1550785993,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_16.jpg?v=1758550490",
+    "img_src": "https://cdn.tigertag.io/img?id=1550785993&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -184633,6 +184875,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 66,
+      "color_g": 198,
+      "color_r": 234,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#EAC642FF",
+    "color_info": {
+      "colors": [
+        "#EAC642FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1567540579,
+    "img_src": "https://cdn.tigertag.io/img?id=1567540579&v=2",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-PLA+V2-PY-1KG",
+    "title": "PLA+ 2.0 - Vivid Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 120,
       "color_g": 92,
       "color_r": 124,
@@ -185030,7 +185309,7 @@
       "type": "mono"
     },
     "id": 1570903143,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Cosmic_Plum.jpg?v=1737655402",
+    "img_src": "https://cdn.tigertag.io/img?id=1570903143&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -189249,6 +189528,43 @@
     "product_type": "Filament",
     "sku": "KEX-K5PETGR-SOFTPINK-175-5KG",
     "title": "THE K5 PETG Rapid - Soft Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 123,
+      "color_g": 120,
+      "color_r": 117,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 70,
+      "data5": 6,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#75787BFF",
+    "color_info": {
+      "colors": [
+        "#75787BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1609946945,
+    "img_src": "https://cdn.tigertag.io/img?id=1609946945&v=4",
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-ASA-GREY",
+    "title": "ASA - Grey"
   },
   {
     "RFID_Data": {
@@ -194526,7 +194842,7 @@
       "type": "mono"
     },
     "id": 1656983470,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/PLA_Luminouspurple1_Vase.jpg?v=1764955508",
+    "img_src": "https://cdn.tigertag.io/img?id=1656983470&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -196020,6 +196336,43 @@
     "product_type": "Filament",
     "sku": "376004456882",
     "title": "PEI - Ultem 1010"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 210,
+      "color_g": 196,
+      "color_r": 185,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#B9C4D2FF",
+    "color_info": {
+      "colors": [
+        "#B9C4D2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1671408926,
+    "img_src": "https://cdn.tigertag.io/img?id=1671408926&v=3",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLAP-SLV-1KG-A",
+    "title": "PLA+ - Silver"
   },
   {
     "RFID_Data": {
@@ -200012,7 +200365,7 @@
       "type": "mono"
     },
     "id": 1710254449,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/PLA_Neon_Pink_1_vase.jpg?v=1764956461",
+    "img_src": "https://cdn.tigertag.io/img?id=1710254449&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -200682,7 +201035,7 @@
       "type": "mono"
     },
     "id": 1716405803,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/B0DWQ68NP9.MAIN.jpg?v=1741295858",
+    "img_src": "https://cdn.tigertag.io/img?id=1716405803&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -202620,43 +202973,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 0,
-      "color_g": 0,
-      "color_r": 0,
-      "data1": 56,
-      "data2": 240,
-      "data3": 280,
-      "data4": 70,
-      "data5": 6,
-      "data6": 80,
-      "data7": 90,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 20562,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#000000FF",
-    "color_info": {
-      "colors": [
-        "#000000FF"
-      ],
-      "type": "mono"
-    },
-    "id": 1736039513,
-    "img_src": "https://cdn.tigertag.io/img?id=1736039513&v=5",
-    "material": "ABS",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-ABS-BK-1KG-A",
-    "title": "ABS - Black"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 19,
       "color_g": 6,
       "color_r": 227,
@@ -202943,7 +203259,7 @@
       "type": "mono"
     },
     "id": 1737375106,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-Vase-1_17.jpg?v=1758550579",
+    "img_src": "https://cdn.tigertag.io/img?id=1737375106&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -205383,43 +205699,6 @@
     "product_type": "Filament",
     "sku": "PLA175500G042",
     "title": "PLA - Naturel"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 128,
-      "color_b": 61,
-      "color_g": 49,
-      "color_r": 214,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#D6313D80",
-    "color_info": {
-      "colors": [
-        "#D6313D80"
-      ],
-      "type": "mono"
-    },
-    "id": 1756199784,
-    "img_src": "https://cdn.tigertag.io/img?id=1756199784&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PETG-TRAN4-1KG-A",
-    "title": "PETG - Transparent Red"
   },
   {
     "RFID_Data": {
@@ -215475,6 +215754,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 105,
+      "color_g": 135,
+      "color_r": 205,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#CD8769FF",
+    "color_info": {
+      "colors": [
+        "#CD8769FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1848742790,
+    "img_src": "https://cdn.tigertag.io/img?id=1848742790&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILK-RC-1KG",
+    "title": "Silk PLA - Red Copper"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 102,
       "color_r": 0,
@@ -219126,43 +219442,6 @@
     "product_type": "Filament",
     "sku": "MARSWORK-PLABASIC-HOTPINK-SPOOL",
     "title": "PLA Basic - Hot Pink"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 128,
-      "color_b": 229,
-      "color_g": 231,
-      "color_r": 231,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#E7E7E580",
-    "color_info": {
-      "colors": [
-        "#E7E7E580"
-      ],
-      "type": "mono"
-    },
-    "id": 1878347317,
-    "img_src": "https://cdn.tigertag.io/img?id=1878347317&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PETG-TRAN7-1KG-A",
-    "title": "PETG - Transparent"
   },
   {
     "RFID_Data": {
@@ -223611,6 +223890,43 @@
     "product_type": "Filament",
     "sku": "SL-Y-PLA-GN-1KG-A",
     "title": "PLA - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 63,
+      "color_g": 241,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 70,
+      "data5": 6,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#FFF13FFF",
+    "color_info": {
+      "colors": [
+        "#FFF13FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1918957148,
+    "img_src": "https://cdn.tigertag.io/img?id=1918957148&v=7",
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-ASA-YELLOW",
+    "title": "ASA - Yellow"
   },
   {
     "RFID_Data": {
@@ -230782,6 +231098,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 123,
+      "color_g": 120,
+      "color_r": 117,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 70,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#75787BFF",
+    "color_info": {
+      "colors": [
+        "#75787BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1985464152,
+    "img_src": "https://cdn.tigertag.io/img?id=1985464152&v=1",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-ABS-GY-1KG-A",
+    "title": "ABS - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -234337,7 +234690,7 @@
       "type": "mono"
     },
     "id": 2014345218,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/PLA_LuminousBlue1_Vase_153df8bf-0740-4d19-b2cc-3cf09ea34642.jpg?v=1764955471",
+    "img_src": "https://cdn.tigertag.io/img?id=2014345218&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -234602,6 +234955,43 @@
     "product_type": "Filament",
     "sku": "AMB2536CAM",
     "title": "ASA - Camo Olive Drab"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 205,
+      "data3": 245,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2016363984,
+    "img_src": "https://cdn.tigertag.io/img?id=2016363984&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PLAYG-BK-1KG-A",
+    "title": "PLA Matte - Black"
   },
   {
     "RFID_Data": {
@@ -237310,7 +237700,7 @@
       "type": "mono"
     },
     "id": 2040275151,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/PETG_Crystal_Sugarplum_1_vase.jpg?v=1772135693",
+    "img_src": "https://cdn.tigertag.io/img?id=2040275151&v=1",
     "material": "PETG HS",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -243085,7 +243475,7 @@
       "type": "mono"
     },
     "id": 2088045711,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_18.jpg?v=1758550957",
+    "img_src": "https://cdn.tigertag.io/img?id=2088045711&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -246471,6 +246861,43 @@
     "product_type": "Filament",
     "sku": "HSPLA-1-GMBLACK",
     "title": "HS PLA - Galaxy Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 149,
+      "color_g": 168,
+      "color_r": 3,
+      "data1": 56,
+      "data2": 230,
+      "data3": 280,
+      "data4": 65,
+      "data5": 6,
+      "data6": 25,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#03A895FF",
+    "color_info": {
+      "colors": [
+        "#03A895FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2116052241,
+    "img_src": "https://cdn.tigertag.io/img?id=2116052241&v=3",
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PETG-MINT-1KG-A",
+    "title": "PETG - Mint Green"
   },
   {
     "RFID_Data": {
@@ -251934,43 +252361,6 @@
     "product_type": "Filament",
     "sku": "PLA-MT175Q-K1R1",
     "title": "PLA-Matte - LIGHT KHAKI"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 225,
-      "color_g": 164,
-      "color_r": 0,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 247,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 24629,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#00A4E1FF",
-    "color_info": {
-      "colors": [
-        "#00A4E1FF"
-      ],
-      "type": "mono"
-    },
-    "id": 2162786249,
-    "img_src": "https://cdn.tigertag.io/img?id=2162786249&v=4",
-    "material": "PLA High Speed",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-HSMPLA-PRICYAN",
-    "title": "High Speed Matte PLA - Pri-Cyan"
   },
   {
     "RFID_Data": {
@@ -262591,6 +262981,43 @@
   },
   {
     "RFID_Data": {
+      "color_a": 128,
+      "color_b": 61,
+      "color_g": 49,
+      "color_r": 214,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#D6313D80",
+    "color_info": {
+      "colors": [
+        "#D6313D80"
+      ],
+      "type": "mono"
+    },
+    "id": 2249613210,
+    "img_src": "https://cdn.tigertag.io/img?id=2249613210&v=3",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLAP-TRRD-1KG-A",
+    "title": "PLA+ - Transparent Red"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 74,
       "color_g": 110,
@@ -263965,43 +264392,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 167,
-      "color_g": 234,
-      "color_r": 169,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#A9EAA7FF",
-    "color_info": {
-      "colors": [
-        "#A9EAA7FF"
-      ],
-      "type": "mono"
-    },
-    "id": 2262952883,
-    "img_src": "https://cdn.tigertag.io/img?id=2262952883&v=4",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-PLAMT-AG-1KG",
-    "title": "PLA Meta - Apple Green"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 197,
       "color_b2": 224,
       "color_g": 197,
@@ -264264,7 +264654,7 @@
       "type": "mono"
     },
     "id": 2264350689,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-Vase-1_10.jpg?v=1758548982",
+    "img_src": "https://cdn.tigertag.io/img?id=2264350689&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -265466,43 +265856,6 @@
     "product_type": "Filament",
     "sku": "G0108002",
     "title": "PLA Silk High-Speed Triple-Color - Red & Yellow & Blue"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 106,
-      "color_g": 102,
-      "color_r": 99,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 247,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 24629,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#63666AFF",
-    "color_info": {
-      "colors": [
-        "#63666AFF"
-      ],
-      "type": "mono"
-    },
-    "id": 2272351788,
-    "img_src": "https://cdn.tigertag.io/img?id=2272351788&v=4",
-    "material": "PLA High Speed",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-HSMPLA-GREY",
-    "title": "High Speed Matte PLA - Grey"
   },
   {
     "RFID_Data": {
@@ -268365,43 +268718,6 @@
     "product_type": "Filament",
     "sku": "DLZ-JY-PETG-LY-1.1kg",
     "title": "Standard PETG - Lemon Yellow"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 214,
-      "color_g": 224,
-      "color_r": 240,
-      "data1": 56,
-      "data2": 240,
-      "data3": 280,
-      "data4": 70,
-      "data5": 6,
-      "data6": 80,
-      "data7": 90,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 20562,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#F0E0D6FF",
-    "color_info": {
-      "colors": [
-        "#F0E0D6FF"
-      ],
-      "type": "mono"
-    },
-    "id": 2294784408,
-    "img_src": "https://cdn.tigertag.io/img?id=2294784408&v=1",
-    "material": "ABS",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-ABS-SK-1KG-A",
-    "title": "ABS - Beige"
   },
   {
     "RFID_Data": {
@@ -274987,7 +275303,7 @@
       "type": "mono"
     },
     "id": 2354760038,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_19.jpg?v=1759339056",
+    "img_src": "https://cdn.tigertag.io/img?id=2354760038&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -279694,7 +280010,7 @@
       "type": "mono"
     },
     "id": 2401906282,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Purple_Peony.jpg?v=1737655433",
+    "img_src": "https://cdn.tigertag.io/img?id=2401906282&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -281479,7 +281795,7 @@
       "type": "mono"
     },
     "id": 2418926351,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_12.jpg?v=1758550136",
+    "img_src": "https://cdn.tigertag.io/img?id=2418926351&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -290561,43 +290877,6 @@
     "product_type": "Filament",
     "sku": "PLA1751KG006",
     "title": "PLA - Noir"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 123,
-      "color_g": 120,
-      "color_r": 117,
-      "data1": 56,
-      "data2": 200,
-      "data3": 250,
-      "data4": 60,
-      "data5": 6,
-      "data6": 25,
-      "data7": 45,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 43518,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#75787BFF",
-    "color_info": {
-      "colors": [
-        "#75787BFF"
-      ],
-      "type": "mono"
-    },
-    "id": 2500853255,
-    "img_src": "https://cdn.tigertag.io/img?id=2500853255&v=6",
-    "material": "TPU",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-TPU95A-GREY",
-    "title": "TPU 95A - Grey"
   },
   {
     "RFID_Data": {
@@ -301975,6 +302254,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 244,
+      "color_g": 199,
+      "color_r": 54,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#36C7F4FF",
+    "color_info": {
+      "colors": [
+        "#36C7F4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2601915642,
+    "img_src": "https://cdn.tigertag.io/img?id=2601915642&v=3",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLA-SKB-1KG-A",
+    "title": "PLA - Sky Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 19,
       "color_g": 170,
       "color_r": 0,
@@ -305485,43 +305801,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 65,
-      "color_g": 64,
-      "color_r": 187,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 24629,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#BB4041FF",
-    "color_info": {
-      "colors": [
-        "#BB4041FF"
-      ],
-      "type": "mono"
-    },
-    "id": 2628944278,
-    "img_src": "https://cdn.tigertag.io/img?id=2628944278&v=2",
-    "material": "PLA High Speed",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-HSPLA+V2-RD-1KG",
-    "title": "High Speed PLA+ 2.0 - Red"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 62,
       "color_g": 140,
       "color_r": 9,
@@ -306965,6 +307244,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 214,
+      "color_g": 224,
+      "color_r": 240,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#F0E0D6FF",
+    "color_info": {
+      "colors": [
+        "#F0E0D6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2643623021,
+    "img_src": "https://cdn.tigertag.io/img?id=2643623021&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLA-SK-1KG-A",
+    "title": "PLA - Beige"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 44,
       "color_g": 199,
       "color_r": 255,
@@ -307294,43 +307610,6 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABSR-GRAY-175-3KG",
     "title": "THE K5 ABS Rapid - Gray"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 201,
-      "color_g": 176,
-      "color_r": 239,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#EFB0C9FF",
-    "color_info": {
-      "colors": [
-        "#EFB0C9FF"
-      ],
-      "type": "mono"
-    },
-    "id": 2646843556,
-    "img_src": "https://cdn.tigertag.io/img?id=2646843556&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PETG-SAKU-1KG-A",
-    "title": "PETG - Sakura Pink"
   },
   {
     "RFID_Data": {
@@ -309680,7 +309959,7 @@
       "type": "mono"
     },
     "id": 2664517416,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_11.jpg?v=1758549485",
+    "img_src": "https://cdn.tigertag.io/img?id=2664517416&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -314655,43 +314934,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 52,
-      "color_g": 115,
-      "color_r": 237,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#ED7334FF",
-    "color_info": {
-      "colors": [
-        "#ED7334FF"
-      ],
-      "type": "mono"
-    },
-    "id": 2701430860,
-    "img_src": "https://cdn.tigertag.io/img?id=2701430860&v=2",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PETG-SO-1KG-A",
-    "title": "PETG - Sunny  Orange"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 33,
       "color_g": 255,
       "color_r": 237,
@@ -315136,6 +315378,43 @@
     "product_type": "Filament",
     "sku": "PLA+175O-BP1R1",
     "title": "PLA+ - BABY PINK"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 70,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2705199386,
+    "img_src": "https://cdn.tigertag.io/img?id=2705199386&v=2",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-ABS-WT-1KG-A",
+    "title": "ABS - White"
   },
   {
     "RFID_Data": {
@@ -320663,43 +320942,6 @@
     "product_type": "Filament",
     "sku": "VFEPNK17511",
     "title": "PETG - Pink"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 128,
-      "color_b": 193,
-      "color_g": 56,
-      "color_r": 143,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 46591,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#8F38C180",
-    "color_info": {
-      "colors": [
-        "#8F38C180"
-      ],
-      "type": "mono"
-    },
-    "id": 2751841922,
-    "img_src": "https://cdn.tigertag.io/img?id=2751841922&v=3",
-    "material": "PLA+",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLAP-TRPP-1KG-A",
-    "title": "PLA+ - Transparent Purple"
   },
   {
     "RFID_Data": {
@@ -329072,7 +329314,7 @@
       "type": "mono"
     },
     "id": 2820198440,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Candy_Rainbow_f0e7d5b7-e051-4002-a043-a06945063226.jpg?v=1732222408",
+    "img_src": "https://cdn.tigertag.io/img?id=2820198440&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -330233,6 +330475,47 @@
     "product_type": "Filament",
     "sku": "3770008753785",
     "title": "PETG - Bleu Nuit"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 170,
+      "color_r": 0,
+      "color_r2": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 252,
+      "id_brand": 51857,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF",
+        "#00AA00FF"
+      ],
+      "type": "multi"
+    },
+    "id": 2832955459,
+    "img_src": "https://cdn.tigertag.io/img?id=2832955459&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILKDC-BK+GN-1KG",
+    "title": "Silk PLA+ Dual-Color - Black Green"
   },
   {
     "RFID_Data": {
@@ -331867,7 +332150,7 @@
       "type": "mono"
     },
     "id": 2848889128,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_3_260ad0ca-1c30-4d74-a841-34fbd4f33ac2.jpg?v=1757090040",
+    "img_src": "https://cdn.tigertag.io/img?id=2848889128&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -333176,43 +333459,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 149,
-      "color_g": 168,
-      "color_r": 3,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 46591,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#03A895FF",
-    "color_info": {
-      "colors": [
-        "#03A895FF"
-      ],
-      "type": "mono"
-    },
-    "id": 2861824679,
-    "img_src": "https://cdn.tigertag.io/img?id=2861824679&v=3",
-    "material": "PLA+",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLAP-MTG-1KG-A",
-    "title": "PLA+ - Mint Green"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 30,
       "color_b2": 42,
       "color_b3": 48,
@@ -333292,43 +333538,6 @@
     "product_type": "Filament",
     "sku": "DLZ-EU-TB-PLA-GY-1KG",
     "title": "PLA - Gray"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 128,
-      "color_b": 229,
-      "color_g": 113,
-      "color_r": 118,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#7671E580",
-    "color_info": {
-      "colors": [
-        "#7671E580"
-      ],
-      "type": "mono"
-    },
-    "id": 2862526043,
-    "img_src": "https://cdn.tigertag.io/img?id=2862526043&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PETG-TRAN3-1KG-A",
-    "title": "PETG - Transparent Purple"
   },
   {
     "RFID_Data": {
@@ -338292,6 +338501,43 @@
     "product_type": "Filament",
     "sku": "623249",
     "title": "PLA Tough - Dark Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 39,
+      "color_g": 170,
+      "color_r": 29,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#1DAA27FF",
+    "color_info": {
+      "colors": [
+        "#1DAA27FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2904050424,
+    "img_src": "https://cdn.tigertag.io/img?id=2904050424&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLA-GN-1KG-A",
+    "title": "PLA - Green"
   },
   {
     "RFID_Data": {
@@ -345137,43 +345383,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 35,
-      "color_g": 33,
-      "color_r": 31,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#1F2123FF",
-    "color_info": {
-      "colors": [
-        "#1F2123FF"
-      ],
-      "type": "mono"
-    },
-    "id": 2959766256,
-    "img_src": "https://cdn.tigertag.io/img?id=2959766256&v=4",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLALITE-BLACK-1KG-A",
-    "title": "PLA Lite - Black"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 65,
       "color_g": 164,
       "color_r": 217,
@@ -350462,7 +350671,7 @@
       "type": "mono"
     },
     "id": 3011320808,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Neon_Yellow.png?v=1719940767",
+    "img_src": "https://cdn.tigertag.io/img?id=3011320808&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -352161,43 +352370,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 37,
-      "color_g": 122,
-      "color_r": 250,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 46591,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#FA7A25FF",
-    "color_info": {
-      "colors": [
-        "#FA7A25FF"
-      ],
-      "type": "mono"
-    },
-    "id": 3025296196,
-    "img_src": "https://cdn.tigertag.io/img?id=3025296196&v=3",
-    "material": "PLA+",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLAP-ORG-1KG-A",
-    "title": "PLA+ - Orange"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 39,
       "color_g": 170,
       "color_r": 29,
@@ -353234,43 +353406,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 0,
-      "color_g": 233,
-      "color_r": 255,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 91,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#FFE900FF",
-    "color_info": {
-      "colors": [
-        "#FFE900FF"
-      ],
-      "type": "mono"
-    },
-    "id": 3033060812,
-    "img_src": "https://cdn.tigertag.io/img?id=3033060812&v=5",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PETGGLOW-YELLOW-1KG-A",
-    "title": "PETG Glow in the Dark - Glow in the Dark Yellow"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 122,
       "color_b2": 7,
       "color_g": 64,
@@ -353524,7 +353659,7 @@
       "type": "mono"
     },
     "id": 3036246112,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_5.jpg?v=1757090247",
+    "img_src": "https://cdn.tigertag.io/img?id=3036246112&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -354975,7 +355110,7 @@
       "type": "gradient"
     },
     "id": 3048928898,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/B0DPGJYL1P.MAIN.jpg?v=1733247643",
+    "img_src": "https://cdn.tigertag.io/img?id=3048928898&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -357546,43 +357681,6 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU64D-SONGHUAGREEN-285-1KG",
     "title": "THE K8 TPU 64D - Songhua Green"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 37,
-      "color_g": 122,
-      "color_r": 250,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#FA7A25FF",
-    "color_info": {
-      "colors": [
-        "#FA7A25FF"
-      ],
-      "type": "mono"
-    },
-    "id": 3066875087,
-    "img_src": "https://cdn.tigertag.io/img?id=3066875087&v=3",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLA-ORG-1KG-A",
-    "title": "PLA - Orange"
   },
   {
     "RFID_Data": {
@@ -362754,7 +362852,7 @@
       "type": "mono"
     },
     "id": 3106544186,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Luminous_Green_Main_Pic.jpg?v=1737042869",
+    "img_src": "https://cdn.tigertag.io/img?id=3106544186&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -366966,6 +367064,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 75,
+      "color_g": 162,
+      "color_r": 201,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#C9A24BFF",
+    "color_info": {
+      "colors": [
+        "#C9A24BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3146404822,
+    "img_src": "https://cdn.tigertag.io/img?id=3146404822&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILK-LG-1KG",
+    "title": "Silk PLA - Light Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 87,
       "color_g": 151,
       "color_r": 255,
@@ -367852,43 +367987,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 237,
-      "color_g": 244,
-      "color_r": 241,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 91,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#F1F4EDFF",
-    "color_info": {
-      "colors": [
-        "#F1F4EDFF"
-      ],
-      "type": "mono"
-    },
-    "id": 3155666608,
-    "img_src": "https://cdn.tigertag.io/img?id=3155666608&v=5",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PETGGLOW-WHITETOBLUE-1KG-A",
-    "title": "PETG Glow in the Dark - Glow in the Dark White (to Blue)"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 59,
       "color_g": 116,
       "color_r": 222,
@@ -368656,7 +368754,7 @@
       "type": "mono"
     },
     "id": 3161476632,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/B0DN26SRYP.MAIN.jpg?v=1731864649",
+    "img_src": "https://cdn.tigertag.io/img?id=3161476632&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -376031,43 +376129,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 61,
-      "color_g": 109,
-      "color_r": 90,
-      "data1": 56,
-      "data2": 205,
-      "data3": 245,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 247,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#5A6D3DFF",
-    "color_info": {
-      "colors": [
-        "#5A6D3DFF"
-      ],
-      "type": "mono"
-    },
-    "id": 3227898443,
-    "img_src": "https://cdn.tigertag.io/img?id=3227898443&v=2",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLAYG-OG-1KG-A",
-    "title": "PLA Matte - Olive Green"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 70,
       "color_g": 188,
       "color_r": 50,
@@ -382254,6 +382315,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 121,
+      "color_g": 46,
+      "color_r": 197,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#C52E79FF",
+    "color_info": {
+      "colors": [
+        "#C52E79FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3281944724,
+    "img_src": "https://cdn.tigertag.io/img?id=3281944724&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PLA-MAG-1KG-A",
+    "title": "PLA - Magenta"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 230,
@@ -386325,6 +386423,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 70,
+      "data5": 6,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3312792565,
+    "img_src": "https://cdn.tigertag.io/img?id=3312792565&v=7",
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-ASA-WT-1KG",
+    "title": "ASA - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 174,
       "color_r": 255,
@@ -386389,7 +386524,7 @@
       "type": "mono"
     },
     "id": 3313466463,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Glass_Green_d84b6cd9-1985-44c6-b291-40cb45910cc9.jpg?v=1741033368",
+    "img_src": "https://cdn.tigertag.io/img?id=3313466463&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -401507,6 +401642,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_b3": 128,
+      "color_g": 0,
+      "color_g2": 215,
+      "color_g3": 0,
+      "color_r": 0,
+      "color_r2": 255,
+      "color_r3": 128,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 24,
+      "id_brand": 51857,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF",
+        "#FFD700FF",
+        "#800080FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3449310761,
+    "img_src": "https://cdn.tigertag.io/img?id=3449310761&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILKTC-BK+GD+PP-1KG",
+    "title": "Silk PLA+ Tri-Color - Black Gold Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 192,
       "color_g": 101,
       "color_r": 21,
@@ -402607,7 +402787,7 @@
       "type": "mono"
     },
     "id": 3455181992,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-Vase-1_1.jpg?v=1757090283",
+    "img_src": "https://cdn.tigertag.io/img?id=3455181992&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -407209,43 +407389,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 147,
-      "color_g": 137,
-      "color_r": 235,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 92,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#EB8993FF",
-    "color_info": {
-      "colors": [
-        "#EB8993FF"
-      ],
-      "type": "mono"
-    },
-    "id": 3492581800,
-    "img_src": "https://cdn.tigertag.io/img?id=3492581800&v=1",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-SILK-CD-1KG",
-    "title": "Silk PLA - Candy Dandy"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 225,
       "color_g": 216,
       "color_r": 163,
@@ -407464,6 +407607,43 @@
     "product_type": "Filament",
     "sku": "LTP03A05K11",
     "title": "PLA-F Luminous - Milky White Luminous"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 171,
+      "color_g": 41,
+      "color_r": 23,
+      "data1": 56,
+      "data2": 205,
+      "data3": 245,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#1729ABFF",
+    "color_info": {
+      "colors": [
+        "#1729ABFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3496034500,
+    "img_src": "https://cdn.tigertag.io/img?id=3496034500&v=3",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLAYG-KB-1KG-A",
+    "title": "PLA Matte - Klein Blue"
   },
   {
     "RFID_Data": {
@@ -410175,7 +410355,7 @@
       "type": "mono"
     },
     "id": 3517627817,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Matte_Black_Main_Pic.jpg?v=1737043108",
+    "img_src": "https://cdn.tigertag.io/img?id=3517627817&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -413491,43 +413671,6 @@
     "product_type": "Filament",
     "sku": "DLZ-JY-PLA+-SB-1.1kg-C",
     "title": "Standard PLA+ - Sky Blue"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 128,
-      "color_b": 44,
-      "color_g": 232,
-      "color_r": 249,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 46591,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#F9E82C80",
-    "color_info": {
-      "colors": [
-        "#F9E82C80"
-      ],
-      "type": "mono"
-    },
-    "id": 3544833441,
-    "img_src": "https://cdn.tigertag.io/img?id=3544833441&v=3",
-    "material": "PLA+",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-N-PLAP-TRYL-1KG-A",
-    "title": "PLA+ - Transparent Yellow"
   },
   {
     "RFID_Data": {
@@ -424721,6 +424864,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 74,
+      "color_g": 51,
+      "color_r": 40,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#28334AFF",
+    "color_info": {
+      "colors": [
+        "#28334AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3641922457,
+    "img_src": "https://cdn.tigertag.io/img?id=3641922457&v=4",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLA-MN-1KG-A",
+    "title": "PLA - Midnight"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 182,
       "color_g": 156,
       "color_r": 241,
@@ -425354,6 +425534,43 @@
     "product_type": "Filament",
     "sku": "PLA-SLK-BLUE-1000-175",
     "title": "PLA Silky - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3647065726,
+    "img_src": "https://cdn.tigertag.io/img?id=3647065726&v=4",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PLA-BK-1KG-A",
+    "title": "PLA - Black"
   },
   {
     "RFID_Data": {
@@ -426181,6 +426398,43 @@
     "product_type": "Filament",
     "sku": "700-001-1542",
     "title": "PLA - Black Carbon Fiber"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 128,
+      "color_b": 44,
+      "color_g": 232,
+      "color_r": 249,
+      "data1": 56,
+      "data2": 230,
+      "data3": 280,
+      "data4": 65,
+      "data5": 6,
+      "data6": 25,
+      "data7": 70,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#F9E82C80",
+    "color_info": {
+      "colors": [
+        "#F9E82C80"
+      ],
+      "type": "mono"
+    },
+    "id": 3653597664,
+    "img_src": "https://cdn.tigertag.io/img?id=3653597664&v=3",
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-PETG-TRAN6-1KG-A",
+    "title": "PETG - Transparent Yellow"
   },
   {
     "RFID_Data": {
@@ -429410,7 +429664,7 @@
       "type": "mono"
     },
     "id": 3691416936,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Pastel_Mint_Main_Pic.jpg?v=1737043131",
+    "img_src": "https://cdn.tigertag.io/img?id=3691416936&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -436341,43 +436595,6 @@
   },
   {
     "RFID_Data": {
-      "color_a": 128,
-      "color_b": 229,
-      "color_g": 231,
-      "color_r": 231,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#E7E7E580",
-    "color_info": {
-      "colors": [
-        "#E7E7E580"
-      ],
-      "type": "mono"
-    },
-    "id": 3753037617,
-    "img_src": "https://cdn.tigertag.io/img?id=3753037617&v=3",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PLA-TR-1KG-A",
-    "title": "PLA - Transparent"
-  },
-  {
-    "RFID_Data": {
       "color_a": 255,
       "color_b": 128,
       "color_g": 128,
@@ -437777,6 +437994,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 61,
+      "color_g": 109,
+      "color_r": 90,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 70,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#5A6D3DFF",
+    "color_info": {
+      "colors": [
+        "#5A6D3DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3764093224,
+    "img_src": "https://cdn.tigertag.io/img?id=3764093224&v=3",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-N-HSABS-OLIVEGREEN-1KG-A",
+    "title": "High Speed ABS - Olive Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 13,
       "color_g": 13,
       "color_r": 13,
@@ -438885,7 +439139,7 @@
       "type": "mono"
     },
     "id": 3776614549,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/PLA_Matcha_1_Vase.jpg?v=1764956497",
+    "img_src": "https://cdn.tigertag.io/img?id=3776614549&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -440513,7 +440767,7 @@
       "type": "mono"
     },
     "id": 3789865132,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Solar_Flare.jpg?v=1737655505",
+    "img_src": "https://cdn.tigertag.io/img?id=3789865132&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -444234,43 +444488,6 @@
   },
   {
     "RFID_Data": {
-      "color_a": 128,
-      "color_b": 44,
-      "color_g": 232,
-      "color_r": 249,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#F9E82C80",
-    "color_info": {
-      "colors": [
-        "#F9E82C80"
-      ],
-      "type": "mono"
-    },
-    "id": 3828123782,
-    "img_src": "https://cdn.tigertag.io/img?id=3828123782&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PETG-TRAN6-1KG-A",
-    "title": "PETG - Transparent Yellow"
-  },
-  {
-    "RFID_Data": {
       "color_a": 255,
       "color_b": 71,
       "color_g": 87,
@@ -446430,43 +446647,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 78,
-      "color_g": 90,
-      "color_r": 137,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#895A4EFF",
-    "color_info": {
-      "colors": [
-        "#895A4EFF"
-      ],
-      "type": "mono"
-    },
-    "id": 3848113894,
-    "img_src": "https://cdn.tigertag.io/img?id=3848113894&v=1",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-PLAMT-CC-1KG",
-    "title": "PLA Meta - Chocolate"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 53,
       "color_g": 57,
       "color_r": 229,
@@ -446685,43 +446865,6 @@
     "product_type": "Filament",
     "sku": "HCGS016",
     "title": "PETG Rapid - Black"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 39,
-      "color_g": 170,
-      "color_r": 29,
-      "data1": 56,
-      "data2": 205,
-      "data3": 245,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 247,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#1DAA27FF",
-    "color_info": {
-      "colors": [
-        "#1DAA27FF"
-      ],
-      "type": "mono"
-    },
-    "id": 3851183244,
-    "img_src": "https://cdn.tigertag.io/img?id=3851183244&v=2",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PLAYG-GN-1KG-A",
-    "title": "PLA Matte - Green"
   },
   {
     "RFID_Data": {
@@ -449919,43 +450062,6 @@
   },
   {
     "RFID_Data": {
-      "color_a": 128,
-      "color_b": 78,
-      "color_g": 128,
-      "color_r": 240,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#F0804E80",
-    "color_info": {
-      "colors": [
-        "#F0804E80"
-      ],
-      "type": "mono"
-    },
-    "id": 3882877910,
-    "img_src": "https://cdn.tigertag.io/img?id=3882877910&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PETG-TRAN5-1KG-A",
-    "title": "PETG - Transparent Orange"
-  },
-  {
-    "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
       "color_g": 26,
@@ -452518,6 +452624,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 79,
+      "color_g": 96,
+      "color_r": 75,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#4B604FFF",
+    "color_info": {
+      "colors": [
+        "#4B604FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3905302274,
+    "img_src": "https://cdn.tigertag.io/img?id=3905302274&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILK-MY-1KG",
+    "title": "Silk PLA - Black Jade"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 87,
       "color_g": 38,
       "color_r": 135,
@@ -453674,43 +453817,6 @@
     "product_type": "Filament",
     "sku": "KEX-K6PLA-BLUE-175-3KG",
     "title": "THE K6 PLA - Blue"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 7,
-      "color_g": 14,
-      "color_r": 29,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#1D0E07FF",
-    "color_info": {
-      "colors": [
-        "#1D0E07FF"
-      ],
-      "type": "mono"
-    },
-    "id": 3913615470,
-    "img_src": "https://cdn.tigertag.io/img?id=3913615470&v=7",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PLA-RCN-1KG-A",
-    "title": "PLA - Roasted Chestnut"
   },
   {
     "RFID_Data": {
@@ -456558,7 +456664,7 @@
       "type": "mono"
     },
     "id": 3935824705,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Aurora_Green.jpg?v=1741359814",
+    "img_src": "https://cdn.tigertag.io/img?id=3935824705&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -466529,51 +466635,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 255,
-      "color_b2": 128,
-      "color_b3": 0,
-      "color_g": 0,
-      "color_g2": 0,
-      "color_g3": 0,
-      "color_r": 0,
-      "color_r2": 128,
-      "color_r3": 255,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 92,
-      "id_aspect2": 24,
-      "id_brand": 51857,
-      "id_material": 10602,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#0000FFFF",
-    "color_info": {
-      "colors": [
-        "#0000FFFF",
-        "#800080FF",
-        "#FF0000FF"
-      ],
-      "type": "multi"
-    },
-    "id": 4021696634,
-    "img_src": "https://cdn.tigertag.io/img?id=4021696634&v=1",
-    "material": "PLA Silk",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-SILKFC-BL+PP+RD+GD-1KG",
-    "title": "Silk PLA+ Four-Color - Blue Purple Red Gold"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 0,
       "color_g": 232,
       "color_r": 255,
@@ -468609,43 +468670,6 @@
     "product_type": "Filament",
     "sku": "PETG-GF-FrostedOrange",
     "title": "PETG-GF - Frosted Orange"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 128,
-      "color_b": 34,
-      "color_g": 177,
-      "color_r": 5,
-      "data1": 56,
-      "data2": 230,
-      "data3": 280,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 67,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#05B12280",
-    "color_info": {
-      "colors": [
-        "#05B12280"
-      ],
-      "type": "mono"
-    },
-    "id": 4044353779,
-    "img_src": "https://cdn.tigertag.io/img?id=4044353779&v=3",
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-Y-PETG-TRAN2-1KG-A",
-    "title": "PETG - Transparent Green"
   },
   {
     "RFID_Data": {
@@ -471174,43 +471198,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 77,
-      "color_g": 55,
-      "color_r": 237,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#ED374DFF",
-    "color_info": {
-      "colors": [
-        "#ED374DFF"
-      ],
-      "type": "mono"
-    },
-    "id": 4060117501,
-    "img_src": "https://cdn.tigertag.io/img?id=4060117501&v=6",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-PLAMT-RD-1KG",
-    "title": "PLA Meta - Cherry Red"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 224,
       "color_g": 233,
       "color_r": 241,
@@ -472432,43 +472419,6 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU85A-FLUORESCENTORANGE-175-5KG",
     "title": "THE K8 TPU 85A - Fluorescent Orange"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 91,
-      "color_g": 179,
-      "color_r": 239,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 92,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#EFB35BFF",
-    "color_info": {
-      "colors": [
-        "#EFB35BFF"
-      ],
-      "type": "mono"
-    },
-    "id": 4069667743,
-    "img_src": "https://cdn.tigertag.io/img?id=4069667743&v=1",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-SILK-BS-1KG",
-    "title": "Silk PLA - Brass"
   },
   {
     "RFID_Data": {
@@ -475069,7 +475019,7 @@
       "type": "mono"
     },
     "id": 4089932610,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/Neon_Green_3c9f1edd-215c-4375-b98a-d1c194f1bc23.png?v=1731595536",
+    "img_src": "https://cdn.tigertag.io/img?id=4089932610&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -479206,6 +479156,47 @@
     "product_type": "Filament",
     "sku": "660552",
     "title": "PLA Matte - Army Beige"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 215,
+      "color_r": 0,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 252,
+      "id_brand": 51857,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF",
+        "#FFD700FF"
+      ],
+      "type": "multi"
+    },
+    "id": 4116806190,
+    "img_src": "https://cdn.tigertag.io/img?id=4116806190&v=1",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-SILKDC-BK+GD-1KG",
+    "title": "Silk PLA+ Dual-Color - Black Gold"
   },
   {
     "RFID_Data": {
@@ -485802,6 +485793,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 46,
+      "color_g": 137,
+      "color_r": 172,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#AC892EFF",
+    "color_info": {
+      "colors": [
+        "#AC892EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4184550172,
+    "img_src": "https://cdn.tigertag.io/img?id=4184550172&v=3",
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PLAP-GLD-1KG-A",
+    "title": "PLA+ - Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 210,
       "color_g": 186,
       "color_r": 34,
@@ -487239,7 +487267,7 @@
       "type": "mono"
     },
     "id": 4198037522,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-vase-1_8.jpg?v=1758548922",
+    "img_src": "https://cdn.tigertag.io/img?id=4198037522&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -488357,7 +488385,7 @@
       "type": "mono"
     },
     "id": 4205535312,
-    "img_src": "https://cdn.shopify.com/s/files/1/0212/5611/0180/files/4-Vase-1_15.jpg?v=1758550439",
+    "img_src": "https://cdn.tigertag.io/img?id=4205535312&v=1",
     "material": "PLA High Speed",
     "measure": "1 kg",
     "product_type": "Filament",
@@ -488659,6 +488687,43 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU95A-TRANSPARENTGREEN-285-5KG",
     "title": "THE K8 TPU 95A - Transparent Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 160,
+      "color_g": 50,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 205,
+      "data3": 245,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Sunlu",
+    "color": "#0032A0FF",
+    "color_info": {
+      "colors": [
+        "#0032A0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4207281509,
+    "img_src": "https://cdn.tigertag.io/img?id=4207281509&v=5",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SL-Y-PLAYG-KB-1KG-A",
+    "title": "PLA Matte - Klein Blue"
   },
   {
     "RFID_Data": {
@@ -494201,43 +494266,6 @@
     "product_type": "Filament",
     "sku": "SL-N-PLA-SO-1KG-A",
     "title": "PLA - Sunny Orange"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 255,
-      "color_g": 249,
-      "color_r": 244,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 51857,
-      "id_material": 46591,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "brand": "Sunlu",
-    "color": "#F4F9FFFF",
-    "color_info": {
-      "colors": [
-        "#F4F9FFFF"
-      ],
-      "type": "mono"
-    },
-    "id": 4252901747,
-    "img_src": "https://cdn.tigertag.io/img?id=4252901747&v=2",
-    "material": "PLA+",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "SL-PLA+V2-CM-1KG",
-    "title": "PLA+ 2.0 - Ceramic"
   },
   {
     "RFID_Data": {

@@ -34,6 +34,7 @@ Usage:
     python db_update.py --check   # report what is stale, write nothing, exit 1
 """
 
+import collections
 import json
 import os
 import sys
@@ -141,10 +142,28 @@ def download_dataset(endpoint, filename):
 # to one is a readable patch for the other.
 CATALOG_FILE = "id_catalog.json"
 CATALOG_KEY = "products"
-CATALOG_PER_PAGE = 1000
+# Measured against the live endpoint on 2026-09-05, with 13 408 products:
+#
+#   per_page   result             time     bytes
+#   1 000      200                 3.4 s   548 KB
+#   2 000      200                 4.4 s   1.1 MB
+#   5 000      200                 7.2 s   2.8 MB
+#   8 000      200                 9.9 s   4.5 MB
+#   9 000      200                14.2 s   5.0 MB
+#   10 000     502, then 200      ~12 s    5.6 MB
+#   13 408     502 immediately     0.2 s   —
+#
+# So the ceiling is soft, not a documented maximum: 10 000 failed and then
+# succeeded a minute later, which makes it a function of server load rather than
+# a limit to sit next to. 5 000 keeps a wide margin below the first sign of
+# trouble and still cuts a full sync from 14 requests to 3.
+#
+# Raise this only with fresh measurements. "One page for everything" is not a
+# goal worth chasing — it is the shape that fails.
+CATALOG_PER_PAGE = 5000
 CATALOG_MAX_PAGES = 100   # runaway guard, NOT a catalogue-size limit
-# The reference tables are single small GETs; a catalogue page is 1 000 products,
-# so it gets its own, longer budget.
+# The reference tables are single small GETs; a catalogue page is thousands of
+# products, so it gets its own, longer budget.
 CATALOG_TIMEOUT = 60
 
 CATALOG_PATH = os.path.join(TARGET_FOLDER, CATALOG_FILE)
@@ -199,6 +218,27 @@ def sync_catalog(check_only=False):
         key=lambda p: p["id"],
     )
     validate_dataset(items, CATALOG_FILE)
+
+    # `product/get/all` pages over a set with no guaranteed ordering, so rows can
+    # shift between one page request and the next: the same product comes back
+    # twice and another is never seen at all. The row count still matches, which
+    # is why this went unnoticed — the file was the right length and quietly short
+    # of real products. Fewer requests means fewer windows for it to happen, but
+    # nothing about a page size makes it impossible.
+    #
+    # Duplicate ids are the visible symptom, so refuse on them rather than commit
+    # a catalogue that is silently missing entries. A stale catalogue is a known
+    # quantity; an incomplete one embedded in a reader is not.
+    seen = collections.Counter(p["id"] for p in items)
+    dupes = [pid for pid, n in seen.items() if n > 1]
+    if dupes:
+        raise RuntimeError(
+            f"{CATALOG_FILE}: {len(items)} rows but {len(seen)} distinct ids — "
+            f"{len(dupes)} duplicated, so roughly as many products were missed. "
+            "This is unstable pagination in product/get/all, not a local fault. "
+            "Re-run; if it persists, the endpoint needs a deterministic order or "
+            "cursor paging. Refusing to overwrite."
+        )
 
     fresh = json.dumps(items, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
     current = read_catalog_local()
