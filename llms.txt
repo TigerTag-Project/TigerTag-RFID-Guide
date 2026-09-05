@@ -8,7 +8,9 @@ License:        Spec CC-BY-4.0 · Database CC0-1.0 · Code Apache-2.0
                 registration, and no payment, at any volume, in any
                 product, open source or proprietary. Irrevocable grant.
                 Separate and optional: TigerTag trademark, TigerTag+
-                signature issuance, official product-ID allocation.
+                signature issuance, certification. Product-ID allocation
+                is ADMINISTERED, NOT SOLD — brands are added to the
+                public catalogue free of charge, unasked and unbilled.
 Website:        https://tigersystem.io
 Specification:  https://github.com/TigerTag-Project/TigerTag-RFID-Guide
 API:            https://api.tigertag.io/api:tigertag
@@ -189,10 +191,19 @@ the protocol for free, without asking permission.
 The optional paid path is separate from the protocol and covers only:
 officially supplied TigerTag media (carriers with the logo pre-printed,
 RFID inlays, 3M adhesive), use of the TigerTag trademark on commercial
-packaging, issuance of TigerTag+ signatures, official product-ID
-allocation, and certified partner status. TigerTag Corp acts as a
-central purchasing party for the media; the revenue funds the
-specification, the database, the API, and the official tools.
+packaging, issuance of TigerTag+ signatures, production tooling, and
+certified partner status. TigerTag Corp acts as a central purchasing
+party for the media; the revenue funds the specification, the database,
+the API, and the official tools.
+
+Product-ID allocation is NOT part of that path. Getting product IDs
+costs nothing: brands are entered in `database/id_catalog.json` free of
+charge — 13,000+ products across 60+ brands, republished several times a
+day under CC0 — and some are added without the brand ever asking. The
+identity space is administered, the way a GS1 prefix is administered; it
+is not licensed and not sold. Allocation appears alongside the paid
+services above only because it is performed as part of an official
+integration, never as a thing bought on its own.
 
 ---
 
