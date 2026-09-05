@@ -9,7 +9,33 @@ and a promise is only worth what verifies it.
 
 ---
 
-## Two marks. Only one of them needs us.
+## Three words, and what each one claims
+
+| Word | Made by | What it claims |
+|---|---|---|
+| **Official** | TigerSystem itself | A statement of **origin**: this came from us. |
+| **Certified** | A third party | Audited and validated by TigerSystem. |
+| **Compatible** | A third party | Self-declared. Nobody has checked. |
+
+**Official is not a mark that gets granted**, because nobody certifies
+themselves. It is an assertion of origin, and it sits outside the
+programme described on this page: there is no audit to pass and no
+authorization to obtain, only the fact of who manufactured the thing.
+
+Official chips — **sticker format** and **carrier refill format** — are
+manufactured by TigerSystem, carry the logo, and ship **blank**. A
+reseller of those authentic chips may present them as an official
+product: they are not applying the mark to anything, they are selling
+goods that already carry it. What the buyer writes to a blank official
+chip afterwards is their own business, and does not make the result
+certified.
+
+The rest of this page is about the other two words — the marks a third
+party can hold.
+
+---
+
+## Two marks for third parties. Only one of them needs us.
 
 | | **TigerTag Compatible** | **TigerTag Certified** |
 |---|---|---|
