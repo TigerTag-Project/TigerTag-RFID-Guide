@@ -1,23 +1,21 @@
 name: Check documentation
 
 on:
+  # No path filter. The filter used to list README.md, llms.txt and brand/**,
+  # which meant a change to TRADEMARK.md, CERTIFICATION.md, VERSIONING.md or
+  # SECURITY.md ran no check at all — and those are normative documents. A
+  # contradiction between two of them is exactly the kind of thing nobody
+  # notices by reading. Everything is in scope now; the run is seconds.
   pull_request:
-    paths:
-      - 'README.md'
-      - 'llms.txt'
-      - 'Images/**'
-      - 'brand/**'
-      - 'tools/docs_check.py'
-      - '.github/workflows/docs-check.yml'
   push:
     branches: [main]
-    paths:
-      - 'README.md'
-      - 'llms.txt'
-      - 'Images/**'
-      - 'brand/**'
-      - 'tools/docs_check.py'
-      - '.github/workflows/docs-check.yml'
+    # The one exception: the catalogue is synced into this repository several
+    # times a day by sync-database.yml. Those commits cannot affect the
+    # documentation, and re-sweeping every external link on each of them buys
+    # nothing. The weekly schedule below covers link rot regardless.
+    paths-ignore:
+      - 'database/id_*.json'
+      - 'database/last_update.json'
   # An external link rots without anyone touching this repository — the site moves
   # and the link dies quietly. A check that only runs on push would never see it,
   # so this also sweeps once a week.

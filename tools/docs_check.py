@@ -57,7 +57,21 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # so a rename that breaks them has to be caught here too. Their links are written
 # relative to their OWN directory, which is why targets resolve against the
 # document rather than against the repository root.
-DOCS = ["README.md", "llms.txt", "brand/README.md", "database/README.md"]
+DOCS = [
+    "README.md",
+    "llms.txt",
+    "CERTIFICATION.md",
+    "CONTRIBUTING.md",
+    "LICENSE_COMMERCIAL.md",
+    "LICENSING.md",
+    "SECURITY.md",
+    "TRADEMARK.md",
+    "VERSIONING.md",
+    "brand/README.md",
+    "database/README.md",
+    "docs/TRADEMARK-FILING.md",
+    "SpoolmanDB/README.md",
+]
 
 # Docs whose backticked filenames name files sitting in that same directory, so a
 # bare `name.svg` can be resolved and checked. The root README is deliberately not
