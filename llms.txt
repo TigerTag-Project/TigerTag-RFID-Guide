@@ -521,6 +521,12 @@ TigerTag defines three protocol variants, distinguished by the
                    manufacturer drives its own products, and TigerSystem
                    governance maintains the entry until a brand asks for
                    certification.
+                   EVERY TigerTag+ carries this same type id, signed or
+                   not. Certification does not change the id: a
+                   certified manufacturer writes a VALID SIGNATURE, and
+                   that is the only difference. A reader establishes
+                   "TigerTag+ Certified" by verifying pages 0x18-0x27,
+                   never by reading page 0x04.
 - TigerTag Init  — 0x6C41A2E1 — a blank initialization tag, ready to
                    receive a real TigerTag write.
 

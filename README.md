@@ -311,10 +311,15 @@ official catalogue.** That is the whole definition. The field is at page
 `0x05` (see [§2.2](#22-id-product)): `0xFFFFFFFF` means standard
 TigerTag, any value in `0x00000001`–`0xFFFFFFFE` is a catalogue product
 and makes the chip a `TigerTag+`. The product id is what carries the
-meaning. Which `ID TigerTag` marker at page `0x04` accompanies an
-*unsigned* TigerTag+ is a separate, open question — see
-[#13](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/issues/13)
-— and the table above is unchanged pending it.
+meaning.
+
+**Every TigerTag+ carries the same `ID TigerTag`, `0xBC0FCB97`, signed
+or not.** Certification does not change the type id — a certified
+manufacturer writes a *valid signature*, and that is the only
+difference. A reader establishes that a chip is a `TigerTag+ Certified`
+by **verifying pages `0x18`–`0x27`**, never by looking at page `0x04`.
+Nothing changes for chips already in circulation, and no reader has a
+new id to learn.
 
 What the product id buys, on top of everything a standard TigerTag
 already does offline:
@@ -582,7 +587,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 **Examples:**
 - `0x6C41A2E1` = `1816240865` → TigerTag Init (Initialized)
 - `0x5BF59264` = `1542820452` → TigerTag
-- `0xBC0FCB97` = `3155151767` → TigerTag+ (a TigerTag carrying an `ID Product` from the official catalogue — see [what makes a TigerTag+](#what-makes-a-tigertag))
+- `0xBC0FCB97` = `3155151767` → TigerTag+ (a TigerTag carrying an `ID Product` from the official catalogue — signed or not; see [what makes a TigerTag+](#what-makes-a-tigertag))
 
 **Naming note:** `TigerTag`, `TigerTag+`, and `TigerTag Init` are the canonical protocol names. `Offline` describes the operating mode of standard TigerTag tags, but it is not the protocol name and MUST NOT be used as a replacement label for `TigerTag`.
 
