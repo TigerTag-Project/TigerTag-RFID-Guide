@@ -29,8 +29,9 @@ a true fact about compatibility:
 - Modify the logo — no recolouring, stretching, cropping, or recomposition.
 - Use "TigerTag" in your product, company, or domain name.
 - Imply affiliation, certification, endorsement, or partner status you do not have.
-- Present your product as "TigerTag+" unless its tags carry a signature issued by
-  TigerTag Corp.
+- Present your product as "TigerTag+ Certified" unless its tags carry a valid signature
+  issued by TigerTag Corp. ("TigerTag+" on its own means the tag carries an official
+  catalogue product id — that is not a claim about origin, and it is not restricted here.)
 
 Full terms: [`../TRADEMARK.md`](../TRADEMARK.md).
 Official partner status and packaging rights: [`../LICENSE_COMMERCIAL.md`](../LICENSE_COMMERCIAL.md).
