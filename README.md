@@ -12,6 +12,8 @@
 <p align="center">
   <a href="https://tigersystem.io">tigersystem.io</a>
   ·
+  <a href="https://wiki.tigersystem.io">Documentation wiki</a>
+  ·
   <a href="https://api.tigertag.io/api:tigertag">Public API</a>
   ·
   <a href="#5-ecosystem--official-tools-and-hardware">Ecosystem</a>
@@ -35,6 +37,22 @@
 > the material, the brand, the print settings, the remaining quantity,
 > and proves the spool is genuine with a cryptographic signature —
 > all **fully offline** and **free for users**.
+
+---
+
+## Where to start
+
+| If you want to | Go to |
+| -------------- | ----- |
+| Understand what TigerTag is, set up a first spool, browse products, or follow a guide | **[wiki.tigersystem.io](https://wiki.tigersystem.io)** — the documentation site |
+| Write a parser, a writer or a firmware — byte offsets, field types, signature verification | **This repository** — the normative specification |
+
+The wiki is the reader's entry point and explains the ecosystem in prose.
+This guide is the **normative reference for the binary format**: where a
+field sits on the chip, how wide it is, how it is encoded, and how a
+signature is verified. Where the two disagree on a byte, an offset or a
+field type, **this repository wins** — see
+[§2 — Data Structure](#2-data-structure--tigertag-binary-format).
 
 ---
 
@@ -277,6 +295,46 @@ variants remain compatible because the extra pages are simply unused.
 > The canonical names are **TigerTag**, **TigerTag+**, and **TigerTag Init**.
 > `Offline` is an operating mode of standard TigerTag tags, **not** a
 > protocol name — do not use it as a substitute label.
+
+### TigerTag Init and the identity lifecycle
+
+Two models are in circulation and they are frequently merged into one.
+They describe different objects.
+
+- **The three types above describe what is written on the chip.** The
+  type is the value of the 4-byte `ID TigerTag` field at page `0x04`
+  (see [§2.1](#21-id-tigertag)). It is a property of chip memory, read
+  offline, in one page, with no account and no network.
+- **The identity lifecycle describes the state of the record**, from
+  `TigerData` (an identity that exists only digitally, before any chip)
+  through to the account-level states. It is documented on the wiki:
+  [Universal Filament Identity](https://wiki.tigersystem.io/concepts/universal-filament-identity/).
+
+These are two axes, not two halves of one sequence. A spool has one
+value on each: a chip format, and a record state. Neither list is a
+longer or shorter version of the other, and a chip's type id cannot be
+derived from the lifecycle state or the reverse.
+
+`TigerTag Init` is a chip state with no counterpart on the lifecycle
+axis. It marks a chip that has been prepared but carries no identity
+yet — nothing about the material has been decided, so there is no record
+to be in any state. Symmetrically, the lifecycle's pre-chip states have
+no `ID TigerTag` value at all, because by definition nothing has been
+written to a chip.
+
+**So:** do not read a three-state progression out of the type table
+above, and do not expect `TigerTag Init` to appear on the wiki. Parsers
+and firmware care only about this axis — the type id on the chip.
+
+> ⚠️ **Known divergence.** The two documents do not currently agree on
+> what makes a chip a `TigerTag+`. This guide defines it as the `ID
+> TigerTag` value `0xBC0FCB97`, written by partner brands, carrying an
+> ECDSA-P256 signature (§3). The wiki defines it as an account-level
+> state. The question is open in
+> [#11](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/issues/11)
+> and this section does not settle it. Until it is settled, read every
+> use of `TigerTag+` **in this repository** as referring to the type id
+> at page `0x04`, and nothing else.
 
 ### Chip memory map
 
