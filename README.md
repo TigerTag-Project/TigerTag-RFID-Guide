@@ -705,7 +705,7 @@ the chip — HueForge reads it without any manual entry.
   TigerTag is the only NFC/RFID protocol supported natively by **TD1s by Ajax**.
 - TD1s hardware (AJAX TD1S V1.0) available:
     - Atome3D.com — https://www.atome3d.com/products/biqu-ajax-td1s-v1-0
-    - Tigertag.io — https://tigertag.io/fr/products/biqu-ajax-td1s-v1-0
+    - Tigertag.io — https://shop.tigertag.io/products/biqu-ajax-td1s-v1-0
 
 ---
 
@@ -735,7 +735,10 @@ signed message from exactly three binary parts:
 - **block4** — page `0x04`, bytes 0–3: ID TigerTag (`u32 BE`, 4 bytes).
 - **block5** — page `0x05`, bytes 0–3: ID Product (`u32 BE`, 4 bytes).
 
-Signed message: `SHA-256( UID_bytes + block4 + block5 )` → 15 bytes total.
+Concatenate in that order — `UID_bytes + block4 + block5`, **15 bytes**
+— and sign the SHA-256 of that concatenation. The 15 bytes are the
+input to the hash, not the size of the digest and not the size of the
+signature (which is 64 bytes: `r` and `s`, 32 each).
 
 The public key is stored in `database/id_version.json` under the
 `public_key` field of the entry matching the tag's `ID TigerTag`
