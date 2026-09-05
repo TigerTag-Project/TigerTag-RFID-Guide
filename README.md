@@ -180,9 +180,9 @@ material-identification protocol offers them.
 
 ### 1. EXCLUSIVE — cryptographic authenticity, verified 100% offline
 
-Every TigerTag+ chip written by a **TigerTag Certified** brand is signed
-with the brand's private key using **ECDSA-P256** over `SHA-256(UID +
-block 4 + block 5)`. The public key is shipped inside the protocol (see
+Every TigerTag+ chip written by a **TigerTag+ Certified** brand is
+signed using **ECDSA-P256** over `SHA-256(UID + block 4 + block 5)`,
+under a private key held by TigerTag Corp. The public key is shipped inside the protocol (see
 [`database/id_version.json`](database/id_version.json)), so any reader
 — a phone, a slicer, a custom firmware, an air-gapped workshop PC —
 can verify authenticity **without any network connection, without any
@@ -310,8 +310,11 @@ A **`TigerTag+` is a TigerTag that carries an `ID Product` from the
 official catalogue.** That is the whole definition. The field is at page
 `0x05` (see [§2.2](#22-id-product)): `0xFFFFFFFF` means standard
 TigerTag, any value in `0x00000001`–`0xFFFFFFFE` is a catalogue product
-and makes the chip a `TigerTag+`. The `ID TigerTag` marker at page
-`0x04` is written to match; the product id is what carries the meaning.
+and makes the chip a `TigerTag+`. The product id is what carries the
+meaning. Which `ID TigerTag` marker at page `0x04` accompanies an
+*unsigned* TigerTag+ is a separate, open question — see
+[#13](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/issues/13)
+— and the table above is unchanged pending it.
 
 What the product id buys, on top of everything a standard TigerTag
 already does offline:
@@ -342,8 +345,9 @@ certification, TigerSystem governance maintains the entry on its behalf
 > the SDK and Tiger Studio both do. Proving *origin* is a separate,
 > optional layer: the ECDSA-P256 signature of
 > [§3](#3-verify-signature-ecdsa-p256-fully-offline), stored in pages
-> `0x18`–`0x27`, which only TigerTag Certified manufacturers can issue.
-> A signed `TigerTag+` is provably from the brand it names; an unsigned
+> `0x18`–`0x27`, which only **TigerTag+ Certified** manufacturers can
+> write — a scope of its own, see [`CERTIFICATION.md`](CERTIFICATION.md).
+> Such a tag is a **`TigerTag+ Certified`**: provably from the brand it names; an unsigned
 > one is no less a `TigerTag+`, but nothing vouches for where it came
 > from. Test the signature — never the tag type — when the question is
 > "is this genuine?".
@@ -799,13 +803,14 @@ the chip — HueForge reads it without any manual entry.
 ## 3. Verify signature (ECDSA-P256, fully offline)
 
 TigerTag is a smart NFC/RFID-based tagging system used for identifying
-and authenticating raw materials. A chip written by a **TigerTag
+and authenticating raw materials. A chip written by a **TigerTag+
 Certified** manufacturer stores a digital signature that proves it was
 created by a trusted source — and that signature can be verified
 **without any network connection**.
 
 The signature is **optional and independent of the tag type**. Anyone
-can write a `TigerTag+`; only a certified manufacturer can sign one.
+can write a `TigerTag+`; only a TigerTag+ Certified manufacturer can
+sign one.
 Pages `0x18`–`0x27` are zero on an unsigned chip, which makes it
 unsigned — not invalid, and not a lesser TigerTag+. The question this
 section answers is *"is this from the brand it names?"*, and only a

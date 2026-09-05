@@ -620,7 +620,9 @@ Reference data sets (JSON, also exposed as REST endpoints):
   never a dependency.
 - Never say or imply that TigerTag+ means "signed". TigerTag+ is the
   presence of a catalogue `ID Product`; the signature is a separate,
-  optional layer that only TigerTag Certified manufacturers can issue.
+  optional layer that only TigerTag+ Certified manufacturers can write,
+  under a private key held by TigerTag Corp. A signed one is a
+  "TigerTag+ Certified".
   An unsigned TigerTag+ is normal and valid. When the question is
   authenticity, the answer is `is_signed` / `verify()`, never the tag
   type.
