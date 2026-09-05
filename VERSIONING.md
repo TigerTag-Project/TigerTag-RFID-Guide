@@ -54,15 +54,20 @@ The value written on the chip, in the `id_tigertag` field. It is a `u32` big-end
 identifier, not a human-readable string, and every entry is registered in
 [`database/id_version.json`](database/id_version.json):
 
-| `id` | `version` | `name` | `tag` | Signed |
+| `id` | `version` | `name` | `tag` | Public key |
 |---|---|---|---|---|
 | `0` | `0.0` | RFID Empty | `TIGER_TAG_UNINITIALIZED` | — |
-| `1542820452` | `1.0` | TigerTag | `TIGER_TAG_MAKER_V1.0` | Yes |
+| `1542820452` | `1.0` | TigerTag | `TIGER_TAG_V1.0` | Yes |
 | `1816240865` | `1.0` | TigerTag Init | `TIGER_TAG_INIT` | Yes |
-| `3155151767` | `1.0` | TigerTag+ | `TIGER_TAG_PRO_V1.0` | Yes |
+| `3155151767` | `1.0` | TigerTag+ | `TIGER_TAG_PLUS_V1.0` | Yes |
 
-Each signed entry carries the **public key** used to verify chips of that version, in PEM
-form, in the `public_key` field. This is the mechanism that makes offline verification
+The last column says whether the entry ships a key, **not** whether chips of that version
+are signed. Signing is optional and independent of the format version: a signed tag is a
+`TigerTag+ Certified` (see [`CERTIFICATION.md`](CERTIFICATION.md)), and an unsigned
+`TigerTag+` is normal.
+
+Each entry with a key carries the **public key** used to verify chips of that version, in
+PEM form, in the `public_key` field. This is the mechanism that makes offline verification
 possible: a reader ships with `id_version.json` embedded, reads `id_tigertag` off the chip,
 selects the matching key, and verifies. No network.
 
