@@ -9,23 +9,65 @@ and a promise is only worth what verifies it.
 
 ---
 
-## Two marks. Only one of them needs us.
+## Three words, and what each one claims
+
+| Word | Made by | What it claims |
+|---|---|---|
+| **Official** | TigerSystem itself | A statement of **origin**: this came from us. |
+| **Certified** | A third party | Audited and validated by TigerSystem. |
+| **Compatible** | A third party | Self-declared. Nobody has checked. |
+
+**Official is not a mark that gets granted**, because nobody certifies
+themselves. It is an assertion of origin, and it sits outside the
+programme described on this page: there is no audit to pass and no
+authorization to obtain, only the fact of who manufactured the thing.
+
+Official chips — **sticker format** and **carrier refill format** — are
+manufactured by TigerSystem, carry the logo, and ship **blank**. A
+reseller of those authentic chips may present them as an official
+product: they are not applying the mark to anything, they are selling
+goods that already carry it. What the buyer writes to a blank official
+chip afterwards is their own business, and does not make the result
+certified.
+
+The rest of this page is about the other two words — the marks a third
+party can hold.
+
+---
+
+## Two marks for third parties. Only one of them needs us.
 
 | | **TigerTag Compatible** | **TigerTag Certified** |
 |---|---|---|
-| Who | Readers, apps, printers, slicers, tools — anything that **talks to** TigerTag chips | Anything that **is** a TigerTag: filament and resin manufacturers, inlay and carrier producers, and machine makers whose product writes TigerTag identities |
-| Says | *"This works with TigerTag."* | *"This is a TigerTag."* |
+| Who | Anything a third party builds and has not had verified | Anything a third party builds **and has had verified** — hardware or software alike: filament and resin manufacturers, inlay and carrier producers, machine makers, and equally readers, apps, slicers and tools |
+| Says | *"This works with TigerTag."* | *"This has been verified by TigerTag."* |
 | Audit | None | **Required** |
 | Cost | Free | **Paid** |
 | Approval | None. Self-declared | Written authorization |
 | Logo | In your app, docs, store listing | **On the product, the chip and the packaging** |
-| TigerTag+ signatures | — | Issued by TigerTag Corp |
+| TigerTag+ signature issuance | — | TigerTag+ Certified scope only |
 | Product-ID allocation | — | Yes |
 | Public listing | — | Yes — in the certified registry |
 
+**The line between the two columns is whether anyone checked — not what
+the product is.** Certification is open to anything a third party builds,
+software included: a reader, a slicer or a mobile app can be certified on
+exactly the same terms as a spool, by passing the audit and meeting the
+specification. That is the Zigbee model this programme is modelled on, and
+it is the intent. Nothing is excluded from certification by category.
+
+### Two scopes
+
+| Scope | Covers |
+|---|---|
+| **TigerTag Certified** | The product has been audited against the specification and conforms. |
+| **TigerTag+ Certified** | The above, plus verified handling of **signed** tags — issuing them for a manufacturer, or reading and verifying them correctly for a reader or an app. Signature issuance belongs to this scope. |
+
 If you only read the specification and ship a reader, you need nothing from us. Say
 *"compatible with TigerTag"*, show the logo in your interface, sell it commercially. See
-[`TRADEMARK.md`](TRADEMARK.md).
+[`TRADEMARK.md`](TRADEMARK.md). Compatible is self-declared, free, and requires no audit
+and no permission — and it will stay that way. Certification is something you may choose to
+seek, never something you are made to.
 
 The rest of this page is about the second column.
 
@@ -71,7 +113,8 @@ Physical samples are tested against the conformance suite. The audit verifies th
 1. **The chip is written correctly** — byte-exact against the specification, on every sample.
 2. **The catalogue data is accurate** — what the product page says matches what the spool actually is,
    and you have a process to keep it correct after shipping.
-3. **TigerTag+ products carry valid signatures**, issued by TigerTag Corp.
+3. **Signed tags carry valid signatures**, issued by TigerTag Corp — in the TigerTag+
+   Certified scope. An unsigned TigerTag+ is conformant and is not a finding.
 4. **The logo appears only where the chip actually is** — on the product, on the packaging, nowhere else.
 5. **The tag survives the product** — placement, adhesion and readability through the spool's life,
    in the orientations a customer will actually load it.
@@ -85,7 +128,7 @@ You sign it. It states that production units match the audited samples.
 On a pass, TigerTag Corp grants:
 
 - the **trademark licence** — the right to apply the TigerTag logo and name to that product line;
-- **TigerTag+ signature issuance** for your products;
+- **TigerTag+ signature issuance** for your products, in the TigerTag+ Certified scope;
 - **product-ID allocation** in the official catalogue;
 - a **public listing in the certified registry**.
 

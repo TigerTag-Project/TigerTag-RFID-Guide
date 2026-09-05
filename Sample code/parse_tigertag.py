@@ -42,18 +42,23 @@ SCOPE — 100% OFFLINE MODE
   ┌──────────────────────────────────────────────────────────────────┐
   │  TigerTag type    │  This SDK (Offline)     │  Future Online SDK │
   ├───────────────────┼─────────────────────────┼────────────────────┤
-  │  TigerTag (Maker) │  ✅ full support         │  ✅ full support    │
+  │  TigerTag         │  ✅ full support         │  ✅ full support    │
   │  TigerTag Init    │  ✅ full support         │  ✅ full support    │
   │  TigerTag+        │  ✅ full support         │  ✅ chip + cloud    │
-  │                   │  (identical to Maker)   │  (product API)     │
+  │                   │  (identical to TigerTag)│  (product API)     │
   └───────────────────┴─────────────────────────┴────────────────────┘
 
-  TigerTag+ tags carry a cloud product ID (id_product ≠ 0xFFFFFFFF)
+  TigerTag+ tags carry a catalogue product ID (id_product ≠ 0xFFFFFFFF)
   alongside all standard filament data. This SDK reads all chip data
   identically for every tag type — there is no functional difference
-  between TigerTag Maker and TigerTag+ in offline mode. The cloud
-  product ID is exposed in to_dict() as product.id so callers can
-  optionally query the TigerTag API themselves if needed.
+  between TigerTag and TigerTag+ in offline mode. The catalogue product
+  ID is exposed in to_dict() as product.id so callers can optionally
+  query the TigerTag API themselves if needed.
+
+  Naming: the canonical names are TigerTag, TigerTag+ and TigerTag Init.
+  "Maker" survives only as an identifier in this SDK (is_maker,
+  MAKER_PRODUCT_ID) and is not a protocol name — do not use it as a
+  label in user-facing output.
   The Online SDK (coming later) will add that enrichment automatically:
     GET /product/get?uid={UID}&product_id={id_product}
 

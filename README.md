@@ -7,10 +7,12 @@
   </a>
 </p>
 
-<h1 align="center">TigerTag NFC (RFID-compatible) — open protocol for material identification</h1>
+<h1 align="center">TigerTag NFC (RFID-compatible) — open source protocol for material identification</h1>
 
 <p align="center">
   <a href="https://tigersystem.io">tigersystem.io</a>
+  ·
+  <a href="https://wiki.tigersystem.io">Documentation wiki</a>
   ·
   <a href="https://api.tigertag.io/api:tigertag">Public API</a>
   ·
@@ -35,6 +37,22 @@
 > the material, the brand, the print settings, the remaining quantity,
 > and proves the spool is genuine with a cryptographic signature —
 > all **fully offline** and **free for users**.
+
+---
+
+## Where to start
+
+| If you want to | Go to |
+| -------------- | ----- |
+| Understand what TigerTag is, set up a first spool, browse products, or follow a guide | **[wiki.tigersystem.io](https://wiki.tigersystem.io)** — the documentation site |
+| Write a parser, a writer or a firmware — byte offsets, field types, signature verification | **This repository** — the normative specification |
+
+The wiki is the reader's entry point and explains the ecosystem in prose.
+This guide is the **normative reference for the binary format**: where a
+field sits on the chip, how wide it is, how it is encoded, and how a
+signature is verified. Where the two disagree on a byte, an offset or a
+field type, **this repository wins** — see
+[§2 — Data Structure](#2-data-structure--tigertag-binary-format).
 
 ---
 
@@ -162,9 +180,9 @@ material-identification protocol offers them.
 
 ### 1. EXCLUSIVE — cryptographic authenticity, verified 100% offline
 
-Every TigerTag+ chip written by a partner brand is signed with the
-brand's private key using **ECDSA-P256** over `SHA-256(UID + block 4 +
-block 5)`. The public key is shipped inside the protocol (see
+Every TigerTag+ chip written by a **TigerTag+ Certified** brand is
+signed using **ECDSA-P256** over `SHA-256(UID + block 4 + block 5)`,
+under a private key held by TigerTag Corp. The public key is shipped inside the protocol (see
 [`database/id_version.json`](database/id_version.json)), so any reader
 — a phone, a slicer, a custom firmware, an air-gapped workshop PC —
 can verify authenticity **without any network connection, without any
@@ -258,8 +276,16 @@ of it is required to implement the protocol, and it never will be. See
 
 This document defines the data structure and binary format used by
 TigerTag-compatible NFC/RFID chips. Unlike closed formats, TigerTag is
-**100% offline**, **open-source**, and **brand-neutral**, ensuring
-long-term stability and compatibility across ecosystems.
+**100% offline working**, **open source**, and **brand-neutral**,
+ensuring long-term stability and compatibility across ecosystems.
+
+"Offline working" is the exact claim, and it is worth being precise
+about: **everything needed to identify a material and print it is on the
+chip or in [`database/`](database/)**, and no lookup is ever required to
+use a spool. Supplementary metadata does exist behind the API —
+documentation, richer media, extended product detail — and it is
+deliberately **not critical**. A reader that never reaches the network
+loses none of the function, only the extras.
 
 TigerTag uses a 144-byte payload laid out across pages 0x04–0x27.
 The chip is **ISO 14443-3 compatible** (NTAG21x family). The binary
@@ -271,12 +297,106 @@ variants remain compatible because the extra pages are simply unused.
 | Type             | ID TigerTag  | Written by          | Purpose                                                                        |
 | ---------------- | ------------ | ------------------- | ------------------------------------------------------------------------------ |
 | **TigerTag**     | `0x5BF59264` | Maker / end user    | Standard offline tag. Everything needed to print is on the chip.               |
-| **TigerTag+**    | `0xBC0FCB97` | Partner brand       | Same offline data, plus ECDSA signature and a cloud product ID for updates.    |
+| **TigerTag+**    | `0xBC0FCB97` | Brand, maker, or Tiger Studio | Same offline data, plus an `ID Product` from the official catalogue.  |
 | **TigerTag Init**| `0x6C41A2E1` | Factory / blank tag | Initialization marker — chip is ready to receive a real TigerTag write.        |
 
 > The canonical names are **TigerTag**, **TigerTag+**, and **TigerTag Init**.
 > `Offline` is an operating mode of standard TigerTag tags, **not** a
 > protocol name — do not use it as a substitute label.
+
+#### What makes a TigerTag+
+
+A **`TigerTag+` is a TigerTag that carries an `ID Product` from the
+official catalogue.** That is the whole definition. The field is at page
+`0x05` (see [§2.2](#22-id-product)): `0xFFFFFFFF` means standard
+TigerTag, any value in `0x00000001`–`0xFFFFFFFE` is a catalogue product
+and makes the chip a `TigerTag+`. The product id is what carries the
+meaning.
+
+**Every TigerTag+ carries the same `ID TigerTag`, `0xBC0FCB97`, signed
+or not.** Certification does not change the type id — a certified
+manufacturer writes a *valid signature*, and that is the only
+difference. A reader establishes that a chip is a `TigerTag+ Certified`
+by **verifying pages `0x18`–`0x27`**, never by looking at page `0x04`.
+Nothing changes for chips already in circulation, and no reader has a
+new id to learn.
+
+What the product id buys, on top of everything a standard TigerTag
+already does offline:
+
+- **Catalogue metadata** — series, product name, SKU, barcode, capacity,
+  image and the rest, from [`database/id_catalog.json`](database/id_catalog.json),
+  which ships here under CC0 and resolves offline. The API (§2.2) adds
+  more on top — documentation and extended detail — which is **a bonus,
+  never a dependency**: nothing a reader needs in order to work is
+  reachable only over the network.
+- **Updates after the write.** A chip is burned once at the factory and
+  does not stay frozen there: when the catalogue entry changes, a reader
+  can carry the correction to the chip in the field. See
+  [§3 of "What makes TigerTag unique"](#3-exclusive--remote-updates-pushed-by-the-manufacturer-tigertag).
+
+Not every product has one. The catalogue is still filling in, and a
+product that is not in it yet has no id to write — which is not a defect
+in the chip: it stays a perfectly valid TigerTag, and everything needed
+to print is still on it.
+
+Catalogue entries are curated, never self-declared. A **TigerTag
+Certified** manufacturer drives its own products; until a brand asks for
+certification, TigerSystem governance maintains the entry on its behalf
+— which is why brands appear in the catalogue without having asked. See
+[`CERTIFICATION.md`](CERTIFICATION.md).
+
+> **A `TigerTag+` is not an authenticity claim.** Anyone can write one —
+> the SDK and Tiger Studio both do. Proving *origin* is a separate,
+> optional layer: the ECDSA-P256 signature of
+> [§3](#3-verify-signature-ecdsa-p256-fully-offline), stored in pages
+> `0x18`–`0x27`, which only **TigerTag+ Certified** manufacturers can
+> write — a scope of its own, see [`CERTIFICATION.md`](CERTIFICATION.md).
+> Such a tag is a **`TigerTag+ Certified`**: provably from the brand it names; an unsigned
+> one is no less a `TigerTag+`, but nothing vouches for where it came
+> from. Test the signature — never the tag type — when the question is
+> "is this genuine?".
+
+### TigerTag Init and the identity lifecycle
+
+Two models are in circulation and they are frequently merged into one.
+They describe different objects.
+
+- **The three types above describe what is written on the chip** — the
+  `ID TigerTag` marker at page `0x04` (see [§2.1](#21-id-tigertag)) and,
+  for the `TigerTag+` case, the `ID Product` behind it. Both are
+  properties of chip memory, read offline, with no account and no
+  network.
+- **The identity lifecycle describes the state of the record**, from
+  `TigerData` (an identity that exists only digitally, before any chip)
+  through to the account-level states. It is documented on the wiki:
+  [Universal Filament Identity](https://wiki.tigersystem.io/concepts/universal-filament-identity/).
+
+These are two axes, not two halves of one sequence. A spool has one
+value on each: a chip format, and a record state. Neither list is a
+longer or shorter version of the other, and a chip's type id cannot be
+derived from the lifecycle state or the reverse.
+
+`TigerTag Init` is a chip state with no counterpart on the lifecycle
+axis. It marks a chip that has been prepared but carries no identity
+yet — nothing about the material has been decided, so there is no record
+to be in any state. Symmetrically, the lifecycle's pre-chip states have
+no `ID TigerTag` value at all, because by definition nothing has been
+written to a chip.
+
+**So:** do not read a three-state progression out of the type table
+above, and do not expect `TigerTag Init` to appear on the wiki. Parsers
+and firmware care only about this axis — what the chip carries.
+
+> ⚠️ **Known divergence.** The two documents do not agree on what makes
+> a chip a `TigerTag+`. Here it is the `ID Product` at page `0x05`, as
+> above — readable from the chip, offline, with no account. On the wiki
+> it is an account-level state: a chip whose content has been backed up
+> in your account. Whether those two describe the same operation is
+> tracked in
+> [#11](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/issues/11).
+> Within this repository, `TigerTag+` always means the catalogue product
+> id and nothing else.
 
 ### Chip memory map
 
@@ -364,6 +484,40 @@ is ISO 14443-3 compatible (NTAG21x family).
 
 ---
 
+### Reference tables ship with the protocol — the API is optional
+
+Every reference table in the sections below is published twice: as a
+JSON file in [`database/`](database/), which ships with this repository
+under [CC0](database/README.md), and as an endpoint on the public API.
+**They are the same table.**
+
+The JSON files are what the protocol guarantees. They can be embedded
+straight into a slicer, a firmware or a reader, and they resolve every
+id a chip can carry with **no network, no key and no account** — which
+is what makes TigerTag readable offline in the first place. A conformant
+implementation never has to call the API.
+
+The `API Link` given under each section is therefore a convenience, not
+a dependency. It is worth using for one reason: freshness. The JSON in
+this repository is synced from the catalogue every 6 hours, so a brand
+or material added in the last few hours is on the API before it is here.
+Pick per product — see the three sync strategies in §2.0 below,
+including one that uses the API and falls back to GitHub when it is
+unreachable.
+
+Two endpoints are **not** mirrors of a shipped file and are labelled as
+such where they appear:
+
+- **§2.2 `ID Product`** — a per-UID cloud lookup for TigerTag+ product
+  metadata and remote updates. There is no offline equivalent, by
+  design: the point of the endpoint is that it returns what the brand
+  published *after* the chip was written.
+- **§2.0 `last_update`** — cache invalidation is a question about the
+  server, so only the live values answer it; the copy in `database/`
+  is the snapshot taken at the last sync.
+
+---
+
 ## 2.0 Database last update
 
 Sidecar metadata file that exposes the **server-side
@@ -377,7 +531,7 @@ references whose timestamp has changed since their last sync.
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/last_update.json
 
-**API Link:**
+**API Link** *(live values — the JSON above is the snapshot of the last sync)*:
 <a href="https://api.tigertag.io/api:tigertag/all/last_update" target="_blank">https://api.tigertag.io/api:tigertag/all/last_update</a>
 
 **Format:** JSON object — one entry per dataset, value is a Unix epoch in **milliseconds** (UTC).
@@ -427,13 +581,13 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_version.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/version/get/all" target="_blank">https://api.tigertag.io/api:tigertag/version/get/all</a>
 
 **Examples:**
 - `0x6C41A2E1` = `1816240865` → TigerTag Init (Initialized)
 - `0x5BF59264` = `1542820452` → TigerTag
-- `0xBC0FCB97` = `3155151767` → TigerTag+ (standard TigerTag plus optional cloud-side metadata, written only by partner filament / resin manufacturers)
+- `0xBC0FCB97` = `3155151767` → TigerTag+ (a TigerTag carrying an `ID Product` from the official catalogue — signed or not; see [what makes a TigerTag+](#what-makes-a-tigertag))
 
 **Naming note:** `TigerTag`, `TigerTag+`, and `TigerTag Init` are the canonical protocol names. `Offline` describes the operating mode of standard TigerTag tags, but it is not the protocol name and MUST NOT be used as a replacement label for `TigerTag`.
 
@@ -441,7 +595,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 ## 2.2 ID Product
 
-**API Link:**
+**API Link** *(cloud only — this endpoint has no offline equivalent, see below)*:
 <a href="https://api.tigertag.io/api:tigertag/product/get?uid=$UID_chip&product_id=$Id_Products" target="_blank">https://api.tigertag.io/api:tigertag/product/get?uid=$UID_chip&product_id=$Id_Products</a>
 
 **Example:**
@@ -460,7 +614,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_material.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/material/get/all" target="_blank">https://api.tigertag.io/api:tigertag/material/get/all</a>
 
 **Examples:**
@@ -479,7 +633,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_diameter.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/diameter/filament/get/all" target="_blank">https://api.tigertag.io/api:tigertag/diameter/filament/get/all</a>
 
 **Examples:**
@@ -495,7 +649,7 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_aspect.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/aspect/get/all" target="_blank">https://api.tigertag.io/api:tigertag/aspect/get/all</a>
 
 **Examples:**
@@ -554,7 +708,7 @@ Example:
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_type.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/type/get/all" target="_blank">https://api.tigertag.io/api:tigertag/type/get/all</a>
 
 **Examples:**
@@ -570,7 +724,7 @@ Example:
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_brand.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/brand/get/all" target="_blank">https://api.tigertag.io/api:tigertag/brand/get/all</a>
 
 **Examples:**
@@ -593,7 +747,7 @@ Example:
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_measure_unit.json
 
-**API Link:**
+**API Link** *(optional — same table, live; see [note](#reference-tables-ship-with-the-protocol--the-api-is-optional))*:
 <a href="https://api.tigertag.io/api:tigertag/measure_unit/get/all" target="_blank">https://api.tigertag.io/api:tigertag/measure_unit/get/all</a>
 
 **Examples:**
@@ -647,17 +801,25 @@ the chip — HueForge reads it without any manual entry.
   TigerTag is the only NFC/RFID protocol supported natively by **TD1s by Ajax**.
 - TD1s hardware (AJAX TD1S V1.0) available:
     - Atome3D.com — https://www.atome3d.com/products/biqu-ajax-td1s-v1-0
-    - Tigertag.io — https://tigertag.io/fr/products/biqu-ajax-td1s-v1-0
+    - Tigertag.io — https://shop.tigertag.io/products/biqu-ajax-td1s-v1-0
 
 ---
 
 ## 3. Verify signature (ECDSA-P256, fully offline)
 
 TigerTag is a smart NFC/RFID-based tagging system used for identifying
-and authenticating raw materials. To ensure the authenticity of a
-TigerTag+, each chip stores a digital signature that proves it was
+and authenticating raw materials. A chip written by a **TigerTag+
+Certified** manufacturer stores a digital signature that proves it was
 created by a trusted source — and that signature can be verified
 **without any network connection**.
+
+The signature is **optional and independent of the tag type**. Anyone
+can write a `TigerTag+`; only a TigerTag+ Certified manufacturer can
+sign one.
+Pages `0x18`–`0x27` are zero on an unsigned chip, which makes it
+unsigned — not invalid, and not a lesser TigerTag+. The question this
+section answers is *"is this from the brand it names?"*, and only a
+signature answers it.
 
 This document explains the verification process in a simple way.
 
@@ -677,7 +839,10 @@ signed message from exactly three binary parts:
 - **block4** — page `0x04`, bytes 0–3: ID TigerTag (`u32 BE`, 4 bytes).
 - **block5** — page `0x05`, bytes 0–3: ID Product (`u32 BE`, 4 bytes).
 
-Signed message: `SHA-256( UID_bytes + block4 + block5 )` → 15 bytes total.
+Concatenate in that order — `UID_bytes + block4 + block5`, **15 bytes**
+— and sign the SHA-256 of that concatenation. The 15 bytes are the
+input to the hash, not the size of the digest and not the size of the
+signature (which is 64 bytes: `r` and `s`, 32 each).
 
 The public key is stored in `database/id_version.json` under the
 `public_key` field of the entry matching the tag's `ID TigerTag`
