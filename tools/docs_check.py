@@ -98,6 +98,13 @@ FLAKY_HOSTS = {
     "linkedin.com",
     "twitter.com",
     "x.com",
+    # MakerWorld answers 403 to any automated request, browser User-Agent
+    # included. The two Pod models linked from the README were confirmed live
+    # in a real browser; there is no request this script can make that tells a
+    # withdrawn model from the bot wall, so a red run here would only teach
+    # people to ignore it.
+    "makerworld.com",
+    "www.makerworld.com",
 }
 
 # ── Facts that must agree wherever they appear ──────────────────────────────

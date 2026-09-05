@@ -1183,9 +1183,21 @@ readers + a USB splitter + the 3D-printed shell), or buy the official electronic
 at [tigertag.io](https://tigertag.io). On mobile, no Pod is needed — the phone's own
 NFC reader reads and writes TigerTag directly.
 
+There are **two shells to print**, same Pod underneath:
+
 <p align="center">
-  <img src="Images/TigerPOD_Blue.png" alt="TigerTag Pod in blue, holding a spool of red filament" width="380">
+  <img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in dark grey, holding a spool upright, with one reader standing on each side" width="330">
+  &nbsp;&nbsp;
+  <img src="Images/TigerPOD_Blue.png" alt="The original TigerTag Pod in blue, holding a spool of red filament" width="330">
 </p>
+
+<p align="center">
+  <sub><em><strong>Pod Mini</strong> (left, recommended) and the <strong>original Pod</strong> (right). Same two readers, same electronics — only the shell differs.</em></sub>
+</p>
+
+- **[Pod Mini](https://makerworld.com/fr/models/3190348-tigerpod-mini-for-openspool-tigertag-rfid-filament)** — *recommended.* More compact: it prints faster, uses less
+  filament, takes less desk space, and routes the cables inside.
+- **[Pod (original)](https://makerworld.com/fr/models/1289152-tigertag-io-open-spool-pod-for-rfid-filament)** — the first shell, sized for a standard 1 kg spool.
 
 The shell is the part you print, so the Pod comes out in whatever colour you load —
 there is no official colourway to match.
@@ -1287,6 +1299,7 @@ on the reader's color scheme.
 | "Download" button — Linux        | SVG        | <img src="brand/download_linux.svg" alt="download linux" height="36">                                                                                                                         | [`brand/download_linux.svg`](brand/download_linux.svg)                |
 | Tiger Scale V3 — hardware photo  | PNG        | <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 photo" height="48">                                                                                                                   | [`Images/TigerScale_V3.png`](Images/TigerScale_V3.png)                |
 | Tiger Scale — hardware photo (previous generation) | PNG | <img src="brand/TigerScale_Photo.png" alt="Tiger Scale photo" height="48">                                                                                                     | [`brand/TigerScale_Photo.png`](brand/TigerScale_Photo.png)            |
+| TigerTag Pod Mini — product photo | JPG       | <img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini photo" height="48">                                                                                                                    | [`Images/TigerPOD_Mini.jpg`](Images/TigerPOD_Mini.jpg)                |
 | TigerTag Pod — product photo     | PNG        | <img src="Images/TigerPOD_Blue.png" alt="TigerTag Pod photo" height="48">                                                                                                                     | [`Images/TigerPOD_Blue.png`](Images/TigerPOD_Blue.png)                |
 | TigerTag Pod — colour lineup     | JPG        | <img src="Images/TigerPOD_Lineup.jpg" alt="TigerTag Pod colour lineup" height="48">                                                                                                           | [`Images/TigerPOD_Lineup.jpg`](Images/TigerPOD_Lineup.jpg)            |
 | TigerTag system — Pod, desktop, mobile | PNG  | <img src="Images/TigerPOD_System.png" alt="TigerTag system overview" height="48">                                                                                                             | [`Images/TigerPOD_System.png`](Images/TigerPOD_System.png)            |
