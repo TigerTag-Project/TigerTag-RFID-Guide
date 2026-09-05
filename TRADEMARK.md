@@ -175,22 +175,28 @@ the logo descriptively; it is not a copyright licence to the artwork.
 | Name your company or domain "TigerTag" | ❌ No (trademark) |
 | Create a competing RFID protocol called "TigerTag" | ❌ No (trademark) |
 | Issue or forge a TigerTag+ signature | ❌ No (key custody) |
-| Label your tag "TigerTag+" without a valid signature | ❌ No (trademark + misrepresentation) |
+| Label your tag "TigerTag+" — a catalogue product id, no signature needed | ✅ Yes |
+| Label your tag "TigerTag+ **Certified**" without a valid signature | ❌ No (trademark + misrepresentation) |
 | Claim TigerTag certification without agreement | ❌ No — see [`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md) |
 
 ---
 
 ## Official integration
 
-Two marks, and only one of them needs us:
+Three words, and only one of them needs us:
 
-| | **TigerTag Compatible** | **TigerTag Certified** |
-|---|---|---|
-| For | Readers, apps, printers, slicers — anything that **talks to** TigerTag | Anything that **is** a TigerTag: filament and resin manufacturers, inlay and carrier producers, machine makers whose product writes TigerTag identities |
-| Audit | None | **Required** |
-| Cost | Free | **Paid** |
-| Logo | In your app, docs, store listing | **On the product, the chip, the packaging** |
-| Signatures, product-ID, public listing | — | Yes |
+- **Official** — made by TigerSystem. A statement of origin, not a mark that gets granted.
+- **Certified** — made by a third party, audited and validated by TigerSystem. Open to
+  anything a third party builds, hardware or software alike: the line is whether anyone
+  checked, not what the product is.
+- **Compatible** — made by a third party, self-declared. Free, unaudited, no permission
+  needed, and staying that way.
+
+Certification comes in two scopes, **TigerTag Certified** and **TigerTag+ Certified**, the
+second covering verified handling of signed tags. Who may claim what, what the audit
+verifies, and what each mark costs are defined in
+[`CERTIFICATION.md`](CERTIFICATION.md) — that is where those facts live, and they are not
+restated here.
 
 If you manufacture filament or resin and want **officially supplied TigerTag media**
 (pre-printed carriers), **TigerTag+ signatures**, **product-ID allocation**, the right to put
