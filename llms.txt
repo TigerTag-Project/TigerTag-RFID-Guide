@@ -273,6 +273,12 @@ integration, never as a thing bought on its own.
   https://github.com/Kenny3231/TigerTag
 - Snapmaker U1 Extended Firmware (TigerTag via OpenRFID):
   https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware
+- BambuTagger — DIY ESP32 reader/writer hardware (BT-Touch handheld,
+  BT-AMS-C four-slot AMS reader). Reads and writes the TigerTag binary
+  format at the specified offsets; does not read TD, the custom message
+  or the signature, so it makes no authenticity claim. Reference tables
+  are compiled in as a snapshot, not synced from database/.
+  https://www.bambutagger.de · https://github.com/VID-PRO/BambuTagger-Touch
 
 ---
 

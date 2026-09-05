@@ -1253,6 +1253,19 @@ HACS-compatible custom integration that synchronises your TigerTag filament inve
 
 🔗 [Kenny3231/TigerTag](https://github.com/Kenny3231/TigerTag) — author: [@Kenny3231](https://github.com/Kenny3231). Per its own README, this is a community project **not officially affiliated with TigerTag Project**.
 
+### 6.4 BambuTagger — DIY tag reader/writer hardware
+
+Two open-hardware ESP32 builds that read and write **TigerTag** alongside Bambu Lab, SpoolEase, OpenSpool and OpenTag3D, each from off-the-shelf modules and a printed case:
+
+- **BT-Touch** — a handheld reader, writer and cloner: ESP32-S3 with a 5" touchscreen and one RC522, battery powered, with local storage for over 2 000 tags.
+- **BT-AMS-C** — a four-slot reader that sits on a Bambu Lab AMS, showing live slot data and pushing tag data to the printer/BMCU, configured over a web interface with OTA updates.
+
+Its TigerTag parser reads the binary format **at the offsets this specification defines** and accepts both `0x5BF59264` and `0xBC0FCB97`. It covers the identification and print-settings fields — material, aspects, brand, diameter, colour 1, measure with unit conversion, nozzle, bed and drying — and does not read Transmission Distance, the custom message, or the signature, so it neither verifies nor claims authenticity. The reference tables are compiled in as a snapshot rather than synced from [`database/`](database/), so newly catalogued brands and materials resolve only after a firmware update.
+
+Cloning is worth a word, since the device offers it: copying a signed chip reproduces the payload, not the signature's validity, which is the point of §3 — an attestation, never a lock.
+
+🔗 [bambutagger.de](https://www.bambutagger.de) · [VID-PRO/BambuTagger-Touch](https://github.com/VID-PRO/BambuTagger-Touch) — AGPL-3.0. Credits, on the author's own page, to BambuMan and the Bambu-Research-Group RFID-Tag-Guide.
+
 ---
 
 ## Press kit & brand assets
