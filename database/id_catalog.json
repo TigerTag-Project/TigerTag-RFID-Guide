@@ -927,6 +927,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 242,
+      "color_g": 242,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#F2F2F2FF",
+    "color_info": {
+      "colors": [
+        "#F2F2F2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 8711409,
+    "img_src": "https://cdn.tigertag.io/img?id=8711409&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-TRANSPARENT",
+    "title": "Filaflex 82A - Transparent"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 231,
       "color_g": 248,
       "color_r": 255,
@@ -12819,6 +12856,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 214,
+      "color_g": 234,
+      "color_r": 240,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#F0EAD6FF",
+    "color_info": {
+      "colors": [
+        "#F0EAD6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 104347574,
+    "img_src": "https://cdn.tigertag.io/img?id=104347574&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-95FOAMY-NATURAL",
+    "title": "Filaflex 95 Foamy - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 237,
       "color_g": 229,
       "color_r": 221,
@@ -22422,7 +22496,7 @@
       "color_g": 53,
       "color_r": 78,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -22437,15 +22511,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#4E3524FF",
+    "color": "#4E3524",
     "color_info": {
       "colors": [
-        "#4E3524FF"
+        "#4E3524"
       ],
       "type": "mono"
     },
     "id": 190400243,
-    "img_src": "https://cdn.tigertag.io/img?id=190400243&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=190400243&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -28042,7 +28116,7 @@
       "color_g": 214,
       "color_r": 68,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -28057,15 +28131,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#44D62CFF",
+    "color": "#44D62C",
     "color_info": {
       "colors": [
-        "#44D62CFF"
+        "#44D62C"
       ],
       "type": "mono"
     },
     "id": 233742150,
-    "img_src": "https://cdn.tigertag.io/img?id=233742150&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=233742150&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -30086,7 +30160,7 @@
       "color_g": 125,
       "color_r": 27,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -30101,15 +30175,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#1B7DFFFF",
+    "color": "#1B7DFF",
     "color_info": {
       "colors": [
-        "#1B7DFFFF"
+        "#1B7DFF"
       ],
       "type": "mono"
     },
     "id": 249656508,
-    "img_src": "https://cdn.tigertag.io/img?id=249656508&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=249656508&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -31015,7 +31089,7 @@
       "color_g": 0,
       "color_r": 198,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -31030,15 +31104,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#C6007EFF",
+    "color": "#C6007E",
     "color_info": {
       "colors": [
-        "#C6007EFF"
+        "#C6007E"
       ],
       "type": "mono"
     },
     "id": 255253622,
-    "img_src": "https://cdn.tigertag.io/img?id=255253622&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=255253622&v=5",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -37350,6 +37424,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 44,
+      "color_g": 52,
+      "color_r": 208,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#D0342CFF",
+    "color_info": {
+      "colors": [
+        "#D0342CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 307190975,
+    "img_src": "https://cdn.tigertag.io/img?id=307190975&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-95A-RED",
+    "title": "Filaflex 95A - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 204,
       "color_g": 204,
       "color_r": 204,
@@ -37621,7 +37732,7 @@
       "color_g": 50,
       "color_r": 46,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -37636,15 +37747,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#2E3234FF",
+    "color": "#2E3234",
     "color_info": {
       "colors": [
-        "#2E3234FF"
+        "#2E3234"
       ],
       "type": "mono"
     },
     "id": 309205213,
-    "img_src": "https://cdn.tigertag.io/img?id=309205213&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=309205213&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -37698,7 +37809,7 @@
       "color_r": 245,
       "color_r2": 30,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -37713,16 +37824,16 @@
       "measure": 500
     },
     "brand": "Rosa3D",
-    "color": "#F5FBE5FF",
+    "color": "#F5FBE5",
     "color_info": {
       "colors": [
-        "#F5FBE5FF",
-        "#1E8AB9FF"
+        "#F5FBE5",
+        "#1E8AB9"
       ],
       "type": "multi"
     },
     "id": 310317879,
-    "img_src": "https://cdn.tigertag.io/img?id=310317879&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=310317879&v=2",
     "material": "PLA",
     "measure": "500 g",
     "product_type": "Filament",
@@ -38224,7 +38335,7 @@
       "color_r": 245,
       "color_r2": 68,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -38239,16 +38350,16 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#F5FBE5FF",
+    "color": "#F5FBE5",
     "color_info": {
       "colors": [
-        "#F5FBE5FF",
-        "#44D62CFF"
+        "#F5FBE5",
+        "#44D62C"
       ],
       "type": "multi"
     },
     "id": 315046577,
-    "img_src": "https://cdn.tigertag.io/img?id=315046577&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=315046577&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -39450,6 +39561,43 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU85A-ORANGEPINK-175-1KG",
     "title": "THE K8 TPU 85A - Orange Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 204,
+      "color_g": 102,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#0066CCFF",
+    "color_info": {
+      "colors": [
+        "#0066CCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 324815093,
+    "img_src": "https://cdn.tigertag.io/img?id=324815093&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-95A-BLUEFG",
+    "title": "Filaflex 95A - Blue Food Grade"
   },
   {
     "RFID_Data": {
@@ -43355,7 +43503,7 @@
       "color_g": 75,
       "color_r": 62,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -43370,15 +43518,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#3E4B3AFF",
+    "color": "#3E4B3A",
     "color_info": {
       "colors": [
-        "#3E4B3AFF"
+        "#3E4B3A"
       ],
       "type": "mono"
     },
     "id": 353932454,
-    "img_src": "https://cdn.tigertag.io/img?id=353932454&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=353932454&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -45691,6 +45839,43 @@
     "product_type": "Filament",
     "sku": "DLZ-JY-PLA+-RD-1.1kg-C",
     "title": "Standard PLA+ - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 371363174,
+    "img_src": "https://cdn.tigertag.io/img?id=371363174&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-95A-WHITE",
+    "title": "Filaflex 95A - White"
   },
   {
     "RFID_Data": {
@@ -48511,6 +48696,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 204,
+      "color_g": 102,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 240,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 45,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#0066CCFF",
+    "color_info": {
+      "colors": [
+        "#0066CCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 397076399,
+    "img_src": "https://cdn.tigertag.io/img?id=397076399&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-60A-BLUEFG",
+    "title": "Filaflex 60A - Blue Food Grade"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 55,
       "color_g": 77,
       "color_r": 93,
@@ -50625,6 +50847,43 @@
     "product_type": "Filament",
     "sku": "PLA175500G073",
     "title": "PLA - Bleu Ciel"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 33,
+      "color_g": 106,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#F26A21FF",
+    "color_info": {
+      "colors": [
+        "#F26A21FF"
+      ],
+      "type": "mono"
+    },
+    "id": 413309265,
+    "img_src": "https://cdn.tigertag.io/img?id=413309265&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-FOAMY-ORANGE",
+    "title": "Filaflex Foamy - Orange"
   },
   {
     "RFID_Data": {
@@ -58181,7 +58440,7 @@
       "color_g": 255,
       "color_r": 255,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -58196,15 +58455,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FFFF00FF",
+    "color": "#FFFF00",
     "color_info": {
       "colors": [
-        "#FFFF00FF"
+        "#FFFF00"
       ],
       "type": "mono"
     },
     "id": 480042155,
-    "img_src": "https://cdn.tigertag.io/img?id=480042155&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=480042155&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -58469,6 +58728,43 @@
     "product_type": "Filament",
     "sku": "DLZ-EU-TB-PLAYG_DC-RD+YL-1KG",
     "title": "Dual Color PLA Matte - Yellow Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 48,
+      "color_g": 194,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#F2C230FF",
+    "color_info": {
+      "colors": [
+        "#F2C230FF"
+      ],
+      "type": "mono"
+    },
+    "id": 482156548,
+    "img_src": "https://cdn.tigertag.io/img?id=482156548&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-YELLOW",
+    "title": "Filaflex 82A - Yellow"
   },
   {
     "RFID_Data": {
@@ -60750,7 +61046,7 @@
       "color_g": 130,
       "color_r": 211,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -60765,15 +61061,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#D3827EFF",
+    "color": "#D3827E",
     "color_info": {
       "colors": [
-        "#D3827EFF"
+        "#D3827E"
       ],
       "type": "mono"
     },
     "id": 500740074,
-    "img_src": "https://cdn.tigertag.io/img?id=500740074&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=500740074&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -62637,7 +62933,7 @@
       "color_g": 248,
       "color_r": 253,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -62652,15 +62948,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FDF8EFFF",
+    "color": "#FDF8EF",
     "color_info": {
       "colors": [
-        "#FDF8EFFF"
+        "#FDF8EF"
       ],
       "type": "mono"
     },
     "id": 516973393,
-    "img_src": "https://cdn.tigertag.io/img?id=516973393&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=516973393&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -68745,7 +69041,7 @@
       "color_g": 125,
       "color_r": 27,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -68760,15 +69056,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#1B7DFFFF",
+    "color": "#1B7DFF",
     "color_info": {
       "colors": [
-        "#1B7DFFFF"
+        "#1B7DFF"
       ],
       "type": "mono"
     },
     "id": 564368321,
-    "img_src": "https://cdn.tigertag.io/img?id=564368321&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=564368321&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -70197,7 +70493,7 @@
       "color_g": 164,
       "color_r": 214,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -70212,15 +70508,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#D6A461FF",
+    "color": "#D6A461",
     "color_info": {
       "colors": [
-        "#D6A461FF"
+        "#D6A461"
       ],
       "type": "mono"
     },
     "id": 577565046,
-    "img_src": "https://cdn.tigertag.io/img?id=577565046&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=577565046&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -89149,7 +89445,7 @@
       "color_g": 46,
       "color_r": 156,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -89164,15 +89460,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#9C2E9EFF",
+    "color": "#9C2E9E",
     "color_info": {
       "colors": [
-        "#9C2E9EFF"
+        "#9C2E9E"
       ],
       "type": "mono"
     },
     "id": 728089428,
-    "img_src": "https://cdn.tigertag.io/img?id=728089428&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=728089428&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -91887,7 +92183,7 @@
       "color_g": 164,
       "color_r": 72,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -91902,15 +92198,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#48A43FFF",
+    "color": "#48A43F",
     "color_info": {
       "colors": [
-        "#48A43FFF"
+        "#48A43F"
       ],
       "type": "mono"
     },
     "id": 754708768,
-    "img_src": "https://cdn.tigertag.io/img?id=754708768&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=754708768&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -94272,7 +94568,7 @@
       "color_g": 93,
       "color_r": 87,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -94287,15 +94583,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#575D5EFF",
+    "color": "#575D5E",
     "color_info": {
       "colors": [
-        "#575D5EFF"
+        "#575D5E"
       ],
       "type": "mono"
     },
     "id": 775961142,
-    "img_src": "https://cdn.tigertag.io/img?id=775961142&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=775961142&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -94831,7 +95127,7 @@
       "color_g": 49,
       "color_r": 246,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -94846,15 +95142,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#F63187FF",
+    "color": "#F63187",
     "color_info": {
       "colors": [
-        "#F63187FF"
+        "#F63187"
       ],
       "type": "mono"
     },
     "id": 783537826,
-    "img_src": "https://cdn.tigertag.io/img?id=783537826&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=783537826&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -98470,6 +98766,43 @@
     "product_type": "Filament",
     "sku": "700-001-0423",
     "title": "PLA - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 44,
+      "color_g": 52,
+      "color_r": 208,
+      "data1": 56,
+      "data2": 230,
+      "data3": 240,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 45,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#D0342CFF",
+    "color_info": {
+      "colors": [
+        "#D0342CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 810545948,
+    "img_src": "https://cdn.tigertag.io/img?id=810545948&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-60A-RED",
+    "title": "Filaflex 60A - Red"
   },
   {
     "RFID_Data": {
@@ -111406,7 +111739,7 @@
       "color_g": 0,
       "color_r": 0,
       "data1": 221,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -111421,15 +111754,15 @@
       "measure": 3000
     },
     "brand": "Rosa3D",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 926206721,
-    "img_src": "https://cdn.tigertag.io/img?id=926206721&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=926206721&v=2",
     "material": "PLA",
     "measure": "3000 g",
     "product_type": "Filament",
@@ -121470,6 +121803,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 44,
+      "color_g": 52,
+      "color_r": 208,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#D0342CFF",
+    "color_info": {
+      "colors": [
+        "#D0342CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1009272274,
+    "img_src": "https://cdn.tigertag.io/img?id=1009272274&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-RED",
+    "title": "Filaflex 82A - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 140,
       "color_r": 255,
@@ -126618,7 +126988,7 @@
       "color_g": 216,
       "color_r": 233,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -126633,15 +127003,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#E9D8BBFF",
+    "color": "#E9D8BB",
     "color_info": {
       "colors": [
-        "#E9D8BBFF"
+        "#E9D8BB"
       ],
       "type": "mono"
     },
     "id": 1053899782,
-    "img_src": "https://cdn.tigertag.io/img?id=1053899782&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1053899782&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -138088,7 +138458,7 @@
       "color_g": 218,
       "color_r": 250,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -138103,15 +138473,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FADA5EFF",
+    "color": "#FADA5E",
     "color_info": {
       "colors": [
-        "#FADA5EFF"
+        "#FADA5E"
       ],
       "type": "mono"
     },
     "id": 1146449393,
-    "img_src": "https://cdn.tigertag.io/img?id=1146449393&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=1146449393&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -141291,7 +141661,7 @@
       "color_g": 235,
       "color_r": 246,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -141306,15 +141676,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#F6EB61FF",
+    "color": "#F6EB61",
     "color_info": {
       "colors": [
-        "#F6EB61FF"
+        "#F6EB61"
       ],
       "type": "mono"
     },
     "id": 1173704414,
-    "img_src": "https://cdn.tigertag.io/img?id=1173704414&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1173704414&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -143038,7 +143408,7 @@
       "color_g": 39,
       "color_r": 9,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -143053,15 +143423,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#0927EBFF",
+    "color": "#0927EB",
     "color_info": {
       "colors": [
-        "#0927EBFF"
+        "#0927EB"
       ],
       "type": "mono"
     },
     "id": 1185439539,
-    "img_src": "https://cdn.tigertag.io/img?id=1185439539&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1185439539&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -146523,6 +146893,43 @@
     "product_type": "Filament",
     "sku": "FF02003",
     "title": "Fiberon™ - Navy Blue 0.5kg"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 44,
+      "color_g": 52,
+      "color_r": 208,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#D0342CFF",
+    "color_info": {
+      "colors": [
+        "#D0342CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1222717766,
+    "img_src": "https://cdn.tigertag.io/img?id=1222717766&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-FOAMY-RED",
+    "title": "Filaflex Foamy - Red"
   },
   {
     "RFID_Data": {
@@ -154436,6 +154843,43 @@
     "product_type": "Filament",
     "sku": "PM70196",
     "title": "PolySmooth™ - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 240,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 45,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1296937576,
+    "img_src": "https://cdn.tigertag.io/img?id=1296937576&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-60A-WHITE",
+    "title": "Filaflex 60A - White"
   },
   {
     "RFID_Data": {
@@ -163317,6 +163761,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 4,
+      "color_g": 255,
+      "color_r": 207,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#CFFF04FF",
+    "color_info": {
+      "colors": [
+        "#CFFF04FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1370076601,
+    "img_src": "https://cdn.tigertag.io/img?id=1370076601&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-FLUOR",
+    "title": "Filaflex 82A - Fluor"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 177,
       "color_g": 199,
       "color_r": 0,
@@ -167227,7 +167708,7 @@
       "color_g": 114,
       "color_r": 0,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -167242,15 +167723,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#0072CEFF",
+    "color": "#0072CE",
     "color_info": {
       "colors": [
-        "#0072CEFF"
+        "#0072CE"
       ],
       "type": "mono"
     },
     "id": 1401953017,
-    "img_src": "https://cdn.tigertag.io/img?id=1401953017&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1401953017&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -172962,6 +173443,43 @@
     "product_type": "Filament",
     "sku": "700-001-0343",
     "title": "ABS+ - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 44,
+      "color_g": 52,
+      "color_r": 208,
+      "data1": 56,
+      "data2": 235,
+      "data3": 245,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#D0342CFF",
+    "color_info": {
+      "colors": [
+        "#D0342CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1447589418,
+    "img_src": "https://cdn.tigertag.io/img?id=1447589418&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-70A-RED",
+    "title": "Filaflex 70A - Red"
   },
   {
     "RFID_Data": {
@@ -181310,6 +181828,43 @@
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 240,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 45,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1514339393,
+    "img_src": "https://cdn.tigertag.io/img?id=1514339393&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-60A-BLACK",
+    "title": "Filaflex 60A - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
       "data1": 221,
       "data2": 220,
       "data3": 270,
@@ -181562,6 +182117,43 @@
     "product_type": "Filament",
     "sku": "",
     "title": "TPU 95A - Jet Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 166,
+      "color_g": 183,
+      "color_r": 196,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#C4B7A6FF",
+    "color_info": {
+      "colors": [
+        "#C4B7A6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1516278924,
+    "img_src": "",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-PURIFIER-MINERAL",
+    "title": "Filaflex Purifier - Mineral"
   },
   {
     "RFID_Data": {
@@ -206233,6 +206825,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 214,
+      "color_g": 234,
+      "color_r": 240,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#F0EAD6FF",
+    "color_info": {
+      "colors": [
+        "#F0EAD6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1735857988,
+    "img_src": "https://cdn.tigertag.io/img?id=1735857988&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-FOAMY-NATURAL",
+    "title": "Filaflex Foamy - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -219828,6 +220457,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 50,
+      "color_g": 125,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#2E7D32FF",
+    "color_info": {
+      "colors": [
+        "#2E7D32FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1855198559,
+    "img_src": "https://cdn.tigertag.io/img?id=1855198559&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-GREEN",
+    "title": "Filaflex 82A - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 230,
       "color_g": 230,
       "color_r": 230,
@@ -220728,7 +221394,7 @@
       "color_g": 177,
       "color_r": 0,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -220743,15 +221409,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#00B141FF",
+    "color": "#00B141",
     "color_info": {
       "colors": [
-        "#00B141FF"
+        "#00B141"
       ],
       "type": "mono"
     },
     "id": 1862079839,
-    "img_src": "https://cdn.tigertag.io/img?id=1862079839&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1862079839&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -221480,7 +222146,7 @@
       "color_g": 248,
       "color_r": 253,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -221495,15 +222161,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FDF8EFFF",
+    "color": "#FDF8EF",
     "color_info": {
       "colors": [
-        "#FDF8EFFF"
+        "#FDF8EF"
       ],
       "type": "mono"
     },
     "id": 1868414004,
-    "img_src": "https://cdn.tigertag.io/img?id=1868414004&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1868414004&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -227306,7 +227972,7 @@
       "color_g": 51,
       "color_r": 154,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -227321,15 +227987,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#9A3324FF",
+    "color": "#9A3324",
     "color_info": {
       "colors": [
-        "#9A3324FF"
+        "#9A3324"
       ],
       "type": "mono"
     },
     "id": 1917596759,
-    "img_src": "https://cdn.tigertag.io/img?id=1917596759&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1917596759&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -227631,6 +228297,43 @@
     "product_type": "Filament",
     "sku": "PC1002032",
     "title": "Panchroma™ PLA Refill - Matte Pastel Coral"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 44,
+      "color_g": 52,
+      "color_r": 208,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#D0342CFF",
+    "color_info": {
+      "colors": [
+        "#D0342CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1921838765,
+    "img_src": "https://cdn.tigertag.io/img?id=1921838765&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-95FOAMY-RED",
+    "title": "Filaflex 95 Foamy - Red"
   },
   {
     "RFID_Data": {
@@ -228091,7 +228794,7 @@
       "color_g": 40,
       "color_r": 40,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -228106,15 +228809,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#282828FF",
+    "color": "#282828",
     "color_info": {
       "colors": [
-        "#282828FF"
+        "#282828"
       ],
       "type": "mono"
     },
     "id": 1925323920,
-    "img_src": "https://cdn.tigertag.io/img?id=1925323920&v=5",
+    "img_src": "https://cdn.tigertag.io/img?id=1925323920&v=6",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -229835,6 +230538,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 204,
+      "color_g": 102,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#0066CCFF",
+    "color_info": {
+      "colors": [
+        "#0066CCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1944457210,
+    "img_src": "https://cdn.tigertag.io/img?id=1944457210&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-BLUEFG",
+    "title": "Filaflex 82A - Blue Food Grade"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 33,
       "color_g": 67,
       "color_r": 101,
@@ -229876,7 +230616,7 @@
       "color_g": 108,
       "color_r": 255,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -229891,15 +230631,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FF6CDFFF",
+    "color": "#FF6CDF",
     "color_info": {
       "colors": [
-        "#FF6CDFFF"
+        "#FF6CDF"
       ],
       "type": "mono"
     },
     "id": 1945119963,
-    "img_src": "https://cdn.tigertag.io/img?id=1945119963&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1945119963&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -233244,14 +233984,14 @@
       "color_g": 244,
       "color_r": 253,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
       "data6": 40,
       "data7": 60,
       "id_aspect1": 134,
-      "id_aspect2": 134,
+      "id_aspect2": null,
       "id_brand": 19961,
       "id_material": 38219,
       "id_type": 142,
@@ -233259,15 +233999,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FDF4E3FF",
+    "color": "#FDF4E3",
     "color_info": {
       "colors": [
-        "#FDF4E3FF"
+        "#FDF4E3"
       ],
       "type": "mono"
     },
     "id": 1971605512,
-    "img_src": "https://cdn.tigertag.io/img?id=1971605512&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1971605512&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -235102,7 +235842,7 @@
       "color_g": 119,
       "color_r": 163,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -235117,15 +235857,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#A37762FF",
+    "color": "#A37762",
     "color_info": {
       "colors": [
-        "#A37762FF"
+        "#A37762"
       ],
       "type": "mono"
     },
     "id": 1989049970,
-    "img_src": "https://cdn.tigertag.io/img?id=1989049970&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1989049970&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -236767,6 +237507,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 245,
+      "data3": 260,
+      "data4": 65,
+      "data5": 3,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 24115,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 600
+    },
+    "brand": "Recreus",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2002390479,
+    "img_src": "https://cdn.tigertag.io/img?id=2002390479&v=1",
+    "material": "SEBS",
+    "measure": "600 g",
+    "product_type": "Filament",
+    "sku": "RCR-SEBS-BLACK",
+    "title": "Filaflex SEBS - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_g": 30,
       "color_r": 196,
@@ -237557,7 +238334,7 @@
       "color_g": 218,
       "color_r": 250,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -237572,15 +238349,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FADA5EFF",
+    "color": "#FADA5E",
     "color_info": {
       "colors": [
-        "#FADA5EFF"
+        "#FADA5E"
       ],
       "type": "mono"
     },
     "id": 2010014098,
-    "img_src": "https://cdn.tigertag.io/img?id=2010014098&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2010014098&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -243538,7 +244315,7 @@
       "color_g": 83,
       "color_r": 75,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -243553,15 +244330,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#4B5349FF",
+    "color": "#4B5349",
     "color_info": {
       "colors": [
-        "#4B5349FF"
+        "#4B5349"
       ],
       "type": "mono"
     },
     "id": 2054806373,
-    "img_src": "https://cdn.tigertag.io/img?id=2054806373&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2054806373&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -244800,6 +245577,43 @@
     "product_type": "Filament",
     "sku": "PLA175500G027",
     "title": "PLA - Orange pastel"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 183,
+      "color_g": 87,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#0057B7FF",
+    "color_info": {
+      "colors": [
+        "#0057B7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2064402745,
+    "img_src": "https://cdn.tigertag.io/img?id=2064402745&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-95A-BLUE",
+    "title": "Filaflex 95A - Blue"
   },
   {
     "RFID_Data": {
@@ -264285,7 +265099,7 @@
       "color_g": 135,
       "color_r": 161,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -264300,15 +265114,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#A1876FFF",
+    "color": "#A1876F",
     "color_info": {
       "colors": [
-        "#A1876FFF"
+        "#A1876F"
       ],
       "type": "mono"
     },
     "id": 2222556359,
-    "img_src": "https://cdn.tigertag.io/img?id=2222556359&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2222556359&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -265428,6 +266242,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 109,
+      "color_g": 0,
+      "color_r": 213,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#D5006DFF",
+    "color_info": {
+      "colors": [
+        "#D5006DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2234036948,
+    "img_src": "https://cdn.tigertag.io/img?id=2234036948&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-MAGENTA",
+    "title": "Filaflex 82A - Magenta"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 116,
       "color_g": 159,
       "color_r": 122,
@@ -265613,6 +266464,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 242,
+      "color_g": 242,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 235,
+      "data3": 245,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#F2F2F2FF",
+    "color_info": {
+      "colors": [
+        "#F2F2F2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2236147132,
+    "img_src": "https://cdn.tigertag.io/img?id=2236147132&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-70A-TRANSPARENT",
+    "title": "Filaflex 70A - Transparent"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 204,
       "color_g": 204,
       "color_r": 204,
@@ -265654,7 +266542,7 @@
       "color_g": 255,
       "color_r": 73,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -265669,15 +266557,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#49FF00FF",
+    "color": "#49FF00",
     "color_info": {
       "colors": [
-        "#49FF00FF"
+        "#49FF00"
       ],
       "type": "mono"
     },
     "id": 2236780418,
-    "img_src": "https://cdn.tigertag.io/img?id=2236780418&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2236780418&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -280164,6 +281052,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 189,
+      "color_g": 96,
+      "color_r": 21,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#1560BDFF",
+    "color_info": {
+      "colors": [
+        "#1560BDFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2358750313,
+    "img_src": "https://cdn.tigertag.io/img?id=2358750313&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-FOAMY-DENIM",
+    "title": "Filaflex Foamy - Denim"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 82,
       "color_g": 51,
       "color_r": 23,
@@ -280393,7 +281318,7 @@
       "color_r": 245,
       "color_r2": 30,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -280408,16 +281333,16 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#F5FBE5FF",
+    "color": "#F5FBE5",
     "color_info": {
       "colors": [
-        "#F5FBE5FF",
-        "#1E8AB9FF"
+        "#F5FBE5",
+        "#1E8AB9"
       ],
       "type": "multi"
     },
     "id": 2361454824,
-    "img_src": "https://cdn.tigertag.io/img?id=2361454824&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2361454824&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -280842,7 +281767,7 @@
       "color_g": 93,
       "color_r": 87,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -280857,15 +281782,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#575D5EFF",
+    "color": "#575D5E",
     "color_info": {
       "colors": [
-        "#575D5EFF"
+        "#575D5E"
       ],
       "type": "mono"
     },
     "id": 2370239768,
-    "img_src": "https://cdn.tigertag.io/img?id=2370239768&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2370239768&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -282569,7 +283494,7 @@
       "color_g": 250,
       "color_r": 250,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -282584,15 +283509,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FAFAFAFF",
+    "color": "#FAFAFA",
     "color_info": {
       "colors": [
-        "#FAFAFAFF"
+        "#FAFAFA"
       ],
       "type": "mono"
     },
     "id": 2387724303,
-    "img_src": "https://cdn.tigertag.io/img?id=2387724303&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2387724303&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -287766,6 +288691,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 4,
+      "color_g": 255,
+      "color_r": 207,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#CFFF04FF",
+    "color_info": {
+      "colors": [
+        "#CFFF04FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2432251499,
+    "img_src": "https://cdn.tigertag.io/img?id=2432251499&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-95A-FLUOR",
+    "title": "Filaflex 95A - Fluor"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 51,
       "color_g": 115,
       "color_r": 184,
@@ -288662,7 +289624,7 @@
       "color_g": 186,
       "color_r": 255,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -288677,15 +289639,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FFBA84FF",
+    "color": "#FFBA84",
     "color_info": {
       "colors": [
-        "#FFBA84FF"
+        "#FFBA84"
       ],
       "type": "mono"
     },
     "id": 2439569299,
-    "img_src": "https://cdn.tigertag.io/img?id=2439569299&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2439569299&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -293426,7 +294388,7 @@
       "color_g": 191,
       "color_r": 0,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -293441,15 +294403,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#00BFFFFF",
+    "color": "#00BFFF",
     "color_info": {
       "colors": [
-        "#00BFFFFF"
+        "#00BFFF"
       ],
       "type": "mono"
     },
     "id": 2479514239,
-    "img_src": "https://cdn.tigertag.io/img?id=2479514239&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2479514239&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -294581,7 +295543,7 @@
       "color_g": 67,
       "color_r": 255,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -294596,15 +295558,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FF4337FF",
+    "color": "#FF4337",
     "color_info": {
       "colors": [
-        "#FF4337FF"
+        "#FF4337"
       ],
       "type": "mono"
     },
     "id": 2490861705,
-    "img_src": "https://cdn.tigertag.io/img?id=2490861705&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2490861705&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -301290,6 +302252,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2552059655,
+    "img_src": "https://cdn.tigertag.io/img?id=2552059655&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-95FOAMY-BLACK",
+    "title": "Filaflex 95 Foamy - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 197,
       "color_g": 87,
       "color_r": 36,
@@ -307331,7 +308330,7 @@
       "color_g": 6,
       "color_r": 204,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -307346,15 +308345,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#CC0605FF",
+    "color": "#CC0605",
     "color_info": {
       "colors": [
-        "#CC0605FF"
+        "#CC0605"
       ],
       "type": "mono"
     },
     "id": 2603230677,
-    "img_src": "https://cdn.tigertag.io/img?id=2603230677&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2603230677&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -307849,7 +308848,7 @@
       "color_g": 76,
       "color_r": 112,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -307864,15 +308863,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#704C13FF",
+    "color": "#704C13",
     "color_info": {
       "colors": [
-        "#704C13FF"
+        "#704C13"
       ],
       "type": "mono"
     },
     "id": 2607607413,
-    "img_src": "https://cdn.tigertag.io/img?id=2607607413&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2607607413&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -307993,6 +308992,43 @@
     "product_type": "Filament",
     "sku": "DLZ-JY-PETG-TO-1.1kg",
     "title": "Standard PETG - Transparent Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2608718791,
+    "img_src": "https://cdn.tigertag.io/img?id=2608718791&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-BLACK",
+    "title": "Filaflex 82A - Black"
   },
   {
     "RFID_Data": {
@@ -310097,7 +311133,7 @@
       "color_g": 143,
       "color_r": 44,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -310112,15 +311148,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#2C8FFAFF",
+    "color": "#2C8FFA",
     "color_info": {
       "colors": [
-        "#2C8FFAFF"
+        "#2C8FFA"
       ],
       "type": "mono"
     },
     "id": 2624845382,
-    "img_src": "https://cdn.tigertag.io/img?id=2624845382&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2624845382&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -311248,7 +312284,7 @@
       "color_g": 54,
       "color_r": 198,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -311263,15 +312299,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#C63678FF",
+    "color": "#C63678",
     "color_info": {
       "colors": [
-        "#C63678FF"
+        "#C63678"
       ],
       "type": "mono"
     },
     "id": 2634206660,
-    "img_src": "https://cdn.tigertag.io/img?id=2634206660&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2634206660&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -311610,6 +312646,43 @@
     "product_type": "Filament",
     "sku": "151704",
     "title": "PETG+ - Inland PETG+ Translucent Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 235,
+      "data3": 245,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2636423908,
+    "img_src": "https://cdn.tigertag.io/img?id=2636423908&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-70A-BLACK",
+    "title": "Filaflex 70A - Black"
   },
   {
     "RFID_Data": {
@@ -323082,6 +324155,43 @@
     "product_type": "Filament",
     "sku": "3301030072",
     "title": "Hyper PETG - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 74,
+      "color_g": 42,
+      "color_r": 27,
+      "data1": 56,
+      "data2": 235,
+      "data3": 245,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#1B2A4AFF",
+    "color_info": {
+      "colors": [
+        "#1B2A4AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2727865570,
+    "img_src": "https://cdn.tigertag.io/img?id=2727865570&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-70A-NAVYBLUE",
+    "title": "Filaflex 70A - Navy Blue"
   },
   {
     "RFID_Data": {
@@ -341358,7 +342468,7 @@
       "color_g": 177,
       "color_r": 0,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -341373,15 +342483,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#00B140FF",
+    "color": "#00B140",
     "color_info": {
       "colors": [
-        "#00B140FF"
+        "#00B140"
       ],
       "type": "mono"
     },
     "id": 2881965839,
-    "img_src": "https://cdn.tigertag.io/img?id=2881965839&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=2881965839&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -342575,6 +343685,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 55,
+      "color_g": 175,
+      "color_r": 212,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#D4AF37FF",
+    "color_info": {
+      "colors": [
+        "#D4AF37FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2892219333,
+    "img_src": "https://cdn.tigertag.io/img?id=2892219333&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-GOLD",
+    "title": "Filaflex 82A - Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -343023,7 +344170,7 @@
       "color_g": 46,
       "color_r": 96,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -343038,15 +344185,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#602E9EFF",
+    "color": "#602E9E",
     "color_info": {
       "colors": [
-        "#602E9EFF"
+        "#602E9E"
       ],
       "type": "mono"
     },
     "id": 2896859180,
-    "img_src": "https://cdn.tigertag.io/img?id=2896859180&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2896859180&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -352388,7 +353535,7 @@
       "color_g": 235,
       "color_r": 246,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -352403,15 +353550,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#F6EB61FF",
+    "color": "#F6EB61",
     "color_info": {
       "colors": [
-        "#F6EB61FF"
+        "#F6EB61"
       ],
       "type": "mono"
     },
     "id": 2973571712,
-    "img_src": "https://cdn.tigertag.io/img?id=2973571712&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=2973571712&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -354283,6 +355430,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2989267005,
+    "img_src": "https://cdn.tigertag.io/img?id=2989267005&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-GREY",
+    "title": "Filaflex 82A - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 202,
       "color_g": 201,
       "color_r": 199,
@@ -355553,6 +356737,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 183,
+      "color_g": 87,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#0057B7FF",
+    "color_info": {
+      "colors": [
+        "#0057B7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3002972854,
+    "img_src": "https://cdn.tigertag.io/img?id=3002972854&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-BLUE",
+    "title": "Filaflex 82A - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 180,
       "color_g": 64,
       "color_r": 33,
@@ -355980,7 +357201,7 @@
       "color_g": 241,
       "color_r": 253,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -355995,15 +357216,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FDF1D4FF",
+    "color": "#FDF1D4",
     "color_info": {
       "colors": [
-        "#FDF1D4FF"
+        "#FDF1D4"
       ],
       "type": "mono"
     },
     "id": 3009062739,
-    "img_src": "https://cdn.tigertag.io/img?id=3009062739&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3009062739&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -361237,6 +362458,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 50,
+      "color_g": 125,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#2E7D32FF",
+    "color_info": {
+      "colors": [
+        "#2E7D32FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3053851068,
+    "img_src": "https://cdn.tigertag.io/img?id=3053851068&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-95A-GREEN",
+    "title": "Filaflex 95A - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 142,
       "color_g": 45,
       "color_r": 72,
@@ -363687,7 +364945,7 @@
       "color_g": 177,
       "color_r": 163,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -363702,15 +364960,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#A3B193FF",
+    "color": "#A3B193",
     "color_info": {
       "colors": [
-        "#A3B193FF"
+        "#A3B193"
       ],
       "type": "mono"
     },
     "id": 3069971537,
-    "img_src": "https://cdn.tigertag.io/img?id=3069971537&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3069971537&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -367009,7 +368267,7 @@
       "color_r": 245,
       "color_r2": 68,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -367024,16 +368282,16 @@
       "measure": 500
     },
     "brand": "Rosa3D",
-    "color": "#F5FBE5FF",
+    "color": "#F5FBE5",
     "color_info": {
       "colors": [
-        "#F5FBE5FF",
-        "#44D62CFF"
+        "#F5FBE5",
+        "#44D62C"
       ],
       "type": "multi"
     },
     "id": 3095406960,
-    "img_src": "https://cdn.tigertag.io/img?id=3095406960&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3095406960&v=2",
     "material": "PLA",
     "measure": "500 g",
     "product_type": "Filament",
@@ -367113,6 +368371,43 @@
     "product_type": "Filament",
     "sku": "700-001-1728",
     "title": "PETG - Rose"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 242,
+      "color_g": 242,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#F2F2F2FF",
+    "color_info": {
+      "colors": [
+        "#F2F2F2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3095851678,
+    "img_src": "https://cdn.tigertag.io/img?id=3095851678&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-95A-TRANSPARENT",
+    "title": "Filaflex 95A - Transparent"
   },
   {
     "RFID_Data": {
@@ -370011,7 +371306,7 @@
       "color_g": 40,
       "color_r": 40,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -370026,15 +371321,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#282828FF",
+    "color": "#282828",
     "color_info": {
       "colors": [
-        "#282828FF"
+        "#282828"
       ],
       "type": "mono"
     },
     "id": 3118852424,
-    "img_src": "https://cdn.tigertag.io/img?id=3118852424&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3118852424&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -380187,7 +381482,7 @@
       "color_g": 214,
       "color_r": 245,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -380202,15 +381497,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#F5D6E2FF",
+    "color": "#F5D6E2",
     "color_info": {
       "colors": [
-        "#F5D6E2FF"
+        "#F5D6E2"
       ],
       "type": "mono"
     },
     "id": 3214439700,
-    "img_src": "https://cdn.tigertag.io/img?id=3214439700&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3214439700&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -382168,7 +383463,7 @@
       "color_g": 75,
       "color_r": 62,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -382183,15 +383478,15 @@
       "measure": 3000
     },
     "brand": "Rosa3D",
-    "color": "#3E4B3AFF",
+    "color": "#3E4B3A",
     "color_info": {
       "colors": [
-        "#3E4B3AFF"
+        "#3E4B3A"
       ],
       "type": "mono"
     },
     "id": 3230234068,
-    "img_src": "https://cdn.tigertag.io/img?id=3230234068&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3230234068&v=3",
     "material": "PLA",
     "measure": "3000 g",
     "product_type": "Filament",
@@ -386319,7 +387614,7 @@
       "color_g": 6,
       "color_r": 204,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -386334,15 +387629,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#CC0605FF",
+    "color": "#CC0605",
     "color_info": {
       "colors": [
-        "#CC0605FF"
+        "#CC0605"
       ],
       "type": "mono"
     },
     "id": 3267480024,
-    "img_src": "https://cdn.tigertag.io/img?id=3267480024&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=3267480024&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -393654,7 +394949,7 @@
       "color_g": 0,
       "color_r": 0,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -393669,20 +394964,57 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 3325142456,
-    "img_src": "https://cdn.tigertag.io/img?id=3325142456&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3325142456&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PWB-3D-F4962",
     "title": "PLA Starter - MEGAPACK 10x Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 235,
+      "data3": 245,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3325375012,
+    "img_src": "https://cdn.tigertag.io/img?id=3325375012&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-70A-WHITE",
+    "title": "Filaflex 70A - White"
   },
   {
     "RFID_Data": {
@@ -394995,7 +396327,7 @@
       "color_g": 215,
       "color_r": 215,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -395010,15 +396342,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#D7D7D7FF",
+    "color": "#D7D7D7",
     "color_info": {
       "colors": [
-        "#D7D7D7FF"
+        "#D7D7D7"
       ],
       "type": "mono"
     },
     "id": 3338653732,
-    "img_src": "https://cdn.tigertag.io/img?id=3338653732&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3338653732&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -398958,6 +400290,43 @@
     "product_type": "Filament",
     "sku": "EXT-DURAPROABS-BLUE-175-10KG",
     "title": "DuraPro ABS - blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3374369371,
+    "img_src": "https://cdn.tigertag.io/img?id=3374369371&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-RECIFLEX-BLACK",
+    "title": "Reciflex - Black"
   },
   {
     "RFID_Data": {
@@ -403562,7 +404931,7 @@
       "color_g": 246,
       "color_r": 246,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -403577,15 +404946,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#F6F6F6FF",
+    "color": "#F6F6F6",
     "color_info": {
       "colors": [
-        "#F6F6F6FF"
+        "#F6F6F6"
       ],
       "type": "mono"
     },
     "id": 3411728191,
-    "img_src": "https://cdn.tigertag.io/img?id=3411728191&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=3411728191&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -404964,11 +406333,48 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 189,
+      "color_g": 96,
+      "color_r": 21,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#1560BDFF",
+    "color_info": {
+      "colors": [
+        "#1560BDFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3424006307,
+    "img_src": "https://cdn.tigertag.io/img?id=3424006307&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-95FOAMY-DENIM",
+    "title": "Filaflex 95 Foamy - Denim"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 77,
       "color_g": 97,
       "color_r": 85,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -404983,15 +406389,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#55614DFF",
+    "color": "#55614D",
     "color_info": {
       "colors": [
-        "#55614DFF"
+        "#55614D"
       ],
       "type": "mono"
     },
     "id": 3424069731,
-    "img_src": "https://cdn.tigertag.io/img?id=3424069731&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3424069731&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -405301,7 +406707,7 @@
       "color_g": 0,
       "color_r": 198,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -405316,15 +406722,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#C6007EFF",
+    "color": "#C6007E",
     "color_info": {
       "colors": [
-        "#C6007EFF"
+        "#C6007E"
       ],
       "type": "mono"
     },
     "id": 3426152051,
-    "img_src": "https://cdn.tigertag.io/img?id=3426152051&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3426152051&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -408651,7 +410057,7 @@
       "color_g": 40,
       "color_r": 40,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -408666,15 +410072,15 @@
       "measure": 4500
     },
     "brand": "Rosa3D",
-    "color": "#282828FF",
+    "color": "#282828",
     "color_info": {
       "colors": [
-        "#282828FF"
+        "#282828"
       ],
       "type": "mono"
     },
     "id": 3453375179,
-    "img_src": "https://cdn.tigertag.io/img?id=3453375179&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3453375179&v=3",
     "material": "PLA",
     "measure": "4500 g",
     "product_type": "Filament",
@@ -411841,7 +413247,7 @@
       "color_g": 155,
       "color_r": 93,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -411856,15 +413262,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#5D9BBDFF",
+    "color": "#5D9BBD",
     "color_info": {
       "colors": [
-        "#5D9BBDFF"
+        "#5D9BBD"
       ],
       "type": "mono"
     },
     "id": 3476280636,
-    "img_src": "https://cdn.tigertag.io/img?id=3476280636&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3476280636&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -413309,6 +414715,43 @@
     "product_type": "Filament",
     "sku": "PMX-PRO-SKINCOLOR",
     "title": "PLA+ PRO - PLA+ PRO Skin Color"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3489720273,
+    "img_src": "https://cdn.tigertag.io/img?id=3489720273&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-COND-BLACK",
+    "title": "Filaflex Conductivo - Black"
   },
   {
     "RFID_Data": {
@@ -415989,6 +417432,43 @@
     "product_type": "Filament",
     "sku": "W3DPLADARKBLUE1000",
     "title": "PLA Hyper - Midnight Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 214,
+      "color_g": 234,
+      "color_r": 240,
+      "data1": 56,
+      "data2": 245,
+      "data3": 260,
+      "data4": 65,
+      "data5": 3,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 24115,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 600
+    },
+    "brand": "Recreus",
+    "color": "#F0EAD6FF",
+    "color_info": {
+      "colors": [
+        "#F0EAD6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3511709757,
+    "img_src": "https://cdn.tigertag.io/img?id=3511709757&v=1",
+    "material": "SEBS",
+    "measure": "600 g",
+    "product_type": "Filament",
+    "sku": "RCR-SEBS-NATURAL",
+    "title": "Filaflex SEBS - Natural"
   },
   {
     "RFID_Data": {
@@ -422308,7 +423788,7 @@
       "color_g": 101,
       "color_r": 217,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -422323,15 +423803,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#D9654BFF",
+    "color": "#D9654B",
     "color_info": {
       "colors": [
-        "#D9654BFF"
+        "#D9654B"
       ],
       "type": "mono"
     },
     "id": 3564969752,
-    "img_src": "https://cdn.tigertag.io/img?id=3564969752&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3564969752&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -424413,6 +425893,43 @@
     "product_type": "Filament",
     "sku": "REFPETGANDROID1175",
     "title": "PETG - Android Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 158,
+      "color_g": 195,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#E8C39EFF",
+    "color_info": {
+      "colors": [
+        "#E8C39EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3585280620,
+    "img_src": "https://cdn.tigertag.io/img?id=3585280620&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-NUDE",
+    "title": "Filaflex 82A - Nude"
   },
   {
     "RFID_Data": {
@@ -431269,6 +432786,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 158,
+      "color_g": 195,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 235,
+      "data3": 245,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#E8C39EFF",
+    "color_info": {
+      "colors": [
+        "#E8C39EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3641845850,
+    "img_src": "https://cdn.tigertag.io/img?id=3641845850&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-70A-NUDE",
+    "title": "Filaflex 70A - Nude"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 74,
       "color_g": 51,
       "color_r": 40,
@@ -432243,7 +433797,7 @@
       "color_g": 247,
       "color_r": 250,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -432258,15 +433812,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FAF7E4FF",
+    "color": "#FAF7E4",
     "color_info": {
       "colors": [
-        "#FAF7E4FF"
+        "#FAF7E4"
       ],
       "type": "mono"
     },
     "id": 3649271867,
-    "img_src": "https://cdn.tigertag.io/img?id=3649271867&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3649271867&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -432511,7 +434065,7 @@
       "color_g": 248,
       "color_r": 253,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -432526,15 +434080,15 @@
       "measure": 3000
     },
     "brand": "Rosa3D",
-    "color": "#FDF8EFFF",
+    "color": "#FDF8EF",
     "color_info": {
       "colors": [
-        "#FDF8EFFF"
+        "#FDF8EF"
       ],
       "type": "mono"
     },
     "id": 3652064200,
-    "img_src": "https://cdn.tigertag.io/img?id=3652064200&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3652064200&v=3",
     "material": "PLA",
     "measure": "3000 g",
     "product_type": "Filament",
@@ -434780,7 +436334,7 @@
       "color_g": 40,
       "color_r": 40,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -434795,15 +436349,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#282828FF",
+    "color": "#282828",
     "color_info": {
       "colors": [
-        "#282828FF"
+        "#282828"
       ],
       "type": "mono"
     },
     "id": 3673572415,
-    "img_src": "https://cdn.tigertag.io/img?id=3673572415&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3673572415&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -438503,7 +440057,7 @@
       "color_r": 245,
       "color_r2": 68,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -438518,16 +440072,16 @@
       "measure": 500
     },
     "brand": "Rosa3D",
-    "color": "#F5FBE5FF",
+    "color": "#F5FBE5",
     "color_info": {
       "colors": [
-        "#F5FBE5FF",
-        "#44D62CFF"
+        "#F5FBE5",
+        "#44D62C"
       ],
       "type": "multi"
     },
     "id": 3715218449,
-    "img_src": "https://cdn.tigertag.io/img?id=3715218449&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3715218449&v=2",
     "material": "PLA",
     "measure": "500 g",
     "product_type": "Filament",
@@ -440214,7 +441768,7 @@
       "color_g": 114,
       "color_r": 122,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -440229,15 +441783,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#7A7267FF",
+    "color": "#7A7267",
     "color_info": {
       "colors": [
-        "#7A7267FF"
+        "#7A7267"
       ],
       "type": "mono"
     },
     "id": 3732257888,
-    "img_src": "https://cdn.tigertag.io/img?id=3732257888&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3732257888&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -441998,6 +443552,43 @@
     "product_type": "Filament",
     "sku": "632403",
     "title": "PLA Twinkling - Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3744802880,
+    "img_src": "https://cdn.tigertag.io/img?id=3744802880&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-FOAMY-BLACK",
+    "title": "Filaflex Foamy - Black"
   },
   {
     "RFID_Data": {
@@ -447367,6 +448958,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3789776719,
+    "img_src": "https://cdn.tigertag.io/img?id=3789776719&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-95A-BLACK",
+    "title": "Filaflex 95A - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 163,
       "color_g": 147,
       "color_r": 130,
@@ -450331,6 +451959,43 @@
     "product_type": "Filament",
     "sku": "8595632815006",
     "title": "Timberfill - Light Wood Tone"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3819653373,
+    "img_src": "https://cdn.tigertag.io/img?id=3819653373&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-WHITE",
+    "title": "Filaflex 82A - White"
   },
   {
     "RFID_Data": {
@@ -453755,6 +455420,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 169,
+      "color_g": 178,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#00B2A9FF",
+    "color_info": {
+      "colors": [
+        "#00B2A9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3853262118,
+    "img_src": "https://cdn.tigertag.io/img?id=3853262118&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-AQUA",
+    "title": "Filaflex 82A - Aqua"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 168,
       "color_g": 201,
       "color_r": 216,
@@ -456916,7 +458618,7 @@
       "color_g": 91,
       "color_r": 2,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -456931,15 +458633,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#025B4CFF",
+    "color": "#025B4C",
     "color_info": {
       "colors": [
-        "#025B4CFF"
+        "#025B4C"
       ],
       "type": "mono"
     },
     "id": 3883274474,
-    "img_src": "https://cdn.tigertag.io/img?id=3883274474&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3883274474&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -458396,6 +460098,43 @@
     "product_type": "Filament",
     "sku": "EXT-BIOFUSION-METALLICGREY-285",
     "title": "BioFusion - Metallic Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 158,
+      "color_g": 195,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#E8C39EFF",
+    "color_info": {
+      "colors": [
+        "#E8C39EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3897718852,
+    "img_src": "https://cdn.tigertag.io/img?id=3897718852&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-95FOAMY-NUDE",
+    "title": "Filaflex 95 Foamy - Nude"
   },
   {
     "RFID_Data": {
@@ -467584,7 +469323,7 @@
       "color_g": 0,
       "color_r": 206,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -467599,15 +469338,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#CE0058FF",
+    "color": "#CE0058",
     "color_info": {
       "colors": [
-        "#CE0058FF"
+        "#CE0058"
       ],
       "type": "mono"
     },
     "id": 3970259717,
-    "img_src": "https://cdn.tigertag.io/img?id=3970259717&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=3970259717&v=5",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -473784,7 +475523,7 @@
       "color_g": 40,
       "color_r": 40,
       "data1": 56,
-      "data2": 190,
+      "data2": 230,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -473799,15 +475538,15 @@
       "measure": 3000
     },
     "brand": "Rosa3D",
-    "color": "#282828FF",
+    "color": "#282828",
     "color_info": {
       "colors": [
-        "#282828FF"
+        "#282828"
       ],
       "type": "mono"
     },
     "id": 4022898389,
-    "img_src": "https://cdn.tigertag.io/img?id=4022898389&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4022898389&v=3",
     "material": "PLA",
     "measure": "3000 g",
     "product_type": "Filament",
@@ -475182,6 +476921,43 @@
     "product_type": "Filament",
     "sku": "5905991401377",
     "title": "PLA Premium High Speed - Telegrey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 158,
+      "color_g": 195,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 230,
+      "data3": 240,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 45,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#E8C39EFF",
+    "color_info": {
+      "colors": [
+        "#E8C39EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4039423950,
+    "img_src": "https://cdn.tigertag.io/img?id=4039423950&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-60A-NUDE",
+    "title": "Filaflex 60A - Nude"
   },
   {
     "RFID_Data": {
@@ -479424,7 +481200,7 @@
       "color_g": 186,
       "color_r": 189,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -479439,15 +481215,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#BDBAB6FF",
+    "color": "#BDBAB6",
     "color_info": {
       "colors": [
-        "#BDBAB6FF"
+        "#BDBAB6"
       ],
       "type": "mono"
     },
     "id": 4068491271,
-    "img_src": "https://cdn.tigertag.io/img?id=4068491271&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4068491271&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -481245,7 +483021,7 @@
       "color_g": 163,
       "color_r": 0,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -481260,15 +483036,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#00A3E0FF",
+    "color": "#00A3E0",
     "color_info": {
       "colors": [
-        "#00A3E0FF"
+        "#00A3E0"
       ],
       "type": "mono"
     },
     "id": 4084711470,
-    "img_src": "https://cdn.tigertag.io/img?id=4084711470&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=4084711470&v=5",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -482655,6 +484431,43 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLASILK-BROWN-175-3KG",
     "title": "THE K5 PLA Silk - Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 33,
+      "color_g": 106,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#F26A21FF",
+    "color_info": {
+      "colors": [
+        "#F26A21FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4091793154,
+    "img_src": "https://cdn.tigertag.io/img?id=4091793154&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-ORANGE",
+    "title": "Filaflex 82A - Orange"
   },
   {
     "RFID_Data": {
@@ -485117,7 +486930,7 @@
       "color_g": 163,
       "color_r": 0,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -485132,15 +486945,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#00A3E0FF",
+    "color": "#00A3E0",
     "color_info": {
       "colors": [
-        "#00A3E0FF"
+        "#00A3E0"
       ],
       "type": "mono"
     },
     "id": 4111085421,
-    "img_src": "https://cdn.tigertag.io/img?id=4111085421&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=4111085421&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -487210,6 +489023,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 158,
+      "color_g": 195,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#E8C39EFF",
+    "color_info": {
+      "colors": [
+        "#E8C39EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4125973173,
+    "img_src": "https://cdn.tigertag.io/img?id=4125973173&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-95A-NUDE",
+    "title": "Filaflex 95A - Nude"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 252,
       "color_g": 229,
       "color_r": 179,
@@ -487510,7 +489360,7 @@
       "color_g": 32,
       "color_r": 180,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -487525,15 +489375,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#B42041FF",
+    "color": "#B42041",
     "color_info": {
       "colors": [
-        "#B42041FF"
+        "#B42041"
       ],
       "type": "mono"
     },
     "id": 4129802853,
-    "img_src": "https://cdn.tigertag.io/img?id=4129802853&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4129802853&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -491818,6 +493668,43 @@
     "product_type": "Filament",
     "sku": "3DTPUGR",
     "title": "TPU Basic - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 158,
+      "color_g": 195,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#E8C39EFF",
+    "color_info": {
+      "colors": [
+        "#E8C39EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4174358648,
+    "img_src": "https://cdn.tigertag.io/img?id=4174358648&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-FOAMY-NUDE",
+    "title": "Filaflex Foamy - Nude"
   },
   {
     "RFID_Data": {
@@ -496658,7 +498545,7 @@
       "color_g": 94,
       "color_r": 247,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -496673,15 +498560,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#F75E25FF",
+    "color": "#F75E25",
     "color_info": {
       "colors": [
-        "#F75E25FF"
+        "#F75E25"
       ],
       "type": "mono"
     },
     "id": 4212314342,
-    "img_src": "https://cdn.tigertag.io/img?id=4212314342&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4212314342&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -497579,6 +499466,43 @@
     "product_type": "Filament",
     "sku": "REFPLAROSEFUNKY",
     "title": "INGEO 4043D - Rose Funky"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 33,
+      "color_g": 106,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "brand": "Recreus",
+    "color": "#F26A21FF",
+    "color_info": {
+      "colors": [
+        "#F26A21FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4220718785,
+    "img_src": "https://cdn.tigertag.io/img?id=4220718785&v=1",
+    "material": "TPU",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "RCR-95FOAMY-ORANGE",
+    "title": "Filaflex 95 Foamy - Orange"
   },
   {
     "RFID_Data": {
@@ -499783,6 +501707,43 @@
     "product_type": "Filament",
     "sku": "5903175651365",
     "title": "WOOD - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 35,
+      "color_g": 68,
+      "color_r": 107,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "brand": "Recreus",
+    "color": "#6B4423FF",
+    "color_info": {
+      "colors": [
+        "#6B4423FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4237522127,
+    "img_src": "https://cdn.tigertag.io/img?id=4237522127&v=1",
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "RCR-82A-BROWN",
+    "title": "Filaflex 82A - Brown"
   },
   {
     "RFID_Data": {
@@ -503495,7 +505456,7 @@
       "color_g": 250,
       "color_r": 250,
       "data1": 56,
-      "data2": 190,
+      "data2": 220,
       "data3": 250,
       "data4": 50,
       "data5": 4,
@@ -503510,15 +505471,15 @@
       "measure": 1000
     },
     "brand": "Rosa3D",
-    "color": "#FAFAFAFF",
+    "color": "#FAFAFA",
     "color_info": {
       "colors": [
-        "#FAFAFAFF"
+        "#FAFAFA"
       ],
       "type": "mono"
     },
     "id": 4271727108,
-    "img_src": "https://cdn.tigertag.io/img?id=4271727108&v=4",
+    "img_src": "https://cdn.tigertag.io/img?id=4271727108&v=5",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
