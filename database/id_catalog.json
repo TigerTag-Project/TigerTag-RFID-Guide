@@ -284456,6 +284456,43 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 251,
+      "color_g": 251,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 70,
+      "data5": 6,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Rosa3D",
+    "color": "#F5FBFB",
+    "color_info": {
+      "colors": [
+        "#F5FBFB"
+      ],
+      "type": "mono"
+    },
+    "id": 2348971284,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F4348",
+    "title": "PET-G HT - Winter White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 34,
       "color_g": 34,
       "color_r": 178,
@@ -513621,6 +513658,43 @@
     "product_type": "Filament",
     "sku": "3WYJBPETGPP2KG-N",
     "title": "PETG Gradient - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 70,
+      "data5": 6,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "brand": "Rosa3D",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 4264887451,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F4349",
+    "title": "PET-G HT - Black"
   },
   {
     "RFID_Data": {
