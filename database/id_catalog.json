@@ -1066,6 +1066,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 260,
+      "data3": 290,
+      "data4": 70,
+      "data5": 4,
+      "data6": 110,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 3368,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753139061",
+    "brand": "Rosa3D",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 9234645,
+    "img_src": null,
+    "material": "PC-ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5045",
+    "title": "PC-ABS - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 23,
       "color_g": 24,
       "color_r": 22,
@@ -1328,6 +1366,44 @@
     "product_type": "Filament",
     "sku": "T02-K0-1.75-750-spl",
     "title": "PPS-CF - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 71,
+      "color_g": 179,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#FFB347FF",
+    "color_info": {
+      "colors": [
+        "#FFB347FF"
+      ],
+      "type": "mono"
+    },
+    "id": 14969596,
+    "img_src": "https://www.filforme.com/336-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-pastel-orange-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-POR-175-1000",
+    "title": "PLA+ HS - Pastel Orange"
   },
   {
     "RFID_Data": {
@@ -1972,7 +2048,7 @@
       "type": "mono"
     },
     "id": 20236919,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=20236919&v=1",
     "material": "ABS",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -5372,6 +5448,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 46828502,
+    "img_src": "https://www.filforme.com/108-large_default/filaments-petg-hs-high-speed-175mm-bleu-eclat-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-BEC-175-1000",
+    "title": "PETG HS - Sparkle Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 128,
       "color_g": 128,
       "color_r": 128,
@@ -8416,6 +8530,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 169,
+      "color_g": 169,
+      "color_r": 169,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#A9A9A9FF",
+    "color_info": {
+      "colors": [
+        "#A9A9A9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 71166596,
+    "img_src": "https://www.filforme.com/344-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-aluminiuim-moleculaire-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-ALM-175-1000",
+    "title": "PLA+ HS - Molecular Aluminum"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 222,
       "color_g": 13,
       "color_r": 211,
@@ -9014,10 +9166,10 @@
     },
     "barcode": "6974868568955",
     "brand": "R3D",
-    "color": "#80151B",
+    "color": "#80151BFF",
     "color_info": {
       "colors": [
-        "#80151B"
+        "#80151BFF"
       ],
       "type": "mono"
     },
@@ -11054,6 +11206,44 @@
     "product_type": "Filament",
     "sku": "5903175659941",
     "title": "PLA Nature - Algae Nori"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 28,
+      "color_g": 28,
+      "color_r": 28,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#1C1C1CFF",
+    "color_info": {
+      "colors": [
+        "#1C1C1CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 87641893,
+    "img_src": "https://www.filforme.com/354-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-filaments-pla-noir-nebula-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-NNB-175-1000",
+    "title": "PLA+ HS - Nebula Black"
   },
   {
     "RFID_Data": {
@@ -14342,6 +14532,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#F5F5F5FF",
+    "color_info": {
+      "colors": [
+        "#F5F5F5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 110673040,
+    "img_src": "https://www.filforme.com/78-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-blanc-albus-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-WHT-175-1000",
+    "title": "PLA+ HS - Albus White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 156,
       "color_g": 90,
       "color_r": 0,
@@ -16232,10 +16460,10 @@
     },
     "barcode": "6974868568870",
     "brand": "R3D",
-    "color": "#DAC842",
+    "color": "#DAC842FF",
     "color_info": {
       "colors": [
-        "#DAC842"
+        "#DAC842FF"
       ],
       "type": "mono"
     },
@@ -22337,6 +22565,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 180404744,
+    "img_src": "https://www.filforme.com/117-large_default/filaments-petg-hs-high-speed-175mm-jaune-galbinus-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-GAL-175-1000",
+    "title": "PETG HS - Galbinus Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -24161,6 +24427,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 194853101,
+    "img_src": "https://www.filforme.com/101-large_default/filaments-petg-hs-high-speed-175mm-couleur-noir-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-BLK-175-1000",
+    "title": "PETG HS - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 44,
       "color_g": 214,
       "color_r": 68,
@@ -24537,6 +24841,44 @@
     "product_type": "Filament",
     "sku": "34016",
     "title": "ABS - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 198480854,
+    "img_src": "https://www.filforme.com/112-large_default/filaments-petg-hs-high-speed-175mm-dor%C3%A9-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-GLD-175-1000",
+    "title": "PETG HS - Gold"
   },
   {
     "RFID_Data": {
@@ -31570,7 +31912,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-PUR-175-900",
-    "title": "ASA - ASA Pure"
+    "title": "ASA - Pure"
   },
   {
     "RFID_Data": {
@@ -32563,6 +32905,44 @@
     "product_type": "Filament",
     "sku": "PA20008",
     "title": "PLA - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 255892993,
+    "img_src": "https://www.filforme.com/137-large_default/filaments-petg-hs-high-speed-175mm-aerogray-7031-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-AG7-175-1000",
+    "title": "PETG HS - Aerogray 7031"
   },
   {
     "RFID_Data": {
@@ -35911,6 +36291,44 @@
     "product_type": "Filament",
     "sku": "700-001-0426",
     "title": "PLA - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 160,
+      "color_g": 112,
+      "color_r": 200,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#C870A0FF",
+    "color_info": {
+      "colors": [
+        "#C870A0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 279454050,
+    "img_src": "https://cdn.tigertag.io/img?id=279454050&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-FNB-175-1000",
+    "title": "PLA+ HS - Nebula Fuchsia"
   },
   {
     "RFID_Data": {
@@ -53425,7 +53843,7 @@
       "type": "mono"
     },
     "id": 414379943,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=414379943&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -55975,10 +56393,10 @@
     },
     "barcode": "6974868568948",
     "brand": "R3D",
-    "color": "#7EFBB9",
+    "color": "#7EFBB9FF",
     "color_info": {
       "colors": [
-        "#7EFBB9"
+        "#7EFBB9FF"
       ],
       "type": "mono"
     },
@@ -59730,6 +60148,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 467450389,
+    "img_src": "https://www.filforme.com/363-large_default/filaments-petg-hs-high-speed-175mm-astra-blu-galaxy-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-ABG-175-1000",
+    "title": "PETG HS - Astra Blue Galaxy"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 172,
       "color_g": 162,
       "color_r": 162,
@@ -60568,7 +61024,7 @@
       "type": "mono"
     },
     "id": 473060081,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=473060081&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -60650,6 +61106,44 @@
     "product_type": "Filament",
     "sku": "",
     "title": "Buddy3D PLA - Silk Rose"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 192,
+      "color_g": 97,
+      "color_r": 108,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#6C61C0",
+    "color_info": {
+      "colors": [
+        "#6C61C0"
+      ],
+      "type": "mono"
+    },
+    "id": 473795345,
+    "img_src": "https://cdn.tigertag.io/img?id=473795345&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-VIN-175-1000",
+    "title": "PLA+ HS - Violet-Blue"
   },
   {
     "RFID_Data": {
@@ -61372,6 +61866,44 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU77D-RED-175-3KG",
     "title": "THE K8 TPU 77D - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 215,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#FFD700FF",
+    "color_info": {
+      "colors": [
+        "#FFD700FF"
+      ],
+      "type": "mono"
+    },
+    "id": 479624681,
+    "img_src": "https://www.filforme.com/75-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-jaune-galbinus-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-GAL-175-1000",
+    "title": "PLA+ HS - Galbinus Yellow"
   },
   {
     "RFID_Data": {
@@ -76943,7 +77475,7 @@
       "type": "mono"
     },
     "id": 595176103,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=595176103&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -79972,6 +80504,44 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 225,
+      "color_g": 177,
+      "color_r": 195,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#C3B1E1FF",
+    "color_info": {
+      "colors": [
+        "#C3B1E1FF"
+      ],
+      "type": "mono"
+    },
+    "id": 619542666,
+    "img_src": "https://www.filforme.com/342-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-violet-pastel-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-VPA-175-1000",
+    "title": "PLA+ HS - Pastel Violet"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 225,
       "color_g": 216,
       "color_r": 163,
       "data1": 56,
@@ -80005,6 +80575,44 @@
     "product_type": "Filament",
     "sku": "A01-B4-1.75-1000-splfree",
     "title": "PLA Matte - Ice Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 231,
+      "color_g": 239,
+      "color_r": 239,
+      "data1": 56,
+      "data2": 260,
+      "data3": 290,
+      "data4": 70,
+      "data5": 4,
+      "data6": 110,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 3368,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753138811",
+    "brand": "Rosa3D",
+    "color": "#EFEFE7FF",
+    "color_info": {
+      "colors": [
+        "#EFEFE7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 620386100,
+    "img_src": null,
+    "material": "PC-ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F4996",
+    "title": "PC-ABS - Natural Ivory"
   },
   {
     "RFID_Data": {
@@ -86365,10 +86973,10 @@
     },
     "barcode": "6974868568856",
     "brand": "R3D",
-    "color": "#101115",
+    "color": "#101115FF",
     "color_info": {
       "colors": [
-        "#101115"
+        "#101115FF"
       ],
       "type": "mono"
     },
@@ -91531,10 +92139,10 @@
     },
     "barcode": "6974868568863",
     "brand": "R3D",
-    "color": "#626A77",
+    "color": "#626A77FF",
     "color_info": {
       "colors": [
-        "#626A77"
+        "#626A77FF"
       ],
       "type": "mono"
     },
@@ -94122,6 +94730,44 @@
     "product_type": "Filament",
     "sku": "PLAPRO-MET-COPPER-1000-175",
     "title": "PLA PRO Metal - Copper"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 208,
+      "color_g": 184,
+      "color_r": 116,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#74B8D0FF",
+    "color_info": {
+      "colors": [
+        "#74B8D0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 727832400,
+    "img_src": "https://cdn.tigertag.io/img?id=727832400&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-BCA-175-1000",
+    "title": "PLA+ HS - Sky blue"
   },
   {
     "RFID_Data": {
@@ -103128,6 +103774,44 @@
     "product_type": "Filament",
     "sku": "PA04002",
     "title": "PolyTerra™ - Muted White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 111,
+      "color_g": 111,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#FF6F6FFF",
+    "color_info": {
+      "colors": [
+        "#FF6F6FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 804074357,
+    "img_src": "https://www.filforme.com/348-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-filaments-pla-cristal-rouge-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-CRG-175-1000",
+    "title": "PLA+ HS - Crystal Red"
   },
   {
     "RFID_Data": {
@@ -114689,6 +115373,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 160,
+      "color_g": 170,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#D2AAA0",
+    "color_info": {
+      "colors": [
+        "#D2AAA0"
+      ],
+      "type": "mono"
+    },
+    "id": 904369133,
+    "img_src": "https://cdn.tigertag.io/img?id=904369133&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-RVN-175-1000",
+    "title": "PLA+ HS - Venus Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 58,
       "color_g": 113,
       "color_r": 255,
@@ -115827,7 +116549,7 @@
       "type": "mono"
     },
     "id": 914390125,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=914390125&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -127240,6 +127962,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 231,
+      "color_g": 199,
+      "color_r": 167,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#A7C7E7FF",
+    "color_info": {
+      "colors": [
+        "#A7C7E7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1002024812,
+    "img_src": "https://www.filforme.com/332-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-ciel-pastel-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-CPA-175-1000",
+    "title": "PLA+ HS - Pastel Sky"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -132821,7 +133581,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-ANB-175-900",
-    "title": "ASA - ASA Anthracite Nebula"
+    "title": "ASA - Anthracite Nebula"
   },
   {
     "RFID_Data": {
@@ -144515,10 +145275,10 @@
     },
     "barcode": "6974868568917",
     "brand": "R3D",
-    "color": "#513A88",
+    "color": "#513A88FF",
     "color_info": {
       "colors": [
-        "#513A88"
+        "#513A88FF"
       ],
       "type": "mono"
     },
@@ -146685,10 +147445,10 @@
     },
     "barcode": "6931677308707",
     "brand": "R3D",
-    "color": "#212226",
+    "color": "#212226FF",
     "color_info": {
       "colors": [
-        "#212226"
+        "#212226FF"
       ],
       "type": "mono"
     },
@@ -149644,7 +150404,7 @@
       "type": "mono"
     },
     "id": 1175371226,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=1175371226&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -151169,7 +151929,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-VNB-175-900",
-    "title": "ASA - ASA Violet Nebula"
+    "title": "ASA - Violet Nebula"
   },
   {
     "RFID_Data": {
@@ -151232,10 +151992,10 @@
     },
     "barcode": "6974868568900",
     "brand": "R3D",
-    "color": "#F4C180",
+    "color": "#F4C180FF",
     "color_info": {
       "colors": [
-        "#F4C180"
+        "#F4C180FF"
       ],
       "type": "mono"
     },
@@ -151316,7 +152076,7 @@
       "type": "mono"
     },
     "id": 1188331066,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=1188331066&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -151626,6 +152386,44 @@
     "product_type": "Filament",
     "sku": "700-001-0350",
     "title": "ABS+ - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 150,
+      "color_g": 253,
+      "color_r": 253,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#FDFD96FF",
+    "color_info": {
+      "colors": [
+        "#FDFD96FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1191153007,
+    "img_src": "https://www.filforme.com/334-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-pastel-jaune-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-PJA-175-1000",
+    "title": "PLA+ HS - Pastel Yellow"
   },
   {
     "RFID_Data": {
@@ -152812,6 +153610,44 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAPRO-SCHELERGREEN-285-1KG",
     "title": "THE K5 PLA PRO - Scheler Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 144,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#1E90FFFF",
+    "color_info": {
+      "colors": [
+        "#1E90FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1202526395,
+    "img_src": "https://www.filforme.com/82-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-bleu-eclat-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-BEC-175-1000",
+    "title": "PLA+ HS - Sparkle Blue"
   },
   {
     "RFID_Data": {
@@ -161725,10 +162561,10 @@
     },
     "barcode": "6974868569006",
     "brand": "R3D",
-    "color": "#0A4853",
+    "color": "#0A4853FF",
     "color_info": {
       "colors": [
-        "#0A4853"
+        "#0A4853FF"
       ],
       "type": "mono"
     },
@@ -164916,6 +165752,44 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU64D-NAVYBLUE-175-3KG",
     "title": "THE K8 TPU 64D - Navy Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 13,
+      "color_g": 13,
+      "color_r": 13,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#0D0D0DFF",
+    "color_info": {
+      "colors": [
+        "#0D0D0DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1307903039,
+    "img_src": "https://www.filforme.com/369-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-filaments-noir-intense-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-NIN-175-1000",
+    "title": "PLA+ HS - Intense Black"
   },
   {
     "RFID_Data": {
@@ -173039,6 +173913,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 96,
+      "color_g": 124,
+      "color_r": 131,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#837C60FF",
+    "color_info": {
+      "colors": [
+        "#837C60FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1374326429,
+    "img_src": "https://cdn.tigertag.io/img?id=1374326429&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-KCM-175-1000",
+    "title": "PLA+ HS - Khaki Camo"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 176,
       "color_g": 138,
       "color_r": 232,
@@ -174867,6 +175779,44 @@
     "product_type": "Filament",
     "sku": "B0105001",
     "title": "PLA Marble - White Marble"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1390797649,
+    "img_src": "https://www.filforme.com/89-large_default/filaments-petg-hs-high-speed-175mm-couleur-blanc-albus-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-WHT-175-1000",
+    "title": "PETG HS - Albus White"
   },
   {
     "RFID_Data": {
@@ -184668,6 +185618,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 185,
+      "color_g": 218,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#FFDAB9FF",
+    "color_info": {
+      "colors": [
+        "#FFDAB9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1464012629,
+    "img_src": "https://www.filforme.com/358-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-filaments-pla-skin-ton-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-SKN-175-1000",
+    "title": "PLA+ HS - Skin Tone"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 77,
       "color_g": 75,
       "color_r": 67,
@@ -185008,7 +185996,7 @@
       "type": "mono"
     },
     "id": 1466180286,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=1466180286&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -185038,10 +186026,10 @@
     },
     "barcode": "6974868568986",
     "brand": "R3D",
-    "color": "#522F2D",
+    "color": "#522F2DFF",
     "color_info": {
       "colors": [
-        "#522F2D"
+        "#522F2DFF"
       ],
       "type": "mono"
     },
@@ -188319,10 +189307,10 @@
     },
     "barcode": "6974868569013",
     "brand": "R3D",
-    "color": "#9CADBF",
+    "color": "#9CADBFFF",
     "color_info": {
       "colors": [
-        "#9CADBF"
+        "#9CADBFFF"
       ],
       "type": "mono"
     },
@@ -191455,7 +192443,7 @@
       "type": "mono"
     },
     "id": 1516165860,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=1516165860&v=1",
     "material": "ABS",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -198248,6 +199236,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1569032275,
+    "img_src": "https://www.filforme.com/71-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-noir-wave-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-NWV-175-1000",
+    "title": "PLA+ HS - Wave Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 38,
       "color_g": 34,
       "color_r": 33,
@@ -203248,7 +204274,7 @@
       "type": "mono"
     },
     "id": 1612178773,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=1612178773&v=1",
     "material": "ABS",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -203561,7 +204587,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-GRY-175-900",
-    "title": "ASA - ASA Grey Temeo"
+    "title": "ASA - Grey Temeo"
   },
   {
     "RFID_Data": {
@@ -205196,6 +206222,44 @@
     "product_type": "Filament",
     "sku": "EXT-BIOFUSION-EPICPURPLE-175",
     "title": "BioFusion - Epic Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 220,
+      "color_g": 209,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#FFD1DCFF",
+    "color_info": {
+      "colors": [
+        "#FFD1DCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1628059214,
+    "img_src": "https://www.filforme.com/338-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-pastel-rose-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-PRS-175-1000",
+    "title": "PLA+ HS - Pastel Pink"
   },
   {
     "RFID_Data": {
@@ -223966,6 +225030,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 96,
+      "color_g": 148,
+      "color_r": 113,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#719460FF",
+    "color_info": {
+      "colors": [
+        "#719460FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1789188800,
+    "img_src": "https://cdn.tigertag.io/img?id=1789188800&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-CMV-175-1000",
+    "title": "PLA+ HS - Green Camo"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 41,
       "color_g": 32,
       "color_r": 206,
@@ -224214,10 +225316,10 @@
     },
     "barcode": "6974868569051",
     "brand": "R3D",
-    "color": "#FE7A00",
+    "color": "#FE7A00FF",
     "color_info": {
       "colors": [
-        "#FE7A00"
+        "#FE7A00FF"
       ],
       "type": "mono"
     },
@@ -233119,6 +234221,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1865026621,
+    "img_src": "https://www.filforme.com/144-large_default/filaments-petg-hs-high-speed-175mm-marbre-de-carrare-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-MDC-175-1000",
+    "title": "PETG HS - Carrara Marble"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 128,
       "color_g": 128,
       "color_r": 128,
@@ -234998,6 +236138,44 @@
     "product_type": "Filament",
     "sku": "3S-PETG.E-RED-100-175",
     "title": "Easy PETG - Fiberlogy Easy PETG Red (1kg)"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 144,
+      "color_g": 238,
+      "color_r": 144,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#90EE90FF",
+    "color_info": {
+      "colors": [
+        "#90EE90FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1878892770,
+    "img_src": "https://www.filforme.com/350-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-filaments-pla-cristal-vert-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-CGV-175-1000",
+    "title": "PLA+ HS - Crystal Green"
   },
   {
     "RFID_Data": {
@@ -240168,10 +241346,10 @@
     },
     "barcode": "6974868568894",
     "brand": "R3D",
-    "color": "#CEAC93",
+    "color": "#CEAC93FF",
     "color_info": {
       "colors": [
-        "#CEAC93"
+        "#CEAC93FF"
       ],
       "type": "mono"
     },
@@ -241711,6 +242889,44 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABS-WHITE-285-5KG",
     "title": "THE K5 ABS - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 34,
+      "color_r": 178,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#B22222FF",
+    "color_info": {
+      "colors": [
+        "#B22222FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1936392722,
+    "img_src": "https://www.filforme.com/51-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-rouge-rubrum-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-RRB-175-1000",
+    "title": "PLA+ HS - Rubrum Red"
   },
   {
     "RFID_Data": {
@@ -244265,6 +245481,44 @@
     "product_type": "Filament",
     "sku": "376034597037",
     "title": "Flexibles - TPU 70D Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1960259544,
+    "img_src": "https://www.filforme.com/132-large_default/filaments-petg-hs-high-speed-175mm-aluminium-nebula-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-ALN-175-1000",
+    "title": "PETG HS - Aluminium Nebula"
   },
   {
     "RFID_Data": {
@@ -250053,7 +251307,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-WHT-175-900",
-    "title": "ASA - ASA White Albus"
+    "title": "ASA - White Albus"
   },
   {
     "RFID_Data": {
@@ -253659,10 +254913,10 @@
     },
     "barcode": "6974868569044",
     "brand": "R3D",
-    "color": "#E4C0CC",
+    "color": "#E4C0CCFF",
     "color_info": {
       "colors": [
-        "#E4C0CC"
+        "#E4C0CCFF"
       ],
       "type": "mono"
     },
@@ -258411,7 +259665,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-ALN-175-900",
-    "title": "ASA - ASA Aluminium Nebula"
+    "title": "ASA - Aluminium Nebula"
   },
   {
     "RFID_Data": {
@@ -260058,6 +261312,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2080037109,
+    "img_src": "https://www.filforme.com/128-large_default/filaments-petg-hs-high-speed-175mm-vert-spes-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-VSP-175-1000",
+    "title": "PETG HS - Spes Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 134,
       "color_g": 243,
       "color_r": 238,
@@ -260472,6 +261764,44 @@
     "product_type": "Filament",
     "sku": "CA02048",
     "title": "Panchroma™ PLA Refill - Starlight Neptune"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2085673489,
+    "img_src": "https://www.filforme.com/365-large_default/filaments-petg-hs-high-speed-175mm-couleur-orange-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-ORG-175-1000",
+    "title": "PETG HS - Orange"
   },
   {
     "RFID_Data": {
@@ -260932,10 +262262,10 @@
     },
     "barcode": "6974868568887",
     "brand": "R3D",
-    "color": "#0BB36D",
+    "color": "#0BB36DFF",
     "color_info": {
       "colors": [
-        "#0BB36D"
+        "#0BB36DFF"
       ],
       "type": "mono"
     },
@@ -265286,6 +266616,44 @@
     "product_type": "Filament",
     "sku": "PLA1751KG062",
     "title": "PLA - Orange Fluo"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2123343370,
+    "img_src": "https://www.filforme.com/141-large_default/filaments-petg-hs-high-speed-175mm-cabinblue-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-CAB-175-1000",
+    "title": "PETG HS - Cabin Blue"
   },
   {
     "RFID_Data": {
@@ -282829,6 +284197,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 39382,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Longer",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2258452743,
+    "img_src": "https://cdn.tigertag.io/img?id=2258452743&v=1",
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "LONGER-TPU-GREY",
+    "title": "TPU - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 46,
       "color_g": 16,
       "color_r": 200,
@@ -290732,7 +292138,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-RNB-175-900",
-    "title": "ASA - ASA Red Nebula"
+    "title": "ASA - Red Nebula"
   },
   {
     "RFID_Data": {
@@ -297858,10 +299264,10 @@
     },
     "barcode": "6974868569037",
     "brand": "R3D",
-    "color": "#8042B8",
+    "color": "#8042B8FF",
     "color_info": {
       "colors": [
-        "#8042B8"
+        "#8042B8FF"
       ],
       "type": "mono"
     },
@@ -305311,6 +306717,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 230,
+      "color_g": 216,
+      "color_r": 173,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#ADD8E6FF",
+    "color_info": {
+      "colors": [
+        "#ADD8E6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2445063522,
+    "img_src": "https://www.filforme.com/346-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-cristal-bleu-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-CBL-175-1000",
+    "title": "PLA+ HS - Crystal Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 247,
       "color_g": 247,
       "color_r": 247,
@@ -305673,10 +307117,10 @@
     },
     "barcode": "6974868568924",
     "brand": "R3D",
-    "color": "#70BAE1",
+    "color": "#70BAE1FF",
     "color_info": {
       "colors": [
-        "#70BAE1"
+        "#70BAE1FF"
       ],
       "type": "mono"
     },
@@ -310087,7 +311531,7 @@
       "type": "mono"
     },
     "id": 2482533278,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=2482533278&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -317256,6 +318700,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 112,
+      "color_g": 120,
+      "color_r": 173,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#AD7870FF",
+    "color_info": {
+      "colors": [
+        "#AD7870FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2546043840,
+    "img_src": "https://cdn.tigertag.io/img?id=2546043840&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-MCA-175-1000",
+    "title": "PLA+ HS - Chestnut Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 168,
       "color_g": 142,
       "color_r": 232,
@@ -320913,10 +322395,10 @@
     },
     "barcode": "6931677308684",
     "brand": "R3D",
-    "color": "#FCFCFC",
+    "color": "#FCFCFCFF",
     "color_info": {
       "colors": [
-        "#FCFCFC"
+        "#FCFCFCFF"
       ],
       "type": "mono"
     },
@@ -321459,6 +322941,44 @@
     "product_type": "Filament",
     "sku": "PM70824",
     "title": "PolyTerra™ - Fossil Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 192,
+      "color_g": 192,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 260,
+      "data3": 290,
+      "data4": 70,
+      "data5": 4,
+      "data6": 110,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 3368,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753139078",
+    "brand": "Rosa3D",
+    "color": "#C0C0C0",
+    "color_info": {
+      "colors": [
+        "#C0C0C0"
+      ],
+      "type": "mono"
+    },
+    "id": 2580052483,
+    "img_src": null,
+    "material": "PC-ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5046",
+    "title": "PC-ABS - Light Gray"
   },
   {
     "RFID_Data": {
@@ -353599,7 +355119,7 @@
       "type": "mono"
     },
     "id": 2826105221,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=2826105221&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -366861,6 +368381,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2937878623,
+    "img_src": "https://www.filforme.com/93-large_default/filaments-petg-hs-high-speed-175mm-couleur-cristal-clair-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-CLR-175-1000",
+    "title": "PETG HS - Crystal Clear"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 161,
       "color_g": 240,
       "color_r": 242,
@@ -379409,6 +380967,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 208,
+      "color_g": 224,
+      "color_r": 64,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#40E0D0FF",
+    "color_info": {
+      "colors": [
+        "#40E0D0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3040932707,
+    "img_src": "https://www.filforme.com/66-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-turquoise-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-TUR-175-1000",
+    "title": "PLA+ HS - Turquoise"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 200,
       "color_g": 200,
       "color_r": 200,
@@ -381341,10 +382937,10 @@
     },
     "barcode": "6974868569020",
     "brand": "R3D",
-    "color": "#482D8E",
+    "color": "#482D8EFF",
     "color_info": {
       "colors": [
-        "#482D8E"
+        "#482D8EFF"
       ],
       "type": "mono"
     },
@@ -384212,7 +385808,7 @@
       "type": "mono"
     },
     "id": 3071250755,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=3071250755&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -400279,6 +401875,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 112,
+      "color_g": 172,
+      "color_r": 203,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#CBAC70FF",
+    "color_info": {
+      "colors": [
+        "#CBAC70FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3203168377,
+    "img_src": "https://cdn.tigertag.io/img?id=3203168377&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-GLD-175-1000",
+    "title": "PLA+ HS - Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 56,
       "color_g": 21,
       "color_r": 138,
@@ -400616,7 +402250,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-FVN-175-900",
-    "title": "ASA - ASA Fluo Green Nebula"
+    "title": "ASA - Fluo Green Nebula"
   },
   {
     "RFID_Data": {
@@ -405437,6 +407071,44 @@
     "product_type": "Filament",
     "sku": "PM70907",
     "title": "PolyTerra™ - Earth Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 139,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#228B22FF",
+    "color_info": {
+      "colors": [
+        "#228B22FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3246201071,
+    "img_src": "https://www.filforme.com/62-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-vert-spes-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-VSP-175-1000",
+    "title": "PLA+ HS - Spes Green"
   },
   {
     "RFID_Data": {
@@ -411433,10 +413105,10 @@
     },
     "barcode": "6974868568993",
     "brand": "R3D",
-    "color": "#1E8044",
+    "color": "#1E8044FF",
     "color_info": {
       "colors": [
-        "#1E8044"
+        "#1E8044FF"
       ],
       "type": "mono"
     },
@@ -414943,6 +416615,44 @@
     "product_type": "Filament",
     "sku": "3301010512",
     "title": "Soleyin PLA Matte - Blanc"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3318604530,
+    "img_src": "https://www.filforme.com/59-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-gris-temeo-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-GRY-175-1000",
+    "title": "PLA+ HS - Temeo Grey"
   },
   {
     "RFID_Data": {
@@ -423711,6 +425421,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 91,
+      "color_g": 114,
+      "color_r": 226,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#E2725BFF",
+    "color_info": {
+      "colors": [
+        "#E2725BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3391993109,
+    "img_src": "https://www.filforme.com/86-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-terre-cuite-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-TER-175-1000",
+    "title": "PLA+ HS - Terracotta"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 28,
       "color_g": 18,
       "color_r": 18,
@@ -425479,10 +427227,10 @@
     },
     "barcode": "6974868568979",
     "brand": "R3D",
-    "color": "#ED8045",
+    "color": "#ED8045FF",
     "color_info": {
       "colors": [
-        "#ED8045"
+        "#ED8045FF"
       ],
       "type": "mono"
     },
@@ -435742,6 +437490,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 165,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#FFA500FF",
+    "color_info": {
+      "colors": [
+        "#FFA500FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3485526169,
+    "img_src": "https://cdn.tigertag.io/img?id=3485526169&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-ORG-175-1000",
+    "title": "PLA+ HS - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 41,
       "color_g": 41,
       "color_r": 41,
@@ -441998,7 +443784,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-BLK-175-900",
-    "title": "ASA - ASA Black"
+    "title": "ASA - Black"
   },
   {
     "RFID_Data": {
@@ -442379,6 +444165,44 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU90A-TRANSPARENTWHITE-285-1KG",
     "title": "THE K8 TPU 90A - Transparent White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3535489117,
+    "img_src": "https://www.filforme.com/96-large_default/filaments-petg-hs-high-speed-175mm-couleur-gris-temeo-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-GRY-175-1000",
+    "title": "PETG HS - Temeo Grey"
   },
   {
     "RFID_Data": {
@@ -447415,6 +449239,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 64,
+      "color_g": 57,
+      "color_r": 144,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#903940FF",
+    "color_info": {
+      "colors": [
+        "#903940FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3577732425,
+    "img_src": "https://cdn.tigertag.io/img?id=3577732425&v=1",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-PRI-175-1000",
+    "title": "PLA+ HS - Intense Plum"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 237,
       "color_g": 229,
       "color_r": 221,
@@ -451267,7 +453129,7 @@
       "type": "mono"
     },
     "id": 3611923957,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=3611923957&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -454539,19 +456401,19 @@
     },
     "barcode": null,
     "brand": "Filforme",
-    "color": "#F6F6F6FF",
+    "color": "#F6F6F6",
     "color_info": {
       "colors": [
-        "#F6F6F6FF"
+        "#F6F6F6"
       ],
       "type": "mono"
     },
     "id": 3635375558,
-    "img_src": "https://cdn.tigertag.io/img?id=3635375558&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=3635375558&v=4",
     "material": "ABS",
     "measure": "900 g",
     "product_type": "Filament",
-    "sku": "FF-ABS-ALN-175-900",
+    "sku": "FF-ABS-WHT-175-900",
     "title": "ABS - White Albus"
   },
   {
@@ -466564,7 +468426,7 @@
       "type": "mono"
     },
     "id": 3744317033,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=3744317033&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -467026,6 +468888,44 @@
     "product_type": "Filament",
     "sku": "S3D-PLA-S-SNW-WHT",
     "title": "PLA - Snow White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 144,
+      "color_g": 160,
+      "color_r": 186,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#BAA090FF",
+    "color_info": {
+      "colors": [
+        "#BAA090FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3747781208,
+    "img_src": "https://cdn.tigertag.io/img?id=3747781208&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-WOD-175-1000",
+    "title": "PLA+ HS - Fil-Wood"
   },
   {
     "RFID_Data": {
@@ -472653,6 +474553,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 39382,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Longer",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3792113015,
+    "img_src": "https://cdn.tigertag.io/img?id=3792113015&v=1",
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "LONGER-TPU-BLACK",
+    "title": "TPU - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 245,
       "color_g": 243,
       "color_r": 239,
@@ -473113,6 +475051,44 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAPRO-BURGUNDYRED-285-3KG",
     "title": "THE K5 PLA PRO - Burgundy Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3795812805,
+    "img_src": "https://www.filforme.com/121-large_default/filaments-petg-hs-high-speed-175mm-noir-nebula-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-NNB-175-1000",
+    "title": "PETG HS - Nebula Black"
   },
   {
     "RFID_Data": {
@@ -474523,6 +476499,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3811649558,
+    "img_src": "https://www.filforme.com/125-large_default/filaments-petg-hs-high-speed-175mm-turquoise-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-TUR-175-1000",
+    "title": "PETG HS - Turquoise"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 141,
       "color_g": 163,
       "color_r": 168,
@@ -475013,6 +477027,44 @@
     "product_type": "Filament",
     "sku": "3301010462",
     "title": "Hyper PLA RFID - Peach Fuzz"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 39382,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Longer",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3816247567,
+    "img_src": "https://cdn.tigertag.io/img?id=3816247567&v=1",
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "LONGER-TPU-TRANSPARENT",
+    "title": "TPU - Transparent"
   },
   {
     "RFID_Data": {
@@ -475697,6 +477749,44 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLACC-UVBLUE-175-1KG",
     "title": "The K5 PLA CC - UV Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3823003765,
+    "img_src": "https://www.filforme.com/105-large_default/filaments-petg-hs-high-speed-175mm-aluminium-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-ALU-175-1000",
+    "title": "PETG HS - Aluminium"
   },
   {
     "RFID_Data": {
@@ -481881,6 +483971,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 39382,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Longer",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3878900841,
+    "img_src": "https://cdn.tigertag.io/img?id=3878900841&v=1",
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "LONGER-TPU-WHITE",
+    "title": "TPU - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 106,
       "color_g": 149,
       "color_r": 200,
@@ -484771,7 +486899,7 @@
       "type": "mono"
     },
     "id": 3902556665,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=3902556665&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -485637,10 +487765,10 @@
     },
     "barcode": "6974868569068",
     "brand": "R3D",
-    "color": "#459429",
+    "color": "#459429FF",
     "color_info": {
       "colors": [
-        "#459429"
+        "#459429FF"
       ],
       "type": "mono"
     },
@@ -490910,10 +493038,10 @@
     },
     "barcode": "6974868568962",
     "brand": "R3D",
-    "color": "#DC72BA",
+    "color": "#DC72BAFF",
     "color_info": {
       "colors": [
-        "#DC72BA"
+        "#DC72BAFF"
       ],
       "type": "mono"
     },
@@ -493088,10 +495216,10 @@
     },
     "barcode": "6974868568931",
     "brand": "R3D",
-    "color": "#0C0E5B",
+    "color": "#0C0E5BFF",
     "color_info": {
       "colors": [
-        "#0C0E5B"
+        "#0C0E5BFF"
       ],
       "type": "mono"
     },
@@ -499305,6 +501433,44 @@
     "product_type": "Filament",
     "sku": "W3DPLAMATTEMACAROONCORALORANGE1000",
     "title": "PLA Macaron - Coral Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4015698192,
+    "img_src": "https://www.filforme.com/367-large_default/filaments-petg-hs-high-speed-175mm-couleur-rouge-rubrum-1kg.jpg",
+    "material": "PETG",
+    "measure": "1 g",
+    "product_type": "Filament",
+    "sku": "FF-PETG-RRB-175-1000",
+    "title": "PETG HS - Rubrum Red"
   },
   {
     "RFID_Data": {
@@ -508227,7 +510393,7 @@
       "type": "mono"
     },
     "id": 4085017605,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=4085017605&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -511367,7 +513533,7 @@
       "type": "mono"
     },
     "id": 4105053984,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=4105053984&v=1",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -519578,10 +521744,10 @@
     },
     "barcode": "6974868568849",
     "brand": "R3D",
-    "color": "#FFFFFF",
+    "color": "#FFFFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFF"
+        "#FFFFFFFF"
       ],
       "type": "mono"
     },
@@ -519706,6 +521872,44 @@
     "product_type": "Filament",
     "sku": "KEX-K6ABSFR-BLACK-175-3KG",
     "title": "THE K6 ABS FR - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 226,
+      "color_g": 228,
+      "color_r": 229,
+      "data1": 56,
+      "data2": 195,
+      "data3": 200,
+      "data4": 50,
+      "data5": 8,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4700,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#E5E4E2FF",
+    "color_info": {
+      "colors": [
+        "#E5E4E2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4176576596,
+    "img_src": "https://www.filforme.com/352-large_default/filaments-pla-hs-hight-speed-175-mm-couleur-filaments-pla-marbre-de-carrare-1kg.jpg",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-MDC-175-1000",
+    "title": "PLA+ HS - Carrara Marble"
   },
   {
     "RFID_Data": {
@@ -526630,7 +528834,7 @@
     "measure": "900 g",
     "product_type": "Filament",
     "sku": "FF-ASA-BNB-175-900",
-    "title": "ASA - ASA Blue Nebula"
+    "title": "ASA - Blue Nebula"
   },
   {
     "RFID_Data": {
