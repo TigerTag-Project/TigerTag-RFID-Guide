@@ -453903,6 +453903,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_g": 77,
+      "color_r": 70,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753139146",
+    "brand": "Rosa3D",
+    "color": "#464D2F",
+    "color_info": {
+      "colors": [
+        "#464D2F"
+      ],
+      "type": "mono"
+    },
+    "id": 3617005718,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5088",
+    "title": "PET-G Standard HS - Army Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 122,
       "color_b2": 29,
       "color_g": 139,
