@@ -21290,7 +21290,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17008",
-    "title": "PLA - HT-Yellow"
+    "title": "HT-PLA - Yellow"
   },
   {
     "RFID_Data": {
@@ -58435,11 +58435,8 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 0,
-      "color_b2": 0,
       "color_g": 200,
-      "color_g2": 0,
       "color_r": 255,
-      "color_r2": 255,
       "data1": 56,
       "data2": 210,
       "data3": 230,
@@ -58460,8 +58457,7 @@
     "color": "#FFC800FF",
     "color_info": {
       "colors": [
-        "#FFC800FF",
-        "#FF0000FF"
+        "#FFC800FF"
       ],
       "type": "gradient"
     },
@@ -58471,7 +58467,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17014",
-    "title": "PLA - HT-Fire"
+    "title": "HT-PLA - Gradient Fire"
   },
   {
     "RFID_Data": {
@@ -59459,7 +59455,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17006",
-    "title": "PLA - HT-Green"
+    "title": "HT-PLA - Green"
   },
   {
     "RFID_Data": {
@@ -82426,7 +82422,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17007",
-    "title": "PLA - HT-Teal"
+    "title": "HT-PLA - Teal"
   },
   {
     "RFID_Data": {
@@ -184811,7 +184807,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17002",
-    "title": "PLA - HT-White"
+    "title": "HT-PLA - White"
   },
   {
     "RFID_Data": {
@@ -219344,7 +219340,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17004",
-    "title": "PLA - HT-Blue"
+    "title": "HT-PLA - Blue"
   },
   {
     "RFID_Data": {
@@ -237422,21 +237418,21 @@
       "id_unit": 21,
       "measure": 1000
     },
-    "barcode": "6938936710660",
+    "barcode": "6938936710677",
     "brand": "Polymaker",
-    "color": "#F0EBE8FF",
+    "color": "#F0EBE8",
     "color_info": {
       "colors": [
-        "#F0EBE8FF"
+        "#F0EBE8"
       ],
       "type": "mono"
     },
     "id": 1889741083,
-    "img_src": "https://cdn.tigertag.io/img?id=1889741083&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=1889741083&v=4",
     "material": "TPU",
     "measure": "1000 g",
     "product_type": "Filament",
-    "sku": "PD03001",
+    "sku": "PD03002",
     "title": "PolyFlex™ TPU95-HF - White"
   },
   {
@@ -267423,11 +267419,8 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 255,
-      "color_b2": 255,
       "color_g": 225,
-      "color_g2": 110,
       "color_r": 0,
-      "color_r2": 0,
       "data1": 56,
       "data2": 210,
       "data3": 230,
@@ -267448,8 +267441,7 @@
     "color": "#00E1FFFF",
     "color_info": {
       "colors": [
-        "#00E1FFFF",
-        "#006EFFFF"
+        "#00E1FFFF"
       ],
       "type": "gradient"
     },
@@ -267459,7 +267451,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17013",
-    "title": "PLA - HT-Ice"
+    "title": "HT-PLA - Gradient Ice"
   },
   {
     "RFID_Data": {
@@ -319303,7 +319295,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17009",
-    "title": "PLA - HT-Orange"
+    "title": "HT-PLA - Orange"
   },
   {
     "RFID_Data": {
@@ -360955,14 +360947,8 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 5,
-      "color_b2": 20,
-      "color_b3": 25,
       "color_g": 52,
-      "color_g2": 208,
-      "color_g3": 179,
       "color_r": 240,
-      "color_r2": 215,
-      "color_r3": 51,
       "data1": 56,
       "data2": 210,
       "data3": 230,
@@ -360983,9 +360969,7 @@
     "color": "#F03405FF",
     "color_info": {
       "colors": [
-        "#F03405FF",
-        "#D7D014FF",
-        "#33B319FF"
+        "#F03405FF"
       ],
       "type": "gradient"
     },
@@ -360995,7 +360979,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17011",
-    "title": "PLA - HT-Rainbow"
+    "title": "HT-PLA - Gradient Rainbow"
   },
   {
     "RFID_Data": {
@@ -436781,7 +436765,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17001",
-    "title": "PLA - HT-Black"
+    "title": "HT-PLA - Black"
   },
   {
     "RFID_Data": {
@@ -463613,14 +463597,8 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 5,
-      "color_b2": 20,
-      "color_b3": 25,
       "color_g": 52,
-      "color_g2": 208,
-      "color_g3": 179,
       "color_r": 240,
-      "color_r2": 215,
-      "color_r3": 51,
       "data1": 56,
       "data2": 210,
       "data3": 230,
@@ -463641,9 +463619,7 @@
     "color": "#F03405FF",
     "color_info": {
       "colors": [
-        "#F03405FF",
-        "#D7D014FF",
-        "#33B319FF"
+        "#F03405FF"
       ],
       "type": "gradient"
     },
@@ -463653,7 +463629,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17012",
-    "title": "PLA - HT-Tropical"
+    "title": "HT-PLA - Gradient Tropical"
   },
   {
     "RFID_Data": {
@@ -473940,7 +473916,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17010",
-    "title": "PLA - HT-Brown"
+    "title": "HT-PLA - Brown"
   },
   {
     "RFID_Data": {
@@ -501892,7 +501868,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17005",
-    "title": "PLA - HT-Red"
+    "title": "HT-PLA - Red"
   },
   {
     "RFID_Data": {
@@ -524085,7 +524061,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PA17003",
-    "title": "PLA - HT-Grey"
+    "title": "HT-PLA - Grey"
   },
   {
     "RFID_Data": {
