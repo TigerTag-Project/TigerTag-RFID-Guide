@@ -28442,8 +28442,8 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 19,
-      "color_g": 106,
+      "color_b": 22,
+      "color_g": 144,
       "color_r": 255,
       "data1": 56,
       "data2": 190,
@@ -28462,15 +28462,15 @@
     },
     "barcode": "6977252426954",
     "brand": "Bambu Lab",
-    "color": "#FF6A13FF",
+    "color": "#FF9016",
     "color_info": {
       "colors": [
-        "#FF6A13FF"
+        "#FF9016"
       ],
       "type": "mono"
     },
     "id": 226522221,
-    "img_src": "https://cdn.tigertag.io/img?id=226522221&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=226522221&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -49694,44 +49694,6 @@
     "product_type": "Filament",
     "sku": "34038",
     "title": "SnapSpeed PLA - Green"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 142,
-      "color_g": 53,
-      "color_r": 0,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 8,
-      "data6": 25,
-      "data7": 55,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 35123,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "barcode": "921083949111",
-    "brand": "Bambu Lab",
-    "color": "#00358EFF",
-    "color_info": {
-      "colors": [
-        "#00358EFF"
-      ],
-      "type": "mono"
-    },
-    "id": 383910286,
-    "img_src": "https://cdn.tigertag.io/img?id=383910286&v=1",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "A00-B9-1.75-1000-splfree",
-    "title": "PLA Basic - Blue"
   },
   {
     "RFID_Data": {
@@ -86683,9 +86645,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 31,
-      "color_g": 103,
-      "color_r": 255,
+      "color_b": 28,
+      "color_g": 0,
+      "color_r": 214,
       "data1": 56,
       "data2": 230,
       "data3": 270,
@@ -86703,15 +86665,15 @@
     },
     "barcode": "6937285509741",
     "brand": "Bambu Lab",
-    "color": "#FF671FFF",
+    "color": "#D6001C",
     "color_info": {
       "colors": [
-        "#FF671FFF"
+        "#D6001C"
       ],
       "type": "mono"
     },
     "id": 671324141,
-    "img_src": "https://cdn.tigertag.io/img?id=671324141&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=671324141&v=3",
     "material": "PETG",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -145821,44 +145783,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 139,
-      "color_g": 61,
-      "color_r": 72,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 8,
-      "data6": 25,
-      "data7": 55,
-      "id_aspect1": 64,
-      "id_aspect2": null,
-      "id_brand": 35123,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "barcode": "921072925229",
-    "brand": "Bambu Lab",
-    "color": "#483D8BFF",
-    "color_info": {
-      "colors": [
-        "#483D8BFF"
-      ],
-      "type": "mono"
-    },
-    "id": 1141505223,
-    "img_src": "https://cdn.tigertag.io/img?id=1141505223&v=2",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "A08-B7-1.75-1000-spl",
-    "title": "PLA Sparkle - Royal Purple"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 191,
       "color_g": 138,
       "color_r": 155,
@@ -153378,44 +153302,6 @@
     "product_type": "Filament",
     "sku": "PA13006",
     "title": "PLA - Yellow"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 116,
-      "color_g": 90,
-      "color_r": 245,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 8,
-      "data6": 25,
-      "data7": 55,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 35123,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "barcode": "921032457964",
-    "brand": "Bambu Lab",
-    "color": "#F55A74FF",
-    "color_info": {
-      "colors": [
-        "#F55A74FF"
-      ],
-      "type": "mono"
-    },
-    "id": 1199004136,
-    "img_src": "https://cdn.tigertag.io/img?id=1199004136&v=1",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "A00-P1-1.75-1000-splfree",
-    "title": "PLA Basic - Pink"
   },
   {
     "RFID_Data": {
@@ -218159,9 +218045,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 31,
-      "color_g": 103,
-      "color_r": 255,
+      "color_b": 28,
+      "color_g": 0,
+      "color_r": 214,
       "data1": 56,
       "data2": 230,
       "data3": 270,
@@ -218179,15 +218065,15 @@
     },
     "barcode": "6937285510143",
     "brand": "Bambu Lab",
-    "color": "#FF671FFF",
+    "color": "#D6001C",
     "color_info": {
       "colors": [
-        "#FF671FFF"
+        "#D6001C"
       ],
       "type": "mono"
     },
     "id": 1732852417,
-    "img_src": "https://cdn.tigertag.io/img?id=1732852417&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1732852417&v=2",
     "material": "PETG",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -371907,44 +371793,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 142,
-      "color_g": 57,
-      "color_r": 105,
-      "data1": 56,
-      "data2": 210,
-      "data3": 250,
-      "data4": 55,
-      "data5": 8,
-      "data6": 25,
-      "data7": 55,
-      "id_aspect1": 238,
-      "id_aspect2": null,
-      "id_brand": 35123,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "barcode": "921115333082",
-    "brand": "Bambu Lab",
-    "color": "#69398EFF",
-    "color_info": {
-      "colors": [
-        "#69398EFF"
-      ],
-      "type": "mono"
-    },
-    "id": 2961607212,
-    "img_src": "https://cdn.tigertag.io/img?id=2961607212&v=2",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "A50-P7-1.75-1000-spl",
-    "title": "PLA-CF - Iris Purple"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 0,
       "color_g": 144,
       "color_r": 209,
@@ -425629,44 +425477,6 @@
     "product_type": "Filament",
     "sku": "A00-G6-1.75-1000-spl",
     "title": "PLA Basic - Bambu Green"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 140,
-      "color_g": 0,
-      "color_r": 236,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 8,
-      "data6": 25,
-      "data7": 55,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 35123,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "barcode": "921177428107",
-    "brand": "Bambu Lab",
-    "color": "#EC008CFF",
-    "color_info": {
-      "colors": [
-        "#EC008CFF"
-      ],
-      "type": "mono"
-    },
-    "id": 3392762458,
-    "img_src": "https://cdn.tigertag.io/img?id=3392762458&v=1",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "A00-P6-1.75-1000-splfree",
-    "title": "PLA Basic - CMYK - Magenta"
   },
   {
     "RFID_Data": {
@@ -535782,8 +535592,8 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 19,
-      "color_g": 106,
+      "color_b": 22,
+      "color_g": 144,
       "color_r": 255,
       "data1": 56,
       "data2": 190,
@@ -535802,15 +535612,15 @@
     },
     "barcode": "6977252429085",
     "brand": "Bambu Lab",
-    "color": "#FF6A13FF",
+    "color": "#FF9016",
     "color_info": {
       "colors": [
-        "#FF6A13FF"
+        "#FF9016"
       ],
       "type": "mono"
     },
     "id": 4287406556,
-    "img_src": "https://cdn.tigertag.io/img?id=4287406556&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4287406556&v=2",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -536576,44 +536386,6 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAM-MATTEYELLOW-175-5KG",
     "title": "THE K5 PLA M - Matte Yellow"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 35,
-      "color_g": 30,
-      "color_r": 149,
-      "data1": 56,
-      "data2": 210,
-      "data3": 250,
-      "data4": 55,
-      "data5": 8,
-      "data6": 25,
-      "data7": 55,
-      "id_aspect1": 238,
-      "id_aspect2": null,
-      "id_brand": 35123,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "barcode": "921082526063",
-    "brand": "Bambu Lab",
-    "color": "#951E23FF",
-    "color_info": {
-      "colors": [
-        "#951E23FF"
-      ],
-      "type": "mono"
-    },
-    "id": 4293289520,
-    "img_src": "https://cdn.tigertag.io/img?id=4293289520&v=2",
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "A50-R4-1.75-1000-spl",
-    "title": "PLA-CF - Burgundy Red"
   },
   {
     "RFID_Data": {
