@@ -448615,6 +448615,48 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 207,
+      "color_b2": 255,
+      "color_g": 77,
+      "color_g2": 204,
+      "color_r": 255,
+      "color_r2": 0,
+      "data1": 56,
+      "data2": 205,
+      "data3": 235,
+      "data4": 50,
+      "data5": 4,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": 252,
+      "id_brand": 19961,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753139160",
+    "brand": "Rosa3D",
+    "color": "#FF4DCFFF",
+    "color_info": {
+      "colors": [
+        "#FF4DCFFF",
+        "#00CCFFFF"
+      ],
+      "type": "multi"
+    },
+    "id": 3573068353,
+    "img_src": null,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-FMD5089",
+    "title": "PLA Magic Silk - Light Blue + Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 255,
       "color_r": 255,
