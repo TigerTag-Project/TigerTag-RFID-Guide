@@ -416451,12 +416451,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 128,
-      "color_g": 128,
+      "color_b": 122,
+      "color_g": 125,
       "color_r": 128,
       "data1": 56,
       "data2": 195,
-      "data3": 200,
+      "data3": 220,
       "data4": 50,
       "data5": 8,
       "data6": 65,
@@ -416471,15 +416471,15 @@
     },
     "barcode": null,
     "brand": "Filforme",
-    "color": "#808080",
+    "color": "#807D7A",
     "color_info": {
       "colors": [
-        "#808080"
+        "#807D7A"
       ],
       "type": "mono"
     },
     "id": 3318604530,
-    "img_src": "https://cdn.tigertag.io/img?id=3318604530&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3318604530&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -494602,6 +494602,44 @@
     "product_type": "Filament",
     "sku": "660550",
     "title": "PLA Matte - Wood Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 239,
+      "color_g": 239,
+      "color_r": 241,
+      "data1": 56,
+      "data2": 195,
+      "data3": 220,
+      "data4": 55,
+      "data5": 4,
+      "data6": 65,
+      "data7": 70,
+      "id_aspect1": 21,
+      "id_aspect2": 67,
+      "id_brand": 4700,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Filforme",
+    "color": "#F1EFEF",
+    "color_info": {
+      "colors": [
+        "#F1EFEF"
+      ],
+      "type": "mono"
+    },
+    "id": 3962346412,
+    "img_src": "https://cdn.tigertag.io/img?id=3962346412&v=3",
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FF-PLA-TRL-175-1000",
+    "title": "PLA+ HS - Translucent"
   },
   {
     "RFID_Data": {
