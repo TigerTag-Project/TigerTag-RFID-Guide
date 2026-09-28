@@ -8340,6 +8340,48 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 55,
+      "color_b2": 192,
+      "color_g": 175,
+      "color_g2": 192,
+      "color_r": 212,
+      "color_r2": 192,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 252,
+      "id_brand": 26145,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#D4AF37FF",
+    "color_info": {
+      "colors": [
+        "#D4AF37FF",
+        "#C0C0C0FF"
+      ],
+      "type": "multi"
+    },
+    "id": 68129366,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-DUAL-SILK-PLA-GOLD-SILVER-v2.jpg",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-DSPLA-GOLDSILVER",
+    "title": "Dual-Silk PLA - Gold/Silver"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 63,
       "color_g": 143,
       "color_r": 184,
@@ -12084,6 +12126,52 @@
     "product_type": "Filament",
     "sku": "FORSHAPE-PETGPREMIUM-001",
     "title": "PETG Premium - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_b2": 40,
+      "color_b3": 55,
+      "color_g": 26,
+      "color_g2": 40,
+      "color_g3": 175,
+      "color_r": 26,
+      "color_r2": 198,
+      "color_r3": 212,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 24,
+      "id_brand": 26145,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#1A1A1AFF",
+    "color_info": {
+      "colors": [
+        "#1A1A1AFF",
+        "#C62828FF",
+        "#D4AF37FF"
+      ],
+      "type": "multi"
+    },
+    "id": 92837799,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-TRI-SILK-PLA-BLACK-RED-GOLD-v2.jpg",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-TSPLA-BLACKREDGOLD",
+    "title": "Tri-Silk PLA - Black/Red/Gold"
   },
   {
     "RFID_Data": {
@@ -118687,6 +118775,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 922555637,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-TPU-95A-HIGH-FLOW-GREY.jpg",
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UTPU95AHF-GREY",
+    "title": "Ultra TPU-95A High Flow - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 211,
       "color_g": 215,
       "color_r": 221,
@@ -180124,6 +180250,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 75,
+      "data7": 95,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#F5F5F5FF",
+    "color_info": {
+      "colors": [
+        "#F5F5F5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1415087964,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-ABS-HIGH-FLOW-WHITE.jpg",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UABSHF-WHITE",
+    "title": "Ultra ABS High Flow - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 46,
       "color_b2": 78,
       "color_b3": 143,
@@ -195118,6 +195282,48 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU75A-LAKEBLUE-175-3KG",
     "title": "THE K8 TPU 75A - Lake Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 40,
+      "color_b2": 194,
+      "color_g": 40,
+      "color_g2": 79,
+      "color_r": 198,
+      "color_r2": 30,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 252,
+      "id_brand": 26145,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#C62828FF",
+    "color_info": {
+      "colors": [
+        "#C62828FF",
+        "#1E4FC2FF"
+      ],
+      "type": "multi"
+    },
+    "id": 1527567036,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-DUAL-SILK-PLA-RED-BLUE-v2.jpg",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-DSPLA-REDBLUE",
+    "title": "Dual-Silk PLA - Red/Blue"
   },
   {
     "RFID_Data": {
@@ -214045,6 +214251,44 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABS-GRAYBLUE-285-5KG",
     "title": "THE K5 ABS - Gray Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 65,
+      "data7": 75,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 57469,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#FFFFFF33",
+    "color_info": {
+      "colors": [
+        "#FFFFFF33"
+      ],
+      "type": "mono"
+    },
+    "id": 1681969180,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-PETG-HIGH-FLOW-CLEAR.webp",
+    "material": "PETG HF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UPETGHF-CLEAR",
+    "title": "Ultra PETG High Flow - Clear"
   },
   {
     "RFID_Data": {
@@ -236965,6 +237209,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_g": 47,
+      "color_r": 211,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 75,
+      "data7": 95,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#D32F2FFF",
+    "color_info": {
+      "colors": [
+        "#D32F2FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1875111824,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-ABS-HIGH-FLOW-RED.webp",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UABSHF-RED",
+    "title": "Ultra ABS High Flow - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 145,
       "color_g": 125,
       "color_r": 78,
@@ -239562,6 +239844,44 @@
     "product_type": "Filament",
     "sku": "FPA6CF900175",
     "title": "PA6 Carbone - Noir"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 30,
+      "color_g": 135,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#E8871EFF",
+    "color_info": {
+      "colors": [
+        "#E8871EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1899066541,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-TPU-95A-HIGH-FLOW-ORANGE.jpg",
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UTPU95AHF-ORANGE",
+    "title": "Ultra TPU-95A High Flow - Orange"
   },
   {
     "RFID_Data": {
@@ -247939,6 +248259,44 @@
     "product_type": "Filament",
     "sku": "UM-PLA-YELLOW",
     "title": "PLA - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 139,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 75,
+      "data7": 95,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#228B22FF",
+    "color_info": {
+      "colors": [
+        "#228B22FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1967565224,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-ABS-HIGH-FLOW-GREEN.jpg",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UABSHF-GREEN",
+    "title": "Ultra ABS High Flow - Green"
   },
   {
     "RFID_Data": {
@@ -258970,6 +259328,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 34,
+      "color_g": 139,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#228B22FF",
+    "color_info": {
+      "colors": [
+        "#228B22FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2052010165,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-TPU-95A-HIGH-FLOW-GREEN.jpg",
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UTPU95AHF-GREEN",
+    "title": "Ultra TPU-95A High Flow - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 243,
       "color_g": 246,
       "color_r": 242,
@@ -265050,6 +265446,44 @@
     "product_type": "Filament",
     "sku": "KEX-K5ASA-GREEN-175-5KG",
     "title": "THE K5 ASA - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 204,
+      "color_g": 102,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 75,
+      "data7": 95,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#2266CCFF",
+    "color_info": {
+      "colors": [
+        "#2266CCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2100334396,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-ABS-HIGH-FLOW-BLUE.jpg",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UABSHF-BLUE",
+    "title": "Ultra ABS High Flow - Blue"
   },
   {
     "RFID_Data": {
@@ -308993,6 +309427,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 75,
+      "data7": 95,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#1A1A1AFF",
+    "color_info": {
+      "colors": [
+        "#1A1A1AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2451689458,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-ABS-HIGH-FLOW-BLACK.jpg",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UABSHF-BLACK",
+    "title": "Ultra ABS High Flow - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 68,
       "color_g": 106,
       "color_r": 196,
@@ -314151,6 +314623,44 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F0563",
     "title": "PLA Starter - Neon Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#F5F5F5FF",
+    "color_info": {
+      "colors": [
+        "#F5F5F5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2491156738,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-TPU-95A-HIGH-FLOW-WHITE.jpg",
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UTPU95AHF-WHITE",
+    "title": "Ultra TPU-95A High Flow - White"
   },
   {
     "RFID_Data": {
@@ -369463,6 +369973,53 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 215,
+      "color_b2": 240,
+      "color_b3": 240,
+      "color_g": 194,
+      "color_g2": 184,
+      "color_g3": 221,
+      "color_r": 244,
+      "color_r2": 201,
+      "color_r3": 184,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 145,
+      "id_brand": 26145,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#F4C2D7FF",
+    "color_info": {
+      "colors": [
+        "#F4C2D7FF",
+        "#C9B8F0FF",
+        "#B8DDF0FF",
+        "#C8EFD8FF"
+      ],
+      "type": "gradient"
+    },
+    "id": 2927272244,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-RAINBOW-SILK-PLA-GELATO-SWIRL.jpg",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-RSPLA-GELATOSWIRL",
+    "title": "Rainbow-Silk PLA - Gelato Swirl"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 154,
       "color_g": 178,
       "color_r": 194,
@@ -382273,6 +382830,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 34,
+      "color_b2": 194,
+      "color_b3": 180,
+      "color_g": 139,
+      "color_g2": 79,
+      "color_g3": 160,
+      "color_r": 34,
+      "color_r2": 30,
+      "color_r3": 232,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 24,
+      "id_brand": 26145,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#228B22FF",
+    "color_info": {
+      "colors": [
+        "#228B22FF",
+        "#1E4FC2FF",
+        "#E8A0B4FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3029742435,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-TRI-SILK-PLA-GREEN-BLUE-ROSE-v2.jpg",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-TSPLA-GREENBLUEROSE",
+    "title": "Tri-Silk PLA - Green/Blue/Rose"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 176,
       "color_g": 63,
       "color_r": 122,
@@ -394829,6 +395432,44 @@
     "product_type": "Filament",
     "sku": "8595632824220",
     "title": "ASA Extrafill - Dijon Mustard"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#1A1A1AFF",
+    "color_info": {
+      "colors": [
+        "#1A1A1AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3121308808,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-TPU-95A-HIGH-FLOW-BLACK.jpg",
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UTPU95AHF-BLACK",
+    "title": "Ultra TPU-95A High Flow - Black"
   },
   {
     "RFID_Data": {
@@ -427836,6 +428477,44 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#FFFFFF33",
+    "color_info": {
+      "colors": [
+        "#FFFFFF33"
+      ],
+      "type": "mono"
+    },
+    "id": 3390268380,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-TPU-95A-HIGH-FLOW-CLEAR.jpg",
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UTPU95AHF-CLEAR",
+    "title": "Ultra TPU-95A High Flow - Clear"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 242,
       "color_g": 245,
@@ -436639,6 +437318,53 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_b2": 30,
+      "color_b3": 58,
+      "color_g": 74,
+      "color_g2": 135,
+      "color_g3": 196,
+      "color_r": 216,
+      "color_r2": 232,
+      "color_r3": 232,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": 145,
+      "id_brand": 26145,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#D84A2FFF",
+    "color_info": {
+      "colors": [
+        "#D84A2FFF",
+        "#E8871EFF",
+        "#E8C43AFF",
+        "#2FA88CFF"
+      ],
+      "type": "gradient"
+    },
+    "id": 3458848533,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-RAINBOW-SILK-PLA-TUTTI-FRUTTI.jpg",
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-RSPLA-TUTTIFRUTTI",
+    "title": "Rainbow-Silk PLA - Tutti Frutti"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 79,
       "color_g": 158,
       "color_r": 46,
@@ -441388,6 +442114,44 @@
     "product_type": "Filament",
     "sku": "NBF-ABS-NEOORA",
     "title": "ABS - Neon Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 75,
+      "data7": 95,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3494762533,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-ABS-HIGH-FLOW-GREY.jpg",
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UABSHF-GREY",
+    "title": "Ultra ABS High Flow - Grey"
   },
   {
     "RFID_Data": {
@@ -455935,6 +456699,44 @@
     "product_type": "Filament",
     "sku": "LONGER-PLA-RED",
     "title": "PLA - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 139,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 65,
+      "data7": 75,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 57469,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#228B22FF",
+    "color_info": {
+      "colors": [
+        "#228B22FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3612530042,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-PETG-HIGH-FLOW-GREEN.jpg",
+    "material": "PETG HF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UPETGHF-GREEN",
+    "title": "Ultra PETG High Flow - Green"
   },
   {
     "RFID_Data": {
@@ -472098,6 +472900,44 @@
     "product_type": "Filament",
     "sku": "PETG-YELLOW-1000-175",
     "title": "PETG - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 204,
+      "color_g": 102,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#2266CCFF",
+    "color_info": {
+      "colors": [
+        "#2266CCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3750569284,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-TPU-95A-HIGH-FLOW-BLUE.jpg",
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UTPU95AHF-BLUE",
+    "title": "Ultra TPU-95A High Flow - Blue"
   },
   {
     "RFID_Data": {
@@ -495152,6 +495992,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 24,
+      "color_g": 197,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#F5C518FF",
+    "color_info": {
+      "colors": [
+        "#F5C518FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3942408825,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-TPU-95A-HIGH-FLOW-YELLOW.jpg",
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UTPU95AHF-YELLOW",
+    "title": "Ultra TPU-95A High Flow - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 90,
       "color_g": 90,
       "color_r": 90,
@@ -500534,6 +501412,44 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLASILK-PINK-175-1KG",
     "title": "THE K5 PLA Silk - Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 47,
+      "color_g": 47,
+      "color_r": 211,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 26145,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "3DMA",
+    "color": "#D32F2FFF",
+    "color_info": {
+      "colors": [
+        "#D32F2FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3981335123,
+    "img_src": "https://3dma.au/wp-content/uploads/2026/08/3DMA-ULTRA-TPU-95A-HIGH-FLOW-RED.jpg",
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "3DMA-UTPU95AHF-RED",
+    "title": "Ultra TPU-95A High Flow - Red"
   },
   {
     "RFID_Data": {
