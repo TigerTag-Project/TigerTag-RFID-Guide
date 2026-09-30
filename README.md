@@ -154,6 +154,7 @@ largest independent filament and resin brands.
 | Official mobile apps                  | TigerTag RFID Connect — free on iOS and Android                                 |
 | DIY hardware                          | Tiger Scale V3 (open-source ESP32-S3 scale, 3.5" colour touchscreen)            |
 | Open-source hardware                  | TigerTag Pod — dual NFC/RFID reader & writer, DIY or kit                        |
+| Open-source printer-slot writer       | TigerSpool — tap a spool, the filament lands in the right printer slot (ESP32-S3, 2" touchscreen) |
 
 <p align="center">
   <a href="https://github.com/TigerTag-Project/TigerPOD"><img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in blue, holding a spool of red filament upright in front of its TigerTag RFID reader" height="200"></a>
