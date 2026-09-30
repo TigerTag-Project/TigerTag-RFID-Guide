@@ -176,6 +176,28 @@ largest independent filament and resin brands.
   <sub><em>Retail packaging from eSun, Rosa3D and Sunlu — the TigerTag RFID badge on the box means the spool inside carries a chip.</em></sub>
 </p>
 
+<p align="center">
+  <img src="Images/Refill_Black.png" alt="black filament refill with a TigerTag badge on its side" height="150">
+  &nbsp;
+  <img src="Images/Refill_Gold.png" alt="gold filament refill with a TigerTag badge on its side" height="150">
+  &nbsp;
+  <img src="Images/Refill_Purple.png" alt="purple filament refill with a TigerTag badge on its side" height="150">
+  &nbsp;
+  <img src="Images/Refill_Yellow.png" alt="yellow filament refill with a TigerTag badge on its side" height="150">
+  &nbsp;
+  <img src="Images/Refill_Green.png" alt="green filament refill with a TigerTag badge on its side" height="150">
+  <br>
+  <sub><em>Refill spools — no plastic spool, and still a TigerTag on every coil, whatever the colour.</em></sub>
+</p>
+
+<p align="center">
+  <img src="Images/TigerTag_Refill_Front.png" alt="TigerTag refill carrier, front: a strip with a TigerTag badge at each end" height="260">
+  &nbsp;&nbsp;
+  <img src="Images/TigerTag_Refill_Back.png" alt="TigerTag refill carrier, back: the two chip housings at each end of the strip" height="260">
+  <br>
+  <sub><em>The TigerTag refill carrier, front and back.</em></sub>
+</p>
+
 ---
 
 ## What makes TigerTag unique
