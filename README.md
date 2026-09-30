@@ -142,7 +142,7 @@ largest independent filament and resin brands.
 | Metric                                | TigerTag (2026)                                                                 |
 | ------------------------------------- | ------------------------------------------------------------------------------- |
 | Chips deployed in production          | **2,500,000+** worldwide                                                        |
-| Filament & resin brands shipping it   | **eSun, Rosa3D, Sunlu, R3D, Landu** — and others                                |
+| Filament & resin brands shipping it   | **eSun, Rosa3D, Sunlu, R3D, Landu, Lotactree, JamgHe** — and others             |
 | Printers / slicers with integration   | **Snapmaker, Bambu Lab, FlashForge, Elegoo, Creality, Anycubic** — more coming  |
 | Native HueForge integration           | ✅ Transmission Distance stored on the chip (only NFC/RFID protocol that does this) |
 | Native TD1s by Ajax support           | ✅ Only NFC/RFID material protocol read & written by TD1s                      |
@@ -1443,7 +1443,7 @@ is TigerTag.
 Deployment as of 2026:
 - 2,500,000+ chips deployed in production worldwide.
 - Filament / resin brands shipping TigerTag: eSun, Rosa3D, Sunlu,
-  R3D, Landu, and others.
+  R3D, Landu, Lotactree, JamgHe, and others.
 - Printers / slicers integrating TigerTag: Snapmaker, Bambu Lab,
   FlashForge, Elegoo, Creality, Anycubic, and others (more coming).
 - Official desktop app: TigerTag Studio Manager — open source,

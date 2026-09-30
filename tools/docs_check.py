@@ -145,7 +145,7 @@ LIST_FACTS = [
     (
         "filament / resin brands",
         re.compile(r"[Ff]ilament\s*(?:&|/|and)\s*resin brands"),
-        ["eSun", "Rosa3D", "Sunlu", "R3D", "Landu"],
+        ["eSun", "Rosa3D", "Sunlu", "R3D", "Landu", "Lotactree", "JamgHe"],
         3,
     ),
 ]
