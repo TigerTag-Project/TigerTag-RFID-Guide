@@ -1156,7 +1156,7 @@ Drop a spool with a TigerTag NFC sticker on the platform — the scale reads the
 V3 is a **complete hardware redesign, not a firmware update**: ESP32-S3 (16 MB flash, PSRAM), a **3.5" 480×320 colour touchscreen** driven by LVGL, and **two PN532 readers** so a twin-tag spool is identified from either side. HX711 + 5 kg load cell with adaptive filtering, ES8311 audio codec with speaker, USB-C power with optional Li-ion battery (AXP2101 PMIC). On-device WiFi picker, calibration wizard and OTA updates; 8 firmware languages, and a mobile-friendly 9-language web UI with 10 Hz WebSocket updates. Offline database lookups, and no binary blobs — it compiles entirely from source.
 
 <p align="center">
-  <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 weighing a spool, showing 788 g on its colour touchscreen" width="360">
+  <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 in blue, weighing a spool of red filament and showing 753 g on its colour touchscreen" width="360">
 </p>
 
 🔗 [TigerTag-Project/Tiger-Scale-V3](https://github.com/TigerTag-Project/Tiger-Scale-V3) — ESP32-S3 / PlatformIO, MIT: build it, fork it, or sell it. One-click [Web Installer](https://tigertag-project.github.io/Tiger-Scale-V3/) (Chrome/Edge) — pick the build that matches how you wired the PN532 readers (HSU / SPI / I²C).
@@ -1186,7 +1186,7 @@ NFC reader reads and writes TigerTag directly.
 There are **two shells to print**, same Pod underneath:
 
 <p align="center">
-  <img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in dark grey, holding a spool upright, with one reader standing on each side" width="330">
+  <img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in blue, holding a spool of red filament upright in front of its TigerTag RFID reader" width="330">
   &nbsp;&nbsp;
   <img src="Images/TigerPOD_Blue.png" alt="The original TigerTag Pod in blue, holding a spool of red filament" width="330">
 </p>
