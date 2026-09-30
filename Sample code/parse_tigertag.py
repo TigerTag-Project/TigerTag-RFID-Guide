@@ -130,7 +130,7 @@ BINARY LAYOUT — NTAG213 (pages 0x04-0x27, 144 bytes)
   0x0B      +31     1B    Bed Temp Max            u8      °C
   0x0C      +32     4B    Twin Tag ID+Timestamp   u32 BE  sec since 2000-01-01 GMT
   0x0D      +36     3B    Color 2 (RGB)           bytes
-  0x0D      +39     1B    Reserved                u8      = 0x00
+  0x0D      +39     1B    Chip count / index      u8      high nibble = chips on spool, low = this chip (0=unknown)
   0x0E      +40     3B    Color 3 (RGB)           bytes
   0x0E      +43     1B    Reserved                u8      = 0x00
   0x0F      +44     2B    TD HueForge             u16 BE  value / 10
@@ -617,6 +617,9 @@ class TigerTag:
     # ── HueForge ──────────────────────────────────────────────────────────────
     td_raw : int           # u16 BE — actual TD = td_raw / 10  (0=undefined, 1-1000 valid)
 
+    # ── Chip count / index (page 0x0D byte 3) ─────────────────────────────────
+    chip_info : int = 0    # u8 — high nibble = chips on the spool, low nibble = this chip (0=unknown)
+
     # ── Signature (optional, pages 0x18-0x27) ─────────────────────────────────
     signature_r : bytes = field(default_factory=lambda: bytes(32))
     signature_s : bytes = field(default_factory=lambda: bytes(32))
@@ -650,6 +653,16 @@ class TigerTag:
     def td_value(self) -> float:
         """HueForge TD as float. 0.0=undefined, valid range 0.1–100.0."""
         return self.td_raw / 10.0
+
+    @property
+    def chip_count(self) -> int:
+        """Number of TigerTag chips on the spool. 0=unknown, 1=single, 2=twin tag."""
+        return self.chip_info >> 4
+
+    @property
+    def chip_index(self) -> int:
+        """Which of those chips this one is, from 1. 0=unknown."""
+        return self.chip_info & 0x0F
 
     @property
     def manufacturing_date(self) -> datetime:
@@ -831,6 +844,7 @@ class TigerTag:
             color2_r          = u8(36),
             color2_g          = u8(37),
             color2_b          = u8(38),
+            chip_info         = u8(39),
             color3_r          = u8(40),
             color3_g          = u8(41),
             color3_b          = u8(42),
@@ -888,7 +902,7 @@ class TigerTag:
             + bytes([self.dry_temp, self.dry_time, self.bed_temp_min, self.bed_temp_max])
             + p32(self.timestamp)
             + bytes([self.color2_r, self.color2_g, self.color2_b])
-            + b"\x00"
+            + bytes([self.chip_info & 0xFF])
             + bytes([self.color3_r, self.color3_g, self.color3_b])
             + b"\x00"
             + p16(self.td_raw)
@@ -1078,6 +1092,8 @@ class TigerTag:
             "timestamp":           self.timestamp,
             "manufacturing_date":  self.manufacturing_date.isoformat(),
             "twin_tag_pairing_id": self.timestamp,
+            "chip_count":          self.chip_count or None,
+            "chip_index":          self.chip_index or None,
             "custom_message":      self.custom_message,
             "signed":              self.is_signed,
         }
@@ -1132,6 +1148,7 @@ class TigerTag:
             f"├─ Traceability ────────────────────────────────────────\n"
             f"│  Manufactured {self.manufacturing_date.strftime('%Y-%m-%d %H:%M UTC')}\n"
             f"│  Twin tag ID  {self.timestamp}\n"
+            f"│  Chip         {self.chip_index or '?'} of {self.chip_count or '?'}" + (" (unknown)\n" if self.chip_info == 0 else "\n") +
             f"│  Message      {self.custom_message!r}\n"
             f"├─ Signature ───────────────────────────────────────────\n"
             f"│  ECDSA        {sig}\n"
