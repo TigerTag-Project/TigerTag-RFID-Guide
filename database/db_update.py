@@ -38,11 +38,21 @@ import collections
 import json
 import os
 import sys
+import time
 
 import requests
 
 API_BASE = "https://api.tigertag.io/api:tigertag"
 HTTP_TIMEOUT = 30
+
+# The API has bad minutes: a 502 or a 503 on one call, fine again on the next.
+# Without a retry one such answer fails the whole run, nothing is committed, and
+# the snapshot waits six hours for the next schedule — three runs out of eight
+# went that way at the end of September 2026. So a call is tried a few times
+# before the run gives up. The waits are long on purpose: an overloaded backend
+# is not helped by being asked again at once.
+RETRY_WAITS = (5, 20, 60)               # seconds before attempts 2, 3 and 4
+RETRY_STATUSES = {429, 500, 502, 503, 504}
 
 # last_update key  ->  (API endpoint path,           local filename)
 DATASETS = {
@@ -69,9 +79,38 @@ def load_local_last_update():
         return {}
 
 
+def request_with_retry(method, url, **kwargs):
+    """One HTTP call, retried on what is worth retrying.
+
+    Retried: the connection failing or timing out, and the statuses that mean
+    "ask again" (429 and the 5xx in RETRY_STATUSES). NOT retried: any other 4xx,
+    which means the request itself is wrong and will stay wrong.
+
+    Returns a response that has already passed `raise_for_status()`. When every
+    attempt fails, the LAST error is raised unchanged, so the caller and the log
+    see exactly what the API answered.
+    """
+    attempts = len(RETRY_WAITS) + 1
+    for attempt in range(1, attempts + 1):
+        try:
+            response = requests.request(method, url, **kwargs)
+            if response.status_code not in RETRY_STATUSES:
+                response.raise_for_status()
+                return response
+            problem = f"HTTP {response.status_code}"
+            if attempt == attempts:
+                response.raise_for_status()
+        except (requests.ConnectionError, requests.Timeout) as exc:
+            problem = type(exc).__name__
+            if attempt == attempts:
+                raise
+        wait = RETRY_WAITS[attempt - 1]
+        print(f"[retry] {url} — {problem}, attempt {attempt}/{attempts}, waiting {wait}s")
+        time.sleep(wait)
+
+
 def fetch_remote_last_update():
-    response = requests.get(f"{API_BASE}/all/last_update", timeout=HTTP_TIMEOUT)
-    response.raise_for_status()
+    response = request_with_retry("GET", f"{API_BASE}/all/last_update", timeout=HTTP_TIMEOUT)
     return response.json(), response.text
 
 
@@ -117,8 +156,7 @@ def validate_dataset(data, filename):
 
 def download_dataset(endpoint, filename):
     url = f"{API_BASE}/{endpoint}"
-    response = requests.get(url, timeout=HTTP_TIMEOUT)
-    response.raise_for_status()
+    response = request_with_retry("GET", url, timeout=HTTP_TIMEOUT)
     try:
         data = response.json()
     except ValueError as e:
@@ -173,12 +211,12 @@ def fetch_catalog():
     """Walk every page of `product/get/all` and return the products as one list."""
     items, page, pages = [], 1, 0
     while page and pages < CATALOG_MAX_PAGES:
-        response = requests.post(
+        response = request_with_retry(
+            "POST",
             f"{API_BASE}/product/get/all",
             json={"page": page, "per_page": CATALOG_PER_PAGE},
             timeout=CATALOG_TIMEOUT,
         )
-        response.raise_for_status()
         payload = response.json()
         batch = payload.get("items") or []
         items.extend(batch)
