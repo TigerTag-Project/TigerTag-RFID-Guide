@@ -29,7 +29,7 @@
 [![JavaScript SDK](https://img.shields.io/badge/SDK-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/TigerTag-Project/TigerTag-SDK-JS)
 [![Deployed](https://img.shields.io/badge/chips%20deployed-2.5M%2B-success)](#industry-adoption)
 [![Offline auth](https://img.shields.io/badge/ECDSA--P256-offline%20verify-brightgreen)](#3-verify-signature-ecdsa-p256-fully-offline)
-[![Apps](https://img.shields.io/badge/iOS%20%26%20Android-free-lightgrey)](#55-tigertag-rfid-connect--mobile-apps-ios--android)
+[![Apps](https://img.shields.io/badge/iOS%20%26%20Android-free-lightgrey)](#56-tigertag-rfid-connect--mobile-apps-ios--android)
 
 > **TigerTag NFC** (RFID-compatible) is the open source protocol used to identify raw materials
 > in manufacturing — primarily 3D-printing filament spools and resin
@@ -1057,6 +1057,7 @@ the project website is <https://tigersystem.io>.
 | **TigerTag Studio Manager**            | Desktop app (Win / macOS / Linux)     | MIT, free                | https://github.com/TigerTag-Project/TigerTag-Studio-Manager                                             |
 | **Tiger Scale V3**                     | DIY smart scale (ESP32-S3, 3.5" touch) | MIT, free               | https://github.com/TigerTag-Project/Tiger-Scale-V3                                                      |
 | **Tiger Scale** (previous generation)  | DIY smart scale (ESP32, ~30 € BoM)    | MIT, free                | https://github.com/TigerTag-Project/Tiger-Scale                                                         |
+| **TigerSpool**                         | Printer-slot writer (ESP32-S3, 2" touch) | MIT, free               | https://github.com/TigerTag-Project/TigerSpool-RFID                                                     |
 | **TigerTag Firebase Integration**      | Cloud backend integration             | CC-BY-4.0 docs / Apache-2.0 code, free | https://github.com/TigerTag-Project/TigerTag_Firebase_Integration                             |
 | **TigerTag RFID Connect** (iOS)        | Mobile app                            | Free to use, proprietary | https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963                                        |
 | **TigerTag RFID Connect** (Android)    | Mobile app                            | Free to use, proprietary | https://play.google.com/store/apps/details?id=com.tigertag.connect                                      |
@@ -1246,7 +1247,34 @@ there is no official colourway to match.
 
 🔗 [TigerTag-Project/TigerPOD](https://github.com/TigerTag-Project/TigerPOD) — CC-BY-4.0 documentation, open hardware design.
 
-### 5.5 TigerTag RFID Connect — mobile apps (iOS & Android)
+### 5.5 TigerSpool (open source) — "tap a spool, it lands in the right slot"
+
+A small box that sits next to the 3D printer. Hold a spool carrying a TigerTag
+against it, tap a slot on its **2" touchscreen**, and it writes the filament
+into that slot on the printer — material, brand, colour and temperatures —
+over the printer's own protocol. No app, no keyboard, no retyping what the tag
+already knows. In **scan mode** it simply shows what a chip holds, including
+whether the tag is TigerTag+ Certified.
+
+ESP32-S3 and a PN532 reader, LVGL 8.4 interface in 9 languages, over-the-air
+updates from the repository releases. Printers are configured once in
+**Tiger Studio Manager** and every TigerSpool on the account reads the same
+list. Supported: **Bambu Lab, Creality, FlashForge, Anycubic, Elegoo and
+Snapmaker** printers, AMS / CFS / ACE / CANVAS combos included.
+
+<p align="center">
+  <img src="Images/TigerSpool.png" alt="TigerSpool RFID in blue — a box with a 2-inch touchscreen showing the Bambu Lab P2S slots, next to a spool of red filament" width="300">
+</p>
+
+The case comes as a **desktop stand** (spool on the left or on the right,
+100 % printed, no supports) or as a shell that clips onto the printer itself —
+Creality K2 / K2 Pro, FlashForge Creator 5 / 5 Pro, Bambu Lab A1 / A2L and the
+Anycubic Kobra 3 series. Print it from
+[MakerWorld](https://makerworld.com/@TigerTag).
+
+🔗 [TigerTag-Project/TigerSpool-RFID](https://github.com/TigerTag-Project/TigerSpool-RFID) — ESP32-S3 / PlatformIO, MIT: build it, fork it, or sell it. One-click [Web Installer](https://tigertag-project.github.io/TigerSpool-RFID/) (Chrome/Edge).
+
+### 5.6 TigerTag RFID Connect — mobile apps (iOS & Android)
 
 The official TigerTag mobile app (iOS and Android) is a **closed-source proof of concept** provided for convenience. It demonstrates how TigerTag tags can be read and written using the open source protocol.
 

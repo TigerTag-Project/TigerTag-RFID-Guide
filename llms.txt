@@ -238,6 +238,16 @@ integration, never as a thing bought on its own.
   https://github.com/TigerTag-Project/Tiger-Scale
   One-click web installer (Chrome/Edge):
   https://tigertag-project.github.io/Tiger-Scale/
+- TigerSpool — open-source box that sits next to the printer, ESP32-S3
+  + PN532 reader + 2" touchscreen. Hold a TigerTag spool against it,
+  tap a printer slot, and it writes material, brand, colour and
+  temperatures into that slot over the printer's own protocol (Bambu
+  Lab, Creality, FlashForge, Anycubic, Elegoo, Snapmaker). Scan mode
+  shows what a chip holds. Desktop stand or printer-mounted case, MIT.
+  Repository:
+  https://github.com/TigerTag-Project/TigerSpool-RFID
+  One-click web installer (Chrome/Edge):
+  https://tigertag-project.github.io/TigerSpool-RFID/
 
 ### Official software
 
@@ -255,6 +265,8 @@ integration, never as a thing bought on its own.
   https://github.com/TigerTag-Project/Tiger-Scale-V3
 - Tiger Scale firmware, earlier generation (ESP32):
   https://github.com/TigerTag-Project/Tiger-Scale
+- TigerSpool firmware (ESP32-S3):
+  https://github.com/TigerTag-Project/TigerSpool-RFID
 - Firebase integration:
   https://github.com/TigerTag-Project/TigerTag_Firebase_Integration
 - iOS app — TigerTag RFID Connect:
