@@ -2,7 +2,7 @@
 
 Name:           TigerTag
 Protocol:       TigerTag NFC (RFID) Guide
-Version:        v2.1 (2026-05-18)
+Version:        v2.2 (2026-09-30)
 License:        Spec CC-BY-4.0 · Database CC0-1.0 · Code Apache-2.0
                 Implementing the protocol requires no licence, no
                 registration, and no payment, at any volume, in any
@@ -572,7 +572,7 @@ User memory layout (offsets relative to start of page 0x04):
   +31  u8       Bed Temp Max                — °C
   +32  u32 BE   Timestamp + Twin Tag ID     — secs since 2000-01-01 GMT
   +36  3 bytes  Color 2 RGB
-  +39  u8       reserved (0x00)
+  +39  u8       Chip count / index          — high nibble = chips on spool, low = this chip, 0x00 = unknown
   +40  3 bytes  Color 3 RGB
   +43  u8       reserved (0x00)
   +44  u16 BE   HueForge TD                 — value × 10 (range 10–1000)
@@ -584,6 +584,10 @@ User memory layout (offsets relative to start of page 0x04):
   +112 32 bytes Signature S                 — ECDSA-P256 (optional)
 
 Capacity: 80 bytes user data + 64 bytes signature = 144 bytes.
+
+Chip count / index (+39, since v2.2): count = byte >> 4, index = byte & 0x0F.
+0x11 = single chip; 0x21 / 0x22 = chip 1 / 2 of a twin tag (both share
+the same Timestamp); 0x00 = unknown (all chips written before v2.2).
 
 ECDSA signed message: `SHA-256( UID_bytes (7) + block4 (4) + block5 (4) )`.
 The public key for each protocol variant is published in

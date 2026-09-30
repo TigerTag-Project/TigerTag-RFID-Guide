@@ -21,7 +21,7 @@
   <a href="#press-kit--brand-assets">Press kit</a>
 </p>
 
-[![Protocol](https://img.shields.io/badge/protocol-v2.1-orange)](#7-version-history)
+[![Protocol](https://img.shields.io/badge/protocol-v2.2-orange)](#7-version-history)
 [![Spec license](https://img.shields.io/badge/spec-CC--BY--4.0-blue)](LICENSING.md)
 [![Code license](https://img.shields.io/badge/code-Apache--2.0-blue)](LICENSING.md)
 [![Database license](https://img.shields.io/badge/database-CC0--1.0-blue)](LICENSING.md)
@@ -462,7 +462,7 @@ is ISO 14443-3 compatible (NTAG21x family).
 | `0x0B` | `3` | `+31` | 1 byte | Bed Temp Max | u8 | Maximum bed temperature (°C) |
 | `0x0C` | `0-3` | `+32` | 4 bytes | Twin Tag ID & Timestamp | u32 BE | Seconds since 2000-01-01 GMT + twin tag pairing ID (see section 2.9) |
 | `0x0D` | `0-2` | `+36` | 3 bytes | Color 2 (RGB) | bytes | Secondary color R/G/B |
-| `0x0D` | `3` | `+39` | 1 byte | Reserved | u8 | Must be `0x00` |
+| `0x0D` | `3` | `+39` | 1 byte | Chip count / index | u8 | High nibble = chips on the spool, low nibble = this chip; `0x00` = unknown (see section 2.11) |
 | `0x0E` | `0-2` | `+40` | 3 bytes | Color 3 (RGB) | bytes | Tertiary color R/G/B |
 | `0x0E` | `3` | `+43` | 1 byte | Reserved | u8 | Must be `0x00` |
 | `0x0F` | `0-1` | `+44` | 2 bytes | TD (HueForge) | u16 BE | HueForge Transmission Distance × 10 (see section 2.10) |
@@ -774,6 +774,10 @@ This shared value enables:
 
 🧠 Think of the `Time Stamp` as a **"twin tag ID"** in addition to being a clock — a clever way to bind two tags using time as the key.
 
+The shared timestamp says *which* chips belong together; it does not say
+*how many* there are. That is the job of the chip count / index byte —
+see [section 2.11](#211-chip-count--chip-index).
+
 ## 2.10 Transmission Distance (TD) — HueForge value
 
 In the TigerTag format, the field `TD` is reserved to store the
@@ -802,6 +806,47 @@ the chip — HueForge reads it without any manual entry.
 - TD1s hardware (AJAX TD1S V1.0) available:
     - Atome3D.com — https://www.atome3d.com/products/biqu-ajax-td1s-v1-0
     - Tigertag.io — https://shop.tigertag.io/products/biqu-ajax-td1s-v1-0
+
+## 2.11 Chip count & chip index
+
+Page `0x0D`, byte 3 (offset `+39`) tells a reader **how many TigerTag
+chips the spool carries** and **which one it has just read**. With it,
+a reader that scans one chip of a twin-tagged spool knows another chip
+is waiting — and can ask for it to collect the missing UID.
+
+**Encoding:** one byte, split into two 4-bit halves (nibbles).
+
+| Bits | Field | Values |
+| ---- | ----- | ------ |
+| 7–4 (high nibble) | Chip count | `0` = unknown, `1` = single chip, `2` = twin tag, … up to `15` |
+| 3–0 (low nibble)  | Chip index | `0` = unknown, `1` = first chip, `2` = second chip, … |
+
+```c
+uint8_t b     = page0x0D[3];
+uint8_t count = b >> 4;    // chips on the spool — 0 = unknown
+uint8_t index = b & 0x0F;  // this chip — 0 = unknown
+```
+
+**Examples:**
+- `0x00` → Unknown (every chip written before protocol v2.2)
+- `0x11` → Single chip — nothing else to scan
+- `0x21` → Twin tag, chip 1 of 2
+- `0x22` → Twin tag, chip 2 of 2
+
+**Rules:**
+- All chips of the same spool MUST carry the same chip count and the
+  same `Timestamp` (section 2.9); each one carries its own index.
+- When the count is set, the index MUST be between `1` and the count.
+  A writer that knows the count but not the index writes `0` as the
+  index (e.g. `0x20`).
+- Readers MUST treat `0x00` as "unknown" and fall back to the timestamp
+  alone, exactly as before v2.2.
+- The byte is not covered by the ECDSA signature (section 3): setting it
+  never invalidates a signed TigerTag+ chip.
+
+**Backward compatibility:** this byte was reserved and required to be
+`0x00` until v2.2, so every chip already written reads as "unknown" and
+stays valid. Readers that predate v2.2 ignore it.
 
 ---
 
@@ -1337,6 +1382,7 @@ this page grants any right to those marks.
 | 1.0     | 2025-06-09 | Initial public format | TigerTag Team |
 | 2.0     | 2026-03-11 | Corrected binary memory layout and NTAG21x capacity alignment | TigerTag Team |
 | 2.1     | 2026-05-18 | Add UID documentation, system pages layout, fix example hex values | TigerTag Team |
+| 2.2     | 2026-09-30 | Add chip count / chip index at page `0x0D` byte 3 (previously reserved) | TigerTag Team |
 
 ---
 
@@ -1596,7 +1642,7 @@ Binary layout (offsets from start of page 0x04):
 +31  u8      Bed Temp Max (°C)
 +32  u32 BE  Timestamp + Twin Tag ID (secs since 2000-01-01 GMT)
 +36  3 B     Color 2 RGB
-+39  u8      reserved 0x00
++39  u8      Chip count (high nibble) / chip index (low nibble), 0x00 = unknown
 +40  3 B     Color 3 RGB
 +43  u8      reserved 0x00
 +44  u16 BE  HueForge TD (value × 10, range 10..1000)
