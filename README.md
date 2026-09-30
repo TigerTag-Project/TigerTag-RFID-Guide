@@ -156,9 +156,13 @@ largest independent filament and resin brands.
 | Open-source hardware                  | TigerTag Pod — dual NFC/RFID reader & writer, DIY or kit                        |
 
 <p align="center">
-  <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5-inch colour touchscreen that identifies the spool from its TigerTag, weighs it, and computes the net filament weight in real time" width="420">
+  <a href="https://github.com/TigerTag-Project/TigerPOD"><img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in blue, holding a spool of red filament upright in front of its TigerTag RFID reader" width="260"></a>
+  &nbsp;
+  <a href="https://github.com/TigerTag-Project/TigerSpool-RFID"><img src="Images/TigerSpool.jpg" alt="TigerSpool RFID — a black and red box with a 2-inch touchscreen next to a spool of red filament" width="260"></a>
+  &nbsp;
+  <a href="https://github.com/TigerTag-Project/Tiger-Scale-V3"><img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5-inch colour touchscreen that identifies the spool from its TigerTag, weighs it, and computes the net filament weight in real time" width="260"></a>
   <br>
-  <sub><em>Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5" colour touchscreen and dual PN532 readers: identifies and weighs a TigerTag spool in real time.</em></sub>
+  <sub><em><b>TigerPOD Mini</b> — NFC/RFID reader &amp; writer · <b>TigerSpool</b> — tap a spool, the filament lands in the right printer slot · <b>Tiger Scale V3</b> — identifies and weighs a TigerTag spool in real time.</em></sub>
 </p>
 
 <p align="center">
@@ -1313,6 +1317,7 @@ on the reader's color scheme.
 | Tiger Scale V3 — hardware photo  | PNG        | <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 photo" height="48">                                                                                                                   | [`Images/TigerScale_V3.png`](Images/TigerScale_V3.png)                |
 | Tiger Scale — hardware photo (previous generation) | PNG | <img src="brand/TigerScale_Photo.png" alt="Tiger Scale photo" height="48">                                                                                                     | [`brand/TigerScale_Photo.png`](brand/TigerScale_Photo.png)            |
 | TigerTag Pod Mini — product photo | JPG       | <img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini photo" height="48">                                                                                                                    | [`Images/TigerPOD_Mini.jpg`](Images/TigerPOD_Mini.jpg)                |
+| TigerSpool RFID — product photo   | JPG       | <img src="Images/TigerSpool.jpg" alt="TigerSpool RFID photo" height="48">                                                                                                                        | [`Images/TigerSpool.jpg`](Images/TigerSpool.jpg)                      |
 | TigerTag Pod — product photo     | PNG        | <img src="Images/TigerPOD_Blue.png" alt="TigerTag Pod photo" height="48">                                                                                                                     | [`Images/TigerPOD_Blue.png`](Images/TigerPOD_Blue.png)                |
 | TigerTag Pod — colour lineup     | JPG        | <img src="Images/TigerPOD_Lineup.jpg" alt="TigerTag Pod colour lineup" height="48">                                                                                                           | [`Images/TigerPOD_Lineup.jpg`](Images/TigerPOD_Lineup.jpg)            |
 | TigerTag system — Pod, desktop, mobile | PNG  | <img src="Images/TigerPOD_System.png" alt="TigerTag system overview" height="48">                                                                                                             | [`Images/TigerPOD_System.png`](Images/TigerPOD_System.png)            |
