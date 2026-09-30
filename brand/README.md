@@ -47,6 +47,13 @@ Official partner status and packaging rights: [`../LICENSE_COMMERCIAL.md`](../LI
 | `TigerTag_Banner.png` | Press, social, article headers |
 | `TigerTag_Logo.png` | Raster fallback where SVG is unsupported |
 | `icon.png`, `icon.ico`, `icon.icns` | Application icons for compatible tools |
+| `tigertag-logo-on-black.svg` | Logo on its own black plate — any background |
+| `tigertag-logo-contour-on-white.svg`, `logo_tigertag_bw.svg` | White and light backgrounds, print |
+| `logo_tigertag_contouring_head.svg` / `logo_tigertag_head.svg` | Head-only logo — light / dark backgrounds |
+| `tiger-head-on-black.svg`, `tiger-head-contour-on-white.svg` | Tiger head alone, dark plate / light background |
+| `tigersystem-icon-framed.svg` | TigerSystem icon in its own frame — works on black or white, and when zoomed |
+| `tigersystem-app-icon-rounded.svg` | TigerSystem app icon with rounded corners |
+| `powered-by-tiger-studio.svg` | "Powered by Tiger Studio" badge for tools built on Tiger Studio |
 
 Preserve clear space around the logo equal to the height of the tiger's ear. Do not place
 the logo on a background that reduces its contrast below legibility.
