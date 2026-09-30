@@ -51,3 +51,15 @@ jobs:
           changed=$(git diff --cached --name-only | xargs -n1 basename | paste -sd ', ' -)
           git commit -m "Auto-sync database: ${changed}"
           git push
+
+      # Tell the site the snapshot may have moved, so a new product shows up on
+      # tigersystem.io within minutes instead of at its next hourly regeneration.
+      # Safe to call every run: the endpoint asks GitHub itself which commit is
+      # current and does nothing when the site is already built on it. Never
+      # fatal — the site also checks on its own every hour, so a missed call
+      # only costs time.
+      - name: Tell tigersystem.io to look
+        if: always()
+        run: |
+          curl --silent --show-error --max-time 60 -X POST \
+            https://tigersystem.io/api/catalog/refresh || echo "Hub not reachable — it will catch up on its hourly check."
