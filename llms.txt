@@ -595,7 +595,7 @@ User memory layout (offsets relative to start of page 0x04):
   +31  u8       Bed Temp Max                — °C
   +32  u32 BE   Timestamp + Twin Tag ID     — secs since 2000-01-01 GMT
   +36  3 bytes  Color 2 RGB
-  +39  u8       Tag index / count           — high nibble = this tag, low = tags on spool, 0x00 = unknown
+  +39  u8       Tag index / count           — high nibble = this tag, low = tags on the item, 0x00 = unknown
   +40  3 bytes  Color 3 RGB
   +43  u8       reserved (0x00)
   +44  u16 BE   HueForge TD                 — value × 10 (range 10–1000)
@@ -611,7 +611,9 @@ Capacity: 80 bytes user data + 64 bytes signature = 144 bytes.
 Tag index / count (+39, since v2.2): index = byte >> 4, count = byte & 0x0F,
 so the hex reads as "index/count". 0x11 = single tag (1/1); 0x12 / 0x22 =
 tag 1 / 2 of a twin tag (both share the same Timestamp); 0x00 = unknown
-(all tags written before v2.2).
+(all tags written before v2.2). A TigerTag identifies any item, not only
+filament spools: say "tag 1 of 2 on this filament" (the ID Type label),
+not "on this spool".
 
 ECDSA signed message: `SHA-256( UID_bytes (7) + block4 (4) + block5 (4) )`.
 The public key for each protocol variant is published in

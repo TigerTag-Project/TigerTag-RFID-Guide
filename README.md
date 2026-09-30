@@ -500,7 +500,7 @@ is ISO 14443-3 compatible (NTAG21x family).
 | `0x0B` | `3` | `+31` | 1 byte | Bed Temp Max | u8 | Maximum bed temperature (°C) |
 | `0x0C` | `0-3` | `+32` | 4 bytes | Twin Tag ID & Timestamp | u32 BE | Seconds since 2000-01-01 GMT + twin tag pairing ID (see section 2.9) |
 | `0x0D` | `0-2` | `+36` | 3 bytes | Color 2 (RGB) | bytes | Secondary color R/G/B |
-| `0x0D` | `3` | `+39` | 1 byte | Tag index / count | u8 | High nibble = this tag, low nibble = tags on the spool (`0x12` = tag 1 of 2); `0x00` = unknown (see section 2.11) |
+| `0x0D` | `3` | `+39` | 1 byte | Tag index / count | u8 | High nibble = this tag, low nibble = tags on the item (`0x12` = tag 1 of 2); `0x00` = unknown (see section 2.11) |
 | `0x0E` | `0-2` | `+40` | 3 bytes | Color 3 (RGB) | bytes | Tertiary color R/G/B |
 | `0x0E` | `3` | `+43` | 1 byte | Reserved | u8 | Must be `0x00` |
 | `0x0F` | `0-1` | `+44` | 2 bytes | TD (HueForge) | u16 BE | HueForge Transmission Distance × 10 (see section 2.10) |
@@ -848,11 +848,14 @@ the chip — HueForge reads it without any manual entry.
 ## 2.11 Tag index & tag count
 
 Page `0x0D`, byte 3 (offset `+39`) tells a reader **which TigerTag it has
-just read** and **how many TigerTags the spool carries**. With it, a reader
-that scans one tag of a twin-tagged spool knows another tag is waiting —
+just read** and **how many TigerTags the item carries**. With it, a reader
+that scans one tag of a twin-tagged item knows another tag is waiting —
 and can ask for it to collect the missing UID.
 
-A *tag* here is one TigerTag on the spool; a twin-tagged spool carries two.
+A *tag* here is one TigerTag on the item; a twin-tagged item carries two.
+The item is whatever the tag identifies — a filament spool, a resin
+bottle, … — as given by `ID Type` (section 2.6): a reader says "tag 1 of 2
+on this filament", not "on this spool".
 Each tag is its own NTAG chip, with its own UID.
 
 **Encoding:** one byte, split into two 4-bit halves (nibbles), in the order
@@ -867,7 +870,7 @@ a person reads it — **index, then count** — so the hex value reads as-is:
 ```c
 uint8_t b     = page0x0D[3];
 uint8_t index = b >> 4;    // this tag — 0 = unknown
-uint8_t count = b & 0x0F;  // tags on the spool — 0 = unknown
+uint8_t count = b & 0x0F;  // tags on the item — 0 = unknown
 ```
 
 **Examples:**
@@ -877,7 +880,7 @@ uint8_t count = b & 0x0F;  // tags on the spool — 0 = unknown
 - `0x22` → Twin tag, tag 2 of 2
 
 **Rules:**
-- All tags of the same spool MUST carry the same tag count and the
+- All tags of the same item MUST carry the same tag count and the
   same `Timestamp` (section 2.9); each one carries its own index.
 - When the count is set, the index MUST be between `1` and the count.
   A writer that knows the count but not the index writes `0` as the
