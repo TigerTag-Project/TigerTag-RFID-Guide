@@ -104,13 +104,13 @@
   <text x="268" y="385" class="field-label" text-anchor="middle">Timestamp + Twin Tag ID — u32 BE</text>
   <text x="450" y="385" class="byte-label">Seconds since 2000-01-01 GMT, shared by paired left/right tags</text>
 
-  <!-- Page 0x0D - Color2 RGB (Pink) + chip count / index (Purple) -->
+  <!-- Page 0x0D - Color2 RGB (Pink) + tag index / count (Purple) -->
   <rect x="110" y="398" width="236" height="28" fill="#E84393" rx="3"/>
   <rect x="350" y="398" width="76" height="28" fill="#8E44AD" rx="3"/>
   <text x="40"  y="417" class="page-label">0x0D</text>
   <text x="228" y="417" class="field-label" text-anchor="middle">Color 2 — R · G · B</text>
-  <text x="388" y="417" class="field-label" text-anchor="middle">Chips</text>
-  <text x="450" y="417" class="byte-label">Secondary color · chip count / index (e.g. 0x21 = 1 of 2)</text>
+  <text x="388" y="417" class="field-label" text-anchor="middle">Tags</text>
+  <text x="450" y="417" class="byte-label">Secondary color · tag index / count (e.g. 0x12 = tag 1 of 2)</text>
 
   <!-- Page 0x0E - Color3 RGB + reserved (Pink) -->
   <rect x="110" y="430" width="236" height="28" fill="#E84393" rx="3"/>
@@ -187,7 +187,7 @@
   <text x="66" y="834" class="col-text">Print settings (Nozzle, Dry, Bed)</text>
 
   <rect x="40" y="845" width="18" height="18" fill="#8E44AD" rx="2"/>
-  <text x="66" y="859" class="col-text">Metadata (Timestamp, Chips, Message)</text>
+  <text x="66" y="859" class="col-text">Metadata (Timestamp, Tags, Message)</text>
 
   <rect x="40" y="870" width="18" height="18" fill="#17C0EB" rx="2"/>
   <text x="66" y="884" class="col-text">Quantity (Measure, Measure Available)</text>
