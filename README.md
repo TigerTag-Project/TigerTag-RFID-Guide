@@ -156,11 +156,11 @@ largest independent filament and resin brands.
 | Open-source hardware                  | TigerTag Pod — dual NFC/RFID reader & writer, DIY or kit                        |
 
 <p align="center">
-  <a href="https://github.com/TigerTag-Project/TigerPOD"><img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in blue, holding a spool of red filament upright in front of its TigerTag RFID reader" width="260"></a>
+  <a href="https://github.com/TigerTag-Project/TigerPOD"><img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in blue, holding a spool of red filament upright in front of its TigerTag RFID reader" height="200"></a>
   &nbsp;
-  <a href="https://github.com/TigerTag-Project/TigerSpool-RFID"><img src="Images/TigerSpool.jpg" alt="TigerSpool RFID — a black and red box with a 2-inch touchscreen next to a spool of red filament" width="260"></a>
+  <a href="https://github.com/TigerTag-Project/TigerSpool-RFID"><img src="Images/TigerSpool.png" alt="TigerSpool RFID in blue — a box with a 2-inch touchscreen showing the Bambu Lab P2S slots, next to a spool of red filament" height="200"></a>
   &nbsp;
-  <a href="https://github.com/TigerTag-Project/Tiger-Scale-V3"><img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5-inch colour touchscreen that identifies the spool from its TigerTag, weighs it, and computes the net filament weight in real time" width="260"></a>
+  <a href="https://github.com/TigerTag-Project/Tiger-Scale-V3"><img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5-inch colour touchscreen that identifies the spool from its TigerTag, weighs it, and computes the net filament weight in real time" height="200"></a>
   <br>
   <sub><em><b>TigerPOD Mini</b> — NFC/RFID reader &amp; writer · <b>TigerSpool</b> — tap a spool, the filament lands in the right printer slot · <b>Tiger Scale V3</b> — identifies and weighs a TigerTag spool in real time.</em></sub>
 </p>
@@ -298,13 +298,27 @@ variants remain compatible because the extra pages are simply unused.
 
 ### Three tag types
 
-| Type             | ID TigerTag  | Written by          | Purpose                                                                        |
-| ---------------- | ------------ | ------------------- | ------------------------------------------------------------------------------ |
-| **TigerTag**     | `0x5BF59264` | Maker / end user    | Standard offline tag. Everything needed to print is on the chip.               |
-| **TigerTag+**    | `0xBC0FCB97` | Brand, maker, or Tiger Studio | Same offline data, plus an `ID Product` from the official catalogue.  |
-| **TigerTag Init**| `0x6C41A2E1` | Factory / blank tag | Initialization marker — chip is ready to receive a real TigerTag write.        |
+| | **TigerTag** | **TigerTag+** | **TigerTag+ Certified** |
+|---|---|---|---|
+| `ID TigerTag` (page `0x04`) | `0x5BF59264` | `0xBC0FCB97` | `0xBC0FCB97` — same as TigerTag+ |
+| `ID Product` (page `0x05`) | `0xFFFFFFFF` | catalogue product id | catalogue product id |
+| Print data, on the chip | ✅ | ✅ | ✅ |
+| Works fully offline | ✅ | ✅ | ✅ |
+| Catalogue metadata (`id_catalog.json`, optional API) | — | ✅ | ✅ |
+| Origin signature (pages `0x18`–`0x27`) | — | — | ✅ ECDSA-P256, verified offline |
+| Answers *"is this spool genuine?"* | — | — | ✅ |
+| Who can write one | everyone | everyone — brand, maker, SDK, Tiger Studio | **a TigerTag+ Certified manufacturer** only |
 
-> The canonical names are **TigerTag**, **TigerTag+**, and **TigerTag Init**.
+In short: a **TigerTag** carries everything needed to print; a
+**TigerTag+** is a TigerTag that also knows *which catalogue product*
+it is, without a signature; a **TigerTag+ Certified** is a TigerTag+
+with a valid signature, a proof of origin. The `+` means *identified*,
+not *certified*.
+
+> The canonical names are **TigerTag**, **TigerTag+**, and
+> **TigerTag+ Certified**. `TigerTag Init` (`0x6C41A2E1`) is not a
+> fourth type: it marks a blank chip prepared to receive a real
+> TigerTag write — see [below](#tigertag-init-and-the-identity-lifecycle).
 > `Offline` is an operating mode of standard TigerTag tags, **not** a
 > protocol name — do not use it as a substitute label.
 
@@ -367,10 +381,11 @@ Two models are in circulation and they are frequently merged into one.
 They describe different objects.
 
 - **The three types above describe what is written on the chip** — the
-  `ID TigerTag` marker at page `0x04` (see [§2.1](#21-id-tigertag)) and,
-  for the `TigerTag+` case, the `ID Product` behind it. Both are
-  properties of chip memory, read offline, with no account and no
-  network.
+  `ID TigerTag` marker at page `0x04` (see [§2.1](#21-id-tigertag)),
+  for the `TigerTag+` case the `ID Product` behind it, and for the
+  `TigerTag+ Certified` case a valid signature in pages `0x18`–`0x27`.
+  All are properties of chip memory, read offline, with no account and
+  no network.
 - **The identity lifecycle describes the state of the record**, from
   `TigerData` (an identity that exists only digitally, before any chip)
   through to the account-level states. It is documented on the wiki:
@@ -392,15 +407,11 @@ written to a chip.
 above, and do not expect `TigerTag Init` to appear on the wiki. Parsers
 and firmware care only about this axis — what the chip carries.
 
-> ⚠️ **Known divergence.** The two documents do not agree on what makes
-> a chip a `TigerTag+`. Here it is the `ID Product` at page `0x05`, as
-> above — readable from the chip, offline, with no account. On the wiki
-> it is an account-level state: a chip whose content has been backed up
-> in your account. Whether those two describe the same operation is
-> tracked in
-> [#11](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/issues/11).
-> Within this repository, `TigerTag+` always means the catalogue product
-> id and nothing else.
+> Backing up a chip in your account is a separate feature: it does not
+> make a chip a `TigerTag+`. The wiki and this repository use the same
+> definitions — `TigerTag+` is the catalogue product id, a signature
+> makes it `TigerTag+ Certified`
+> ([#11](https://github.com/TigerTag-Project/TigerTag-RFID-Guide/issues/11)).
 
 ### Chip memory map
 
@@ -1317,7 +1328,7 @@ on the reader's color scheme.
 | Tiger Scale V3 — hardware photo  | PNG        | <img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 photo" height="48">                                                                                                                   | [`Images/TigerScale_V3.png`](Images/TigerScale_V3.png)                |
 | Tiger Scale — hardware photo (previous generation) | PNG | <img src="brand/TigerScale_Photo.png" alt="Tiger Scale photo" height="48">                                                                                                     | [`brand/TigerScale_Photo.png`](brand/TigerScale_Photo.png)            |
 | TigerTag Pod Mini — product photo | JPG       | <img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini photo" height="48">                                                                                                                    | [`Images/TigerPOD_Mini.jpg`](Images/TigerPOD_Mini.jpg)                |
-| TigerSpool RFID — product photo   | JPG       | <img src="Images/TigerSpool.jpg" alt="TigerSpool RFID photo" height="48">                                                                                                                        | [`Images/TigerSpool.jpg`](Images/TigerSpool.jpg)                      |
+| TigerSpool RFID — product photo   | PNG       | <img src="Images/TigerSpool.png" alt="TigerSpool RFID photo" height="48">                                                                                                                        | [`Images/TigerSpool.png`](Images/TigerSpool.png)                      |
 | TigerTag Pod — product photo     | PNG        | <img src="Images/TigerPOD_Blue.png" alt="TigerTag Pod photo" height="48">                                                                                                                     | [`Images/TigerPOD_Blue.png`](Images/TigerPOD_Blue.png)                |
 | TigerTag Pod — colour lineup     | JPG        | <img src="Images/TigerPOD_Lineup.jpg" alt="TigerTag Pod colour lineup" height="48">                                                                                                           | [`Images/TigerPOD_Lineup.jpg`](Images/TigerPOD_Lineup.jpg)            |
 | TigerTag system — Pod, desktop, mobile | PNG  | <img src="Images/TigerPOD_System.png" alt="TigerTag system overview" height="48">                                                                                                             | [`Images/TigerPOD_System.png`](Images/TigerPOD_System.png)            |
@@ -1576,9 +1587,10 @@ Chip: ISO 14443-3 compatible, NTAG21x family.
 Payload: pages 0x04–0x27 = 144 bytes, big-endian.
 Variants by ID TigerTag magic number at page 0x04:
 - 0x5BF59264 → TigerTag (standard)
-- 0xBC0FCB97 → TigerTag+ (manufacturer-signed, cloud-enabled)
-- 0x6C41A2E1 → TigerTag Init (blank initialization)
-Canonical names: TigerTag, TigerTag+, TigerTag Init.
+- 0xBC0FCB97 → TigerTag+ (catalogue product id; with a valid
+  signature in pages 0x18–0x27 it is a TigerTag+ Certified)
+- 0x6C41A2E1 → TigerTag Init (blank initialization marker, not a type)
+Canonical names: TigerTag, TigerTag+, TigerTag+ Certified.
 Do NOT use "TigerTag Offline" — "offline" is an operating mode,
 not a protocol name.
 Binary layout (offsets from start of page 0x04):

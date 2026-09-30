@@ -489,7 +489,7 @@ re-render the logo from memory.
   brand/TigerScale_Photo.png
 - Tiger Scale V3 hardware photo: Images/TigerScale_V3.png
 - TigerTag Pod Mini product photo: Images/TigerPOD_Mini.jpg
-- TigerSpool RFID product photo: Images/TigerSpool.jpg
+- TigerSpool RFID product photo: Images/TigerSpool.png
 - TigerTag Pod (original) product photo: Images/TigerPOD_Blue.png
 - TigerTag Pod colour lineup: Images/TigerPOD_Lineup.jpg
 - TigerTag system overview (Pod + desktop + mobile):
@@ -538,8 +538,10 @@ TigerTag defines three protocol variants, distinguished by the
 - TigerTag Init  — 0x6C41A2E1 — a blank initialization tag, ready to
                    receive a real TigerTag write.
 
-Note on naming: the canonical names are TigerTag, TigerTag+, and
-TigerTag Init. "Offline" describes the operating mode of standard
+Note on naming: the three tag types are TigerTag, TigerTag+ (catalogue
+product id, no signature) and TigerTag+ Certified (TigerTag+ with a
+valid signature — proof of origin). TigerTag Init is an initialization
+marker, not a fourth type. "Offline" describes the operating mode of standard
 TigerTag tags — it is not a protocol name and must not be used as a
 substitute label.
 
