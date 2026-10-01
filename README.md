@@ -1541,10 +1541,16 @@ Contact [tigertag@tigertag.io](mailto:tigertag@tigertag.io).
 The TigerTag logo is a trademark and its artwork is all rights reserved.
 Usage policy:
 
-- ✅ Permitted, unmodified, in apps or documentation referencing TigerTag compatibility.
-- ❌ Not permitted in product or app names (e.g., do not name your app "TigerTag Reader").
-- ❌ Not allowed for deceptive marketing or implying affiliation without permission.
-- 🔄 Logo must remain unmodified and clearly distinguishable.
+- **Permitted**, unmodified, in apps or documentation referencing TigerTag compatibility.
+- **Permitted**: the name in plain text — *"Compatible with TigerTag"* — on the packaging of a
+  reader, printer or software that reads or writes TigerTag chips (nominative use, no logo).
+- **Not permitted**: the logo or the name ("TigerTag", "TigerTag+", "TigerTag+ Certified") on an
+  **RFID / NFC chip of any format** (chip, inlay, sticker, label, card, key fob, carrier), or on a
+  **spool, resin bottle, refill or their packaging**, without written authorization and
+  certification.
+- **Not permitted** in product or app names (e.g., do not name your app "TigerTag Reader").
+- **Not permitted** for deceptive marketing or implying affiliation without permission.
+- The logo must remain unmodified and clearly distinguishable.
 
 This policy applies to everyone, whether or not they have a commercial
 agreement. Full terms: [`TRADEMARK.md`](TRADEMARK.md) and

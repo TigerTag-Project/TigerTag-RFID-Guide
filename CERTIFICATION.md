@@ -44,7 +44,7 @@ party can hold.
 | Audit | None | **Required** |
 | Cost | Free | **Paid** |
 | Approval | None. Self-declared | Written authorization |
-| Logo | In your app, docs, store listing | **On the product, the chip and the packaging** |
+| Logo and name | Logo in your app, docs, store listing; the name in plain text (*"Compatible with TigerTag"*) on a compatible reader, printer or software | **On the chip (any format), the product and the packaging** |
 | TigerTag+ signature issuance | — | TigerTag+ Certified scope only |
 | Product-ID allocation | — | Yes |
 | Public listing | — | Yes — in the certified registry |
@@ -115,7 +115,7 @@ Physical samples are tested against the conformance suite. The audit verifies th
    and you have a process to keep it correct after shipping.
 3. **Signed tags carry valid signatures**, issued by TigerTag Corp — in the TigerTag+
    Certified scope. An unsigned TigerTag+ is conformant and is not a finding.
-4. **The logo appears only where the chip actually is** — on the product, on the packaging, nowhere else.
+4. **The logo and name appear only where the chip actually is** — on the chip, the product and its packaging, nowhere else.
 5. **The tag survives the product** — placement, adhesion and readability through the spool's life,
    in the orientations a customer will actually load it.
 

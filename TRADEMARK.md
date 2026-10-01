@@ -2,17 +2,20 @@
 
 ## TL;DR
 
-- ✅ You can **implement the TigerTag protocol** in any product, open source or proprietary, for free, forever. See [`LICENSING.md`](LICENSING.md).
-- ✅ You can **build and sell commercial products** that read or write TigerTag chips.
-- ✅ You can say your product is **"compatible with TigerTag"**.
-- ✅ You can **display the TigerTag logo to indicate compatibility**, unmodified — in your app, your
-  docs, your store listing.
-- ❌ You cannot put the TigerTag logo **on a chip, a spool, or its packaging** without written
-  authorization. There, the logo is a mark of **authenticity**, not of compatibility.
-- ❌ You cannot **name your product or protocol "TigerTag"**, or use the name commercially as a brand.
-- ❌ You cannot **issue TigerTag+ signatures** — we hold the private key.
-- ❌ You cannot imply **certification, affiliation, or endorsement** without written authorization.
-- 🔍 **Certification is an audit, and it is a paid service** — see [`CERTIFICATION.md`](CERTIFICATION.md).
+- **Yes** — you can **implement the TigerTag protocol** in any product, open source or proprietary, for free, forever. See [`LICENSING.md`](LICENSING.md).
+- **Yes** — you can **build and sell commercial products** that read or write TigerTag chips.
+- **Yes** — you can say your product is **"compatible with TigerTag"**, including in plain text
+  on the packaging of a compatible reader, printer or piece of software.
+- **Yes** — you can **display the TigerTag logo to indicate compatibility**, unmodified — in your
+  app, your docs, your store listing.
+- **No** — you cannot put the TigerTag **logo or name** ("TigerTag", "TigerTag+", "TigerTag+
+  Certified") **on an RFID / NFC chip of any format** — chip, inlay, sticker, label, card, key
+  fob, carrier — **nor on a spool, a resin bottle or their packaging**, without written
+  authorization. There, the mark is a statement of **authenticity**, not of compatibility.
+- **No** — you cannot **name your product or protocol "TigerTag"**, or use the name commercially as a brand.
+- **No** — you cannot **issue TigerTag+ signatures** — we hold the private key.
+- **No** — you cannot imply **certification, affiliation, or endorsement** without written authorization.
+- **Certification is an audit, and it is a paid service** — see [`CERTIFICATION.md`](CERTIFICATION.md).
 
 > Say what your product *does* as loudly as you like. Only we say what a TigerTag *is*.
 
@@ -56,7 +59,10 @@ TigerTag refers to the **RFID material-identification protocol**, the **cloud se
 
 You **may** reference "TigerTag" in a factual, descriptive way
 (e.g. *"compatible with TigerTag"*, *"reads TigerTag spools"*, *"implements the TigerTag
-protocol v2.1"*) without permission.
+protocol v2.2"*) without permission — in prose, in your documentation, and in plain text on
+the packaging of a product that reads or writes TigerTag chips (see
+[nominative use](#nominative-text-on-a-compatible-product)). The name may never be printed on
+the chip itself or on a consumable: see [Product use](#2-product-use--written-authorization-required).
 
 You **may not** use "TigerTag" as the name of a competing RFID protocol, cloud service,
 company, domain, or product brand without explicit written authorization.
@@ -117,14 +123,34 @@ Conditions:
 - You must not imply affiliation, certification, or endorsement.
 - You must respect the visual guidelines in [`brand/`](brand/).
 
+### Nominative text on a compatible product
+
+A product that **reads or writes** TigerTag chips — a reader, a printer, a scale, a slicer, an
+app — may say so **in plain text** on its own packaging, product page and manual, without
+permission. This is the descriptive (nominative) use that trademark law tolerates:
+
+- **plain text only**, e.g. *"Compatible with TigerTag"* or *"Reads TigerTag tags"* — not the
+  logo, not a stylised lettering, not a badge or seal;
+- no more prominent than the surrounding text, and never more prominent than your own brand;
+- only the words needed to state the fact — no *"official"*, *"certified"*, *"approved"* or
+  *"partner"* unless you hold that status;
+- **never on the chip, nor on a consumable** (filament, resin, spool, bottle, refill) **or its
+  packaging** — there the words say *"this is a TigerTag"*, which is Product use below.
+
 ### 2. Product use — written authorization required
 
 You **may not**, without a written trademark licence from TigerTag Corp:
 
-- print, emboss, engrave or otherwise apply the TigerTag logo **on an RFID chip, an inlay,
-  a carrier, a label, a spool, a resin bottle, or its packaging**;
+- print, emboss, engrave, laser-mark, encode as artwork or otherwise reproduce the TigerTag
+  **logo or name** — "TigerTag", "TigerTag+", "TigerTag+ Certified", or any variant,
+  abbreviation or translation of them — **on an RFID / NFC chip of any format**: bare chip,
+  inlay (wet or dry), sticker, label, card, key fob, coin, carrier or any other tag housing;
+- reproduce that logo or name **on a spool, a resin bottle, a refill, or their packaging**;
 - use the TigerTag name **commercially as a brand or product designation**;
-- present the logo as a **mark of authenticity, certification, quality, or partnership**.
+- present the logo or name as a **mark of authenticity, certification, quality, or partnership**.
+
+This covers the visible surface of the tag. What the chip's **memory** carries is the protocol
+itself: writing TigerTag data, including a TigerTag+ product id, is free and always will be.
 
 Applied to a product, the mark no longer says *"this works with TigerTag"*. It says
 **"this *is* a TigerTag"** — an assertion about who made it and whether it can be trusted.
@@ -159,25 +185,28 @@ the logo descriptively; it is not a copyright licence to the artwork.
 
 | Action | Allowed? |
 |---|---|
-| Read, quote, and translate the specification | ✅ Yes (CC-BY-4.0) |
-| Implement the protocol in a closed-source product | ✅ Yes (irrevocable grant) |
-| Ship a commercial printer, slicer, or reader that speaks TigerTag | ✅ Yes |
-| Copy the sample code into your firmware | ✅ Yes (Apache-2.0) |
-| Embed `database/*.json` in your product | ✅ Yes (CC0, no attribution needed) |
-| Verify a TigerTag+ signature offline | ✅ Yes |
-| Say "compatible with TigerTag", including on a commercial product | ✅ Yes |
-| Display the unmodified logo **in your app, docs or store listing** to show compatibility | ✅ Yes |
-| Propose a change to the protocol | ✅ Encouraged — see [`CONTRIBUTING.md`](CONTRIBUTING.md) |
-| Put the TigerTag logo **on a chip, inlay, label, spool, bottle or packaging** | ❌ No — written authorization + certification |
-| Use the TigerTag name **commercially as a brand or product designation** | ❌ No (trademark) |
-| Present the logo as a **seal of authenticity, quality or partnership** | ❌ No — written authorization + certification |
-| Name your app or protocol "TigerTag" | ❌ No (trademark) |
-| Name your company or domain "TigerTag" | ❌ No (trademark) |
-| Create a competing RFID protocol called "TigerTag" | ❌ No (trademark) |
-| Issue or forge a TigerTag+ signature | ❌ No (key custody) |
-| Label your tag "TigerTag+" — a catalogue product id, no signature needed | ✅ Yes |
-| Label your tag "TigerTag+ **Certified**" without a valid signature | ❌ No (trademark + misrepresentation) |
-| Claim TigerTag certification without agreement | ❌ No — see [`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md) |
+| Read, quote, and translate the specification | Yes (CC-BY-4.0) |
+| Implement the protocol in a closed-source product | Yes (irrevocable grant) |
+| Ship a commercial printer, slicer, or reader that speaks TigerTag | Yes |
+| Copy the sample code into your firmware | Yes (Apache-2.0) |
+| Embed `database/*.json` in your product | Yes (CC0, no attribution needed) |
+| Verify a TigerTag+ signature offline | Yes |
+| Write TigerTag data — including a TigerTag+ product id — into a chip's memory | Yes |
+| Say "compatible with TigerTag", including on a commercial product | Yes |
+| Write "Compatible with TigerTag" **in plain text** on the packaging of a compatible reader, printer or software | Yes — nominative use, no logo |
+| Display the unmodified logo **in your app, docs or store listing** to show compatibility | Yes |
+| Describe your tag's data as "TigerTag+" (a catalogue product id) in your app, docs or listing | Yes |
+| Propose a change to the protocol | Encouraged — see [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| Put the TigerTag **logo or name** on an **RFID / NFC chip of any format** (chip, inlay, sticker, label, card, key fob, carrier) | No — written authorization + certification |
+| Put the TigerTag **logo or name** on a **spool, bottle, refill or their packaging** | No — written authorization + certification |
+| Use the TigerTag name **commercially as a brand or product designation** | No (trademark) |
+| Present the logo or name as a **seal of authenticity, quality or partnership** | No — written authorization + certification |
+| Name your app or protocol "TigerTag" | No (trademark) |
+| Name your company or domain "TigerTag" | No (trademark) |
+| Create a competing RFID protocol called "TigerTag" | No (trademark) |
+| Issue or forge a TigerTag+ signature | No (key custody) |
+| Describe a tag as "TigerTag+ **Certified**" without a valid signature | No (trademark + misrepresentation) |
+| Claim TigerTag certification without agreement | No — see [`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md) |
 
 ---
 
@@ -200,8 +229,8 @@ restated here.
 
 If you manufacture filament or resin and want **officially supplied TigerTag media**
 (pre-printed carriers), **TigerTag+ signatures**, **product-ID allocation**, the right to put
-**the TigerTag logo on your product or packaging**, or **certified partner status**, you need
-certification.
+**the TigerTag logo or name on your chips, your product or its packaging**, or **certified
+partner status**, you need certification.
 
 Certification is an **audit** — of your product and of your process — followed by a trademark
 licence. It is a paid service, on the model the Connectivity Standards Alliance uses for Zigbee

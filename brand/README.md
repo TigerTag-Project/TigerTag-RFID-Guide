@@ -21,12 +21,20 @@ You have a limited, revocable permission to use the TigerTag logo, **unmodified*
 a true fact about compatibility:
 
 - inside your application's UI,
-- in your documentation, README, or store listing,
-- on packaging, to indicate that a spool carries a TigerTag chip.
+- in your documentation, README, or store listing.
+
+The **name**, in plain text only, may also appear on the packaging of a product that reads or
+writes TigerTag chips (a reader, a printer, software): *"Compatible with TigerTag"*. See
+[nominative use](../TRADEMARK.md#nominative-text-on-a-compatible-product).
 
 ## What you may not do
 
 - Modify the logo — no recolouring, stretching, cropping, or recomposition.
+- Reproduce the logo or the name ("TigerTag", "TigerTag+", "TigerTag+ Certified") on an
+  **RFID / NFC chip of any format** — chip, inlay, sticker, label, card, key fob, carrier — or
+  on a **spool, resin bottle, refill or their packaging**. That is reserved to certified
+  partners with written authorization: see
+  [Product use](../TRADEMARK.md#2-product-use--written-authorization-required).
 - Use "TigerTag" in your product, company, or domain name.
 - Imply affiliation, certification, endorsement, or partner status you do not have.
 - Present your product as "TigerTag+ Certified" unless its tags carry a valid signature
