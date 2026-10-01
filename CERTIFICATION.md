@@ -44,7 +44,7 @@ party can hold.
 | Audit | None | **Required** |
 | Cost | Free | **Paid** |
 | Approval | None. Self-declared | Written authorization |
-| Logo | In your app, docs, store listing | **On the product, the chip and the packaging** |
+| Logo and name | Logo in your app, docs, store listing; the name in plain text (*"Compatible with TigerTag"*) on a compatible reader, printer or software | **On the chip (any format), the product and the packaging** |
 | TigerTag+ signature issuance | — | TigerTag+ Certified scope only |
 | Product-ID allocation | — | Yes |
 | Public listing | — | Yes — in the certified registry |
@@ -115,7 +115,7 @@ Physical samples are tested against the conformance suite. The audit verifies th
    and you have a process to keep it correct after shipping.
 3. **Signed tags carry valid signatures**, issued by TigerTag Corp — in the TigerTag+
    Certified scope. An unsigned TigerTag+ is conformant and is not a finding.
-4. **The logo appears only where the chip actually is** — on the product, on the packaging, nowhere else.
+4. **The logo and name appear only where the chip actually is** — on the chip, the product and its packaging, nowhere else.
 5. **The tag survives the product** — placement, adhesion and readability through the spool's life,
    in the orientations a customer will actually load it.
 
@@ -131,6 +131,12 @@ On a pass, TigerTag Corp grants:
 - **TigerTag+ signature issuance** for your products, in the TigerTag+ Certified scope;
 - **product-ID allocation** in the official catalogue;
 - a **public listing in the certified registry**.
+
+**Display obligation.** A certified product line **must** show the TigerTag mark where the
+buyer can see it — on the chip, the product or its packaging, and, when it is sold online, next
+to where it is bought. The mark goes **only** on the product lines listed in the registry, never
+on the rest of a catalogue. This is the obligation the Connectivity Standards Alliance places on
+certified Zigbee and Matter products: a mark that only *may* appear tells the buyer nothing.
 
 ### 6. Surveillance
 
@@ -149,6 +155,21 @@ partner from the registry, and terminates the trademark licence.
 That first consequence is the one that matters, and it is why the programme has teeth: the TigerTag+
 signature is issued under a private key held by TigerTag Corp. It cannot be forged, and it cannot be
 issued by anyone else. **Revocation is technically real, not merely contractual.**
+
+---
+
+## Components: TigerTag Compliant Platform
+
+Chips, inlays, carriers, reader modules and firmware are **components**: they end up inside
+somebody else's product. A component that passes the audit is certified as a **TigerTag
+Compliant Platform** and may carry the mark on the component itself and its own packaging.
+
+A finished product does **not** become certified by containing a compliant platform. A spool
+fitted with certified inlays, or a printer built around a certified reader module, still needs
+its own certification before the mark goes on the product or its packaging — what was audited is
+the component, not how the product writes, places or uses it. Using a compliant platform does
+shorten that audit. The same rule separates Zigbee's *Compliant Platform* from a certified end
+product.
 
 ---
 
