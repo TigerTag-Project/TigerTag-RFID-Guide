@@ -152,12 +152,42 @@ You **may not**, without a written trademark licence from TigerTag Corp:
 This covers the visible surface of the tag. What the chip's **memory** carries is the protocol
 itself: writing TigerTag data, including a TigerTag+ product id, is free and always will be.
 
+Also prohibited, certified or not:
+
+- using the mark, or a modified, abbreviated or combined form of it, **in a product name, a
+  company name, a domain or subdomain name, or a social-media handle** (*"@TigerTagShop"*,
+  *"tigertag.example.com"*, *"TigerTagPro"*);
+- describing a finished product as certified because it **contains a certified component** — a
+  TigerTag Compliant Platform (see [`CERTIFICATION.md`](CERTIFICATION.md#components-tigertag-compliant-platform));
+- using the mark on a product line that is **not listed** in the certified registry.
+
+The trademark licence granted with certification is **limited, non-exclusive, non-transferable
+and revocable**: it covers the listed product lines only and ends when the certification does.
+
 Applied to a product, the mark no longer says *"this works with TigerTag"*. It says
 **"this *is* a TigerTag"** — an assertion about who made it and whether it can be trusted.
 That assertion is ours to make, and only ours.
 
 Authorization is granted through **certification**: an audit of your product and your process,
 followed by a trademark licence. It is a paid service. See [`CERTIFICATION.md`](CERTIFICATION.md).
+
+### The model: the Connectivity Standards Alliance
+
+On products, TigerTag follows the rules the Connectivity Standards Alliance applies to Zigbee
+and Matter:
+
+- the mark on a product, a chip or its packaging requires **certification**;
+- a certified product **must display** the mark, and is **listed** in a public registry;
+- certified **components** are *Compliant Platforms*, and do not certify the product they go into;
+- the mark never goes into a product name, a domain, a subdomain or a social handle, and is
+  never modified;
+- the licence is **limited and revocable**.
+
+One difference is deliberate. Matter is reserved to Alliance members; the TigerTag protocol is
+open to everyone ([`LICENSING.md`](LICENSING.md)). So the **referential** tier stays free for
+anyone, member or not: saying *"compatible with TigerTag"* and showing the logo in an app,
+documentation or a store listing. An open standard that charged for the right to say you
+implement it would not be open.
 
 ### Why this line exists
 
@@ -203,6 +233,8 @@ the logo descriptively; it is not a copyright licence to the artwork.
 | Present the logo or name as a **seal of authenticity, quality or partnership** | No — written authorization + certification |
 | Name your app or protocol "TigerTag" | No (trademark) |
 | Name your company or domain "TigerTag" | No (trademark) |
+| Use "TigerTag" in a subdomain or a social-media handle | No (trademark) |
+| Call a finished product certified because it contains a certified chip, inlay or module | No — the product needs its own certification |
 | Create a competing RFID protocol called "TigerTag" | No (trademark) |
 | Issue or forge a TigerTag+ signature | No (key custody) |
 | Describe a tag as "TigerTag+ **Certified**" without a valid signature | No (trademark + misrepresentation) |
