@@ -265918,6 +265918,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 84,
+      "color_g": 84,
+      "color_r": 84,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 35123,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "6975337039075",
+    "brand": "Bambu Lab",
+    "color": "#545454",
+    "color_info": {
+      "colors": [
+        "#545454"
+      ],
+      "type": "mono"
+    },
+    "id": 2071734116,
+    "img_src": "https://cdn.tigertag.io/img?id=2071734116&v=2",
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "A00-D3-1.75-1000-splfree",
+    "title": "PLA Basic - Dark Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 224,
       "color_r": 26,
