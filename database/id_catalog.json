@@ -7448,17 +7448,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#38322EFF",
+    "color": "#38322E",
     "color_info": {
       "colors": [
-        "#38322EFF"
+        "#38322E"
       ],
       "type": "mono"
     },
     "id": 61148777,
-    "img_src": "https://cdn.tigertag.io/img?id=61148777&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=61148777&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-CHOCOLATE-1.75-1000",
     "title": "PLA i6 Matte - Chocolate"
@@ -10550,17 +10550,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#CB4239FF",
+    "color": "#CB4239",
     "color_info": {
       "colors": [
-        "#CB4239FF"
+        "#CB4239"
       ],
       "type": "mono"
     },
     "id": 81956579,
-    "img_src": "https://cdn.tigertag.io/img?id=81956579&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=81956579&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-RUBYRED-1.75-1000",
     "title": "PLA i6 Matte - Ruby Red"
@@ -22741,17 +22741,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#787775FF",
+    "color": "#787775",
     "color_info": {
       "colors": [
-        "#787775FF"
+        "#787775"
       ],
       "type": "mono"
     },
     "id": 172960414,
-    "img_src": "https://cdn.tigertag.io/img?id=172960414&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=172960414&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-NARDOGRAY-1.75-1000",
     "title": "PLA i6 Matte - Nardo Gray"
@@ -86305,17 +86305,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#416992FF",
+    "color": "#416992",
     "color_info": {
       "colors": [
-        "#416992FF"
+        "#416992"
       ],
       "type": "mono"
     },
     "id": 644865630,
-    "img_src": "https://cdn.tigertag.io/img?id=644865630&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=644865630&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-MARINEBLUE-1.75-1000",
     "title": "PLA i6 Matte - Marine Blue"
@@ -116463,17 +116463,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#915C49FF",
+    "color": "#915C49",
     "color_info": {
       "colors": [
-        "#915C49FF"
+        "#915C49"
       ],
       "type": "mono"
     },
     "id": 883037494,
-    "img_src": "https://cdn.tigertag.io/img?id=883037494&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=883037494&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-BRICKRED-1.75-1000",
     "title": "PLA i6 Matte - Brick Red"
@@ -140696,6 +140696,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1069969669,
+    "img_src": "https://cdn.tigertag.io/img?id=1069969669&v=1",
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETG-BLACK-1.75-1000",
+    "title": "PETG Solid Color - PETG Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 183,
       "color_g": 127,
       "color_r": 0,
@@ -151275,17 +151313,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#D7C048FF",
+    "color": "#D7C048",
     "color_info": {
       "colors": [
-        "#D7C048FF"
+        "#D7C048"
       ],
       "type": "mono"
     },
     "id": 1151726851,
-    "img_src": "https://cdn.tigertag.io/img?id=1151726851&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1151726851&v=3",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-LEMONYELLOW-1.75-1000",
     "title": "PLA i6 Matte - Lemon Yellow"
@@ -163487,7 +163525,7 @@
       "id_unit": 21,
       "measure": 1000
     },
-    "barcode": null,
+    "barcode": "6975337038980",
     "brand": "Bambu Lab",
     "color": "#D1D3D5",
     "color_info": {
@@ -163497,7 +163535,7 @@
       "type": "mono"
     },
     "id": 1253676470,
-    "img_src": "https://cdn.tigertag.io/img?id=1253676470&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1253676470&v=3",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -175552,17 +175590,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#7C65A1FF",
+    "color": "#7C65A1",
     "color_info": {
       "colors": [
-        "#7C65A1FF"
+        "#7C65A1"
       ],
       "type": "mono"
     },
     "id": 1348064186,
-    "img_src": "https://cdn.tigertag.io/img?id=1348064186&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1348064186&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-LAVENDERPURPLE-1.75-1000",
     "title": "PLA i6 Matte - Lavender Purple"
@@ -178985,17 +179023,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#96727DFF",
+    "color": "#96727D",
     "color_info": {
       "colors": [
-        "#96727DFF"
+        "#96727D"
       ],
       "type": "mono"
     },
     "id": 1374769302,
-    "img_src": "https://cdn.tigertag.io/img?id=1374769302&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1374769302&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-SAKURAPINK-1.75-1000",
     "title": "PLA i6 Matte - Sakura Pink"
@@ -181771,17 +181809,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 1396024782,
-    "img_src": "https://cdn.tigertag.io/img?id=1396024782&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1396024782&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-WHITE-1.75-1000",
     "title": "PLA i6 Matte - White"
@@ -190230,17 +190268,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#568AA2FF",
+    "color": "#568AA2",
     "color_info": {
       "colors": [
-        "#568AA2FF"
+        "#568AA2"
       ],
       "type": "mono"
     },
     "id": 1460504132,
-    "img_src": "https://cdn.tigertag.io/img?id=1460504132&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1460504132&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-SKYBLUE-1.75-1000",
     "title": "PLA i6 Matte - Sky Blue"
@@ -204186,17 +204224,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#D2B48CFF",
+    "color": "#D2B48C",
     "color_info": {
       "colors": [
-        "#D2B48CFF"
+        "#D2B48C"
       ],
       "type": "mono"
     },
     "id": 1563908487,
-    "img_src": "https://cdn.tigertag.io/img?id=1563908487&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1563908487&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-BEIGE-1.75-1000",
     "title": "PLA i6 Matte - Beige"
@@ -210006,17 +210044,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#A58B74FF",
+    "color": "#A58B74",
     "color_info": {
       "colors": [
-        "#A58B74FF"
+        "#A58B74"
       ],
       "type": "mono"
     },
     "id": 1611926211,
-    "img_src": "https://cdn.tigertag.io/img?id=1611926211&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1611926211&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-SKIN-1.75-1000",
     "title": "PLA i6 Matte - Skin"
@@ -227025,23 +227063,23 @@
       "id_aspect1": 104,
       "id_aspect2": null,
       "id_brand": 35123,
-      "id_material": 20562,
+      "id_material": 26029,
       "id_type": 142,
       "id_unit": 21,
       "measure": 500
     },
     "barcode": "6975337038078",
     "brand": "Bambu Lab",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 1751885106,
-    "img_src": "https://cdn.tigertag.io/img?id=1751885106&v=1",
-    "material": "ABS",
+    "img_src": "https://cdn.tigertag.io/img?id=1751885106&v=2",
+    "material": "HIPS",
     "measure": "500 g",
     "product_type": "Filament",
     "sku": "S06-W0-1.75-500-spl",
@@ -228556,17 +228594,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#626F45FF",
+    "color": "#626F45",
     "color_info": {
       "colors": [
-        "#626F45FF"
+        "#626F45"
       ],
       "type": "mono"
     },
     "id": 1766404167,
-    "img_src": "https://cdn.tigertag.io/img?id=1766404167&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1766404167&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-ARMYGREEN-1.75-1000",
     "title": "PLA i6 Matte - Army Green"
@@ -259666,17 +259704,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#CC3D3FFF",
+    "color": "#CC3D3F",
     "color_info": {
       "colors": [
-        "#CC3D3FFF"
+        "#CC3D3F"
       ],
       "type": "mono"
     },
     "id": 2014184870,
-    "img_src": "https://cdn.tigertag.io/img?id=2014184870&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2014184870&v=3",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-CLOWNRED-1.75-1000",
     "title": "PLA i6 Matte - Clown Red"
@@ -260806,17 +260844,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#5D4E46FF",
+    "color": "#5D4E46",
     "color_info": {
       "colors": [
-        "#5D4E46FF"
+        "#5D4E46"
       ],
       "type": "mono"
     },
     "id": 2021464756,
-    "img_src": "https://cdn.tigertag.io/img?id=2021464756&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2021464756&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-BROWN-1.75-1000",
     "title": "PLA i6 Matte - Brown"
@@ -267608,17 +267646,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#856B50FF",
+    "color": "#856B50",
     "color_info": {
       "colors": [
-        "#856B50FF"
+        "#856B50"
       ],
       "type": "mono"
     },
     "id": 2070522891,
-    "img_src": "https://cdn.tigertag.io/img?id=2070522891&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2070522891&v=3",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-LATTEBROWN-1.75-1000",
     "title": "PLA i6 Matte - Latte Brown"
@@ -324396,23 +324434,23 @@
       "id_aspect1": 104,
       "id_aspect2": null,
       "id_brand": 35123,
-      "id_material": 38219,
+      "id_material": 38256,
       "id_type": 142,
       "id_unit": 21,
       "measure": 500
     },
     "barcode": "6937285500731",
     "brand": "Bambu Lab",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 2523797747,
-    "img_src": "https://cdn.tigertag.io/img?id=2523797747&v=1",
-    "material": "PLA",
+    "img_src": "https://cdn.tigertag.io/img?id=2523797747&v=2",
+    "material": "PETG",
     "measure": "500 g",
     "product_type": "Filament",
     "sku": "S02-W1-1.75-500-spl",
@@ -366589,17 +366627,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#EC6F35FF",
+    "color": "#EC6F35",
     "color_info": {
       "colors": [
-        "#EC6F35FF"
+        "#EC6F35"
       ],
       "type": "mono"
     },
     "id": 2837391817,
-    "img_src": "https://cdn.tigertag.io/img?id=2837391817&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2837391817&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-HALLOWEENORANGE-1.75-1000",
     "title": "PLA i6 Matte - Halloween Orange"
@@ -410680,17 +410718,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#56AF6DFF",
+    "color": "#56AF6D",
     "color_info": {
       "colors": [
-        "#56AF6DFF"
+        "#56AF6D"
       ],
       "type": "mono"
     },
     "id": 3179940917,
-    "img_src": "https://cdn.tigertag.io/img?id=3179940917&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3179940917&v=3",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-GRASSGREEN-1.75-1000",
     "title": "PLA i6 Matte - Grass Green"
@@ -422988,17 +423026,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#99A82CFF",
+    "color": "#99A82C",
     "color_info": {
       "colors": [
-        "#99A82CFF"
+        "#99A82C"
       ],
       "type": "mono"
     },
     "id": 3279652231,
-    "img_src": "https://cdn.tigertag.io/img?id=3279652231&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3279652231&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-APPLEGREEN-1.75-1000",
     "title": "PLA i6 Matte - Apple Green"
@@ -465461,15 +465499,15 @@
     },
     "barcode": "6975337031024",
     "brand": "Bambu Lab",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 3608667697,
-    "img_src": "https://cdn.tigertag.io/img?id=3608667697&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3608667697&v=4",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -505868,17 +505906,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#AC295CFF",
+    "color": "#AC295C",
     "color_info": {
       "colors": [
-        "#AC295CFF"
+        "#AC295C"
       ],
       "type": "mono"
     },
     "id": 3936938637,
-    "img_src": "https://cdn.tigertag.io/img?id=3936938637&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3936938637&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-REDVIOLET-1.75-1000",
     "title": "PLA i6 Matte - Red Violet"
@@ -524917,6 +524955,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4084479438,
+    "img_src": "https://cdn.tigertag.io/img?id=4084479438&v=1",
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETG-WHITE-1.75-1000",
+    "title": "PETG Solid Color - PETG White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 224,
       "color_g": 163,
       "color_r": 0,
@@ -541108,17 +541184,17 @@
     },
     "barcode": null,
     "brand": "iSANMATE",
-    "color": "#3A4459FF",
+    "color": "#3A4459",
     "color_info": {
       "colors": [
-        "#3A4459FF"
+        "#3A4459"
       ],
       "type": "mono"
     },
     "id": 4207393808,
-    "img_src": "https://cdn.tigertag.io/img?id=4207393808&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4207393808&v=2",
     "material": "PLA",
-    "measure": "1000 mg",
+    "measure": "1000 g",
     "product_type": "Filament",
     "sku": "ISM-I6MATTE-NAVYBLUE-1.75-1000",
     "title": "PLA i6 Matte - Navy Blue"
