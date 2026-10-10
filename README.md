@@ -1702,6 +1702,7 @@ TigerSystem is a personal, community open-source project, built and maintained i
 Everything stays free; if it saves you a spool or two, you can support it:
 
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/benoitl)
+- ❤️ [Ko-fi](https://ko-fi.com/tigersystemio)
 - 💙 [PayPal](https://paypal.me/tigersystemio)
 
 Support goes to the maintainer — never required, always appreciated.
