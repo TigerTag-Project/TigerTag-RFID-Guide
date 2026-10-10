@@ -1696,6 +1696,16 @@ Community integrations:
 - Home Assistant: https://github.com/Kenny3231/TigerTag
 - Snapmaker U1 firmware: https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware
 
+## Support the project
+
+TigerSystem is a personal, community open-source project, built and maintained in free time.
+Everything stays free; if it saves you a spool or two, you can support it:
+
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/benoitl)
+- 💙 [PayPal](https://paypal.me/tigersystemio)
+
+Support goes to the maintainer — never required, always appreciated.
+
 ## BRAND ASSETS
 Canonical official assets live in brand/:
 - brand/logo_tigertag.svg            — logo for dark surfaces (white)
