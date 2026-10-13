@@ -51576,6 +51576,44 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753138941",
+    "brand": "Rosa3D",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 382941703,
+    "img_src": null,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5024",
+    "title": "PET-G + 30 GF - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 89,
       "color_g": 158,
       "color_r": 45,
@@ -354283,15 +354321,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#F8C8DCFF",
+    "color": "#F8C8DC",
     "color_info": {
       "colors": [
-        "#F8C8DCFF"
+        "#F8C8DC"
       ],
       "type": "mono"
     },
     "id": 2729769477,
-    "img_src": "https://cdn.tigertag.io/img?id=2729769477&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2729769477&v=5",
     "material": "PLA",
     "measure": "1000 g",
     "product_type": "Filament",
@@ -360207,6 +360245,44 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAM-MATTETERRACOTTA-285-5KG",
     "title": "THE K5 PLA M - Matte Terracotta"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753138958",
+    "brand": "Rosa3D",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2777529663,
+    "img_src": null,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5025",
+    "title": "PET-G + 30 GF - White"
   },
   {
     "RFID_Data": {
@@ -367405,6 +367481,44 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F5002",
     "title": "PLA ESD - Tool Yellow (RAL 1003)"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 205,
+      "color_g": 205,
+      "color_r": 205,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753138965",
+    "brand": "Rosa3D",
+    "color": "#CDCDCD",
+    "color_info": {
+      "colors": [
+        "#CDCDCD"
+      ],
+      "type": "mono"
+    },
+    "id": 2832455506,
+    "img_src": null,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5026",
+    "title": "PET-G + 30 GF - Light Gray"
   },
   {
     "RFID_Data": {
