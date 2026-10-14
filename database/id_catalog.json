@@ -1905,6 +1905,44 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F5F5F533",
+    "color_info": {
+      "colors": [
+        "#F5F5F533"
+      ],
+      "type": "mono"
+    },
+    "id": 19408319,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTRGRAD-MULTI-1.75-1000",
+    "title": "PETG Transparent Gradient - PETG Transparent Gradient"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 0,
       "color_g": 0,
@@ -12395,6 +12433,48 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 128,
+      "color_b2": 255,
+      "color_g": 0,
+      "color_g2": 255,
+      "color_r": 128,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#80008033",
+    "color_info": {
+      "colors": [
+        "#80008033",
+        "#FFFFFF33"
+      ],
+      "type": "gradient"
+    },
+    "id": 92431936,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-PURPLEWHITE-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient Purple-White"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 138,
       "color_g": 158,
@@ -22181,6 +22261,44 @@
     "product_type": "Filament",
     "sku": "",
     "title": "PLA - Blue (Blue Glow)"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 230,
+      "color_g": 216,
+      "color_r": 173,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#ADD8E633",
+    "color_info": {
+      "colors": [
+        "#ADD8E633"
+      ],
+      "type": "mono"
+    },
+    "id": 165742957,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGCLGLIT-LIGHTBLUE-1.75-1000",
+    "title": "PETG Clear Glitter - PETG Clear Glitter Light-Blue"
   },
   {
     "RFID_Data": {
@@ -32689,6 +32807,52 @@
     "product_type": "Filament",
     "sku": "SL-PLA+V2-MG-1KG",
     "title": "PLA+ 2.0 - Mint Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 255,
+      "color_b2": 255,
+      "color_b3": 0,
+      "color_g": 0,
+      "color_g2": 255,
+      "color_g3": 165,
+      "color_r": 0,
+      "color_r2": 255,
+      "color_r3": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 24,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF33",
+    "color_info": {
+      "colors": [
+        "#0000FF33",
+        "#FFFFFF33",
+        "#FFA50033"
+      ],
+      "type": "gradient"
+    },
+    "id": 243051559,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-BLUEWHITEORANGE-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient Blue-White-Orange"
   },
   {
     "RFID_Data": {
@@ -87889,6 +88053,44 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 220,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 232,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F5F5DC33",
+    "color_info": {
+      "colors": [
+        "#F5F5DC33"
+      ],
+      "type": "mono"
+    },
+    "id": 649632280,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGMARBLE-NATURE-1.75-1000",
+    "title": "PETG Marble - PETG Marble Nature"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 86,
       "color_g": 86,
@@ -105114,6 +105316,48 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F4916",
     "title": "PLA Starter - Magenta Neon"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 203,
+      "color_b2": 255,
+      "color_g": 192,
+      "color_g2": 255,
+      "color_r": 255,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFC0CB33",
+    "color_info": {
+      "colors": [
+        "#FFC0CB33",
+        "#FFFFFF33"
+      ],
+      "type": "gradient"
+    },
+    "id": 783667606,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-PINKWHITE-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient Pink-White"
   },
   {
     "RFID_Data": {
@@ -129457,6 +129701,52 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_b3": 0,
+      "color_g": 255,
+      "color_g2": 0,
+      "color_g3": 0,
+      "color_r": 255,
+      "color_r2": 255,
+      "color_r3": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 24,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFF0033",
+    "color_info": {
+      "colors": [
+        "#FFFF0033",
+        "#FF000033",
+        "#00000033"
+      ],
+      "type": "gradient"
+    },
+    "id": 973928063,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTRGRAD-YELLOWREDBLACK-1.75-1000",
+    "title": "PETG Transparent Gradient - PETG Transparent Gradient Yellow-Red-Black"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 78,
       "color_g": 77,
@@ -144888,6 +145178,48 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 255,
+      "color_b2": 128,
+      "color_g": 0,
+      "color_g2": 0,
+      "color_r": 0,
+      "color_r2": 128,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF33",
+    "color_info": {
+      "colors": [
+        "#0000FF33",
+        "#80008033"
+      ],
+      "type": "gradient"
+    },
+    "id": 1088433449,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGCLGLIT-BLUEPURPLE-1.75-1000",
+    "title": "PETG Clear Glitter - PETG Clear Glitter Blue-Purple"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 255,
       "color_g": 255,
@@ -153506,6 +153838,44 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLASILK-NEONGREEN-285-1KG",
     "title": "THE K5 PLA Silk - Neon Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 0,
+      "color_g": 255,
+      "color_r": 204,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#CCFF0033",
+    "color_info": {
+      "colors": [
+        "#CCFF0033"
+      ],
+      "type": "mono"
+    },
+    "id": 1153459172,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGCLGLIT-FLUORESCENTGREEN-1.75-1000",
+    "title": "PETG Clear Glitter - PETG Clear Glitter Fluorescent Green"
   },
   {
     "RFID_Data": {
@@ -179454,6 +179824,52 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 0,
+      "color_b2": 128,
+      "color_b3": 255,
+      "color_g": 255,
+      "color_g2": 0,
+      "color_g3": 0,
+      "color_r": 255,
+      "color_r2": 128,
+      "color_r3": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 24,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFF0033",
+    "color_info": {
+      "colors": [
+        "#FFFF0033",
+        "#80008033",
+        "#0000FF33"
+      ],
+      "type": "gradient"
+    },
+    "id": 1361572063,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTRGRAD-YELLOWPURPLEBLUE-1.75-1000",
+    "title": "PETG Transparent Gradient - PETG Transparent Gradient Yellow-Purple-Blue"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 50,
       "color_g": 115,
@@ -190886,6 +191302,48 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_g": 255,
+      "color_g2": 128,
+      "color_r": 255,
+      "color_r2": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFF0033",
+    "color_info": {
+      "colors": [
+        "#FFFF0033",
+        "#00800033"
+      ],
+      "type": "gradient"
+    },
+    "id": 1447659874,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-YELLOWGREEN-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient Yellow-Green"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 47,
       "color_g": 215,
@@ -197308,6 +197766,53 @@
     "product_type": "Filament",
     "sku": "5903175659873",
     "title": "Huracan PLA - Ola Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_b3": 0,
+      "color_g": 0,
+      "color_g2": 255,
+      "color_g3": 255,
+      "color_r": 255,
+      "color_r2": 255,
+      "color_r3": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FF000033",
+    "color_info": {
+      "colors": [
+        "#FF000033",
+        "#FFFF0033",
+        "#00FF0033",
+        "#0000FF33"
+      ],
+      "type": "gradient"
+    },
+    "id": 1496019112,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGCLGLIT-RAINBOW-1.75-1000",
+    "title": "PETG Clear Glitter - PETG Clear Glitter Rainbow"
   },
   {
     "RFID_Data": {
@@ -211005,6 +211510,52 @@
     "product_type": "Filament",
     "sku": "CA05005",
     "title": "Panchroma™ Satin PLA - Satin Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_b3": 0,
+      "color_g": 255,
+      "color_g2": 128,
+      "color_g3": 0,
+      "color_r": 255,
+      "color_r2": 0,
+      "color_r3": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 24,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFF0033",
+    "color_info": {
+      "colors": [
+        "#FFFF0033",
+        "#00800033",
+        "#FF000033"
+      ],
+      "type": "gradient"
+    },
+    "id": 1596110813,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTRGRAD-YELLOWGREENRED-1.75-1000",
+    "title": "PETG Transparent Gradient - PETG Transparent Gradient Yellow-Green-Red"
   },
   {
     "RFID_Data": {
@@ -236142,6 +236693,48 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 255,
+      "color_b2": 128,
+      "color_g": 0,
+      "color_g2": 0,
+      "color_r": 0,
+      "color_r2": 128,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF33",
+    "color_info": {
+      "colors": [
+        "#0000FF33",
+        "#80008033"
+      ],
+      "type": "gradient"
+    },
+    "id": 1804859220,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-BLUEPURPLE-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient Blue-Purple"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 142,
       "color_g": 53,
@@ -246305,6 +246898,44 @@
     "product_type": "Filament",
     "sku": "OT1001054",
     "title": "PLA - Olive Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F5F5F533",
+    "color_info": {
+      "colors": [
+        "#F5F5F533"
+      ],
+      "type": "mono"
+    },
+    "id": 1883230383,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-MULTI-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient"
   },
   {
     "RFID_Data": {
@@ -288653,6 +289284,48 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 255,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 165,
+      "color_r": 0,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF33",
+    "color_info": {
+      "colors": [
+        "#0000FF33",
+        "#FFA50033"
+      ],
+      "type": "gradient"
+    },
+    "id": 2203235305,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTRGRAD-BLUEORANGE-1.75-1000",
+    "title": "PETG Transparent Gradient - PETG Transparent Gradient Blue-Orange"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 255,
       "color_g": 255,
@@ -297415,6 +298088,44 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU95A-ULTIMATEGRAY-175-3KG",
     "title": "THE K8 TPU 95A - Ultimate Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 144,
+      "color_g": 128,
+      "color_r": 112,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#70809033",
+    "color_info": {
+      "colors": [
+        "#70809033"
+      ],
+      "type": "mono"
+    },
+    "id": 2269250587,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGCLGLIT-SMOKEGREY-1.75-1000",
+    "title": "PETG Clear Glitter - PETG Clear Glitter Smoke Grey"
   },
   {
     "RFID_Data": {
@@ -357653,6 +358364,48 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 255,
+      "color_b2": 255,
+      "color_g": 0,
+      "color_g2": 255,
+      "color_r": 0,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF33",
+    "color_info": {
+      "colors": [
+        "#0000FF33",
+        "#FFFFFF33"
+      ],
+      "type": "gradient"
+    },
+    "id": 2733667565,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-BLUEWHITE-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient Blue-White"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 142,
       "color_g": 57,
@@ -391182,6 +391935,48 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 255,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 128,
+      "color_r": 0,
+      "color_r2": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF33",
+    "color_info": {
+      "colors": [
+        "#0000FF33",
+        "#00800033"
+      ],
+      "type": "gradient"
+    },
+    "id": 2992694257,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-BLUEGREEN-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient Blue-Green"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 24,
       "color_g": 197,
@@ -407975,6 +408770,44 @@
     "product_type": "Filament",
     "sku": "G3D-ABS-TRANSPARENT-175-1KG",
     "title": "ABS - Transparent"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 28,
+      "color_g": 28,
+      "color_r": 28,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 60,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#1C1C1C33",
+    "color_info": {
+      "colors": [
+        "#1C1C1C33"
+      ],
+      "type": "mono"
+    },
+    "id": 3116726124,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGCF-BLACK-1.75-1000",
+    "title": "PETG Carbon Fiber - PETG Carbon Fiber"
   },
   {
     "RFID_Data": {
@@ -468245,6 +469078,48 @@
   },
   {
     "RFID_Data": {
+      "color_a": 51,
+      "color_b": 0,
+      "color_b2": 128,
+      "color_g": 128,
+      "color_g2": 0,
+      "color_r": 0,
+      "color_r2": 128,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#00800033",
+    "color_info": {
+      "colors": [
+        "#00800033",
+        "#80008033"
+      ],
+      "type": "gradient"
+    },
+    "id": 3582395309,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-GREENPURPLE-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient Green-Purple"
+  },
+  {
+    "RFID_Data": {
       "color_a": 255,
       "color_b": 0,
       "color_g": 0,
@@ -481893,6 +482768,48 @@
     "product_type": "Filament",
     "sku": "ASA+175W-W1P1",
     "title": "ASA+ - WARM WHITE"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 255,
+      "color_b2": 128,
+      "color_g": 0,
+      "color_g2": 0,
+      "color_r": 0,
+      "color_r2": 128,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF33",
+    "color_info": {
+      "colors": [
+        "#0000FF33",
+        "#80008033"
+      ],
+      "type": "gradient"
+    },
+    "id": 3693784679,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTRGRAD-BLUEPURPLE-1.75-1000",
+    "title": "PETG Transparent Gradient - PETG Transparent Gradient Blue-Purple"
   },
   {
     "RFID_Data": {
@@ -516259,6 +517176,48 @@
     "product_type": "Filament",
     "sku": "HC286",
     "title": "PLA+ - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 51,
+      "color_b": 203,
+      "color_b2": 0,
+      "color_g": 192,
+      "color_g2": 255,
+      "color_r": 255,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFC0CB33",
+    "color_info": {
+      "colors": [
+        "#FFC0CB33",
+        "#FFFF0033"
+      ],
+      "type": "gradient"
+    },
+    "id": 3968306596,
+    "img_src": null,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGTLGRAD-PINKYELLOW-1.75-1000",
+    "title": "PETG Translucent Gradient - PETG Translucent Gradient Pink-Yellow"
   },
   {
     "RFID_Data": {
