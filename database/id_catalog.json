@@ -863,6 +863,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 179,
+      "color_g": 222,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 35100,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F5DEB3",
+    "color_info": {
+      "colors": [
+        "#F5DEB3"
+      ],
+      "type": "mono"
+    },
+    "id": 7525907,
+    "img_src": "https://cdn.tigertag.io/img?id=7525907&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ASAGF-NATURAL-1.75-1000",
+    "title": "ASA Glass Fiber - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 204,
       "color_g": 204,
       "color_r": 204,
@@ -6037,6 +6078,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "ABS - Lavender"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 425,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 45244051,
+    "img_src": "https://cdn.tigertag.io/img?id=45244051&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ABSCF-BLACK-1.75-1000",
+    "title": "ABS Carbon Fiber - Black"
   },
   {
     "RFID_Data": {
@@ -12793,6 +12875,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 88635445,
+    "img_src": "https://cdn.tigertag.io/img?id=88635445&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-TPU95A-BLACK-1.75-1000",
+    "title": "TPU 95A - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_g": 30,
       "color_r": 196,
@@ -15277,6 +15400,47 @@
     "product_type": "Filament",
     "sku": "B0281008",
     "title": "PLA Burnt Titanium Dual-Color - Black & Purple Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 191,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 360,
+      "data3": 390,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 49152,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFBF00",
+    "color_info": {
+      "colors": [
+        "#FFBF00"
+      ],
+      "type": "mono"
+    },
+    "id": 102571765,
+    "img_src": "https://cdn.tigertag.io/img?id=102571765&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPSU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PPSU-NATURAL-1.75-1000",
+    "title": "PPSU - Natural"
   },
   {
     "RFID_Data": {
@@ -25338,6 +25502,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": null,
+      "data5": null,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 12264,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 175506402,
+    "img_src": "https://cdn.tigertag.io/img?id=175506402&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA6-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PA6CF-BLACK-1.75-1000",
+    "title": "PA6 Carbon Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 22,
       "color_b2": 117,
       "color_g": 234,
@@ -27716,6 +27921,47 @@
     "product_type": "Filament",
     "sku": "R3DT1R107NMS",
     "title": "PEBA 90A - Silver"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 248,
+      "color_r": 240,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F0F8FF",
+    "color_info": {
+      "colors": [
+        "#F0F8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 194151266,
+    "img_src": "https://cdn.tigertag.io/img?id=194151266&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAUV-WHITEBLUE-1.75-1000",
+    "title": "PLA UV Light Color Change - White-Blue"
   },
   {
     "RFID_Data": {
@@ -44100,6 +44346,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_g": 165,
+      "color_g2": 255,
+      "color_r": 255,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFA500",
+    "color_info": {
+      "colors": [
+        "#FFA500",
+        "#FFFF00"
+      ],
+      "type": "gradient"
+    },
+    "id": 301038192,
+    "img_src": "https://cdn.tigertag.io/img?id=301038192&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAPLUSGRAD-ORANGEYELLOW-1.75-1000",
+    "title": "PLA+ Gradient - Orange-Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 208,
       "color_g": 224,
       "color_r": 64,
@@ -46293,6 +46584,51 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU80A-ORANGEPINK-175-1KG",
     "title": "THE K8 TPU 80A - Orange Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 0,
+      "color_r": 0,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FFFF",
+    "color_info": {
+      "colors": [
+        "#0000FFFF",
+        "#FF0000FF"
+      ],
+      "type": "multi"
+    },
+    "id": 315630280,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAPLUSCHAM-BLUERED-1.75-1000",
+    "title": "PLA+ Chameleon - Blue-Red"
   },
   {
     "RFID_Data": {
@@ -54366,6 +54702,51 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAM-MATTEBLACK-285-3KG",
     "title": "THE K5 PLA M - Matte Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_b2": 128,
+      "color_g": 0,
+      "color_g2": 0,
+      "color_r": 0,
+      "color_r2": 128,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF",
+    "color_info": {
+      "colors": [
+        "#0000FF",
+        "#800080"
+      ],
+      "type": "gradient"
+    },
+    "id": 367229449,
+    "img_src": "https://cdn.tigertag.io/img?id=367229449&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAPLUSGRAD-BLUEPURPLE-1.75-1000",
+    "title": "PLA+ Gradient - Blue-Purple"
   },
   {
     "RFID_Data": {
@@ -69381,6 +69762,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 215,
+      "color_r": 0,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 232,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000",
+        "#FFD700"
+      ],
+      "type": "multi"
+    },
+    "id": 472800127,
+    "img_src": "https://cdn.tigertag.io/img?id=472800127&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAMARBLE-BLACKGOLD-1.75-1000",
+    "title": "PLA Marble - Black-Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 0,
       "color_r": 0,
@@ -77122,6 +77548,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 220,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F5F5DCFF",
+    "color_info": {
+      "colors": [
+        "#F5F5DCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 525180196,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAGF-NATURAL-1.75-1000",
+    "title": "PLA Glass Fiber - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 171,
       "color_g": 119,
       "color_r": 238,
@@ -77856,6 +78323,47 @@
     "product_type": "Filament",
     "sku": "PKK5010500BK0",
     "title": "CarbonX - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 226,
+      "color_g": 43,
+      "color_r": 138,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#8A2BE2",
+    "color_info": {
+      "colors": [
+        "#8A2BE2"
+      ],
+      "type": "mono"
+    },
+    "id": 529443831,
+    "img_src": "https://cdn.tigertag.io/img?id=529443831&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAUV-PURPLEGREEN-1.75-1000",
+    "title": "PLA UV Light Color Change - Purple-Green"
   },
   {
     "RFID_Data": {
@@ -84534,6 +85042,55 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 193,
+      "color_b2": 207,
+      "color_b3": 205,
+      "color_g": 182,
+      "color_g2": 198,
+      "color_g3": 250,
+      "color_r": 255,
+      "color_r2": 174,
+      "color_r3": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 145,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFB6C1",
+    "color_info": {
+      "colors": [
+        "#FFB6C1",
+        "#AEC6CF",
+        "#FFFACD"
+      ],
+      "type": "multi"
+    },
+    "id": 575477796,
+    "img_src": "https://cdn.tigertag.io/img?id=575477796&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAPLUSRAINBOW-PASTEL-1.75-1000",
+    "title": "PLA+ Rainbow - Pastel"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 184,
       "color_g": 249,
       "color_r": 98,
@@ -90340,6 +90897,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 20588,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 614302140,
+    "img_src": "https://cdn.tigertag.io/img?id=614302140&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PCCF-GREY-1.75-1000",
+    "title": "PC Carbon Fiber - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 180,
       "color_g": 105,
       "color_r": 255,
@@ -94062,6 +94660,47 @@
     "product_type": "Filament",
     "sku": "KEX-K11PEEKPRO-NATURAL-175-025KG",
     "title": "THE K11 PEEK PRO - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 28,
+      "color_g": 28,
+      "color_r": 28,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#1C1C1C",
+    "color_info": {
+      "colors": [
+        "#1C1C1C"
+      ],
+      "type": "mono"
+    },
+    "id": 639354364,
+    "img_src": "https://cdn.tigertag.io/img?id=639354364&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGGF-BLACK-1.75-1000",
+    "title": "PETG Glass Fiber - Black"
   },
   {
     "RFID_Data": {
@@ -106357,6 +106996,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 48815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 721914538,
+    "img_src": "https://cdn.tigertag.io/img?id=721914538&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PAHT-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PAHTCF-BLACK-1.75-1000",
+    "title": "PAHT Carbon Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 161,
       "color_g": 165,
       "color_r": 168,
@@ -112602,6 +113282,47 @@
     "product_type": "Filament",
     "sku": "A00-P5-1.75-1000-splfree",
     "title": "PLA Basic - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 771899027,
+    "img_src": "https://cdn.tigertag.io/img?id=771899027&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-TPU85A-BLACK-1.75-1000",
+    "title": "TPU 85A - Black"
   },
   {
     "RFID_Data": {
@@ -120060,6 +120781,47 @@
     "product_type": "Filament",
     "sku": "OVS-VFBAGN11-010163",
     "title": "PLA Professional - Army Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 823289440,
+    "img_src": "https://cdn.tigertag.io/img?id=823289440&v=4",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PDSOP-BLACK-1.75-1000",
+    "title": "PDS Opaque - Black"
   },
   {
     "RFID_Data": {
@@ -127747,6 +128509,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5"
+      ],
+      "type": "mono"
+    },
+    "id": 880539884,
+    "img_src": "https://cdn.tigertag.io/img?id=880539884&v=1&timestamp=1792058392563",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLA-TRANSPARENT-CLEAR-1.75-1000",
+    "title": "PLA Transparent - Clear"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 87,
       "color_g": 139,
       "color_r": 46,
@@ -129018,6 +129821,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PETGR-GRAY-175-5KG",
     "title": "THE K5 PETG Rapid - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 425,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 891957707,
+    "img_src": "https://cdn.tigertag.io/img?id=891957707&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ABSCF-GREY-1.75-1000",
+    "title": "ABS Carbon Fiber - Grey"
   },
   {
     "RFID_Data": {
@@ -132978,6 +133822,47 @@
     "product_type": "Filament",
     "sku": "A10-A0-1.75-1000-spl",
     "title": "PLA Tough+ - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 30884,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 920570753,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PP",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PP-BLACK-1.75-1000",
+    "title": "PP Filament - Black"
   },
   {
     "RFID_Data": {
@@ -141493,6 +142378,47 @@
     "product_type": "Filament",
     "sku": "G3D-PLA-ROUGESCARLET-175-1KG",
     "title": "PLA - Rouge Scarlet"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 30,
+      "color_g": 105,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 370,
+      "data3": 390,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 56527,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#D2691E",
+    "color_info": {
+      "colors": [
+        "#D2691E"
+      ],
+      "type": "mono"
+    },
+    "id": 983131364,
+    "img_src": "https://cdn.tigertag.io/img?id=983131364&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEI-1010",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PEI-NATURAL-1.75-1000",
+    "title": "PEI - Natural"
   },
   {
     "RFID_Data": {
@@ -152392,6 +153318,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 370,
+      "data3": 390,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 56527,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1056054524,
+    "img_src": "https://cdn.tigertag.io/img?id=1056054524&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEI-1010",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PEI-BLACK-1.75-1000",
+    "title": "PEI - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 0,
       "color_r": 25,
@@ -159128,6 +160095,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 50497,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1101360761,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PP-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PPCF-BLACK-1.75-1000",
+    "title": "PP Carbon Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 51,
       "color_g": 64,
       "color_r": 92,
@@ -161232,6 +162240,47 @@
     "product_type": "Filament",
     "sku": "KEX-K6PVA-NATURAL-285-5KG",
     "title": "THE K6 PVA - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF",
+    "color_info": {
+      "colors": [
+        "#0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1118103171,
+    "img_src": "https://cdn.tigertag.io/img?id=1118103171&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGCOLORCF-BLUE-1.75-1000",
+    "title": "PETG Colorful Carbon Fiber - Blue"
   },
   {
     "RFID_Data": {
@@ -177001,6 +178050,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 179,
+      "color_g": 222,
+      "color_r": 245,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 49074,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F5DEB3FF",
+    "color_info": {
+      "colors": [
+        "#F5DEB3FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1230535413,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ABSGF-NATURAL-1.75-1000",
+    "title": "ABS Glass Fiber - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 64,
       "color_g": 95,
       "color_r": 82,
@@ -180785,6 +181875,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 220,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F5F5DC",
+    "color_info": {
+      "colors": [
+        "#F5F5DC"
+      ],
+      "type": "mono"
+    },
+    "id": 1263753663,
+    "img_src": "https://cdn.tigertag.io/img?id=1263753663&v=1&timestamp=1792058518508",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGGF-NATURAL-1.75-1000",
+    "title": "PETG Glass Fiber - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 140,
       "color_r": 255,
@@ -184524,6 +185655,51 @@
     "product_type": "Filament",
     "sku": "SL-PLA+V2-BL-1KG",
     "title": "PLA+ 2.0 - Klein Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 255,
+      "color_g": 0,
+      "color_g2": 102,
+      "color_r": 255,
+      "color_r2": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 145,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000",
+        "#0066FF"
+      ],
+      "type": "multi"
+    },
+    "id": 1292766602,
+    "img_src": "https://cdn.tigertag.io/img?id=1292766602&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-HSPLA-RAINBOW-CLASSIC-1.75-1000",
+    "title": "HS-PLA Rainbow - Rainbow Classic"
   },
   {
     "RFID_Data": {
@@ -194729,7 +195905,7 @@
       "type": "gradient"
     },
     "id": 1361572063,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=1361572063&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -207858,6 +209034,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 390,
+      "data3": 430,
+      "data4": null,
+      "data5": null,
+      "data6": 110,
+      "data7": 150,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 29815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1452231112,
+    "img_src": "https://cdn.tigertag.io/img?id=1452231112&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEEK",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PEEK-BLACK-1.75-1000",
+    "title": "PEEK - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 51,
       "color_g": 189,
       "color_r": 227,
@@ -218006,6 +219223,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 20588,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1520155221,
+    "img_src": "https://cdn.tigertag.io/img?id=1520155221&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PCCF-BLACK-1.75-1000",
+    "title": "PC Carbon Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 45,
       "color_g": 39,
       "color_r": 193,
@@ -218995,6 +220253,47 @@
     "product_type": "Filament",
     "sku": "G3D-PETG-ROSE-175-1KG",
     "title": "PETG - Rose"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 360,
+      "data3": 390,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 49152,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1526813406,
+    "img_src": "https://cdn.tigertag.io/img?id=1526813406&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPSU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PPSU-BLACK-1.75-1000",
+    "title": "PPSU - Black"
   },
   {
     "RFID_Data": {
@@ -221114,6 +222413,47 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F0558",
     "title": "PLA Multicolour - Moon"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 50497,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1541485404,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PP-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PPCF-GREY-1.75-1000",
+    "title": "PP Carbon Fiber - Grey"
   },
   {
     "RFID_Data": {
@@ -236118,6 +237458,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 49074,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1651610396,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ABSGF-BLACK-1.75-1000",
+    "title": "ABS Glass Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 61,
       "color_g": 139,
       "color_r": 46,
@@ -241104,6 +242485,47 @@
     "product_type": "Filament",
     "sku": "MSILK-RED-175-085",
     "title": "PLA FiberSilk - Fiberlogy PLA FiberSilk Red (0.85kg)"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 250,
+      "color_g": 206,
+      "color_r": 135,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 168,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#87CEFA",
+    "color_info": {
+      "colors": [
+        "#87CEFA"
+      ],
+      "type": "mono"
+    },
+    "id": 1686636364,
+    "img_src": "https://cdn.tigertag.io/img?id=1686636364&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLATEMP-BLUEWHITE-1.75-1000",
+    "title": "PLA Temp Color Change - Blue-White"
   },
   {
     "RFID_Data": {
@@ -262530,6 +263952,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 30884,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F5F5F5FF",
+    "color_info": {
+      "colors": [
+        "#F5F5F5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1852931999,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PP",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PP-NATURAL-1.75-1000",
+    "title": "PP Filament - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 132,
       "color_g": 119,
       "color_r": 202,
@@ -280067,6 +281530,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 35100,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1977130140,
+    "img_src": "https://cdn.tigertag.io/img?id=1977130140&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ASAGF-BLACK-1.75-1000",
+    "title": "ASA Glass Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 178,
       "color_g": 111,
       "color_r": 31,
@@ -283470,6 +284974,51 @@
     "product_type": "Filament",
     "sku": "DLZ-JY-SKRB-01-1.1kg",
     "title": "Silk Rainbow - Rainbow 01"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 70,
+      "color_b2": 157,
+      "color_g": 57,
+      "color_g2": 123,
+      "color_r": 230,
+      "color_r2": 69,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#E63946",
+    "color_info": {
+      "colors": [
+        "#E63946",
+        "#457B9D"
+      ],
+      "type": "multi"
+    },
+    "id": 2002831708,
+    "img_src": "https://cdn.tigertag.io/img?id=2002831708&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-HSPLA-MATTERAINBOW-BRIGHT-1.75-1000",
+    "title": "HS-PLA Matte Rainbow - Matte Rainbow Bright"
   },
   {
     "RFID_Data": {
@@ -291586,6 +293135,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_b2": 128,
+      "color_g": 255,
+      "color_g2": 128,
+      "color_r": 255,
+      "color_r2": 128,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 232,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF",
+        "#808080"
+      ],
+      "type": "multi"
+    },
+    "id": 2055341087,
+    "img_src": "https://cdn.tigertag.io/img?id=2055341087&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ASAMARBLE-WHITEGREY-1.75-1000",
+    "title": "ASA Marble - White-Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 56,
       "color_g": 123,
       "color_r": 31,
@@ -295993,6 +297587,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 248,
+      "color_r": 240,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#F0F8FF",
+    "color_info": {
+      "colors": [
+        "#F0F8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2086929116,
+    "img_src": "https://cdn.tigertag.io/img?id=2086929116&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PDSTL-CLEAR-1.75-1000",
+    "title": "PDS Translucent - Clear"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 90,
       "color_b2": 174,
       "color_b3": 154,
@@ -296786,6 +298421,47 @@
     "product_type": "Filament",
     "sku": "PLA-GRSLK-PURE-1000-175",
     "title": "PLA Gradient Silky - Pure"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 140,
+      "color_g": 180,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 390,
+      "data3": 430,
+      "data4": null,
+      "data5": null,
+      "data6": 110,
+      "data7": 150,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 29815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#D2B48C",
+    "color_info": {
+      "colors": [
+        "#D2B48C"
+      ],
+      "type": "mono"
+    },
+    "id": 2093063703,
+    "img_src": "https://cdn.tigertag.io/img?id=2093063703&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEEK",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PEEK-NATURAL-1.75-1000",
+    "title": "PEEK - Natural"
   },
   {
     "RFID_Data": {
@@ -318214,6 +319890,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 230,
+      "color_g": 216,
+      "color_r": 173,
+      "data1": 56,
+      "data2": 200,
+      "data3": 200,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#ADD8E6",
+    "color_info": {
+      "colors": [
+        "#ADD8E6"
+      ],
+      "type": "mono"
+    },
+    "id": 2240366759,
+    "img_src": "https://cdn.tigertag.io/img?id=2240366759&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLACLGLIT-BLUE-1.75-1000",
+    "title": "PLA Clear Glitter - Clear Glitter Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -323819,6 +325536,47 @@
     "product_type": "Filament",
     "sku": "3301010572",
     "title": "Hyper PLA Starry - Orange stellaire"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 50,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#00FFFF",
+    "color_info": {
+      "colors": [
+        "#00FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2278319726,
+    "img_src": "https://cdn.tigertag.io/img?id=2278319726&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAGLOW-BLUE-1.75-1000",
+    "title": "PLA Glow - Blue"
   },
   {
     "RFID_Data": {
@@ -333648,6 +335406,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 169,
+      "color_g": 169,
+      "color_r": 169,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#A9A9A9",
+    "color_info": {
+      "colors": [
+        "#A9A9A9"
+      ],
+      "type": "mono"
+    },
+    "id": 2349524724,
+    "img_src": "https://cdn.tigertag.io/img?id=2349524724&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLA-TRANSPARENT-SMOKEGREY-1.75-1000",
+    "title": "PLA Transparent - Smoke Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 232,
       "color_g": 155,
       "color_r": 73,
@@ -334669,6 +336468,47 @@
     "product_type": "Filament",
     "sku": "DLZ-JY-PLA-TPBL-1.1kg-C",
     "title": "Standard PLA - Transparent Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000"
+      ],
+      "type": "mono"
+    },
+    "id": 2355946244,
+    "img_src": "https://cdn.tigertag.io/img?id=2355946244&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-TPU85A-RED-1.75-1000",
+    "title": "TPU 85A - Red"
   },
   {
     "RFID_Data": {
@@ -354990,6 +356830,55 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_b3": 255,
+      "color_g": 0,
+      "color_g2": 255,
+      "color_g3": 0,
+      "color_r": 255,
+      "color_r2": 255,
+      "color_r3": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 145,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000",
+        "#FFFF00",
+        "#0000FF"
+      ],
+      "type": "multi"
+    },
+    "id": 2512406995,
+    "img_src": "https://cdn.tigertag.io/img?id=2512406995&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLARAINBOW-CLASSIC-1.75-1000",
+    "title": "PLA Rainbow - Classic"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 222,
       "color_g": 222,
       "color_r": 222,
@@ -356860,6 +358749,47 @@
     "product_type": "Filament",
     "sku": "EPAX-MAGIC175-PEACOCK",
     "title": "Magic Silk PLA - Peacock"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": null,
+      "data5": null,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 12264,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 2529804367,
+    "img_src": "https://cdn.tigertag.io/img?id=2529804367&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA6-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PA6CF-GREY-1.75-1000",
+    "title": "PA6 Carbon Fiber - Grey"
   },
   {
     "RFID_Data": {
@@ -359746,6 +361676,47 @@
     "product_type": "Filament",
     "sku": "YUMPLAULTRAPINK1000",
     "title": "PLA+ Ultra Speed - Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 219,
+      "color_g": 112,
+      "color_r": 147,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 168,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#9370DB",
+    "color_info": {
+      "colors": [
+        "#9370DB"
+      ],
+      "type": "mono"
+    },
+    "id": 2546683776,
+    "img_src": "https://cdn.tigertag.io/img?id=2546683776&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLATEMP-PURPLEPINK-1.75-1000",
+    "title": "PLA Temp Color Change - Purple-Pink"
   },
   {
     "RFID_Data": {
@@ -373566,6 +375537,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 59849,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2639709666,
+    "img_src": "https://cdn.tigertag.io/img?id=2639709666&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCL",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PCL-WHITE-1.75-1000",
+    "title": "PCL - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_g": 73,
       "color_r": 0,
@@ -373685,6 +375697,55 @@
     "product_type": "Filament",
     "sku": "3760349160076",
     "title": "TPU 85A - Vert"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 255,
+      "color_b3": 128,
+      "color_g": 128,
+      "color_g2": 255,
+      "color_g3": 0,
+      "color_r": 0,
+      "color_r2": 255,
+      "color_r3": 128,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 24,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#008000",
+    "color_info": {
+      "colors": [
+        "#008000",
+        "#FFFFFF",
+        "#800080"
+      ],
+      "type": "multi"
+    },
+    "id": 2643258683,
+    "img_src": "https://cdn.tigertag.io/img?id=2643258683&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAMATTETRI-GREENWHITEPURPLE-1.75-1000",
+    "title": "PLA Matte Tri-Color - Green-White-Purple"
   },
   {
     "RFID_Data": {
@@ -373849,6 +375910,55 @@
     "product_type": "Filament",
     "sku": "FOFF0440",
     "title": "ApolloX - Dark Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 186,
+      "color_b2": 201,
+      "color_b3": 255,
+      "color_g": 179,
+      "color_g2": 255,
+      "color_g3": 225,
+      "color_r": 255,
+      "color_r2": 186,
+      "color_r3": 186,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 145,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFB3BA",
+    "color_info": {
+      "colors": [
+        "#FFB3BA",
+        "#BAFFC9",
+        "#BAE1FF"
+      ],
+      "type": "multi"
+    },
+    "id": 2644928484,
+    "img_src": "https://cdn.tigertag.io/img?id=2644928484&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLARAINBOW-PASTEL-1.75-1000",
+    "title": "PLA Rainbow - Pastel"
   },
   {
     "RFID_Data": {
@@ -376001,6 +378111,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000"
+      ],
+      "type": "mono"
+    },
+    "id": 2658791032,
+    "img_src": "https://cdn.tigertag.io/img?id=2658791032&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PETGCOLORCF-RED-1.75-1000",
+    "title": "PETG Colorful Carbon Fiber - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 28,
       "color_g": 28,
       "color_r": 28,
@@ -378145,6 +380296,47 @@
     "product_type": "Filament",
     "sku": "8595632828105",
     "title": "CPE - Carbon"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 27676,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 2670670678,
+    "img_src": "https://cdn.tigertag.io/img?id=2670670678&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ASACF-GREY-1.75-1000",
+    "title": "ASA Carbon Fiber - Grey"
   },
   {
     "RFID_Data": {
@@ -390714,6 +392906,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 105,
+      "color_g": 105,
+      "color_r": 105,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#696969",
+    "color_info": {
+      "colors": [
+        "#696969"
+      ],
+      "type": "mono"
+    },
+    "id": 2753943049,
+    "img_src": "https://cdn.tigertag.io/img?id=2753943049&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PDSTL-SMOKEGREY-1.75-1000",
+    "title": "PDS Translucent - Smoke Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 27,
       "color_g": 122,
       "color_r": 177,
@@ -400242,6 +402475,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_b2": 211,
+      "color_g": 255,
+      "color_g2": 211,
+      "color_r": 255,
+      "color_r2": 211,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 232,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF",
+        "#D3D3D3"
+      ],
+      "type": "multi"
+    },
+    "id": 2818555917,
+    "img_src": "https://cdn.tigertag.io/img?id=2818555917&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAMARBLE-WHITEGREY-1.75-1000",
+    "title": "PLA Marble - White-Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 63,
       "color_g": 73,
       "color_r": 60,
@@ -404198,6 +406476,47 @@
     "product_type": "Filament",
     "sku": "3DMA-MPLA-POLARWHITE",
     "title": "Matte PLA - Polar White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 59,
+      "color_g": 153,
+      "color_r": 97,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753139269",
+    "brand": "Rosa3D",
+    "color": "#61993B",
+    "color_info": {
+      "colors": [
+        "#61993B"
+      ],
+      "type": "mono"
+    },
+    "id": 2850747433,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5112",
+    "title": "PET-G Standard HS - Bright Green [RAL 6018]"
   },
   {
     "RFID_Data": {
@@ -409534,6 +411853,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 215,
+      "color_r": 0,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 232,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000",
+        "#FFD700"
+      ],
+      "type": "multi"
+    },
+    "id": 2886784811,
+    "img_src": "https://cdn.tigertag.io/img?id=2886784811&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ASAMARBLE-BLACKGOLD-1.75-1000",
+    "title": "ASA Marble - Black-Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 190,
       "color_g": 47,
       "color_r": 123,
@@ -411420,6 +413784,51 @@
     "product_type": "Filament",
     "sku": "EXT-BIOFUSION-QUICKSILVER-285",
     "title": "BioFusion - Quicksilver"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 217,
+      "color_b2": 255,
+      "color_g": 179,
+      "color_g2": 224,
+      "color_r": 255,
+      "color_r2": 179,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 145,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFB3D9",
+    "color_info": {
+      "colors": [
+        "#FFB3D9",
+        "#B3E0FF"
+      ],
+      "type": "multi"
+    },
+    "id": 2902577502,
+    "img_src": "https://cdn.tigertag.io/img?id=2902577502&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-HSPLA-RAINBOW-PASTEL-1.75-1000",
+    "title": "HS-PLA Rainbow - Rainbow Pastel"
   },
   {
     "RFID_Data": {
@@ -415841,6 +418250,47 @@
     "product_type": "Filament",
     "sku": "G0103007",
     "title": "PLA Silk High-Speed Dual-Color - Green&Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 48815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 2934466760,
+    "img_src": "https://cdn.tigertag.io/img?id=2934466760&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PAHT-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PAHTCF-GREY-1.75-1000",
+    "title": "PAHT Carbon Fiber - Grey"
   },
   {
     "RFID_Data": {
@@ -439394,6 +441844,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 28,
+      "color_g": 28,
+      "color_r": 28,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 39667,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#1C1C1C",
+    "color_info": {
+      "colors": [
+        "#1C1C1C"
+      ],
+      "type": "mono"
+    },
+    "id": 3095050193,
+    "img_src": "https://cdn.tigertag.io/img?id=3095050193&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA12-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PA12CF-BLACK-1.75-1000",
+    "title": "PA12 Carbon Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 171,
       "color_g": 178,
       "color_r": 175,
@@ -440956,6 +443447,51 @@
     "product_type": "Filament",
     "sku": "A01-W3-1.75-1000-splfree",
     "title": "PLA Matte - Bone White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_b2": 128,
+      "color_g": 0,
+      "color_g2": 0,
+      "color_r": 0,
+      "color_r2": 128,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#0000FF",
+    "color_info": {
+      "colors": [
+        "#0000FF",
+        "#800080"
+      ],
+      "type": "gradient"
+    },
+    "id": 3104146734,
+    "img_src": "https://cdn.tigertag.io/img?id=3104146734&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ASAGRAD-BLUEPURPLE-1.75-1000",
+    "title": "ASA Gradient - Blue-Purple"
   },
   {
     "RFID_Data": {
@@ -455438,6 +457974,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 27676,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 3215616323,
+    "img_src": "https://cdn.tigertag.io/img?id=3215616323&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ASACF-BLACK-1.75-1000",
+    "title": "ASA Carbon Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 95,
       "color_g": 17,
       "color_r": 224,
@@ -460722,6 +463299,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 39667,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 3251954945,
+    "img_src": "https://cdn.tigertag.io/img?id=3251954945&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA12-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PA12CF-GREY-1.75-1000",
+    "title": "PA12 Carbon Fiber - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 92,
       "color_g": 50,
       "color_r": 22,
@@ -464727,6 +467345,55 @@
     "product_type": "Filament",
     "sku": "AMB3772RAI",
     "title": "Silk PLA - Rainbow Candy"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_b3": 255,
+      "color_g": 0,
+      "color_g2": 255,
+      "color_g3": 0,
+      "color_r": 255,
+      "color_r2": 255,
+      "color_r3": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 24,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000",
+        "#FFFF00",
+        "#0000FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3280382111,
+    "img_src": "https://cdn.tigertag.io/img?id=3280382111&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAMATTETRI-REDYELLOWBLUE-1.75-1000",
+    "title": "PLA Matte Tri-Color - Red-Yellow-Blue"
   },
   {
     "RFID_Data": {
@@ -482681,6 +485348,47 @@
   },
   {
     "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3407352507,
+    "img_src": "https://cdn.tigertag.io/img?id=3407352507&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PDSOP-WHITE-1.75-1000",
+    "title": "PDS Opaque - White"
+  },
+  {
+    "RFID_Data": {
       "color_a": 51,
       "color_b": 255,
       "color_g": 255,
@@ -487438,6 +490146,47 @@
     "product_type": "Filament",
     "sku": "34075",
     "title": "SnapSpeed PLA - Sky Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#808080",
+    "color_info": {
+      "colors": [
+        "#808080"
+      ],
+      "type": "mono"
+    },
+    "id": 3444293863,
+    "img_src": "https://cdn.tigertag.io/img?id=3444293863&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLACF-GREY-1.75-1000",
+    "title": "PLA Carbon Fiber - Grey"
   },
   {
     "RFID_Data": {
@@ -500443,6 +503192,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 28,
+      "color_g": 28,
+      "color_r": 28,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#1C1C1CFF",
+    "color_info": {
+      "colors": [
+        "#1C1C1CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3527018705,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAGF-BLACK-1.75-1000",
+    "title": "PLA Glass Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -504474,6 +507264,47 @@
     "product_type": "Filament",
     "sku": "PSI010001ROJVERWNK",
     "title": "PLA Silk Tricolor - PLA Silk Tricolor Portugal, Marruecos"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 47,
+      "color_g": 255,
+      "color_r": 173,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 50,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#ADFF2F",
+    "color_info": {
+      "colors": [
+        "#ADFF2F"
+      ],
+      "type": "mono"
+    },
+    "id": 3552726023,
+    "img_src": "https://cdn.tigertag.io/img?id=3552726023&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAGLOW-GREEN-1.75-1000",
+    "title": "PLA Glow - Green"
   },
   {
     "RFID_Data": {
@@ -517962,6 +520793,55 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 186,
+      "color_b2": 186,
+      "color_b3": 255,
+      "color_g": 179,
+      "color_g2": 255,
+      "color_g3": 225,
+      "color_r": 255,
+      "color_r2": 255,
+      "color_r3": 186,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFB3BA",
+    "color_info": {
+      "colors": [
+        "#FFB3BA",
+        "#FFFFBA",
+        "#BAE1FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3652331171,
+    "img_src": "https://cdn.tigertag.io/img?id=3652331171&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-HSPLA-MATTERAINBOW-PASTEL-1.75-1000",
+    "title": "HS-PLA Matte Rainbow - Matte Rainbow Pastel"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 176,
       "color_g": 176,
       "color_r": 176,
@@ -519118,6 +521998,47 @@
     "product_type": "Filament",
     "sku": "3760349160656",
     "title": "PLA Tough+ - Vert Pomme"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 35,
+      "color_g": 36,
+      "color_r": 155,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753139276",
+    "brand": "Rosa3D",
+    "color": "#9B2423",
+    "color_info": {
+      "colors": [
+        "#9B2423"
+      ],
+      "type": "mono"
+    },
+    "id": 3659900456,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5113",
+    "title": "PET-G Standard HS - Dark Red [RAL 3001]"
   },
   {
     "RFID_Data": {
@@ -534098,6 +537019,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 128,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 128,
+      "color_r": 128,
+      "color_r2": 0,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#800080FF",
+    "color_info": {
+      "colors": [
+        "#800080FF",
+        "#008000FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3777739526,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAPLUSCHAM-PURPLEGREEN-1.75-1000",
+    "title": "PLA+ Chameleon - Purple-Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 14,
       "color_g": 27,
       "color_r": 184,
@@ -545360,6 +548326,55 @@
     "product_type": "Filament",
     "sku": "MARSWORK-PLAMATTE-DARKCHOCOLATE-REFILL",
     "title": "PLA Matte - Dark Chocolate"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_b3": 255,
+      "color_g": 0,
+      "color_g2": 255,
+      "color_g3": 0,
+      "color_r": 255,
+      "color_r2": 0,
+      "color_r3": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 145,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000",
+        "#00FF00",
+        "#0000FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3866150712,
+    "img_src": "https://cdn.tigertag.io/img?id=3866150712&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLAPLUSRAINBOW-CLASSIC-1.75-1000",
+    "title": "PLA+ Rainbow - Classic"
   },
   {
     "RFID_Data": {
@@ -556971,6 +559986,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 240,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 59849,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFFF0",
+    "color_info": {
+      "colors": [
+        "#FFFFF0"
+      ],
+      "type": "mono"
+    },
+    "id": 3947281757,
+    "img_src": "https://cdn.tigertag.io/img?id=3947281757&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCL",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PCL-NATURAL-1.75-1000",
+    "title": "PCL - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 123,
       "color_g": 56,
       "color_r": 0,
@@ -562071,6 +565127,47 @@
     "product_type": "Filament",
     "sku": "R3DB1E103NHS",
     "title": "ABS+ - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 215,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 200,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFD700",
+    "color_info": {
+      "colors": [
+        "#FFD700"
+      ],
+      "type": "mono"
+    },
+    "id": 3980738010,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLACLGLIT-GOLD-1.75-1000",
+    "title": "PLA Clear Glitter - Clear Glitter Gold"
   },
   {
     "RFID_Data": {
@@ -574736,6 +577833,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4071660043,
+    "img_src": "https://cdn.tigertag.io/img?id=4071660043&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-TPU95A-WHITE-1.75-1000",
+    "title": "TPU 95A - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 169,
       "color_g": 151,
       "color_r": 0,
@@ -580914,6 +584052,47 @@
     "product_type": "Filament",
     "sku": "VXLG-PLAHS-GIOIELLOPURP-1KG",
     "title": "GALAXY PLA+ HS (Pro) - Gioiello Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 28,
+      "color_g": 28,
+      "color_r": 28,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#1C1C1C",
+    "color_info": {
+      "colors": [
+        "#1C1C1C"
+      ],
+      "type": "mono"
+    },
+    "id": 4109101467,
+    "img_src": "https://cdn.tigertag.io/img?id=4109101467&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-PLACF-BLACK-1.75-1000",
+    "title": "PLA Carbon Fiber - Black"
   },
   {
     "RFID_Data": {
@@ -588335,6 +591514,51 @@
     "product_type": "Filament",
     "sku": "UM-PETG-BLUE",
     "title": "PETG - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 165,
+      "color_r": 255,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58863,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "iSANMATE",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000",
+        "#FFA500"
+      ],
+      "type": "gradient"
+    },
+    "id": 4168223564,
+    "img_src": "https://cdn.tigertag.io/img?id=4168223564&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ISM-ASAGRAD-REDORANGE-1.75-1000",
+    "title": "ASA Gradient - Red-Orange"
   },
   {
     "RFID_Data": {
