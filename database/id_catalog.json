@@ -1888,6 +1888,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 208,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#F5D000FF",
+    "color_info": {
+      "colors": [
+        "#F5D000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 18080379,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-PETG-YELLOW-175-1000",
+    "title": "PETG - Subink PETG Banana Yellow 1.75mm 1kg"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -3905,6 +3946,47 @@
     "product_type": "Filament",
     "sku": "COFC0354",
     "title": "XT Co-Polyester - Clear"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 31313971,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-ABS-BLACK-175-1000",
+    "title": "ABS - ABS"
   },
   {
     "RFID_Data": {
@@ -54165,6 +54247,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 300,
+      "data3": 340,
+      "data4": null,
+      "data5": null,
+      "data6": 120,
+      "data7": 150,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 24270,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 366365914,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPS-CF",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFPPS-BLACK-175-750",
+    "title": "CF-PPS - CF-PPS"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 52,
       "color_g": 233,
       "color_r": 254,
@@ -63948,6 +64071,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 436905551,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-PETGCF-BLACK-175-1000",
+    "title": "PETG-CF - Subink PETG-CF Black 1.75mm 1kg"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_g": 100,
       "color_r": 232,
@@ -64887,6 +65051,47 @@
     "product_type": "Filament",
     "sku": "SL-N-PLAYG-BW-1KG-A",
     "title": "PLA Matte - Bone White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 55,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 443523874,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-PLAP-BLK",
+    "title": "PLA+ Professional Lab - PLA+ Professional Lab - Black"
   },
   {
     "RFID_Data": {
@@ -66458,6 +66663,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 65,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 454825538,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-PETG-BLK",
+    "title": "PETG Professional Lab - PETG Professional Lab - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 178,
       "color_g": 140,
       "color_r": 106,
@@ -67807,6 +68053,47 @@
     "product_type": "Filament",
     "sku": "3DDCBLGRE",
     "title": "PLA Silk Dual Color - Black & Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 250,
+      "data3": 290,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 55796,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 464954994,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA12",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PA12-WHITE-175-1000",
+    "title": "PA12 - PA12"
   },
   {
     "RFID_Data": {
@@ -74149,6 +74436,47 @@
     "product_type": "Filament",
     "sku": "F40-RED-175-050",
     "title": "FiberFlex 40D - Fiberlogy FiberFlex 40D Red (0.5kg)"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 220,
+      "color_g": 209,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 195,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 220,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#FFD1DCFF",
+    "color_info": {
+      "colors": [
+        "#FFD1DCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 506412594,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-PLA-PSTPNK",
+    "title": "PLA Professional Lab - PLA Pastel Professional Lab - Pink"
   },
   {
     "RFID_Data": {
@@ -90094,6 +90422,88 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 300,
+      "data3": 340,
+      "data4": null,
+      "data5": null,
+      "data6": 120,
+      "data7": 150,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 46154,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 615228650,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PPS-BLACK-175-1000",
+    "title": "PPS - PPS"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 128,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#008000FF",
+    "color_info": {
+      "colors": [
+        "#008000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 615448839,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-ABS-GREEN-175-1000",
+    "title": "ABS - ABS"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -91496,6 +91906,47 @@
     "product_type": "Filament",
     "sku": "5903175654991",
     "title": "PCTG GF10 - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 625524520,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-ASA-BLACK-175-1000",
+    "title": "ASA - ASA"
   },
   {
     "RFID_Data": {
@@ -94517,6 +94968,47 @@
     "product_type": "Filament",
     "sku": "W3DPLASILKGREEN1000",
     "title": "PLA Hyper Silk - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 43,
+      "color_g": 90,
+      "color_r": 139,
+      "data1": 56,
+      "data2": 195,
+      "data3": 210,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 123,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 48001,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#8B5A2BFF",
+    "color_info": {
+      "colors": [
+        "#8B5A2BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 645168457,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Wood",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-WOOD-BRN",
+    "title": "PLA Wood Professional Lab - PLA Wood Professional Lab - Brown"
   },
   {
     "RFID_Data": {
@@ -97551,6 +98043,47 @@
     "product_type": "Filament",
     "sku": "RFPLABSC175GY1",
     "title": "PLA Basic - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 380,
+      "data3": 420,
+      "data4": null,
+      "data5": null,
+      "data6": 130,
+      "data7": 150,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 48469,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 668544973,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEEK-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFPEEK-BLACK-175-1000",
+    "title": "CF-PEEK - CF-PEEK"
   },
   {
     "RFID_Data": {
@@ -106927,6 +107460,47 @@
     "product_type": "Filament",
     "sku": "DLZ-JY-PLA+-OR-1.1kg-C",
     "title": "Standard PLA+ - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 260,
+      "data3": 300,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 110,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 39667,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 729069745,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA12-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFPA12-BLACK-175-1000",
+    "title": "CF-PA12 - CF-PA12"
   },
   {
     "RFID_Data": {
@@ -148952,6 +149526,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 9483,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1038434860,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PVA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-EREMOVE-WHITE-175-1000",
+    "title": "E-REMOVE - E-REMOVE"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 32,
       "color_b2": 144,
       "color_g": 39,
@@ -149371,6 +149986,47 @@
     "product_type": "Filament",
     "sku": "A18H1-18M-18B1-8K",
     "title": "INGEO 4043D - Bleu interférentiel"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 70,
+      "data5": 8,
+      "data6": 30,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1040698086,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-TPU-BLK",
+    "title": "TPU Professional Lab - TPU Professional Lab - Black"
   },
   {
     "RFID_Data": {
@@ -176923,6 +177579,47 @@
       "color_g": 255,
       "color_r": 255,
       "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 70,
+      "data5": 8,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1233914525,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-ASA-WHT",
+    "title": "ASA Professional Lab - ASA Professional Lab - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
       "data2": 190,
       "data3": 240,
       "data4": 55,
@@ -192438,6 +193135,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 30458,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1351876942,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PC-WHITE-175-1000",
+    "title": "PC - PC"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 140,
       "color_g": 85,
       "color_r": 0,
@@ -193705,6 +194443,47 @@
     "product_type": "Filament",
     "sku": "700-001-1191",
     "title": "PLA - sand gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 140,
+      "color_g": 180,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 320,
+      "data3": 370,
+      "data4": null,
+      "data5": null,
+      "data6": 120,
+      "data7": 160,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 49152,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#D2B48CFF",
+    "color_info": {
+      "colors": [
+        "#D2B48CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1359502676,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPSU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PPSU-NATURAL-175-1000",
+    "title": "PPSU - PPSU"
   },
   {
     "RFID_Data": {
@@ -195070,6 +195849,47 @@
     "product_type": "Filament",
     "sku": "Z010",
     "title": "PLA Chameleon - Blue&Purple&Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 140,
+      "color_g": 180,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 380,
+      "data3": 420,
+      "data4": null,
+      "data5": null,
+      "data6": 130,
+      "data7": 150,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 12216,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#D2B48CFF",
+    "color_info": {
+      "colors": [
+        "#D2B48CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1371501790,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEEK-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-GFPEEK-NATURAL-175-1000",
+    "title": "GF-PEEK - GF-PEEK"
   },
   {
     "RFID_Data": {
@@ -226230,6 +227050,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_b2": 0,
+      "color_g": 0,
+      "color_g2": 215,
+      "color_r": 0,
+      "color_r2": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 225,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF",
+        "#FFD700FF"
+      ],
+      "type": "multi"
+    },
+    "id": 1583140680,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-SILK-BIC",
+    "title": "PLA Silk Professional Lab - PLA Silk Bicolor Professional Lab - Multicolor"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 200,
       "color_g": 189,
       "color_r": 241,
@@ -242867,6 +243732,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 46,
+      "color_g": 16,
+      "color_r": 200,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#C8102EFF",
+    "color_info": {
+      "colors": [
+        "#C8102EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1710384884,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-PETGMATTE-RED-175-1000",
+    "title": "PETG - Subink PETG Matte Fire Red 1.75mm 1kg"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 32,
       "color_g": 83,
       "color_r": 75,
@@ -243810,6 +244716,47 @@
     "product_type": "Filament",
     "sku": "AMB2046",
     "title": "PLA Galactic Sparkle - Galactic Voron Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 95,
+      "data7": 105,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 35100,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1717675310,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-ASAGF-BLK",
+    "title": "ASA Professional Lab - ASA Glass Fiber Professional Lab - Black"
   },
   {
     "RFID_Data": {
@@ -244962,6 +245909,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 30884,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1727463586,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PP",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PP-WHITE-175-1000",
+    "title": "PP - PP"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 215,
       "color_g": 132,
       "color_r": 139,
@@ -245905,6 +246893,47 @@
     "product_type": "Filament",
     "sku": "C13-14H1-13-14M-13-14B1-8K",
     "title": "PLA+ Métallisé - Noir"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 260,
+      "data3": 300,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 110,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 12264,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1735231323,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA6-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFPA6-BLACK-175-1000",
+    "title": "CF-PA6 - CF-PA6"
   },
   {
     "RFID_Data": {
@@ -252399,6 +253428,47 @@
     "product_type": "Filament",
     "sku": "AS1775",
     "title": "PLA Silk Glossy - Coral Pink AS1775"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 30,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1783210869,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-HSTPU95A-BLACK-175-1000",
+    "title": "HS TPU 95A - HS TPU 95A"
   },
   {
     "RFID_Data": {
@@ -261333,6 +262403,47 @@
     "product_type": "Filament",
     "sku": "DLZ-HS PLA-1-175-Cyan-BT",
     "title": "HS PLA - Cyan"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 140,
+      "color_g": 180,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 123,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 48001,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#D2B48CFF",
+    "color_info": {
+      "colors": [
+        "#D2B48CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1851889085,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Wood",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-PLAWOOD-NATURAL-175-1000",
+    "title": "PLA - Subink PLA Wood Natural 1.75mm 1kg"
   },
   {
     "RFID_Data": {
@@ -273523,6 +274634,51 @@
     "product_type": "Filament",
     "sku": "3DMA-MPETG-ORANGE",
     "title": "Matte PETG - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 255,
+      "color_g": 0,
+      "color_g2": 0,
+      "color_r": 255,
+      "color_r2": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 145,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF",
+        "#0000FFFF"
+      ],
+      "type": "multi"
+    },
+    "id": 1939504672,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-PLA-RBW",
+    "title": "PLA Professional Lab - PLA Rainbow Professional Lab - Multicolor"
   },
   {
     "RFID_Data": {
@@ -291836,6 +292992,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 140,
+      "color_g": 180,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 330,
+      "data3": 370,
+      "data4": null,
+      "data5": null,
+      "data6": 120,
+      "data7": 160,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 56527,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#D2B48CFF",
+    "color_info": {
+      "colors": [
+        "#D2B48CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2065033854,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEI-1010",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PEI1010-NATURAL-175-1000",
+    "title": "PEI 1010 - PEI 1010"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 60,
       "color_g": 160,
       "color_r": 60,
@@ -307015,6 +308212,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 41,
+      "color_g": 119,
+      "color_r": 74,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 49074,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#4A7729FF",
+    "color_info": {
+      "colors": [
+        "#4A7729FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2172327365,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-ABSGF-GREEN-175-1000",
+    "title": "ABS-GF - Subink ABS Glass Fiber Grass Green 1.75mm 1kg"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 77,
       "color_g": 170,
       "color_r": 255,
@@ -313405,6 +314643,47 @@
     "product_type": "Filament",
     "sku": "VXLG-PLAHS-EMERALDGOLD-1KG",
     "title": "GALAXY PLA+ HS (Pro) - Emerald Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 215,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 225,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#FFD700FF",
+    "color_info": {
+      "colors": [
+        "#FFD700FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2213248343,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-SILK-GLD",
+    "title": "PLA Silk Professional Lab - PLA Silk Professional Lab - Gold"
   },
   {
     "RFID_Data": {
@@ -338646,6 +339925,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2401536412,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFPLA-BLACK-175-1000",
+    "title": "CF-PLA - CF-PLA"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 60,
       "color_g": 195,
       "color_r": 175,
@@ -339629,6 +340949,47 @@
   },
   {
     "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 108,
+      "color_r": 130,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#826C34FF",
+    "color_info": {
+      "colors": [
+        "#826C34FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2407851880,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "FPR171-8001",
+    "title": "PLA Original - MUSTARD BROWN"
+  },
+  {
+    "RFID_Data": {
       "color_a": 128,
       "color_b": 255,
       "color_g": 255,
@@ -339790,6 +341151,47 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F4591",
     "title": "PET-G Standard HS - Mint"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 191,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#FFBF00FF",
+    "color_info": {
+      "colors": [
+        "#FFBF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2409169882,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-PLACF-AMBER-175-1000",
+    "title": "PLA-CF - Subink PLA-CF Amber 1.75mm 1kg"
   },
   {
     "RFID_Data": {
@@ -360296,6 +361698,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2560025422,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PETG-WHITE-175-1000",
+    "title": "PETG - PETG"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 34,
       "color_b2": 37,
       "color_g": 33,
@@ -361116,6 +362559,47 @@
     "product_type": "Filament",
     "sku": "FOFF0467",
     "title": "MetalFil (PLA) - Ancient Bronze"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 280,
+      "data3": 320,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 8504,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2566148361,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFPPA-BLACK-175-1000",
+    "title": "CF-PPA - CF-PPA"
   },
   {
     "RFID_Data": {
@@ -362309,6 +363793,47 @@
     "product_type": "Filament",
     "sku": "NBF-ABS-MATBLA",
     "title": "ABS - Matt Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 380,
+      "data3": 410,
+      "data4": null,
+      "data5": null,
+      "data6": 120,
+      "data7": 140,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 9483,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2573077866,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PVA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-HTSP-WHITE-175-1000",
+    "title": "HT-SP - HT-SP"
   },
   {
     "RFID_Data": {
@@ -373521,6 +375046,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 140,
+      "color_g": 180,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 330,
+      "data3": 370,
+      "data4": null,
+      "data5": null,
+      "data6": 120,
+      "data7": 160,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 14508,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#D2B48CFF",
+    "color_info": {
+      "colors": [
+        "#D2B48CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2651198707,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEI-9085",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PEI9085-NATURAL-175-1000",
+    "title": "PEI 9085 - PEI 9085"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 48,
       "color_g": 59,
       "color_r": 255,
@@ -380883,6 +382449,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2698299212,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFPETG-BLACK-175-1000",
+    "title": "CF-PETG - CF-PETG"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 46,
       "color_g": 122,
       "color_r": 154,
@@ -384454,6 +386061,47 @@
     "product_type": "Filament",
     "sku": "AMB1496",
     "title": "ASA - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 425,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2719327631,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFABS-BLACK-175-1000",
+    "title": "CF-ABS - CF-ABS"
   },
   {
     "RFID_Data": {
@@ -399250,6 +400898,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2825412804,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-TPU-WHITE-175-1000",
+    "title": "TPU - TPU"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 245,
       "color_g": 245,
       "color_r": 245,
@@ -406775,6 +408464,47 @@
     "product_type": "Filament",
     "sku": "SL-HSPLA+V2-GY-1KG",
     "title": "High Speed PLA+ 2.0 - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 215,
+      "data3": 235,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2880113820,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-PLACF-BLK",
+    "title": "PLA CF Professional Lab - PLA CF Professional Lab - Black"
   },
   {
     "RFID_Data": {
@@ -437500,6 +439230,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 140,
+      "color_g": 180,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 9483,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#D2B48CFF",
+    "color_info": {
+      "colors": [
+        "#D2B48CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3093793798,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PVA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-EWATER-NATURAL-175-1000",
+    "title": "E-WATER - E-WATER"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -453380,6 +455151,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 46,
+      "color_g": 16,
+      "color_r": 200,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#C8102EFF",
+    "color_info": {
+      "colors": [
+        "#C8102EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3213830894,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-PLAMATTE-RED-175-1000",
+    "title": "PLA - Subink PLA Matte Fire Red 1.75mm 1kg"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 15,
       "color_g": 15,
       "color_r": 15,
@@ -453786,6 +455598,47 @@
     "product_type": "Filament",
     "sku": "PM70815",
     "title": "PolyCast™ - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 140,
+      "color_g": 180,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 360,
+      "data3": 400,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": 130,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 53970,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#D2B48CFF",
+    "color_info": {
+      "colors": [
+        "#D2B48CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3216087344,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEKK",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PEKK-NATURAL-175-1000",
+    "title": "PEKK - PEKK"
   },
   {
     "RFID_Data": {
@@ -464481,6 +466334,51 @@
     "product_type": "Filament",
     "sku": "",
     "title": "Hyper Rainbow - Wild Blossom-Long"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 192,
+      "color_g": 215,
+      "color_g2": 192,
+      "color_r": 255,
+      "color_r2": 192,
+      "data1": 56,
+      "data2": 210,
+      "data3": 225,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 24,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#FFD700FF",
+    "color_info": {
+      "colors": [
+        "#FFD700FF",
+        "#C0C0C0FF"
+      ],
+      "type": "multi"
+    },
+    "id": 3289898404,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-SILK-TRI",
+    "title": "PLA Silk Professional Lab - PLA Silk Tricolor Professional Lab - Multicolor"
   },
   {
     "RFID_Data": {
@@ -490620,6 +492518,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3473719444,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PLA-WHITE-175-1000",
+    "title": "PLA - PLA"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 6,
       "color_g": 6,
       "color_r": 5,
@@ -496409,6 +498348,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 140,
+      "color_g": 180,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 390,
+      "data3": 430,
+      "data4": null,
+      "data5": null,
+      "data6": 110,
+      "data7": 150,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 29815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#D2B48CFF",
+    "color_info": {
+      "colors": [
+        "#D2B48CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3513885664,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEEK",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-PEEK-NATURAL-175-1000",
+    "title": "PEEK - PEEK"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 163,
       "color_g": 199,
       "color_r": 217,
@@ -497721,6 +499701,47 @@
     "product_type": "Filament",
     "sku": "LTP01D01K11",
     "title": "PLA - Army Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 70,
+      "data5": 6,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3521146455,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-ABS-BLK",
+    "title": "ABS+ Professional Lab - ABS+ Professional Lab - Black"
   },
   {
     "RFID_Data": {
@@ -503027,6 +505048,47 @@
     "product_type": "Filament",
     "sku": "EXT-PLABASIC-GOLD-175-10KG",
     "title": "PLA Basic - gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 27676,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3559192640,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFASA-BLACK-175-1000",
+    "title": "CF-ASA - CF-ASA"
   },
   {
     "RFID_Data": {
@@ -521182,6 +523244,47 @@
       "color_a": 255,
       "color_b": 255,
       "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3700316292,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-PLA-WHT",
+    "title": "PLA Professional Lab - PLA Professional Lab - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
       "color_r": 0,
       "data1": 56,
       "data2": 190,
@@ -530958,6 +533061,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 130,
+      "color_g": 0,
+      "color_r": 75,
+      "data1": 56,
+      "data2": 195,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#4B0082FF",
+    "color_info": {
+      "colors": [
+        "#4B0082FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3769264849,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-PLA-GLXPUR",
+    "title": "PLA Professional Lab - PLA Galaxy Professional Lab - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 107,
       "color_g": 154,
       "color_r": 193,
@@ -534910,6 +537054,47 @@
     "product_type": "Filament",
     "sku": "687087",
     "title": "PLA+ Spooless - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3800798195,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-ESDABS-BLACK-175-1000",
+    "title": "ESD-ABS - ESD-ABS"
   },
   {
     "RFID_Data": {
@@ -545885,6 +548070,47 @@
     "product_type": "Filament",
     "sku": "NBF-ABSGITD-BLU",
     "title": "ABS Glow in the Dark - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": null,
+      "data5": null,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 425,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3887671292,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-ABSCF-BLACK-175-1000",
+    "title": "ABS-CF - Subink ABS-CF Black 1.75mm 1kg"
   },
   {
     "RFID_Data": {
@@ -572469,6 +574695,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 20588,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4071458353,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-CFPC-BLACK-175-1000",
+    "title": "CF-PC - CF-PC"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 169,
       "color_g": 151,
       "color_r": 0,
@@ -577708,6 +579975,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 168,
+      "color_g": 90,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 55,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#1E5AA8FF",
+    "color_info": {
+      "colors": [
+        "#1E5AA8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4103021748,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-PLA-BLUE-175-1000",
+    "title": "PLA - Subink PLA Blue 1.75mm 1kg"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 178,
       "color_g": 140,
       "color_r": 106,
@@ -577786,6 +580094,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABS-GOLD-285-1KG",
     "title": "THE K5 ABS - Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 20,
+      "color_g": 255,
+      "color_r": 57,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#39FF14FF",
+    "color_info": {
+      "colors": [
+        "#39FF14FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4104639972,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-LUM-GRN",
+    "title": "Luminous PLA Professional Lab - Luminous PLA Professional Lab - Green"
   },
   {
     "RFID_Data": {
@@ -586658,6 +589007,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 195,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 17689,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Professional Lab",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4173124350,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PROLAB-PLA-MTGRY",
+    "title": "PLA Professional Lab - PLA Matte Professional Lab - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 52,
       "color_g": 233,
       "color_r": 254,
@@ -589204,6 +591594,47 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU90AM-LIMECREAM-175-5KG",
     "title": "THE K8 TPU 90A MATTE - Lime Cream"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 260,
+      "data3": 300,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": 110,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 50266,
+      "id_material": 2053,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "IEMAI",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4191571945,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA12-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "IEM-GFPA12-WHITE-175-1000",
+    "title": "GF-PA12 - GF-PA12"
   },
   {
     "RFID_Data": {
@@ -592295,6 +594726,47 @@
     "product_type": "Filament",
     "sku": "UM-TPU95A-BLACK",
     "title": "TPU 95A - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 184,
+      "color_g": 87,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#0057B8FF",
+    "color_info": {
+      "colors": [
+        "#0057B8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4210191886,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-PLASILK-BLUE-175-1000",
+    "title": "PLA - Subink PLA Silk Blue 1.75mm 1kg"
   },
   {
     "RFID_Data": {
@@ -601275,6 +603747,47 @@
     "product_type": "Filament",
     "sku": "PA07035",
     "title": "PolyLite™ PLA Pro - Light Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 127,
+      "color_r": 110,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 40853,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Subink",
+    "color": "#6E7F80FF",
+    "color_info": {
+      "colors": [
+        "#6E7F80FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4275424871,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SUB-PETGMETALLIC-BLUEGRAY-175-1000",
+    "title": "PETG - Subink PETG Metallic Blue Gray 1.75mm 1kg"
   },
   {
     "RFID_Data": {
