@@ -153,7 +153,7 @@
       "type": "mono"
     },
     "id": 1569852,
-    "img_src": "https://cdn.tigertag.io/img?id=1569852&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1569852&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -326,6 +326,47 @@
     "product_type": "Filament",
     "sku": "700-001-1548",
     "title": "ABS+ - Violet"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 82,
+      "color_g": 119,
+      "color_r": 146,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#927752",
+    "color_info": {
+      "colors": [
+        "#927752"
+      ],
+      "type": "mono"
+    },
+    "id": 2303948,
+    "img_src": "https://cdn.tigertag.io/img?id=2303948&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTPM1705-SMB",
+    "title": "Metallic HTPLA - Smooth Bronze"
   },
   {
     "RFID_Data": {
@@ -1642,18 +1683,18 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 80,
-      "color_g": 109,
-      "color_r": 180,
+      "color_b": 95,
+      "color_g": 70,
+      "color_r": 12,
       "data1": 56,
-      "data2": 190,
-      "data3": 220,
-      "data4": 55,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
       "data5": 6,
-      "data6": 40,
+      "data6": 50,
       "data7": 60,
-      "id_aspect1": 226,
-      "id_aspect2": null,
+      "id_aspect1": 64,
+      "id_aspect2": 255,
       "id_brand": 1120,
       "id_material": 38219,
       "id_type": 142,
@@ -1662,15 +1703,15 @@
     },
     "barcode": null,
     "brand": "Proto-Pasta",
-    "color": "#B46D50FF",
+    "color": "#0C465F",
     "color_info": {
       "colors": [
-        "#B46D50FF"
+        "#0C465F"
       ],
       "type": "mono"
     },
     "id": 13230238,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=13230238&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -1678,7 +1719,7 @@
     "measure": "500 g",
     "product_type": "Filament",
     "sku": "HTGL1705-LAZ",
-    "title": "HTPLA Chargé - Lapis Lazuli"
+    "title": "Glitter HTPLA - Lapis Lazuli"
   },
   {
     "RFID_Data": {
@@ -1916,7 +1957,7 @@
       "type": "mono"
     },
     "id": 16764321,
-    "img_src": "https://cdn.tigertag.io/img?id=16764321&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=16764321&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -2363,10 +2404,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FFD400FF",
+    "color": "#FFD400",
     "color_info": {
       "colors": [
-        "#FFD400FF"
+        "#FFD400"
       ],
       "type": "mono"
     },
@@ -2937,10 +2978,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#1B4F4FFF",
+    "color": "#1B4F4F",
     "color_info": {
       "colors": [
-        "#1B4F4FFF"
+        "#1B4F4F"
       ],
       "type": "mono"
     },
@@ -3478,7 +3519,7 @@
       "type": "mono"
     },
     "id": 25258418,
-    "img_src": "https://cdn.tigertag.io/img?id=25258418&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=25258418&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -9263,10 +9304,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FF7A00FF",
+    "color": "#FF7A00",
     "color_info": {
       "colors": [
-        "#FF7A00FF"
+        "#FF7A00"
       ],
       "type": "mono"
     },
@@ -9972,7 +10013,7 @@
       "type": "mono"
     },
     "id": 69722937,
-    "img_src": "https://cdn.tigertag.io/img?id=69722937&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=69722937&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -10095,7 +10136,7 @@
       "type": "mono"
     },
     "id": 70782878,
-    "img_src": "https://cdn.tigertag.io/img?id=70782878&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=70782878&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -12534,7 +12575,7 @@
       "type": "mono"
     },
     "id": 84195541,
-    "img_src": "https://cdn.tigertag.io/img?id=84195541&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=84195541&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -15646,18 +15687,18 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 80,
-      "color_g": 109,
-      "color_r": 180,
+      "color_b": 143,
+      "color_g": 87,
+      "color_r": 248,
       "data1": 56,
-      "data2": 190,
-      "data3": 220,
-      "data4": 55,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
       "data5": 6,
-      "data6": 40,
+      "data6": 50,
       "data7": 60,
       "id_aspect1": 226,
-      "id_aspect2": null,
+      "id_aspect2": 255,
       "id_brand": 1120,
       "id_material": 38219,
       "id_type": 142,
@@ -15666,15 +15707,15 @@
     },
     "barcode": null,
     "brand": "Proto-Pasta",
-    "color": "#B46D50FF",
+    "color": "#F8578F",
     "color_info": {
       "colors": [
-        "#B46D50FF"
+        "#F8578F"
       ],
       "type": "mono"
     },
     "id": 100598200,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=100598200&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -15682,7 +15723,7 @@
     "measure": "500 g",
     "product_type": "Filament",
     "sku": "HTPM1705-PNK",
-    "title": "HTPLA Chargé - Cupid's Crush Pink"
+    "title": "Metallic HTPLA - Cupid's Crush Pink"
   },
   {
     "RFID_Data": {
@@ -17950,30 +17991,30 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 80,
-      "color_g": 109,
-      "color_r": 180,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
       "data1": 56,
-      "data2": 190,
-      "data3": 220,
-      "data4": 55,
+      "data2": 220,
+      "data3": 240,
+      "data4": 65,
       "data5": 6,
-      "data6": 40,
+      "data6": 30,
       "data7": 60,
-      "id_aspect1": 226,
-      "id_aspect2": null,
+      "id_aspect1": 104,
+      "id_aspect2": 255,
       "id_brand": 1120,
-      "id_material": 38219,
+      "id_material": 43518,
       "id_type": 142,
       "id_unit": 21,
       "measure": 500
     },
     "barcode": null,
     "brand": "Proto-Pasta",
-    "color": "#B46D50FF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#B46D50FF"
+        "#1A1A1A"
       ],
       "type": "mono"
     },
@@ -17982,11 +18023,11 @@
     "info1": false,
     "info2": false,
     "info3": false,
-    "material": "PLA",
+    "material": "TPU",
     "measure": "500 g",
     "product_type": "Filament",
     "sku": "R98A1710-BLK",
-    "title": "HTPLA Chargé - Black"
+    "title": "Flexible TPU - Black"
   },
   {
     "RFID_Data": {
@@ -20446,15 +20487,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227"
       ],
       "type": "mono"
     },
     "id": 132399600,
-    "img_src": "https://cdn.tigertag.io/img?id=132399600&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=132399600&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -20873,7 +20914,7 @@
       "type": "mono"
     },
     "id": 136318149,
-    "img_src": "https://cdn.tigertag.io/img?id=136318149&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=136318149&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -29688,6 +29729,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 95,
+      "color_g": 96,
+      "color_r": 98,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#62605F",
+    "color_info": {
+      "colors": [
+        "#62605F"
+      ],
+      "type": "mono"
+    },
+    "id": 199427892,
+    "img_src": "https://cdn.tigertag.io/img?id=199427892&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "SSP11705",
+    "title": "Metal Composite HTPLA - Steel"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_b2": 42,
       "color_b3": 48,
@@ -31242,15 +31324,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#F1C6A7FF",
+    "color": "#F1C6A7",
     "color_info": {
       "colors": [
-        "#F1C6A7FF"
+        "#F1C6A7"
       ],
       "type": "mono"
     },
     "id": 210855225,
-    "img_src": "https://cdn.tigertag.io/img?id=210855225&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=210855225&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -31468,6 +31550,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 220,
+      "color_g": 219,
+      "color_r": 220,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#DCDBDC",
+    "color_info": {
+      "colors": [
+        "#DCDBDC"
+      ],
+      "type": "mono"
+    },
+    "id": 211840117,
+    "img_src": "https://cdn.tigertag.io/img?id=211840117&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTP21705-ICE",
+    "title": "Translucent HTPLA - Iridescent Ice Clear"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 97,
       "color_b2": 87,
       "color_g": 49,
@@ -31615,10 +31738,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FFF3B0FF",
+    "color": "#FFF3B0",
     "color_info": {
       "colors": [
-        "#FFF3B0FF"
+        "#FFF3B0"
       ],
       "type": "mono"
     },
@@ -32283,7 +32406,7 @@
       "type": "mono"
     },
     "id": 217750089,
-    "img_src": "https://cdn.tigertag.io/img?id=217750089&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=217750089&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -45153,7 +45276,7 @@
       "type": "mono"
     },
     "id": 299358525,
-    "img_src": "https://cdn.tigertag.io/img?id=299358525&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=299358525&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -46973,7 +47096,7 @@
       "type": "mono"
     },
     "id": 309624616,
-    "img_src": "https://cdn.tigertag.io/img?id=309624616&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=309624616&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -47318,9 +47441,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 218,
-      "color_g": 27,
-      "color_r": 113,
+      "color_b": 5,
+      "color_g": 67,
+      "color_r": 102,
       "data1": 56,
       "data2": 220,
       "data3": 270,
@@ -47338,15 +47461,15 @@
     },
     "barcode": null,
     "brand": "ELEGOO",
-    "color": "#711BDAFF",
+    "color": "#664305",
     "color_info": {
       "colors": [
-        "#711BDAFF"
+        "#664305"
       ],
       "type": "mono"
     },
     "id": 313152750,
-    "img_src": "https://cdn.tigertag.io/img?id=313152750&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=313152750&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -47354,7 +47477,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "",
-    "title": "Rapid PETG - Purple"
+    "title": "Rapid PETG - Brown"
   },
   {
     "RFID_Data": {
@@ -48871,15 +48994,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 322260527,
-    "img_src": "https://cdn.tigertag.io/img?id=322260527&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=322260527&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -54775,7 +54898,7 @@
       "type": "mono"
     },
     "id": 359928156,
-    "img_src": "https://cdn.tigertag.io/img?id=359928156&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=359928156&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -60851,7 +60974,7 @@
       "type": "mono"
     },
     "id": 402679546,
-    "img_src": "https://cdn.tigertag.io/img?id=402679546&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=402679546&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -62500,7 +62623,7 @@
       "type": "mono"
     },
     "id": 410983454,
-    "img_src": "https://cdn.tigertag.io/img?id=410983454&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=410983454&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -63984,7 +64107,7 @@
       "type": "mono"
     },
     "id": 419917311,
-    "img_src": "https://cdn.tigertag.io/img?id=419917311&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=419917311&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -65534,15 +65657,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 429545511,
-    "img_src": "https://cdn.tigertag.io/img?id=429545511&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=429545511&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -71721,7 +71844,7 @@
       "type": "mono"
     },
     "id": 472960435,
-    "img_src": "https://cdn.tigertag.io/img?id=472960435&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=472960435&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -73251,6 +73374,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 118,
+      "color_g": 112,
+      "color_r": 109,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#6D7076",
+    "color_info": {
+      "colors": [
+        "#6D7076"
+      ],
+      "type": "mono"
+    },
+    "id": 481357678,
+    "img_src": "https://cdn.tigertag.io/img?id=481357678&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTMF1705-GRY",
+    "title": "Matte Fiber HTPLA - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 40,
       "color_g": 40,
       "color_r": 198,
@@ -73517,15 +73681,15 @@
     },
     "barcode": "6932704903490",
     "brand": "ELEGOO",
-    "color": "#1FE5C4FF",
+    "color": "#1FE5C4",
     "color_info": {
       "colors": [
-        "#1FE5C4FF"
+        "#1FE5C4"
       ],
       "type": "mono"
     },
     "id": 483441994,
-    "img_src": "https://cdn.tigertag.io/img?id=483441994&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=483441994&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -73533,7 +73697,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0572",
-    "title": "Rapid TPU 95A - Green"
+    "title": "TPU 95A - Green"
   },
   {
     "RFID_Data": {
@@ -78494,15 +78658,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#D2B48CFF",
+    "color": "#D2B48C",
     "color_info": {
       "colors": [
-        "#D2B48CFF"
+        "#D2B48C"
       ],
       "type": "mono"
     },
     "id": 517258936,
-    "img_src": "https://cdn.tigertag.io/img?id=517258936&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=517258936&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -79412,7 +79576,7 @@
       "type": "mono"
     },
     "id": 522965235,
-    "img_src": "https://cdn.tigertag.io/img?id=522965235&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=522965235&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -80192,15 +80356,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#D4AF37FF",
+    "color": "#D4AF37",
     "color_info": {
       "colors": [
-        "#D4AF37FF"
+        "#D4AF37"
       ],
       "type": "mono"
     },
     "id": 528668860,
-    "img_src": "https://cdn.tigertag.io/img?id=528668860&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=528668860&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -81639,10 +81803,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#9B9B9BFF",
+    "color": "#9B9B9B",
     "color_info": {
       "colors": [
-        "#9B9B9BFF"
+        "#9B9B9B"
       ],
       "type": "mono"
     },
@@ -81893,7 +82057,7 @@
       "type": "mono"
     },
     "id": 538210959,
-    "img_src": "https://cdn.tigertag.io/img?id=538210959&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=538210959&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -81943,6 +82107,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLA-PINKISHBLUE-285-1KG",
     "title": "THE K5 PLA - Pinkish Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 215,
+      "color_g": 128,
+      "color_r": 3,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#0380D7",
+    "color_info": {
+      "colors": [
+        "#0380D7"
+      ],
+      "type": "mono"
+    },
+    "id": 538364023,
+    "img_src": "https://cdn.tigertag.io/img?id=538364023&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTGL1705-WTB",
+    "title": "Glitter HTPLA - Winter Blue"
   },
   {
     "RFID_Data": {
@@ -83984,7 +84189,7 @@
       "type": "mono"
     },
     "id": 550197299,
-    "img_src": "https://cdn.tigertag.io/img?id=550197299&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=550197299&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -84980,15 +85185,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#A0E7E5FF",
+    "color": "#A0E7E5",
     "color_info": {
       "colors": [
-        "#A0E7E5FF"
+        "#A0E7E5"
       ],
       "type": "mono"
     },
     "id": 557441014,
-    "img_src": "https://cdn.tigertag.io/img?id=557441014&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=557441014&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -85070,7 +85275,7 @@
       "type": "mono"
     },
     "id": 557888052,
-    "img_src": "https://cdn.tigertag.io/img?id=557888052&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=557888052&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -85398,7 +85603,7 @@
       "type": "mono"
     },
     "id": 559433223,
-    "img_src": "https://cdn.tigertag.io/img?id=559433223&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=559433223&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -88822,7 +89027,7 @@
       "type": "mono"
     },
     "id": 582403395,
-    "img_src": "https://cdn.tigertag.io/img?id=582403395&v=1&timestamp=1792146798908",
+    "img_src": "https://cdn.tigertag.io/img?id=582403395&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -90967,6 +91172,47 @@
     "product_type": "Filament",
     "sku": "G3D-PLA-BLEUCIEL-175-1KG",
     "title": "PLA - Bleu Ciel"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 180,
+      "color_g": 183,
+      "color_r": 182,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#B6B7B4",
+    "color_info": {
+      "colors": [
+        "#B6B7B4"
+      ],
+      "type": "mono"
+    },
+    "id": 596459072,
+    "img_src": "https://cdn.tigertag.io/img?id=596459072&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTGL1705-DST",
+    "title": "Glitter HTPLA - Stardust Silver"
   },
   {
     "RFID_Data": {
@@ -95570,7 +95816,7 @@
       "type": "mono"
     },
     "id": 627988572,
-    "img_src": "https://cdn.tigertag.io/img?id=627988572&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=627988572&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -99137,9 +99383,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 246,
-      "color_g": 154,
-      "color_r": 249,
+      "color_b": 178,
+      "color_g": 223,
+      "color_r": 240,
       "data1": 56,
       "data2": 220,
       "data3": 270,
@@ -99157,15 +99403,15 @@
     },
     "barcode": null,
     "brand": "ELEGOO",
-    "color": "#F99AF6FF",
+    "color": "#F0DFB2",
     "color_info": {
       "colors": [
-        "#F99AF6FF"
+        "#F0DFB2"
       ],
       "type": "mono"
     },
     "id": 651350915,
-    "img_src": "https://cdn.tigertag.io/img?id=651350915&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=651350915&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -99173,7 +99419,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "",
-    "title": "Rapid PETG - Pink"
+    "title": "Rapid PETG - Beige"
   },
   {
     "RFID_Data": {
@@ -100928,7 +101174,7 @@
       "type": "mono"
     },
     "id": 663962511,
-    "img_src": "https://cdn.tigertag.io/img?id=663962511&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=663962511&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -101092,7 +101338,7 @@
       "type": "mono"
     },
     "id": 666110643,
-    "img_src": "https://cdn.tigertag.io/img?id=666110643&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=666110643&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -104917,7 +105163,7 @@
       "type": "mono"
     },
     "id": 689279407,
-    "img_src": "https://cdn.tigertag.io/img?id=689279407&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=689279407&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -113043,15 +113289,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#6D071AFF",
+    "color": "#6D071A",
     "color_info": {
       "colors": [
-        "#6D071AFF"
+        "#6D071A"
       ],
       "type": "mono"
     },
     "id": 742095587,
-    "img_src": "https://cdn.tigertag.io/img?id=742095587&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=742095587&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -114568,7 +114814,7 @@
       "type": "mono"
     },
     "id": 753644209,
-    "img_src": "https://cdn.tigertag.io/img?id=753644209&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=753644209&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -116340,15 +116586,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#2E8B7AFF",
+    "color": "#2E8B7A",
     "color_info": {
       "colors": [
-        "#2E8B7AFF"
+        "#2E8B7A"
       ],
       "type": "mono"
     },
     "id": 769999062,
-    "img_src": "https://cdn.tigertag.io/img?id=769999062&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=769999062&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -118173,9 +118419,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 253,
-      "color_g": 104,
-      "color_r": 99,
+      "color_b": 255,
+      "color_g": 17,
+      "color_r": 0,
       "data1": 56,
       "data2": 220,
       "data3": 270,
@@ -118193,15 +118439,15 @@
     },
     "barcode": null,
     "brand": "ELEGOO",
-    "color": "#6368FDFF",
+    "color": "#0011FF",
     "color_info": {
       "colors": [
-        "#6368FDFF"
+        "#0011FF"
       ],
       "type": "mono"
     },
     "id": 784229153,
-    "img_src": "https://cdn.tigertag.io/img?id=784229153&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=784229153&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -118209,7 +118455,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "",
-    "title": "Rapid PETG - Digital Blue"
+    "title": "Rapid PETG - Blue"
   },
   {
     "RFID_Data": {
@@ -127255,6 +127501,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 151,
+      "color_g": 153,
+      "color_r": 154,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#9A9997",
+    "color_info": {
+      "colors": [
+        "#9A9997"
+      ],
+      "type": "mono"
+    },
+    "id": 844021611,
+    "img_src": "https://cdn.tigertag.io/img?id=844021611&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTP21705-SMK",
+    "title": "Translucent HTPLA - Silver Smoke Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 165,
       "color_g": 229,
       "color_r": 254,
@@ -128275,7 +128562,7 @@
       "type": "mono"
     },
     "id": 851509092,
-    "img_src": "https://cdn.tigertag.io/img?id=851509092&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=851509092&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -136589,15 +136876,15 @@
     },
     "barcode": "6932704900321",
     "brand": "ELEGOO",
-    "color": "#919191FF",
+    "color": "#919191",
     "color_info": {
       "colors": [
-        "#919191FF"
+        "#919191"
       ],
       "type": "mono"
     },
     "id": 916959421,
-    "img_src": "https://cdn.tigertag.io/img?id=916959421&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=916959421&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -136605,7 +136892,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0573",
-    "title": "Rapid TPU 95A - Grey"
+    "title": "TPU 95A - Grey"
   },
   {
     "RFID_Data": {
@@ -137618,15 +137905,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#0B0B0BFF",
+    "color": "#0B0B0B",
     "color_info": {
       "colors": [
-        "#0B0B0BFF"
+        "#0B0B0B"
       ],
       "type": "mono"
     },
     "id": 922434993,
-    "img_src": "https://cdn.tigertag.io/img?id=922434993&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=922434993&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -141447,7 +141734,7 @@
       "type": "mono"
     },
     "id": 949658292,
-    "img_src": "https://cdn.tigertag.io/img?id=949658292&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=949658292&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -142140,10 +142427,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FADADDFF",
+    "color": "#FADADD",
     "color_info": {
       "colors": [
-        "#FADADDFF"
+        "#FADADD"
       ],
       "type": "mono"
     },
@@ -144124,7 +144411,7 @@
       "type": "mono"
     },
     "id": 968638709,
-    "img_src": "https://cdn.tigertag.io/img?id=968638709&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=968638709&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -147175,7 +147462,7 @@
       "type": "mono"
     },
     "id": 990511405,
-    "img_src": "https://cdn.tigertag.io/img?id=990511405&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=990511405&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -154039,10 +154326,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
@@ -156430,6 +156717,47 @@
     "product_type": "Filament",
     "sku": "W3DPLATAGADASTRAWBERRY1000",
     "title": "PLA Hyper - Strawberry Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 79,
+      "color_g": 80,
+      "color_r": 83,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#53504F",
+    "color_info": {
+      "colors": [
+        "#53504F"
+      ],
+      "type": "mono"
+    },
+    "id": 1051384296,
+    "img_src": "https://cdn.tigertag.io/img?id=1051384296&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "FEP11705",
+    "title": "Metal Composite HTPLA - Iron"
   },
   {
     "RFID_Data": {
@@ -162493,10 +162821,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FFCC80FF",
+    "color": "#FFCC80",
     "color_info": {
       "colors": [
-        "#FFCC80FF"
+        "#FFCC80"
       ],
       "type": "mono"
     },
@@ -170894,7 +171222,7 @@
       "type": "mono"
     },
     "id": 1147841844,
-    "img_src": "https://cdn.tigertag.io/img?id=1147841844&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1147841844&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -177975,7 +178303,7 @@
       "type": "mono"
     },
     "id": 1194218129,
-    "img_src": "https://cdn.tigertag.io/img?id=1194218129&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1194218129&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -182137,7 +182465,7 @@
       "type": "mono"
     },
     "id": 1227927784,
-    "img_src": "https://cdn.tigertag.io/img?id=1227927784&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1227927784&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -183367,7 +183695,7 @@
       "type": "mono"
     },
     "id": 1235965667,
-    "img_src": "https://cdn.tigertag.io/img?id=1235965667&v=1&timestamp=1792146796050",
+    "img_src": "https://cdn.tigertag.io/img?id=1235965667&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -186413,7 +186741,7 @@
       "type": "mono"
     },
     "id": 1263501308,
-    "img_src": "https://cdn.tigertag.io/img?id=1263501308&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1263501308&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -186545,6 +186873,47 @@
     "product_type": "Filament",
     "sku": "670202",
     "title": "PLA+ High Speed - Olive Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 1264349532,
+    "img_src": "https://cdn.tigertag.io/img?id=1264349532&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTMF1705-BLK",
+    "title": "Matte Fiber HTPLA - Black"
   },
   {
     "RFID_Data": {
@@ -188635,7 +189004,7 @@
       "type": "mono"
     },
     "id": 1279709699,
-    "img_src": "https://cdn.tigertag.io/img?id=1279709699&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1279709699&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -190074,7 +190443,7 @@
       "type": "mono"
     },
     "id": 1290310126,
-    "img_src": "https://cdn.tigertag.io/img?id=1290310126&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1290310126&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -191416,7 +191785,7 @@
       "type": "mono"
     },
     "id": 1298755271,
-    "img_src": "https://cdn.tigertag.io/img?id=1298755271&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1298755271&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -193540,15 +193909,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#6B4423FF",
+    "color": "#6B4423",
     "color_info": {
       "colors": [
-        "#6B4423FF"
+        "#6B4423"
       ],
       "type": "mono"
     },
     "id": 1309674823,
-    "img_src": "https://cdn.tigertag.io/img?id=1309674823&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1309674823&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -194655,7 +195024,7 @@
       "type": "mono"
     },
     "id": 1316601066,
-    "img_src": "https://cdn.tigertag.io/img?id=1316601066&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1316601066&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -195360,7 +195729,7 @@
       "type": "mono"
     },
     "id": 1319226986,
-    "img_src": "https://cdn.tigertag.io/img?id=1319226986&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1319226986&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -196853,18 +197222,18 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 80,
-      "color_g": 109,
-      "color_r": 180,
+      "color_b": 32,
+      "color_g": 13,
+      "color_r": 186,
       "data1": 56,
-      "data2": 190,
-      "data3": 220,
-      "data4": 55,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
       "data5": 6,
-      "data6": 40,
+      "data6": 50,
       "data7": 60,
       "id_aspect1": 226,
-      "id_aspect2": null,
+      "id_aspect2": 255,
       "id_brand": 1120,
       "id_material": 38219,
       "id_type": 142,
@@ -196873,15 +197242,15 @@
     },
     "barcode": null,
     "brand": "Proto-Pasta",
-    "color": "#B46D50FF",
+    "color": "#BA0D20",
     "color_info": {
       "colors": [
-        "#B46D50FF"
+        "#BA0D20"
       ],
       "type": "mono"
     },
     "id": 1331293089,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=1331293089&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -196889,7 +197258,7 @@
     "measure": "500 g",
     "product_type": "Filament",
     "sku": "HTGL1705-CAR",
-    "title": "HTPLA Chargé - Candy Apple Red"
+    "title": "Metallic HTPLA - Candy Apple Red"
   },
   {
     "RFID_Data": {
@@ -198644,7 +199013,7 @@
       "type": "mono"
     },
     "id": 1344221948,
-    "img_src": "https://cdn.tigertag.io/img?id=1344221948&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1344221948&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -198923,15 +199292,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#0057B8FF",
+    "color": "#0057B8",
     "color_info": {
       "colors": [
-        "#0057B8FF"
+        "#0057B8"
       ],
       "type": "mono"
     },
     "id": 1347760831,
-    "img_src": "https://cdn.tigertag.io/img?id=1347760831&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1347760831&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -201309,15 +201678,15 @@
     },
     "barcode": "6932704900307",
     "brand": "ELEGOO",
-    "color": "#F2F2F2FF",
+    "color": "#F2F2F2",
     "color_info": {
       "colors": [
-        "#F2F2F2FF"
+        "#F2F2F2"
       ],
       "type": "mono"
     },
     "id": 1364446240,
-    "img_src": "https://cdn.tigertag.io/img?id=1364446240&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1364446240&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -201325,7 +201694,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0569",
-    "title": "Rapid TPU 95A - Translucent"
+    "title": "TPU 95A - Translucent"
   },
   {
     "RFID_Data": {
@@ -203749,7 +204118,7 @@
       "type": "mono"
     },
     "id": 1383601789,
-    "img_src": "https://cdn.tigertag.io/img?id=1383601789&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1383601789&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -213269,15 +213638,15 @@
     },
     "barcode": "6932704900314",
     "brand": "ELEGOO",
-    "color": "#FF0000FF",
+    "color": "#FF0000",
     "color_info": {
       "colors": [
-        "#FF0000FF"
+        "#FF0000"
       ],
       "type": "mono"
     },
     "id": 1447188664,
-    "img_src": "https://cdn.tigertag.io/img?id=1447188664&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1447188664&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -213285,7 +213654,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0570",
-    "title": "Rapid TPU 95A - Red"
+    "title": "TPU 95A - Red"
   },
   {
     "RFID_Data": {
@@ -214978,7 +215347,7 @@
       "type": "mono"
     },
     "id": 1458897548,
-    "img_src": "https://cdn.tigertag.io/img?id=1458897548&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1458897548&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -223478,7 +223847,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0567",
-    "title": "TPU - Black"
+    "title": "TPU 95A - Black"
   },
   {
     "RFID_Data": {
@@ -228554,15 +228923,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#C86B4AFF",
+    "color": "#C86B4A",
     "color_info": {
       "colors": [
-        "#C86B4AFF"
+        "#C86B4A"
       ],
       "type": "mono"
     },
     "id": 1544619482,
-    "img_src": "https://cdn.tigertag.io/img?id=1544619482&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1544619482&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -236494,7 +236863,7 @@
       "type": "mono"
     },
     "id": 1599155653,
-    "img_src": "https://cdn.tigertag.io/img?id=1599155653&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1599155653&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -238872,15 +239241,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#C8102EFF",
+    "color": "#C8102E",
     "color_info": {
       "colors": [
-        "#C8102EFF"
+        "#C8102E"
       ],
       "type": "mono"
     },
     "id": 1616926988,
-    "img_src": "https://cdn.tigertag.io/img?id=1616926988&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1616926988&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -240857,47 +241226,6 @@
     "product_type": "Filament",
     "sku": "DLZ-EU-TB-PLA-TPBL-1KG",
     "title": "PLA - Transparent Blue"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 170,
-      "color_g": 164,
-      "color_r": 234,
-      "data1": 56,
-      "data2": 220,
-      "data3": 270,
-      "data4": 65,
-      "data5": 6,
-      "data6": 25,
-      "data7": 70,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 57632,
-      "id_material": 38256,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "barcode": "6976021769681",
-    "brand": "ELEGOO",
-    "color": "#EAA4AAFF",
-    "color_info": {
-      "colors": [
-        "#EAA4AAFF"
-      ],
-      "type": "mono"
-    },
-    "id": 1634065489,
-    "img_src": "https://cdn.tigertag.io/img?id=1634065489&v=2",
-    "info1": false,
-    "info2": false,
-    "info3": false,
-    "material": "PETG",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "50.203.0263",
-    "title": "PETG Pro - Pink"
   },
   {
     "RFID_Data": {
@@ -246703,7 +247031,7 @@
       "type": "mono"
     },
     "id": 1675003096,
-    "img_src": "https://cdn.tigertag.io/img?id=1675003096&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1675003096&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -250520,7 +250848,7 @@
       "type": "mono"
     },
     "id": 1704509380,
-    "img_src": "https://cdn.tigertag.io/img?id=1704509380&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1704509380&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -253640,7 +253968,7 @@
       "type": "mono"
     },
     "id": 1729750448,
-    "img_src": "https://cdn.tigertag.io/img?id=1729750448&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1729750448&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -255284,7 +255612,7 @@
       "type": "mono"
     },
     "id": 1739684613,
-    "img_src": "https://cdn.tigertag.io/img?id=1739684613&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1739684613&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -260261,7 +260589,7 @@
       "type": "mono"
     },
     "id": 1774691717,
-    "img_src": "https://cdn.tigertag.io/img?id=1774691717&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1774691717&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -260384,7 +260712,7 @@
       "type": "mono"
     },
     "id": 1776323017,
-    "img_src": "https://cdn.tigertag.io/img?id=1776323017&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1776323017&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -262393,10 +262721,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#7B2D8EFF",
+    "color": "#7B2D8E",
     "color_info": {
       "colors": [
-        "#7B2D8EFF"
+        "#7B2D8E"
       ],
       "type": "mono"
     },
@@ -263303,7 +263631,7 @@
       "type": "mono"
     },
     "id": 1798530486,
-    "img_src": "https://cdn.tigertag.io/img?id=1798530486&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1798530486&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -266304,7 +266632,7 @@
       "type": "mono"
     },
     "id": 1823776781,
-    "img_src": "https://cdn.tigertag.io/img?id=1823776781&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1823776781&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -266468,7 +266796,7 @@
       "type": "mono"
     },
     "id": 1824623384,
-    "img_src": "https://cdn.tigertag.io/img?id=1824623384&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1824623384&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -268695,7 +269023,7 @@
       "type": "mono"
     },
     "id": 1839031032,
-    "img_src": "https://cdn.tigertag.io/img?id=1839031032&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1839031032&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -268900,7 +269228,7 @@
       "type": "mono"
     },
     "id": 1840272589,
-    "img_src": "https://cdn.tigertag.io/img?id=1840272589&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1840272589&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -269733,6 +270061,47 @@
     "product_type": "Filament",
     "sku": "G00-G01-1.75-1000-SPLFREE",
     "title": "PETG Basic - Pine Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 242,
+      "color_g": 242,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#F2F2F2",
+    "color_info": {
+      "colors": [
+        "#F2F2F2"
+      ],
+      "type": "mono"
+    },
+    "id": 1846100645,
+    "img_src": "https://cdn.tigertag.io/img?id=1846100645&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTMF1705-WHT",
+    "title": "Matte Fiber HTPLA - White"
   },
   {
     "RFID_Data": {
@@ -272987,7 +273356,7 @@
       "type": "mono"
     },
     "id": 1866413647,
-    "img_src": "https://cdn.tigertag.io/img?id=1866413647&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1866413647&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -277760,7 +278129,7 @@
       "type": "mono"
     },
     "id": 1902527392,
-    "img_src": "https://cdn.tigertag.io/img?id=1902527392&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1902527392&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -278859,10 +279228,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#39B54AFF",
+    "color": "#39B54A",
     "color_info": {
       "colors": [
-        "#39B54AFF"
+        "#39B54A"
       ],
       "type": "mono"
     },
@@ -282123,7 +282492,7 @@
       "type": "mono"
     },
     "id": 1931177055,
-    "img_src": "https://cdn.tigertag.io/img?id=1931177055&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1931177055&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -285801,6 +286170,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 238,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 1960474844,
+    "img_src": "https://cdn.tigertag.io/img?id=1960474844&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "CFP11705",
+    "title": "Carbon Fiber HTPLA - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 7,
       "color_g": 14,
       "color_r": 29,
@@ -286547,7 +286957,7 @@
       "type": "mono"
     },
     "id": 1964243267,
-    "img_src": "https://cdn.tigertag.io/img?id=1964243267&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1964243267&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -289069,7 +289479,7 @@
       "type": "mono"
     },
     "id": 1980705983,
-    "img_src": "https://cdn.tigertag.io/img?id=1980705983&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1980705983&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -289082,18 +289492,18 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 80,
-      "color_g": 109,
-      "color_r": 180,
+      "color_b": 100,
+      "color_g": 78,
+      "color_r": 95,
       "data1": 56,
-      "data2": 190,
-      "data3": 220,
-      "data4": 55,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
       "data5": 6,
-      "data6": 40,
+      "data6": 50,
       "data7": 60,
       "id_aspect1": 226,
-      "id_aspect2": null,
+      "id_aspect2": 255,
       "id_brand": 1120,
       "id_material": 38219,
       "id_type": 142,
@@ -289102,15 +289512,15 @@
     },
     "barcode": null,
     "brand": "Proto-Pasta",
-    "color": "#B46D50FF",
+    "color": "#5F4E64",
     "color_info": {
       "colors": [
-        "#B46D50FF"
+        "#5F4E64"
       ],
       "type": "mono"
     },
     "id": 1981178246,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=1981178246&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -289118,7 +289528,7 @@
     "measure": "500 g",
     "product_type": "Filament",
     "sku": "HTPM1705-GEP",
-    "title": "HTPLA Chargé - Galactic Empire Purple"
+    "title": "Metallic HTPLA - Galactic Empire Purple"
   },
   {
     "RFID_Data": {
@@ -290332,15 +290742,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#E30613FF",
+    "color": "#E30613",
     "color_info": {
       "colors": [
-        "#E30613FF"
+        "#E30613"
       ],
       "type": "mono"
     },
     "id": 1989460320,
-    "img_src": "https://cdn.tigertag.io/img?id=1989460320&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1989460320&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -291365,7 +291775,7 @@
       "type": "mono"
     },
     "id": 1997165346,
-    "img_src": "https://cdn.tigertag.io/img?id=1997165346&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1997165346&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -293957,15 +294367,15 @@
     },
     "barcode": "6932704903483",
     "brand": "ELEGOO",
-    "color": "#001EFFFF",
+    "color": "#001EFF",
     "color_info": {
       "colors": [
-        "#001EFFFF"
+        "#001EFF"
       ],
       "type": "mono"
     },
     "id": 2014266803,
-    "img_src": "https://cdn.tigertag.io/img?id=2014266803&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2014266803&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -293973,7 +294383,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0571",
-    "title": "Rapid TPU 95A - Blue"
+    "title": "TPU 95A - Blue"
   },
   {
     "RFID_Data": {
@@ -297697,15 +298107,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#B4E1B4FF",
+    "color": "#B4E1B4",
     "color_info": {
       "colors": [
-        "#B4E1B4FF"
+        "#B4E1B4"
       ],
       "type": "mono"
     },
     "id": 2037015538,
-    "img_src": "https://cdn.tigertag.io/img?id=2037015538&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2037015538&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -298119,7 +298529,7 @@
       "type": "mono"
     },
     "id": 2043519282,
-    "img_src": "https://cdn.tigertag.io/img?id=2043519282&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2043519282&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -299313,15 +299723,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FFE800FF",
+    "color": "#FFE800",
     "color_info": {
       "colors": [
-        "#FFE800FF"
+        "#FFE800"
       ],
       "type": "mono"
     },
     "id": 2049230459,
-    "img_src": "https://cdn.tigertag.io/img?id=2049230459&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2049230459&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -300264,7 +300674,7 @@
       "type": "mono"
     },
     "id": 2053269530,
-    "img_src": "https://cdn.tigertag.io/img?id=2053269530&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2053269530&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -302535,7 +302945,7 @@
       "type": "mono"
     },
     "id": 2067691607,
-    "img_src": "https://cdn.tigertag.io/img?id=2067691607&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2067691607&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -303355,7 +303765,7 @@
       "type": "mono"
     },
     "id": 2073899255,
-    "img_src": "https://cdn.tigertag.io/img?id=2073899255&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2073899255&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -306388,8 +306798,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 128,
+      "color_b2": 0,
       "color_g": 128,
+      "color_g2": 0,
       "color_r": 128,
+      "color_r2": 0,
       "data1": 56,
       "data2": 190,
       "data3": 220,
@@ -306407,15 +306820,16 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080",
+        "#000000"
       ],
       "type": "gradient"
     },
     "id": 2095261467,
-    "img_src": "https://cdn.tigertag.io/img?id=2095261467&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2095261467&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -306423,7 +306837,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "S3D-PLA-TRS",
-    "title": "PLA Transição - Transition"
+    "title": "PLA Transition - Transition"
   },
   {
     "RFID_Data": {
@@ -307362,7 +307776,7 @@
       "type": "mono"
     },
     "id": 2099990095,
-    "img_src": "https://cdn.tigertag.io/img?id=2099990095&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2099990095&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -313196,7 +313610,7 @@
       "type": "mono"
     },
     "id": 2140136736,
-    "img_src": "https://cdn.tigertag.io/img?id=2140136736&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2140136736&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -313811,7 +314225,7 @@
       "type": "mono"
     },
     "id": 2144360005,
-    "img_src": "https://cdn.tigertag.io/img?id=2144360005&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2144360005&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -319881,7 +320295,7 @@
       "type": "mono"
     },
     "id": 2185587075,
-    "img_src": "https://cdn.tigertag.io/img?id=2185587075&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2185587075&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -337237,7 +337651,7 @@
       "type": "mono"
     },
     "id": 2296730500,
-    "img_src": "https://cdn.tigertag.io/img?id=2296730500&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2296730500&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -339906,7 +340320,7 @@
       "type": "mono"
     },
     "id": 2319164574,
-    "img_src": "https://cdn.tigertag.io/img?id=2319164574&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2319164574&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -347348,7 +347762,7 @@
       "type": "mono"
     },
     "id": 2377749444,
-    "img_src": "https://cdn.tigertag.io/img?id=2377749444&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2377749444&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -348710,15 +349124,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#F5C518FF",
+    "color": "#F5C518",
     "color_info": {
       "colors": [
-        "#F5C518FF"
+        "#F5C518"
       ],
       "type": "mono"
     },
     "id": 2390413987,
-    "img_src": "https://cdn.tigertag.io/img?id=2390413987&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2390413987&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -349702,7 +350116,7 @@
       "type": "mono"
     },
     "id": 2395123856,
-    "img_src": "https://cdn.tigertag.io/img?id=2395123856&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2395123856&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -352060,7 +352474,7 @@
       "type": "mono"
     },
     "id": 2410691304,
-    "img_src": "https://cdn.tigertag.io/img?id=2410691304&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2410691304&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -352339,15 +352753,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#C0C0C0FF",
+    "color": "#C0C0C0",
     "color_info": {
       "colors": [
-        "#C0C0C0FF"
+        "#C0C0C0"
       ],
       "type": "mono"
     },
     "id": 2414005481,
-    "img_src": "https://cdn.tigertag.io/img?id=2414005481&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2414005481&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -353208,7 +353622,7 @@
       "type": "mono"
     },
     "id": 2419050816,
-    "img_src": "https://cdn.tigertag.io/img?id=2419050816&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2419050816&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -355672,7 +356086,7 @@
       "type": "mono"
     },
     "id": 2436543122,
-    "img_src": "https://cdn.tigertag.io/img?id=2436543122&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2436543122&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -360326,7 +360740,7 @@
       "type": "mono"
     },
     "id": 2469302474,
-    "img_src": "https://cdn.tigertag.io/img?id=2469302474&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2469302474&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -361229,10 +361643,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#B5D8F7FF",
+    "color": "#B5D8F7",
     "color_info": {
       "colors": [
-        "#B5D8F7FF"
+        "#B5D8F7"
       ],
       "type": "mono"
     },
@@ -361803,15 +362217,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#2E8B57FF",
+    "color": "#2E8B57",
     "color_info": {
       "colors": [
-        "#2E8B57FF"
+        "#2E8B57"
       ],
       "type": "mono"
     },
     "id": 2477452839,
-    "img_src": "https://cdn.tigertag.io/img?id=2477452839&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2477452839&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -366001,10 +366415,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#C0C0C0FF",
+    "color": "#C0C0C0",
     "color_info": {
       "colors": [
-        "#C0C0C0FF"
+        "#C0C0C0"
       ],
       "type": "mono"
     },
@@ -372184,7 +372598,7 @@
       "type": "mono"
     },
     "id": 2555246699,
-    "img_src": "https://cdn.tigertag.io/img?id=2555246699&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2555246699&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -374177,30 +374591,30 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 80,
-      "color_g": 109,
-      "color_r": 180,
+      "color_b": 155,
+      "color_g": 152,
+      "color_r": 151,
       "data1": 56,
-      "data2": 190,
-      "data3": 220,
-      "data4": 55,
+      "data2": 220,
+      "data3": 240,
+      "data4": 65,
       "data5": 6,
-      "data6": 40,
+      "data6": 30,
       "data7": 60,
-      "id_aspect1": 226,
-      "id_aspect2": null,
+      "id_aspect1": 67,
+      "id_aspect2": 255,
       "id_brand": 1120,
-      "id_material": 38219,
+      "id_material": 43518,
       "id_type": 142,
       "id_unit": 21,
       "measure": 500
     },
     "barcode": null,
     "brand": "Proto-Pasta",
-    "color": "#B46D50FF",
+    "color": "#97989B",
     "color_info": {
       "colors": [
-        "#B46D50FF"
+        "#97989B"
       ],
       "type": "mono"
     },
@@ -374209,11 +374623,11 @@
     "info1": false,
     "info2": false,
     "info3": false,
-    "material": "PLA",
+    "material": "TPU",
     "measure": "500 g",
     "product_type": "Filament",
     "sku": "T98A1705-CLR",
-    "title": "HTPLA Chargé - Clear"
+    "title": "Flexible TPU - Clear"
   },
   {
     "RFID_Data": {
@@ -375226,15 +375640,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#D0021BFF",
+    "color": "#D0021B",
     "color_info": {
       "colors": [
-        "#D0021BFF"
+        "#D0021B"
       ],
       "type": "mono"
     },
     "id": 2572931117,
-    "img_src": "https://cdn.tigertag.io/img?id=2572931117&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2572931117&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -376956,7 +377370,7 @@
       "type": "mono"
     },
     "id": 2587492689,
-    "img_src": "https://cdn.tigertag.io/img?id=2587492689&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2587492689&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -376997,7 +377411,7 @@
       "type": "mono"
     },
     "id": 2587533998,
-    "img_src": "https://cdn.tigertag.io/img?id=2587533998&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2587533998&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -383601,15 +384015,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#B0AFA8FF",
+    "color": "#B0AFA8",
     "color_info": {
       "colors": [
-        "#B0AFA8FF"
+        "#B0AFA8"
       ],
       "type": "mono"
     },
     "id": 2628368510,
-    "img_src": "https://cdn.tigertag.io/img?id=2628368510&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2628368510&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -384101,7 +384515,7 @@
       "type": "mono"
     },
     "id": 2631371462,
-    "img_src": "https://cdn.tigertag.io/img?id=2631371462&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2631371462&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -386044,7 +386458,7 @@
       "type": "mono"
     },
     "id": 2645962862,
-    "img_src": "https://cdn.tigertag.io/img?id=2645962862&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2645962862&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -387782,7 +388196,7 @@
       "type": "mono"
     },
     "id": 2655268687,
-    "img_src": "https://cdn.tigertag.io/img?id=2655268687&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2655268687&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -389102,7 +389516,7 @@
       "type": "mono"
     },
     "id": 2663826173,
-    "img_src": "https://cdn.tigertag.io/img?id=2663826173&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2663826173&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -393722,15 +394136,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#0066CCFF",
+    "color": "#0066CC",
     "color_info": {
       "colors": [
-        "#0066CCFF"
+        "#0066CC"
       ],
       "type": "mono"
     },
     "id": 2689925101,
-    "img_src": "https://cdn.tigertag.io/img?id=2689925101&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2689925101&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -395747,7 +396161,7 @@
       "type": "mono"
     },
     "id": 2701618362,
-    "img_src": "https://cdn.tigertag.io/img?id=2701618362&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2701618362&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -400183,7 +400597,7 @@
       "type": "mono"
     },
     "id": 2729769477,
-    "img_src": "https://cdn.tigertag.io/img?id=2729769477&v=5",
+    "img_src": "https://cdn.tigertag.io/img?id=2729769477&v=6",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -401426,6 +401840,47 @@
     "product_type": "Filament",
     "sku": "MARSWORK-PLABASIC-ORANGE-REFILL",
     "title": "PLA Basic - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 2736130994,
+    "img_src": "https://cdn.tigertag.io/img?id=2736130994&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "CDP11705",
+    "title": "HTPLA - Black"
   },
   {
     "RFID_Data": {
@@ -405660,7 +406115,7 @@
       "type": "mono"
     },
     "id": 2768108335,
-    "img_src": "https://cdn.tigertag.io/img?id=2768108335&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2768108335&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -406931,7 +407386,7 @@
       "type": "mono"
     },
     "id": 2776456671,
-    "img_src": "https://cdn.tigertag.io/img?id=2776456671&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2776456671&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -407013,7 +407468,7 @@
       "type": "mono"
     },
     "id": 2777011614,
-    "img_src": "https://cdn.tigertag.io/img?id=2777011614&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2777011614&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -409432,7 +409887,7 @@
       "type": "mono"
     },
     "id": 2791400963,
-    "img_src": "https://cdn.tigertag.io/img?id=2791400963&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2791400963&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -410006,7 +410461,7 @@
       "type": "mono"
     },
     "id": 2793910304,
-    "img_src": "https://cdn.tigertag.io/img?id=2793910304&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2793910304&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -410539,7 +410994,7 @@
       "type": "mono"
     },
     "id": 2797125260,
-    "img_src": "https://cdn.tigertag.io/img?id=2797125260&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2797125260&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -410826,7 +411281,7 @@
       "type": "mono"
     },
     "id": 2800115882,
-    "img_src": "https://cdn.tigertag.io/img?id=2800115882&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2800115882&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -413126,7 +413581,7 @@
       "type": "mono"
     },
     "id": 2813770562,
-    "img_src": "https://cdn.tigertag.io/img?id=2813770562&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2813770562&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -413208,7 +413663,7 @@
       "type": "mono"
     },
     "id": 2814288713,
-    "img_src": "https://cdn.tigertag.io/img?id=2814288713&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2814288713&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -414856,7 +415311,7 @@
       "type": "mono"
     },
     "id": 2827712460,
-    "img_src": "https://cdn.tigertag.io/img?id=2827712460&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2827712460&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -416385,7 +416840,7 @@
       "type": "mono"
     },
     "id": 2837490910,
-    "img_src": "https://cdn.tigertag.io/img?id=2837490910&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2837490910&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -416795,7 +417250,7 @@
       "type": "mono"
     },
     "id": 2840724289,
-    "img_src": "https://cdn.tigertag.io/img?id=2840724289&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2840724289&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -418190,26 +418645,26 @@
       "id_aspect1": 238,
       "id_aspect2": null,
       "id_brand": 57632,
-      "id_material": 38256,
+      "id_material": 55418,
       "id_type": 142,
       "id_unit": 21,
       "measure": 1000
     },
     "barcode": "50.203.0831",
     "brand": "ELEGOO",
-    "color": "#007533FF",
+    "color": "#007533",
     "color_info": {
       "colors": [
-        "#007533FF"
+        "#007533"
       ],
       "type": "mono"
     },
     "id": 2853803041,
-    "img_src": "https://cdn.tigertag.io/img?id=2853803041&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2853803041&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
-    "material": "PETG",
+    "material": "PETG-CF",
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0831",
@@ -418738,7 +419193,7 @@
       "type": "mono"
     },
     "id": 2857323103,
-    "img_src": "https://cdn.tigertag.io/img?id=2857323103&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2857323103&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -422754,7 +423209,7 @@
       "type": "mono"
     },
     "id": 2883572973,
-    "img_src": "https://cdn.tigertag.io/img?id=2883572973&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2883572973&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -424879,26 +425334,26 @@
       "id_aspect1": 238,
       "id_aspect2": null,
       "id_brand": 57632,
-      "id_material": 38256,
+      "id_material": 55418,
       "id_type": 142,
       "id_unit": 21,
       "measure": 1000
     },
     "barcode": "50.203.0829",
     "brand": "ELEGOO",
-    "color": "#D64343FF",
+    "color": "#D64343",
     "color_info": {
       "colors": [
-        "#D64343FF"
+        "#D64343"
       ],
       "type": "mono"
     },
     "id": 2899105867,
-    "img_src": "https://cdn.tigertag.io/img?id=2899105867&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2899105867&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
-    "material": "PETG",
+    "material": "PETG-CF",
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0829",
@@ -425017,7 +425472,7 @@
       "type": "mono"
     },
     "id": 2899579761,
-    "img_src": "https://cdn.tigertag.io/img?id=2899579761&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=2899579761&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -426252,15 +426707,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A"
       ],
       "type": "mono"
     },
     "id": 2906852664,
-    "img_src": "https://cdn.tigertag.io/img?id=2906852664&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2906852664&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -430767,6 +431222,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 106,
+      "color_g": 82,
+      "color_r": 103,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#67526A",
+    "color_info": {
+      "colors": [
+        "#67526A"
+      ],
+      "type": "mono"
+    },
+    "id": 2940134681,
+    "img_src": "https://cdn.tigertag.io/img?id=2940134681&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTP21705-GLP",
+    "title": "HTPLA - Gloop! Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 6,
       "color_g": 68,
       "color_r": 224,
@@ -433468,7 +433964,7 @@
       "type": "mono"
     },
     "id": 2954448002,
-    "img_src": "https://cdn.tigertag.io/img?id=2954448002&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2954448002&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -434534,7 +435030,7 @@
       "type": "mono"
     },
     "id": 2963122248,
-    "img_src": "https://cdn.tigertag.io/img?id=2963122248&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2963122248&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -435481,7 +435977,7 @@
       "type": "mono"
     },
     "id": 2968046748,
-    "img_src": "https://cdn.tigertag.io/img?id=2968046748&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2968046748&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -439568,7 +440064,7 @@
       "type": "mono"
     },
     "id": 3000740230,
-    "img_src": "https://cdn.tigertag.io/img?id=3000740230&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3000740230&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -445077,7 +445573,7 @@
       "type": "mono"
     },
     "id": 3040997621,
-    "img_src": "https://cdn.tigertag.io/img?id=3040997621&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3040997621&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -445438,15 +445934,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 3044533047,
-    "img_src": "https://cdn.tigertag.io/img?id=3044533047&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3044533047&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -447254,7 +447750,7 @@
       "type": "mono"
     },
     "id": 3052776438,
-    "img_src": "https://cdn.tigertag.io/img?id=3052776438&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3052776438&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -452818,7 +453314,7 @@
       "type": "mono"
     },
     "id": 3085595582,
-    "img_src": "https://cdn.tigertag.io/img?id=3085595582&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3085595582&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -457878,15 +458374,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 3118403502,
-    "img_src": "https://cdn.tigertag.io/img?id=3118403502&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3118403502&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -464435,7 +464931,7 @@
       "type": "mono"
     },
     "id": 3169424432,
-    "img_src": "https://cdn.tigertag.io/img?id=3169424432&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3169424432&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -464526,6 +465022,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "Soleyin Ultra PLA - Strawberry Milk"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 242,
+      "color_g": 242,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#F2F2F2",
+    "color_info": {
+      "colors": [
+        "#F2F2F2"
+      ],
+      "type": "mono"
+    },
+    "id": 3170150870,
+    "img_src": "https://cdn.tigertag.io/img?id=3170150870&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTP32810-WHT",
+    "title": "HTPLA - White"
   },
   {
     "RFID_Data": {
@@ -465837,15 +466374,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#4B5320FF",
+    "color": "#4B5320",
     "color_info": {
       "colors": [
-        "#4B5320FF"
+        "#4B5320"
       ],
       "type": "mono"
     },
     "id": 3177644635,
-    "img_src": "https://cdn.tigertag.io/img?id=3177644635&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3177644635&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -466739,15 +467276,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#E8DCC5FF",
+    "color": "#E8DCC5",
     "color_info": {
       "colors": [
-        "#E8DCC5FF"
+        "#E8DCC5"
       ],
       "type": "mono"
     },
     "id": 3184136505,
-    "img_src": "https://cdn.tigertag.io/img?id=3184136505&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3184136505&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -467846,15 +468383,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#D4AF37FF",
+    "color": "#D4AF37",
     "color_info": {
       "colors": [
-        "#D4AF37FF"
+        "#D4AF37"
       ],
       "type": "mono"
     },
     "id": 3192166744,
-    "img_src": "https://cdn.tigertag.io/img?id=3192166744&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3192166744&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -470843,15 +471380,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#1F4E96FF",
+    "color": "#1F4E96",
     "color_info": {
       "colors": [
-        "#1F4E96FF"
+        "#1F4E96"
       ],
       "type": "mono"
     },
     "id": 3216845003,
-    "img_src": "https://cdn.tigertag.io/img?id=3216845003&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3216845003&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -475169,30 +475706,30 @@
       "id_aspect1": 238,
       "id_aspect2": null,
       "id_brand": 57632,
-      "id_material": 38256,
+      "id_material": 55418,
       "id_type": 142,
       "id_unit": 21,
       "measure": 1000
     },
     "barcode": "50.203.0634",
     "brand": "ELEGOO",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 3246449771,
-    "img_src": "https://cdn.tigertag.io/img?id=3246449771&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3246449771&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
-    "material": "PETG",
+    "material": "PETG-CF",
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0634",
-    "title": "PETG-CF - black"
+    "title": "PETG-CF - Black"
   },
   {
     "RFID_Data": {
@@ -475471,15 +476008,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#808080FF",
+    "color": "#808080",
     "color_info": {
       "colors": [
-        "#808080FF"
+        "#808080"
       ],
       "type": "mono"
     },
     "id": 3248162756,
-    "img_src": "https://cdn.tigertag.io/img?id=3248162756&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3248162756&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -476508,15 +477045,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#2E8B57FF",
+    "color": "#2E8B57",
     "color_info": {
       "colors": [
-        "#2E8B57FF"
+        "#2E8B57"
       ],
       "type": "mono"
     },
     "id": 3255955989,
-    "img_src": "https://cdn.tigertag.io/img?id=3255955989&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3255955989&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -487481,47 +488018,6 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 143,
-      "color_g": 81,
-      "color_r": 0,
-      "data1": 56,
-      "data2": 190,
-      "data3": 240,
-      "data4": 55,
-      "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 92,
-      "id_aspect2": null,
-      "id_brand": 57632,
-      "id_material": 38219,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "barcode": null,
-    "brand": "ELEGOO",
-    "color": "#00518FFF",
-    "color_info": {
-      "colors": [
-        "#00518FFF"
-      ],
-      "type": "mono"
-    },
-    "id": 3328600765,
-    "img_src": "https://cdn.tigertag.io/img?id=3328600765&v=2",
-    "info1": false,
-    "info2": false,
-    "info3": false,
-    "material": "PLA",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "50.203.0261",
-    "title": "Galaxy - Peacock Blue"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
       "color_b": 160,
       "color_g": 50,
       "color_r": 0,
@@ -493003,10 +493499,10 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#D8BFD8FF",
+    "color": "#D8BFD8",
     "color_info": {
       "colors": [
-        "#D8BFD8FF"
+        "#D8BFD8"
       ],
       "type": "mono"
     },
@@ -494040,7 +494536,7 @@
       "type": "mono"
     },
     "id": 3378162063,
-    "img_src": "https://cdn.tigertag.io/img?id=3378162063&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3378162063&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -495160,6 +495656,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 35,
+      "color_g": 4,
+      "color_r": 212,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#D40423",
+    "color_info": {
+      "colors": [
+        "#D40423"
+      ],
+      "type": "mono"
+    },
+    "id": 3384394822,
+    "img_src": "https://cdn.tigertag.io/img?id=3384394822&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTP32810-RED",
+    "title": "HTPLA - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 33,
       "color_g": 58,
       "color_r": 92,
@@ -495180,15 +495717,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#5C3A21FF",
+    "color": "#5C3A21",
     "color_info": {
       "colors": [
-        "#5C3A21FF"
+        "#5C3A21"
       ],
       "type": "mono"
     },
     "id": 3384632229,
-    "img_src": "https://cdn.tigertag.io/img?id=3384632229&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3384632229&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -496787,7 +497324,7 @@
       "type": "mono"
     },
     "id": 3394831886,
-    "img_src": "https://cdn.tigertag.io/img?id=3394831886&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3394831886&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -505167,15 +505704,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#6A0DADFF",
+    "color": "#6A0DAD",
     "color_info": {
       "colors": [
-        "#6A0DADFF"
+        "#6A0DAD"
       ],
       "type": "mono"
     },
     "id": 3453351884,
-    "img_src": "https://cdn.tigertag.io/img?id=3453351884&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3453351884&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -508416,26 +508953,26 @@
       "id_aspect1": 238,
       "id_aspect2": null,
       "id_brand": 57632,
-      "id_material": 38256,
+      "id_material": 55418,
       "id_type": 142,
       "id_unit": 21,
       "measure": 1000
     },
     "barcode": "50.203.0830",
     "brand": "ELEGOO",
-    "color": "#614DFFFF",
+    "color": "#614DFF",
     "color_info": {
       "colors": [
-        "#614DFFFF"
+        "#614DFF"
       ],
       "type": "mono"
     },
     "id": 3472900949,
-    "img_src": "https://cdn.tigertag.io/img?id=3472900949&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3472900949&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
-    "material": "PETG",
+    "material": "PETG-CF",
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0830",
@@ -511703,7 +512240,7 @@
       "type": "mono"
     },
     "id": 3495591703,
-    "img_src": "https://cdn.tigertag.io/img?id=3495591703&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3495591703&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -512400,15 +512937,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FFD400FF",
+    "color": "#FFD400",
     "color_info": {
       "colors": [
-        "#FFD400FF"
+        "#FFD400"
       ],
       "type": "mono"
     },
     "id": 3500020461,
-    "img_src": "https://cdn.tigertag.io/img?id=3500020461&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3500020461&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -515085,7 +515622,7 @@
       "type": "mono"
     },
     "id": 3516881345,
-    "img_src": "https://cdn.tigertag.io/img?id=3516881345&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3516881345&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -516652,47 +517189,6 @@
     "product_type": "Filament",
     "sku": "ISM-PLAGF-BLACK-1.75-1000",
     "title": "PLA Glass Fiber - Black"
-  },
-  {
-    "RFID_Data": {
-      "color_a": 255,
-      "color_b": 0,
-      "color_g": 0,
-      "color_r": 0,
-      "data1": 56,
-      "data2": 200,
-      "data3": 250,
-      "data4": 60,
-      "data5": 6,
-      "data6": 25,
-      "data7": 45,
-      "id_aspect1": 104,
-      "id_aspect2": null,
-      "id_brand": 57632,
-      "id_material": 43518,
-      "id_type": 142,
-      "id_unit": 21,
-      "measure": 1000
-    },
-    "barcode": "40553085",
-    "brand": "ELEGOO",
-    "color": "#000000FF",
-    "color_info": {
-      "colors": [
-        "#000000FF"
-      ],
-      "type": "mono"
-    },
-    "id": 3527039449,
-    "img_src": "https://cdn.tigertag.io/img?id=3527039449&v=1",
-    "info1": false,
-    "info2": false,
-    "info3": false,
-    "material": "TPU",
-    "measure": "1000 g",
-    "product_type": "Filament",
-    "sku": "50.203.0631",
-    "title": "Rapid TPU 95A - Black"
   },
   {
     "RFID_Data": {
@@ -519079,7 +519575,7 @@
       "type": "mono"
     },
     "id": 3542063103,
-    "img_src": "https://cdn.tigertag.io/img?id=3542063103&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3542063103&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -522281,7 +522777,7 @@
       "type": "mono"
     },
     "id": 3565411231,
-    "img_src": "https://cdn.tigertag.io/img?id=3565411231&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3565411231&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -522691,7 +523187,7 @@
       "type": "mono"
     },
     "id": 3567121627,
-    "img_src": "https://cdn.tigertag.io/img?id=3567121627&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3567121627&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -523888,7 +524384,7 @@
       "type": "mono"
     },
     "id": 3576942577,
-    "img_src": "https://cdn.tigertag.io/img?id=3576942577&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3576942577&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -526696,7 +527192,7 @@
       "type": "mono"
     },
     "id": 3601017975,
-    "img_src": "https://cdn.tigertag.io/img?id=3601017975&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3601017975&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -532087,7 +532583,7 @@
       "type": "mono"
     },
     "id": 3633365381,
-    "img_src": "https://cdn.tigertag.io/img?id=3633365381&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3633365381&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -533752,6 +534248,47 @@
     "product_type": "Filament",
     "sku": "B0FQTTXFL8",
     "title": "ASA - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 142,
+      "color_g": 77,
+      "color_r": 10,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#0A4D8E",
+    "color_info": {
+      "colors": [
+        "#0A4D8E"
+      ],
+      "type": "mono"
+    },
+    "id": 3644437861,
+    "img_src": "https://cdn.tigertag.io/img?id=3644437861&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTPM1705-HFB",
+    "title": "HTPLA - Highfive Blue"
   },
   {
     "RFID_Data": {
@@ -540393,7 +540930,7 @@
       "type": "mono"
     },
     "id": 3701904245,
-    "img_src": "https://cdn.tigertag.io/img?id=3701904245&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=3701904245&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -547018,15 +547555,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FAFAFAFF",
+    "color": "#FAFAFA",
     "color_info": {
       "colors": [
-        "#FAFAFAFF"
+        "#FAFAFA"
       ],
       "type": "mono"
     },
     "id": 3747725391,
-    "img_src": "https://cdn.tigertag.io/img?id=3747725391&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3747725391&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -547838,15 +548375,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FF7F00FF",
+    "color": "#FF7F00",
     "color_info": {
       "colors": [
-        "#FF7F00FF"
+        "#FF7F00"
       ],
       "type": "mono"
     },
     "id": 3752603507,
-    "img_src": "https://cdn.tigertag.io/img?id=3752603507&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3752603507&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -548510,7 +549047,7 @@
       "type": "mono"
     },
     "id": 3755784287,
-    "img_src": "https://cdn.tigertag.io/img?id=3755784287&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3755784287&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -554295,7 +554832,7 @@
       "type": "mono"
     },
     "id": 3800588243,
-    "img_src": "https://cdn.tigertag.io/img?id=3800588243&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3800588243&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -558071,7 +558608,7 @@
       "type": "mono"
     },
     "id": 3829046361,
-    "img_src": "https://cdn.tigertag.io/img?id=3829046361&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3829046361&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -558690,7 +559227,7 @@
       "type": "mono"
     },
     "id": 3834387722,
-    "img_src": "https://cdn.tigertag.io/img?id=3834387722&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3834387722&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -563675,7 +564212,7 @@
       "type": "mono"
     },
     "id": 3874459518,
-    "img_src": "https://cdn.tigertag.io/img?id=3874459518&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3874459518&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -567185,6 +567722,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 131,
+      "color_g": 55,
+      "color_r": 7,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#073783",
+    "color_info": {
+      "colors": [
+        "#073783"
+      ],
+      "type": "mono"
+    },
+    "id": 3898800464,
+    "img_src": "https://cdn.tigertag.io/img?id=3898800464&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTP32810-BLU",
+    "title": "HTPLA - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 184,
       "color_g": 185,
       "color_r": 185,
@@ -567369,15 +567947,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#FF69B4FF",
+    "color": "#FF69B4",
     "color_info": {
       "colors": [
-        "#FF69B4FF"
+        "#FF69B4"
       ],
       "type": "mono"
     },
     "id": 3900741046,
-    "img_src": "https://cdn.tigertag.io/img?id=3900741046&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3900741046&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -567623,7 +568201,7 @@
       "type": "mono"
     },
     "id": 3901966138,
-    "img_src": "https://cdn.tigertag.io/img?id=3901966138&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3901966138&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -572400,7 +572978,7 @@
       "type": "mono"
     },
     "id": 3931380160,
-    "img_src": "https://cdn.tigertag.io/img?id=3931380160&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3931380160&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -573712,7 +574290,7 @@
       "type": "mono"
     },
     "id": 3939534255,
-    "img_src": "https://cdn.tigertag.io/img?id=3939534255&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3939534255&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -580481,6 +581059,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 238,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 3983345686,
+    "img_src": "https://cdn.tigertag.io/img?id=3983345686&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTP21705-CF",
+    "title": "Carbon Fiber HTPLA - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 158,
       "color_g": 158,
       "color_r": 158,
@@ -582917,15 +583536,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 4004040831,
-    "img_src": "https://cdn.tigertag.io/img?id=4004040831&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4004040831&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -588074,7 +588693,7 @@
       "type": "mono"
     },
     "id": 4044948047,
-    "img_src": "https://cdn.tigertag.io/img?id=4044948047&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4044948047&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -590280,15 +590899,15 @@
     },
     "barcode": "6976021769827",
     "brand": "ELEGOO",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 4055929228,
-    "img_src": "https://cdn.tigertag.io/img?id=4055929228&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4055929228&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -590296,7 +590915,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0568",
-    "title": "Rapid TPU 95A - White"
+    "title": "TPU 95A - White"
   },
   {
     "RFID_Data": {
@@ -592719,7 +593338,7 @@
       "type": "mono"
     },
     "id": 4069845348,
-    "img_src": "https://cdn.tigertag.io/img?id=4069845348&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4069845348&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -601641,6 +602260,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": 255,
+      "id_brand": 1120,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Proto-Pasta",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 4121017611,
+    "img_src": "https://cdn.tigertag.io/img?id=4121017611&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "HTP32810-BLK",
+    "title": "HTPLA - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 192,
       "color_g": 192,
       "color_r": 192,
@@ -605035,7 +605695,7 @@
       "type": "mono"
     },
     "id": 4153382696,
-    "img_src": "https://cdn.tigertag.io/img?id=4153382696&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4153382696&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -608470,7 +609130,7 @@
       "type": "mono"
     },
     "id": 4177262792,
-    "img_src": "https://cdn.tigertag.io/img?id=4177262792&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4177262792&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -612295,15 +612955,15 @@
     },
     "barcode": null,
     "brand": "Smart3DPT",
-    "color": "#C2185BFF",
+    "color": "#C2185B",
     "color_info": {
       "colors": [
-        "#C2185BFF"
+        "#C2185B"
       ],
       "type": "mono"
     },
     "id": 4202500898,
-    "img_src": "https://cdn.tigertag.io/img?id=4202500898&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4202500898&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -614739,6 +615399,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 140,
+      "color_g": 124,
+      "color_r": 28,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57632,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ELEGOO",
+    "color": "#1C7C8C",
+    "color_info": {
+      "colors": [
+        "#1C7C8C"
+      ],
+      "type": "mono"
+    },
+    "id": 4219384677,
+    "img_src": "https://cdn.tigertag.io/img?id=4219384677&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "GWCZ-EL-PLA-113",
+    "title": "Galaxy - Peacock Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 1,
       "color_g": 217,
       "color_r": 189,
@@ -616991,26 +617692,26 @@
       "id_aspect1": 238,
       "id_aspect2": null,
       "id_brand": 57632,
-      "id_material": 38256,
+      "id_material": 55418,
       "id_type": 142,
       "id_unit": 21,
       "measure": 1000
     },
     "barcode": "50.203.0832",
     "brand": "ELEGOO",
-    "color": "#B32DFBFF",
+    "color": "#B32DFB",
     "color_info": {
       "colors": [
-        "#B32DFBFF"
+        "#B32DFB"
       ],
       "type": "mono"
     },
     "id": 4235263589,
-    "img_src": "https://cdn.tigertag.io/img?id=4235263589&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4235263589&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
-    "material": "PETG",
+    "material": "PETG-CF",
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "50.203.0832",
