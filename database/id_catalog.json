@@ -2052,6 +2052,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 176,
+      "color_g": 214,
+      "color_r": 230,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E6D6B0",
+    "color_info": {
+      "colors": [
+        "#E6D6B0"
+      ],
+      "type": "mono"
+    },
+    "id": 17606261,
+    "img_src": "https://cdn.tigertag.io/img?id=17606261&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-NOCBEI-1000",
+    "title": "PLA - Noctua Beige"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 158,
       "color_g": 86,
       "color_r": 61,
@@ -20754,6 +20795,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 214,
+      "color_g": 91,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#1E5BD6",
+    "color_info": {
+      "colors": [
+        "#1E5BD6"
+      ],
+      "type": "mono"
+    },
+    "id": 134665464,
+    "img_src": "https://cdn.tigertag.io/img?id=134665464&v=2",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ETW-BLUE",
+    "title": "PLA-Twinkling - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_b2": 42,
       "color_b3": 48,
@@ -30254,15 +30336,15 @@
     },
     "barcode": "8594173675063",
     "brand": "Prusament",
-    "color": "#FF00F7FF",
+    "color": "#FF00F7",
     "color_info": {
       "colors": [
-        "#FF00F7FF"
+        "#FF00F7"
       ],
       "type": "mono"
     },
     "id": 201479103,
-    "img_src": "https://cdn.tigertag.io/img?id=201479103&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=201479103&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -30270,7 +30352,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PRM-PLA-PNK-1000",
-    "title": "PLA - Blend Ms. Pink"
+    "title": "PLA Blend - Ms. Pink"
   },
   {
     "RFID_Data": {
@@ -32452,6 +32534,47 @@
     "product_type": "Filament",
     "sku": "PLA-Silk-Bronze",
     "title": "PLA-Silk - Silk Bronze"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 138,
+      "color_g": 138,
+      "color_r": 138,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 232,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#8A8A8A",
+    "color_info": {
+      "colors": [
+        "#8A8A8A"
+      ],
+      "type": "mono"
+    },
+    "id": 214953749,
+    "img_src": "https://cdn.tigertag.io/img?id=214953749&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-MARGRE-1000",
+    "title": "PLA - Marble Grey"
   },
   {
     "RFID_Data": {
@@ -35248,6 +35371,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 46,
+      "color_g": 16,
+      "color_r": 200,
+      "data1": 56,
+      "data2": 255,
+      "data3": 265,
+      "data4": 80,
+      "data5": 4,
+      "data6": 105,
+      "data7": 115,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#C8102E",
+    "color_info": {
+      "colors": [
+        "#C8102E"
+      ],
+      "type": "mono"
+    },
+    "id": 231748781,
+    "img_src": "https://cdn.tigertag.io/img?id=231748781&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-ASA-LIPRED-800",
+    "title": "ASA - Lipstick Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 89,
       "color_b2": 139,
       "color_b3": 120,
@@ -36117,6 +36281,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 138,
+      "color_g": 232,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 65,
+      "data7": 85,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 45962,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F5E88A",
+    "color_info": {
+      "colors": [
+        "#F5E88A"
+      ],
+      "type": "mono"
+    },
+    "id": 237294081,
+    "img_src": "https://cdn.tigertag.io/img?id=237294081&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PVB",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "PRM-PVB-LIGYEL-500",
+    "title": "PVB - Light Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 56,
       "color_g": 21,
       "color_r": 138,
@@ -36564,6 +36769,47 @@
     "product_type": "Filament",
     "sku": "DLZ-EU-TB-TPU95A-GY-1KG",
     "title": "TPU 95A - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 32,
+      "color_g": 130,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 265,
+      "data3": 285,
+      "data4": 80,
+      "data5": 6,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 30458,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 900
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F58220",
+    "color_info": {
+      "colors": [
+        "#F58220"
+      ],
+      "type": "mono"
+    },
+    "id": 240634027,
+    "img_src": "https://cdn.tigertag.io/img?id=240634027&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC",
+    "measure": "900 g",
+    "product_type": "Filament",
+    "sku": "PRM-PCB-PRUORA-900",
+    "title": "PC Blend - Prusa Orange"
   },
   {
     "RFID_Data": {
@@ -40119,6 +40365,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 242,
+      "color_g": 238,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E8EEF2",
+    "color_info": {
+      "colors": [
+        "#E8EEF2"
+      ],
+      "type": "mono"
+    },
+    "id": 259970950,
+    "img_src": "https://cdn.tigertag.io/img?id=259970950&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-CLE-1000",
+    "title": "PETG - Clear"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 106,
       "color_g": 149,
       "color_r": 200,
@@ -42374,6 +42661,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 135,
+      "color_g": 128,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 60,
+      "data5": 6,
+      "data6": 55,
+      "data7": 75,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#7B8087",
+    "color_info": {
+      "colors": [
+        "#7B8087"
+      ],
+      "type": "mono"
+    },
+    "id": 273468160,
+    "img_src": "https://cdn.tigertag.io/img?id=273468160&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "PRM-U95-URBGRE-500",
+    "title": "TPU 95A - Urban Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 255,
       "color_r": 166,
@@ -43895,6 +44223,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 191,
+      "color_g": 63,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1F3FBF",
+    "color_info": {
+      "colors": [
+        "#1F3FBF"
+      ],
+      "type": "mono"
+    },
+    "id": 287490091,
+    "img_src": "https://cdn.tigertag.io/img?id=287490091&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-ULTBLU-1000",
+    "title": "PETG - Ultramarine Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 37,
       "color_g": 54,
       "color_r": 87,
@@ -45039,6 +45408,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PETG-ORANGE-175-1KG",
     "title": "THE K5 PETG - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 265,
+      "data3": 285,
+      "data4": 80,
+      "data5": 6,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 30458,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 900
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 296591823,
+    "img_src": "https://cdn.tigertag.io/img?id=296591823&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC",
+    "measure": "900 g",
+    "product_type": "Filament",
+    "sku": "PRM-PCB-JETBLA-900",
+    "title": "PC Blend - Jet Black"
   },
   {
     "RFID_Data": {
@@ -46650,6 +47060,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 304924320,
+    "img_src": "https://cdn.tigertag.io/img?id=304924320&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-GALBLA-1000",
+    "title": "PETG - Galaxy Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 255,
@@ -47564,6 +48015,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 71,
+      "color_g": 158,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#2E9E47",
+    "color_info": {
+      "colors": [
+        "#2E9E47"
+      ],
+      "type": "mono"
+    },
+    "id": 310618913,
+    "img_src": "https://cdn.tigertag.io/img?id=310618913&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-GALGRE-1000",
+    "title": "PLA - Galaxy Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 51,
       "color_g": 255,
       "color_r": 255,
@@ -47769,6 +48261,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 76,
+      "color_g": 194,
+      "color_r": 76,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 65,
+      "data7": 85,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 45962,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#4CC24C",
+    "color_info": {
+      "colors": [
+        "#4CC24C"
+      ],
+      "type": "mono"
+    },
+    "id": 313100763,
+    "img_src": "https://cdn.tigertag.io/img?id=313100763&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PVB",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "PRM-PVB-BRIGRE-500",
+    "title": "PVB - Bright Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 5,
       "color_g": 67,
       "color_r": 102,
@@ -47847,6 +48380,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5ASA-ORANGE-285-3KG",
     "title": "THE K5 ASA - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 110,
+      "color_g": 0,
+      "color_r": 214,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#D6006E",
+    "color_info": {
+      "colors": [
+        "#D6006E"
+      ],
+      "type": "mono"
+    },
+    "id": 313687307,
+    "img_src": "https://cdn.tigertag.io/img?id=313687307&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLC-MAG-1000",
+    "title": "PLA CMYK - Magenta"
   },
   {
     "RFID_Data": {
@@ -52434,6 +53008,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 188,
+      "color_g": 184,
+      "color_r": 181,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#B5B8BC",
+    "color_info": {
+      "colors": [
+        "#B5B8BC"
+      ],
+      "type": "mono"
+    },
+    "id": 342240784,
+    "img_src": "https://cdn.tigertag.io/img?id=342240784&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLB-MYSIL-1000",
+    "title": "PLA Blend - My Silverness"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 176,
       "color_g": 216,
       "color_r": 232,
@@ -53418,6 +54033,47 @@
     "product_type": "Filament",
     "sku": "P087",
     "title": "PHA - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 347501753,
+    "img_src": "https://cdn.tigertag.io/img?id=347501753&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-GALBLA-1000",
+    "title": "PLA - Galaxy Black"
   },
   {
     "RFID_Data": {
@@ -80951,6 +81607,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 135,
+      "color_g": 128,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 265,
+      "data3": 285,
+      "data4": 80,
+      "data5": 6,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 30458,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 900
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#7B8087",
+    "color_info": {
+      "colors": [
+        "#7B8087"
+      ],
+      "type": "mono"
+    },
+    "id": 528327144,
+    "img_src": "https://cdn.tigertag.io/img?id=528327144&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC",
+    "measure": "900 g",
+    "product_type": "Filament",
+    "sku": "PRM-PCB-URBGRE-900",
+    "title": "PC Blend - Urban Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 55,
       "color_g": 175,
       "color_r": 212,
@@ -83501,6 +84198,47 @@
     "product_type": "Filament",
     "sku": "RFHPABS175WH1",
     "title": "Hyper ABS - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 32,
+      "color_g": 130,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F58220",
+    "color_info": {
+      "colors": [
+        "#F58220"
+      ],
+      "type": "mono"
+    },
+    "id": 542091189,
+    "img_src": "https://cdn.tigertag.io/img?id=542091189&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-PRUORA-1000",
+    "title": "PETG - Prusa Orange"
   },
   {
     "RFID_Data": {
@@ -86149,6 +86887,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 58,
+      "color_g": 74,
+      "color_r": 107,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#6B4A3A",
+    "color_info": {
+      "colors": [
+        "#6B4A3A"
+      ],
+      "type": "mono"
+    },
+    "id": 559005702,
+    "img_src": "https://cdn.tigertag.io/img?id=559005702&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PPL-MYSBRO-1000",
+    "title": "Premium PLA - Mystic Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -88572,6 +89351,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PETGR-CLEARWHITE-175-3KG",
     "title": "THE K5 PETG Rapid - Clear White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 160,
+      "color_g": 63,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#7B3FA0",
+    "color_info": {
+      "colors": [
+        "#7B3FA0"
+      ],
+      "type": "mono"
+    },
+    "id": 577400457,
+    "img_src": "https://cdn.tigertag.io/img?id=577400457&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-GALPUR-1000",
+    "title": "PLA - Galaxy Purple"
   },
   {
     "RFID_Data": {
@@ -101433,6 +102253,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 60,
+      "color_g": 209,
+      "color_r": 60,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#3CD13C",
+    "color_info": {
+      "colors": [
+        "#3CD13C"
+      ],
+      "type": "mono"
+    },
+    "id": 659572866,
+    "img_src": "https://cdn.tigertag.io/img?id=659572866&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-ELEGRE-1000",
+    "title": "PETG - Electric Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 180,
       "color_g": 105,
       "color_r": 255,
@@ -101921,6 +102782,47 @@
     "product_type": "Filament",
     "sku": "DLZ-JY-PLA+-GN-1.1kg-C",
     "title": "Standard PLA+ - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 255,
+      "data3": 265,
+      "data4": 80,
+      "data5": 4,
+      "data6": 105,
+      "data7": 115,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 663586613,
+    "img_src": "https://cdn.tigertag.io/img?id=663586613&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-ASA-JETBLA-800",
+    "title": "ASA - Jet Black"
   },
   {
     "RFID_Data": {
@@ -102417,6 +103319,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 224,
+      "color_g": 96,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#C060E0",
+    "color_info": {
+      "colors": [
+        "#C060E0"
+      ],
+      "type": "mono"
+    },
+    "id": 667456676,
+    "img_src": "https://cdn.tigertag.io/img?id=667456676&v=2",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ETW-RAINBOW",
+    "title": "PLA-Twinkling - Rainbow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 114,
       "color_g": 119,
       "color_r": 56,
@@ -102823,6 +103766,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "CR-Silk - Red Copper"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 255,
+      "data3": 265,
+      "data4": 80,
+      "data5": 4,
+      "data6": 105,
+      "data7": 115,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5"
+      ],
+      "type": "mono"
+    },
+    "id": 669718514,
+    "img_src": "https://cdn.tigertag.io/img?id=669718514&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-ASA-SIGWHI-800",
+    "title": "ASA - Signal White"
   },
   {
     "RFID_Data": {
@@ -107004,15 +107988,15 @@
     },
     "barcode": "8594173675032",
     "brand": "Prusament",
-    "color": "#15D3F9FF",
+    "color": "#15D3F9",
     "color_info": {
       "colors": [
-        "#15D3F9FF"
+        "#15D3F9"
       ],
       "type": "mono"
     },
     "id": 697095865,
-    "img_src": "https://cdn.tigertag.io/img?id=697095865&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=697095865&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -107234,6 +108218,47 @@
     "product_type": "Filament",
     "sku": "B0102233",
     "title": "PLA Silk Triple-Color - Dark green&Purple&Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 50,
+      "color_g": 125,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 265,
+      "data3": 285,
+      "data4": 80,
+      "data5": 6,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 30458,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 900
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#2E7D32",
+    "color_info": {
+      "colors": [
+        "#2E7D32"
+      ],
+      "type": "mono"
+    },
+    "id": 698449147,
+    "img_src": "https://cdn.tigertag.io/img?id=698449147&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC",
+    "measure": "900 g",
+    "product_type": "Filament",
+    "sku": "PRM-PCB-PRUPROGRE-900",
+    "title": "PC Blend - Prusa Pro Green"
   },
   {
     "RFID_Data": {
@@ -107693,6 +108718,47 @@
     "product_type": "Filament",
     "sku": "REFPLAPECHE",
     "title": "INGEO 4043D - Pêche"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 32,
+      "color_g": 130,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#F58220",
+    "color_info": {
+      "colors": [
+        "#F58220"
+      ],
+      "type": "mono"
+    },
+    "id": 700571084,
+    "img_src": "https://cdn.tigertag.io/img?id=700571084&v=2",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ETW-WARM-ORANGE",
+    "title": "PLA-Twinkling - Warm Orange"
   },
   {
     "RFID_Data": {
@@ -115073,6 +116139,47 @@
     "product_type": "Filament",
     "sku": "PHD00300175LILSUAWNK",
     "title": "PLA HD - PLA HD Pastel Soft Lilac"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 208,
+      "color_g": 226,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 265,
+      "data3": 285,
+      "data4": 80,
+      "data5": 8,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 29272,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E8E2D0",
+    "color_info": {
+      "colors": [
+        "#E8E2D0"
+      ],
+      "type": "mono"
+    },
+    "id": 748975031,
+    "img_src": "https://cdn.tigertag.io/img?id=748975031&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA11",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-PA11-NAT-800",
+    "title": "PA11 - Natural"
   },
   {
     "RFID_Data": {
@@ -129108,6 +130215,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 55,
+      "color_g": 175,
+      "color_r": 212,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#D4AF37",
+    "color_info": {
+      "colors": [
+        "#D4AF37"
+      ],
+      "type": "mono"
+    },
+    "id": 846711300,
+    "img_src": "https://cdn.tigertag.io/img?id=846711300&v=2",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ETW-GOLD",
+    "title": "PLA-Twinkling - Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 240,
       "color_g": 240,
       "color_r": 240,
@@ -133847,6 +134995,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 50,
+      "color_g": 125,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 255,
+      "data3": 265,
+      "data4": 80,
+      "data5": 4,
+      "data6": 105,
+      "data7": 115,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#2E7D32",
+    "color_info": {
+      "colors": [
+        "#2E7D32"
+      ],
+      "type": "mono"
+    },
+    "id": 885504150,
+    "img_src": "https://cdn.tigertag.io/img?id=885504150&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-ASA-PRUPROGRE-800",
+    "title": "ASA - Prusa Pro Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 171,
       "color_g": 71,
       "color_r": 0,
@@ -134216,6 +135405,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 43,
+      "color_g": 43,
+      "color_r": 43,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 65,
+      "data7": 85,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 45962,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#2B2B2B",
+    "color_info": {
+      "colors": [
+        "#2B2B2B"
+      ],
+      "type": "mono"
+    },
+    "id": 887661541,
+    "img_src": "https://cdn.tigertag.io/img?id=887661541&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PVB",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "PRM-PVB-SMOBLA-500",
+    "title": "PVB - Smoky Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 32,
       "color_g": 83,
       "color_r": 75,
@@ -134581,6 +135811,47 @@
     "product_type": "Filament",
     "sku": "ST3029",
     "title": "Rebound PEBA Air 70A-95A - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 79,
+      "color_g": 79,
+      "color_r": 79,
+      "data1": 56,
+      "data2": 245,
+      "data3": 265,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#4F4F4F",
+    "color_info": {
+      "colors": [
+        "#4F4F4F"
+      ],
+      "type": "mono"
+    },
+    "id": 891101773,
+    "img_src": "https://cdn.tigertag.io/img?id=891101773&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PTTU-TUNGRE-1000",
+    "title": "PETG Tungsten 75% - Tungsten Grey"
   },
   {
     "RFID_Data": {
@@ -135642,15 +136913,15 @@
     },
     "barcode": "8594173675537",
     "brand": "Prusament",
-    "color": "#18CC00FF",
+    "color": "#18CC00",
     "color_info": {
       "colors": [
-        "#18CC00FF"
+        "#18CC00"
       ],
       "type": "mono"
     },
     "id": 898787168,
-    "img_src": "https://cdn.tigertag.io/img?id=898787168&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=898787168&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -142329,6 +143600,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 154,
+      "color_g": 216,
+      "color_r": 181,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#B5D89A",
+    "color_info": {
+      "colors": [
+        "#B5D89A"
+      ],
+      "type": "mono"
+    },
+    "id": 945062685,
+    "img_src": "https://cdn.tigertag.io/img?id=945062685&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-PISGRE-1000",
+    "title": "PLA - Pistachio Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -147802,6 +149114,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 208,
+      "color_g": 226,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 265,
+      "data3": 285,
+      "data4": 80,
+      "data5": 6,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 30458,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 900
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E8E2D0",
+    "color_info": {
+      "colors": [
+        "#E8E2D0"
+      ],
+      "type": "mono"
+    },
+    "id": 984309299,
+    "img_src": "https://cdn.tigertag.io/img?id=984309299&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC",
+    "measure": "900 g",
+    "product_type": "Filament",
+    "sku": "PRM-PCB-NAT-900",
+    "title": "PC Blend - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 240,
       "color_g": 207,
       "color_r": 137,
@@ -151099,6 +152452,47 @@
     "product_type": "Filament",
     "sku": "376004456440",
     "title": "PEKK - A-CF"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 160,
+      "color_g": 107,
+      "color_r": 28,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1C6BA0",
+    "color_info": {
+      "colors": [
+        "#1C6BA0"
+      ],
+      "type": "mono"
+    },
+    "id": 1003848975,
+    "img_src": "https://cdn.tigertag.io/img?id=1003848975&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-OCEBLU-1000",
+    "title": "PETG - Ocean Blue"
   },
   {
     "RFID_Data": {
@@ -160587,6 +161981,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 154,
+      "color_g": 216,
+      "color_r": 181,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#B5D89A",
+    "color_info": {
+      "colors": [
+        "#B5D89A"
+      ],
+      "type": "mono"
+    },
+    "id": 1066797287,
+    "img_src": "https://cdn.tigertag.io/img?id=1066797287&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-PISGRE-1000",
+    "title": "PETG - Pistachio Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 166,
       "color_g": 116,
       "color_r": 40,
@@ -162473,6 +163908,47 @@
     "product_type": "Filament",
     "sku": "3D PLA-1KG1.75-MAT-PEGRN",
     "title": "PLA Matte - Peapod Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 192,
+      "color_g": 192,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#C0C0C0",
+    "color_info": {
+      "colors": [
+        "#C0C0C0"
+      ],
+      "type": "mono"
+    },
+    "id": 1080703174,
+    "img_src": "https://cdn.tigertag.io/img?id=1080703174&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLM-SILGLI-1000",
+    "title": "PLA ColorMix - Silver Glitter"
   },
   {
     "RFID_Data": {
@@ -177590,6 +179066,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 78,
+      "color_g": 143,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1E8F4E",
+    "color_info": {
+      "colors": [
+        "#1E8F4E"
+      ],
+      "type": "mono"
+    },
+    "id": 1177791720,
+    "img_src": "https://cdn.tigertag.io/img?id=1177791720&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-EMEGRE-1000",
+    "title": "PETG - Emerald Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -179996,15 +181513,15 @@
     },
     "barcode": "8594173675421",
     "brand": "Prusament",
-    "color": "#FFEE38FF",
+    "color": "#FFEE38",
     "color_info": {
       "colors": [
-        "#FFEE38FF"
+        "#FFEE38"
       ],
       "type": "mono"
     },
     "id": 1195304375,
-    "img_src": "https://cdn.tigertag.io/img?id=1195304375&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1195304375&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -181243,6 +182760,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLA-BONEWHITE-285-3KG",
     "title": "THE K5 PLA - Bone White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 242,
+      "color_g": 238,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#E8EEF2",
+    "color_info": {
+      "colors": [
+        "#E8EEF2"
+      ],
+      "type": "mono"
+    },
+    "id": 1205652252,
+    "img_src": "https://cdn.tigertag.io/img?id=1205652252&v=2",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ETW-CLEAR",
+    "title": "PLA-Twinkling - Clear"
   },
   {
     "RFID_Data": {
@@ -195971,15 +197529,15 @@
     },
     "barcode": "8594173675629",
     "brand": "Prusament",
-    "color": "#3AC200FF",
+    "color": "#3AC200",
     "color_info": {
       "colors": [
-        "#3AC200FF"
+        "#3AC200"
       ],
       "type": "mono"
     },
     "id": 1311497429,
-    "img_src": "https://cdn.tigertag.io/img?id=1311497429&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1311497429&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -203429,6 +204987,47 @@
     "product_type": "Filament",
     "sku": "HS-PLA-CLR-PURETR-175-085",
     "title": "HS PLA Clear - Fiberlogy HS PLA Clear Puretr (0.85kg)"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 50,
+      "color_g": 125,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#2E7D32",
+    "color_info": {
+      "colors": [
+        "#2E7D32"
+      ],
+      "type": "mono"
+    },
+    "id": 1364127733,
+    "img_src": "https://cdn.tigertag.io/img?id=1364127733&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-PRUPROGRE-1000",
+    "title": "PLA - Prusa Pro Green"
   },
   {
     "RFID_Data": {
@@ -221010,6 +222609,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 212,
+      "color_g": 198,
+      "color_r": 247,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F7C6D4",
+    "color_info": {
+      "colors": [
+        "#F7C6D4"
+      ],
+      "type": "mono"
+    },
+    "id": 1482327791,
+    "img_src": "https://cdn.tigertag.io/img?id=1482327791&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-SAKPIN-1000",
+    "title": "PLA - Sakura Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 242,
       "color_g": 242,
       "color_r": 242,
@@ -226549,15 +228189,15 @@
     },
     "barcode": null,
     "brand": "Prusament",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 1516225622,
-    "img_src": "https://cdn.tigertag.io/img?id=1516225622&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=1516225622&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -240668,6 +242308,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 138,
+      "color_g": 138,
+      "color_r": 138,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#8A8A8A",
+    "color_info": {
+      "colors": [
+        "#8A8A8A"
+      ],
+      "type": "mono"
+    },
+    "id": 1611501667,
+    "img_src": "https://cdn.tigertag.io/img?id=1611501667&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PTMG-GRE-1000",
+    "title": "PETG Magnetite 40% - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 116,
       "color_g": 139,
       "color_r": 165,
@@ -242185,6 +243866,47 @@
     "product_type": "Filament",
     "sku": "PMX-SDUAL-PURPLEGOLD",
     "title": "PLA Silk Dual Color - Silk Dual Color Purple/Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 23,
+      "color_g": 209,
+      "color_r": 247,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F7D117",
+    "color_info": {
+      "colors": [
+        "#F7D117"
+      ],
+      "type": "mono"
+    },
+    "id": 1622762589,
+    "img_src": "https://cdn.tigertag.io/img?id=1622762589&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-YELGOL-1000",
+    "title": "PETG - Yellow Gold"
   },
   {
     "RFID_Data": {
@@ -245497,15 +247219,15 @@
     },
     "barcode": null,
     "brand": "Prusament",
-    "color": "#0041A8FF",
+    "color": "#0041A8",
     "color_info": {
       "colors": [
-        "#0041A8FF"
+        "#0041A8"
       ],
       "type": "mono"
     },
     "id": 1647973726,
-    "img_src": "https://cdn.tigertag.io/img?id=1647973726&v=3",
+    "img_src": "https://cdn.tigertag.io/img?id=1647973726&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -246297,6 +248019,47 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU85A-FLUORESCENTRED-175-1KG",
     "title": "THE K8 TPU 85A - Fluorescent Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 232,
+      "color_g": 239,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 126,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F2EFE8",
+    "color_info": {
+      "colors": [
+        "#F2EFE8"
+      ],
+      "type": "mono"
+    },
+    "id": 1653211532,
+    "img_src": "https://cdn.tigertag.io/img?id=1653211532&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLB-PEAWHI-1000",
+    "title": "PLA Blend - Pearl White"
   },
   {
     "RFID_Data": {
@@ -247794,6 +249557,47 @@
     "product_type": "Filament",
     "sku": "F-PLAORJAUN1-8K",
     "title": "INGEO 4043D - Or Jaune"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 158,
+      "color_g": 78,
+      "color_r": 29,
+      "data1": 56,
+      "data2": 255,
+      "data3": 265,
+      "data4": 80,
+      "data5": 4,
+      "data6": 105,
+      "data7": 115,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1D4E9E",
+    "color_info": {
+      "colors": [
+        "#1D4E9E"
+      ],
+      "type": "mono"
+    },
+    "id": 1664969437,
+    "img_src": "https://cdn.tigertag.io/img?id=1664969437&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-ASA-SAPBLU-800",
+    "title": "ASA - Sapphire Blue"
   },
   {
     "RFID_Data": {
@@ -250795,6 +252599,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "Soleyin Ultra PLA - Rosehip"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 20,
+      "color_g": 255,
+      "color_r": 57,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#39FF14",
+    "color_info": {
+      "colors": [
+        "#39FF14"
+      ],
+      "type": "mono"
+    },
+    "id": 1683460788,
+    "img_src": "https://cdn.tigertag.io/img?id=1683460788&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-NEOGRE-1000",
+    "title": "PETG - Neon Green"
   },
   {
     "RFID_Data": {
@@ -255436,6 +257281,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 216,
+      "color_g": 180,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#00B4D8",
+    "color_info": {
+      "colors": [
+        "#00B4D8"
+      ],
+      "type": "mono"
+    },
+    "id": 1721229634,
+    "img_src": "https://cdn.tigertag.io/img?id=1721229634&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLC-CYA-1000",
+    "title": "PLA CMYK - Cyan"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -255473,6 +257359,47 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU80A-BLACK-285-1KG",
     "title": "THE K8 TPU 80A - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 64,
+      "color_g": 61,
+      "color_r": 58,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#3A3D40",
+    "color_info": {
+      "colors": [
+        "#3A3D40"
+      ],
+      "type": "mono"
+    },
+    "id": 1721531918,
+    "img_src": "https://cdn.tigertag.io/img?id=1721531918&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-ANTGRE-1000",
+    "title": "PETG - Anthracite Grey"
   },
   {
     "RFID_Data": {
@@ -264693,6 +266620,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 60,
+      "color_g": 107,
+      "color_r": 92,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#5C6B3C",
+    "color_info": {
+      "colors": [
+        "#5C6B3C"
+      ],
+      "type": "mono"
+    },
+    "id": 1786478766,
+    "img_src": "https://cdn.tigertag.io/img?id=1786478766&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-ARMGRE-1000",
+    "title": "PLA - Army Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 107,
       "color_g": 154,
       "color_r": 193,
@@ -266644,15 +268612,15 @@
     },
     "barcode": "8594173675100",
     "brand": "Prusament",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 1801765316,
-    "img_src": "https://cdn.tigertag.io/img?id=1801765316&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1801765316&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -270506,15 +272474,15 @@
     },
     "barcode": null,
     "brand": "Prusament",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 1832321449,
-    "img_src": "https://cdn.tigertag.io/img?id=1832321449&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1832321449&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -275304,6 +277272,47 @@
     "product_type": "Filament",
     "sku": "G02-Y0-1.75-1000-spl",
     "title": "PETG HF - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 208,
+      "color_g": 226,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 65,
+      "data7": 85,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 45962,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E8E2D0",
+    "color_info": {
+      "colors": [
+        "#E8E2D0"
+      ],
+      "type": "mono"
+    },
+    "id": 1862839766,
+    "img_src": "https://cdn.tigertag.io/img?id=1862839766&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PVB",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "PRM-PVB-NAT-500",
+    "title": "PVB - Natural"
   },
   {
     "RFID_Data": {
@@ -280253,6 +282262,47 @@
     "product_type": "Filament",
     "sku": "VFFMPP17511",
     "title": "Matte PLA - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 270,
+      "data3": 290,
+      "data4": 80,
+      "data5": 6,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 20588,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 1897122653,
+    "img_src": "https://cdn.tigertag.io/img?id=1897122653&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC-CF",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-PCBCF-BLA-800",
+    "title": "PC Blend Carbon Fiber - Black"
   },
   {
     "RFID_Data": {
@@ -293292,6 +295342,47 @@
       "color_g": 192,
       "color_r": 192,
       "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#C0C0C0",
+    "color_info": {
+      "colors": [
+        "#C0C0C0"
+      ],
+      "type": "mono"
+    },
+    "id": 1986515467,
+    "img_src": "https://cdn.tigertag.io/img?id=1986515467&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-GALSIL-1000",
+    "title": "PLA - Galaxy Silver"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 192,
+      "color_g": 192,
+      "color_r": 192,
+      "data1": 56,
       "data2": 190,
       "data3": 220,
       "data4": null,
@@ -302925,6 +305016,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 71,
+      "color_g": 158,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 75,
+      "data7": 95,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#2E9E47",
+    "color_info": {
+      "colors": [
+        "#2E9E47"
+      ],
+      "type": "mono"
+    },
+    "id": 2049408160,
+    "img_src": "https://cdn.tigertag.io/img?id=2049408160&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-PTUG-GRE-800",
+    "title": "PETG Ultraglow - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 28,
       "color_g": 28,
       "color_r": 28,
@@ -307865,6 +309997,47 @@
     "product_type": "Filament",
     "sku": "PM1020003",
     "title": "ABS - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 42,
+      "color_g": 75,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#7B4B2A",
+    "color_info": {
+      "colors": [
+        "#7B4B2A"
+      ],
+      "type": "mono"
+    },
+    "id": 2079188230,
+    "img_src": "https://cdn.tigertag.io/img?id=2079188230&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-NOCBRO-1000",
+    "title": "PLA - Noctua Brown"
   },
   {
     "RFID_Data": {
@@ -321465,15 +323638,15 @@
     },
     "barcode": "8594173675056",
     "brand": "Prusament",
-    "color": "#D9D9D9FF",
+    "color": "#D9D9D9",
     "color_info": {
       "colors": [
-        "#D9D9D9FF"
+        "#D9D9D9"
       ],
       "type": "mono"
     },
     "id": 2171512856,
-    "img_src": "https://cdn.tigertag.io/img?id=2171512856&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2171512856&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -322684,6 +324857,47 @@
     "product_type": "Filament",
     "sku": "PMX-PRO-GREEN",
     "title": "PLA+ PRO - PLA+ PRO Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 60,
+      "color_g": 209,
+      "color_r": 60,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#3CD13C",
+    "color_info": {
+      "colors": [
+        "#3CD13C"
+      ],
+      "type": "mono"
+    },
+    "id": 2178738859,
+    "img_src": "https://cdn.tigertag.io/img?id=2178738859&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-ELEGRE-1000",
+    "title": "PLA - Electric Green"
   },
   {
     "RFID_Data": {
@@ -326408,15 +328622,15 @@
     },
     "barcode": "8594173675360",
     "brand": "Prusament",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 2201329002,
-    "img_src": "https://cdn.tigertag.io/img?id=2201329002&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2201329002&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -341669,6 +343883,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 2300649975,
+    "img_src": "https://cdn.tigertag.io/img?id=2300649975&v=6",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ETW-BLACK",
+    "title": "PLA-Twinkling - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 204,
       "color_g": 204,
       "color_r": 204,
@@ -346708,6 +348963,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 208,
+      "color_g": 226,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 255,
+      "data3": 265,
+      "data4": 80,
+      "data5": 4,
+      "data6": 105,
+      "data7": 115,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E8E2D0",
+    "color_info": {
+      "colors": [
+        "#E8E2D0"
+      ],
+      "type": "mono"
+    },
+    "id": 2335460981,
+    "img_src": "https://cdn.tigertag.io/img?id=2335460981&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-ASA-NAT-800",
+    "title": "ASA - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 43,
       "color_g": 42,
       "color_r": 161,
@@ -350046,6 +352342,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAPRO-VANDYKEBROWN-285-5KG",
     "title": "THE K5 PLA PRO - Vandyke Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 60,
+      "data5": 4,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 50497,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 650
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 2364788984,
+    "img_src": "https://cdn.tigertag.io/img?id=2364788984&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PP-CF",
+    "measure": "650 g",
+    "product_type": "Filament",
+    "sku": "PRM-PPCF-BLA-650",
+    "title": "PP Carbon Fiber - Black"
   },
   {
     "RFID_Data": {
@@ -356410,6 +358747,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAP-DARKGRAYGREEN-175-5KG",
     "title": "The K5 PLA P - Dark Gray Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 42,
+      "color_g": 75,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#7B4B2A",
+    "color_info": {
+      "colors": [
+        "#7B4B2A"
+      ],
+      "type": "mono"
+    },
+    "id": 2412438511,
+    "img_src": "https://cdn.tigertag.io/img?id=2412438511&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PTM-NOCBRO-1000",
+    "title": "PETG Matte - Noctua Brown"
   },
   {
     "RFID_Data": {
@@ -369461,6 +371839,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 176,
+      "color_g": 214,
+      "color_r": 230,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E6D6B0",
+    "color_info": {
+      "colors": [
+        "#E6D6B0"
+      ],
+      "type": "mono"
+    },
+    "id": 2505679185,
+    "img_src": "https://cdn.tigertag.io/img?id=2505679185&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PTM-NOCBEI-1000",
+    "title": "PETG Matte - Noctua Beige"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 220,
       "color_g": 240,
       "color_r": 245,
@@ -369662,6 +372081,47 @@
     "product_type": "Filament",
     "sku": "SL-TPU90A-AZ-1KG",
     "title": "TPU 90A - Azure"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 220,
+      "color_g": 168,
+      "color_r": 111,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#6FA8DC",
+    "color_info": {
+      "colors": [
+        "#6FA8DC"
+      ],
+      "type": "mono"
+    },
+    "id": 2507908414,
+    "img_src": "https://cdn.tigertag.io/img?id=2507908414&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-CHABLU-1000",
+    "title": "PLA - Chalky Blue"
   },
   {
     "RFID_Data": {
@@ -370473,15 +372933,15 @@
     },
     "barcode": "8594173675117",
     "brand": "Prusament",
-    "color": "#DEDEDEFF",
+    "color": "#DEDEDE",
     "color_info": {
       "colors": [
-        "#DEDEDEFF"
+        "#DEDEDE"
       ],
       "type": "mono"
     },
     "id": 2512452475,
-    "img_src": "https://cdn.tigertag.io/img?id=2512452475&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2512452475&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -370904,6 +373364,47 @@
     "product_type": "Filament",
     "sku": "FS-PLAPRO-ORANGE",
     "title": "PLA PRO Basic - ecoPLA Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 32,
+      "color_g": 130,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 255,
+      "data3": 265,
+      "data4": 80,
+      "data5": 4,
+      "data6": 105,
+      "data7": 115,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F58220",
+    "color_info": {
+      "colors": [
+        "#F58220"
+      ],
+      "type": "mono"
+    },
+    "id": 2516425714,
+    "img_src": "https://cdn.tigertag.io/img?id=2516425714&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-ASA-PRUORA-800",
+    "title": "ASA - Prusa Orange"
   },
   {
     "RFID_Data": {
@@ -372938,6 +375439,47 @@
     "product_type": "Filament",
     "sku": "PE02004",
     "title": "ABS - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 110,
+      "color_g": 0,
+      "color_r": 214,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#D6006E",
+    "color_info": {
+      "colors": [
+        "#D6006E"
+      ],
+      "type": "mono"
+    },
+    "id": 2533270217,
+    "img_src": "https://cdn.tigertag.io/img?id=2533270217&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLM-MAG-1000",
+    "title": "PLA ColorMix - Magenta"
   },
   {
     "RFID_Data": {
@@ -380158,6 +382700,47 @@
     "product_type": "Filament",
     "sku": "3DTPUGIDRD",
     "title": "TPU Glow in the Dark - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 163,
+      "color_g": 79,
+      "color_r": 122,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#7A4FA3",
+    "color_info": {
+      "colors": [
+        "#7A4FA3"
+      ],
+      "type": "mono"
+    },
+    "id": 2575715632,
+    "img_src": "https://cdn.tigertag.io/img?id=2575715632&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-SHIVIO-1000",
+    "title": "PETG - Shimmering Violet"
   },
   {
     "RFID_Data": {
@@ -405853,6 +408436,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 2734688952,
+    "img_src": "https://cdn.tigertag.io/img?id=2734688952&v=3",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLM-BLA-1000",
+    "title": "PLA ColorMix - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 120,
       "color_g": 184,
       "color_r": 95,
@@ -417623,15 +420247,15 @@
     },
     "barcode": "8594173675193",
     "brand": "Prusament",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 2812162063,
-    "img_src": "https://cdn.tigertag.io/img?id=2812162063&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2812162063&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -419780,6 +422404,47 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F4625",
     "title": "TPU HardTech+ 83D - Transparent"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 50,
+      "color_g": 205,
+      "color_r": 154,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#9ACD32",
+    "color_info": {
+      "colors": [
+        "#9ACD32"
+      ],
+      "type": "mono"
+    },
+    "id": 2828307294,
+    "img_src": "https://cdn.tigertag.io/img?id=2828307294&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLB-LIMGRE-1000",
+    "title": "PLA Blend - Lime Green"
   },
   {
     "RFID_Data": {
@@ -440987,6 +443652,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 64,
+      "color_g": 61,
+      "color_r": 58,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#3A3D40",
+    "color_info": {
+      "colors": [
+        "#3A3D40"
+      ],
+      "type": "mono"
+    },
+    "id": 2970070977,
+    "img_src": "https://cdn.tigertag.io/img?id=2970070977&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-ANTGRE-1000",
+    "title": "PLA - Anthracite Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 160,
       "color_g": 63,
       "color_r": 123,
@@ -441913,10 +444619,10 @@
     },
     "barcode": "8594173676404",
     "brand": "Prusament",
-    "color": "#00A4EBFF",
+    "color": "#00A4EB",
     "color_info": {
       "colors": [
-        "#00A4EBFF"
+        "#00A4EB"
       ],
       "type": "mono"
     },
@@ -442200,15 +444906,15 @@
     },
     "barcode": "8594173675452",
     "brand": "Prusament",
-    "color": "#FFD500FF",
+    "color": "#FFD500",
     "color_info": {
       "colors": [
-        "#FFD500FF"
+        "#FFD500"
       ],
       "type": "mono"
     },
     "id": 2979390206,
-    "img_src": "https://cdn.tigertag.io/img?id=2979390206&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2979390206&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -442216,7 +444922,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PRM-PLA-OMG-1000",
-    "title": "PLA - Blend Oh My Gold"
+    "title": "PLA Blend - Oh My Gold"
   },
   {
     "RFID_Data": {
@@ -451321,6 +454027,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 107,
+      "color_g": 42,
+      "color_r": 27,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 65,
+      "data7": 85,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 45962,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1B2A6B",
+    "color_info": {
+      "colors": [
+        "#1B2A6B"
+      ],
+      "type": "mono"
+    },
+    "id": 3047028095,
+    "img_src": "https://cdn.tigertag.io/img?id=3047028095&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PVB",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "PRM-PVB-DARBLU-500",
+    "title": "PVB - Dark Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -454240,6 +456987,47 @@
     "product_type": "Filament",
     "sku": "VSA090017",
     "title": "Easy PLA - Easy Caramel"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 220,
+      "color_g": 168,
+      "color_r": 111,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#6FA8DC",
+    "color_info": {
+      "colors": [
+        "#6FA8DC"
+      ],
+      "type": "mono"
+    },
+    "id": 3063162920,
+    "img_src": "https://cdn.tigertag.io/img?id=3063162920&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-CHABLU-1000",
+    "title": "PETG - Chalky Blue"
   },
   {
     "RFID_Data": {
@@ -458242,6 +461030,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 265,
+      "data3": 285,
+      "data4": 80,
+      "data5": 6,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 30458,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 3086107354,
+    "img_src": "https://cdn.tigertag.io/img?id=3086107354&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC",
+    "measure": "850 g",
+    "product_type": "Filament",
+    "sku": "PRM-PCSG-BLA-850",
+    "title": "PC Space Grade - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 91,
       "color_g": 134,
       "color_r": 184,
@@ -459041,15 +461870,15 @@
     },
     "barcode": "8594173675766",
     "brand": "Prusament",
-    "color": "#0F0F0FFF",
+    "color": "#0F0F0F",
     "color_info": {
       "colors": [
-        "#0F0F0FFF"
+        "#0F0F0F"
       ],
       "type": "mono"
     },
     "id": 3091859383,
-    "img_src": "https://cdn.tigertag.io/img?id=3091859383&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3091859383&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -459057,7 +461886,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PRM-PETG-MBL-1000",
-    "title": "PETG - Matte Black"
+    "title": "PETG Matte - Black"
   },
   {
     "RFID_Data": {
@@ -461662,6 +464491,47 @@
     "product_type": "Filament",
     "sku": "PD02009",
     "title": "PolyFlex™ TPU90 - Clear"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 192,
+      "color_g": 166,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#F4A6C0",
+    "color_info": {
+      "colors": [
+        "#F4A6C0"
+      ],
+      "type": "mono"
+    },
+    "id": 3108733695,
+    "img_src": "https://cdn.tigertag.io/img?id=3108733695&v=2",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ETW-PINK",
+    "title": "PLA-Twinkling - Pink"
   },
   {
     "RFID_Data": {
@@ -465947,6 +468817,47 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU90A-PINK-175-5KG",
     "title": "THE K8 TPU 90A - Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 50,
+      "color_g": 125,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#2E7D32",
+    "color_info": {
+      "colors": [
+        "#2E7D32"
+      ],
+      "type": "mono"
+    },
+    "id": 3141025945,
+    "img_src": "https://cdn.tigertag.io/img?id=3141025945&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-PRUPROGRE-1000",
+    "title": "PETG - Prusa Pro Green"
   },
   {
     "RFID_Data": {
@@ -472376,6 +475287,47 @@
     "product_type": "Filament",
     "sku": "PLACF-1-IP",
     "title": "PLA-CF - Iris Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 208,
+      "color_g": 226,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 60,
+      "data5": 4,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 42962,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E8E2D0",
+    "color_info": {
+      "colors": [
+        "#E8E2D0"
+      ],
+      "type": "mono"
+    },
+    "id": 3185091581,
+    "img_src": "https://cdn.tigertag.io/img?id=3185091581&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PP-GF",
+    "measure": "850 g",
+    "product_type": "Filament",
+    "sku": "PRM-PPGF-NAT-850",
+    "title": "PP Glass Fiber - Natural"
   },
   {
     "RFID_Data": {
@@ -478824,15 +481776,15 @@
     },
     "barcode": "8594173676268",
     "brand": "Prusament",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 3231689890,
-    "img_src": "https://cdn.tigertag.io/img?id=3231689890&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3231689890&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -481481,6 +484433,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 121,
+      "color_g": 116,
+      "color_r": 110,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#6E7479",
+    "color_info": {
+      "colors": [
+        "#6E7479"
+      ],
+      "type": "mono"
+    },
+    "id": 3250944554,
+    "img_src": "https://cdn.tigertag.io/img?id=3250944554&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-GENGRE-1000",
+    "title": "PLA - Gentleman's Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 62,
       "color_g": 140,
       "color_r": 9,
@@ -482272,6 +485265,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 160,
+      "color_g": 63,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#7B3FA0",
+    "color_info": {
+      "colors": [
+        "#7B3FA0"
+      ],
+      "type": "mono"
+    },
+    "id": 3256715405,
+    "img_src": "https://cdn.tigertag.io/img?id=3256715405&v=2",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ETW-PURPLE",
+    "title": "PLA-Twinkling - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 210,
       "color_b2": 192,
       "color_g": 110,
@@ -482518,6 +485552,47 @@
     "product_type": "Filament",
     "sku": "B0104001",
     "title": "PLA Galaxy Sparkly Glitter - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 58,
+      "color_g": 122,
+      "color_r": 176,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#B07A3A",
+    "color_info": {
+      "colors": [
+        "#B07A3A"
+      ],
+      "type": "mono"
+    },
+    "id": 3257817221,
+    "img_src": "https://cdn.tigertag.io/img?id=3257817221&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLB-VIVLABRO-1000",
+    "title": "PLA Blend - Viva La Bronze"
   },
   {
     "RFID_Data": {
@@ -483227,6 +486302,47 @@
     "product_type": "Filament",
     "sku": "GWCZ-EL-3DF-PE0778",
     "title": "PETG Translucent - Amber"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 169,
+      "color_g": 200,
+      "color_r": 127,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 126,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#7FC8A9",
+    "color_info": {
+      "colors": [
+        "#7FC8A9"
+      ],
+      "type": "mono"
+    },
+    "id": 3263987085,
+    "img_src": "https://cdn.tigertag.io/img?id=3263987085&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-OPAGRE-1000",
+    "title": "PLA - Opal Green"
   },
   {
     "RFID_Data": {
@@ -484133,6 +487249,47 @@
     "product_type": "Filament",
     "sku": "KEX-K6BVOH-NATURAL-175-5KG",
     "title": "THE K6 BVOH - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 104,
+      "color_g": 99,
+      "color_r": 94,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#5E6368",
+    "color_info": {
+      "colors": [
+        "#5E6368"
+      ],
+      "type": "mono"
+    },
+    "id": 3269753810,
+    "img_src": "https://cdn.tigertag.io/img?id=3269753810&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-GRAGRE-1000",
+    "title": "PLA - Gravity Grey"
   },
   {
     "RFID_Data": {
@@ -489328,6 +492485,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "CR-Silk - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 35,
+      "color_g": 142,
+      "color_r": 107,
+      "data1": 56,
+      "data2": 255,
+      "data3": 265,
+      "data4": 80,
+      "data5": 4,
+      "data6": 105,
+      "data7": 115,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#6B8E23",
+    "color_info": {
+      "colors": [
+        "#6B8E23"
+      ],
+      "type": "mono"
+    },
+    "id": 3301705154,
+    "img_src": "https://cdn.tigertag.io/img?id=3301705154&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-ASA-OLIGRE-800",
+    "title": "ASA - Olive Green"
   },
   {
     "RFID_Data": {
@@ -504765,6 +507963,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 85,
+      "color_g": 107,
+      "color_r": 62,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#3E6B55",
+    "color_info": {
+      "colors": [
+        "#3E6B55"
+      ],
+      "type": "mono"
+    },
+    "id": 3408842462,
+    "img_src": "https://cdn.tigertag.io/img?id=3408842462&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PPL-MYSGRE-1000",
+    "title": "Premium PLA - Mystic Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 130,
       "color_g": 0,
       "color_r": 75,
@@ -505991,6 +509230,47 @@
     "product_type": "Filament",
     "sku": "3D PLA-1KG1.75-UVPUR",
     "title": "PLA Color-Changing - UV Color Changing Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 216,
+      "color_g": 180,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#00B4D8",
+    "color_info": {
+      "colors": [
+        "#00B4D8"
+      ],
+      "type": "mono"
+    },
+    "id": 3416082054,
+    "img_src": "https://cdn.tigertag.io/img?id=3416082054&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLM-CYA-1000",
+    "title": "PLA ColorMix - Cyan"
   },
   {
     "RFID_Data": {
@@ -511755,6 +515035,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 106,
+      "color_g": 139,
+      "color_r": 217,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#D98B6A",
+    "color_info": {
+      "colors": [
+        "#D98B6A"
+      ],
+      "type": "mono"
+    },
+    "id": 3455398910,
+    "img_src": "https://cdn.tigertag.io/img?id=3455398910&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-TERLIG-1000",
+    "title": "PETG - Terracotta Light"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 160,
       "color_g": 161,
       "color_r": 161,
@@ -512703,6 +516024,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PETG-PEAKGREEN-175-5KG",
     "title": "THE K5 PETG - Peak Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5"
+      ],
+      "type": "mono"
+    },
+    "id": 3461975215,
+    "img_src": "https://cdn.tigertag.io/img?id=3461975215&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-PRIWHI-1000",
+    "title": "PLA - Pristine White"
   },
   {
     "RFID_Data": {
@@ -513728,6 +517090,47 @@
     "product_type": "Filament",
     "sku": "PLD01000175AMAELEWNK",
     "title": "PLA HD - PLA HD Fluorescent Electric Yellow 1kg"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5"
+      ],
+      "type": "mono"
+    },
+    "id": 3467728541,
+    "img_src": "https://cdn.tigertag.io/img?id=3467728541&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLM-WHI-1000",
+    "title": "PLA ColorMix - White"
   },
   {
     "RFID_Data": {
@@ -516639,6 +520042,47 @@
     "product_type": "Filament",
     "sku": "PA20004",
     "title": "HT-PLA Pro - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 42,
+      "color_g": 22,
+      "color_r": 163,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#A3162A",
+    "color_info": {
+      "colors": [
+        "#A3162A"
+      ],
+      "type": "mono"
+    },
+    "id": 3487978395,
+    "img_src": "https://cdn.tigertag.io/img?id=3487978395&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-CARRED-1000",
+    "title": "PETG - Carmine Red"
   },
   {
     "RFID_Data": {
@@ -525782,6 +529226,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 23,
+      "color_g": 209,
+      "color_r": 247,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F7D117",
+    "color_info": {
+      "colors": [
+        "#F7D117"
+      ],
+      "type": "mono"
+    },
+    "id": 3545952814,
+    "img_src": "https://cdn.tigertag.io/img?id=3545952814&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLC-YEL-1000",
+    "title": "PLA CMYK - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 173,
       "color_g": 13,
       "color_r": 106,
@@ -527213,6 +530698,47 @@
     "product_type": "Filament",
     "sku": "PA07058",
     "title": "PolyLite™ Metallic PLA Pro - Metallic Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 55,
+      "color_g": 175,
+      "color_r": 212,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#D4AF37",
+    "color_info": {
+      "colors": [
+        "#D4AF37"
+      ],
+      "type": "mono"
+    },
+    "id": 3556453836,
+    "img_src": "https://cdn.tigertag.io/img?id=3556453836&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLM-GOLGLI-1000",
+    "title": "PLA ColorMix - Gold Glitter"
   },
   {
     "RFID_Data": {
@@ -529558,6 +533084,47 @@
     "product_type": "Filament",
     "sku": "152157",
     "title": "TPU - Inland TPU Translucent Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 32,
+      "color_g": 130,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 65,
+      "data7": 85,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 45962,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F58220",
+    "color_info": {
+      "colors": [
+        "#F58220"
+      ],
+      "type": "mono"
+    },
+    "id": 3571821484,
+    "img_src": "https://cdn.tigertag.io/img?id=3571821484&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PVB",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "PRM-PVB-PRUORA-500",
+    "title": "PVB - Prusa Orange"
   },
   {
     "RFID_Data": {
@@ -534719,6 +538286,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 208,
+      "color_g": 226,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E8E2D0",
+    "color_info": {
+      "colors": [
+        "#E8E2D0"
+      ],
+      "type": "mono"
+    },
+    "id": 3611847073,
+    "img_src": "https://cdn.tigertag.io/img?id=3611847073&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-NAT-1000",
+    "title": "PLA - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 100,
       "color_g": 197,
       "color_r": 241,
@@ -535703,6 +539311,47 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F5088",
     "title": "PET-G Standard HS - Army Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 255,
+      "data3": 265,
+      "data4": 80,
+      "data5": 4,
+      "data6": 105,
+      "data7": 115,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 3617379422,
+    "img_src": "https://cdn.tigertag.io/img?id=3617379422&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-ASA-GALBLA-800",
+    "title": "ASA - Galaxy Black"
   },
   {
     "RFID_Data": {
@@ -538052,6 +541701,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 23,
+      "color_g": 209,
+      "color_r": 247,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F7D117",
+    "color_info": {
+      "colors": [
+        "#F7D117"
+      ],
+      "type": "mono"
+    },
+    "id": 3632584240,
+    "img_src": "https://cdn.tigertag.io/img?id=3632584240&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLM-YEL-1000",
+    "title": "PLA ColorMix - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -539868,6 +543558,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5WOOD-BLACK-175-3KG",
     "title": "THE K5 WOOD - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 139,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#8B0000",
+    "color_info": {
+      "colors": [
+        "#8B0000"
+      ],
+      "type": "mono"
+    },
+    "id": 3643510457,
+    "img_src": "https://cdn.tigertag.io/img?id=3643510457&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-BLORED-1000",
+    "title": "PLA - Blood Red"
   },
   {
     "RFID_Data": {
@@ -543177,6 +546908,47 @@
     "product_type": "Filament",
     "sku": "EXT-DURAPROPA6CF-BLACK-08KG",
     "title": "DuraPro PA6 CF - black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 208,
+      "color_g": 226,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 350,
+      "data3": 380,
+      "data4": 120,
+      "data5": 6,
+      "data6": 150,
+      "data7": 170,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 56527,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E8E2D0",
+    "color_info": {
+      "colors": [
+        "#E8E2D0"
+      ],
+      "type": "mono"
+    },
+    "id": 3668825281,
+    "img_src": "https://cdn.tigertag.io/img?id=3668825281&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEI-1010",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "PRM-PEI-NAT-500",
+    "title": "PEI 1010 - Natural"
   },
   {
     "RFID_Data": {
@@ -546682,6 +550454,47 @@
     "product_type": "Filament",
     "sku": "SP005",
     "title": "Multicolor PLA Silk - Purple&Blue SP005"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 78,
+      "color_g": 143,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1E8F4E",
+    "color_info": {
+      "colors": [
+        "#1E8F4E"
+      ],
+      "type": "mono"
+    },
+    "id": 3700909459,
+    "img_src": "https://cdn.tigertag.io/img?id=3700909459&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-EMEGRE-1000",
+    "title": "PLA - Emerald Green"
   },
   {
     "RFID_Data": {
@@ -551068,15 +554881,15 @@
     },
     "barcode": "8594173675254",
     "brand": "Prusament",
-    "color": "#0062FFFF",
+    "color": "#0062FF",
     "color_info": {
       "colors": [
-        "#0062FFFF"
+        "#0062FF"
       ],
       "type": "mono"
     },
     "id": 3733974853,
-    "img_src": "https://cdn.tigertag.io/img?id=3733974853&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3733974853&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -551084,7 +554897,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "PRM-PLA-ROB-1000",
-    "title": "PLA - Blend Royal Blue"
+    "title": "PLA Blend - Royal Blue"
   },
   {
     "RFID_Data": {
@@ -552196,6 +556009,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 32,
+      "color_g": 130,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#F58220",
+    "color_info": {
+      "colors": [
+        "#F58220"
+      ],
+      "type": "mono"
+    },
+    "id": 3740252409,
+    "img_src": "https://cdn.tigertag.io/img?id=3740252409&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PETG-PRUORATRA-1000",
+    "title": "PETG - Prusa Orange Transparent"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 42,
       "color_b2": 160,
       "color_b3": 78,
@@ -552265,15 +556119,15 @@
     },
     "barcode": "8594173675285",
     "brand": "Prusament",
-    "color": "#FFEA00FF",
+    "color": "#FFEA00",
     "color_info": {
       "colors": [
-        "#FFEA00FF"
+        "#FFEA00"
       ],
       "type": "mono"
     },
     "id": 3740450282,
-    "img_src": "https://cdn.tigertag.io/img?id=3740450282&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3740450282&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -554692,15 +558546,15 @@
     },
     "barcode": "8594173675292",
     "brand": "Prusament",
-    "color": "#FF8800FF",
+    "color": "#FF8800",
     "color_info": {
       "colors": [
-        "#FF8800FF"
+        "#FF8800"
       ],
       "type": "mono"
     },
     "id": 3754394421,
-    "img_src": "https://cdn.tigertag.io/img?id=3754394421&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=3754394421&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -581567,6 +585421,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 260,
+      "data3": 280,
+      "data4": 65,
+      "data5": 6,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 3946836472,
+    "img_src": "https://cdn.tigertag.io/img?id=3946836472&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PTCF-BLA-1000",
+    "title": "PETG Carbon Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 28,
       "color_b2": 143,
       "color_b3": 209,
@@ -582977,6 +586872,47 @@
     "product_type": "Filament",
     "sku": "923342",
     "title": "TPU MFS - Inland TPU MFS Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 40,
+      "color_g": 30,
+      "color_r": 220,
+      "data1": 56,
+      "data2": 205,
+      "data3": 225,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#DC1E28",
+    "color_info": {
+      "colors": [
+        "#DC1E28"
+      ],
+      "type": "mono"
+    },
+    "id": 3955706213,
+    "img_src": "https://cdn.tigertag.io/img?id=3955706213&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PRM-PLA-GALRED-1000",
+    "title": "PLA - Galaxy Red"
   },
   {
     "RFID_Data": {
@@ -590140,15 +594076,15 @@
     },
     "barcode": "8594173675049",
     "brand": "Prusament",
-    "color": "#FFFFFFFF",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#FFFFFFFF"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
     "id": 4004497459,
-    "img_src": "https://cdn.tigertag.io/img?id=4004497459&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4004497459&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -591850,6 +595786,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "Hyper Rainbow - Spring Lake"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 108,
+      "color_g": 103,
+      "color_r": 104,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#68676C",
+    "color_info": {
+      "colors": [
+        "#68676C"
+      ],
+      "type": "mono"
+    },
+    "id": 4016749368,
+    "img_src": "https://cdn.tigertag.io/img?id=4016749368&v=2",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ETW-SILVER",
+    "title": "PLA-Twinkling - Silver"
   },
   {
     "RFID_Data": {
@@ -611914,6 +615891,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 189,
+      "color_g": 189,
+      "color_r": 189,
+      "data1": 56,
+      "data2": 265,
+      "data3": 285,
+      "data4": 80,
+      "data5": 6,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 30458,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 900
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#BDBDBD",
+    "color_info": {
+      "colors": [
+        "#BDBDBD"
+      ],
+      "type": "mono"
+    },
+    "id": 4148573065,
+    "img_src": "https://cdn.tigertag.io/img?id=4148573065&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC",
+    "measure": "900 g",
+    "product_type": "Filament",
+    "sku": "PRM-PCB-LIGGRE-900",
+    "title": "PC Blend - Light Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 150,
       "color_g": 146,
       "color_r": 141,
@@ -612221,10 +616239,10 @@
     },
     "barcode": null,
     "brand": "Prusament",
-    "color": "#F0933DFF",
+    "color": "#F0933D",
     "color_info": {
       "colors": [
-        "#F0933DFF"
+        "#F0933D"
       ],
       "type": "mono"
     },
@@ -617776,6 +621794,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 275,
+      "data3": 295,
+      "data4": 80,
+      "data5": 8,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 18451,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#1A1A1A",
+    "color_info": {
+      "colors": [
+        "#1A1A1A"
+      ],
+      "type": "mono"
+    },
+    "id": 4190406679,
+    "img_src": "https://cdn.tigertag.io/img?id=4190406679&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA11-CF",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "PRM-PA11CF-BLA-800",
+    "title": "PA11 Carbon Fiber - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 59,
       "color_g": 31,
       "color_r": 27,
@@ -619981,15 +624040,15 @@
     },
     "barcode": "8594173675025",
     "brand": "Prusament",
-    "color": "#FF0000FF",
+    "color": "#FF0000",
     "color_info": {
       "colors": [
-        "#FF0000FF"
+        "#FF0000"
       ],
       "type": "mono"
     },
     "id": 4203373709,
-    "img_src": "https://cdn.tigertag.io/img?id=4203373709&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4203373709&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -626587,15 +630646,15 @@
     },
     "barcode": "8594173675544",
     "brand": "Prusament",
-    "color": "#FA0000FF",
+    "color": "#FA0000",
     "color_info": {
       "colors": [
-        "#FA0000FF"
+        "#FA0000"
       ],
       "type": "mono"
     },
     "id": 4246699513,
-    "img_src": "https://cdn.tigertag.io/img?id=4246699513&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=4246699513&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
