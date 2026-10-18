@@ -8218,6 +8218,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 154,
+      "color_g": 188,
+      "color_r": 227,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 62,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#E3BC9A",
+    "color_info": {
+      "colors": [
+        "#E3BC9A"
+      ],
+      "type": "mono"
+    },
+    "id": 57232214,
+    "img_src": "https://cdn.tigertag.io/img?id=57232214&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "039ST-1-1000",
+    "title": "PETG Basic - Skin"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -9772,6 +9813,47 @@
     "product_type": "Filament",
     "sku": "FPR171-4010",
     "title": "PLA Original - PINK"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 65092862,
+    "img_src": "https://cdn.tigertag.io/img?id=65092862&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "008CW-1-1000",
+    "title": "PLA Matte Basic - Coconut White"
   },
   {
     "RFID_Data": {
@@ -18438,6 +18520,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 41,
+      "color_g": 70,
+      "color_r": 96,
+      "data1": 56,
+      "data2": 240,
+      "data3": 275,
+      "data4": 62,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#604629",
+    "color_info": {
+      "colors": [
+        "#604629"
+      ],
+      "type": "mono"
+    },
+    "id": 113779921,
+    "img_src": "https://cdn.tigertag.io/img?id=113779921&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "041COP-1-1000",
+    "title": "PETG Rapido - Copper"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_g": 46,
       "color_r": 74,
@@ -21561,8 +21684,8 @@
       "type": "mono"
     },
     "id": 134665464,
-    "img_src": "https://cdn.tigertag.io/img?id=134665464&v=2",
-    "info1": true,
+    "img_src": "https://cdn.tigertag.io/img?id=134665464&v=3",
+    "info1": false,
     "info2": false,
     "info3": false,
     "material": "PLA",
@@ -23465,6 +23588,47 @@
     "product_type": "Filament",
     "sku": "GWCZ-EL-PP-101",
     "title": "PLA+ - Sky Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 275,
+      "data4": 62,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 147608519,
+    "img_src": "https://cdn.tigertag.io/img?id=147608519&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "041WHT-1-1000",
+    "title": "PETG Rapido - White"
   },
   {
     "RFID_Data": {
@@ -25855,6 +26019,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 162959649,
+    "img_src": "https://cdn.tigertag.io/img?id=162959649&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007BK-1-1000",
+    "title": "PLA Basic - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 125,
       "color_g": 127,
       "color_r": 125,
@@ -26966,6 +27171,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABS-FLUORESCENTGREEN-285-1KG",
     "title": "THE K5 ABS - Fluorescent Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 300,
+      "data3": 320,
+      "data4": 90,
+      "data5": 5,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#212322",
+    "color_info": {
+      "colors": [
+        "#212322"
+      ],
+      "type": "mono"
+    },
+    "id": 169327723,
+    "img_src": "https://cdn.tigertag.io/img?id=169327723&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PAHT-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PAHT-CF001",
+    "title": "PAHT-CF - Black"
   },
   {
     "RFID_Data": {
@@ -43563,6 +43809,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 31011,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 271169408,
+    "img_src": "https://cdn.tigertag.io/img?id=271169408&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA-AERO",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASA-AREOHS",
+    "title": "ASA-Aero - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 245,
       "color_g": 245,
       "color_r": 245,
@@ -44830,6 +45117,47 @@
     "product_type": "Filament",
     "sku": "700-001-0426",
     "title": "PLA - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 189,
+      "color_g": 101,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 62,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#0065BD",
+    "color_info": {
+      "colors": [
+        "#0065BD"
+      ],
+      "type": "mono"
+    },
+    "id": 279091162,
+    "img_src": "https://cdn.tigertag.io/img?id=279091162&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "039KB-1-1000",
+    "title": "PETG Basic - Klein Blue"
   },
   {
     "RFID_Data": {
@@ -57699,6 +58027,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 127,
+      "color_g": 24,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 275,
+      "data4": 62,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#00187F",
+    "color_info": {
+      "colors": [
+        "#00187F"
+      ],
+      "type": "mono"
+    },
+    "id": 361227806,
+    "img_src": "https://cdn.tigertag.io/img?id=361227806&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "041BLU-1-1000",
+    "title": "PETG Rapido - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 34,
       "color_g": 90,
       "color_r": 241,
@@ -59462,6 +59831,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAMAGIC-MAGICBROWN-175-3KG",
     "title": "THE K5 PLA Magic - Magic Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 108,
+      "color_g": 145,
+      "color_r": 183,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 5,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 123,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48001,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#B7916C",
+    "color_info": {
+      "colors": [
+        "#B7916C"
+      ],
+      "type": "mono"
+    },
+    "id": 370772862,
+    "img_src": "https://cdn.tigertag.io/img?id=370772862&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Wood",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "WODPLAHM",
+    "title": "PLA Wood - Yellow"
   },
   {
     "RFID_Data": {
@@ -62746,6 +63156,47 @@
     "product_type": "Filament",
     "sku": "A00-B9-1.75-1000-spl",
     "title": "PLA Basic - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 394357417,
+    "img_src": "https://cdn.tigertag.io/img?id=394357417&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "043WHT-1-1000",
+    "title": "PETG-GF - White"
   },
   {
     "RFID_Data": {
@@ -70848,6 +71299,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 71,
+      "color_g": 62,
+      "color_r": 53,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#353E47",
+    "color_info": {
+      "colors": [
+        "#353E47"
+      ],
+      "type": "mono"
+    },
+    "id": 446136565,
+    "img_src": "https://cdn.tigertag.io/img?id=446136565&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLAMHBL",
+    "title": "PLA Matte Rapido - Navy Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 48,
       "color_b2": 0,
       "color_b3": 188,
@@ -74391,6 +74883,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 70,
+      "data5": 5,
+      "data6": 35,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 469660542,
+    "img_src": "https://cdn.tigertag.io/img?id=469660542&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TPUHS",
+    "title": "TPU95A-HF - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 232,
       "color_g": 210,
       "color_r": 125,
@@ -75707,6 +76240,47 @@
     "product_type": "Filament",
     "sku": "3760349160533",
     "title": "TPU 95A - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 477030467,
+    "img_src": "https://cdn.tigertag.io/img?id=477030467&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "008SB-1-1000",
+    "title": "PLA Matte Basic - Sesame Black"
   },
   {
     "RFID_Data": {
@@ -81463,6 +82037,88 @@
     "product_type": "Filament",
     "sku": "DLZ-EU-TB-TPU95A-OR-1KG",
     "title": "TPU 95A - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 109,
+      "color_g": 93,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#F45D6D",
+    "color_info": {
+      "colors": [
+        "#F45D6D"
+      ],
+      "type": "mono"
+    },
+    "id": 513784414,
+    "img_src": "https://cdn.tigertag.io/img?id=513784414&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "008WR-1-1000",
+    "title": "PLA Matte Basic - Watermelon Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 514092577,
+    "img_src": "https://cdn.tigertag.io/img?id=514092577&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TPU-AeroBS",
+    "title": "TPU-Aero - White"
   },
   {
     "RFID_Data": {
@@ -87728,6 +88384,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 77,
+      "color_g": 159,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#009F4D",
+    "color_info": {
+      "colors": [
+        "#009F4D"
+      ],
+      "type": "mono"
+    },
+    "id": 547794740,
+    "img_src": "https://cdn.tigertag.io/img?id=547794740&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA005",
+    "title": "PLA Rapido - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 40,
       "color_g": 32,
       "color_r": 94,
@@ -88306,6 +89003,47 @@
     "product_type": "Filament",
     "sku": "B0108052",
     "title": "PLA Luminous - Colorful Rainbow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 213,
+      "color_g": 224,
+      "color_r": 229,
+      "data1": 56,
+      "data2": 260,
+      "data3": 280,
+      "data4": 75,
+      "data5": 5,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 3368,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#E5E0D5",
+    "color_info": {
+      "colors": [
+        "#E5E0D5"
+      ],
+      "type": "mono"
+    },
+    "id": 550840571,
+    "img_src": "https://cdn.tigertag.io/img?id=550840571&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC-ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PC-ABSNAT",
+    "title": "PC-ABS-FR - Natural"
   },
   {
     "RFID_Data": {
@@ -91642,6 +92380,47 @@
   },
   {
     "RFID_Data": {
+      "color_a": 255,
+      "color_b": 9,
+      "color_g": 8,
+      "color_r": 7,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 72,
+      "data5": 5,
+      "data6": 35,
+      "data7": 75,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 58498,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 800
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#070809",
+    "color_info": {
+      "colors": [
+        "#070809"
+      ],
+      "type": "mono"
+    },
+    "id": 574189378,
+    "img_src": "https://cdn.tigertag.io/img?id=574189378&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEBA",
+    "measure": "800 g",
+    "product_type": "Filament",
+    "sku": "036BLK-1-800",
+    "title": "PEBA 95A - Black"
+  },
+  {
+    "RFID_Data": {
       "color_a": 128,
       "color_b": 232,
       "color_g": 227,
@@ -92016,6 +92795,47 @@
     "product_type": "Filament",
     "sku": "PLA175500G088",
     "title": "PLA - Vert Mai Alumine"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 17,
+      "color_g": 199,
+      "color_r": 248,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#F8C711",
+    "color_info": {
+      "colors": [
+        "#F8C711"
+      ],
+      "type": "mono"
+    },
+    "id": 577097241,
+    "img_src": "https://cdn.tigertag.io/img?id=577097241&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007YE-1-1000",
+    "title": "PLA Basic - Yellow"
   },
   {
     "RFID_Data": {
@@ -95231,6 +96051,47 @@
     "product_type": "Filament",
     "sku": "G3D-PLA-CUIVRECOPPER-175-1KG",
     "title": "PLA - Cuivre Copper"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 27,
+      "color_g": 198,
+      "color_r": 127,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#7FC61B",
+    "color_info": {
+      "colors": [
+        "#7FC61B"
+      ],
+      "type": "mono"
+    },
+    "id": 594980814,
+    "img_src": "https://cdn.tigertag.io/img?id=594980814&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASALV",
+    "title": "ASA - Green"
   },
   {
     "RFID_Data": {
@@ -99888,6 +100749,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 85,
+      "color_g": 209,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 62,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#F6D155",
+    "color_info": {
+      "colors": [
+        "#F6D155"
+      ],
+      "type": "mono"
+    },
+    "id": 624621159,
+    "img_src": "https://cdn.tigertag.io/img?id=624621159&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "039YE-1-1000",
+    "title": "PETG Basic - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 208,
       "color_g": 224,
       "color_r": 232,
@@ -100376,6 +101278,47 @@
     "product_type": "Filament",
     "sku": "PM70980",
     "title": "PolyTerra™ - Army Beige"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 194,
+      "color_g": 191,
+      "color_r": 190,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#BEBFC2",
+    "color_info": {
+      "colors": [
+        "#BEBFC2"
+      ],
+      "type": "mono"
+    },
+    "id": 627927631,
+    "img_src": "https://cdn.tigertag.io/img?id=627927631&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASAGR",
+    "title": "ASA - Gray"
   },
   {
     "RFID_Data": {
@@ -101794,6 +102737,47 @@
     "product_type": "Filament",
     "sku": "B7H1-M-B1-8K",
     "title": "PETG Peau - Peau 4R14SP"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 636156007,
+    "img_src": "https://cdn.tigertag.io/img?id=636156007&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA010",
+    "title": "PLA Rapido - White"
   },
   {
     "RFID_Data": {
@@ -106627,8 +107611,8 @@
       "type": "mono"
     },
     "id": 667456676,
-    "img_src": "https://cdn.tigertag.io/img?id=667456676&v=2",
-    "info1": true,
+    "img_src": "https://cdn.tigertag.io/img?id=667456676&v=3",
+    "info1": false,
     "info2": false,
     "info3": false,
     "material": "PLA",
@@ -108239,6 +109223,51 @@
     "product_type": "Filament",
     "sku": "8595632824107",
     "title": "ASA Extrafill - Anthracite Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 122,
+      "color_b2": 0,
+      "color_g": 47,
+      "color_g2": 0,
+      "color_r": 58,
+      "color_r2": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 9596,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Ziro",
+    "color": "#3A2F7A",
+    "color_info": {
+      "colors": [
+        "#3A2F7A",
+        "#000000"
+      ],
+      "type": "gradient"
+    },
+    "id": 676839868,
+    "img_src": "https://cdn.tigertag.io/img?id=676839868&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "Z00003D-TG-GALAXY",
+    "title": "PLA Gradient Twinkling - Galaxy"
   },
   {
     "RFID_Data": {
@@ -112194,8 +113223,8 @@
       "type": "mono"
     },
     "id": 700571084,
-    "img_src": "https://cdn.tigertag.io/img?id=700571084&v=2",
-    "info1": true,
+    "img_src": "https://cdn.tigertag.io/img?id=700571084&v=3",
+    "info1": false,
     "info2": false,
     "info3": false,
     "material": "PLA",
@@ -114634,6 +115663,47 @@
     "product_type": "Filament",
     "sku": "700-001-1360",
     "title": "PLA Matte - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 221,
+      "color_g": 221,
+      "color_r": 221,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#DDDDDD",
+    "color_info": {
+      "colors": [
+        "#DDDDDD"
+      ],
+      "type": "mono"
+    },
+    "id": 714047102,
+    "img_src": "https://cdn.tigertag.io/img?id=714047102&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "MTLPLAJSY",
+    "title": "PLA Rapido Metal - Silver"
   },
   {
     "RFID_Data": {
@@ -127742,6 +128812,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 179,
+      "color_g": 64,
+      "color_r": 49,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#3140B3",
+    "color_info": {
+      "colors": [
+        "#3140B3"
+      ],
+      "type": "mono"
+    },
+    "id": 801600532,
+    "img_src": "https://cdn.tigertag.io/img?id=801600532&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "OLABSBL",
+    "title": "Odorless-ABS Rapido - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_b2": 42,
       "color_b3": 48,
@@ -128780,6 +129891,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 209,
+      "color_g": 215,
+      "color_r": 216,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#D8D7D1",
+    "color_info": {
+      "colors": [
+        "#D8D7D1"
+      ],
+      "type": "mono"
+    },
+    "id": 808432919,
+    "img_src": "https://cdn.tigertag.io/img?id=808432919&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLASILKSL-1-1000",
+    "title": "PLA Silk - Silver"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 199,
       "color_g": 91,
       "color_r": 104,
@@ -128858,6 +130010,47 @@
     "product_type": "Filament",
     "sku": "34252",
     "title": "ASA - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 4,
+      "color_r": 142,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#8E0422",
+    "color_info": {
+      "colors": [
+        "#8E0422"
+      ],
+      "type": "mono"
+    },
+    "id": 809302601,
+    "img_src": "https://cdn.tigertag.io/img?id=809302601&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS008",
+    "title": "ABS Rapido - Red"
   },
   {
     "RFID_Data": {
@@ -132786,6 +133979,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 66,
+      "color_g": 67,
+      "color_r": 62,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": 65,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 27676,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#3E4342",
+    "color_info": {
+      "colors": [
+        "#3E4342"
+      ],
+      "type": "mono"
+    },
+    "id": 837447222,
+    "img_src": "https://cdn.tigertag.io/img?id=837447222&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASA-CF20-BLK",
+    "title": "ASA-CF20 Core - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 119,
       "color_g": 38,
       "color_r": 0,
@@ -134630,8 +135864,8 @@
       "type": "mono"
     },
     "id": 846711300,
-    "img_src": "https://cdn.tigertag.io/img?id=846711300&v=2",
-    "info1": true,
+    "img_src": "https://cdn.tigertag.io/img?id=846711300&v=3",
+    "info1": false,
     "info2": false,
     "info3": false,
     "material": "PLA",
@@ -140161,6 +141395,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_g": 199,
+      "color_r": 106,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#6AC72F",
+    "color_info": {
+      "colors": [
+        "#6AC72F"
+      ],
+      "type": "mono"
+    },
+    "id": 890185793,
+    "img_src": "https://cdn.tigertag.io/img?id=890185793&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "OLABSLV",
+    "title": "Odorless-ABS Rapido - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 27,
       "color_g": 69,
       "color_r": 131,
@@ -142305,6 +143580,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 127,
+      "color_g": 24,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#00187F",
+    "color_info": {
+      "colors": [
+        "#00187F"
+      ],
+      "type": "mono"
+    },
+    "id": 905799028,
+    "img_src": "https://cdn.tigertag.io/img?id=905799028&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PETG-BLUE",
+    "title": "PETG-Tough - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 195,
       "color_g": 188,
       "color_r": 97,
@@ -142916,6 +144232,47 @@
     "product_type": "Filament",
     "sku": "973263",
     "title": "TPU - Inland TPU Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 143,
+      "color_g": 107,
+      "color_r": 86,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#566B8F",
+    "color_info": {
+      "colors": [
+        "#566B8F"
+      ],
+      "type": "mono"
+    },
+    "id": 911380394,
+    "img_src": "https://cdn.tigertag.io/img?id=911380394&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA-CFMBL",
+    "title": "PLA-CF - Midnight Blue"
   },
   {
     "RFID_Data": {
@@ -150766,7 +152123,7 @@
       "type": "mono"
     },
     "id": 961580098,
-    "img_src": "https://cdn.tigertag.io/img?id=961580098&v=1&timestamp=1792267257905",
+    "img_src": "https://cdn.tigertag.io/img?id=961580098&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -151074,6 +152431,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 70,
+      "data5": 5,
+      "data6": 35,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 963935686,
+    "img_src": "https://cdn.tigertag.io/img?id=963935686&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TPUBS",
+    "title": "TPU95A-HF - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 41,
       "color_g": 80,
       "color_r": 107,
@@ -151193,6 +152591,47 @@
     "product_type": "Filament",
     "sku": "VXL-PLAHS-ICECLEAR-1KG",
     "title": "PLA+ HS (Pro) - Ice Clear"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 82,
+      "color_g": 105,
+      "color_r": 140,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#8C6952",
+    "color_info": {
+      "colors": [
+        "#8C6952"
+      ],
+      "type": "mono"
+    },
+    "id": 965213924,
+    "img_src": "https://cdn.tigertag.io/img?id=965213924&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "008LB-1-1000",
+    "title": "PLA Matte Basic - Latte Brown"
   },
   {
     "RFID_Data": {
@@ -167106,6 +168545,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 146,
+      "color_g": 105,
+      "color_r": 74,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#4A6992",
+    "color_info": {
+      "colors": [
+        "#4A6992"
+      ],
+      "type": "mono"
+    },
+    "id": 1065339554,
+    "img_src": "https://cdn.tigertag.io/img?id=1065339554&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "MTLPLAJSL",
+    "title": "PLA Rapido Metal - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 106,
       "color_g": 149,
       "color_r": 200,
@@ -171665,6 +173145,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1095084611,
+    "img_src": "https://cdn.tigertag.io/img?id=1095084611&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASABS",
+    "title": "ASA - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 106,
       "color_g": 107,
       "color_r": 103,
@@ -174039,6 +175560,47 @@
     "product_type": "Filament",
     "sku": "EPAX-FPLA175GLASSBLUE1",
     "title": "Fast PLA+ - Glass Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 310,
+      "data3": 350,
+      "data4": 120,
+      "data5": 10,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24270,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#212322",
+    "color_info": {
+      "colors": [
+        "#212322"
+      ],
+      "type": "mono"
+    },
+    "id": 1112451800,
+    "img_src": "https://cdn.tigertag.io/img?id=1112451800&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPS-CF",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "PPS-CFBLK",
+    "title": "PPS-CF - Black"
   },
   {
     "RFID_Data": {
@@ -176774,6 +178336,47 @@
     "product_type": "Filament",
     "sku": "W3DPLAMATTEMACAROONVIOLET1000",
     "title": "PLA Macaron - Violet"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1129410353,
+    "img_src": "https://cdn.tigertag.io/img?id=1129410353&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS001",
+    "title": "ABS Rapido - Black"
   },
   {
     "RFID_Data": {
@@ -184232,6 +185835,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 219,
+      "color_g": 233,
+      "color_r": 216,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#D8E9DB",
+    "color_info": {
+      "colors": [
+        "#D8E9DB"
+      ],
+      "type": "mono"
+    },
+    "id": 1175473153,
+    "img_src": "https://cdn.tigertag.io/img?id=1175473153&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "008MKG-1-1000",
+    "title": "PLA Matte Basic - Milky Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 137,
       "color_g": 195,
       "color_r": 0,
@@ -184761,6 +186405,47 @@
     "product_type": "Filament",
     "sku": "APOX-175GREY-00750",
     "title": "ApolloX - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1177734722,
+    "img_src": "https://cdn.tigertag.io/img?id=1177734722&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "042BLK--1-1000",
+    "title": "PETG-CF - Black"
   },
   {
     "RFID_Data": {
@@ -188532,8 +190217,8 @@
       "type": "mono"
     },
     "id": 1205652252,
-    "img_src": "https://cdn.tigertag.io/img?id=1205652252&v=2",
-    "info1": true,
+    "img_src": "https://cdn.tigertag.io/img?id=1205652252&v=3",
+    "info1": false,
     "info2": false,
     "info3": false,
     "material": "PLA",
@@ -199119,6 +200804,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 53,
+      "color_g": 51,
+      "color_r": 49,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#313335",
+    "color_info": {
+      "colors": [
+        "#313335"
+      ],
+      "type": "mono"
+    },
+    "id": 1285391784,
+    "img_src": "https://cdn.tigertag.io/img?id=1285391784&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLAMYGR",
+    "title": "PLA Matte Rapido - Ash Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 83,
       "color_g": 72,
       "color_r": 10,
@@ -203901,6 +205627,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5STREAMS-PURPLE-175-5KG",
     "title": "The K5 PLA Streams - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1311974528,
+    "img_src": "https://cdn.tigertag.io/img?id=1311974528&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "OLABSBS",
+    "title": "Odorless-ABS Rapido - White"
   },
   {
     "RFID_Data": {
@@ -209407,6 +211174,47 @@
     "product_type": "Filament",
     "sku": "DLZ-EU-TB-TPU95A-BL-1KG",
     "title": "TPU 95A - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1351677370,
+    "img_src": "https://cdn.tigertag.io/img?id=1351677370&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PETG-BLACK",
+    "title": "PETG-Tough - Black"
   },
   {
     "RFID_Data": {
@@ -218842,6 +220650,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 51,
+      "color_g": 51,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 60,
+      "data5": 5,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#333333",
+    "color_info": {
+      "colors": [
+        "#333333"
+      ],
+      "type": "mono"
+    },
+    "id": 1413284574,
+    "img_src": "https://cdn.tigertag.io/img?id=1413284574&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "045BK-1-1000",
+    "title": "PETG Translucent - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 232,
       "color_g": 236,
       "color_r": 236,
@@ -221072,6 +222921,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABS-GRAYBLUE-285-1KG",
     "title": "THE K5 ABS - Gray Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 260,
+      "data3": 320,
+      "data4": 110,
+      "data5": 6,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 22678,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#212322",
+    "color_info": {
+      "colors": [
+        "#212322"
+      ],
+      "type": "mono"
+    },
+    "id": 1427474928,
+    "img_src": "https://cdn.tigertag.io/img?id=1427474928&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PET-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PET-GFBLK",
+    "title": "PET-GF - Black"
   },
   {
     "RFID_Data": {
@@ -229242,6 +231132,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 193,
+      "color_g": 188,
+      "color_r": 185,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#B9BCC1",
+    "color_info": {
+      "colors": [
+        "#B9BCC1"
+      ],
+      "type": "mono"
+    },
+    "id": 1479064272,
+    "img_src": "https://cdn.tigertag.io/img?id=1479064272&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "OLABSYS",
+    "title": "Odorless-ABS Rapido - Silver"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 33,
       "color_g": 54,
       "color_r": 75,
@@ -231137,6 +233068,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "Soleyin Ultra PLA - Ocean Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 182,
+      "color_g": 182,
+      "color_r": 182,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#B6B6B6",
+    "color_info": {
+      "colors": [
+        "#B6B6B6"
+      ],
+      "type": "mono"
+    },
+    "id": 1492773255,
+    "img_src": "https://cdn.tigertag.io/img?id=1492773255&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "OLABSGR",
+    "title": "Odorless-ABS Rapido - Gray"
   },
   {
     "RFID_Data": {
@@ -234356,6 +236328,47 @@
     "product_type": "Filament",
     "sku": "CA14003",
     "title": "Panchroma™ CoPE - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 235,
+      "color_g": 240,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 62,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#F2F0EB",
+    "color_info": {
+      "colors": [
+        "#F2F0EB"
+      ],
+      "type": "mono"
+    },
+    "id": 1510842804,
+    "img_src": "https://cdn.tigertag.io/img?id=1510842804&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "039WH-1-1000",
+    "title": "PETG Basic - White"
   },
   {
     "RFID_Data": {
@@ -240231,6 +242244,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 15,
+      "color_g": 14,
+      "color_r": 14,
+      "data1": 56,
+      "data2": 240,
+      "data3": 275,
+      "data4": 62,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#0E0E0F",
+    "color_info": {
+      "colors": [
+        "#0E0E0F"
+      ],
+      "type": "mono"
+    },
+    "id": 1545452648,
+    "img_src": "https://cdn.tigertag.io/img?id=1545452648&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "041BLK-1-1000",
+    "title": "PETG Rapido - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 127,
       "color_r": 255,
@@ -242203,6 +244257,47 @@
     "product_type": "Filament",
     "sku": "EXT-DURAPROABS-RED-285-075KG",
     "title": "DuraPro ABS - red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 224,
+      "color_g": 242,
+      "color_r": 189,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#BDF2E0",
+    "color_info": {
+      "colors": [
+        "#BDF2E0"
+      ],
+      "type": "mono"
+    },
+    "id": 1559879779,
+    "img_src": "https://cdn.tigertag.io/img?id=1559879779&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILKPLALV",
+    "title": "PLA Silk - Mint Green"
   },
   {
     "RFID_Data": {
@@ -253423,6 +255518,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAPRO-BRIGHTWHITE-285-3KG",
     "title": "THE K5 PLA PRO - Bright White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 217,
+      "color_g": 182,
+      "color_r": 127,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 24,
+      "id_aspect2": null,
+      "id_brand": 9596,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Ziro",
+    "color": "#7FB6D9",
+    "color_info": {
+      "colors": [
+        "#7FB6D9"
+      ],
+      "type": "mono"
+    },
+    "id": 1636655777,
+    "img_src": "https://cdn.tigertag.io/img?id=1636655777&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "Z00003D-ST-POLAR SKY",
+    "title": "PLA Triple Co-extrusion Silky - Polar Sky"
   },
   {
     "RFID_Data": {
@@ -267863,6 +269999,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 198,
+      "color_g": 85,
+      "color_r": 15,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#0F55C6",
+    "color_info": {
+      "colors": [
+        "#0F55C6"
+      ],
+      "type": "mono"
+    },
+    "id": 1737445298,
+    "img_src": "https://cdn.tigertag.io/img?id=1737445298&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASABL",
+    "title": "ASA - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 199,
       "color_g": 205,
       "color_r": 204,
@@ -276583,6 +278760,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 34,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 300,
+      "data3": 340,
+      "data4": 90,
+      "data5": 5,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 8504,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#212322",
+    "color_info": {
+      "colors": [
+        "#212322"
+      ],
+      "type": "mono"
+    },
+    "id": 1798391773,
+    "img_src": "https://cdn.tigertag.io/img?id=1798391773&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "NEXPACF25",
+    "title": "UltraPA-CF25 - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 168,
       "color_g": 79,
       "color_r": 122,
@@ -277981,6 +280199,47 @@
     "product_type": "Filament",
     "sku": "G00-B01-1.75-1000-SPLFREE",
     "title": "PETG Basic - Navy Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 35,
+      "color_g": 18,
+      "color_r": 197,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#C51223",
+    "color_info": {
+      "colors": [
+        "#C51223"
+      ],
+      "type": "mono"
+    },
+    "id": 1808833306,
+    "img_src": "https://cdn.tigertag.io/img?id=1808833306&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASARD",
+    "title": "ASA - Red"
   },
   {
     "RFID_Data": {
@@ -291450,6 +293709,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 34,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#212322",
+    "color_info": {
+      "colors": [
+        "#212322"
+      ],
+      "type": "mono"
+    },
+    "id": 1899206141,
+    "img_src": "https://cdn.tigertag.io/img?id=1899206141&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLAMHS",
+    "title": "PLA Matte Rapido - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 184,
       "color_g": 86,
       "color_r": 36,
@@ -291692,6 +293992,47 @@
     "product_type": "Filament",
     "sku": "PETG-Metallic-MidnightGreen",
     "title": "PETG-Metallic - Metallic Midnight Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 102,
+      "color_g": 130,
+      "color_r": 172,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#AC8266",
+    "color_info": {
+      "colors": [
+        "#AC8266"
+      ],
+      "type": "mono"
+    },
+    "id": 1901167717,
+    "img_src": "https://cdn.tigertag.io/img?id=1901167717&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "043MCH-1-1000",
+    "title": "PETG-GF - Macchiato Brown"
   },
   {
     "RFID_Data": {
@@ -299597,6 +301938,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 124,
+      "color_g": 52,
+      "color_r": 127,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 49074,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#7F347C",
+    "color_info": {
+      "colors": [
+        "#7F347C"
+      ],
+      "type": "mono"
+    },
+    "id": 1955450468,
+    "img_src": "https://cdn.tigertag.io/img?id=1955450468&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS-GF25ZS",
+    "title": "ABS-GF25 - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 66,
       "color_g": 62,
       "color_r": 56,
@@ -303743,6 +306125,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 227,
+      "color_g": 233,
+      "color_r": 229,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 31011,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#E5E9E3",
+    "color_info": {
+      "colors": [
+        "#E5E9E3"
+      ],
+      "type": "mono"
+    },
+    "id": 1979505795,
+    "img_src": "https://cdn.tigertag.io/img?id=1979505795&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA-AERO",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASA-AREONAT",
+    "title": "ASA-Aero - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 184,
       "color_g": 154,
       "color_r": 232,
@@ -304805,6 +307228,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABSRAPID-YELLOW-175-3KG",
     "title": "THE K5 ABS Rapid - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 175,
+      "color_g": 175,
+      "color_r": 175,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#AFAFAF",
+    "color_info": {
+      "colors": [
+        "#AFAFAF"
+      ],
+      "type": "mono"
+    },
+    "id": 1987690925,
+    "img_src": "https://cdn.tigertag.io/img?id=1987690925&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA009",
+    "title": "PLA Rapido - Silver"
   },
   {
     "RFID_Data": {
@@ -307273,6 +309737,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 141,
+      "color_g": 139,
+      "color_r": 136,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#888B8D",
+    "color_info": {
+      "colors": [
+        "#888B8D"
+      ],
+      "type": "mono"
+    },
+    "id": 2002821524,
+    "img_src": "https://cdn.tigertag.io/img?id=2002821524&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007GY-1-1000",
+    "title": "PLA Basic - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 70,
       "color_b2": 157,
       "color_g": 57,
@@ -308106,6 +310611,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 227,
+      "color_r": 252,
+      "data1": 56,
+      "data2": 240,
+      "data3": 275,
+      "data4": 62,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FCE300",
+    "color_info": {
+      "colors": [
+        "#FCE300"
+      ],
+      "type": "mono"
+    },
+    "id": 2008231975,
+    "img_src": "https://cdn.tigertag.io/img?id=2008231975&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "041YLW--1-1000",
+    "title": "PETG Rapido - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 220,
       "color_g": 126,
       "color_r": 181,
@@ -308844,6 +311390,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 90,
+      "color_g": 120,
+      "color_r": 103,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#67785A",
+    "color_info": {
+      "colors": [
+        "#67785A"
+      ],
+      "type": "mono"
+    },
+    "id": 2013914686,
+    "img_src": "https://cdn.tigertag.io/img?id=2013914686&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA-CFGLV",
+    "title": "PLA-CF - Olive Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 188,
       "color_g": 210,
       "color_r": 82,
@@ -308881,6 +311468,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "PLA - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 153,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 60,
+      "data5": 5,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#3399FF",
+    "color_info": {
+      "colors": [
+        "#3399FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2014063368,
+    "img_src": "https://cdn.tigertag.io/img?id=2014063368&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "045BU-1-1000",
+    "title": "PETG Translucent - Blue"
   },
   {
     "RFID_Data": {
@@ -309332,6 +311960,47 @@
     "product_type": "Filament",
     "sku": "PA02057",
     "title": "PolyLite™ - Wine Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 148,
+      "color_g": 159,
+      "color_r": 168,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 9596,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Ziro",
+    "color": "#A89F94",
+    "color_info": {
+      "colors": [
+        "#A89F94"
+      ],
+      "type": "mono"
+    },
+    "id": 2016260202,
+    "img_src": "https://cdn.tigertag.io/img?id=2016260202&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "Z00003D-MORANDI",
+    "title": "PLA Fast Gradient Matte - Morandi"
   },
   {
     "RFID_Data": {
@@ -318152,6 +320821,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 118,
+      "color_g": 170,
+      "color_r": 198,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#C6AA76",
+    "color_info": {
+      "colors": [
+        "#C6AA76"
+      ],
+      "type": "mono"
+    },
+    "id": 2068001029,
+    "img_src": "https://cdn.tigertag.io/img?id=2068001029&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLAMNP",
+    "title": "PLA Matte Rapido - Kraft"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 61,
       "color_g": 139,
       "color_r": 46,
@@ -326636,6 +329346,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 9596,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 3000
+    },
+    "barcode": null,
+    "brand": "Ziro",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5"
+      ],
+      "type": "mono"
+    },
+    "id": 2123050039,
+    "img_src": "https://cdn.tigertag.io/img?id=2123050039&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "3000 g",
+    "product_type": "Filament",
+    "sku": "Z3D-HS-3KGWH",
+    "title": "HS-PLA - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 61,
       "color_g": 139,
       "color_r": 46,
@@ -327702,6 +330453,47 @@
     "product_type": "Filament",
     "sku": "PA17013",
     "title": "HT-PLA - Gradient Ice"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 240,
+      "color_g": 208,
+      "color_r": 143,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 9596,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Ziro",
+    "color": "#8FD0F0",
+    "color_info": {
+      "colors": [
+        "#8FD0F0"
+      ],
+      "type": "mono"
+    },
+    "id": 2129558595,
+    "img_src": "https://cdn.tigertag.io/img?id=2129558595&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "Z00003D-T-LIGHT BLUE",
+    "title": "PLA PRO Translucent - Light Blue"
   },
   {
     "RFID_Data": {
@@ -330252,6 +333044,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 224,
+      "color_g": 224,
+      "color_r": 224,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 60,
+      "data5": 5,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#E0E0E0",
+    "color_info": {
+      "colors": [
+        "#E0E0E0"
+      ],
+      "type": "mono"
+    },
+    "id": 2145105288,
+    "img_src": "https://cdn.tigertag.io/img?id=2145105288&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "045CR-1-1000",
+    "title": "PETG Translucent - Clear"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 53,
       "color_g": 57,
       "color_r": 229,
@@ -331232,6 +334065,47 @@
     "product_type": "Filament",
     "sku": "PD01008",
     "title": "PolyFlex™ TPU95 - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 280,
+      "data3": 300,
+      "data4": 90,
+      "data5": 5,
+      "data6": 40,
+      "data7": 70,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 39667,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#212322",
+    "color_info": {
+      "colors": [
+        "#212322"
+      ],
+      "type": "mono"
+    },
+    "id": 2153054969,
+    "img_src": "https://cdn.tigertag.io/img?id=2153054969&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA12-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PA12-CF001",
+    "title": "PA12-CF - Black"
   },
   {
     "RFID_Data": {
@@ -332675,6 +335549,47 @@
     "product_type": "Filament",
     "sku": "PLA-MT175Q-K1R1",
     "title": "PLA-Matte - LIGHT KHAKI"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 107,
+      "color_g": 92,
+      "color_r": 154,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#9A5C6B",
+    "color_info": {
+      "colors": [
+        "#9A5C6B"
+      ],
+      "type": "mono"
+    },
+    "id": 2162679740,
+    "img_src": "https://cdn.tigertag.io/img?id=2162679740&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA-CFRD",
+    "title": "PLA-CF - Dark Red"
   },
   {
     "RFID_Data": {
@@ -338647,6 +341562,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2199643078,
+    "img_src": "https://cdn.tigertag.io/img?id=2199643078&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS010",
+    "title": "ABS Rapido - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 76,
       "color_g": 169,
       "color_r": 34,
@@ -343173,6 +346129,47 @@
     "product_type": "Filament",
     "sku": "G3D-PC-TRANSPARENT-175-1KG",
     "title": "PC - Transparent"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 173,
+      "color_g": 170,
+      "color_r": 162,
+      "data1": 56,
+      "data2": 300,
+      "data3": 320,
+      "data4": 90,
+      "data5": 6,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 22652,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#A2AAAD",
+    "color_info": {
+      "colors": [
+        "#A2AAAD"
+      ],
+      "type": "mono"
+    },
+    "id": 2224819643,
+    "img_src": "https://cdn.tigertag.io/img?id=2224819643&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PAHT-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PAHT-GFGRAY",
+    "title": "PAHT-GF - Gray"
   },
   {
     "RFID_Data": {
@@ -354789,6 +357786,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_g": 49,
+      "color_r": 48,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 35,
+      "data7": 60,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 58142,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#30312F",
+    "color_info": {
+      "colors": [
+        "#30312F"
+      ],
+      "type": "mono"
+    },
+    "id": 2298914710,
+    "img_src": "https://cdn.tigertag.io/img?id=2298914710&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TPU-GF15-BLK",
+    "title": "TPU-GF - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -354940,8 +357978,8 @@
       "type": "mono"
     },
     "id": 2300649975,
-    "img_src": "https://cdn.tigertag.io/img?id=2300649975&v=6",
-    "info1": true,
+    "img_src": "https://cdn.tigertag.io/img?id=2300649975&v=7",
+    "info1": false,
     "info2": false,
     "info3": false,
     "material": "PLA",
@@ -358282,6 +361320,47 @@
     "product_type": "Filament",
     "sku": "B0DSB96FXW",
     "title": "Silk PLA - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 142,
+      "color_g": 53,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#00358E",
+    "color_info": {
+      "colors": [
+        "#00358E"
+      ],
+      "type": "mono"
+    },
+    "id": 2324530954,
+    "img_src": "https://cdn.tigertag.io/img?id=2324530954&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS002",
+    "title": "ABS Rapido - Blue"
   },
   {
     "RFID_Data": {
@@ -362182,6 +365261,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 2352367915,
+    "img_src": "https://cdn.tigertag.io/img?id=2352367915&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "043BLK-1-1000",
+    "title": "PETG-GF - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 200,
       "color_g": 200,
       "color_r": 200,
@@ -363953,6 +367073,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 9,
+      "color_g": 0,
+      "color_r": 175,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#AF0009",
+    "color_info": {
+      "colors": [
+        "#AF0009"
+      ],
+      "type": "mono"
+    },
+    "id": 2369270936,
+    "img_src": "https://cdn.tigertag.io/img?id=2369270936&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PETG-RED",
+    "title": "PETG-Tough - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 245,
       "color_g": 227,
       "color_r": 174,
@@ -364277,6 +367438,47 @@
     "product_type": "Filament",
     "sku": "3S-PP-PLLILAC-075-175",
     "title": "PP - Fiberlogy PP Pllilac (0.75kg)"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 49074,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 2370496057,
+    "img_src": "https://cdn.tigertag.io/img?id=2370496057&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-GF",
+    "measure": "500 g",
+    "product_type": "Filament",
+    "sku": "ABS-GF25-01",
+    "title": "ABS-GF25 - Black"
   },
   {
     "RFID_Data": {
@@ -367873,6 +371075,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 142,
+      "color_g": 53,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#00358E",
+    "color_info": {
+      "colors": [
+        "#00358E"
+      ],
+      "type": "mono"
+    },
+    "id": 2396813352,
+    "img_src": "https://cdn.tigertag.io/img?id=2396813352&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA002",
+    "title": "PLA Rapido - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 57,
       "color_g": 150,
       "color_r": 0,
@@ -370514,6 +373757,47 @@
     "product_type": "Filament",
     "sku": "S3D-PLA-CMC-SLV",
     "title": "PLA COSMIC - Cosmic Silver"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 109,
+      "color_g": 116,
+      "color_r": 64,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 5,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#40746D",
+    "color_info": {
+      "colors": [
+        "#40746D"
+      ],
+      "type": "mono"
+    },
+    "id": 2414309368,
+    "img_src": "https://cdn.tigertag.io/img?id=2414309368&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "MTLABSMLV",
+    "title": "ABS Rapido Metal - Midnight Green"
   },
   {
     "RFID_Data": {
@@ -380470,6 +383754,47 @@
     "product_type": "Filament",
     "sku": "B21H1-21M-21B1-23K",
     "title": "INGEO 4043D - Jaune Sécurité RAL 1003"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 227,
+      "color_r": 252,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FCE300",
+    "color_info": {
+      "colors": [
+        "#FCE300"
+      ],
+      "type": "mono"
+    },
+    "id": 2479068889,
+    "img_src": "https://cdn.tigertag.io/img?id=2479068889&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA011",
+    "title": "PLA Rapido - Yellow"
   },
   {
     "RFID_Data": {
@@ -394840,6 +398165,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 89,
+      "color_g": 110,
+      "color_r": 135,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#876E59",
+    "color_info": {
+      "colors": [
+        "#876E59"
+      ],
+      "type": "mono"
+    },
+    "id": 2575803533,
+    "img_src": "https://cdn.tigertag.io/img?id=2575803533&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLAMMY",
+    "title": "PLA Matte Rapido - Malt Clay"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 128,
       "color_g": 128,
       "color_r": 128,
@@ -397062,6 +400428,47 @@
     "product_type": "Filament",
     "sku": "55051",
     "title": "PETG - Clair"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 214,
+      "color_g": 211,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#F5D3D6",
+    "color_info": {
+      "colors": [
+        "#F5D3D6"
+      ],
+      "type": "mono"
+    },
+    "id": 2593567602,
+    "img_src": "https://cdn.tigertag.io/img?id=2593567602&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "008PP-1-1000",
+    "title": "PLA Matte Basic - Peach Pink"
   },
   {
     "RFID_Data": {
@@ -405232,6 +408639,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 158,
+      "color_g": 176,
+      "color_r": 190,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#BEB09E",
+    "color_info": {
+      "colors": [
+        "#BEB09E"
+      ],
+      "type": "mono"
+    },
+    "id": 2644604631,
+    "img_src": "https://cdn.tigertag.io/img?id=2644604631&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILKPLAQT",
+    "title": "PLA Silk - Bronze"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 186,
       "color_b2": 201,
       "color_b3": 255,
@@ -412131,6 +415579,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2680877916,
+    "img_src": "https://cdn.tigertag.io/img?id=2680877916&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLAMBS",
+    "title": "PLA Matte Rapido - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 53,
       "color_g": 142,
       "color_r": 250,
@@ -412619,6 +416108,47 @@
     "product_type": "Filament",
     "sku": "040021",
     "title": "LW-PET Flex Max - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 29,
+      "color_g": 16,
+      "color_r": 193,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#C1101D",
+    "color_info": {
+      "colors": [
+        "#C1101D"
+      ],
+      "type": "mono"
+    },
+    "id": 2682484948,
+    "img_src": "https://cdn.tigertag.io/img?id=2682484948&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA008",
+    "title": "PLA Rapido - Red"
   },
   {
     "RFID_Data": {
@@ -413725,7 +417255,7 @@
     },
     "barcode": null,
     "brand": "Ziro",
-    "color": "#D4AF37FF",
+    "color": "#F4B8A0",
     "color_info": {
       "colors": [
         "#F4B8A0"
@@ -413733,7 +417263,7 @@
       "type": "mono"
     },
     "id": 2689957137,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=2689957137&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -413741,7 +417271,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "Z00003D-PEACH BLUSH",
-    "title": "PLA Silky - Peach Blush"
+    "title": "PLA Gradient Silky - Peach Blush"
   },
   {
     "RFID_Data": {
@@ -413955,6 +417485,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 181,
+      "color_g": 163,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFA3B5",
+    "color_info": {
+      "colors": [
+        "#FFA3B5"
+      ],
+      "type": "mono"
+    },
+    "id": 2692732391,
+    "img_src": "https://cdn.tigertag.io/img?id=2692732391&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLASILKPK-1-1000",
+    "title": "PLA Silk - Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 35,
       "color_g": 33,
       "color_r": 31,
@@ -414033,6 +417604,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PETG-PEAKGREEN-285-5KG",
     "title": "THE K5 PETG - Peak Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 19,
+      "color_g": 106,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FF6A13",
+    "color_info": {
+      "colors": [
+        "#FF6A13"
+      ],
+      "type": "mono"
+    },
+    "id": 2693034677,
+    "img_src": "https://cdn.tigertag.io/img?id=2693034677&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA007",
+    "title": "PLA Rapido - Orange"
   },
   {
     "RFID_Data": {
@@ -414443,6 +418055,47 @@
     "product_type": "Filament",
     "sku": "5905991404569",
     "title": "PLA Magic SILK - Mystic Orchid"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 73,
+      "color_g": 98,
+      "color_r": 135,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#876249",
+    "color_info": {
+      "colors": [
+        "#876249"
+      ],
+      "type": "mono"
+    },
+    "id": 2695774691,
+    "img_src": "https://cdn.tigertag.io/img?id=2695774691&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "MTLPLACOFE",
+    "title": "PLA Rapido Metal - Coffee Gold"
   },
   {
     "RFID_Data": {
@@ -415267,6 +418920,47 @@
     "product_type": "Filament",
     "sku": "670208",
     "title": "PLA+ High Speed - Space Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 6,
+      "data6": 40,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 65535,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5"
+      ],
+      "type": "mono"
+    },
+    "id": 2699442594,
+    "img_src": "https://cdn.tigertag.io/img?id=2699442594&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "None",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SGREEN001",
+    "title": "S-White Support - White"
   },
   {
     "RFID_Data": {
@@ -427439,6 +431133,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 123,
+      "color_g": 120,
+      "color_r": 117,
+      "data1": 56,
+      "data2": 300,
+      "data3": 350,
+      "data4": 100,
+      "data5": 9,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 46154,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#75787B",
+    "color_info": {
+      "colors": [
+        "#75787B"
+      ],
+      "type": "mono"
+    },
+    "id": 2777148932,
+    "img_src": "https://cdn.tigertag.io/img?id=2777148932&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPS",
+    "measure": "750 g",
+    "product_type": "Filament",
+    "sku": "046GRY-1-750",
+    "title": "PPS-GF20 - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -430104,6 +433839,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 107,
+      "color_g": 127,
+      "color_r": 166,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 5,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 123,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48001,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#A67F6B",
+    "color_info": {
+      "colors": [
+        "#A67F6B"
+      ],
+      "type": "mono"
+    },
+    "id": 2792745447,
+    "img_src": "https://cdn.tigertag.io/img?id=2792745447&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Wood",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "WODPLACDBRN",
+    "title": "PLA Wood - Cedar Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 106,
       "color_g": 149,
       "color_r": 200,
@@ -430182,6 +433958,47 @@
     "product_type": "Filament",
     "sku": "PETG-Basic175T-QU1R1",
     "title": "PETG-Basic - TRANSLUCENT\nLIGHT BLUE"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 2793022732,
+    "img_src": "https://cdn.tigertag.io/img?id=2793022732&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASAHS",
+    "title": "ASA - Black"
   },
   {
     "RFID_Data": {
@@ -436442,6 +440259,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 239,
+      "color_g": 174,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 62,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#00AEEF",
+    "color_info": {
+      "colors": [
+        "#00AEEF"
+      ],
+      "type": "mono"
+    },
+    "id": 2833646458,
+    "img_src": "https://cdn.tigertag.io/img?id=2833646458&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "039C-1-1000",
+    "title": "PETG Basic - Cyan"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 232,
       "color_g": 232,
       "color_r": 232,
@@ -438750,6 +442608,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 34,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 270,
+      "data3": 300,
+      "data4": 100,
+      "data5": 10,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 11053,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#212322",
+    "color_info": {
+      "colors": [
+        "#212322"
+      ],
+      "type": "mono"
+    },
+    "id": 2850659167,
+    "img_src": "https://cdn.tigertag.io/img?id=2850659167&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PET-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PET-CF",
+    "title": "PET-CF - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 59,
       "color_g": 153,
       "color_r": 97,
@@ -439328,6 +443227,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 173,
+      "color_g": 173,
+      "color_r": 173,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 5,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#ADADAD",
+    "color_info": {
+      "colors": [
+        "#ADADAD"
+      ],
+      "type": "mono"
+    },
+    "id": 2856371100,
+    "img_src": "https://cdn.tigertag.io/img?id=2856371100&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "MTLABSYS",
+    "title": "ABS Rapido Metal - Silver"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 33,
       "color_g": 255,
       "color_r": 237,
@@ -439902,6 +443842,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 75,
+      "color_g": 210,
+      "color_r": 154,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#9AD24B",
+    "color_info": {
+      "colors": [
+        "#9AD24B"
+      ],
+      "type": "mono"
+    },
+    "id": 2859645656,
+    "img_src": "https://cdn.tigertag.io/img?id=2859645656&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "008MG-1-1000",
+    "title": "PLA Matte Basic - Malt Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 32,
       "color_g": 50,
       "color_r": 1,
@@ -440144,6 +444125,47 @@
     "product_type": "Filament",
     "sku": "SL-Y-PLAYG-CA-1KG-A",
     "title": "PLA Matte - Clay"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 77,
+      "color_g": 77,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 60,
+      "data5": 5,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FF4D4D",
+    "color_info": {
+      "colors": [
+        "#FF4D4D"
+      ],
+      "type": "mono"
+    },
+    "id": 2861151183,
+    "img_src": "https://cdn.tigertag.io/img?id=2861151183&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "045RD-1-1000",
+    "title": "PETG Translucent - Red"
   },
   {
     "RFID_Data": {
@@ -444660,6 +448682,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 165,
+      "color_g": 173,
+      "color_r": 183,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#B7ADA5",
+    "color_info": {
+      "colors": [
+        "#B7ADA5"
+      ],
+      "type": "mono"
+    },
+    "id": 2887700661,
+    "img_src": "https://cdn.tigertag.io/img?id=2887700661&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLAMNGR",
+    "title": "PLA Matte Rapido - Warm Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 71,
       "color_g": 158,
       "color_r": 46,
@@ -445435,6 +449498,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABSRAPID-ORANGE-175-1KG",
     "title": "THE K5 ABS Rapid - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 58,
+      "color_g": 78,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 62,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#1F4E3A",
+    "color_info": {
+      "colors": [
+        "#1F4E3A"
+      ],
+      "type": "mono"
+    },
+    "id": 2894262790,
+    "img_src": "https://cdn.tigertag.io/img?id=2894262790&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "039GN-1-1000",
+    "title": "PETG Basic - Green"
   },
   {
     "RFID_Data": {
@@ -448199,6 +452303,47 @@
     "product_type": "Filament",
     "sku": "PHD01000175MAREBAWNK",
     "title": "PLA HD - PLA HD Ebony Brown 1kg"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 188,
+      "color_g": 116,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#0074BC",
+    "color_info": {
+      "colors": [
+        "#0074BC"
+      ],
+      "type": "mono"
+    },
+    "id": 2912066606,
+    "img_src": "https://cdn.tigertag.io/img?id=2912066606&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007BU-1-1000",
+    "title": "PLA Basic - Blue"
   },
   {
     "RFID_Data": {
@@ -455083,6 +459228,47 @@
     "product_type": "Filament",
     "sku": "HTPC1710-HFE",
     "title": "Metal Composite HTPLA - Iron"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2954765295,
+    "img_src": "https://cdn.tigertag.io/img?id=2954765295&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PETG-WHITE",
+    "title": "PETG-Tough - White"
   },
   {
     "RFID_Data": {
@@ -471136,6 +475322,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 62,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 3061652535,
+    "img_src": "https://cdn.tigertag.io/img?id=3061652535&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "039BK-1-1000",
+    "title": "PETG Basic - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 106,
       "color_g": 149,
       "color_r": 200,
@@ -472161,6 +476388,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "PLA - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 3068730144,
+    "img_src": "https://cdn.tigertag.io/img?id=3068730144&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "OLABSHS",
+    "title": "Odorless-ABS Rapido - Black"
   },
   {
     "RFID_Data": {
@@ -475417,6 +479685,47 @@
     "product_type": "Filament",
     "sku": "Z00003D-PURPLE VEIL",
     "title": "PLA Fast Gradient Matte - Purple Veil"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 227,
+      "color_r": 252,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FCE300",
+    "color_info": {
+      "colors": [
+        "#FCE300"
+      ],
+      "type": "mono"
+    },
+    "id": 3087100291,
+    "img_src": "https://cdn.tigertag.io/img?id=3087100291&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PETG-YELLOW",
+    "title": "PETG-Tough - Yellow"
   },
   {
     "RFID_Data": {
@@ -478845,6 +483154,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 106,
+      "color_g": 117,
+      "color_r": 70,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#46756A",
+    "color_info": {
+      "colors": [
+        "#46756A"
+      ],
+      "type": "mono"
+    },
+    "id": 3108597860,
+    "img_src": "https://cdn.tigertag.io/img?id=3108597860&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "MTLPLAMLV",
+    "title": "PLA Rapido Metal - Midnight Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 192,
       "color_g": 166,
       "color_r": 244,
@@ -478873,8 +483223,8 @@
       "type": "mono"
     },
     "id": 3108733695,
-    "img_src": "https://cdn.tigertag.io/img?id=3108733695&v=2",
-    "info1": true,
+    "img_src": "https://cdn.tigertag.io/img?id=3108733695&v=3",
+    "info1": false,
     "info2": false,
     "info3": false,
     "material": "PLA",
@@ -480403,6 +484753,47 @@
     "product_type": "Filament",
     "sku": "P058",
     "title": "PLA - Bubblegum"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 213,
+      "color_g": 224,
+      "color_r": 229,
+      "data1": 56,
+      "data2": 260,
+      "data3": 280,
+      "data4": 90,
+      "data5": 5,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 13850,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#E5E0D5",
+    "color_info": {
+      "colors": [
+        "#E5E0D5"
+      ],
+      "type": "mono"
+    },
+    "id": 3118046126,
+    "img_src": "https://cdn.tigertag.io/img?id=3118046126&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "NYLON001",
+    "title": "UltraPA Nylon - Natural"
   },
   {
     "RFID_Data": {
@@ -485352,6 +489743,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 12,
+      "color_g": 16,
+      "color_r": 211,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#D3100C",
+    "color_info": {
+      "colors": [
+        "#D3100C"
+      ],
+      "type": "mono"
+    },
+    "id": 3154852610,
+    "img_src": "https://cdn.tigertag.io/img?id=3154852610&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007RD-1-1000",
+    "title": "PLA Basic - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 4,
       "color_g": 93,
       "color_r": 232,
@@ -486874,6 +491306,47 @@
     "product_type": "Filament",
     "sku": "34179",
     "title": "TPU 95A HF - Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 212,
+      "color_g": 211,
+      "color_r": 209,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 62,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#D1D3D4",
+    "color_info": {
+      "colors": [
+        "#D1D3D4"
+      ],
+      "type": "mono"
+    },
+    "id": 3166061442,
+    "img_src": "https://cdn.tigertag.io/img?id=3166061442&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "039LG-1-1000",
+    "title": "PETG Basic - Light Gray"
   },
   {
     "RFID_Data": {
@@ -494487,6 +498960,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 67,
+      "color_g": 91,
+      "color_r": 85,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#555B43",
+    "color_info": {
+      "colors": [
+        "#555B43"
+      ],
+      "type": "mono"
+    },
+    "id": 3217270918,
+    "img_src": "https://cdn.tigertag.io/img?id=3217270918&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLAMGLV",
+    "title": "PLA Matte Rapido - Olive Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 207,
       "color_g": 230,
       "color_r": 168,
@@ -500627,8 +505141,8 @@
       "type": "mono"
     },
     "id": 3256715405,
-    "img_src": "https://cdn.tigertag.io/img?id=3256715405&v=2",
-    "info1": true,
+    "img_src": "https://cdn.tigertag.io/img?id=3256715405&v=3",
+    "info1": false,
     "info2": false,
     "info3": false,
     "material": "PLA",
@@ -503362,6 +507876,47 @@
     "product_type": "Filament",
     "sku": "KEX-K3PLA-LAVENDERPURPLE-175-5KG",
     "title": "THE K3 PLA - Lavender purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 102,
+      "color_g": 0,
+      "color_r": 102,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#660066",
+    "color_info": {
+      "colors": [
+        "#660066"
+      ],
+      "type": "mono"
+    },
+    "id": 3273749716,
+    "img_src": "https://cdn.tigertag.io/img?id=3273749716&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA-CFSZS",
+    "title": "PLA-CF - Lavender Purple"
   },
   {
     "RFID_Data": {
@@ -508725,6 +513280,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 39,
+      "color_g": 100,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FF6427",
+    "color_info": {
+      "colors": [
+        "#FF6427"
+      ],
+      "type": "mono"
+    },
+    "id": 3304150718,
+    "img_src": "https://cdn.tigertag.io/img?id=3304150718&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PETG-ORANGE",
+    "title": "PETG-Tough - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 139,
       "color_g": 133,
       "color_r": 120,
@@ -511292,6 +515888,47 @@
     "product_type": "Filament",
     "sku": "SL-Y-PLA-MN-1KG-A",
     "title": "PLA - Midnight"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 40,
+      "color_g": 40,
+      "color_r": 233,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#E92828",
+    "color_info": {
+      "colors": [
+        "#E92828"
+      ],
+      "type": "mono"
+    },
+    "id": 3320390510,
+    "img_src": "https://cdn.tigertag.io/img?id=3320390510&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "OLABSRD",
+    "title": "Odorless-ABS Rapido - Red"
   },
   {
     "RFID_Data": {
@@ -514999,6 +519636,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 165,
+      "color_g": 198,
+      "color_r": 201,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 5,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#C9C6A5",
+    "color_info": {
+      "colors": [
+        "#C9C6A5"
+      ],
+      "type": "mono"
+    },
+    "id": 3348812529,
+    "img_src": "https://cdn.tigertag.io/img?id=3348812529&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "MTLABSXBJ",
+    "title": "ABS Rapido Metal - Champagne Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 239,
       "color_g": 242,
       "color_r": 242,
@@ -516065,6 +520743,47 @@
     "product_type": "Filament",
     "sku": "VFESGR17511",
     "title": "PETG - Space Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 160,
+      "color_g": 160,
+      "color_r": 160,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#A0A0A0",
+    "color_info": {
+      "colors": [
+        "#A0A0A0"
+      ],
+      "type": "mono"
+    },
+    "id": 3356844726,
+    "img_src": "https://cdn.tigertag.io/img?id=3356844726&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS006",
+    "title": "ABS Rapido - Gray"
   },
   {
     "RFID_Data": {
@@ -520669,6 +525388,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 35,
+      "color_g": 48,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 49074,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#C03023",
+    "color_info": {
+      "colors": [
+        "#C03023"
+      ],
+      "type": "mono"
+    },
+    "id": 3386103353,
+    "img_src": "https://cdn.tigertag.io/img?id=3386103353&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS-GF25RD",
+    "title": "ABS-GF25 - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -521239,6 +525999,47 @@
     "product_type": "Filament",
     "sku": "B0DZHJLM2C",
     "title": "ASA - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 58,
+      "color_g": 78,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#1F4E3A",
+    "color_info": {
+      "colors": [
+        "#1F4E3A"
+      ],
+      "type": "mono"
+    },
+    "id": 3390505489,
+    "img_src": "https://cdn.tigertag.io/img?id=3390505489&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007DG-1-1000",
+    "title": "PLA Basic - Dark Green"
   },
   {
     "RFID_Data": {
@@ -528385,6 +533186,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 41,
+      "color_g": 55,
+      "color_r": 89,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#593729",
+    "color_info": {
+      "colors": [
+        "#593729"
+      ],
+      "type": "mono"
+    },
+    "id": 3438872602,
+    "img_src": "https://cdn.tigertag.io/img?id=3438872602&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASABR",
+    "title": "ASA - Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 249,
       "color_r": 244,
@@ -528545,6 +533387,47 @@
     "product_type": "Filament",
     "sku": "RFHPPETG175OG1",
     "title": "Hyper PETG - Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 57,
+      "color_g": 165,
+      "color_r": 107,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#6BA539",
+    "color_info": {
+      "colors": [
+        "#6BA539"
+      ],
+      "type": "mono"
+    },
+    "id": 3440572239,
+    "img_src": "https://cdn.tigertag.io/img?id=3440572239&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLASILKGR-1-1000",
+    "title": "PLA Silk - Green"
   },
   {
     "RFID_Data": {
@@ -534728,6 +539611,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABST-GLASSGREEN-175-3KG",
     "title": "THE K5 ABS T - Glass Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 49074,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 3475227350,
+    "img_src": "https://cdn.tigertag.io/img?id=3475227350&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS-GF25",
+    "title": "ABS-GF25 - Black"
   },
   {
     "RFID_Data": {
@@ -543814,6 +548738,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 193,
+      "color_g": 193,
+      "color_r": 193,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#C1C1C1",
+    "color_info": {
+      "colors": [
+        "#C1C1C1"
+      ],
+      "type": "mono"
+    },
+    "id": 3533157132,
+    "img_src": "https://cdn.tigertag.io/img?id=3533157132&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLAMKGR",
+    "title": "PLA Matte Rapido - Tech Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 53,
       "color_g": 142,
       "color_r": 250,
@@ -547098,6 +552063,47 @@
     "product_type": "Filament",
     "sku": "PM70896",
     "title": "PolyLite™ - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 161,
+      "color_g": 162,
+      "color_r": 214,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#D6A2A1",
+    "color_info": {
+      "colors": [
+        "#D6A2A1"
+      ],
+      "type": "mono"
+    },
+    "id": 3554088126,
+    "img_src": "https://cdn.tigertag.io/img?id=3554088126&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILKPLAMGJ",
+    "title": "PLA Silk - Rose Red"
   },
   {
     "RFID_Data": {
@@ -552087,6 +557093,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 62,
+      "color_g": 140,
+      "color_r": 9,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#098C3E",
+    "color_info": {
+      "colors": [
+        "#098C3E"
+      ],
+      "type": "mono"
+    },
+    "id": 3591089025,
+    "img_src": "https://cdn.tigertag.io/img?id=3591089025&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS005",
+    "title": "ABS Rapido - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 56,
       "color_g": 130,
       "color_r": 112,
@@ -553530,6 +558577,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 30,
+      "data7": 45,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 3603243324,
+    "img_src": "https://cdn.tigertag.io/img?id=3603243324&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TPU-AeroHS",
+    "title": "TPU-Aero - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 28,
       "color_g": 35,
       "color_r": 175,
@@ -553694,6 +558782,47 @@
     "product_type": "Filament",
     "sku": "SL-SILKRB-03",
     "title": "Silk PLA+ Rainbow - Silk Rainbow03"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 224,
+      "color_g": 224,
+      "color_r": 224,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 70,
+      "data5": 5,
+      "data6": 35,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 48047,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#E0E0E0",
+    "color_info": {
+      "colors": [
+        "#E0E0E0"
+      ],
+      "type": "mono"
+    },
+    "id": 3604885727,
+    "img_src": "https://cdn.tigertag.io/img?id=3604885727&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TPUTM",
+    "title": "TPU95A-HF - Transparent"
   },
   {
     "RFID_Data": {
@@ -555957,6 +561086,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 160,
+      "color_g": 163,
+      "color_r": 163,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#A3A3A0",
+    "color_info": {
+      "colors": [
+        "#A3A3A0"
+      ],
+      "type": "mono"
+    },
+    "id": 3615803201,
+    "img_src": "https://cdn.tigertag.io/img?id=3615803201&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA006",
+    "title": "PLA Rapido - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 150,
       "color_g": 146,
       "color_r": 141,
@@ -557277,6 +562447,47 @@
     "product_type": "Filament",
     "sku": "F10MGRIS",
     "title": "INGEO 4043D - Gris 10m"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 160,
+      "color_g": 61,
+      "color_r": 173,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#AD3DA0",
+    "color_info": {
+      "colors": [
+        "#AD3DA0"
+      ],
+      "type": "mono"
+    },
+    "id": 3622919340,
+    "img_src": "https://cdn.tigertag.io/img?id=3622919340&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA014",
+    "title": "PLA Rapido - Purple"
   },
   {
     "RFID_Data": {
@@ -560573,6 +565784,47 @@
     "product_type": "Filament",
     "sku": "AMB2529SUP",
     "title": "ASA - Super Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 9,
+      "color_g": 0,
+      "color_r": 175,
+      "data1": 56,
+      "data2": 240,
+      "data3": 275,
+      "data4": 62,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#AF0009",
+    "color_info": {
+      "colors": [
+        "#AF0009"
+      ],
+      "type": "mono"
+    },
+    "id": 3644263851,
+    "img_src": "https://cdn.tigertag.io/img?id=3644263851&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "041RED-1-1000",
+    "title": "PETG Rapido - Red"
   },
   {
     "RFID_Data": {
@@ -567678,6 +572930,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 222,
+      "color_g": 166,
+      "color_r": 124,
+      "data1": 56,
+      "data2": 300,
+      "data3": 320,
+      "data4": 90,
+      "data5": 6,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 22652,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#7CA6DE",
+    "color_info": {
+      "colors": [
+        "#7CA6DE"
+      ],
+      "type": "mono"
+    },
+    "id": 3701147588,
+    "img_src": "https://cdn.tigertag.io/img?id=3701147588&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PAHT-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PAHT-GFBLUE",
+    "title": "PAHT-GF - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 160,
       "color_g": 86,
       "color_r": 30,
@@ -569523,6 +574816,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5ASA-BLUE-285-1KG",
     "title": "THE K5 ASA - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 55,
+      "color_g": 96,
+      "color_r": 148,
+      "data1": 56,
+      "data2": 260,
+      "data3": 320,
+      "data4": 110,
+      "data5": 6,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 22678,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#946037",
+    "color_info": {
+      "colors": [
+        "#946037"
+      ],
+      "type": "mono"
+    },
+    "id": 3713863992,
+    "img_src": "https://cdn.tigertag.io/img?id=3713863992&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PET-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PET-GFBRO",
+    "title": "PET-GF - Brown"
   },
   {
     "RFID_Data": {
@@ -575004,6 +580338,47 @@
     "product_type": "Filament",
     "sku": "PA06028",
     "title": "PolyMax™ - Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 235,
+      "color_g": 240,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#F2F0EB",
+    "color_info": {
+      "colors": [
+        "#F2F0EB"
+      ],
+      "type": "mono"
+    },
+    "id": 3748484324,
+    "img_src": "https://cdn.tigertag.io/img?id=3748484324&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007WH-1-1000",
+    "title": "PLA Basic - White"
   },
   {
     "RFID_Data": {
@@ -583220,6 +588595,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 160,
+      "color_g": 160,
+      "color_r": 160,
+      "data1": 56,
+      "data2": 240,
+      "data3": 275,
+      "data4": 62,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#A0A0A0",
+    "color_info": {
+      "colors": [
+        "#A0A0A0"
+      ],
+      "type": "mono"
+    },
+    "id": 3805510811,
+    "img_src": "https://cdn.tigertag.io/img?id=3805510811&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "041GRY-1-1000",
+    "title": "PETG Rapido - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 40,
       "color_g": 140,
       "color_r": 242,
@@ -583298,6 +588714,47 @@
     "product_type": "Filament",
     "sku": "PLA-CLRB175O-CP1P1",
     "title": "PLA-Clear Rainbow - PINK CRYSTAL"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 151,
+      "color_g": 49,
+      "color_r": 102,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#663197",
+    "color_info": {
+      "colors": [
+        "#663197"
+      ],
+      "type": "mono"
+    },
+    "id": 3806278457,
+    "img_src": "https://cdn.tigertag.io/img?id=3806278457&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "OLABSZS",
+    "title": "Odorless-ABS Rapido - Purple"
   },
   {
     "RFID_Data": {
@@ -584159,6 +589616,47 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F4767",
     "title": "PLA Speed Matt - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 105,
+      "color_g": 88,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FF5869",
+    "color_info": {
+      "colors": [
+        "#FF5869"
+      ],
+      "type": "mono"
+    },
+    "id": 3812978025,
+    "img_src": "https://cdn.tigertag.io/img?id=3812978025&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA012",
+    "title": "PLA Rapido - Pink"
   },
   {
     "RFID_Data": {
@@ -593752,6 +599250,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 34,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 35,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#212322",
+    "color_info": {
+      "colors": [
+        "#212322"
+      ],
+      "type": "mono"
+    },
+    "id": 3883245346,
+    "img_src": "https://cdn.tigertag.io/img?id=3883245346&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA001",
+    "title": "PLA Rapido - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 76,
       "color_g": 91,
       "color_r": 2,
@@ -598028,17 +603567,17 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 0,
-      "color_g": 0,
-      "color_r": 0,
+      "color_b": 91,
+      "color_g": 107,
+      "color_r": 242,
       "data1": 56,
       "data2": 190,
-      "data3": 240,
-      "data4": 55,
+      "data3": 220,
+      "data4": 50,
       "data5": 6,
-      "data6": 25,
-      "data7": 65,
-      "id_aspect1": 247,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 67,
       "id_aspect2": null,
       "id_brand": 9596,
       "id_material": 38219,
@@ -598048,15 +603587,15 @@
     },
     "barcode": null,
     "brand": "Ziro",
-    "color": "#000000FF",
+    "color": "#F26B5B",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#F26B5B"
       ],
       "type": "mono"
     },
     "id": 3910821422,
-    "img_src": null,
+    "img_src": "https://cdn.tigertag.io/img?id=3910821422&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -598064,7 +603603,7 @@
     "measure": "1000 g",
     "product_type": "Filament",
     "sku": "Z00003D-T-LIVING CORAL",
-    "title": "PLA Matte - Living Coral"
+    "title": "PLA PRO Translucent - Living Coral"
   },
   {
     "RFID_Data": {
@@ -609844,6 +615383,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 43,
+      "color_g": 63,
+      "color_r": 109,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#6D3F2B",
+    "color_info": {
+      "colors": [
+        "#6D3F2B"
+      ],
+      "type": "mono"
+    },
+    "id": 3983305865,
+    "img_src": "https://cdn.tigertag.io/img?id=3983305865&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007BN-1-1000",
+    "title": "PLA Basic - Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 51,
       "color_r": 85,
@@ -614391,8 +619971,8 @@
       "type": "mono"
     },
     "id": 4016749368,
-    "img_src": "https://cdn.tigertag.io/img?id=4016749368&v=2",
-    "info1": true,
+    "img_src": "https://cdn.tigertag.io/img?id=4016749368&v=3",
+    "info1": false,
     "info2": false,
     "info3": false,
     "material": "PLA",
@@ -614728,6 +620308,47 @@
     "product_type": "Filament",
     "sku": "KEX-K6PLA-RED-175-5KG",
     "title": "THE K6 PLA - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 227,
+      "color_r": 252,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FCE300",
+    "color_info": {
+      "colors": [
+        "#FCE300"
+      ],
+      "type": "mono"
+    },
+    "id": 4019068854,
+    "img_src": "https://cdn.tigertag.io/img?id=4019068854&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS011",
+    "title": "ABS Rapido - Yellow"
   },
   {
     "RFID_Data": {
@@ -615146,6 +620767,47 @@
     "product_type": "Filament",
     "sku": "SL-SILKFC-BL+PP+RD+GD-1KG",
     "title": "Silk PLA+ Four-Color - Blue Purple Red Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 145,
+      "color_g": 79,
+      "color_r": 29,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#1D4F91",
+    "color_info": {
+      "colors": [
+        "#1D4F91"
+      ],
+      "type": "mono"
+    },
+    "id": 4022297059,
+    "img_src": "https://cdn.tigertag.io/img?id=4022297059&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLASILKBU-1-1000",
+    "title": "PLA Silk - Blue"
   },
   {
     "RFID_Data": {
@@ -622595,6 +628257,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 71,
+      "color_g": 162,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 250,
+      "data3": 280,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 49074,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#00A247",
+    "color_info": {
+      "colors": [
+        "#00A247"
+      ],
+      "type": "mono"
+    },
+    "id": 4067989811,
+    "img_src": "https://cdn.tigertag.io/img?id=4067989811&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ABS-GF25LV",
+    "title": "ABS-GF25 - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 79,
       "color_g": 158,
       "color_r": 46,
@@ -623370,6 +629073,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAM-ICEBLUE-175-3KG",
     "title": "THE K5 PLA M - Ice blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 235,
+      "color_g": 203,
+      "color_r": 155,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#9BCBEB",
+    "color_info": {
+      "colors": [
+        "#9BCBEB"
+      ],
+      "type": "mono"
+    },
+    "id": 4073390365,
+    "img_src": "https://cdn.tigertag.io/img?id=4073390365&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007SB-1-1000",
+    "title": "PLA Basic - Sky Blue"
   },
   {
     "RFID_Data": {
@@ -632578,6 +638322,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 154,
+      "color_g": 188,
+      "color_r": 227,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#E3BC9A",
+    "color_info": {
+      "colors": [
+        "#E3BC9A"
+      ],
+      "type": "mono"
+    },
+    "id": 4125634129,
+    "img_src": "https://cdn.tigertag.io/img?id=4125634129&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "007ST-1-1000",
+    "title": "PLA Basic - Skin"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 158,
       "color_g": 195,
       "color_r": 232,
@@ -633927,6 +639712,47 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU95A-YELLOW-175-1KG",
     "title": "THE K8 TPU 95A - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 224,
+      "color_g": 200,
+      "color_r": 40,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 9596,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Ziro",
+    "color": "#28C8E0",
+    "color_info": {
+      "colors": [
+        "#28C8E0"
+      ],
+      "type": "mono"
+    },
+    "id": 4138991919,
+    "img_src": "https://cdn.tigertag.io/img?id=4138991919&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "Z00003D-T-CYAN",
+    "title": "PLA PRO Translucent - Cyan"
   },
   {
     "RFID_Data": {
@@ -638555,6 +644381,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 224,
+      "color_g": 224,
+      "color_r": 200,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#C8E0E0",
+    "color_info": {
+      "colors": [
+        "#C8E0E0"
+      ],
+      "type": "mono"
+    },
+    "id": 4173627636,
+    "img_src": "https://cdn.tigertag.io/img?id=4173627636&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "043SKL-1-1000",
+    "title": "PETG-GF - Skylight Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 184,
       "color_g": 185,
       "color_r": 185,
@@ -639166,6 +645033,47 @@
     "product_type": "Filament",
     "sku": "FF-PLA-MDC-175-1000",
     "title": "PLA+ HS - Carrara Marble"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 45,
+      "color_g": 236,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 75,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#FFEC2D",
+    "color_info": {
+      "colors": [
+        "#FFEC2D"
+      ],
+      "type": "mono"
+    },
+    "id": 4176721626,
+    "img_src": "https://cdn.tigertag.io/img?id=4176721626&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "OLABSYL",
+    "title": "Odorless-ABS Rapido - Yellow"
   },
   {
     "RFID_Data": {
@@ -643077,6 +648985,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 103,
+      "color_g": 219,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 80,
+      "data5": 5,
+      "data6": 90,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#F4DB67",
+    "color_info": {
+      "colors": [
+        "#F4DB67"
+      ],
+      "type": "mono"
+    },
+    "id": 4201496928,
+    "img_src": "https://cdn.tigertag.io/img?id=4201496928&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ASAYL",
+    "title": "ASA - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -645754,6 +651703,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 32,
+      "color_g": 165,
+      "color_r": 220,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 5,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#DCA520",
+    "color_info": {
+      "colors": [
+        "#DCA520"
+      ],
+      "type": "mono"
+    },
+    "id": 4217854413,
+    "img_src": "https://cdn.tigertag.io/img?id=4217854413&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLASILKGD-1-1000",
+    "title": "PLA Silk - Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 73,
       "color_g": 116,
       "color_r": 171,
@@ -646000,6 +651990,47 @@
     "product_type": "Filament",
     "sku": "GWCZ-EL-PLA-113",
     "title": "Galaxy - Peacock Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 57,
+      "color_g": 150,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 65,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#009639",
+    "color_info": {
+      "colors": [
+        "#009639"
+      ],
+      "type": "mono"
+    },
+    "id": 4219856934,
+    "img_src": "https://cdn.tigertag.io/img?id=4219856934&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PETG-GREEN",
+    "title": "PETG-Tough - Green"
   },
   {
     "RFID_Data": {
@@ -648854,6 +654885,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLASILK-BLUEPURPLE-285-5KG",
     "title": "THE K5 PLA Silk - Blue Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 12,
+      "color_g": 16,
+      "color_r": 211,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 62,
+      "data5": 7,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#D3100C",
+    "color_info": {
+      "colors": [
+        "#D3100C"
+      ],
+      "type": "mono"
+    },
+    "id": 4237069955,
+    "img_src": "https://cdn.tigertag.io/img?id=4237069955&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "039RD-1-1000",
+    "title": "PETG Basic - Red"
   },
   {
     "RFID_Data": {
@@ -653135,6 +659207,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 235,
+      "color_g": 212,
+      "color_r": 156,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 52,
+      "data5": 7,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#9CD4EB",
+    "color_info": {
+      "colors": [
+        "#9CD4EB"
+      ],
+      "type": "mono"
+    },
+    "id": 4267059016,
+    "img_src": "https://cdn.tigertag.io/img?id=4267059016&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "008MB-1-1000",
+    "title": "PLA Matte Basic - Mint Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_g": 135,
       "color_r": 232,
@@ -655604,6 +661717,47 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU90AM-BLACK-175-3KG",
     "title": "THE K8 TPU 90A MATTE - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 81,
+      "color_g": 206,
+      "color_r": 124,
+      "data1": 56,
+      "data2": 240,
+      "data3": 275,
+      "data4": 62,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 4011,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "QIDI Tech",
+    "color": "#7CCE51",
+    "color_info": {
+      "colors": [
+        "#7CCE51"
+      ],
+      "type": "mono"
+    },
+    "id": 4285157847,
+    "img_src": "https://cdn.tigertag.io/img?id=4285157847&v=2",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "041GSGN-1-1000",
+    "title": "PETG Rapido - Grass Green"
   },
   {
     "RFID_Data": {
