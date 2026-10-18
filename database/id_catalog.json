@@ -4484,8 +4484,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 160,
+      "color_b3": 42,
       "color_g": 87,
+      "color_g2": 63,
+      "color_g3": 128,
       "color_r": 36,
+      "color_r2": 123,
+      "color_r3": 232,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4503,15 +4509,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#7B3FA0",
+        "#E8802A"
       ],
       "type": "multi"
     },
     "id": 32102066,
-    "img_src": "https://cdn.tigertag.io/img?id=32102066&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=32102066&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -5714,8 +5722,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 160,
       "color_g": 87,
+      "color_g2": 63,
       "color_r": 36,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -5733,15 +5744,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 39570982,
-    "img_src": "https://cdn.tigertag.io/img?id=39570982&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=39570982&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -7276,8 +7288,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 43,
-      "color_g": 90,
+      "color_b2": 28,
+      "color_g": 74,
+      "color_g2": 42,
       "color_r": 139,
+      "color_r2": 62,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -7295,15 +7310,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#8B5A2BFF",
+    "color": "#8B4A2B",
     "color_info": {
       "colors": [
-        "#8B5A2BFF"
+        "#8B4A2B",
+        "#3E2A1C"
       ],
-      "type": "mono"
+      "type": "multi"
     },
     "id": 52370034,
-    "img_src": "https://cdn.tigertag.io/img?id=52370034&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=52370034&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -15433,9 +15449,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 170,
+      "color_b2": 197,
+      "color_g": 110,
+      "color_g2": 87,
+      "color_r": 240,
+      "color_r2": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -15453,15 +15472,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F06EAA",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 94950352,
-    "img_src": "https://cdn.tigertag.io/img?id=94950352&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=94950352&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -15474,9 +15494,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 176,
+      "color_g": 200,
+      "color_r": 76,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -15494,15 +15514,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#4CC8B0",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#4CC8B0"
       ],
       "type": "mono"
     },
     "id": 94979350,
-    "img_src": "https://cdn.tigertag.io/img?id=94979350&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=94979350&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -19553,9 +19573,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 192,
+      "color_b2": 232,
+      "color_b3": 240,
+      "color_g": 160,
+      "color_g2": 168,
+      "color_g3": 216,
+      "color_r": 245,
+      "color_r2": 200,
+      "color_r3": 168,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -19573,15 +19599,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F5A0C0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F5A0C0",
+        "#C8A8E8",
+        "#A8D8F0"
       ],
       "type": "gradient"
     },
     "id": 119368365,
-    "img_src": "https://cdn.tigertag.io/img?id=119368365&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=119368365&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -20086,9 +20114,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 168,
+      "color_b2": 200,
+      "color_g": 111,
+      "color_g2": 184,
+      "color_r": 42,
+      "color_r2": 95,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -20106,15 +20137,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2A6FA8",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2A6FA8",
+        "#5FB8C8"
       ],
-      "type": "mono"
+      "type": "multi"
     },
     "id": 121702977,
-    "img_src": "https://cdn.tigertag.io/img?id=121702977&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=121702977&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -21870,9 +21902,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 240,
+      "color_g": 221,
+      "color_r": 138,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -21890,15 +21922,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#8ADDF0",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#8ADDF0"
       ],
       "type": "mono"
     },
     "id": 136314578,
-    "img_src": "https://cdn.tigertag.io/img?id=136314578&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=136314578&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -22158,8 +22190,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 60,
+      "color_b3": 42,
       "color_g": 87,
+      "color_g2": 160,
+      "color_g3": 128,
       "color_r": 36,
+      "color_r2": 60,
+      "color_r3": 232,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -22177,15 +22215,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#3CA03C",
+        "#E8802A"
       ],
       "type": "multi"
     },
     "id": 138675750,
-    "img_src": "https://cdn.tigertag.io/img?id=138675750&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=138675750&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -23183,8 +23223,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 162,
+      "color_b2": 197,
+      "color_b3": 43,
       "color_g": 153,
+      "color_g2": 87,
+      "color_g3": 75,
       "color_r": 144,
+      "color_r2": 36,
+      "color_r3": 122,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -23202,15 +23248,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#9099A2FF",
+    "color": "#9099A2",
     "color_info": {
       "colors": [
-        "#9099A2FF"
+        "#9099A2",
+        "#2457C5",
+        "#7A4B2B"
       ],
       "type": "multi"
     },
     "id": 146022182,
-    "img_src": "https://cdn.tigertag.io/img?id=146022182&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=146022182&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -29402,8 +29450,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 140,
+      "color_b2": 42,
       "color_g": 180,
+      "color_g2": 128,
       "color_r": 242,
+      "color_r2": 232,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -29421,15 +29472,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F2B48CFF",
+    "color": "#F2B48C",
     "color_info": {
       "colors": [
-        "#F2B48CFF"
+        "#F2B48C",
+        "#E8802A"
       ],
       "type": "multi"
     },
     "id": 188804203,
-    "img_src": "https://cdn.tigertag.io/img?id=188804203&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=188804203&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -31670,8 +31722,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 160,
       "color_g": 162,
+      "color_g2": 63,
       "color_r": 201,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -31689,15 +31744,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 201466958,
-    "img_src": "https://cdn.tigertag.io/img?id=201466958&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=201466958&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -32448,8 +32504,8 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 66,
-      "color_g": 197,
+      "color_b": 58,
+      "color_g": 211,
       "color_r": 245,
       "data1": 56,
       "data2": 200,
@@ -32468,15 +32524,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F5C542FF",
+    "color": "#F5D33A",
     "color_info": {
       "colors": [
-        "#F5C542FF"
+        "#F5D33A"
       ],
       "type": "mono"
     },
     "id": 206758345,
-    "img_src": "https://cdn.tigertag.io/img?id=206758345&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=206758345&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -37757,9 +37813,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 160,
-      "color_g": 63,
-      "color_r": 123,
+      "color_b": 197,
+      "color_b2": 160,
+      "color_b3": 48,
+      "color_g": 87,
+      "color_g2": 63,
+      "color_g3": 48,
+      "color_r": 36,
+      "color_r2": 123,
+      "color_r3": 224,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -37777,15 +37839,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#7B3FA0FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#7B3FA0FF"
+        "#2457C5",
+        "#7B3FA0",
+        "#E03030"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 237180161,
-    "img_src": "https://cdn.tigertag.io/img?id=237180161&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=237180161&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -38454,9 +38518,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 160,
+      "color_b2": 197,
+      "color_b3": 138,
+      "color_g": 63,
+      "color_g2": 87,
+      "color_g3": 66,
+      "color_r": 123,
+      "color_r2": 36,
+      "color_r3": 214,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -38474,15 +38544,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#7B3FA0",
+        "#2457C5",
+        "#D6428A"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 241148796,
-    "img_src": "https://cdn.tigertag.io/img?id=241148796&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=241148796&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -50939,8 +51011,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 48,
       "color_g": 26,
+      "color_g2": 48,
       "color_r": 26,
+      "color_r2": 224,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -50958,15 +51033,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#E03030"
       ],
       "type": "multi"
     },
     "id": 316874496,
-    "img_src": "https://cdn.tigertag.io/img?id=316874496&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=316874496&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -53865,9 +53941,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 66,
-      "color_g": 197,
-      "color_r": 245,
+      "color_b": 61,
+      "color_g": 160,
+      "color_r": 242,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -53885,15 +53961,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F5C542FF",
+    "color": "#F2A03D",
     "color_info": {
       "colors": [
-        "#F5C542FF"
+        "#F2A03D"
       ],
       "type": "mono"
     },
     "id": 335244964,
-    "img_src": "https://cdn.tigertag.io/img?id=335244964&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=335244964&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -66777,9 +66853,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 216,
+      "color_b2": 50,
+      "color_b3": 200,
+      "color_g": 143,
+      "color_g2": 205,
+      "color_g3": 168,
+      "color_r": 181,
+      "color_r2": 154,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -66797,15 +66879,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#B58FD8",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#B58FD8",
+        "#9ACD32",
+        "#F5A8C8"
       ],
       "type": "gradient"
     },
     "id": 414868289,
-    "img_src": "https://cdn.tigertag.io/img?id=414868289&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=414868289&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -74220,8 +74304,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 60,
       "color_g": 26,
+      "color_g2": 160,
       "color_r": 26,
+      "color_r2": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -74239,15 +74326,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 464646389,
-    "img_src": "https://cdn.tigertag.io/img?id=464646389&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=464646389&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -90290,9 +90378,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 160,
+      "color_b2": 170,
+      "color_b3": 196,
+      "color_g": 63,
+      "color_g2": 110,
+      "color_g3": 182,
+      "color_r": 123,
+      "color_r2": 240,
+      "color_r3": 56,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -90310,15 +90404,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#7B3FA0",
+        "#F06EAA",
+        "#38B6C4"
       ],
       "type": "gradient"
     },
     "id": 559110678,
-    "img_src": "https://cdn.tigertag.io/img?id=559110678&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=559110678&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -94002,8 +94098,8 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 42,
-      "color_g": 128,
-      "color_r": 232,
+      "color_g": 104,
+      "color_r": 242,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -94021,15 +94117,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E8802AFF",
+    "color": "#F2682A",
     "color_info": {
       "colors": [
-        "#E8802AFF"
+        "#F2682A"
       ],
       "type": "mono"
     },
     "id": 582067813,
-    "img_src": "https://cdn.tigertag.io/img?id=582067813&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=582067813&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -96958,8 +97054,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 48,
+      "color_b3": 39,
       "color_g": 26,
+      "color_g2": 48,
+      "color_g3": 162,
       "color_r": 26,
+      "color_r2": 224,
+      "color_r3": 201,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -96977,15 +97079,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#E03030",
+        "#C9A227"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 600391842,
-    "img_src": "https://cdn.tigertag.io/img?id=600391842&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=600391842&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -97285,9 +97389,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 160,
+      "color_b2": 60,
+      "color_b3": 170,
+      "color_g": 63,
+      "color_g2": 160,
+      "color_g3": 110,
+      "color_r": 123,
+      "color_r2": 60,
+      "color_r3": 240,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -97305,15 +97415,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#7B3FA0",
+        "#3CA03C",
+        "#F06EAA",
+        "#F5C542"
       ],
       "type": "gradient"
     },
     "id": 602951272,
-    "img_src": "https://cdn.tigertag.io/img?id=602951272&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=602951272&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -98438,8 +98551,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 245,
+      "color_b2": 170,
+      "color_b3": 160,
       "color_g": 245,
+      "color_g2": 110,
+      "color_g3": 63,
       "color_r": 245,
+      "color_r2": 240,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -98457,15 +98576,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F5F5F5FF",
+    "color": "#F5F5F5",
     "color_info": {
       "colors": [
-        "#F5F5F5FF"
+        "#F5F5F5",
+        "#F06EAA",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 610016832,
-    "img_src": "https://cdn.tigertag.io/img?id=610016832&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=610016832&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -104426,9 +104547,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 128,
-      "color_g": 143,
-      "color_r": 154,
+      "color_b": 107,
+      "color_b2": 176,
+      "color_g": 107,
+      "color_g2": 176,
+      "color_r": 107,
+      "color_r2": 176,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -104446,15 +104570,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#9A8F80FF",
+    "color": "#6B6B6B",
     "color_info": {
       "colors": [
-        "#9A8F80FF"
+        "#6B6B6B",
+        "#B0B0B0"
       ],
-      "type": "mono"
+      "type": "multi"
     },
     "id": 645858904,
-    "img_src": "https://cdn.tigertag.io/img?id=645858904&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=645858904&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -108117,8 +108242,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 245,
       "color_g": 48,
+      "color_g2": 245,
       "color_r": 224,
+      "color_r2": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -108136,15 +108264,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#F5F5F5"
       ],
       "type": "gradient"
     },
     "id": 670353733,
-    "img_src": "https://cdn.tigertag.io/img?id=670353733&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=670353733&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -117906,9 +118035,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 192,
+      "color_b2": 138,
+      "color_b3": 200,
+      "color_g": 160,
+      "color_g2": 216,
+      "color_g3": 224,
+      "color_r": 245,
+      "color_r2": 245,
+      "color_r3": 168,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -117926,15 +118061,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F5A0C0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F5A0C0",
+        "#F5D88A",
+        "#A8E0C8",
+        "#8AB8F0"
       ],
       "type": "gradient"
     },
     "id": 727155818,
-    "img_src": "https://cdn.tigertag.io/img?id=727155818&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=727155818&v=6",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -118563,8 +118701,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 197,
       "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 87,
       "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -118582,15 +118726,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#F5C542",
+        "#2457C5"
       ],
       "type": "multi"
     },
     "id": 731810767,
-    "img_src": "https://cdn.tigertag.io/img?id=731810767&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=731810767&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -121272,8 +121418,8 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 170,
-      "color_g": 110,
+      "color_b": 168,
+      "color_g": 138,
       "color_r": 240,
       "data1": 56,
       "data2": 190,
@@ -121292,15 +121438,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F06EAAFF",
+    "color": "#F08AA8",
     "color_info": {
       "colors": [
-        "#F06EAAFF"
+        "#F08AA8"
       ],
       "type": "mono"
     },
     "id": 750470675,
-    "img_src": "https://cdn.tigertag.io/img?id=750470675&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=750470675&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -123709,8 +123855,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 170,
+      "color_b3": 245,
       "color_g": 26,
+      "color_g2": 110,
+      "color_g3": 245,
       "color_r": 26,
+      "color_r2": 240,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -123728,15 +123880,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#F06EAA",
+        "#F5F5F5"
       ],
       "type": "multi"
     },
     "id": 770479427,
-    "img_src": "https://cdn.tigertag.io/img?id=770479427&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=770479427&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -131081,8 +131235,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 60,
+      "color_b3": 160,
       "color_g": 87,
+      "color_g2": 160,
+      "color_g3": 63,
       "color_r": 36,
+      "color_r2": 60,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -131100,15 +131260,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#3CA03C",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 819010818,
-    "img_src": "https://cdn.tigertag.io/img?id=819010818&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=819010818&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -134480,8 +134642,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 60,
       "color_g": 26,
+      "color_g2": 160,
       "color_r": 26,
+      "color_r2": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -134499,15 +134664,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#3CA03C"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 840734752,
-    "img_src": "https://cdn.tigertag.io/img?id=840734752&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=840734752&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -134726,8 +134892,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 170,
+      "color_b2": 160,
       "color_g": 110,
+      "color_g2": 63,
       "color_r": 240,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -134745,15 +134914,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F06EAAFF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#F06EAAFF"
+        "#F06EAA",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 841569888,
-    "img_src": "https://cdn.tigertag.io/img?id=841569888&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=841569888&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -139255,9 +139425,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 139,
-      "color_g": 57,
-      "color_r": 192,
+      "color_b": 26,
+      "color_b2": 176,
+      "color_b3": 139,
+      "color_g": 26,
+      "color_g2": 192,
+      "color_g3": 57,
+      "color_r": 26,
+      "color_r2": 48,
+      "color_r3": 192,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -139275,15 +139451,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C0398BFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#C0398BFF"
+        "#1A1A1A",
+        "#30C0B0",
+        "#C0398B"
       ],
-      "type": "mono"
+      "type": "multi"
     },
     "id": 872642523,
-    "img_src": "https://cdn.tigertag.io/img?id=872642523&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=872642523&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -140781,8 +140959,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 66,
       "color_g": 48,
+      "color_g2": 197,
       "color_r": 224,
+      "color_r2": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -140800,15 +140981,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#F5C542"
       ],
       "type": "multi"
     },
     "id": 885836540,
-    "img_src": "https://cdn.tigertag.io/img?id=885836540&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=885836540&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -147410,8 +147592,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 197,
       "color_g": 26,
+      "color_g2": 87,
       "color_r": 26,
+      "color_r2": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -147429,15 +147614,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#2457C5"
       ],
       "type": "multi"
     },
     "id": 930824324,
-    "img_src": "https://cdn.tigertag.io/img?id=930824324&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=930824324&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -147738,8 +147924,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 202,
+      "color_b3": 51,
       "color_g": 162,
+      "color_g2": 201,
+      "color_g3": 115,
       "color_r": 201,
+      "color_r2": 199,
+      "color_r3": 184,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -147757,15 +147949,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#C7C9CA",
+        "#B87333"
       ],
       "type": "multi"
     },
     "id": 932537438,
-    "img_src": "https://cdn.tigertag.io/img?id=932537438&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=932537438&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -148688,9 +148882,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 66,
+      "color_b2": 60,
+      "color_b3": 42,
+      "color_g": 197,
+      "color_g2": 160,
+      "color_g3": 128,
+      "color_r": 245,
+      "color_r2": 60,
+      "color_r3": 232,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -148708,15 +148908,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F5C542",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F5C542",
+        "#3CA03C",
+        "#E8802A"
       ],
       "type": "gradient"
     },
     "id": 939779691,
-    "img_src": "https://cdn.tigertag.io/img?id=939779691&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=939779691&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -152390,8 +152592,8 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 66,
-      "color_g": 197,
+      "color_b": 58,
+      "color_g": 211,
       "color_r": 245,
       "data1": 56,
       "data2": 190,
@@ -152410,15 +152612,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F5C542FF",
+    "color": "#F5D33A",
     "color_info": {
       "colors": [
-        "#F5C542FF"
+        "#F5D33A"
       ],
       "type": "mono"
     },
     "id": 963757256,
-    "img_src": "https://cdn.tigertag.io/img?id=963757256&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=963757256&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -157495,9 +157697,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 220,
+      "color_b2": 197,
+      "color_g": 127,
+      "color_g2": 87,
+      "color_r": 42,
+      "color_r2": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -157515,15 +157720,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#2A7FDC",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#2A7FDC",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 995879286,
-    "img_src": "https://cdn.tigertag.io/img?id=995879286&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=995879286&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -157824,8 +158030,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 48,
+      "color_b3": 245,
       "color_g": 87,
+      "color_g2": 48,
+      "color_g3": 245,
       "color_r": 36,
+      "color_r2": 224,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -157843,15 +158055,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#E03030",
+        "#F5F5F5"
       ],
       "type": "multi"
     },
     "id": 996964612,
-    "img_src": "https://cdn.tigertag.io/img?id=996964612&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=996964612&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -172653,9 +172867,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 159,
-      "color_g": 215,
-      "color_r": 159,
+      "color_b": 197,
+      "color_g": 213,
+      "color_r": 168,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -172673,15 +172887,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#9FD79FFF",
+    "color": "#A8D5C5",
     "color_info": {
       "colors": [
-        "#9FD79FFF"
+        "#A8D5C5"
       ],
       "type": "mono"
     },
     "id": 1089927922,
-    "img_src": "https://cdn.tigertag.io/img?id=1089927922&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1089927922&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -175318,9 +175532,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 162,
-      "color_g": 153,
-      "color_r": 144,
+      "color_b": 148,
+      "color_g": 143,
+      "color_r": 138,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -175338,15 +175552,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#9099A2FF",
+    "color": "#8A8F94",
     "color_info": {
       "colors": [
-        "#9099A2FF"
+        "#8A8F94"
       ],
       "type": "mono"
     },
     "id": 1109682064,
-    "img_src": "https://cdn.tigertag.io/img?id=1109682064&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1109682064&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -177808,8 +178022,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 66,
+      "color_b3": 60,
       "color_g": 26,
+      "color_g2": 197,
+      "color_g3": 160,
       "color_r": 26,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -177827,15 +178047,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#F5C542",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 1125267105,
-    "img_src": "https://cdn.tigertag.io/img?id=1125267105&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1125267105&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -185131,8 +185353,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 197,
       "color_g": 26,
+      "color_g2": 87,
       "color_r": 26,
+      "color_r2": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -185150,15 +185375,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#2457C5"
       ],
       "type": "multi"
     },
     "id": 1172803107,
-    "img_src": "https://cdn.tigertag.io/img?id=1172803107&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1172803107&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -186902,8 +187128,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 60,
+      "color_b2": 138,
       "color_g": 160,
+      "color_g2": 66,
       "color_r": 60,
+      "color_r2": 214,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -186921,15 +187150,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#3CA03C",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#3CA03C",
+        "#D6428A"
       ],
       "type": "multi"
     },
     "id": 1180567490,
-    "img_src": "https://cdn.tigertag.io/img?id=1180567490&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1180567490&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -187270,9 +187500,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 160,
-      "color_g": 160,
-      "color_r": 28,
+      "color_b": 42,
+      "color_b2": 160,
+      "color_b3": 122,
+      "color_g": 128,
+      "color_g2": 160,
+      "color_g3": 210,
+      "color_r": 232,
+      "color_r2": 28,
+      "color_r3": 242,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -187290,15 +187526,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1CA0A0FF",
+    "color": "#E8802A",
     "color_info": {
       "colors": [
-        "#1CA0A0FF"
+        "#E8802A",
+        "#1CA0A0",
+        "#F2D27A"
       ],
-      "type": "mono"
+      "type": "multi"
     },
     "id": 1183749848,
-    "img_src": "https://cdn.tigertag.io/img?id=1183749848&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1183749848&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -189042,8 +189280,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 60,
       "color_g": 87,
+      "color_g2": 160,
       "color_r": 36,
+      "color_r2": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -189061,15 +189302,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 1195609521,
-    "img_src": "https://cdn.tigertag.io/img?id=1195609521&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1195609521&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -191214,9 +191456,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 170,
+      "color_b2": 160,
+      "color_b3": 66,
+      "color_g": 110,
+      "color_g2": 160,
+      "color_g3": 197,
+      "color_r": 240,
+      "color_r2": 245,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -191234,15 +191482,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F06EAA",
+        "#F5A0A0",
+        "#F5C542",
+        "#8AD0E8"
       ],
       "type": "gradient"
     },
     "id": 1214736424,
-    "img_src": "https://cdn.tigertag.io/img?id=1214736424&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1214736424&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -192782,8 +193033,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 138,
       "color_g": 87,
+      "color_g2": 66,
       "color_r": 36,
+      "color_r2": 214,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -192801,15 +193055,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#D6428A"
       ],
       "type": "multi"
     },
     "id": 1226061559,
-    "img_src": "https://cdn.tigertag.io/img?id=1226061559&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1226061559&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -194261,9 +194516,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -194281,15 +194542,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 1235264369,
-    "img_src": "https://cdn.tigertag.io/img?id=1235264369&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1235264369&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -196111,8 +196375,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 170,
+      "color_b3": 60,
       "color_g": 87,
+      "color_g2": 110,
+      "color_g3": 160,
       "color_r": 36,
+      "color_r2": 240,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -196130,15 +196400,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#F06EAA",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 1251210395,
-    "img_src": "https://cdn.tigertag.io/img?id=1251210395&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1251210395&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -198537,9 +198809,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 160,
+      "color_b2": 170,
+      "color_b3": 42,
+      "color_g": 63,
+      "color_g2": 110,
+      "color_g3": 128,
+      "color_r": 123,
+      "color_r2": 240,
+      "color_r3": 232,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -198557,15 +198835,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#7B3FA0",
+        "#F06EAA",
+        "#E8802A",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 1269222812,
-    "img_src": "https://cdn.tigertag.io/img?id=1269222812&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1269222812&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -199156,9 +199437,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 106,
+      "color_g": 224,
+      "color_r": 111,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -199176,15 +199457,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#6FE06A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#6FE06A"
       ],
       "type": "mono"
     },
     "id": 1273948075,
-    "img_src": "https://cdn.tigertag.io/img?id=1273948075&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1273948075&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -199402,9 +199683,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -199422,15 +199709,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 1276279309,
-    "img_src": "https://cdn.tigertag.io/img?id=1276279309&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1276279309&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -201215,8 +201505,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 202,
       "color_g": 162,
+      "color_g2": 201,
       "color_r": 201,
+      "color_r2": 199,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -201234,15 +201527,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#C7C9CA"
       ],
       "type": "multi"
     },
     "id": 1287720234,
-    "img_src": "https://cdn.tigertag.io/img?id=1287720234&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1287720234&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -202453,8 +202747,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 232,
+      "color_b2": 170,
       "color_g": 183,
+      "color_g2": 110,
       "color_r": 111,
+      "color_r2": 240,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -202472,15 +202769,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#6FB7E8FF",
+    "color": "#6FB7E8",
     "color_info": {
       "colors": [
-        "#6FB7E8FF"
+        "#6FB7E8",
+        "#F06EAA"
       ],
       "type": "multi"
     },
     "id": 1297346259,
-    "img_src": "https://cdn.tigertag.io/img?id=1297346259&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1297346259&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -204238,8 +204536,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 197,
+      "color_b3": 160,
       "color_g": 26,
+      "color_g2": 87,
+      "color_g3": 63,
       "color_r": 26,
+      "color_r2": 36,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -204257,15 +204561,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#2457C5",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 1305950940,
-    "img_src": "https://cdn.tigertag.io/img?id=1305950940&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1305950940&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -217481,8 +217787,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 42,
+      "color_b2": 245,
       "color_g": 128,
+      "color_g2": 245,
       "color_r": 232,
+      "color_r2": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -217500,15 +217809,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E8802AFF",
+    "color": "#E8802A",
     "color_info": {
       "colors": [
-        "#E8802AFF"
+        "#E8802A",
+        "#F5F5F5"
       ],
       "type": "gradient"
     },
     "id": 1392090586,
-    "img_src": "https://cdn.tigertag.io/img?id=1392090586&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1392090586&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -223089,9 +223399,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_g": 48,
-      "color_r": 224,
+      "color_b": 34,
+      "color_g": 42,
+      "color_r": 165,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -223109,15 +223419,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#A52A22",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#A52A22"
       ],
-      "type": "multi"
+      "type": "mono"
     },
     "id": 1430219844,
-    "img_src": "https://cdn.tigertag.io/img?id=1430219844&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1430219844&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -225237,9 +225547,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 122,
+      "color_g": 143,
+      "color_r": 91,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -225257,15 +225567,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#5B8F7A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#5B8F7A"
       ],
       "type": "mono"
     },
     "id": 1442957751,
-    "img_src": "https://cdn.tigertag.io/img?id=1442957751&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1442957751&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -225852,9 +226162,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -225872,15 +226188,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 1446234727,
-    "img_src": "https://cdn.tigertag.io/img?id=1446234727&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1446234727&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -232909,8 +233228,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 160,
+      "color_b2": 60,
       "color_g": 63,
+      "color_g2": 160,
       "color_r": 123,
+      "color_r2": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -232928,15 +233250,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#7B3FA0FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#7B3FA0FF"
+        "#7B3FA0",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 1490941840,
-    "img_src": "https://cdn.tigertag.io/img?id=1490941840&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1490941840&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -233401,8 +233724,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 154,
+      "color_b2": 176,
+      "color_b3": 205,
       "color_g": 85,
+      "color_g2": 192,
+      "color_g3": 90,
       "color_r": 224,
+      "color_r2": 60,
+      "color_r3": 106,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -233420,15 +233749,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E0559AFF",
+    "color": "#E0559A",
     "color_info": {
       "colors": [
-        "#E0559AFF"
+        "#E0559A",
+        "#3CC0B0",
+        "#6A5ACD"
       ],
-      "type": "mono"
+      "type": "multi"
     },
     "id": 1493994915,
-    "img_src": "https://cdn.tigertag.io/img?id=1493994915&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1493994915&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -244385,8 +244716,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 26,
       "color_g": 48,
+      "color_g2": 26,
       "color_r": 224,
+      "color_r2": 26,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -244404,15 +244738,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#1A1A1A"
       ],
       "type": "multi"
     },
     "id": 1561096656,
-    "img_src": "https://cdn.tigertag.io/img?id=1561096656&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1561096656&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -252317,8 +252652,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 197,
+      "color_b3": 160,
       "color_g": 26,
+      "color_g2": 87,
+      "color_g3": 63,
       "color_r": 26,
+      "color_r2": 36,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -252336,15 +252677,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#2457C5",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 1612412076,
-    "img_src": "https://cdn.tigertag.io/img?id=1612412076&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1612412076&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -254658,8 +255001,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 160,
       "color_g": 162,
+      "color_g2": 63,
       "color_r": 201,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -254677,15 +255023,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#7B3FA0"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 1628964246,
-    "img_src": "https://cdn.tigertag.io/img?id=1628964246&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1628964246&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -254904,8 +255251,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 160,
       "color_g": 87,
+      "color_g2": 63,
       "color_r": 36,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -254923,15 +255273,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 1630786912,
-    "img_src": "https://cdn.tigertag.io/img?id=1630786912&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1630786912&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -256675,8 +257026,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
       "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
       "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -256694,15 +257051,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 1643649542,
-    "img_src": "https://cdn.tigertag.io/img?id=1643649542&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1643649542&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -273025,9 +273384,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 138,
+      "color_g": 224,
+      "color_r": 95,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -273045,15 +273404,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#5FE08A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#5FE08A"
       ],
       "type": "mono"
     },
     "id": 1756762407,
-    "img_src": "https://cdn.tigertag.io/img?id=1756762407&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1756762407&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -274095,8 +274454,8 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 66,
-      "color_g": 197,
+      "color_b": 58,
+      "color_g": 211,
       "color_r": 245,
       "data1": 56,
       "data2": 190,
@@ -274115,15 +274474,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F5C542FF",
+    "color": "#F5D33A",
     "color_info": {
       "colors": [
-        "#F5C542FF"
+        "#F5D33A"
       ],
       "type": "mono"
     },
     "id": 1766501579,
-    "img_src": "https://cdn.tigertag.io/img?id=1766501579&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1766501579&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -281803,8 +282162,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 170,
+      "color_b2": 197,
       "color_g": 110,
+      "color_g2": 87,
       "color_r": 240,
+      "color_r2": 36,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -281822,15 +282184,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F06EAAFF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#F06EAAFF"
+        "#F06EAA",
+        "#2457C5"
       ],
       "type": "multi"
     },
     "id": 1822947315,
-    "img_src": "https://cdn.tigertag.io/img?id=1822947315&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1822947315&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -287113,8 +287476,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 60,
+      "color_b3": 197,
       "color_g": 48,
+      "color_g2": 160,
+      "color_g3": 87,
       "color_r": 224,
+      "color_r2": 60,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -287132,15 +287501,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "multi"
     },
     "id": 1855899939,
-    "img_src": "https://cdn.tigertag.io/img?id=1855899939&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1855899939&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -288854,9 +289225,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 232,
+      "color_g": 160,
+      "color_r": 58,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -288874,15 +289245,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#3AA0E8",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#3AA0E8"
       ],
       "type": "mono"
     },
     "id": 1866977764,
-    "img_src": "https://cdn.tigertag.io/img?id=1866977764&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1866977764&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -288977,9 +289348,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -288997,15 +289374,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 1867759492,
-    "img_src": "https://cdn.tigertag.io/img?id=1867759492&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1867759492&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -291700,9 +292080,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 58,
+      "color_g": 170,
+      "color_r": 154,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -291720,15 +292100,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#9AAA3A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#9AAA3A"
       ],
       "type": "mono"
     },
     "id": 1883946967,
-    "img_src": "https://cdn.tigertag.io/img?id=1883946967&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1883946967&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -295759,9 +296139,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 42,
-      "color_g": 128,
-      "color_r": 232,
+      "color_b": 58,
+      "color_g": 154,
+      "color_r": 245,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -295779,15 +296159,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E8802AFF",
+    "color": "#F59A3A",
     "color_info": {
       "colors": [
-        "#E8802AFF"
+        "#F59A3A"
       ],
       "type": "mono"
     },
     "id": 1911809294,
-    "img_src": "https://cdn.tigertag.io/img?id=1911809294&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1911809294&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -298186,9 +298566,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 143,
+      "color_g": 111,
+      "color_r": 47,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -298206,15 +298586,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2F6F8F",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2F6F8F"
       ],
       "type": "mono"
     },
     "id": 1926560729,
-    "img_src": "https://cdn.tigertag.io/img?id=1926560729&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1926560729&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -298605,9 +298985,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 43,
+      "color_b2": 39,
+      "color_b3": 162,
+      "color_g": 75,
+      "color_g2": 162,
+      "color_g3": 153,
+      "color_r": 122,
+      "color_r2": 201,
+      "color_r3": 144,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -298625,15 +299011,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#7A4B2B",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#7A4B2B",
+        "#C9A227",
+        "#9099A2"
       ],
       "type": "gradient"
     },
     "id": 1930360420,
-    "img_src": "https://cdn.tigertag.io/img?id=1930360420&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1930360420&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -304637,9 +305025,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 143,
-      "color_g": 158,
-      "color_r": 31,
+      "color_b": 197,
+      "color_b2": 60,
+      "color_b3": 91,
+      "color_g": 87,
+      "color_g2": 160,
+      "color_g3": 107,
+      "color_r": 36,
+      "color_r2": 60,
+      "color_r3": 242,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -304657,15 +305051,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1F9E8FFF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#1F9E8FFF"
+        "#2457C5",
+        "#3CA03C",
+        "#F26B5B"
       ],
       "type": "multi"
     },
     "id": 1970786506,
-    "img_src": "https://cdn.tigertag.io/img?id=1970786506&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1970786506&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -309036,9 +309432,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 99,
+      "color_b2": 200,
+      "color_b3": 232,
+      "color_g": 230,
+      "color_g2": 224,
+      "color_g3": 208,
+      "color_r": 245,
+      "color_r2": 168,
+      "color_r3": 138,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -309056,15 +309458,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F5E663",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F5E663",
+        "#A8E0C8",
+        "#8AD0E8",
+        "#F5A8C8"
       ],
       "type": "gradient"
     },
     "id": 1998992054,
-    "img_src": "https://cdn.tigertag.io/img?id=1998992054&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1998992054&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -309078,8 +309483,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 170,
       "color_g": 26,
+      "color_g2": 110,
       "color_r": 26,
+      "color_r2": 240,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -309097,15 +309505,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#F06EAA"
       ],
       "type": "multi"
     },
     "id": 1999685022,
-    "img_src": "https://cdn.tigertag.io/img?id=1999685022&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=1999685022&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -310735,8 +311144,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 160,
+      "color_b3": 138,
       "color_g": 87,
+      "color_g2": 63,
+      "color_g3": 66,
       "color_r": 36,
+      "color_r2": 123,
+      "color_r3": 214,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -310754,15 +311169,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#7B3FA0",
+        "#D6428A"
       ],
       "type": "multi"
     },
     "id": 2010085040,
-    "img_src": "https://cdn.tigertag.io/img?id=2010085040&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2010085040&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -311022,8 +311439,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 138,
+      "color_b3": 197,
       "color_g": 162,
+      "color_g2": 66,
+      "color_g3": 87,
       "color_r": 201,
+      "color_r2": 214,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -311041,15 +311464,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#D6428A",
+        "#2457C5"
       ],
       "type": "multi"
     },
     "id": 2011801221,
-    "img_src": "https://cdn.tigertag.io/img?id=2011801221&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2011801221&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -312948,9 +313373,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 232,
-      "color_g": 183,
-      "color_r": 111,
+      "color_b": 176,
+      "color_g": 143,
+      "color_r": 47,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -312968,15 +313393,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#6FB7E8FF",
+    "color": "#2F8FB0",
     "color_info": {
       "colors": [
-        "#6FB7E8FF"
+        "#2F8FB0"
       ],
       "type": "mono"
     },
     "id": 2021041151,
-    "img_src": "https://cdn.tigertag.io/img?id=2021041151&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2021041151&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -314670,9 +315095,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 160,
+      "color_b2": 170,
+      "color_b3": 42,
+      "color_g": 63,
+      "color_g2": 110,
+      "color_g3": 128,
+      "color_r": 123,
+      "color_r2": 240,
+      "color_r3": 232,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -314690,15 +315121,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#7B3FA0",
+        "#F06EAA",
+        "#E8802A",
+        "#3CA03C"
       ],
       "type": "gradient"
     },
     "id": 2030904394,
-    "img_src": "https://cdn.tigertag.io/img?id=2030904394&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2030904394&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -316816,8 +317250,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 202,
       "color_g": 87,
+      "color_g2": 201,
       "color_r": 36,
+      "color_r2": 199,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -316835,15 +317272,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#C7C9CA"
       ],
       "type": "multi"
     },
     "id": 2046189579,
-    "img_src": "https://cdn.tigertag.io/img?id=2046189579&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2046189579&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -319333,9 +319771,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 220,
       "data3": 270,
@@ -319353,15 +319797,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 2058183132,
-    "img_src": "https://cdn.tigertag.io/img?id=2058183132&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2058183132&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -320412,8 +320859,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 60,
+      "color_b2": 160,
       "color_g": 160,
+      "color_g2": 63,
       "color_r": 60,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -320431,15 +320881,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#3CA03C",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#3CA03C",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 2065289135,
-    "img_src": "https://cdn.tigertag.io/img?id=2065289135&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2065289135&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -321314,8 +321765,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 170,
+      "color_b3": 245,
       "color_g": 87,
+      "color_g2": 110,
+      "color_g3": 245,
       "color_r": 36,
+      "color_r2": 240,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -321333,15 +321790,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#F06EAA",
+        "#F5F5F5"
       ],
       "type": "multi"
     },
     "id": 2070436817,
-    "img_src": "https://cdn.tigertag.io/img?id=2070436817&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2070436817&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -322797,9 +323256,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 90,
+      "color_g": 107,
+      "color_r": 47,
       "data1": 56,
       "data2": 210,
       "data3": 240,
@@ -322817,15 +323276,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#2F6B5A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#2F6B5A"
       ],
       "type": "mono"
     },
     "id": 2079960385,
-    "img_src": "https://cdn.tigertag.io/img?id=2079960385&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2079960385&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -324036,9 +324495,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 197,
+      "color_b2": 66,
+      "color_b3": 160,
+      "color_g": 87,
+      "color_g2": 197,
+      "color_g3": 63,
+      "color_r": 36,
+      "color_r2": 245,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -324056,15 +324521,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#2457C5",
+        "#F5C542",
+        "#7B3FA0"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 2089824784,
-    "img_src": "https://cdn.tigertag.io/img?id=2089824784&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2089824784&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -324415,8 +324882,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 245,
       "color_g": 48,
+      "color_g2": 245,
       "color_r": 224,
+      "color_r2": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -324434,15 +324904,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#F5F5F5"
       ],
       "type": "multi"
     },
     "id": 2092270388,
-    "img_src": "https://cdn.tigertag.io/img?id=2092270388&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2092270388&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -324619,9 +325090,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 66,
-      "color_g": 197,
-      "color_r": 245,
+      "color_b": 42,
+      "color_g": 226,
+      "color_r": 240,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -324639,15 +325110,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F5C542FF",
+    "color": "#F0E22A",
     "color_info": {
       "colors": [
-        "#F5C542FF"
+        "#F0E22A"
       ],
       "type": "mono"
     },
     "id": 2093624683,
-    "img_src": "https://cdn.tigertag.io/img?id=2093624683&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2093624683&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -324865,9 +325336,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 176,
-      "color_g": 192,
-      "color_r": 48,
+      "color_b": 216,
+      "color_g": 197,
+      "color_r": 111,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -324885,15 +325356,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#30C0B0FF",
+    "color": "#6FC5D8",
     "color_info": {
       "colors": [
-        "#30C0B0FF"
+        "#6FC5D8"
       ],
       "type": "mono"
     },
     "id": 2094850879,
-    "img_src": "https://cdn.tigertag.io/img?id=2094850879&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2094850879&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -325443,9 +325914,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 232,
+      "color_g": 160,
+      "color_r": 58,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -325463,15 +325934,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#3AA0E8",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#3AA0E8"
       ],
       "type": "mono"
     },
     "id": 2097984958,
-    "img_src": "https://cdn.tigertag.io/img?id=2097984958&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2097984958&v=6",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -325652,9 +326123,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -325672,15 +326149,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 2099351240,
-    "img_src": "https://cdn.tigertag.io/img?id=2099351240&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2099351240&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -333947,8 +334427,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 48,
+      "color_b3": 66,
       "color_g": 87,
+      "color_g2": 48,
+      "color_g3": 197,
       "color_r": 36,
+      "color_r2": 224,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -333966,15 +334452,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#E03030",
+        "#F5C542"
       ],
       "type": "multi"
     },
     "id": 2150872138,
-    "img_src": "https://cdn.tigertag.io/img?id=2150872138&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2150872138&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -336497,8 +336985,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 66,
+      "color_b2": 60,
+      "color_b3": 48,
       "color_g": 197,
+      "color_g2": 160,
+      "color_g3": 48,
       "color_r": 245,
+      "color_r2": 60,
+      "color_r3": 224,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -336516,15 +337010,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F5C542FF",
+    "color": "#F5C542",
     "color_info": {
       "colors": [
-        "#F5C542FF"
+        "#F5C542",
+        "#3CA03C",
+        "#E03030"
       ],
       "type": "multi"
     },
     "id": 2169654699,
-    "img_src": "https://cdn.tigertag.io/img?id=2169654699&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2169654699&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -337247,9 +337743,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 140,
+      "color_b2": 214,
+      "color_g": 62,
+      "color_g2": 91,
+      "color_r": 232,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -337267,15 +337766,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E83E8C",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E83E8C",
+        "#7B5BD6"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 2174013439,
-    "img_src": "https://cdn.tigertag.io/img?id=2174013439&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2174013439&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -339566,8 +340066,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 60,
       "color_g": 87,
+      "color_g2": 160,
       "color_r": 36,
+      "color_r2": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -339585,15 +340088,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 2188014667,
-    "img_src": "https://cdn.tigertag.io/img?id=2188014667&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2188014667&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -341259,8 +341763,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 66,
+      "color_b2": 48,
       "color_g": 166,
+      "color_g2": 90,
       "color_r": 181,
+      "color_r2": 122,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -341278,15 +341785,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#B5A642FF",
+    "color": "#B5A642",
     "color_info": {
       "colors": [
-        "#B5A642FF"
+        "#B5A642",
+        "#7A5A30"
       ],
-      "type": "mono"
+      "type": "gradient"
     },
     "id": 2198981864,
-    "img_src": "https://cdn.tigertag.io/img?id=2198981864&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2198981864&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -344411,9 +344919,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -344431,15 +344945,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 2215305773,
-    "img_src": "https://cdn.tigertag.io/img?id=2215305773&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2215305773&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -354448,9 +354965,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 143,
-      "color_g": 158,
-      "color_r": 31,
+      "color_b": 197,
+      "color_b2": 60,
+      "color_b3": 122,
+      "color_g": 87,
+      "color_g2": 160,
+      "color_g3": 42,
+      "color_r": 36,
+      "color_r2": 60,
+      "color_r3": 75,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -354468,15 +354991,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1F9E8FFF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#1F9E8FFF"
+        "#2457C5",
+        "#3CA03C",
+        "#4B2A7A"
       ],
       "type": "multi"
     },
     "id": 2281088091,
-    "img_src": "https://cdn.tigertag.io/img?id=2281088091&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2281088091&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -356225,8 +356750,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 138,
+      "color_b3": 26,
       "color_g": 162,
+      "color_g2": 66,
+      "color_g3": 26,
       "color_r": 201,
+      "color_r2": 214,
+      "color_r3": 26,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -356244,15 +356775,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#D6428A",
+        "#1A1A1A"
       ],
       "type": "multi"
     },
     "id": 2291388699,
-    "img_src": "https://cdn.tigertag.io/img?id=2291388699&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2291388699&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -364154,9 +364687,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 42,
-      "color_g": 128,
-      "color_r": 232,
+      "color_b": 30,
+      "color_g": 90,
+      "color_r": 242,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -364174,15 +364707,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E8802AFF",
+    "color": "#F25A1E",
     "color_info": {
       "colors": [
-        "#E8802AFF"
+        "#F25A1E"
       ],
-      "type": "multi"
+      "type": "mono"
     },
     "id": 2344091963,
-    "img_src": "https://cdn.tigertag.io/img?id=2344091963&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2344091963&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -365097,9 +365630,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 184,
+      "color_b2": 216,
+      "color_g": 112,
+      "color_g2": 123,
+      "color_r": 224,
+      "color_r2": 154,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -365117,15 +365653,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E070B8",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E070B8",
+        "#9A7BD8"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 2351279807,
-    "img_src": "https://cdn.tigertag.io/img?id=2351279807&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2351279807&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -366369,8 +366906,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 140,
+      "color_b2": 39,
       "color_g": 180,
+      "color_g2": 162,
       "color_r": 242,
+      "color_r2": 201,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -366388,15 +366928,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F2B48CFF",
+    "color": "#F2B48C",
     "color_info": {
       "colors": [
-        "#F2B48CFF"
+        "#F2B48C",
+        "#C9A227"
       ],
       "type": "multi"
     },
     "id": 2360001266,
-    "img_src": "https://cdn.tigertag.io/img?id=2360001266&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2360001266&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -367729,9 +368270,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 66,
-      "color_g": 197,
-      "color_r": 245,
+      "color_b": 174,
+      "color_g": 213,
+      "color_r": 240,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -367749,15 +368290,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F5C542FF",
+    "color": "#F0D5AE",
     "color_info": {
       "colors": [
-        "#F5C542FF"
+        "#F0D5AE"
       ],
       "type": "mono"
     },
     "id": 2373301260,
-    "img_src": "https://cdn.tigertag.io/img?id=2373301260&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2373301260&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -370502,8 +371043,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 196,
+      "color_b2": 74,
       "color_g": 182,
+      "color_g2": 232,
       "color_r": 56,
+      "color_r2": 200,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -370521,15 +371065,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#38B6C4FF",
+    "color": "#38B6C4",
     "color_info": {
       "colors": [
-        "#38B6C4FF"
+        "#38B6C4",
+        "#C8E84A"
       ],
       "type": "multi"
     },
     "id": 2393611279,
-    "img_src": "https://cdn.tigertag.io/img?id=2393611279&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2393611279&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -372809,9 +373354,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -372829,15 +373380,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 2407598546,
-    "img_src": "https://cdn.tigertag.io/img?id=2407598546&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2407598546&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -373597,9 +374151,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 50,
+      "color_b2": 66,
+      "color_b3": 170,
+      "color_g": 205,
+      "color_g2": 197,
+      "color_g3": 110,
+      "color_r": 154,
+      "color_r2": 245,
+      "color_r3": 240,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -373617,15 +374177,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#9ACD32",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#9ACD32",
+        "#F5C542",
+        "#F06EAA"
       ],
       "type": "gradient"
     },
     "id": 2413049501,
-    "img_src": "https://cdn.tigertag.io/img?id=2413049501&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2413049501&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -377087,8 +377649,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 197,
       "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 87,
       "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -377106,15 +377674,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#F5C542",
+        "#2457C5"
       ],
       "type": "multi"
     },
     "id": 2435785753,
-    "img_src": "https://cdn.tigertag.io/img?id=2435785753&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2435785753&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -378152,9 +378722,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 201,
+      "color_g": 185,
+      "color_r": 174,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -378172,15 +378742,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#AEB9C9",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#AEB9C9"
       ],
       "type": "mono"
     },
     "id": 2442387630,
-    "img_src": "https://cdn.tigertag.io/img?id=2442387630&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2442387630&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -378234,9 +378804,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 170,
+      "color_b2": 66,
+      "color_b3": 232,
+      "color_g": 110,
+      "color_g2": 197,
+      "color_g3": 208,
+      "color_r": 240,
+      "color_r2": 245,
+      "color_r3": 138,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -378254,15 +378830,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F06EAA",
+        "#F5C542",
+        "#8AD0E8",
+        "#B58FD8"
       ],
       "type": "gradient"
     },
     "id": 2443337671,
-    "img_src": "https://cdn.tigertag.io/img?id=2443337671&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2443337671&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -381904,9 +382483,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 46,
+      "color_g": 107,
+      "color_r": 79,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -381924,15 +382503,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#4F6B2E",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#4F6B2E"
       ],
       "type": "mono"
     },
     "id": 2468110163,
-    "img_src": "https://cdn.tigertag.io/img?id=2468110163&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2468110163&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -390658,9 +391237,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 132,
-      "color_g": 123,
-      "color_r": 201,
+      "color_b": 42,
+      "color_g": 42,
+      "color_r": 90,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -390678,15 +391257,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C97B84FF",
+    "color": "#5A2A2A",
     "color_info": {
       "colors": [
-        "#C97B84FF"
+        "#5A2A2A"
       ],
       "type": "mono"
     },
     "id": 2532465882,
-    "img_src": "https://cdn.tigertag.io/img?id=2532465882&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2532465882&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -392720,9 +393299,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 160,
+      "color_b2": 197,
+      "color_g": 63,
+      "color_g2": 87,
+      "color_r": 123,
+      "color_r2": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -392740,15 +393322,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#7B3FA0",
+        "#2457C5"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 2543243818,
-    "img_src": "https://cdn.tigertag.io/img?id=2543243818&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2543243818&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -394078,8 +394661,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 245,
       "color_g": 87,
+      "color_g2": 245,
       "color_r": 36,
+      "color_r2": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -394097,15 +394683,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#F5F5F5"
       ],
       "type": "gradient"
     },
     "id": 2552450098,
-    "img_src": "https://cdn.tigertag.io/img?id=2552450098&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2552450098&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -394336,9 +394923,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 202,
-      "color_g": 201,
-      "color_r": 199,
+      "color_b": 186,
+      "color_g": 180,
+      "color_r": 176,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -394356,15 +394943,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C7C9CAFF",
+    "color": "#B0B4BA",
     "color_info": {
       "colors": [
-        "#C7C9CAFF"
+        "#B0B4BA"
       ],
-      "type": "multi"
+      "type": "mono"
     },
     "id": 2553835498,
-    "img_src": "https://cdn.tigertag.io/img?id=2553835498&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2553835498&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -404679,9 +405266,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 36,
-      "color_g": 46,
-      "color_r": 122,
+      "color_b": 46,
+      "color_g": 58,
+      "color_r": 138,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -404699,15 +405286,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#7A2E24FF",
+    "color": "#8A3A2E",
     "color_info": {
       "colors": [
-        "#7A2E24FF"
+        "#8A3A2E"
       ],
       "type": "mono"
     },
     "id": 2618391814,
-    "img_src": "https://cdn.tigertag.io/img?id=2618391814&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2618391814&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -406541,8 +407128,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 60,
       "color_g": 48,
+      "color_g2": 160,
       "color_r": 224,
+      "color_r2": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -406560,15 +407150,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 2630376034,
-    "img_src": "https://cdn.tigertag.io/img?id=2630376034&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2630376034&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -407033,8 +407624,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 138,
       "color_g": 162,
+      "color_g2": 66,
       "color_r": 201,
+      "color_r2": 214,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -407052,15 +407646,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#D6428A"
       ],
       "type": "multi"
     },
     "id": 2632615637,
-    "img_src": "https://cdn.tigertag.io/img?id=2632615637&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2632615637&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -408057,9 +408652,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 90,
+      "color_g": 46,
+      "color_r": 31,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -408077,15 +408672,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#1F2E5A",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#1F2E5A"
       ],
       "type": "mono"
     },
     "id": 2638866768,
-    "img_src": "https://cdn.tigertag.io/img?id=2638866768&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2638866768&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -409882,8 +410477,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 160,
+      "color_b3": 48,
       "color_g": 162,
+      "color_g2": 63,
+      "color_g3": 48,
       "color_r": 201,
+      "color_r2": 123,
+      "color_r3": 224,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -409901,15 +410502,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#7B3FA0",
+        "#E03030"
       ],
       "type": "multi"
     },
     "id": 2650261884,
-    "img_src": "https://cdn.tigertag.io/img?id=2650261884&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2650261884&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -410251,8 +410854,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 48,
+      "color_b3": 66,
       "color_g": 26,
+      "color_g2": 48,
+      "color_g3": 197,
       "color_r": 26,
+      "color_r2": 224,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -410270,15 +410879,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#E03030",
+        "#F5C542"
       ],
       "type": "multi"
     },
     "id": 2652945777,
-    "img_src": "https://cdn.tigertag.io/img?id=2652945777&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2652945777&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -412320,9 +412931,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -412340,15 +412957,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 2664423438,
-    "img_src": "https://cdn.tigertag.io/img?id=2664423438&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2664423438&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -416686,9 +417306,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 39,
-      "color_g": 162,
-      "color_r": 201,
+      "color_b": 58,
+      "color_g": 104,
+      "color_r": 168,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -416706,15 +417326,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#A8683A",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#A8683A"
       ],
       "type": "mono"
     },
     "id": 2686115720,
-    "img_src": "https://cdn.tigertag.io/img?id=2686115720&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2686115720&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -422048,9 +422668,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 58,
+      "color_g": 143,
+      "color_r": 107,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -422068,15 +422688,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#6B8F3A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#6B8F3A"
       ],
       "type": "mono"
     },
     "id": 2716273251,
-    "img_src": "https://cdn.tigertag.io/img?id=2716273251&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2716273251&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -422377,8 +422997,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 60,
       "color_g": 87,
+      "color_g2": 160,
       "color_r": 36,
+      "color_r2": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -422396,15 +423019,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 2718730965,
-    "img_src": "https://cdn.tigertag.io/img?id=2718730965&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2718730965&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -423197,8 +423821,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 48,
       "color_g": 162,
+      "color_g2": 48,
       "color_r": 201,
+      "color_r2": 224,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -423216,15 +423843,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#E03030"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 2724199557,
-    "img_src": "https://cdn.tigertag.io/img?id=2724199557&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=2724199557&v=3",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -431872,8 +432500,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 60,
       "color_g": 26,
+      "color_g2": 160,
       "color_r": 26,
+      "color_r2": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -431891,15 +432522,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 2781094694,
-    "img_src": "https://cdn.tigertag.io/img?id=2781094694&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2781094694&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -431954,8 +432586,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 160,
       "color_g": 26,
+      "color_g2": 63,
       "color_r": 26,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -431973,15 +432608,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#7B3FA0"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 2781477934,
-    "img_src": "https://cdn.tigertag.io/img?id=2781477934&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2781477934&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -433307,8 +433943,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 48,
+      "color_b3": 66,
       "color_g": 26,
+      "color_g2": 48,
+      "color_g3": 197,
       "color_r": 26,
+      "color_r2": 224,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -433326,15 +433968,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#E03030",
+        "#F5C542"
       ],
       "type": "gradient"
     },
     "id": 2790574575,
-    "img_src": "https://cdn.tigertag.io/img?id=2790574575&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2790574575&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -438070,9 +438714,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 42,
-      "color_g": 128,
-      "color_r": 232,
+      "color_b": 58,
+      "color_g": 154,
+      "color_r": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -438090,15 +438734,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E8802AFF",
+    "color": "#F59A3A",
     "color_info": {
       "colors": [
-        "#E8802AFF"
+        "#F59A3A"
       ],
       "type": "mono"
     },
     "id": 2817581596,
-    "img_src": "https://cdn.tigertag.io/img?id=2817581596&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2817581596&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -440670,8 +441314,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 202,
       "color_g": 26,
+      "color_g2": 201,
       "color_r": 26,
+      "color_r2": 199,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -440689,15 +441336,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#C7C9CA"
       ],
       "type": "multi"
     },
     "id": 2835955147,
-    "img_src": "https://cdn.tigertag.io/img?id=2835955147&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2835955147&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -449707,9 +450355,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 160,
+      "color_b2": 66,
+      "color_b3": 232,
+      "color_g": 160,
+      "color_g2": 197,
+      "color_g3": 208,
+      "color_r": 245,
+      "color_r2": 245,
+      "color_r3": 138,
       "data1": 56,
       "data2": 220,
       "data3": 270,
@@ -449727,15 +450381,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F5A0A0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F5A0A0",
+        "#F5C542",
+        "#8AD0E8",
+        "#C8A8E8"
       ],
       "type": "gradient"
     },
     "id": 2895602430,
-    "img_src": "https://cdn.tigertag.io/img?id=2895602430&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2895602430&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -452808,8 +453465,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 66,
+      "color_b3": 60,
       "color_g": 26,
+      "color_g2": 197,
+      "color_g3": 160,
       "color_r": 26,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -452827,15 +453490,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#F5C542",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 2915184746,
-    "img_src": "https://cdn.tigertag.io/img?id=2915184746&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2915184746&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -455325,9 +455990,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 224,
+      "color_b2": 160,
+      "color_b3": 138,
+      "color_g": 208,
+      "color_g2": 63,
+      "color_g3": 66,
+      "color_r": 48,
+      "color_r2": 123,
+      "color_r3": 214,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -455345,15 +456016,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#30D0E0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#30D0E0",
+        "#7B3FA0",
+        "#D6428A"
       ],
       "type": "gradient"
     },
     "id": 2933373343,
-    "img_src": "https://cdn.tigertag.io/img?id=2933373343&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=2933373343&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -468771,9 +469444,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_g": 48,
-      "color_r": 224,
+      "color_b": 46,
+      "color_g": 58,
+      "color_r": 176,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -468791,15 +469464,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#B03A2E",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#B03A2E"
       ],
       "type": "mono"
     },
     "id": 3024607709,
-    "img_src": "https://cdn.tigertag.io/img?id=3024607709&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3024607709&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -473264,9 +473937,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_g": 48,
-      "color_r": 224,
+      "color_b": 90,
+      "color_g": 100,
+      "color_r": 181,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -473284,15 +473957,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#B5645A",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#B5645A"
       ],
       "type": "mono"
     },
     "id": 3051442953,
-    "img_src": "https://cdn.tigertag.io/img?id=3051442953&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3051442953&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -474133,9 +474806,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 138,
+      "color_g": 224,
+      "color_r": 95,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -474153,15 +474826,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#5FE08A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#5FE08A"
       ],
       "type": "mono"
     },
     "id": 3056131872,
-    "img_src": "https://cdn.tigertag.io/img?id=3056131872&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3056131872&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -474421,8 +475094,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 197,
       "color_g": 48,
+      "color_g2": 87,
       "color_r": 224,
+      "color_r2": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -474440,15 +475116,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#2457C5"
       ],
       "type": "multi"
     },
     "id": 3057385058,
-    "img_src": "https://cdn.tigertag.io/img?id=3057385058&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3057385058&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -476680,8 +477357,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 39,
       "color_g": 48,
+      "color_g2": 162,
       "color_r": 224,
+      "color_r2": 201,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -476699,15 +477379,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#C9A227"
       ],
       "type": "multi"
     },
     "id": 3069833041,
-    "img_src": "https://cdn.tigertag.io/img?id=3069833041&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3069833041&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -481593,8 +482274,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 39,
+      "color_b3": 160,
       "color_g": 48,
+      "color_g2": 162,
+      "color_g3": 63,
       "color_r": 224,
+      "color_r2": 201,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -481612,15 +482299,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#C9A227",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 3097822406,
-    "img_src": "https://cdn.tigertag.io/img?id=3097822406&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3097822406&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -484635,8 +485324,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 170,
+      "color_b2": 196,
+      "color_b3": 50,
       "color_g": 110,
+      "color_g2": 182,
+      "color_g3": 205,
       "color_r": 240,
+      "color_r2": 56,
+      "color_r3": 154,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -484654,15 +485349,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F06EAAFF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#F06EAAFF"
+        "#F06EAA",
+        "#38B6C4",
+        "#9ACD32"
       ],
       "type": "multi"
     },
     "id": 3117686678,
-    "img_src": "https://cdn.tigertag.io/img?id=3117686678&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3117686678&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -491393,8 +492090,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 202,
+      "color_b2": 197,
       "color_g": 201,
+      "color_g2": 87,
       "color_r": 199,
+      "color_r2": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -491412,15 +492112,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C7C9CAFF",
+    "color": "#C7C9CA",
     "color_info": {
       "colors": [
-        "#C7C9CAFF"
+        "#C7C9CA",
+        "#2457C5"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 3166494904,
-    "img_src": "https://cdn.tigertag.io/img?id=3166494904&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3166494904&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -492966,9 +493667,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 197,
+      "color_b2": 60,
+      "color_b3": 160,
+      "color_g": 87,
+      "color_g2": 160,
+      "color_g3": 63,
+      "color_r": 36,
+      "color_r2": 60,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -492986,15 +493693,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#2457C5",
+        "#3CA03C",
+        "#7B3FA0"
       ],
       "type": "gradient"
     },
     "id": 3174891591,
-    "img_src": "https://cdn.tigertag.io/img?id=3174891591&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3174891591&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -493664,8 +494373,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 42,
       "color_g": 26,
+      "color_g2": 128,
       "color_r": 26,
+      "color_r2": 232,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -493683,15 +494395,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#E8802A"
       ],
       "type": "multi"
     },
     "id": 3179411210,
-    "img_src": "https://cdn.tigertag.io/img?id=3179411210&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3179411210&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -493828,8 +494541,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 39,
+      "color_b2": 138,
+      "color_b3": 60,
       "color_g": 162,
+      "color_g2": 66,
+      "color_g3": 160,
       "color_r": 201,
+      "color_r2": 214,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -493847,15 +494566,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C9A227FF",
+    "color": "#C9A227",
     "color_info": {
       "colors": [
-        "#C9A227FF"
+        "#C9A227",
+        "#D6428A",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 3180278749,
-    "img_src": "https://cdn.tigertag.io/img?id=3180278749&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3180278749&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -503453,9 +504174,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 42,
+      "color_g": 181,
+      "color_r": 141,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -503473,15 +504194,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#8DB52A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#8DB52A"
       ],
       "type": "mono"
     },
     "id": 3245387008,
-    "img_src": "https://cdn.tigertag.io/img?id=3245387008&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3245387008&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -506527,9 +507248,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 43,
-      "color_g": 75,
-      "color_r": 122,
+      "color_b": 38,
+      "color_g": 62,
+      "color_r": 107,
       "data1": 56,
       "data2": 210,
       "data3": 240,
@@ -506547,15 +507268,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#7A4B2BFF",
+    "color": "#6B3E26",
     "color_info": {
       "colors": [
-        "#7A4B2BFF"
+        "#6B3E26"
       ],
       "type": "mono"
     },
     "id": 3265629882,
-    "img_src": "https://cdn.tigertag.io/img?id=3265629882&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3265629882&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -507717,8 +508438,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 170,
+      "color_b2": 245,
       "color_g": 110,
+      "color_g2": 245,
       "color_r": 240,
+      "color_r2": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -507736,15 +508460,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#F06EAAFF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#F06EAAFF"
+        "#F06EAA",
+        "#F5F5F5"
       ],
       "type": "multi"
     },
     "id": 3272020961,
-    "img_src": "https://cdn.tigertag.io/img?id=3272020961&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3272020961&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -509775,8 +510500,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 43,
+      "color_b2": 245,
       "color_g": 75,
+      "color_g2": 245,
       "color_r": 122,
+      "color_r2": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -509794,15 +510522,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#7A4B2BFF",
+    "color": "#7A4B2B",
     "color_info": {
       "colors": [
-        "#7A4B2BFF"
+        "#7A4B2B",
+        "#F5F5F5"
       ],
       "type": "multi"
     },
     "id": 3285104215,
-    "img_src": "https://cdn.tigertag.io/img?id=3285104215&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3285104215&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -513199,8 +513928,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 197,
+      "color_b3": 245,
       "color_g": 48,
+      "color_g2": 87,
+      "color_g3": 245,
       "color_r": 224,
+      "color_r2": 36,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -513218,15 +513953,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#2457C5",
+        "#F5F5F5"
       ],
       "type": "multi"
     },
     "id": 3303970391,
-    "img_src": "https://cdn.tigertag.io/img?id=3303970391&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3303970391&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -514190,9 +514927,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 154,
+      "color_g": 181,
+      "color_r": 183,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -514210,15 +514947,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#B7B59A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#B7B59A"
       ],
       "type": "mono"
     },
     "id": 3308288880,
-    "img_src": "https://cdn.tigertag.io/img?id=3308288880&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3308288880&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -514645,8 +515382,8 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 42,
-      "color_g": 128,
+      "color_b": 30,
+      "color_g": 116,
       "color_r": 232,
       "data1": 56,
       "data2": 210,
@@ -514665,15 +515402,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E8802AFF",
+    "color": "#E8741E",
     "color_info": {
       "colors": [
-        "#E8802AFF"
+        "#E8741E"
       ],
       "type": "mono"
     },
     "id": 3311565157,
-    "img_src": "https://cdn.tigertag.io/img?id=3311565157&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3311565157&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -514777,9 +515514,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -514797,15 +515540,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 3312451771,
-    "img_src": "https://cdn.tigertag.io/img?id=3312451771&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3312451771&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -521723,9 +522469,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 128,
-      "color_g": 143,
-      "color_r": 154,
+      "color_b": 74,
+      "color_g": 162,
+      "color_r": 201,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -521743,15 +522489,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#9A8F80FF",
+    "color": "#C9A24A",
     "color_info": {
       "colors": [
-        "#9A8F80FF"
+        "#C9A24A"
       ],
       "type": "mono"
     },
     "id": 3366310014,
-    "img_src": "https://cdn.tigertag.io/img?id=3366310014&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3366310014&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -522351,8 +523097,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 39,
       "color_g": 26,
+      "color_g2": 162,
       "color_r": 26,
+      "color_r2": 201,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -522370,15 +523119,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#C9A227"
       ],
       "type": "multi"
     },
     "id": 3369785167,
-    "img_src": "https://cdn.tigertag.io/img?id=3369785167&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3369785167&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -523830,9 +524580,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 42,
+      "color_b2": 66,
+      "color_b3": 197,
+      "color_g": 128,
+      "color_g2": 197,
+      "color_g3": 87,
+      "color_r": 232,
+      "color_r2": 245,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -523850,15 +524606,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E8802A",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E8802A",
+        "#F5C542",
+        "#2457C5",
+        "#F06EAA"
       ],
       "type": "gradient"
     },
     "id": 3378533908,
-    "img_src": "https://cdn.tigertag.io/img?id=3378533908&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3378533908&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -529410,9 +530169,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -529430,15 +530195,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 3412725508,
-    "img_src": "https://cdn.tigertag.io/img?id=3412725508&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3412725508&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -537312,8 +538080,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 245,
       "color_g": 87,
+      "color_g2": 245,
       "color_r": 36,
+      "color_r2": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -537331,15 +538102,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#F5F5F5"
       ],
       "type": "multi"
     },
     "id": 3462857189,
-    "img_src": "https://cdn.tigertag.io/img?id=3462857189&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3462857189&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -542231,9 +543003,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 60,
+      "color_b3": 39,
+      "color_g": 48,
+      "color_g2": 160,
+      "color_g3": 162,
+      "color_r": 224,
+      "color_r2": 60,
+      "color_r3": 201,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -542251,15 +543029,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#3CA03C",
+        "#C9A227"
       ],
       "type": "gradient"
     },
     "id": 3492303530,
-    "img_src": "https://cdn.tigertag.io/img?id=3492303530&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3492303530&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -547827,9 +548607,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 69,
-      "color_g": 107,
-      "color_r": 139,
+      "color_b": 78,
+      "color_g": 114,
+      "color_r": 176,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -547847,15 +548627,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#8B6B45FF",
+    "color": "#B0724E",
     "color_info": {
       "colors": [
-        "#8B6B45FF"
+        "#B0724E"
       ],
       "type": "mono"
     },
     "id": 3527502707,
-    "img_src": "https://cdn.tigertag.io/img?id=3527502707&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3527502707&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -549887,8 +550667,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 197,
       "color_g": 26,
+      "color_g2": 87,
       "color_r": 26,
+      "color_r2": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -549906,15 +550689,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#2457C5"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 3539102976,
-    "img_src": "https://cdn.tigertag.io/img?id=3539102976&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3539102976&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -554371,9 +555155,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 60,
+      "color_b3": 160,
+      "color_g": 48,
+      "color_g2": 160,
+      "color_g3": 63,
+      "color_r": 224,
+      "color_r2": 60,
+      "color_r3": 123,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -554391,15 +555181,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#3CA03C",
+        "#7B3FA0",
+        "#E8802A"
       ],
       "type": "gradient"
     },
     "id": 3568918473,
-    "img_src": "https://cdn.tigertag.io/img?id=3568918473&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3568918473&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -558454,9 +559247,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
-      "color_r": 60,
+      "color_b": 138,
+      "color_g": 224,
+      "color_r": 95,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -558474,15 +559267,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#5FE08A",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#5FE08A"
       ],
       "type": "mono"
     },
     "id": 3602376260,
-    "img_src": "https://cdn.tigertag.io/img?id=3602376260&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3602376260&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -562862,8 +563655,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 60,
+      "color_b2": 66,
       "color_g": 160,
+      "color_g2": 197,
       "color_r": 60,
+      "color_r2": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -562881,15 +563677,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#3CA03C",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#3CA03C",
+        "#F5C542"
       ],
       "type": "gradient"
     },
     "id": 3627362341,
-    "img_src": "https://cdn.tigertag.io/img?id=3627362341&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3627362341&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -566485,8 +567282,8 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 60,
-      "color_g": 160,
+      "color_b": 112,
+      "color_g": 192,
       "color_r": 60,
       "data1": 56,
       "data2": 190,
@@ -566505,15 +567302,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#3CA03CFF",
+    "color": "#3CC070",
     "color_info": {
       "colors": [
-        "#3CA03CFF"
+        "#3CC070"
       ],
       "type": "mono"
     },
     "id": 3648904661,
-    "img_src": "https://cdn.tigertag.io/img?id=3648904661&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3648904661&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -567695,9 +568492,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 170,
+      "color_b2": 197,
+      "color_b3": 60,
+      "color_g": 110,
+      "color_g2": 87,
+      "color_g3": 160,
+      "color_r": 240,
+      "color_r2": 36,
+      "color_r3": 60,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -567715,15 +568518,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F06EAA",
+        "#2457C5",
+        "#3CA03C",
+        "#E8802A"
       ],
       "type": "gradient"
     },
     "id": 3656944785,
-    "img_src": "https://cdn.tigertag.io/img?id=3656944785&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3656944785&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -575772,8 +576578,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 170,
       "color_g": 87,
+      "color_g2": 110,
       "color_r": 36,
+      "color_r2": 240,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -575791,15 +576600,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#F06EAA"
       ],
       "type": "multi"
     },
     "id": 3721557189,
-    "img_src": "https://cdn.tigertag.io/img?id=3721557189&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3721557189&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -577990,8 +578800,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 48,
       "color_g": 26,
+      "color_g2": 48,
       "color_r": 26,
+      "color_r2": 224,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -578009,15 +578822,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#E03030"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 3736174644,
-    "img_src": "https://cdn.tigertag.io/img?id=3736174644&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3736174644&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -578900,8 +579714,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 66,
+      "color_b3": 48,
       "color_g": 87,
+      "color_g2": 197,
+      "color_g3": 48,
       "color_r": 36,
+      "color_r2": 245,
+      "color_r3": 224,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -578919,15 +579739,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#F5C542",
+        "#E03030"
       ],
       "type": "multi"
     },
     "id": 3741446787,
-    "img_src": "https://cdn.tigertag.io/img?id=3741446787&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3741446787&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -582331,9 +583153,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 240,
+      "color_g": 227,
+      "color_r": 155,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -582351,15 +583173,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#9BE3F0",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#9BE3F0"
       ],
       "type": "mono"
     },
     "id": 3758887628,
-    "img_src": "https://cdn.tigertag.io/img?id=3758887628&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3758887628&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -586374,8 +587196,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 107,
+      "color_b2": 48,
+      "color_b3": 197,
       "color_g": 59,
+      "color_g2": 48,
+      "color_g3": 87,
       "color_r": 75,
+      "color_r2": 224,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -586393,15 +587221,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#4B3B6BFF",
+    "color": "#4B3B6B",
     "color_info": {
       "colors": [
-        "#4B3B6BFF"
+        "#4B3B6B",
+        "#E03030",
+        "#2457C5"
       ],
-      "type": "mono"
+      "type": "multi"
     },
     "id": 3789566862,
-    "img_src": "https://cdn.tigertag.io/img?id=3789566862&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3789566862&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -594597,9 +595427,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 66,
+      "color_b2": 170,
+      "color_b3": 197,
+      "color_g": 197,
+      "color_g2": 110,
+      "color_g3": 87,
+      "color_r": 245,
+      "color_r2": 240,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -594617,15 +595453,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#F5C542",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#F5C542",
+        "#F06EAA",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 3848492614,
-    "img_src": "https://cdn.tigertag.io/img?id=3848492614&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3848492614&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -597770,9 +598608,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 232,
+      "color_g": 160,
+      "color_r": 58,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -597790,15 +598628,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#3AA0E8",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#3AA0E8"
       ],
       "type": "mono"
     },
     "id": 3874284029,
-    "img_src": "https://cdn.tigertag.io/img?id=3874284029&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3874284029&v=4",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -599209,9 +600047,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 197,
-      "color_g": 87,
-      "color_r": 36,
+      "color_b": 232,
+      "color_g": 160,
+      "color_r": 58,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -599229,15 +600067,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#3AA0E8",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#3AA0E8"
       ],
       "type": "mono"
     },
     "id": 3883177852,
-    "img_src": "https://cdn.tigertag.io/img?id=3883177852&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3883177852&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -600480,9 +601318,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 197,
+      "color_b2": 60,
+      "color_b3": 42,
+      "color_g": 87,
+      "color_g2": 160,
+      "color_g3": 128,
+      "color_r": 36,
+      "color_r2": 60,
+      "color_r3": 232,
       "data1": 56,
       "data2": 200,
       "data3": 250,
@@ -600500,15 +601344,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#2457C5",
+        "#3CA03C",
+        "#E8802A"
       ],
       "type": "gradient"
     },
     "id": 3893357848,
-    "img_src": "https://cdn.tigertag.io/img?id=3893357848&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3893357848&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -603034,9 +603880,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 48,
+      "color_b2": 66,
+      "color_b3": 60,
+      "color_g": 48,
+      "color_g2": 197,
+      "color_g3": 160,
+      "color_r": 224,
+      "color_r2": 245,
+      "color_r3": 60,
       "data1": 56,
       "data2": 220,
       "data3": 270,
@@ -603054,15 +603906,18 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#E03030",
+        "#F5C542",
+        "#3CA03C",
+        "#2457C5"
       ],
       "type": "gradient"
     },
     "id": 3908193557,
-    "img_src": "https://cdn.tigertag.io/img?id=3908193557&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3908193557&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -606328,8 +607183,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 0,
       "color_g": 87,
+      "color_g2": 213,
       "color_r": 36,
+      "color_r2": 255,
       "data1": 56,
       "data2": 210,
       "data3": 240,
@@ -606347,15 +607205,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#FFD500"
       ],
       "type": "multi"
     },
     "id": 3927165968,
-    "img_src": "https://cdn.tigertag.io/img?id=3927165968&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3927165968&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -611153,8 +612012,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 176,
+      "color_b2": 91,
+      "color_b3": 39,
       "color_g": 192,
+      "color_g2": 107,
+      "color_g3": 162,
       "color_r": 48,
+      "color_r2": 242,
+      "color_r3": 201,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -611172,15 +612037,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#30C0B0FF",
+    "color": "#30C0B0",
     "color_info": {
       "colors": [
-        "#30C0B0FF"
+        "#30C0B0",
+        "#F26B5B",
+        "#C9A227"
       ],
       "type": "multi"
     },
     "id": 3958916173,
-    "img_src": "https://cdn.tigertag.io/img?id=3958916173&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=3958916173&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -619112,8 +619979,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 138,
       "color_g": 26,
+      "color_g2": 66,
       "color_r": 26,
+      "color_r2": 214,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -619131,15 +620001,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#D6428A"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 4010462929,
-    "img_src": "https://cdn.tigertag.io/img?id=4010462929&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4010462929&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -636493,9 +637364,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 53,
-      "color_g": 57,
-      "color_r": 229,
+      "color_b": 176,
+      "color_b2": 176,
+      "color_b3": 138,
+      "color_g": 79,
+      "color_g2": 160,
+      "color_g3": 80,
+      "color_r": 106,
+      "color_r2": 47,
+      "color_r3": 208,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -636513,15 +637390,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E53935FF",
+    "color": "#6A4FB0",
     "color_info": {
       "colors": [
-        "#E53935FF"
+        "#6A4FB0",
+        "#2FA0B0",
+        "#D0508A"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 4114797018,
-    "img_src": "https://cdn.tigertag.io/img?id=4114797018&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4114797018&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -640495,9 +641374,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 143,
-      "color_g": 168,
-      "color_r": 184,
+      "color_b": 120,
+      "color_b2": 160,
+      "color_g": 138,
+      "color_g2": 187,
+      "color_r": 154,
+      "color_r2": 201,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -640515,15 +641397,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#B8A88FFF",
+    "color": "#9A8A78",
     "color_info": {
       "colors": [
-        "#B8A88FFF"
+        "#9A8A78",
+        "#C9BBA0"
       ],
-      "type": "mono"
+      "type": "gradient"
     },
     "id": 4143836741,
-    "img_src": "https://cdn.tigertag.io/img?id=4143836741&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4143836741&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -644013,8 +644896,8 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 90,
-      "color_g": 160,
-      "color_r": 194,
+      "color_g": 121,
+      "color_r": 169,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -644032,15 +644915,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#C2A05AFF",
+    "color": "#A9795A",
     "color_info": {
       "colors": [
-        "#C2A05AFF"
+        "#A9795A"
       ],
       "type": "mono"
     },
     "id": 4171096836,
-    "img_src": "https://cdn.tigertag.io/img?id=4171096836&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4171096836&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -651376,8 +652259,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 39,
       "color_g": 26,
+      "color_g2": 162,
       "color_r": 26,
+      "color_r2": 201,
       "data1": 56,
       "data2": 210,
       "data3": 240,
@@ -651395,15 +652281,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#C9A227"
       ],
       "type": "multi"
     },
     "id": 4215728478,
-    "img_src": "https://cdn.tigertag.io/img?id=4215728478&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4215728478&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -653287,8 +654174,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 160,
+      "color_b2": 197,
+      "color_b3": 60,
       "color_g": 63,
+      "color_g2": 87,
+      "color_g3": 160,
       "color_r": 123,
+      "color_r2": 36,
+      "color_r3": 60,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -653306,15 +654199,17 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#7B3FA0FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#7B3FA0FF"
+        "#7B3FA0",
+        "#2457C5",
+        "#3CA03C"
       ],
       "type": "multi"
     },
     "id": 4228953907,
-    "img_src": "https://cdn.tigertag.io/img?id=4228953907&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4228953907&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -657281,8 +658176,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 48,
+      "color_b2": 39,
       "color_g": 48,
+      "color_g2": 162,
       "color_r": 224,
+      "color_r2": 201,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -657300,15 +658198,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#E03030FF",
+    "color": "#E03030",
     "color_info": {
       "colors": [
-        "#E03030FF"
+        "#E03030",
+        "#C9A227"
       ],
       "type": "multi"
     },
     "id": 4251529085,
-    "img_src": "https://cdn.tigertag.io/img?id=4251529085&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4251529085&v=2",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -657814,8 +658713,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 160,
       "color_g": 26,
+      "color_g2": 63,
       "color_r": 26,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -657833,15 +658735,16 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
     "id": 4255412023,
-    "img_src": "https://cdn.tigertag.io/img?id=4255412023&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4255412023&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -662460,8 +663363,8 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 138,
-      "color_g": 66,
-      "color_r": 214,
+      "color_g": 112,
+      "color_r": 176,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -662479,15 +663382,15 @@
     },
     "barcode": null,
     "brand": "AMOLEN",
-    "color": "#D6428AFF",
+    "color": "#B0708A",
     "color_info": {
       "colors": [
-        "#D6428AFF"
+        "#B0708A"
       ],
       "type": "mono"
     },
     "id": 4289440786,
-    "img_src": "https://cdn.tigertag.io/img?id=4289440786&v=1",
+    "img_src": "https://cdn.tigertag.io/img?id=4289440786&v=5",
     "info1": false,
     "info2": false,
     "info3": false,
