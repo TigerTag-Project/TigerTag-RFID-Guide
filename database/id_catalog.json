@@ -2462,6 +2462,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 39,
+      "color_g": 32,
+      "color_r": 212,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#D42027FF",
+    "color_info": {
+      "colors": [
+        "#D42027FF"
+      ],
+      "type": "mono"
+    },
+    "id": 19184287,
+    "img_src": "https://cdn.tigertag.io/img?id=19184287&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_RED",
+    "title": "Silk PLA - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 189,
       "color_b2": 46,
       "color_g": 173,
@@ -6873,6 +6914,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 158,
+      "color_g": 158,
+      "color_r": 158,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#9E9E9EFF",
+    "color_info": {
+      "colors": [
+        "#9E9E9EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 47356027,
+    "img_src": "https://cdn.tigertag.io/img?id=47356027&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLA_1KG_PROTO",
+    "title": "Prototyping PLA - Random Color"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 183,
       "color_g": 127,
       "color_r": 0,
@@ -7242,6 +7324,47 @@
     "product_type": "Filament",
     "sku": "MARSWORK-PLABASIC-SUNFLOWERYELLOW-SPOOL",
     "title": "PLA Basic - Sunflower Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 131,
+      "color_g": 44,
+      "color_r": 91,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#5B2C83FF",
+    "color_info": {
+      "colors": [
+        "#5B2C83FF"
+      ],
+      "type": "mono"
+    },
+    "id": 51866442,
+    "img_src": "https://cdn.tigertag.io/img?id=51866442&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_ROYALPURP",
+    "title": "PCTG - Royal Purple"
   },
   {
     "RFID_Data": {
@@ -9091,6 +9214,47 @@
     "product_type": "Filament",
     "sku": "KEX-K6PLA-YELLOW-175-1KG",
     "title": "THE K6 PLA - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 85,
+      "color_g": 79,
+      "color_r": 74,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4A4F55FF",
+    "color_info": {
+      "colors": [
+        "#4A4F55FF"
+      ],
+      "type": "mono"
+    },
+    "id": 60517471,
+    "img_src": "https://cdn.tigertag.io/img?id=60517471&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_GUNMETAL",
+    "title": "PCTG - Gunmetal Gray"
   },
   {
     "RFID_Data": {
@@ -23099,6 +23263,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 154,
+      "color_g": 61,
+      "color_r": 106,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#6A3D9AFF",
+    "color_info": {
+      "colors": [
+        "#6A3D9AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 145630686,
+    "img_src": "https://cdn.tigertag.io/img?id=145630686&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_PURPLE",
+    "title": "PLA+ - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 48,
       "color_g": 80,
       "color_r": 176,
@@ -27629,6 +27834,47 @@
     "product_type": "Filament",
     "sku": "LTP03A02K11",
     "title": "PLA-F Luminous - Cool Grey Luminous"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 92,
+      "color_g": 139,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#A58B5CFF",
+    "color_info": {
+      "colors": [
+        "#A58B5CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 172993375,
+    "img_src": "https://cdn.tigertag.io/img?id=172993375&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_COYTAN",
+    "title": "Regenerative PLA+ - Coyote Tan"
   },
   {
     "RFID_Data": {
@@ -39363,6 +39609,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 43,
+      "color_g": 77,
+      "color_r": 20,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#144D2BFF",
+    "color_info": {
+      "colors": [
+        "#144D2BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 245892730,
+    "img_src": "https://cdn.tigertag.io/img?id=245892730&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_DARKG",
+    "title": "PLA+ - Dark Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 237,
       "color_g": 229,
       "color_r": 221,
@@ -45849,6 +46136,47 @@
     "product_type": "Filament",
     "sku": "B0F66DPZKF",
     "title": "PLA PRO - Translucent"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 147,
+      "color_g": 46,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#FF2E93FF",
+    "color_info": {
+      "colors": [
+        "#FF2E93FF"
+      ],
+      "type": "mono"
+    },
+    "id": 286244203,
+    "img_src": "https://cdn.tigertag.io/img?id=286244203&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_NPINK",
+    "title": "Regenerative PLA+ - Neon Pink"
   },
   {
     "RFID_Data": {
@@ -52912,6 +53240,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 41,
+      "color_g": 32,
+      "color_r": 206,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#CE2029FF",
+    "color_info": {
+      "colors": [
+        "#CE2029FF"
+      ],
+      "type": "mono"
+    },
+    "id": 329377625,
+    "img_src": "https://cdn.tigertag.io/img?id=329377625&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_FIRERED",
+    "title": "PCTG - Fire Engine Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 218,
       "color_g": 144,
       "color_r": 172,
@@ -56569,6 +56938,47 @@
     "product_type": "Filament",
     "sku": "TAA1660",
     "title": "Nylon TECHForce 20GF/10CF - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 138,
+      "color_g": 128,
+      "color_r": 20,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#14808AFF",
+    "color_info": {
+      "colors": [
+        "#14808AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 351602626,
+    "img_src": "https://cdn.tigertag.io/img?id=351602626&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_TEAL",
+    "title": "PLA+ - Teal"
   },
   {
     "RFID_Data": {
@@ -72499,6 +72909,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 65,
+      "color_g": 164,
+      "color_r": 217,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#D9A441FF",
+    "color_info": {
+      "colors": [
+        "#D9A441FF"
+      ],
+      "type": "mono"
+    },
+    "id": 453350067,
+    "img_src": "https://cdn.tigertag.io/img?id=453350067&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_HONEYG",
+    "title": "PLA+ - Honey Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 242,
       "color_r": 255,
@@ -78677,6 +79128,47 @@
     "product_type": "Filament",
     "sku": "EXT-PLABASIC-TRANSPARENT-175-10KG",
     "title": "PLA Basic - transparent"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 121,
+      "color_g": 110,
+      "color_r": 183,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#B76E79FF",
+    "color_info": {
+      "colors": [
+        "#B76E79FF"
+      ],
+      "type": "mono"
+    },
+    "id": 490946973,
+    "img_src": "https://cdn.tigertag.io/img?id=490946973&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_ROSE",
+    "title": "Silk PLA - Rose Gold"
   },
   {
     "RFID_Data": {
@@ -92149,6 +92641,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 156,
+      "color_g": 78,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1F4E9CFF",
+    "color_info": {
+      "colors": [
+        "#1F4E9CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 571069048,
+    "img_src": "https://cdn.tigertag.io/img?id=571069048&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_BLUE",
+    "title": "Regenerative PLA+ - American Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 2,
       "color_g": 76,
       "color_r": 252,
@@ -93187,6 +93720,47 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F0625",
     "title": "PLA Starter - Light Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 148,
+      "color_g": 145,
+      "color_r": 142,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#8E9194FF",
+    "color_info": {
+      "colors": [
+        "#8E9194FF"
+      ],
+      "type": "mono"
+    },
+    "id": 577981379,
+    "img_src": "https://cdn.tigertag.io/img?id=577981379&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_PRIMER",
+    "title": "PLA+ - Primer Gray"
   },
   {
     "RFID_Data": {
@@ -96352,6 +96926,47 @@
     "product_type": "Filament",
     "sku": "SL-PLA+-SK-1KG",
     "title": "PLA+ - Beige"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 248,
+      "color_g": 246,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F4F6F8FF",
+    "color_info": {
+      "colors": [
+        "#F4F6F8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 596379981,
+    "img_src": "https://cdn.tigertag.io/img?id=596379981&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_WHITE",
+    "title": "Regenerative PLA+ - Ice White"
   },
   {
     "RFID_Data": {
@@ -105534,6 +106149,47 @@
   },
   {
     "RFID_Data": {
+      "color_a": 255,
+      "color_b": 60,
+      "color_g": 97,
+      "color_r": 129,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#81613CFF",
+    "color_info": {
+      "colors": [
+        "#81613CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 652625434,
+    "img_src": "https://cdn.tigertag.io/img?id=652625434&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_COYBRO",
+    "title": "Tough Pro PLA+ - Coyote Brown"
+  },
+  {
+    "RFID_Data": {
       "color_a": 153,
       "color_b": 255,
       "color_g": 102,
@@ -107134,6 +107790,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 242,
+      "color_g": 242,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 97,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F2F2F2FF",
+    "color_info": {
+      "colors": [
+        "#F2F2F2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 662588252,
+    "img_src": "https://cdn.tigertag.io/img?id=662588252&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "LITHO_1KG_CLW",
+    "title": "Lithophane PLA - Classic White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 78,
       "color_g": 168,
       "color_r": 58,
@@ -107909,6 +108606,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAMAGIC-MAGICBLACK1-285-5KG",
     "title": "THE K5 PLA Magic - Magic Black 1"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 32,
+      "color_g": 83,
+      "color_r": 75,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4B5320FF",
+    "color_info": {
+      "colors": [
+        "#4B5320FF"
+      ],
+      "type": "mono"
+    },
+    "id": 667909350,
+    "img_src": "https://cdn.tigertag.io/img?id=667909350&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_ARMYG",
+    "title": "PLA+ - Army Green"
   },
   {
     "RFID_Data": {
@@ -117297,6 +118035,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 32,
+      "color_g": 83,
+      "color_r": 75,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4B5320FF",
+    "color_info": {
+      "colors": [
+        "#4B5320FF"
+      ],
+      "type": "mono"
+    },
+    "id": 723257249,
+    "img_src": "https://cdn.tigertag.io/img?id=723257249&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_ARMYG",
+    "title": "Tough Pro PLA+ - Army Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 75,
       "color_g": 127,
       "color_r": 94,
@@ -118532,6 +119311,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLACC-UVBLUE-175-3KG",
     "title": "The K5 PLA CC - UV Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 87,
+      "color_g": 83,
+      "color_r": 79,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4F5357FF",
+    "color_info": {
+      "colors": [
+        "#4F5357FF"
+      ],
+      "type": "mono"
+    },
+    "id": 730835035,
+    "img_src": "https://cdn.tigertag.io/img?id=730835035&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_GRAPHITE",
+    "title": "Silk PLA - Graphite"
   },
   {
     "RFID_Data": {
@@ -121291,6 +122111,47 @@
     "product_type": "Filament",
     "sku": "PRM-PA11-NAT-800",
     "title": "PA11 - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 85,
+      "color_g": 79,
+      "color_r": 74,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4A4F55FF",
+    "color_info": {
+      "colors": [
+        "#4A4F55FF"
+      ],
+      "type": "mono"
+    },
+    "id": 749640386,
+    "img_src": "https://cdn.tigertag.io/img?id=749640386&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_GUNMETAL",
+    "title": "Regenerative PLA+ - Gunmetal Gray"
   },
   {
     "RFID_Data": {
@@ -133296,6 +134157,47 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU60A-FLUORESCENTYELLOW-175-1KG",
     "title": "THE K8 TPU 60A - Fluorescent Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 85,
+      "color_r": 204,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#CC5500FF",
+    "color_info": {
+      "colors": [
+        "#CC5500FF"
+      ],
+      "type": "mono"
+    },
+    "id": 830268622,
+    "img_src": "https://cdn.tigertag.io/img?id=830268622&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_BURNTO",
+    "title": "Regenerative PLA+ - Burnt Orange"
   },
   {
     "RFID_Data": {
@@ -147718,6 +148620,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 114,
+      "color_g": 155,
+      "color_r": 184,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 97,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#B89B72FF",
+    "color_info": {
+      "colors": [
+        "#B89B72FF"
+      ],
+      "type": "mono"
+    },
+    "id": 931921552,
+    "img_src": "https://cdn.tigertag.io/img?id=931921552&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "LITHO_1KG_SEPIA",
+    "title": "Lithophane PLA - Sepia"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 71,
       "color_g": 158,
       "color_r": 46,
@@ -152293,6 +153236,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "ABS - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 196,
+      "color_g": 188,
+      "color_r": 180,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 97,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#B4BCC4FF",
+    "color_info": {
+      "colors": [
+        "#B4BCC4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 961378282,
+    "img_src": "https://cdn.tigertag.io/img?id=961378282&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "LITHO_1KG_COOLG",
+    "title": "Lithophane PLA - Cool Gray"
   },
   {
     "RFID_Data": {
@@ -190800,6 +191784,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 95,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#FF5F00FF",
+    "color_info": {
+      "colors": [
+        "#FF5F00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1208822699,
+    "img_src": "https://cdn.tigertag.io/img?id=1208822699&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_NORANGE",
+    "title": "PLA+ - Neon Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 212,
       "color_g": 255,
       "color_r": 127,
@@ -200561,6 +201586,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 154,
+      "color_g": 61,
+      "color_r": 106,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#6A3D9AFF",
+    "color_info": {
+      "colors": [
+        "#6A3D9AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1281500994,
+    "img_src": "https://cdn.tigertag.io/img?id=1281500994&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_PURPLE",
+    "title": "Silk PLA - Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 242,
       "color_g": 240,
       "color_r": 237,
@@ -206753,6 +207819,47 @@
     "product_type": "Filament",
     "sku": "700-001-1546",
     "title": "ABS+ - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 124,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F57C00FF",
+    "color_info": {
+      "colors": [
+        "#F57C00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1317303769,
+    "img_src": "https://cdn.tigertag.io/img?id=1317303769&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_CONORANGE",
+    "title": "PCTG - Construction Orange"
   },
   {
     "RFID_Data": {
@@ -220332,6 +221439,47 @@
     "product_type": "Filament",
     "sku": "EXT-FLEXMEDIUMESD-BLACK-20",
     "title": "FLEX Medium ESD - black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 156,
+      "color_g": 78,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1F4E9CFF",
+    "color_info": {
+      "colors": [
+        "#1F4E9CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1409341323,
+    "img_src": "https://cdn.tigertag.io/img?id=1409341323&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_BLUE",
+    "title": "Tough Pro PLA+ - American Blue"
   },
   {
     "RFID_Data": {
@@ -234314,6 +235462,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 30,
+      "color_g": 46,
+      "color_r": 75,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4B2E1EFF",
+    "color_info": {
+      "colors": [
+        "#4B2E1EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1497821726,
+    "img_src": "https://cdn.tigertag.io/img?id=1497821726&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_BROWN",
+    "title": "PLA+ - Chocolate Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 112,
       "color_g": 111,
       "color_r": 29,
@@ -236454,6 +237643,47 @@
     "product_type": "Filament",
     "sku": "LTP09G07K11",
     "title": "PLA Silk - Ink Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 95,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#FF5F00FF",
+    "color_info": {
+      "colors": [
+        "#FF5F00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1508456181,
+    "img_src": "https://cdn.tigertag.io/img?id=1508456181&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_NORANGE",
+    "title": "Silk PLA - Neon Orange"
   },
   {
     "RFID_Data": {
@@ -241661,6 +242891,47 @@
     "product_type": "Filament",
     "sku": "700-001-1195",
     "title": "PLA Luminous - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 60,
+      "color_g": 97,
+      "color_r": 129,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#81613CFF",
+    "color_info": {
+      "colors": [
+        "#81613CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1540039118,
+    "img_src": "https://cdn.tigertag.io/img?id=1540039118&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_COYBROWN",
+    "title": "PLA+ - Coyote Brown"
   },
   {
     "RFID_Data": {
@@ -256861,6 +258132,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 147,
+      "color_g": 46,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#FF2E93FF",
+    "color_info": {
+      "colors": [
+        "#FF2E93FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1643117898,
+    "img_src": "https://cdn.tigertag.io/img?id=1643117898&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_NPINK",
+    "title": "Silk PLA - Neon Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 191,
       "color_g": 99,
       "color_r": 29,
@@ -258845,6 +260157,47 @@
     "product_type": "Filament",
     "sku": "ABS2011000BK0",
     "title": "3DXSTAT ESD - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 103,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#FF6700FF",
+    "color_info": {
+      "colors": [
+        "#FF6700FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1655763690,
+    "img_src": "https://cdn.tigertag.io/img?id=1655763690&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_SAF-ORAN",
+    "title": "Tough Pro PLA+ - Safety Orange"
   },
   {
     "RFID_Data": {
@@ -260953,6 +262306,47 @@
     "product_type": "Filament",
     "sku": "376004456882",
     "title": "PEI - Ultem 1010"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 248,
+      "color_g": 246,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F4F6F8FF",
+    "color_info": {
+      "colors": [
+        "#F4F6F8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1671133842,
+    "img_src": "https://cdn.tigertag.io/img?id=1671133842&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_WHITE",
+    "title": "Tough Pro PLA+ - Ice White"
   },
   {
     "RFID_Data": {
@@ -292941,6 +294335,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 209,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F4D100FF",
+    "color_info": {
+      "colors": [
+        "#F4D100FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1889650941,
+    "img_src": "https://cdn.tigertag.io/img?id=1889650941&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_YELLOW",
+    "title": "Silk PLA - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 232,
       "color_g": 235,
       "color_r": 240,
@@ -293716,6 +295151,47 @@
     "product_type": "Filament",
     "sku": "55511",
     "title": "Tefabloc TPE - Noire"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 196,
+      "color_g": 193,
+      "color_r": 190,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 97,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#BEC1C4FF",
+    "color_info": {
+      "colors": [
+        "#BEC1C4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1896781594,
+    "img_src": "https://cdn.tigertag.io/img?id=1896781594&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "LITHO_1KG_CLG",
+    "title": "Lithophane PLA - Crisp Gray"
   },
   {
     "RFID_Data": {
@@ -297406,6 +298882,47 @@
     "product_type": "Filament",
     "sku": "SL-Y-PLA-GN-1KG-A",
     "title": "PLA - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 148,
+      "color_g": 75,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#7B4B94FF",
+    "color_info": {
+      "colors": [
+        "#7B4B94FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1918725478,
+    "img_src": "https://cdn.tigertag.io/img?id=1918725478&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_APURP",
+    "title": "Tough Pro PLA+ - Amethyst Purple"
   },
   {
     "RFID_Data": {
@@ -302650,6 +304167,47 @@
     "product_type": "Filament",
     "sku": "GWCZ-EL-3DF-PL1132",
     "title": "PLA Translucent - Crystal White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 176,
+      "color_g": 181,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1FB5B0FF",
+    "color_info": {
+      "colors": [
+        "#1FB5B0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1957728638,
+    "img_src": "https://cdn.tigertag.io/img?id=1957728638&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_TURQUOISE",
+    "title": "PCTG - Turquoise"
   },
   {
     "RFID_Data": {
@@ -316552,6 +318110,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 39,
+      "color_g": 162,
+      "color_r": 201,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#C9A227FF",
+    "color_info": {
+      "colors": [
+        "#C9A227FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2043352633,
+    "img_src": "https://cdn.tigertag.io/img?id=2043352633&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_GOLD",
+    "title": "PLA+ - Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 34,
       "color_g": 34,
       "color_r": 178,
@@ -319981,6 +321580,47 @@
     "product_type": "Filament",
     "sku": "3D WOOD-1KG1.75",
     "title": "Wood PLA - Natural"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 92,
+      "color_g": 128,
+      "color_r": 18,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#12805CFF",
+    "color_info": {
+      "colors": [
+        "#12805CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2059788864,
+    "img_src": "https://cdn.tigertag.io/img?id=2059788864&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_EMERALD",
+    "title": "Silk PLA - Emerald Green"
   },
   {
     "RFID_Data": {
@@ -330027,6 +331667,47 @@
     "product_type": "Filament",
     "sku": "B0112043",
     "title": "PLA Matte - Pottery Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 148,
+      "color_g": 145,
+      "color_r": 142,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#8E9194FF",
+    "color_info": {
+      "colors": [
+        "#8E9194FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2123399973,
+    "img_src": "https://cdn.tigertag.io/img?id=2123399973&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_PRIMERG",
+    "title": "Tough Pro PLA+ - Primer Gray"
   },
   {
     "RFID_Data": {
@@ -340975,6 +342656,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 217,
+      "color_g": 235,
+      "color_r": 243,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 97,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F3EBD9FF",
+    "color_info": {
+      "colors": [
+        "#F3EBD9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2194352654,
+    "img_src": "https://cdn.tigertag.io/img?id=2194352654&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "LITHO_1KG_WLW",
+    "title": "Lithophane PLA - Warm White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 165,
       "color_g": 201,
       "color_r": 241,
@@ -345666,6 +347388,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 13,
+      "color_g": 13,
+      "color_r": 13,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#0D0D0DFF",
+    "color_info": {
+      "colors": [
+        "#0D0D0DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2219724858,
+    "img_src": "https://cdn.tigertag.io/img?id=2219724858&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_BLACK",
+    "title": "PCTG - Obsidian Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 219,
       "color_g": 173,
       "color_r": 20,
@@ -348573,6 +350336,47 @@
     "product_type": "Filament",
     "sku": "EXT-DURAPROABSCF-BLACK-20",
     "title": "DuraPro ABS CF - black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 120,
+      "color_g": 168,
+      "color_r": 194,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#C2A878FF",
+    "color_info": {
+      "colors": [
+        "#C2A878FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2240703764,
+    "img_src": "https://cdn.tigertag.io/img?id=2240703764&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_DESERTT",
+    "title": "PLA+ - Desert Tan"
   },
   {
     "RFID_Data": {
@@ -364223,6 +366027,47 @@
     "product_type": "Filament",
     "sku": "G0111006",
     "title": "PLA Silk High-Speed Quadruple - Electric Night (Neon Purple & Bright Blue & Neon Pink & Neon Yellow)"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 23,
+      "color_g": 24,
+      "color_r": 22,
+      "data1": 56,
+      "data2": 225,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "Rosa3D",
+    "color": "#161817FF",
+    "color_info": {
+      "colors": [
+        "#161817FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2338350046,
+    "img_src": null,
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5121",
+    "title": "PET-G CarbonLook - Carbon Black"
   },
   {
     "RFID_Data": {
@@ -379924,6 +381769,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 138,
+      "color_g": 128,
+      "color_r": 20,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#14808AFF",
+    "color_info": {
+      "colors": [
+        "#14808AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2452731104,
+    "img_src": "https://cdn.tigertag.io/img?id=2452731104&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_TEAL",
+    "title": "Silk PLA - Teal"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_b2": 42,
       "color_b3": 48,
@@ -380216,6 +382102,47 @@
     "product_type": "Filament",
     "sku": "TUCAB-PLA3D850-Pink",
     "title": "PLA 3D850 - Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 17,
+      "color_g": 17,
+      "color_r": 17,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#111111FF",
+    "color_info": {
+      "colors": [
+        "#111111FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2453787329,
+    "img_src": "https://cdn.tigertag.io/img?id=2453787329&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_BLACK",
+    "title": "Tough Pro PLA+ - Onyx Black"
   },
   {
     "RFID_Data": {
@@ -380958,6 +382885,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 85,
+      "color_g": 79,
+      "color_r": 74,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4A4F55FF",
+    "color_info": {
+      "colors": [
+        "#4A4F55FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2458283606,
+    "img_src": "https://cdn.tigertag.io/img?id=2458283606&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_GUNMETAL",
+    "title": "PLA+ - Gunmetal Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 241,
       "color_g": 237,
       "color_r": 232,
@@ -381159,6 +383127,47 @@
     "product_type": "Filament",
     "sku": "",
     "title": "PLA - Cowboy Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 147,
+      "color_g": 46,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#FF2E93FF",
+    "color_info": {
+      "colors": [
+        "#FF2E93FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2459540204,
+    "img_src": "https://cdn.tigertag.io/img?id=2459540204&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_NPINK",
+    "title": "PLA+ - Neon Pink"
   },
   {
     "RFID_Data": {
@@ -395210,6 +397219,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 248,
+      "color_g": 246,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F4F6F8FF",
+    "color_info": {
+      "colors": [
+        "#F4F6F8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2556289818,
+    "img_src": "https://cdn.tigertag.io/img?id=2556289818&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_WHITE",
+    "title": "PLA+ - Ice White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 245,
       "color_g": 245,
       "color_r": 245,
@@ -397682,6 +399732,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 224,
+      "color_r": 247,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F7E000FF",
+    "color_info": {
+      "colors": [
+        "#F7E000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2569318845,
+    "img_src": "https://cdn.tigertag.io/img?id=2569318845&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_SAF-YEL",
+    "title": "PCTG - Safety Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 85,
       "color_g": 37,
       "color_r": 181,
@@ -398830,6 +400921,47 @@
     "product_type": "Filament",
     "sku": "EXT-PETG-GREY-175-25KG-4049",
     "title": "PETG - grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 240,
+      "color_r": 214,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#D6F000FF",
+    "color_info": {
+      "colors": [
+        "#D6F000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2575945278,
+    "img_src": "https://cdn.tigertag.io/img?id=2575945278&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_HV-YEL",
+    "title": "PCTG - Hi-Vis Yellow"
   },
   {
     "RFID_Data": {
@@ -418515,6 +420647,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 32,
+      "color_g": 83,
+      "color_r": 75,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4B5320FF",
+    "color_info": {
+      "colors": [
+        "#4B5320FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2695326722,
+    "img_src": "https://cdn.tigertag.io/img?id=2695326722&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_ARMYG",
+    "title": "Regenerative PLA+ - Army Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 63,
       "color_g": 241,
       "color_r": 255,
@@ -422090,6 +424263,47 @@
     "product_type": "Filament",
     "sku": "TPU-GF-Frosted Light Grey",
     "title": "TPU-GF - Frosted Light Grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 107,
+      "color_g": 58,
+      "color_r": 27,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1B3A6BFF",
+    "color_info": {
+      "colors": [
+        "#1B3A6BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2713933201,
+    "img_src": "https://cdn.tigertag.io/img?id=2713933201&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_LEOBLUE",
+    "title": "PCTG - Police Blue"
   },
   {
     "RFID_Data": {
@@ -428596,6 +430810,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 53,
+      "color_g": 75,
+      "color_r": 94,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#5E4B35FF",
+    "color_info": {
+      "colors": [
+        "#5E4B35FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2755078300,
+    "img_src": "https://cdn.tigertag.io/img?id=2755078300&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_CAMO-B",
+    "title": "PCTG - Camo Brown"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 59,
       "color_g": 116,
       "color_r": 243,
@@ -429088,6 +431343,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAPRO-PRUSSIANBLUE-285-1KG",
     "title": "THE K5 PLA PRO - Prussian Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 250,
+      "color_g": 247,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F5F7FAFF",
+    "color_info": {
+      "colors": [
+        "#F5F7FAFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2757003041,
+    "img_src": "https://cdn.tigertag.io/img?id=2757003041&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_WHITE",
+    "title": "Silk PLA - Arctic White"
   },
   {
     "RFID_Data": {
@@ -432954,6 +435250,47 @@
     "product_type": "Filament",
     "sku": "OVS-VFPBLK13-010109",
     "title": "PLA - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 227,
+      "color_g": 200,
+      "color_r": 126,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#7EC8E3FF",
+    "color_info": {
+      "colors": [
+        "#7EC8E3FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2784805694,
+    "img_src": "https://cdn.tigertag.io/img?id=2784805694&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_SKYBLUE",
+    "title": "PLA+ - Sky Blue"
   },
   {
     "RFID_Data": {
@@ -437644,6 +439981,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 186,
+      "color_g": 82,
+      "color_r": 15,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#0F52BAFF",
+    "color_info": {
+      "colors": [
+        "#0F52BAFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2810900365,
+    "img_src": "https://cdn.tigertag.io/img?id=2810900365&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_TBLUE",
+    "title": "PCTG - Sapphire Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 116,
       "color_g": 37,
       "color_r": 116,
@@ -438882,6 +441260,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 20,
+      "color_g": 255,
+      "color_r": 57,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#39FF14FF",
+    "color_info": {
+      "colors": [
+        "#39FF14FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2818769887,
+    "img_src": "https://cdn.tigertag.io/img?id=2818769887&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_NGREEN",
+    "title": "PLA+ - Neon Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 63,
       "color_g": 73,
       "color_r": 60,
@@ -438919,6 +441338,47 @@
     "product_type": "Filament",
     "sku": "KEX-K3PLA-FORMALGARDEN-175-1KG",
     "title": "THE K3 PLA - Formal Garden"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 48,
+      "color_g": 16,
+      "color_r": 176,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#B01030FF",
+    "color_info": {
+      "colors": [
+        "#B01030FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2819519346,
+    "img_src": "https://cdn.tigertag.io/img?id=2819519346&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_TRED",
+    "title": "PCTG - Ruby Red"
   },
   {
     "RFID_Data": {
@@ -447463,6 +449923,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 46,
+      "color_g": 16,
+      "color_r": 200,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#C8102EFF",
+    "color_info": {
+      "colors": [
+        "#C8102EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2877307349,
+    "img_src": "https://cdn.tigertag.io/img?id=2877307349&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_RED",
+    "title": "Regenerative PLA+ - American Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 30,
       "color_b2": 42,
       "color_b3": 48,
@@ -452677,6 +455178,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 85,
+      "color_g": 79,
+      "color_r": 74,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4A4F55FF",
+    "color_info": {
+      "colors": [
+        "#4A4F55FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2910210488,
+    "img_src": "https://cdn.tigertag.io/img?id=2910210488&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_GUNMETAL",
+    "title": "Tough Pro PLA+ - Gunmetal Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -457187,6 +459729,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5ABSP-CHAMPAGNEGOLD-175-1KG",
     "title": "THE K5 ABS P - Champagne Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 156,
+      "color_g": 78,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1F4E9CFF",
+    "color_info": {
+      "colors": [
+        "#1F4E9CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2940696147,
+    "img_src": "https://cdn.tigertag.io/img?id=2940696147&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_BLUE",
+    "title": "PLA+ - American Blue"
   },
   {
     "RFID_Data": {
@@ -463275,6 +465858,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 28,
+      "color_g": 159,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#FF9F1CFF",
+    "color_info": {
+      "colors": [
+        "#FF9F1CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2976674367,
+    "img_src": "https://cdn.tigertag.io/img?id=2976674367&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_SIGNALORANGE",
+    "title": "PCTG - Turn Signal Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 152,
       "color_g": 255,
       "color_r": 152,
@@ -465333,6 +467957,47 @@
     "product_type": "Filament",
     "sku": "PLA+175O-V5B1",
     "title": "PLA+ - PEAK GREEN"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 32,
+      "color_g": 83,
+      "color_r": 75,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4B5320FF",
+    "color_info": {
+      "colors": [
+        "#4B5320FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2991616878,
+    "img_src": "https://cdn.tigertag.io/img?id=2991616878&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_ARMYG",
+    "title": "PCTG - Army Green"
   },
   {
     "RFID_Data": {
@@ -467739,6 +470404,47 @@
     "product_type": "Filament",
     "sku": "C7H1-7M-7B1",
     "title": "PLA+ Métallisé - Vert Fonce"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 201,
+      "color_g": 218,
+      "color_r": 227,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#E3DAC9FF",
+    "color_info": {
+      "colors": [
+        "#E3DAC9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3012508292,
+    "img_src": "https://cdn.tigertag.io/img?id=3012508292&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_BONE",
+    "title": "PLA+ - Bone White"
   },
   {
     "RFID_Data": {
@@ -484622,6 +487328,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 46,
+      "color_g": 16,
+      "color_r": 200,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#C8102EFF",
+    "color_info": {
+      "colors": [
+        "#C8102EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3113914927,
+    "img_src": "https://cdn.tigertag.io/img?id=3113914927&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_RED",
+    "title": "Tough Pro PLA+ - American Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 55,
       "color_g": 77,
       "color_r": 93,
@@ -490194,6 +492941,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1A1A1AFF",
+    "color_info": {
+      "colors": [
+        "#1A1A1AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3152020743,
+    "img_src": "https://cdn.tigertag.io/img?id=3152020743&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_BLACK",
+    "title": "PLA+ - Matte Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 147,
       "color_g": 20,
       "color_r": 255,
@@ -494458,6 +497246,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 148,
+      "color_g": 75,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#7B4B94FF",
+    "color_info": {
+      "colors": [
+        "#7B4B94FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3179766203,
+    "img_src": "https://cdn.tigertag.io/img?id=3179766203&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_AMETHYST",
+    "title": "PLA+ - Amethyst Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 109,
       "color_g": 175,
       "color_r": 86,
@@ -494954,6 +497783,47 @@
     "product_type": "Filament",
     "sku": "G3D-PLA-BLEU-175-1KG",
     "title": "PLA - Bleu"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 133,
+      "color_g": 127,
+      "color_r": 122,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#7A7F85FF",
+    "color_info": {
+      "colors": [
+        "#7A7F85FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3181967350,
+    "img_src": "https://cdn.tigertag.io/img?id=3181967350&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_UTILGRAY",
+    "title": "PCTG - Utility Gray"
   },
   {
     "RFID_Data": {
@@ -510626,6 +513496,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 53,
+      "color_g": 90,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1F5A35FF",
+    "color_info": {
+      "colors": [
+        "#1F5A35FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3285437435,
+    "img_src": "https://cdn.tigertag.io/img?id=3285437435&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_FORESTG",
+    "title": "PLA+ - Forest Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 189,
       "color_g": 189,
       "color_r": 189,
@@ -521288,6 +524199,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 208,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F5D000FF",
+    "color_info": {
+      "colors": [
+        "#F5D000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3356228097,
+    "img_src": "https://cdn.tigertag.io/img?id=3356228097&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_DANDYELLOW",
+    "title": "PLA+ - Dandelion Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 43,
       "color_g": 31,
       "color_r": 122,
@@ -529554,6 +532506,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 53,
+      "color_g": 90,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1F5A35FF",
+    "color_info": {
+      "colors": [
+        "#1F5A35FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3408276878,
+    "img_src": "https://cdn.tigertag.io/img?id=3408276878&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_FORESTG",
+    "title": "Regenerative PLA+ - Forest Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 235,
       "color_g": 206,
       "color_r": 135,
@@ -533995,6 +536988,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 20,
+      "color_g": 255,
+      "color_r": 57,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#39FF14FF",
+    "color_info": {
+      "colors": [
+        "#39FF14FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3439122872,
+    "img_src": "https://cdn.tigertag.io/img?id=3439122872&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_NGREEN",
+    "title": "Silk PLA - Neon Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 249,
       "color_r": 244,
@@ -538075,6 +541109,47 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F0598",
     "title": "PLA Pastel - Mint"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 85,
+      "color_r": 204,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#CC5500FF",
+    "color_info": {
+      "colors": [
+        "#CC5500FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3462429443,
+    "img_src": "https://cdn.tigertag.io/img?id=3462429443&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_BURNTO",
+    "title": "PLA+ - Burnt Orange"
   },
   {
     "RFID_Data": {
@@ -543622,6 +546697,47 @@
     "product_type": "Filament",
     "sku": "5903175654069",
     "title": "PCTG Premium - Traffic Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 124,
+      "color_g": 155,
+      "color_r": 176,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#B09B7CFF",
+    "color_info": {
+      "colors": [
+        "#B09B7CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3496351900,
+    "img_src": "https://cdn.tigertag.io/img?id=3496351900&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_LGHT-COY-B",
+    "title": "PCTG - Light Coyote Brown"
   },
   {
     "RFID_Data": {
@@ -552318,6 +555434,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 26,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1A1A1AFF",
+    "color_info": {
+      "colors": [
+        "#1A1A1AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3550040419,
+    "img_src": "https://cdn.tigertag.io/img?id=3550040419&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "RGEN-PLUS_1KG_BLACK",
+    "title": "Regenerative PLA+ - Matte Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 159,
       "color_g": 243,
       "color_r": 197,
@@ -554901,6 +558058,47 @@
     "product_type": "Filament",
     "sku": "BIQU-CCABS-WHITE",
     "title": "CarbonCore25 - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 13,
+      "color_g": 13,
+      "color_r": 13,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 4000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#0D0D0DFF",
+    "color_info": {
+      "colors": [
+        "#0D0D0DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3567427796,
+    "img_src": "https://cdn.tigertag.io/img?id=3567427796&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "4000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_4KG_BLACK",
+    "title": "PCTG - Obsidian Black"
   },
   {
     "RFID_Data": {
@@ -581410,6 +584608,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 46,
+      "color_g": 16,
+      "color_r": 200,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#C8102EFF",
+    "color_info": {
+      "colors": [
+        "#C8102EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3750069151,
+    "img_src": "https://cdn.tigertag.io/img?id=3750069151&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_RED",
+    "title": "PLA+ - American Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 82,
       "color_g": 93,
       "color_r": 1,
@@ -596960,6 +600199,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 240,
+      "color_g": 227,
+      "color_r": 191,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#BFE3F0FF",
+    "color_info": {
+      "colors": [
+        "#BFE3F0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3860505192,
+    "img_src": "https://cdn.tigertag.io/img?id=3860505192&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_ICYBLUE",
+    "title": "PLA+ - Icy Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 62,
       "color_g": 140,
       "color_r": 9,
@@ -597694,6 +600974,47 @@
     "product_type": "Filament",
     "sku": "PLACF-1-VRG",
     "title": "PLA-CF - Volcanic Rock Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 148,
+      "color_g": 75,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#7B4B94FF",
+    "color_info": {
+      "colors": [
+        "#7B4B94FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3865437273,
+    "img_src": "https://cdn.tigertag.io/img?id=3865437273&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_AMETHYST",
+    "title": "Silk PLA - Amethyst Purple"
   },
   {
     "RFID_Data": {
@@ -598604,6 +601925,47 @@
     "product_type": "Filament",
     "sku": "PWB-3D-F0614",
     "title": "ABS+ Matt - Juicy Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 260,
+      "data4": 50,
+      "data5": 4,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 18922,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753139320",
+    "brand": "Rosa3D",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3873353711,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-ESD",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-F5118",
+    "title": "PLA ESD - White"
   },
   {
     "RFID_Data": {
@@ -612429,6 +615791,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 147,
+      "color_g": 46,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#FF2E93FF",
+    "color_info": {
+      "colors": [
+        "#FF2E93FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3961086107,
+    "img_src": "https://cdn.tigertag.io/img?id=3961086107&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_NPINK",
+    "title": "Tough Pro PLA+ - Neon Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 196,
       "color_r": 245,
@@ -614274,6 +617677,47 @@
     "product_type": "Filament",
     "sku": "700-001-1433",
     "title": "TPU - Transparent Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 216,
+      "color_g": 235,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F2EBD8FF",
+    "color_info": {
+      "colors": [
+        "#F2EBD8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3972900661,
+    "img_src": "https://cdn.tigertag.io/img?id=3972900661&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_IVORY",
+    "title": "PLA+ - Ivory White"
   },
   {
     "RFID_Data": {
@@ -620523,6 +623967,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 60,
+      "color_g": 107,
+      "color_r": 76,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#4C6B3CFF",
+    "color_info": {
+      "colors": [
+        "#4C6B3CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4013980601,
+    "img_src": "https://cdn.tigertag.io/img?id=4013980601&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "TOUGH_1KG_OUTGREEN",
+    "title": "Tough Pro PLA+ - Outdoor Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 5,
       "color_g": 116,
       "color_r": 246,
@@ -622294,6 +625779,47 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAP-SUNGLOWORANGE-285-5KG",
     "title": "The K5 PLA P - Sunglow Orange"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 107,
+      "color_g": 158,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#2E9E6BFF",
+    "color_info": {
+      "colors": [
+        "#2E9E6BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4025939820,
+    "img_src": "https://cdn.tigertag.io/img?id=4025939820&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_TGREEN",
+    "title": "PCTG - Jade Green"
   },
   {
     "RFID_Data": {
@@ -629821,6 +633347,47 @@
     "product_type": "Filament",
     "sku": "ISM-TPU95A-WHITE-1.75-1000",
     "title": "TPU 95A - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 191,
+      "color_g": 95,
+      "color_r": 31,
+      "data1": 56,
+      "data2": 220,
+      "data3": 235,
+      "data4": 55,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#1F5FBFFF",
+    "color_info": {
+      "colors": [
+        "#1F5FBFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4071687543,
+    "img_src": "https://cdn.tigertag.io/img?id=4071687543&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "SILK_1KG_BLUE",
+    "title": "Silk PLA - Blue"
   },
   {
     "RFID_Data": {
@@ -642854,6 +646421,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 92,
+      "color_g": 139,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 205,
+      "data3": 220,
+      "data4": 55,
+      "data5": 6,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#A58B5CFF",
+    "color_info": {
+      "colors": [
+        "#A58B5CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4156729886,
+    "img_src": "https://cdn.tigertag.io/img?id=4156729886&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PLUS_1KG_COYTAN",
+    "title": "PLA+ - Coyote Tan"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 192,
       "color_g": 192,
       "color_r": 192,
@@ -646203,6 +649811,47 @@
     "product_type": "Filament",
     "sku": "3DTPUTPRD",
     "title": "TPU Transparent - Clear Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 248,
+      "color_g": 248,
+      "color_r": 248,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 3308,
+      "id_material": 15041,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "American Filament",
+    "color": "#F8F8F8FF",
+    "color_info": {
+      "colors": [
+        "#F8F8F8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4178239993,
+    "img_src": "https://cdn.tigertag.io/img?id=4178239993&v=1",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PCTG",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PCTG_1KG_WHITE",
+    "title": "PCTG - Blizzard White"
   },
   {
     "RFID_Data": {
