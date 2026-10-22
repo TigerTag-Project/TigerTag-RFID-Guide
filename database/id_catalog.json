@@ -135244,6 +135244,55 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 66,
+      "color_b2": 192,
+      "color_b3": 0,
+      "color_g": 132,
+      "color_g2": 192,
+      "color_g3": 0,
+      "color_r": 0,
+      "color_r2": 192,
+      "color_r3": 0,
+      "data1": 56,
+      "data2": 195,
+      "data3": 235,
+      "data4": 50,
+      "data5": 4,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 24,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": "5907753139399",
+    "brand": "Rosa3D",
+    "color": "#008442",
+    "color_info": {
+      "colors": [
+        "#008442",
+        "#C0C0C0",
+        "#000000"
+      ],
+      "type": "multi"
+    },
+    "id": 724687106,
+    "img_src": null,
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "PWB-3D-FM3C5131",
+    "title": "PLA Magic - Marvelous Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 28,
       "color_g": 114,
       "color_r": 232,
