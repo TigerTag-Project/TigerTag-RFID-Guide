@@ -159315,9 +159315,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 240,
-      "color_g": 245,
-      "color_r": 245,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
       "data1": 56,
       "data2": 200,
       "data3": 230,
@@ -159335,10 +159335,10 @@
     },
     "barcode": null,
     "brand": "Subink",
-    "color": "#F5F5F0",
+    "color": "#FFFFFF",
     "color_info": {
       "colors": [
-        "#F5F5F0"
+        "#FFFFFF"
       ],
       "type": "mono"
     },
