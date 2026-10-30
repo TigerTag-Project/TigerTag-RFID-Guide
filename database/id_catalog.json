@@ -1724,6 +1724,55 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_b2": 200,
+      "color_b3": 79,
+      "color_g": 124,
+      "color_g2": 86,
+      "color_g3": 158,
+      "color_r": 245,
+      "color_r2": 30,
+      "color_r3": 46,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#F57C00",
+    "color_info": {
+      "colors": [
+        "#F57C00",
+        "#1E56C8",
+        "#2E9E4F"
+      ],
+      "type": "multi"
+    },
+    "id": 10303748,
+    "img_src": "https://cdn.tigertag.io/img?id=10303748&v=1793349465",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-153",
+    "title": "PLA Silk ALL3DP - Orange Blue Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 204,
       "color_g": 204,
       "color_r": 204,
@@ -28821,6 +28870,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 48,
+      "color_b2": 51,
+      "color_g": 184,
+      "color_g2": 115,
+      "color_r": 221,
+      "color_r2": 184,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#DDB830",
+    "color_info": {
+      "colors": [
+        "#DDB830",
+        "#B87333"
+      ],
+      "type": "multi"
+    },
+    "id": 152735233,
+    "img_src": "https://cdn.tigertag.io/img?id=152735233&v=1793349313",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-145",
+    "title": "PLA Silk ALL3DP - Gold Copper"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 140,
       "color_g": 139,
       "color_r": 27,
@@ -31166,6 +31260,47 @@
     "product_type": "Filament",
     "sku": "A01-D3-1.75-1000-splfree",
     "title": "PLA Matte - Ash Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 143,
+      "color_g": 91,
+      "color_r": 209,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#D15B8F",
+    "color_info": {
+      "colors": [
+        "#D15B8F"
+      ],
+      "type": "mono"
+    },
+    "id": 165875965,
+    "img_src": "https://cdn.tigertag.io/img?id=165875965&v=1793349974",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-707",
+    "title": "PLA Matte ALL3DP - Pink"
   },
   {
     "RFID_Data": {
@@ -53091,6 +53226,47 @@
     "product_type": "Filament",
     "sku": "HJ-PLA-SilkMagic-175BG1-US",
     "title": "Silk Dual-Tri Color PLA - Black / Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 176,
+      "color_g": 147,
+      "color_r": 106,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#6A93B0",
+    "color_info": {
+      "colors": [
+        "#6A93B0"
+      ],
+      "type": "mono"
+    },
+    "id": 280333316,
+    "img_src": "https://cdn.tigertag.io/img?id=280333316&v=1793350039",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-711",
+    "title": "PLA Matte ALL3DP - Pastel Blue"
   },
   {
     "RFID_Data": {
@@ -93824,6 +94000,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 168,
+      "color_g": 200,
+      "color_r": 216,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#D8C8A8",
+    "color_info": {
+      "colors": [
+        "#D8C8A8"
+      ],
+      "type": "mono"
+    },
+    "id": 504229442,
+    "img_src": "https://cdn.tigertag.io/img?id=504229442&v=1793350051",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-057",
+    "title": "PLA ALL3DP - Beige"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 143,
       "color_g": 111,
       "color_r": 83,
@@ -130143,6 +130360,51 @@
     "product_type": "Filament",
     "sku": "376034597295",
     "title": "PLA - EF Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 48,
+      "color_b2": 192,
+      "color_g": 184,
+      "color_g2": 192,
+      "color_r": 221,
+      "color_r2": 192,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#DDB830",
+    "color_info": {
+      "colors": [
+        "#DDB830",
+        "#C0C0C0"
+      ],
+      "type": "multi"
+    },
+    "id": 692306665,
+    "img_src": "https://cdn.tigertag.io/img?id=692306665&v=1793349326",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-146",
+    "title": "PLA Silk ALL3DP - Gold Silver"
   },
   {
     "RFID_Data": {
@@ -166790,6 +167052,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 63,
+      "color_g": 164,
+      "color_r": 72,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#48A43F",
+    "color_info": {
+      "colors": [
+        "#48A43F"
+      ],
+      "type": "mono"
+    },
+    "id": 899966068,
+    "img_src": "https://cdn.tigertag.io/img?id=899966068&v=1793349899",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-703",
+    "title": "PLA Matte ALL3DP - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 46,
       "color_g": 16,
       "color_r": 200,
@@ -188740,6 +189043,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 124,
+      "color_g": 44,
+      "color_r": 43,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#2B2C7C",
+    "color_info": {
+      "colors": [
+        "#2B2C7C"
+      ],
+      "type": "mono"
+    },
+    "id": 1023540647,
+    "img_src": "https://cdn.tigertag.io/img?id=1023540647&v=1793349921",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-704",
+    "title": "PLA Matte ALL3DP - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 181,
       "color_g": 94,
       "color_r": 160,
@@ -190253,6 +190597,47 @@
     "product_type": "Filament",
     "sku": "95A-TPU-TransparentGrey",
     "title": "95A-TPU - Transparent grey"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 246,
+      "color_g": 246,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#F6F6F6",
+    "color_info": {
+      "colors": [
+        "#F6F6F6"
+      ],
+      "type": "mono"
+    },
+    "id": 1033185961,
+    "img_src": "https://cdn.tigertag.io/img?id=1033185961&v=1793349857",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-701",
+    "title": "PLA Matte ALL3DP - White"
   },
   {
     "RFID_Data": {
@@ -227637,6 +228022,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_b2": 79,
+      "color_g": 47,
+      "color_g2": 158,
+      "color_r": 211,
+      "color_r2": 46,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#D32F2F",
+    "color_info": {
+      "colors": [
+        "#D32F2F",
+        "#2E9E4F"
+      ],
+      "type": "multi"
+    },
+    "id": 1244266518,
+    "img_src": "https://cdn.tigertag.io/img?id=1244266518&v=1793349507",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-141",
+    "title": "PLA Silk ALL3DP - Red Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 158,
       "color_g": 183,
       "color_r": 246,
@@ -231306,6 +231736,55 @@
     "product_type": "Filament",
     "sku": "LTP09H02K11",
     "title": "PLA Silk - Black & Deep Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 47,
+      "color_b2": 200,
+      "color_b3": 79,
+      "color_g": 47,
+      "color_g2": 86,
+      "color_g3": 158,
+      "color_r": 211,
+      "color_r2": 30,
+      "color_r3": 46,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#D32F2F",
+    "color_info": {
+      "colors": [
+        "#D32F2F",
+        "#1E56C8",
+        "#2E9E4F"
+      ],
+      "type": "multi"
+    },
+    "id": 1265853495,
+    "img_src": "https://cdn.tigertag.io/img?id=1265853495&v=1793349419",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-157",
+    "title": "PLA Silk ALL3DP - Red Blue Green"
   },
   {
     "RFID_Data": {
@@ -363459,6 +363938,55 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_b2": 0,
+      "color_b3": 79,
+      "color_g": 255,
+      "color_g2": 213,
+      "color_g3": 158,
+      "color_r": 255,
+      "color_r2": 255,
+      "color_r3": 46,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF",
+        "#FFD500",
+        "#2E9E4F"
+      ],
+      "type": "multi"
+    },
+    "id": 2001980893,
+    "img_src": "https://cdn.tigertag.io/img?id=2001980893&v=1793349479",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-154",
+    "title": "PLA Silk ALL3DP - White Yellow Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 232,
       "color_b2": 79,
       "color_g": 184,
@@ -380158,6 +380686,47 @@
     "product_type": "Filament",
     "sku": "R3DC1E105NHS",
     "title": "PETG High Speed - Green"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 67,
+      "color_g": 114,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#007243",
+    "color_info": {
+      "colors": [
+        "#007243"
+      ],
+      "type": "mono"
+    },
+    "id": 2091103311,
+    "img_src": "https://cdn.tigertag.io/img?id=2091103311&v=1793350003",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-709",
+    "title": "PLA Matte ALL3DP - Mint Green"
   },
   {
     "RFID_Data": {
@@ -433339,6 +433908,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_b2": 48,
+      "color_g": 47,
+      "color_g2": 184,
+      "color_r": 211,
+      "color_r2": 221,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#D32F2F",
+    "color_info": {
+      "colors": [
+        "#D32F2F",
+        "#DDB830"
+      ],
+      "type": "multi"
+    },
+    "id": 2389912865,
+    "img_src": "https://cdn.tigertag.io/img?id=2389912865&v=1793349534",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-144",
+    "title": "PLA Silk ALL3DP - Red Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 182,
       "color_g": 217,
       "color_r": 143,
@@ -436840,6 +437454,47 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU90A-BLUE-175-1KG",
     "title": "THE K8 TPU 90A - Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 28,
+      "color_g": 18,
+      "color_r": 193,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#C1121C",
+    "color_info": {
+      "colors": [
+        "#C1121C"
+      ],
+      "type": "mono"
+    },
+    "id": 2407425099,
+    "img_src": "https://cdn.tigertag.io/img?id=2407425099&v=1793350024",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-710",
+    "title": "PLA Matte ALL3DP - Red"
   },
   {
     "RFID_Data": {
@@ -453611,6 +454266,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 159,
+      "color_g": 153,
+      "color_r": 143,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#8F999F",
+    "color_info": {
+      "colors": [
+        "#8F999F"
+      ],
+      "type": "mono"
+    },
+    "id": 2500159827,
+    "img_src": "https://cdn.tigertag.io/img?id=2500159827&v=1793349885",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-702",
+    "title": "PLA Matte ALL3DP - Gray"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 28,
       "color_g": 28,
       "color_r": 28,
@@ -459388,6 +460084,51 @@
     "product_type": "Filament",
     "sku": "376004456412",
     "title": "PC - V0 Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 47,
+      "color_b2": 200,
+      "color_g": 47,
+      "color_g2": 86,
+      "color_r": 211,
+      "color_r2": 30,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#D32F2F",
+    "color_info": {
+      "colors": [
+        "#D32F2F",
+        "#1E56C8"
+      ],
+      "type": "multi"
+    },
+    "id": 2536195143,
+    "img_src": "https://cdn.tigertag.io/img?id=2536195143&v=1793349271",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-142",
+    "title": "PLA Silk ALL3DP - Red Blue"
   },
   {
     "RFID_Data": {
@@ -478237,6 +478978,51 @@
     "product_type": "Filament",
     "sku": "PLAPRO-BAS-BLACK-1000-175",
     "title": "PLA PRO Basic - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 123,
+      "color_b2": 255,
+      "color_g": 69,
+      "color_g2": 198,
+      "color_r": 224,
+      "color_r2": 110,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#E0457B",
+    "color_info": {
+      "colors": [
+        "#E0457B",
+        "#6EC6FF"
+      ],
+      "type": "multi"
+    },
+    "id": 2635837474,
+    "img_src": "https://cdn.tigertag.io/img?id=2635837474&v=1793349371",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-149",
+    "title": "PLA Silk ALL3DP - Rose Red Light Blue"
   },
   {
     "RFID_Data": {
@@ -502124,6 +502910,55 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 200,
+      "color_b2": 160,
+      "color_b3": 156,
+      "color_g": 86,
+      "color_g2": 63,
+      "color_g3": 93,
+      "color_r": 30,
+      "color_r2": 123,
+      "color_r3": 232,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#1E56C8",
+    "color_info": {
+      "colors": [
+        "#1E56C8",
+        "#7B3FA0",
+        "#E85D9C"
+      ],
+      "type": "multi"
+    },
+    "id": 2758825380,
+    "img_src": "https://cdn.tigertag.io/img?id=2758825380&v=1793349550",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-155",
+    "title": "PLA Silk ALL3DP - Blue Purple Pink"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 43,
       "color_g": 31,
       "color_r": 27,
@@ -503973,6 +504808,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 52,
+      "color_g": 50,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#2E3234",
+    "color_info": {
+      "colors": [
+        "#2E3234"
+      ],
+      "type": "mono"
+    },
+    "id": 2769375346,
+    "img_src": "https://cdn.tigertag.io/img?id=2769375346&v=1793349938",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-705",
+    "title": "PLA Matte ALL3DP - Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 128,
       "color_g": 128,
       "color_r": 128,
@@ -505076,6 +505952,51 @@
     "product_type": "Filament",
     "sku": "700-001-1310",
     "title": "PETG - White"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 200,
+      "color_b2": 79,
+      "color_g": 86,
+      "color_g2": 158,
+      "color_r": 30,
+      "color_r2": 46,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#1E56C8",
+    "color_info": {
+      "colors": [
+        "#1E56C8",
+        "#2E9E4F"
+      ],
+      "type": "multi"
+    },
+    "id": 2776127188,
+    "img_src": "https://cdn.tigertag.io/img?id=2776127188&v=1793349300",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-143",
+    "title": "PLA Silk ALL3DP - Blue Green"
   },
   {
     "RFID_Data": {
@@ -573557,6 +574478,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 90,
+      "color_b2": 17,
+      "color_g": 135,
+      "color_g2": 17,
+      "color_r": 0,
+      "color_r2": 17,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#00875A",
+    "color_info": {
+      "colors": [
+        "#00875A",
+        "#111111"
+      ],
+      "type": "multi"
+    },
+    "id": 3149686834,
+    "img_src": "https://cdn.tigertag.io/img?id=3149686834&v=1793349406",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-151",
+    "title": "PLA Silk ALL3DP - Emerald Green Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 240,
       "color_g": 240,
       "color_r": 240,
@@ -612099,6 +613065,55 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_b2": 48,
+      "color_b3": 160,
+      "color_g": 47,
+      "color_g2": 184,
+      "color_g3": 63,
+      "color_r": 211,
+      "color_r2": 221,
+      "color_r3": 123,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#D32F2F",
+    "color_info": {
+      "colors": [
+        "#D32F2F",
+        "#DDB830",
+        "#7B3FA0"
+      ],
+      "type": "multi"
+    },
+    "id": 3367784533,
+    "img_src": "https://cdn.tigertag.io/img?id=3367784533&v=1793349447",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-152",
+    "title": "PLA Silk ALL3DP - Red Gold Purple"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 107,
       "color_g": 42,
       "color_r": 27,
@@ -617802,6 +618817,55 @@
     "product_type": "Filament",
     "sku": "KEX-K8TPU95A-RED-285-1KG",
     "title": "THE K8 TPU 95A - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 47,
+      "color_b2": 0,
+      "color_b3": 200,
+      "color_g": 47,
+      "color_g2": 213,
+      "color_g3": 86,
+      "color_r": 211,
+      "color_r2": 255,
+      "color_r3": 30,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#D32F2F",
+    "color_info": {
+      "colors": [
+        "#D32F2F",
+        "#FFD500",
+        "#1E56C8"
+      ],
+      "type": "multi"
+    },
+    "id": 3394556188,
+    "img_src": "https://cdn.tigertag.io/img?id=3394556188&v=1793349433",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-158",
+    "title": "PLA Silk ALL3DP - Red Yellow Blue"
   },
   {
     "RFID_Data": {
@@ -647547,6 +648611,55 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 48,
+      "color_b2": 192,
+      "color_b3": 51,
+      "color_g": 184,
+      "color_g2": 192,
+      "color_g3": 115,
+      "color_r": 221,
+      "color_r2": 192,
+      "color_r3": 184,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#DDB830",
+    "color_info": {
+      "colors": [
+        "#DDB830",
+        "#C0C0C0",
+        "#B87333"
+      ],
+      "type": "multi"
+    },
+    "id": 3557536566,
+    "img_src": "https://cdn.tigertag.io/img?id=3557536566&v=1793349493",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-156",
+    "title": "PLA Silk ALL3DP - Gold Silver Copper"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 158,
       "color_g": 82,
       "color_r": 231,
@@ -657575,6 +658688,47 @@
     "product_type": "Filament",
     "sku": "ST3D-PC-RED",
     "title": "PC Sting3D - Red"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 59,
+      "color_g": 224,
+      "color_r": 243,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#F3E03B",
+    "color_info": {
+      "colors": [
+        "#F3E03B"
+      ],
+      "type": "mono"
+    },
+    "id": 3615774124,
+    "img_src": "https://cdn.tigertag.io/img?id=3615774124&v=1793349990",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-708",
+    "title": "PLA Matte ALL3DP - Zinc Yellow"
   },
   {
     "RFID_Data": {
@@ -695722,6 +696876,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 160,
+      "color_b2": 48,
+      "color_g": 63,
+      "color_g2": 184,
+      "color_r": 123,
+      "color_r2": 221,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#7B3FA0",
+    "color_info": {
+      "colors": [
+        "#7B3FA0",
+        "#DDB830"
+      ],
+      "type": "multi"
+    },
+    "id": 3841199035,
+    "img_src": "https://cdn.tigertag.io/img?id=3841199035&v=1793349345",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-147",
+    "title": "PLA Silk ALL3DP - Purple Gold"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 151,
       "color_g": 149,
       "color_r": 147,
@@ -723642,6 +724841,51 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 123,
+      "color_b2": 17,
+      "color_g": 69,
+      "color_g2": 17,
+      "color_r": 224,
+      "color_r2": 17,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#E0457B",
+    "color_info": {
+      "colors": [
+        "#E0457B",
+        "#111111"
+      ],
+      "type": "multi"
+    },
+    "id": 3995015552,
+    "img_src": "https://cdn.tigertag.io/img?id=3995015552&v=1793349387",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-150",
+    "title": "PLA Silk ALL3DP - Rose Red Black"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 76,
       "color_g": 120,
       "color_r": 169,
@@ -749682,6 +750926,47 @@
     "product_type": "Filament",
     "sku": "CA09021",
     "title": "Gradient Neon Panchroma - Halloween Neon"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 157,
+      "color_g": 99,
+      "color_r": 131,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#83639D",
+    "color_info": {
+      "colors": [
+        "#83639D"
+      ],
+      "type": "mono"
+    },
+    "id": 4133191022,
+    "img_src": "https://cdn.tigertag.io/img?id=4133191022&v=1793349953",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-706",
+    "title": "PLA Matte ALL3DP - Purple"
   },
   {
     "RFID_Data": {
@@ -775830,6 +777115,51 @@
     "product_type": "Filament",
     "sku": "KEX-K5PLAPRO-LAKEBLUE-175-5KG",
     "title": "THE K5 PLA PRO - Lake Blue"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_b2": 79,
+      "color_g": 213,
+      "color_g2": 158,
+      "color_r": 255,
+      "color_r2": 46,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 57839,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "barcode": null,
+    "brand": "ALL3DP",
+    "color": "#FFD500",
+    "color_info": {
+      "colors": [
+        "#FFD500",
+        "#2E9E4F"
+      ],
+      "type": "multi"
+    },
+    "id": 4280545417,
+    "img_src": "https://cdn.tigertag.io/img?id=4280545417&v=1793349358",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "product_type": "Filament",
+    "sku": "ALL3DP-148",
+    "title": "PLA Silk ALL3DP - Yellow Green"
   },
   {
     "RFID_Data": {
