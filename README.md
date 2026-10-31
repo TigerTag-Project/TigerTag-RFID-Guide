@@ -29,7 +29,7 @@
 [![JavaScript SDK](https://img.shields.io/badge/SDK-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/TigerTag-Project/TigerTag-SDK-JS)
 [![Deployed](https://img.shields.io/badge/chips%20deployed-2.5M%2B-success)](#industry-adoption)
 [![Offline auth](https://img.shields.io/badge/ECDSA--P256-offline%20verify-brightgreen)](#3-verify-signature-ecdsa-p256-fully-offline)
-[![Apps](https://img.shields.io/badge/iOS%20%26%20Android-free-lightgrey)](#56-tigertag-rfid-connect--mobile-apps-ios--android)
+[![Apps](https://img.shields.io/badge/iOS%20%26%20Android-free-lightgrey)](#57-tigertag-rfid-connect--mobile-apps-ios--android)
 
 > **TigerTag NFC** (RFID-compatible) is the open source protocol used to identify raw materials
 > in manufacturing — primarily 3D-printing filament spools and resin
@@ -1334,7 +1334,31 @@ Anycubic Kobra 3 series. Print it from
 
 🔗 [TigerTag-Project/TigerSpool-RFID](https://github.com/TigerTag-Project/TigerSpool-RFID) — ESP32-S3 / PlatformIO, MIT: build it, fork it, or sell it. One-click [Web Installer](https://tigertag-project.github.io/TigerSpool-RFID/) (Chrome/Edge).
 
-### 5.6 TigerTag RFID Connect — mobile apps (iOS & Android)
+### 5.6 Tiger Touch (open source) — "one screen for every printer you own"
+
+BIGTREETECH sells one 5" touchscreen under two names: the **Panda Touch**, made
+for Bambu Lab printers, and the **K-Touch**, made for Klipper printers. Change
+printer, and the screen goes into a drawer. **Tiger Touch** is a new firmware for
+that same screen, written from scratch: it signs in to the free TigerSystem
+account, finds every printer declared there (the same list as Tiger Studio
+Manager and TigerSpool), and talks to each one directly, over its own protocol,
+at the same time — progress, time left, temperatures, light, pause and stop.
+
+Supported: **Bambu Lab, Creality, Elegoo, Anycubic, Snapmaker, FlashForge and
+Prusa** printers, plus **Klipper** and **OctoPrint**. Nothing to solder, no
+Raspberry Pi, no computer left on, no server in between: plug the screen into a
+USB port, press **Install** in the browser, and a few minutes later it shows your
+printers. Interface in 11 languages, over-the-air updates.
+
+<p align="center">
+  <a href="https://github.com/TigerTag-Project/Tiger-Touch"><img src="Images/TigerTouch.png" alt="A BIGTREETECH Panda Touch running Tiger Touch, listing five printers of different brands with their progress, temperatures and pause / stop buttons" height="300"></a>
+  <br>
+  <sub><em>A Panda Touch running Tiger Touch: a FlashForge, an Anycubic, a Prusa and two Creality printers on one screen.</em></sub>
+</p>
+
+**Repository:** [TigerTag-Project/Tiger-Touch](https://github.com/TigerTag-Project/Tiger-Touch) — MIT. One-click [Web Installer](https://tigertag-project.github.io/Tiger-Touch/) (Chrome/Edge).
+
+### 5.7 TigerTag RFID Connect — mobile apps (iOS & Android)
 
 The official TigerTag mobile app (iOS and Android) is a **closed-source proof of concept** provided for convenience. It demonstrates how TigerTag tags can be read and written using the open source protocol.
 
