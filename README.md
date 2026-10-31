@@ -155,6 +155,7 @@ largest independent filament and resin brands.
 | DIY hardware                          | Tiger Scale V3 (open-source ESP32-S3 scale, 3.5" colour touchscreen)            |
 | Open-source hardware                  | TigerTag Pod — dual NFC/RFID reader & writer, DIY or kit                        |
 | Open-source printer-slot writer       | TigerSpool — tap a spool, the filament lands in the right printer slot (ESP32-S3, 2" touchscreen) |
+| Open-source printer touchscreen       | Tiger Touch — free firmware that turns a BIGTREETECH Panda Touch / K-Touch into one live screen for all your printers |
 
 <p align="center">
   <a href="https://github.com/TigerTag-Project/TigerPOD"><img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in blue, holding a spool of red filament upright in front of its TigerTag RFID reader" height="200"></a>
@@ -162,8 +163,10 @@ largest independent filament and resin brands.
   <a href="https://github.com/TigerTag-Project/TigerSpool-RFID"><img src="Images/TigerSpool.png" alt="TigerSpool RFID in blue — a box with a 2-inch touchscreen showing the Bambu Lab P2S slots, next to a spool of red filament" height="200"></a>
   &nbsp;
   <a href="https://github.com/TigerTag-Project/Tiger-Scale-V3"><img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5-inch colour touchscreen that identifies the spool from its TigerTag, weighs it, and computes the net filament weight in real time" height="200"></a>
+  &nbsp;
+  <a href="https://github.com/TigerTag-Project/Tiger-Touch"><img src="Images/TigerTouch.png" alt="A BIGTREETECH Panda Touch running Tiger Touch, showing two live printer cards, a Bambu Lab X1 Carbon and a Creality K2 Plus, with progress, time left and temperatures" height="200"></a>
   <br>
-  <sub><em><b>TigerPOD Mini</b> — NFC/RFID reader &amp; writer · <b>TigerSpool</b> — tap a spool, the filament lands in the right printer slot · <b>Tiger Scale V3</b> — identifies and weighs a TigerTag spool in real time.</em></sub>
+  <sub><em><b>TigerPOD Mini</b> — NFC/RFID reader &amp; writer · <b>TigerSpool</b> — tap a spool, the filament lands in the right printer slot · <b>Tiger Scale V3</b> — identifies and weighs a TigerTag spool in real time · <b>Tiger Touch</b> — one live touchscreen for all your printers.</em></sub>
 </p>
 
 <p align="center">
@@ -1450,6 +1453,7 @@ on the reader's color scheme.
 | Tiger Scale — hardware photo (previous generation) | PNG | <img src="brand/TigerScale_Photo.png" alt="Tiger Scale photo" height="48">                                                                                                     | [`brand/TigerScale_Photo.png`](brand/TigerScale_Photo.png)            |
 | TigerTag Pod Mini — product photo | JPG       | <img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini photo" height="48">                                                                                                                    | [`Images/TigerPOD_Mini.jpg`](Images/TigerPOD_Mini.jpg)                |
 | TigerSpool RFID — product photos (spool left · right) | PNG | <img src="Images/TigerSpool.png" alt="TigerSpool, spool on the left" height="48"> <img src="Images/TigerSpool_Right.png" alt="TigerSpool, spool on the right" height="48"> | [`Images/TigerSpool.png`](Images/TigerSpool.png) · [`Images/TigerSpool_Right.png`](Images/TigerSpool_Right.png) |
+| Tiger Touch — device render (Panda Touch running Tiger Touch) | PNG | <img src="Images/TigerTouch.png" alt="Tiger Touch on a Panda Touch" height="48"> | [`Images/TigerTouch.png`](Images/TigerTouch.png) |
 | TigerTag Pod — product photo     | PNG        | <img src="Images/TigerPOD_Blue.png" alt="TigerTag Pod photo" height="48">                                                                                                                     | [`Images/TigerPOD_Blue.png`](Images/TigerPOD_Blue.png)                |
 | TigerTag Pod — red · white | PNG | <img src="Images/TigerPOD_Red.png" alt="TigerTag Pod red" height="48"> <img src="Images/TigerPOD_White.png" alt="TigerTag Pod white" height="48"> | [`Images/TigerPOD_Red.png`](Images/TigerPOD_Red.png) · [`Images/TigerPOD_White.png`](Images/TigerPOD_White.png) |
 | TigerTag Pod — colour lineup     | JPG        | <img src="Images/TigerPOD_Lineup.jpg" alt="TigerTag Pod colour lineup" height="48">                                                                                                           | [`Images/TigerPOD_Lineup.jpg`](Images/TigerPOD_Lineup.jpg)            |

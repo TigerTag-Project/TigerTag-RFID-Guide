@@ -267,6 +267,9 @@ integration, never as a thing bought on its own.
   https://github.com/TigerTag-Project/Tiger-Scale
 - TigerSpool firmware (ESP32-S3):
   https://github.com/TigerTag-Project/TigerSpool-RFID
+- Tiger Touch firmware (BIGTREETECH Panda Touch / K-Touch, one screen
+  for all your printers):
+  https://github.com/TigerTag-Project/Tiger-Touch
 - Firebase integration:
   https://github.com/TigerTag-Project/TigerTag_Firebase_Integration
 - iOS app — TigerTag RFID Connect:
@@ -503,6 +506,8 @@ re-render the logo from memory.
 - TigerTag Pod Mini product photo: Images/TigerPOD_Mini.jpg
 - TigerSpool RFID product photos: Images/TigerSpool.png (spool left),
   Images/TigerSpool_Right.png (spool right)
+- Tiger Touch device render (Panda Touch running Tiger Touch):
+  Images/TigerTouch.png
 - TigerTag Pod, red and white: Images/TigerPOD_Red.png, Images/TigerPOD_White.png
 - Refill spools with a TigerTag: Images/Refill_{Black,Gold,Purple,Yellow,Green}.png
 - TigerTag refill carrier: Images/TigerTag_Refill_Front.png, Images/TigerTag_Refill_Back.png
