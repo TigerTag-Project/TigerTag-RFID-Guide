@@ -1100,9 +1100,9 @@ the API is documented at <https://api.tigertag.io/api:tigertag>, and
 the project website is <https://tigersystem.io>.
 
 <p align="center">
-  <img src="Images/TigerPOD_System.png" alt="The TigerTag system: a TigerTag Pod holding a spool, Tiger Studio Manager showing the filament inventory on a desktop, and the TigerTag RFID Connect mobile app scanning a tag" width="820">
+  <img src="Images/TigerSystem_Hero.webp" alt="The TigerSystem ecosystem on one desk: Tiger Studio Manager showing the filament inventory on an iMac, the TigerTag RFID Connect app on an iPhone, a Tiger Touch screen listing live printers, and a TigerPOD Mini that turns into a Tiger Scale V3 and then a TigerSpool around the same red spool" width="820">
   <br>
-  <sub><em>The same chip, read everywhere: a TigerTag Pod on the desk, Tiger Studio Manager on the computer, and TigerTag RFID Connect on the phone.</em></sub>
+  <sub><em>The same chip, read everywhere: Tiger Studio Manager on the computer, TigerTag RFID Connect on the phone, Tiger Touch beside the printers, and on the desk a TigerPOD Mini, a Tiger Scale V3 or a TigerSpool.</em></sub>
 </p>
 
 | Tool                                   | Type                                  | License / cost           | Repository / link                                                                                       |
@@ -1225,6 +1225,10 @@ node tools/server.js 7432   # then open http://localhost:7432/tools/playground.h
 ### 5.2 TigerTag Studio Manager (open source)
 
 Desktop application for **Windows, macOS, and Linux** that manages your 3D-printing filament inventory. It reads TigerTag NFC/RFID spool tags through an ACR122U NFC reader, tracks remaining weight, and surfaces print temperatures, MSDS/TDS links, and product details. Auto-updates via GitHub Releases.
+
+<p align="center">
+  <a href="https://github.com/TigerTag-Project/TigerTag-Studio-Manager"><img src="Images/TigerStudio_Pod.webp" alt="Tiger Studio Manager on an iMac showing the filament inventory, a spool's details and a Bambu Lab X1C printer live, next to a TigerPOD Mini holding a red spool" width="640"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/TigerTag-Project/TigerTag-Studio-Manager/releases/latest">
@@ -1481,6 +1485,8 @@ on the reader's color scheme.
 | TigerTag Pod — product photo     | PNG        | <img src="Images/TigerPOD_Blue.png" alt="TigerTag Pod photo" height="48">                                                                                                                     | [`Images/TigerPOD_Blue.png`](Images/TigerPOD_Blue.png)                |
 | TigerTag Pod — red · white | PNG | <img src="Images/TigerPOD_Red.png" alt="TigerTag Pod red" height="48"> <img src="Images/TigerPOD_White.png" alt="TigerTag Pod white" height="48"> | [`Images/TigerPOD_Red.png`](Images/TigerPOD_Red.png) · [`Images/TigerPOD_White.png`](Images/TigerPOD_White.png) |
 | TigerTag Pod — colour lineup     | JPG        | <img src="Images/TigerPOD_Lineup.jpg" alt="TigerTag Pod colour lineup" height="48">                                                                                                           | [`Images/TigerPOD_Lineup.jpg`](Images/TigerPOD_Lineup.jpg)            |
+| TigerSystem ecosystem — animated hero (Studio, Connect, Tiger Touch, POD / Scale / Spool) | WebP | <img src="Images/TigerSystem_Hero.webp" alt="TigerSystem ecosystem hero" height="48"> | [`Images/TigerSystem_Hero.webp`](Images/TigerSystem_Hero.webp) |
+| Tiger Studio Manager on an iMac, with a TigerPOD Mini | WebP | <img src="Images/TigerStudio_Pod.webp" alt="Tiger Studio Manager with a TigerPOD Mini" height="48"> | [`Images/TigerStudio_Pod.webp`](Images/TigerStudio_Pod.webp) |
 | TigerTag system — Pod, desktop, mobile | PNG  | <img src="Images/TigerPOD_System.png" alt="TigerTag system overview" height="48">                                                                                                             | [`Images/TigerPOD_System.png`](Images/TigerPOD_System.png)            |
 | Retail packaging — eSun, Rosa3D, Sunlu | PNG  | <img src="Images/Box_eSun.png" alt="eSun box" height="48"> <img src="Images/Box_Rosa3D.png" alt="Rosa3D box" height="48"> <img src="Images/Box_Sunlu.png" alt="Sunlu box" height="48">        | [`Images/Box_eSun.png`](Images/Box_eSun.png) · [`Images/Box_Rosa3D.png`](Images/Box_Rosa3D.png) · [`Images/Box_Sunlu.png`](Images/Box_Sunlu.png) |
 | Refill spools with a TigerTag — five colours | PNG | <img src="Images/Refill_Black.png" alt="black refill" height="48"> <img src="Images/Refill_Gold.png" alt="gold refill" height="48"> <img src="Images/Refill_Purple.png" alt="purple refill" height="48"> <img src="Images/Refill_Yellow.png" alt="yellow refill" height="48"> <img src="Images/Refill_Green.png" alt="green refill" height="48"> | [`Images/Refill_Black.png`](Images/Refill_Black.png) · [`Images/Refill_Gold.png`](Images/Refill_Gold.png) · [`Images/Refill_Purple.png`](Images/Refill_Purple.png) · [`Images/Refill_Yellow.png`](Images/Refill_Yellow.png) · [`Images/Refill_Green.png`](Images/Refill_Green.png) |
@@ -1748,6 +1754,10 @@ Canonical official assets live in brand/:
 - Images/TigerScale_V3.png           — Tiger Scale V3 hardware photo
 - Images/TigerPOD_Blue.png           — TigerTag Pod product photo
 - Images/TigerPOD_Lineup.jpg         — TigerTag Pod colour lineup
+- Images/TigerSystem_Hero.webp       — animated ecosystem hero (Studio,
+                                       Connect, Tiger Touch, POD / Scale /
+                                       Spool)
+- Images/TigerStudio_Pod.webp        — Studio Manager on an iMac + POD Mini
 - Images/TigerPOD_System.png         — Pod + desktop + mobile overview
 - Images/Box_eSun.png / Box_Rosa3D.png / Box_Sunlu.png
                                        — retail packaging carrying the
