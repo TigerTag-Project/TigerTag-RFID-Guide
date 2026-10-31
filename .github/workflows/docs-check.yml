@@ -16,6 +16,7 @@ on:
     paths-ignore:
       - 'database/id_*.json'
       - 'database/last_update.json'
+      - 'database/manifest.json'
   # An external link rots without anyone touching this repository — the site moves
   # and the link dies quietly. A check that only runs on push would never see it,
   # so this also sweeps once a week.

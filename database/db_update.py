@@ -29,16 +29,23 @@ The product catalogue (`id_catalog.json`) rides along in the same run. It cannot
 use the timestamp shortcut — see `sync_catalog` — so it is fetched every time and
 compared byte-for-byte before anything is written.
 
+The run ends by writing `manifest.json`: every table with its sha256, size, entry
+count and last change date, so a client can tell what changed and verify each
+download without asking the GitHub API — see `write_manifest`.
+
 Usage:
-    python db_update.py           # sync
-    python db_update.py --check   # report what is stale, write nothing, exit 1
+    python db_update.py              # sync, then refresh the manifest
+    python db_update.py --check      # report what is stale, write nothing, exit 1
+    python db_update.py --manifest   # refresh the manifest only, no network
 """
 
 import collections
+import hashlib
 import json
 import os
 import sys
 import time
+from datetime import datetime, timezone
 
 import requests
 
@@ -365,10 +372,105 @@ def sync(check_only=False):
     return updated
 
 
+# ── The manifest ────────────────────────────────────────────────────────────
+# `manifest.json` lists every table of this folder with the sha256 of its exact
+# published bytes, its size, its entry count and the last time its content
+# changed. A client fetches this one small file from whichever source answers
+# (GitHub, jsDelivr, a mirror), downloads only the tables whose sha256 differs,
+# and refuses any download that does not match. A mirror then needs no more trust
+# than GitHub: a stale or altered file is simply rejected.
+#
+# It is rewritten only when a table changed, and `generatedAt` is that moment:
+# a run that changes nothing leaves the manifest byte-identical, so the six-hourly
+# workflow does not commit a new manifest every time. It is written last, with the
+# same atomic write as the tables, so it never describes a file that is not there.
+MANIFEST_FILE = "manifest.json"
+MANIFEST_PATH = os.path.join(TARGET_FOLDER, MANIFEST_FILE)
+MANIFEST_FORMAT = 1
+
+
+def _utc_now_iso():
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+
+def _describe_table(path):
+    with open(path, "rb") as f:
+        raw = f.read()
+    try:
+        data = json.loads(raw.decode("utf-8"))
+    except (UnicodeDecodeError, ValueError) as e:
+        raise RuntimeError(f"{os.path.basename(path)}: not valid JSON ({e}) — refusing to list it")
+    return {
+        "sha256": hashlib.sha256(raw).hexdigest(),
+        "bytes": len(raw),
+        "entries": len(data) if isinstance(data, list) else None,
+    }
+
+
+def build_manifest(previous=None):
+    """The manifest for the tables on disk now; `previous` keeps unchanged dates.
+
+    Returns (manifest, changed) where `changed` lists the files added, removed or
+    modified since `previous`.
+    """
+    previous = previous if isinstance(previous, dict) else {}
+    old_files = previous.get("files") if isinstance(previous.get("files"), dict) else {}
+    now = _utc_now_iso()
+    files, changed = {}, []
+    for name in sorted(os.listdir(TARGET_FOLDER)):
+        if not name.endswith(".json") or name == MANIFEST_FILE:
+            continue
+        entry = _describe_table(os.path.join(TARGET_FOLDER, name))
+        old = old_files.get(name) or {}
+        same = old.get("sha256") == entry["sha256"] and old.get("bytes") == entry["bytes"]
+        entry["updatedAt"] = old.get("updatedAt") if same and old.get("updatedAt") else now
+        if not same:
+            changed.append(name)
+        files[name] = entry
+    changed += sorted(set(old_files) - set(files))
+    if not changed and previous.get("format") == MANIFEST_FORMAT and previous.get("generatedAt"):
+        generated = previous["generatedAt"]
+    else:
+        generated = now
+    return {"format": MANIFEST_FORMAT, "generatedAt": generated, "files": files}, changed
+
+
+def write_manifest(check_only=False):
+    """Refresh `manifest.json`; returns True when it changed (or would, with --check)."""
+    previous = None
+    if os.path.exists(MANIFEST_PATH):
+        try:
+            with open(MANIFEST_PATH, "r", encoding="utf-8") as f:
+                previous = json.load(f)
+        except (OSError, ValueError):
+            previous = None
+    manifest, changed = build_manifest(previous)
+    if previous is not None and not changed and previous == manifest:
+        print(f"[ok]   {MANIFEST_FILE}: up to date ({len(manifest['files'])} files)")
+        return False
+    if check_only:
+        print(f"[stale] {MANIFEST_FILE}: {', '.join(changed) or 'format'}")
+        return True
+    write_atomic(MANIFEST_PATH, json.dumps(manifest, ensure_ascii=False, indent=2) + "\n")
+    print(f"[sync] {MANIFEST_FILE}: {len(manifest['files'])} files"
+          + (f", changed: {', '.join(changed)}" if changed else ""))
+    return True
+
+
 if __name__ == "__main__":
     check = "--check" in sys.argv
+    if "--manifest" in sys.argv:
+        try:
+            changed = [MANIFEST_FILE] if write_manifest(check_only=check) else []
+        except (RuntimeError, OSError) as exc:
+            print(f"error: {exc}", file=sys.stderr)
+            sys.exit(1)
+        sys.exit(1 if (check and changed) else 0)
     try:
         changed = sync(check_only=check)
+        # Last, after every table is in place: the manifest describes what is on disk.
+        if write_manifest(check_only=check):
+            changed.append(MANIFEST_FILE)
     except requests.RequestException as exc:
         print(f"error: API request failed: {exc}", file=sys.stderr)
         sys.exit(1)

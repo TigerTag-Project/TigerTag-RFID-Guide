@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "generatedAt": "2026-10-31T19:32:49Z",
+  "files": {
+    "id_aspect.json": {
+      "sha256": "78fc872b93c105fa18aeecc0a94ab0790792ad1677f6ec6e59d786490fd518c0",
+      "bytes": 1701,
+      "entries": 25,
+      "updatedAt": "2026-10-31T19:32:49Z"
+    },
+    "id_brand.json": {
+      "sha256": "e586fd944b76ec44e7e34c6cee0072e4140cf742969cc48b6be964ab95250cf1",
+      "bytes": 13155,
+      "entries": 151,
+      "updatedAt": "2026-10-31T19:32:49Z"
+    },
+    "id_catalog.json": {
+      "sha256": "1a37a1b90766c96dd1bb299a269daa7ec7454a27f112e3b4143e37cede95c39d",
+      "bytes": 17268794,
+      "entries": 19205,
+      "updatedAt": "2026-10-31T19:32:49Z"
+    },
+    "id_diameter.json": {
+      "sha256": "a1bc0abcc83663e19927fc58cee90ac5118c75cbae13ac0175e309834e18688b",
+      "bytes": 52,
+      "entries": 2,
+      "updatedAt": "2026-10-31T19:32:49Z"
+    },
+    "id_material.json": {
+      "sha256": "e1772dbe2d8506bef7a23fcda537881711636be300dd8d7517f3d3d629fb0f15",
+      "bytes": 47823,
+      "entries": 113,
+      "updatedAt": "2026-10-31T19:32:49Z"
+    },
+    "id_measure_unit.json": {
+      "sha256": "e73a2832183e021406036db7aa3d119f9e379aabba83bd70b92903d41e3bb031",
+      "bytes": 425,
+      "entries": 11,
+      "updatedAt": "2026-10-31T19:32:49Z"
+    },
+    "id_type.json": {
+      "sha256": "2d43ca84a02061f176153f7aa04632b721dca697954f9b4cecdd292c29dce1b6",
+      "bytes": 122,
+      "entries": 4,
+      "updatedAt": "2026-10-31T19:32:49Z"
+    },
+    "id_version.json": {
+      "sha256": "86d6f1c4ba589676b2f82df112ae64bcde08cc44dbd9c1547f3caea905cd0405",
+      "bytes": 1063,
+      "entries": 4,
+      "updatedAt": "2026-10-31T19:32:49Z"
+    },
+    "last_update.json": {
+      "sha256": "5215ec016133c769b144e7b29ac23378bbe6487f3f1fabd5eb87bcbd230d0b9b",
+      "bytes": 195,
+      "entries": null,
+      "updatedAt": "2026-10-31T19:32:49Z"
+    }
+  }
+}
