@@ -158,13 +158,13 @@ largest independent filament and resin brands.
 | Open-source printer touchscreen       | Tiger Touch — free firmware that turns a BIGTREETECH Panda Touch / K-Touch into one live screen for all your printers |
 
 <p align="center">
-  <a href="https://github.com/TigerTag-Project/TigerPOD"><img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in blue, holding a spool of red filament upright in front of its TigerTag RFID reader" height="200"></a>
+  <a href="https://github.com/TigerTag-Project/TigerPOD"><img src="Images/TigerPOD_Mini.jpg" alt="TigerTag Pod Mini in blue, holding a spool of red filament upright in front of its TigerTag RFID reader" height="180"></a>
   &nbsp;
-  <a href="https://github.com/TigerTag-Project/TigerSpool-RFID"><img src="Images/TigerSpool.png" alt="TigerSpool RFID in blue — a box with a 2-inch touchscreen showing the Bambu Lab P2S slots, next to a spool of red filament" height="200"></a>
+  <a href="https://github.com/TigerTag-Project/TigerSpool-RFID"><img src="Images/TigerSpool.png" alt="TigerSpool RFID in blue — a box with a 2-inch touchscreen showing the Bambu Lab P2S slots, next to a spool of red filament" height="180"></a>
   &nbsp;
-  <a href="https://github.com/TigerTag-Project/Tiger-Scale-V3"><img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5-inch colour touchscreen that identifies the spool from its TigerTag, weighs it, and computes the net filament weight in real time" height="200"></a>
+  <a href="https://github.com/TigerTag-Project/Tiger-Scale-V3"><img src="Images/TigerScale_V3.png" alt="Tiger Scale V3 — open-source ESP32-S3 smart scale with a 3.5-inch colour touchscreen that identifies the spool from its TigerTag, weighs it, and computes the net filament weight in real time" height="180"></a>
   &nbsp;
-  <a href="https://github.com/TigerTag-Project/Tiger-Touch"><img src="Images/TigerTouch.png" alt="A BIGTREETECH Panda Touch running Tiger Touch, listing five printers of different brands (FlashForge AD5X, Anycubic Kobra S1, Prusa Core One, Creality K2 Plus, Ender-3 S1) with their progress, temperatures and pause / stop buttons" height="200"></a>
+  <a href="https://github.com/TigerTag-Project/Tiger-Touch"><img src="Images/TigerTouch.png" alt="A BIGTREETECH Panda Touch running Tiger Touch, listing five printers of different brands (FlashForge AD5X, Anycubic Kobra S1, Prusa Core One, Creality K2 Plus, Ender-3 S1) with their progress, temperatures and pause / stop buttons" height="180"></a>
   <br>
   <sub><em><b>TigerPOD Mini</b> — NFC/RFID reader &amp; writer · <b>TigerSpool</b> — tap a spool, the filament lands in the right printer slot · <b>Tiger Scale V3</b> — identifies and weighs a TigerTag spool in real time · <b>Tiger Touch</b> — one live touchscreen for all your printers.</em></sub>
 </p>
