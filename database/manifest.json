@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-01T21:38:18Z",
+  "generatedAt": "2026-11-02T14:38:42Z",
   "files": {
     "id_aspect.json": {
       "sha256": "78fc872b93c105fa18aeecc0a94ab0790792ad1677f6ec6e59d786490fd518c0",
@@ -9,16 +9,16 @@
       "updatedAt": "2026-10-31T19:32:49Z"
     },
     "id_brand.json": {
-      "sha256": "a1df40df3ff697cc100db1bb80939bcef3e5343e5fec0916ec94097c1d912a20",
-      "bytes": 13320,
-      "entries": 153,
-      "updatedAt": "2026-11-01T21:38:18Z"
+      "sha256": "85ad69fd698efe517a3b51181430f7444394675e265c1594d32e09160802b931",
+      "bytes": 13413,
+      "entries": 154,
+      "updatedAt": "2026-11-02T14:38:42Z"
     },
     "id_catalog.json": {
-      "sha256": "64f1e69694278ddc55a7305a318ce22d91beda14d604bd9cf0995b137ce5b130",
-      "bytes": 17535981,
-      "entries": 19497,
-      "updatedAt": "2026-11-01T21:38:18Z"
+      "sha256": "857ed46ab8bf1c232ae31a9a5c11752b719cdaad3c6f6ea92d85805209911605",
+      "bytes": 17825652,
+      "entries": 19813,
+      "updatedAt": "2026-11-02T14:38:42Z"
     },
     "id_diameter.json": {
       "sha256": "a1bc0abcc83663e19927fc58cee90ac5118c75cbae13ac0175e309834e18688b",
@@ -51,10 +51,10 @@
       "updatedAt": "2026-10-31T19:32:49Z"
     },
     "last_update.json": {
-      "sha256": "d3c4fa79b9927f2398f542b843d1139ad0094e793ff59739eee969f5c7333375",
+      "sha256": "5b09c49228908ec4bdd2269d132cb3881472098fb5ed4e5255988a73ed922c19",
       "bytes": 195,
       "entries": null,
-      "updatedAt": "2026-11-01T21:38:18Z"
+      "updatedAt": "2026-11-02T14:38:42Z"
     }
   }
 }
