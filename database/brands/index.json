@@ -1,7 +1,7 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "c3440285bf50280a45cb9866c327b6adaee98b5408ac5f6aa439267c5195e766",
+  "sourceSha256": "2ed7894e67313da2ebd5e7ceabee65d22d235c025a9a4ff71dc3de19642e0ab0",
   "products": 20346,
   "unassigned": 3,
   "brands": [
@@ -10,8 +10,8 @@
       "brand": "3D Printing Canada",
       "file": "id_3d_printing_canada.json",
       "entries": 263,
-      "bytes": 240415,
-      "sha256": "cef45137964accccfbd7e5921a7e191466dccc3101d67360385748507e51de65"
+      "bytes": 239989,
+      "sha256": "12694d2e681f67daac7b4fb58a8b245169b2cc58ad4cbff35b742df0aa2a2a5c"
     },
     {
       "id_brand": 14982,
@@ -554,8 +554,8 @@
       "brand": "Lotactree",
       "file": "id_lotactree.json",
       "entries": 176,
-      "bytes": 155065,
-      "sha256": "15726f92082d8843d445c1e13f6f6c59605f334de223713c875a50b26f058776"
+      "bytes": 155075,
+      "sha256": "87174cb517c6c9e573cebc00565a796838eabbf1521bb37359eb2d06afe600c8"
     },
     {
       "id_brand": 5048,
