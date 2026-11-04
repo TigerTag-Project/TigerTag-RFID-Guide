@@ -36,6 +36,11 @@ jobs:
       - name: Run incremental sync
         run: python database/db_update.py
 
+      # One file per brand under database/brands/, from the catalogue just synced.
+      # No network; only the brands whose products changed are rewritten.
+      - name: Split the catalogue by brand
+        run: python database/split_catalog.py
+
       - name: Commit and push if changes
         run: |
           if [[ -z "$(git status --porcelain database/)" ]]; then
@@ -48,7 +53,13 @@ jobs:
 
           git add database/
 
-          changed=$(git diff --cached --name-only | xargs -n1 basename | paste -sd ', ' -)
+          # The brand files are summed up as one entry, so a catalogue change that
+          # touches forty brands still gives a readable commit title.
+          changed=$(git diff --cached --name-only | grep -v '^database/brands/' | xargs -r -n1 basename | paste -sd ', ' -)
+          brands=$(git diff --cached --name-only -- database/brands/ | wc -l | tr -d ' ')
+          if [[ "$brands" -gt 0 ]]; then
+            changed="${changed:+$changed, }brands/ (${brands} files)"
+          fi
           git commit -m "Auto-sync database: ${changed}"
           git push
 
