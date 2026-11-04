@@ -55,7 +55,9 @@ The same data is available, always current, with no key and no login:
 | `id_catalog.json` | **The full TigerTag+ product catalogue** — named like its `id_*.json` neighbours because that is what it is: the ids — every referenced product with its brand, series, name, material, aspect, colour, SKU, barcode, capacity and image |
 | `last_update.json` | Sync timestamps, as served by the API's `all/last_update` |
 | `manifest.json` | Every table above with its sha256, size, entry count and last change date. See [The manifest](#the-manifest) |
+| `brands/` | The catalogue split into one file per brand (`brands/id_rosa3d.json`, `brands/id_bambu_lab.json`, …) with `brands/index.json`. See [One catalogue per brand](#one-catalogue-per-brand) |
 | `db_update.py` | Sync tooling for everything above — tables and catalogue (Apache-2.0) |
+| `split_catalog.py` | Writes `brands/` from `id_catalog.json` (Apache-2.0) |
 
 ### The product catalogue
 
@@ -149,6 +151,29 @@ trust than GitHub: a stale or altered file is refused.
 
 `python db_update.py --manifest` rebuilds the manifest from the files on disk
 without touching the network (`--manifest --check` only reports).
+
+### One catalogue per brand
+
+`brands/` holds the same catalogue cut by brand: one file per brand, with exactly
+the products, order and format of `id_catalog.json`. A reader, a scale, or a
+brand's own tool can embed only the brand it needs — a few hundred kilobytes
+instead of the whole catalogue.
+
+- Products are grouped by `RFID_Data.id_brand`, the id the chip carries.
+- The file name comes from the brand's name: lower case, ASCII, `_` between
+  words (`Rosa3D` → `brands/id_rosa3d.json`, `Bambu Lab` → `brands/id_bambu_lab.json`,
+  `3DKordo (Everfil)` → `brands/id_3dkordo_everfil.json`). Two names that would give
+  the same file name get the brand id appended.
+- `brands/index.json` lists every brand: `id_brand`, `brand`, `file`,
+  `entries`, `bytes` and `sha256`, plus the sha256 of the catalogue it was cut
+  from and the number of products without a brand (left out of `brands/`).
+  Look a brand up by `id_brand` there rather than guessing its file name: a
+  brand renamed in the catalogue gets a new file name, never a new id.
+
+`split_catalog.py` runs right after `db_update.py` in the sync workflow, with no
+network. It rewrites only the brands whose products changed and removes the
+file of a brand that left the catalogue. `python split_catalog.py --check`
+reports what would change and writes nothing.
 
 ## A note on the public keys
 

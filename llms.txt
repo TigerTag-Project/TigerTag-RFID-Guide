@@ -161,6 +161,10 @@ Everything in the TigerTag stack is free for end users and developers.
   product, open source or proprietary, at any volume.
 - Reference database (database/*.json): CC0-1.0, public domain. No
   attribution required. Embed it directly.
+  The catalogue also comes split by brand, one file per brand, for
+  integrations that only need one: database/brands/id_<brand>.json
+  (e.g. id_rosa3d.json), listed with their id_brand in
+  database/brands/index.json.
 - Sample code: open source, Apache-2.0 (express patent grant).
 - TigerTag SDK for Python: open source, Apache-2.0, free.
 - TigerTag SDK for JavaScript: open source, Apache-2.0, free.
