@@ -1,10 +1,18 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "fc09f6893f1be5198d254148d8accab2091b0d54f24097ed7785c8ea488d158c",
-  "products": 19962,
+  "sourceSha256": "c3440285bf50280a45cb9866c327b6adaee98b5408ac5f6aa439267c5195e766",
+  "products": 20346,
   "unassigned": 3,
   "brands": [
+    {
+      "id_brand": 31367,
+      "brand": "3D Printing Canada",
+      "file": "id_3d_printing_canada.json",
+      "entries": 263,
+      "bytes": 240415,
+      "sha256": "cef45137964accccfbd7e5921a7e191466dccc3101d67360385748507e51de65"
+    },
     {
       "id_brand": 14982,
       "brand": "3D-Fuel",
@@ -769,9 +777,9 @@
       "id_brand": 22652,
       "brand": "Spectrum",
       "file": "id_spectrum.json",
-      "entries": 328,
-      "bytes": 294065,
-      "sha256": "99f7f400417baa912a0a0ed6ed3c65aed3f2febf598bd3e01c3787ca2f172266"
+      "entries": 449,
+      "bytes": 402080,
+      "sha256": "df5671c78b6261112085d9a1eca95bc8df3fa4770f68cf15f039741e723c723e"
     },
     {
       "id_brand": 17095,
