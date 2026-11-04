@@ -55,7 +55,7 @@ jobs:
 
           # The brand files are summed up as one entry, so a catalogue change that
           # touches forty brands still gives a readable commit title.
-          changed=$(git diff --cached --name-only | grep -v '^database/brands/' | xargs -r -n1 basename | paste -sd ', ' -)
+          changed=$(git diff --cached --name-only | grep -v '^database/brands/' | xargs -r -n1 basename | paste -sd ',' - | sed 's/,/, /g')
           brands=$(git diff --cached --name-only -- database/brands/ | wc -l | tr -d ' ')
           if [[ "$brands" -gt 0 ]]; then
             changed="${changed:+$changed, }brands/ (${brands} files)"
