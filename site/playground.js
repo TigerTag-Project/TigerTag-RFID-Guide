@@ -440,6 +440,22 @@
       tdRaw: Math.round(Number(v("#pg-c-td")) * 10) || 0, message: v("#pg-c-msg"), signature: null,
     });
   }
+  /* Custom Message (+48) holds 28 bytes of UTF-8: an accented letter takes 2, an
+     emoji 4. Typing stops at 28 bytes, never inside a character, and the meter
+     shows how many are used. */
+  const MSG_BYTES = 28;
+  function fitMessage() {
+    const el = $("#pg-c-msg"), enc = new TextEncoder();
+    let text = el.value;
+    while (enc.encode(text).length > MSG_BYTES) text = Array.from(text).slice(0, -1).join("");
+    if (text !== el.value) el.value = text;
+    const used = enc.encode(text).length;
+    $("#pg-msg-out").textContent = used + " / " + MSG_BYTES;
+    const bar = $("#pg-msg-bar");
+    bar.style.width = (used * 100 / MSG_BYTES) + "%";
+    bar.classList.toggle("is-full", used >= MSG_BYTES);
+  }
+
   function onMaterial() {
     const m = materials.find((x) => String(x.id) === $("#pg-c-material").value);
     const r = m && m.recommended;
@@ -511,6 +527,7 @@
     $("#pg-cat-list").addEventListener("click", (e) => {
       const b = e.target.closest("button[data-k]"); if (b) showProduct(products[Number(b.dataset.k)]);
     });
+    $("#pg-c-msg").addEventListener("input", fitMessage);
     root.querySelectorAll(".pg-panel[data-mode=custom] input, .pg-panel[data-mode=custom] select").forEach((el) =>
       el.addEventListener(el.id === "pg-c-material" ? "change" : "input", el.id === "pg-c-material" ? onMaterial : () => { current = readCustom(); render(); }));
     $("#pg-twin").addEventListener("change", onCommon);

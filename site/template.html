@@ -136,10 +136,10 @@
           <div class="pg-f"><span>{{pg_nozzle}} <code class="pg-fname">Nozzle Temp Min / Max · +24 / +26</code></span><div class="pg-2"><input id="pg-c-nmin" type="number" min="0" max="500" aria-label="{{pg_nozzle}} min"><input id="pg-c-nmax" type="number" min="0" max="500" aria-label="{{pg_nozzle}} max"></div></div>
           <div class="pg-f"><span>{{pg_bed}} <code class="pg-fname">Bed Temp Min / Max · +30 / +31</code></span><div class="pg-2"><input id="pg-c-bmin" type="number" min="0" max="255" aria-label="{{pg_bed}} min"><input id="pg-c-bmax" type="number" min="0" max="255" aria-label="{{pg_bed}} max"></div></div>
           <div class="pg-f"><span>{{pg_dry}} <code class="pg-fname">Dry Temp / Dry Time · +28 / +29</code></span><div class="pg-2"><input id="pg-c-dtemp" type="number" min="0" max="255" aria-label="{{pg_dry}} °C"><input id="pg-c-dtime" type="number" min="0" max="255" aria-label="{{pg_dry}} h"></div></div>
-          <div class="pg-2">
-            <label class="pg-f"><span>{{pg_td}} <code class="pg-fname">TD (HueForge) · +44</code></span><input id="pg-c-td" type="number" min="0" max="100" step="0.1" value="0"></label>
-            <label class="pg-f"><span>{{pg_msg}} <code class="pg-fname">Custom Message · +48</code></span><input id="pg-c-msg" type="text" maxlength="28"></label>
-          </div>
+          <label class="pg-f pg-td"><span>{{pg_td}} <code class="pg-fname">TD (HueForge) · +44</code></span><input id="pg-c-td" type="number" min="0" max="100" step="0.1" value="0"></label>
+          <label class="pg-f"><span>{{pg_msg}} <code class="pg-fname">Custom Message · +48</code> <output id="pg-msg-out">0 / 28</output></span>
+            <input id="pg-c-msg" type="text" autocomplete="off">
+            <span class="pg-meter" aria-hidden="true"><i id="pg-msg-bar"></i></span></label>
         </div>
 
         <div class="pg-panel" data-mode="decode" hidden>

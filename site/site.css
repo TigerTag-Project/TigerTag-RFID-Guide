@@ -177,7 +177,12 @@ footer.foot .links { justify-content: center; }
 .pg-fname { font: 600 .72rem ui-monospace, Menlo, monospace; color: var(--accent); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; margin-left: 4px; white-space: nowrap; }
 .pg-fname--row { display: block; width: fit-content; margin: 3px 0 0 17px; font-weight: 500; color: var(--muted); }
 .pg-left { display: grid; grid-template-columns: 1fr 96px; gap: 10px; align-items: center; }
-#pg-left-out { color: var(--text); font-weight: 600; margin-left: 6px; }
+#pg-left-out, #pg-msg-out { color: var(--text); font-weight: 600; margin-left: 6px; }
+.pg-td { max-width: 50%; }
+/* How many of the message's 28 bytes are used. */
+.pg-meter { display: block; height: 6px; margin-top: 6px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); overflow: hidden; }
+.pg-meter i { display: block; height: 100%; width: 0; background: var(--g-msg); transition: width .15s ease; }
+.pg-meter i.is-full { background: var(--accent); }
 .pg-f select, .pg-f input:not([type=color]):not([type=range]), .pg-f textarea, .pg-colors select {
   width: 100%; font: inherit; font-size: .95rem; color: var(--text); background: var(--bg);
   border: 1px solid var(--line); border-radius: 10px; padding: 9px 11px; }
