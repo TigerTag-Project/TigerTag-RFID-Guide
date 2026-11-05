@@ -48,6 +48,7 @@ import argparse
 import os
 import re
 import sys
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import unquote
@@ -82,6 +83,18 @@ BACKTICK_DOCS = {"brand/README.md", "database/README.md"}
 
 HTTP_TIMEOUT = 20
 MAX_WORKERS = 8
+# At most this many requests in flight to one host. The README and llms.txt link
+# some twenty pages on github.com, and a CI runner probing them eight at a time
+# was throttled by GitHub itself: 504s on live repositories, a red run on a PR
+# that never touched a link (TigerTag-RFID-Guide #40, #43, #44).
+PER_HOST = 2
+# Answers that say "the server cannot answer now", not "this link is broken":
+# rate limits and gateway errors. Retried with a growing pause, and if they
+# persist they are reported as warnings: the link is probably fine, and a check
+# that fails on someone else's outage teaches people to ignore it. 404, 410, DNS
+# and TLS failures stay errors.
+TRANSIENT = {429, 500, 502, 503, 504}
+RETRY_PAUSES = (3, 8, 15)
 USER_AGENT = (
     "Mozilla/5.0 (compatible; TigerTag-docs-check/1.0; "
     "+https://github.com/TigerTag-Project/TigerTag-RFID-Guide)"
@@ -309,24 +322,37 @@ def check_external(problems, warnings):
 
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
+    host_slots = {}
+    slots_lock = threading.Lock()
+
+    def host_of(url):
+        return re.sub(r"^https?://([^/]+).*$", r"\1", url).lower()
+
+    def request_once(url):
+        r = session.head(url, timeout=HTTP_TIMEOUT, allow_redirects=True)
+        # Plenty of servers do not implement HEAD properly.
+        if r.status_code >= 400 or r.status_code == 405:
+            r = session.get(url, timeout=HTTP_TIMEOUT, allow_redirects=True, stream=True)
+            r.close()
+        return r.status_code
 
     def probe(url):
-        # Retry connection-level failures: several of these URLs sit on the same
-        # host, and probing them in parallel is enough to get one connection
-        # dropped. A single transient reset must not turn the run red.
-        last_error = None
-        for attempt in range(3):
+        # Retried: connection-level failures (several URLs share a host, and a
+        # parallel probe can get one connection dropped) and TRANSIENT answers.
+        with slots_lock:
+            slot = host_slots.setdefault(host_of(url), threading.Semaphore(PER_HOST))
+        status, last_error = None, None
+        for attempt in range(len(RETRY_PAUSES) + 1):
             try:
-                r = session.head(url, timeout=HTTP_TIMEOUT, allow_redirects=True)
-                # Plenty of servers do not implement HEAD properly.
-                if r.status_code >= 400 or r.status_code == 405:
-                    r = session.get(url, timeout=HTTP_TIMEOUT, allow_redirects=True, stream=True)
-                    r.close()
-                return url, r.status_code, None
+                with slot:
+                    status, last_error = request_once(url), None
+                if status not in TRANSIENT:
+                    return url, status, None
             except requests.RequestException as exc:
-                last_error = type(exc).__name__
-                time.sleep(1.5 * (attempt + 1))
-        return url, None, last_error
+                status, last_error = None, type(exc).__name__
+            if attempt < len(RETRY_PAUSES):
+                time.sleep(RETRY_PAUSES[attempt])
+        return url, status, last_error
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
         results = list(pool.map(probe, sorted(where)))
@@ -334,11 +360,14 @@ def check_external(problems, warnings):
     for url, status, err in results:
         if status is not None and status < 400:
             continue
-        host = re.sub(r"^https?://([^/]+).*$", r"\1", url).lower()
+        host = host_of(url)
         detail = f"HTTP {status}" if status is not None else err
         locations = ", ".join(where[url])
         message = f"{locations}  {detail}: {url}"
-        (warnings if host in FLAKY_HOSTS else problems).append(message)
+        transient = status in TRANSIENT
+        if transient:
+            message += f" (still {status} after {len(RETRY_PAUSES)} retries: the server, not the link)"
+        (warnings if host in FLAKY_HOSTS or transient else problems).append(message)
 
 
 def check_facts(problems):
