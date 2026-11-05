@@ -12,6 +12,8 @@
 <p align="center">
   <a href="https://tigersystem.io">tigersystem.io</a>
   ·
+  <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/">Protocol site (11 languages)</a>
+  ·
   <a href="https://wiki.tigersystem.io">Documentation wiki</a>
   ·
   <a href="https://api.tigertag.io/api:tigertag">Public API</a>
