@@ -250,6 +250,16 @@
     fillSelects(brands, aspects, types, diams, units);
   }
 
+  /* The CDN serves each product photo in several sizes (as in Tiger Studio Manager):
+     ask for the one that covers the slot, never the full-size default. */
+  const CDN_SIZES = [[16, "icon"], [32, "thumb"], [64, "small"], [128, "compact"], [256, "medium"], [512, "large"], [1024, "master"]];
+  function cdnImg(url, cssPx) {
+    if (!url || !/^https?:\/\/cdn\.tigertag\.io\/img\b/i.test(url) || /[?&]size=/.test(url)) return url || "";
+    const need = cssPx * (window.devicePixelRatio || 1);
+    const size = (CDN_SIZES.find(([px]) => need <= px * 1.1) || CDN_SIZES[CDN_SIZES.length - 1])[1];
+    return url + (url.includes("?") ? "&" : "?") + "size=" + size;
+  }
+
   function opt(v, t, sel) { return `<option value="${v}"${sel ? " selected" : ""}>${escapeHtml(t)}</option>`; }
 
   function fillSelects(brands, aspects, types, diams, units) {
@@ -283,15 +293,17 @@
   function listProducts() {
     const q = $("#pg-cat-search").value.trim().toLowerCase();
     const hits = products.filter((p) => !q || [p.title, p.sku, p.barcode, p.material, p.series].some((v) => v && String(v).toLowerCase().includes(q)));
-    $("#pg-cat-list").innerHTML = hits.slice(0, 60).map((p, k) =>
-      `<li><button type="button" data-k="${products.indexOf(p)}"><i class="pg-sw" style="background:${escapeHtml(p.color || "#888")}"></i><span>${escapeHtml(p.title)}</span><small>${escapeHtml(p.material || "")}${p.sku ? " · " + escapeHtml(p.sku) : ""}</small></button></li>`).join("")
+    $("#pg-cat-list").innerHTML = hits.slice(0, 60).map((p) =>
+      `<li><button type="button" data-k="${products.indexOf(p)}"><span class="pg-thumb" style="--pc:${escapeHtml(p.color || "#888")}">`
+      + (p.img_src ? `<img src="${escapeHtml(cdnImg(p.img_src, 52))}" alt="" width="52" height="52" loading="lazy" decoding="async">` : "")
+      + `</span><span class="pg-ptxt"><b>${escapeHtml(p.title)}</b><small>${escapeHtml([p.brand, p.material, p.measure].filter(Boolean).join(" · "))}</small></span></button></li>`).join("")
       + (hits.length > 60 ? `<li class="pg-muted">${T.more.replace("{n}", hits.length - 60)}</li>` : "")
       + (!hits.length ? `<li class="pg-muted">${T.no_match}</li>` : "");
   }
   function showProduct(entry) {
     const card = $(".pg-product");
     card.hidden = false;
-    card.querySelector("img").src = entry.img_src || "";
+    card.querySelector("img").src = cdnImg(entry.img_src, 72);
     card.querySelector("img").alt = entry.title || "";
     card.querySelector(".pg-ptitle").textContent = `${entry.brand} · ${entry.title}`;
     card.querySelector(".pg-pmeta").textContent = [entry.material, entry.measure, entry.sku, entry.barcode].filter(Boolean).join(" · ");
