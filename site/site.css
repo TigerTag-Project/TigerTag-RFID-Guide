@@ -173,6 +173,11 @@ footer.foot .links { justify-content: center; }
 .pg-tab[aria-selected="true"] { background: var(--card); color: var(--text); box-shadow: 0 1px 4px var(--shadow); }
 .pg-f { display: block; margin-bottom: 12px; }
 .pg-f > span { display: block; font-size: .85rem; color: var(--muted); margin-bottom: 5px; }
+/* The field's name in the specification, next to its label. */
+.pg-fname { font: 600 .72rem ui-monospace, Menlo, monospace; color: var(--accent); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; margin-left: 4px; white-space: nowrap; }
+.pg-fname--row { display: block; width: fit-content; margin: 3px 0 0 17px; font-weight: 500; color: var(--muted); }
+.pg-left { display: grid; grid-template-columns: 1fr 96px; gap: 10px; align-items: center; }
+#pg-left-out { color: var(--text); font-weight: 600; margin-left: 6px; }
 .pg-f select, .pg-f input:not([type=color]):not([type=range]), .pg-f textarea, .pg-colors select {
   width: 100%; font: inherit; font-size: .95rem; color: var(--text); background: var(--bg);
   border: 1px solid var(--line); border-radius: 10px; padding: 9px 11px; }
@@ -183,6 +188,7 @@ footer.foot .links { justify-content: center; }
 .pg-2 .pg-f { margin-bottom: 12px; }
 .pg-colors { display: flex; gap: 8px; align-items: center; }
 .pg-colors select { width: 70px; }
+.pg-colors input[type=color][hidden] { display: none; }
 .pg-colors input[type=color] { width: 44px; height: 40px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); padding: 3px; cursor: pointer; }
 .pg-list { list-style: none; margin: 0 0 12px; padding: 0; max-height: 260px; overflow-y: auto; border: 1px solid var(--line); border-radius: 10px; }
 .pg-list:empty { display: none; }

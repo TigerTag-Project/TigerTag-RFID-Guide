@@ -111,17 +111,17 @@
         </div>
 
         <div class="pg-panel" data-mode="custom" hidden>
-          <label class="pg-f"><span>{{pg_brand}}</span><select id="pg-c-brand"></select></label>
-          <label class="pg-f"><span>{{pg_material}}</span><select id="pg-c-material"></select></label>
+          <label class="pg-f"><span>{{pg_brand}} <code class="pg-fname">ID Brand · +14</code></span><select id="pg-c-brand"></select></label>
+          <label class="pg-f"><span>{{pg_material}} <code class="pg-fname">ID Material · +8</code></span><select id="pg-c-material"></select></label>
           <div class="pg-2">
-            <label class="pg-f"><span>{{pg_aspect1}}</span><select id="pg-c-aspect1"></select></label>
-            <label class="pg-f"><span>{{pg_aspect2}}</span><select id="pg-c-aspect2"></select></label>
+            <label class="pg-f"><span>{{pg_aspect1}} <code class="pg-fname">ID Aspect 1 · +10</code></span><select id="pg-c-aspect1"></select></label>
+            <label class="pg-f"><span>{{pg_aspect2}} <code class="pg-fname">ID Aspect 2 · +11</code></span><select id="pg-c-aspect2"></select></label>
           </div>
           <div class="pg-2">
-            <label class="pg-f"><span>{{pg_type}}</span><select id="pg-c-type"></select></label>
-            <label class="pg-f"><span>{{pg_diameter}}</span><select id="pg-c-diameter"></select></label>
+            <label class="pg-f"><span>{{pg_type}} <code class="pg-fname">ID Type · +12</code></span><select id="pg-c-type"></select></label>
+            <label class="pg-f"><span>{{pg_diameter}} <code class="pg-fname">ID Diameter · +13</code></span><select id="pg-c-diameter"></select></label>
           </div>
-          <div class="pg-f"><span>{{pg_colors}}</span>
+          <div class="pg-f"><span>{{pg_colors}} <code class="pg-fname">Color 1 / 2 / 3 · +16 / +36 / +40</code></span>
             <div class="pg-colors">
               <select id="pg-c-ncolors" aria-label="{{pg_colors}}"><option>1</option><option>2</option><option>3</option></select>
               <input id="pg-c-col1" type="color" value="#e6352b" aria-label="1">
@@ -130,15 +130,15 @@
             </div>
           </div>
           <div class="pg-2">
-            <label class="pg-f"><span>{{pg_measure}}</span><input id="pg-c-measure" type="number" min="0" max="16777215" value="1000"></label>
-            <label class="pg-f"><span>{{pg_unit}}</span><select id="pg-c-unit"></select></label>
+            <label class="pg-f"><span>{{pg_measure}} <code class="pg-fname">Measure · +20</code></span><input id="pg-c-measure" type="number" min="0" max="16777215" value="1000"></label>
+            <label class="pg-f"><span>{{pg_unit}} <code class="pg-fname">ID Unit · +23</code></span><select id="pg-c-unit"></select></label>
           </div>
-          <div class="pg-f"><span>{{pg_nozzle}}</span><div class="pg-2"><input id="pg-c-nmin" type="number" min="0" max="500" aria-label="{{pg_nozzle}} min"><input id="pg-c-nmax" type="number" min="0" max="500" aria-label="{{pg_nozzle}} max"></div></div>
-          <div class="pg-f"><span>{{pg_bed}}</span><div class="pg-2"><input id="pg-c-bmin" type="number" min="0" max="255" aria-label="{{pg_bed}} min"><input id="pg-c-bmax" type="number" min="0" max="255" aria-label="{{pg_bed}} max"></div></div>
-          <div class="pg-f"><span>{{pg_dry}}</span><div class="pg-2"><input id="pg-c-dtemp" type="number" min="0" max="255" aria-label="{{pg_dry}} °C"><input id="pg-c-dtime" type="number" min="0" max="255" aria-label="{{pg_dry}} h"></div></div>
+          <div class="pg-f"><span>{{pg_nozzle}} <code class="pg-fname">Nozzle Temp Min / Max · +24 / +26</code></span><div class="pg-2"><input id="pg-c-nmin" type="number" min="0" max="500" aria-label="{{pg_nozzle}} min"><input id="pg-c-nmax" type="number" min="0" max="500" aria-label="{{pg_nozzle}} max"></div></div>
+          <div class="pg-f"><span>{{pg_bed}} <code class="pg-fname">Bed Temp Min / Max · +30 / +31</code></span><div class="pg-2"><input id="pg-c-bmin" type="number" min="0" max="255" aria-label="{{pg_bed}} min"><input id="pg-c-bmax" type="number" min="0" max="255" aria-label="{{pg_bed}} max"></div></div>
+          <div class="pg-f"><span>{{pg_dry}} <code class="pg-fname">Dry Temp / Dry Time · +28 / +29</code></span><div class="pg-2"><input id="pg-c-dtemp" type="number" min="0" max="255" aria-label="{{pg_dry}} °C"><input id="pg-c-dtime" type="number" min="0" max="255" aria-label="{{pg_dry}} h"></div></div>
           <div class="pg-2">
-            <label class="pg-f"><span>{{pg_td}}</span><input id="pg-c-td" type="number" min="0" max="100" step="0.1" value="0"></label>
-            <label class="pg-f"><span>{{pg_msg}}</span><input id="pg-c-msg" type="text" maxlength="28"></label>
+            <label class="pg-f"><span>{{pg_td}} <code class="pg-fname">TD (HueForge) · +44</code></span><input id="pg-c-td" type="number" min="0" max="100" step="0.1" value="0"></label>
+            <label class="pg-f"><span>{{pg_msg}} <code class="pg-fname">Custom Message · +48</code></span><input id="pg-c-msg" type="text" maxlength="28"></label>
           </div>
         </div>
 
@@ -148,10 +148,11 @@
         </div>
 
         <div class="pg-common">
-          <label class="pg-f"><span>{{pg_twin}}</span><select id="pg-twin">
+          <label class="pg-f"><span>{{pg_twin}} <code class="pg-fname">Tag index / count · +39</code></span><select id="pg-twin">
             <option value="0">{{pg_twin_0}}</option><option value="1" selected>{{pg_twin_1}}</option>
             <option value="1/2">{{pg_twin_12}}</option><option value="2/2">{{pg_twin_22}}</option></select></label>
-          <label class="pg-f"><span>{{pg_left}} <output id="pg-left-out">100 %</output></span><input id="pg-left" type="range" min="0" max="100" value="100"></label>
+          <div class="pg-f"><span>{{pg_left}} <code class="pg-fname">Measure Available · +76</code> <output id="pg-left-out"></output></span>
+            <div class="pg-left"><input id="pg-left" type="range" min="0" max="1000" value="1000" step="1" aria-label="{{pg_left}}"><input id="pg-left-n" type="number" min="0" max="1000" value="1000" step="1" aria-label="{{pg_left}}"></div></div>
           <button type="button" class="btn small" data-example="twin">{{pg_flip}}</button>
         </div>
         <p class="pg-error" role="alert"></p>

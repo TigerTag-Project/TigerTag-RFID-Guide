@@ -18,6 +18,17 @@
   const EPOCH_MS = Date.UTC(2000, 0, 1);
 
   /* The 80 data bytes, field by field (README section 2). `group` gives the colour. */
+  /* Each field's name in the specification (README section 2), shown next to its
+     translated label wherever it appears. */
+  const SPEC = {
+    id_tigertag: "ID TigerTag", id_product: "ID Product", id_material: "ID Material", id_aspect1: "ID Aspect 1",
+    id_aspect2: "ID Aspect 2", id_type: "ID Type", id_diameter: "ID Diameter", id_brand: "ID Brand",
+    color1: "Color 1 (RGBA)", measure: "Measure", id_unit: "ID Unit", nozzle_min: "Nozzle Temp Min",
+    nozzle_max: "Nozzle Temp Max", dry_temp: "Dry Temp", dry_time: "Dry Time", bed_min: "Bed Temp Min",
+    bed_max: "Bed Temp Max", timestamp: "Twin Tag ID & Timestamp", color2: "Color 2 (RGB)",
+    tag_info: "Tag index / count", color3: "Color 3 (RGB)", reserved: "Reserved", td: "TD (HueForge)",
+    message: "Custom Message", measure_available: "Measure Available", signature: "Signature R / S (ECDSA)",
+  };
   const FIELDS = [
     { key: "id_tigertag", off: 0, len: 4, group: "id" },
     { key: "id_product", off: 4, len: 4, group: "id" },
@@ -192,7 +203,7 @@
       const hex = Array.from(bytes.slice(fld.off, fld.off + fld.len), (x) => x.toString(16).toUpperCase().padStart(2, "0")).join(" ");
       const shown = fld.len > 8 ? hex.slice(0, 23) + " …" : hex;
       const sw = /^color/.test(fld.key) ? `<i class="pg-sw" style="background:${rgbHex(fld.key === "color1" ? current.c1 : fld.key === "color2" ? current.c2 : current.c3)}"></i>` : "";
-      return `<tr data-f="${i}" class="g-${fld.group}${selected === i ? " pg-sel" : ""}"><td><span class="pg-dot"></span>${T["f_" + fld.key]}</td><td class="pg-mono">+${fld.off}${fld.len > 1 ? "–" + (fld.off + fld.len - 1) : ""}</td><td class="pg-mono">${shown}</td><td>${sw}${escapeHtml(value(i, current))}</td></tr>`;
+      return `<tr data-f="${i}" class="g-${fld.group}${selected === i ? " pg-sel" : ""}"><td><span class="pg-dot"></span>${T["f_" + fld.key]}<code class="pg-fname pg-fname--row">${SPEC[fld.key]}</code></td><td class="pg-mono">+${fld.off}${fld.len > 1 ? "–" + (fld.off + fld.len - 1) : ""}</td><td class="pg-mono">${shown}</td><td>${sw}${escapeHtml(value(i, current))}</td></tr>`;
     });
     $(".pg-fields tbody").innerHTML = rows.join("");
 
@@ -415,6 +426,9 @@
     const v = (id) => $(id).value;
     const num = (id) => Number(v(id)) || 0;
     const ncol = num("#pg-c-ncolors") || 1;
+    // Only the pickers of the colours in use are shown.
+    $("#pg-c-col2").hidden = ncol < 2;
+    $("#pg-c-col3").hidden = ncol < 3;
     return applyCommon({
       idTigertag: ID_TIGERTAG, idProduct: MAKER_PRODUCT,
       idMaterial: num("#pg-c-material"), idAspect1: num("#pg-c-aspect1"), idAspect2: num("#pg-c-aspect2"),
@@ -439,15 +453,25 @@
   }
 
   /* ── Common controls: twin tags and remaining quantity ─────────────────── */
+  /* The remaining quantity is the chip's Measure Available (+76, u24): an integer
+     in the unit, from 0 to the initial Measure. A new product or a new initial
+     quantity starts full. */
+  let leftFor = null;
   function applyCommon(f) {
     const twin = $("#pg-twin").value;            // "0", "1" (single), "1/2", "2/2"
     if (twin === "1") { f.tagCount = 1; f.tagIndex = 1; }
     else if (twin === "1/2") { f.tagCount = 2; f.tagIndex = 1; }
     else if (twin === "2/2") { f.tagCount = 2; f.tagIndex = 2; }
     else { f.tagCount = 0; f.tagIndex = 0; }
-    const pct = Number($("#pg-left").value);
-    f.measureAvailable = Math.round(f.measure * pct / 100);
-    $("#pg-left-out").textContent = pct + " %";
+    const sl = $("#pg-left"), nb = $("#pg-left-n");
+    const key = (f.entry ? f.entry.id : "custom") + ":" + f.measure;
+    if (key !== leftFor) {
+      leftFor = key;
+      sl.max = nb.max = String(f.measure);
+      sl.value = nb.value = String(f.measure);
+    }
+    f.measureAvailable = Math.min(f.measure, Math.max(0, Math.round(Number(nb.value) || 0)));
+    $("#pg-left-out").textContent = f.measureAvailable + " / " + f.measure + " " + (tables.unit.get(f.idUnit) || "");
     return f;
   }
   function onCommon() {
@@ -490,7 +514,8 @@
     root.querySelectorAll(".pg-panel[data-mode=custom] input, .pg-panel[data-mode=custom] select").forEach((el) =>
       el.addEventListener(el.id === "pg-c-material" ? "change" : "input", el.id === "pg-c-material" ? onMaterial : () => { current = readCustom(); render(); }));
     $("#pg-twin").addEventListener("change", onCommon);
-    $("#pg-left").addEventListener("input", onCommon);
+    $("#pg-left").addEventListener("input", () => { $("#pg-left-n").value = $("#pg-left").value; onCommon(); });
+    $("#pg-left-n").addEventListener("input", () => { $("#pg-left").value = $("#pg-left-n").value; onCommon(); });
     $("#pg-decode-btn").addEventListener("click", () => decodeHex($("#pg-decode-in").value));
     $("#pg-file").addEventListener("change", async (e) => {
       const file = e.target.files[0]; if (!file) return;
