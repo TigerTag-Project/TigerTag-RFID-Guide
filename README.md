@@ -1444,6 +1444,12 @@ Cloning is worth a word, since the device offers it: copying a signed chip repro
 
 🔗 [bambutagger.de](https://www.bambutagger.de) · [VID-PRO/BambuTagger-Touch](https://github.com/VID-PRO/BambuTagger-Touch) — AGPL-3.0. Credits, on the author's own page, to BambuMan and the Bambu-Research-Group RFID-Tag-Guide.
 
+### 6.5 COSMOS — Elegoo Centauri Carbon firmware
+
+Open-source firmware for the **Elegoo Centauri Carbon**, a complete mainline-Linux build (Yocto) based on Klipper / Kalico that gives full control over the printer's hardware. Its `canvas_rfid` module drives the **NFC reader built into the Canvas**, the printer's multi-colour unit: it reads NTAG21x chips and decodes them with the **OpenRFID** tag processors, TigerTag among them, so the Centauri Carbon reads a TigerTag spool with its own reader, no extra hardware.
+
+**Repository:** [OpenCentauri/cosmos](https://github.com/OpenCentauri/cosmos) — GPL-3.0. Independent of, and not affiliated with, Elegoo.
+
 ---
 
 ## Press kit & brand assets
@@ -1753,6 +1759,7 @@ Community integrations:
 - OpenRFID: https://github.com/suchmememanyskill/OpenRFID
 - Home Assistant: https://github.com/Kenny3231/TigerTag
 - Snapmaker U1 firmware: https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware
+- Elegoo Centauri Carbon firmware (COSMOS): https://github.com/OpenCentauri/cosmos
 
 ## Support the project
 
