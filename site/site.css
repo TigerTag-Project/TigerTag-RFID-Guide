@@ -180,10 +180,15 @@ footer.foot .links { justify-content: center; }
 .pg-colors input[type=color] { width: 44px; height: 40px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); padding: 3px; cursor: pointer; }
 .pg-list { list-style: none; margin: 0 0 12px; padding: 0; max-height: 260px; overflow-y: auto; border: 1px solid var(--line); border-radius: 10px; }
 .pg-list:empty { display: none; }
-.pg-list button { display: grid; grid-template-columns: 16px 1fr; column-gap: 10px; width: 100%; text-align: left; padding: 8px 12px; background: none; border: 0; border-bottom: 1px solid var(--line); color: var(--text); font: inherit; cursor: pointer; }
+.pg-list { max-height: 360px; }
+.pg-list button { display: flex; gap: 12px; align-items: center; width: 100%; text-align: left; padding: 6px 10px 6px 6px; background: none; border: 0; border-bottom: 1px solid var(--line); color: var(--text); font: inherit; cursor: pointer; }
 .pg-list button:hover { background: var(--bg); }
-.pg-list small { grid-column: 2; color: var(--muted); font-size: .8rem; }
-.pg-list .pg-sw { grid-row: span 2; align-self: center; }
+/* The photo on white, with the product's colour as a band on the left (Tiger Studio Manager's list). */
+.pg-thumb { flex: none; width: 64px; height: 56px; border-radius: 8px; background: #fff; border-left: 8px solid var(--pc); display: grid; place-items: center; overflow: hidden; }
+.pg-thumb img { width: 52px; height: 52px; object-fit: contain; }
+.pg-ptxt { min-width: 0; }
+.pg-ptxt b { display: block; font-size: .92rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pg-ptxt small { display: block; color: var(--muted); font-size: .8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .pg-muted { padding: 10px 12px; color: var(--muted); }
 .pg-product { display: flex; gap: 12px; align-items: center; padding: 10px; border: 1px solid var(--line); border-radius: 12px; margin-bottom: 12px; }
 .pg-product img { width: 72px; height: 72px; object-fit: contain; background: #fff; border-radius: 8px; }
