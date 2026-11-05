@@ -245,5 +245,7 @@
   "pj_x_twin": "Dubbele tags: beide chips van een artikel delen de tijdstempel; byte +39 geeft aan welke dit is (0x12 = 1 van 2, 0x22 = 2 van 2).",
   "pj_x_res": "Gereserveerd: altijd nul.",
   "pj_x_msg": "Vrije tekst van maximaal 28 bytes, in UTF-8.",
-  "pj_x_sig": "Handtekening: alleen geschreven door een gecertificeerde fabrikant, over de UID van de chip en pagina's 4 en 5, en offline gecontroleerd."
+  "pj_x_sig": "Handtekening: alleen geschreven door een gecertificeerde fabrikant, over de UID van de chip en pagina's 4 en 5, en offline gecontroleerd.",
+  "pj_filter": "Filteren…",
+  "pj_no_option": "Geen resultaten"
 }

@@ -245,5 +245,7 @@
   "pj_x_twin": "Twin tags: both chips of an item share the timestamp; byte +39 says which one this is (0x12 = 1 of 2, 0x22 = 2 of 2).",
   "pj_x_res": "Reserved: always zero.",
   "pj_x_msg": "A free text of up to 28 bytes, in UTF-8.",
-  "pj_x_sig": "Signature: written only by a certified manufacturer, over the chip UID and pages 4 and 5, and verified offline."
+  "pj_x_sig": "Signature: written only by a certified manufacturer, over the chip UID and pages 4 and 5, and verified offline.",
+  "pj_filter": "Type to filter",
+  "pj_no_option": "Nothing matches"
 }

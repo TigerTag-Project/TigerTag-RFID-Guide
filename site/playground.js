@@ -210,6 +210,7 @@
     // The chip's own colours, painted with the same convention as the catalogue list.
     $(".pg-spool").style.background = current.entry ? colorBg(entryRow(current.entry)) : colorBg(chipRow(current));
     renderHead(current);
+    syncSearchable();
     $(".pg-summary").textContent = summary(current);
     $(".pg-hex").value = Array.from(bytes, (x) => x.toString(16).toUpperCase().padStart(2, "0")).join("");
     previous = bytes;
@@ -354,6 +355,68 @@
     document.addEventListener("mousedown", hideZoom, true);
   }
 
+  /* Long lists (brands, materials, aspects) open as a list with a search box, as
+     Tiger Studio Manager's enhanced selects do. The native <select> stays the
+     source of truth: picking an item sets its value and fires change / input,
+     and the button reads its selected option back after every render. */
+  const searchable = [];
+  function enhanceSelect(sel) {
+    const box = document.createElement("div");
+    box.className = "pg-combo";
+    box.innerHTML = `<button type="button" class="pg-combo-btn" aria-haspopup="listbox" aria-expanded="false"><span></span>`
+      + `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button>`
+      + `<div class="pg-combo-pop" hidden><input type="search" class="pg-combo-q" autocomplete="off" placeholder="${escapeHtml(T.filter)}" aria-label="${escapeHtml(T.filter)}"><ul class="pg-combo-list" role="listbox"></ul></div>`;
+    sel.after(box);
+    sel.hidden = true;
+    const btn = box.querySelector(".pg-combo-btn"), pop = box.querySelector(".pg-combo-pop");
+    const q = box.querySelector(".pg-combo-q"), list = box.querySelector(".pg-combo-list");
+    let active = -1, shown = [];
+    const fold = (t) => t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    function sync() {
+      const o = sel.selectedOptions[0];
+      btn.firstChild.textContent = o ? o.textContent : "";
+      btn.setAttribute("aria-label", (sel.closest(".pg-f")?.querySelector("span")?.firstChild?.textContent || "").trim());
+    }
+    function draw() {
+      const needle = fold(q.value.trim());
+      shown = Array.from(sel.options).filter((o) => !needle || fold(o.textContent).includes(needle));
+      if (active >= shown.length) active = shown.length - 1;
+      list.innerHTML = shown.length
+        ? shown.map((o, k) => `<li role="option" data-k="${k}" aria-selected="${o.selected}" class="${k === active ? "is-active" : ""}">${escapeHtml(o.textContent)}</li>`).join("")
+        : `<li class="pg-combo-none">${escapeHtml(T.no_option)}</li>`;
+      const a = list.querySelector(".is-active"); if (a) a.scrollIntoView({ block: "nearest" });
+    }
+    function open() {
+      searchable.forEach((x) => x !== api && x.close());
+      pop.hidden = false; btn.setAttribute("aria-expanded", "true");
+      q.value = ""; active = Math.max(0, Array.from(sel.options).findIndex((o) => o.selected));
+      draw(); q.focus();
+    }
+    function close() { pop.hidden = true; btn.setAttribute("aria-expanded", "false"); }
+    function pick(o) {
+      if (!o) return;
+      sel.value = o.value;
+      sel.dispatchEvent(new Event("change", { bubbles: true }));
+      sel.dispatchEvent(new Event("input", { bubbles: true }));
+      sync(); close(); btn.focus();
+    }
+    btn.addEventListener("click", () => (pop.hidden ? open() : close()));
+    q.addEventListener("input", () => { active = 0; draw(); });
+    q.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowDown") { active = Math.min(shown.length - 1, active + 1); draw(); e.preventDefault(); }
+      else if (e.key === "ArrowUp") { active = Math.max(0, active - 1); draw(); e.preventDefault(); }
+      else if (e.key === "Enter") { pick(shown[active]); e.preventDefault(); }
+      else if (e.key === "Escape") { close(); btn.focus(); }
+    });
+    list.addEventListener("mousedown", (e) => { const li = e.target.closest("li[data-k]"); if (li) { e.preventDefault(); pick(shown[Number(li.dataset.k)]); } });
+    document.addEventListener("mousedown", (e) => { if (!box.contains(e.target)) close(); });
+    const api = { sync, close };
+    searchable.push(api);
+    sync();
+    return api;
+  }
+  const syncSearchable = () => searchable.forEach((x) => x.sync());
+
   function opt(v, t, sel) { return `<option value="${v}"${sel ? " selected" : ""}>${escapeHtml(t)}</option>`; }
 
   function fillSelects(brands, aspects, types, diams, units) {
@@ -366,6 +429,7 @@
     $("#pg-c-type").innerHTML = types.map((a) => opt(a.id, a.label)).join("");
     $("#pg-c-diameter").innerHTML = diams.map((a) => opt(a.id, a.label + " mm")).join("");
     $("#pg-c-unit").innerHTML = units.map((a) => opt(a.id, a.label)).join("");
+    ["#pg-cat-brand", "#pg-c-brand", "#pg-c-material", "#pg-c-aspect1", "#pg-c-aspect2"].forEach((id) => enhanceSelect($(id)));
   }
 
   async function brandProducts(file) {

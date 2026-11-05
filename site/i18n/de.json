@@ -245,5 +245,7 @@
   "pj_x_twin": "Zwillings-Tags: Beide Chips eines Artikels teilen den Zeitstempel; Byte +39 gibt an, welcher dieser ist (0x12 = 1 von 2, 0x22 = 2 von 2).",
   "pj_x_res": "Reserviert: immer null.",
   "pj_x_msg": "Ein freier Text mit bis zu 28 Byte, in UTF-8.",
-  "pj_x_sig": "Signatur: nur von einem zertifizierten Hersteller geschrieben, über die UID des Chips und die Seiten 4 und 5, und offline geprüft."
+  "pj_x_sig": "Signatur: nur von einem zertifizierten Hersteller geschrieben, über die UID des Chips und die Seiten 4 und 5, und offline geprüft.",
+  "pj_filter": "Filtern…",
+  "pj_no_option": "Keine Treffer"
 }

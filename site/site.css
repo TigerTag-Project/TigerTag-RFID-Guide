@@ -54,6 +54,8 @@ header.bar .wrap { display: flex; align-items: center; gap: 18px; min-height: 64
 :root[data-shown="light"] .logo-light { display: block; }
 :root[data-shown="light"] .logo-dark { display: none; }
 .nav { display: flex; gap: 18px; flex: 1; justify-content: center; flex-wrap: wrap; }
+/* Longer words (French, German, Russian…) keep the menu on one line. */
+@media (max-width: 1320px) { .nav { gap: 12px; } .nav a { font-size: .88rem; } }
 .nav a { color: var(--muted); text-decoration: none; font-size: .95rem; }
 .nav a:hover { color: var(--text); }
 .tools { display: flex; gap: 8px; align-items: center; }
@@ -194,6 +196,23 @@ footer.foot .links { justify-content: center; }
 .pg-colors { display: flex; gap: 8px; align-items: center; }
 .pg-colors select { width: 70px; }
 .pg-colors input[type=color][hidden] { display: none; }
+/* A long list with a search box (brands, materials, aspects). */
+.pg-combo { position: relative; }
+.pg-combo-btn { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 8px; font: inherit; font-size: .95rem;
+  color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 9px 11px; cursor: pointer; text-align: left; }
+.pg-combo-btn span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pg-combo-btn svg { width: 15px; height: 15px; flex: none; color: var(--muted); }
+.pg-combo-btn:focus-visible, .pg-combo-btn[aria-expanded="true"] { outline: 2px solid var(--accent); outline-offset: 1px; }
+.pg-combo-pop { position: absolute; z-index: 20; left: 0; min-width: max(100%, 260px); top: calc(100% + 6px); background: var(--card);
+  border: 1px solid var(--accent); border-radius: 12px; box-shadow: 0 18px 44px rgba(0, 0, 0, .5); padding: 8px; }
+.pg-combo-pop[hidden] { display: none; }
+.pg-combo-q { width: 100%; font: inherit; font-size: .92rem; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin-bottom: 6px; }
+.pg-combo-q:focus { outline: 2px solid var(--accent); outline-offset: 0; }
+.pg-combo-list { list-style: none; margin: 0; padding: 0; max-height: 260px; overflow-y: auto; }
+.pg-combo-list li { padding: 7px 10px; border-radius: 7px; cursor: pointer; color: var(--text); font-size: .92rem; }
+.pg-combo-list li:hover, .pg-combo-list li.is-active { background: var(--bg); }
+.pg-combo-list li[aria-selected="true"] { color: var(--accent); font-weight: 600; }
+.pg-combo-list .pg-combo-none { color: var(--muted); cursor: default; }
 .pg-colors input[type=color] { width: 44px; height: 40px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); padding: 3px; cursor: pointer; }
 .pg-list { list-style: none; margin: 0 0 12px; padding: 0; max-height: 260px; overflow-y: auto; border: 1px solid var(--line); border-radius: 10px; }
 .pg-list:empty { display: none; }

@@ -245,5 +245,7 @@
   "pj_x_twin": "Tag gemelli: i due chip di un articolo condividono il timestamp; il byte +39 indica quale sia questo (0x12 = 1 di 2, 0x22 = 2 di 2).",
   "pj_x_res": "Riservato: sempre a zero.",
   "pj_x_msg": "Un testo libero fino a 28 byte, in UTF-8.",
-  "pj_x_sig": "Firma: scritta solo da un produttore certificato, sull'UID del chip e sulle pagine 4 e 5, e verificata offline."
+  "pj_x_sig": "Firma: scritta solo da un produttore certificato, sull'UID del chip e sulle pagine 4 e 5, e verificata offline.",
+  "pj_filter": "Filtra…",
+  "pj_no_option": "Nessun risultato"
 }
