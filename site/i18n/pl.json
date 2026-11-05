@@ -3,20 +3,17 @@
   "lang_label": "Wybierz język",
   "theme_label": "Jasny lub ciemny",
   "skip": "Przejdź do treści",
-
   "meta_title": "TigerTag: otwarty standard NFC dla filamentów i żywic do druku 3D",
   "meta_description": "TigerTag to darmowy, otwarty protokół NFC, który przekazuje każdemu czytnikowi materiał, kolor, ustawienia druku i pozostałą ilość filamentu na szpuli lub żywicy w butelce, a także potwierdza oryginalność produktu. Całkowicie offline.",
   "og_title": "TigerTag: jeden chip NFC, każda maszyna",
   "og_description": "Darmowy, otwarty standard NFC dla materiałów do druku 3D: materiał, ustawienia, ilość i weryfikacja oryginalności offline na jednym małym chipie.",
   "og_alt": "Ekosystem TigerSystem: Tiger Studio Manager na komputerze, aplikacja mobilna, Tiger Touch i TigerPOD odczytujący szpulę",
-
   "nav_protocol": "Protokół",
   "nav_how": "Jak to działa",
   "nav_dev": "Deweloperzy",
   "nav_brands": "Marki",
   "nav_eco": "Ekosystem",
   "nav_faq": "FAQ",
-
   "hero_kicker": "Otwarty standard NFC dla materiałów do druku 3D",
   "hero_headline": "Jeden mały chip na szpuli. Każda maszyna wie, co na niej jest.",
   "hero_lead": "TigerTag przekazuje każdemu czytnikowi materiał, markę, kolor, ustawienia druku i pozostałą ilość filamentu na szpuli lub żywicy w butelce, a do tego potwierdza oryginalność produktu. Całkowicie offline, za darmo dla wszystkich, niezależny od producentów drukarek.",
@@ -24,16 +21,14 @@
   "cta_sdk": "Twórz z SDK",
   "cta_apps": "Pobierz darmowe aplikacje",
   "hero_alt": "Tiger Studio Manager na iMacu, aplikacja TigerTag RFID Connect na iPhonie, ekran Tiger Touch i TigerPOD Mini, który wokół tej samej szpuli zmienia się w Tiger Scale i TigerSpool",
-
   "fact1_value": "144 bajty",
   "fact1_label": "na standardowym chipie NFC NTAG213 lub NTAG215",
   "fact2_value": "100% offline",
   "fact2_label": "materiał, ustawienia i oryginalność odczytywane bez serwera",
   "fact3_value": "Za darmo",
   "fact3_label": "protokół, SDK, aplikacje i baza danych: bez licencji, bez opłat",
-  "fact4_value": "19 000+",
-  "fact4_label": "produktów w otwartym katalogu, synchronizowanym co sześć godzin",
-
+  "fact4_value": "20 000+",
+  "fact4_label": "produktów w otwartym katalogu, a tryb niestandardowy obsłuży wszystko, czego w nim jeszcze nie ma",
   "what_title": "Co TigerTag mówi czytnikowi",
   "what_lead": "Wszystko, czego potrzeba do druku, jest zapisane na samym chipie. Czytnik bez dostępu do sieci niczego nie traci.",
   "what1_title": "Materiał i marka",
@@ -48,16 +43,14 @@
   "what5_text": "Po jednym chipie na każdym boku szpuli, sparowane wspólnym identyfikatorem: szpulę rozpoznasz z obu stron, a każdy tag wie, czy jest 1 z 2, czy 2 z 2.",
   "what6_title": "Oryginalność",
   "what6_text": "Chip TigerTag+ Certified zawiera podpis ECDSA-P256, który każdy czytnik sprawdza offline: czy ta szpula jest oryginalna?",
-
   "types_title": "Trzy typy tagów, jeden format",
   "types_lead": "Te same 144 bajty, odczytywane w ten sam sposób. Zmienia się tylko to, co chip może zagwarantować.",
   "t1_name": "TigerTag",
-  "t1_text": "Wszystko, czego potrzeba do druku, zapisane przez kogokolwiek: markę, twórcę, aplikację. Działa całkowicie offline.",
+  "t1_text": "Wszystko, czego potrzeba do druku, zapisane przez kogokolwiek: markę, twórcę, aplikację. Działa całkowicie offline. W trybie niestandardowym można tak zakodować każdy materiał, którego katalog jeszcze nie zawiera.",
   "t2_name": "TigerTag+",
   "t2_text": "TigerTag z identyfikatorem produktu z oficjalnego katalogu: nazwa, SKU, kod kreskowy i zdjęcie są dostępne offline, a poprawki trafiają na chip także po jego zapisaniu.",
   "t3_name": "TigerTag+ Certified",
   "t3_text": "TigerTag+ podpisany przez certyfikowanego producenta. Podpis jest powiązany z unikalnym identyfikatorem chipa, więc skopiowany chip nie przejdzie weryfikacji.",
-
   "how_title": "Jak to działa",
   "how_lead": "TigerTag to zwykły chip NFC, nigdy nie blokowany przed zapisem. Format jest publiczny, a narzędzia są open source.",
   "step1_title": "Zapis",
@@ -74,7 +67,6 @@
   "layout_sig": "Podpis: 64 bajty, strony od 0x18 do 0x27",
   "layout_sig_detail": "ECDSA-P256 obejmujący UID chipa oraz strony 4 i 5; zera na chipie bez podpisu",
   "layout_link": "Pełny układ bajtów w specyfikacji",
-
   "why_title": "Dlaczego TigerTag",
   "why1_title": "Oryginalność bez serwera",
   "why1_text": "Podpis ECDSA-P256 weryfikowany całkowicie offline kluczem publicznym dostarczanym z protokołem.",
@@ -88,7 +80,6 @@
   "why5_text": "Nieodwołalne, bezpłatne prawo do implementacji, w produktach open source i zamkniętych.",
   "why6_title": "Otwarte dane",
   "why6_text": "Tabele referencyjne i pełny katalog produktów są w domenie publicznej (CC0): możesz je osadzić wszędzie.",
-
   "dev_title": "Dla deweloperów",
   "dev_lead": "Odczytuj, weryfikuj, twórz i modyfikuj TigerTagi w kilku linijkach kodu. Oba SDK generują identyczne bajty i działają offline.",
   "dev_js_title": "SDK JavaScript",
@@ -103,7 +94,6 @@
   "dev_spec_text": "Układ bajtów, podpis, przykłady krok po kroku i historia wersji.",
   "repo": "Repozytorium",
   "open": "Otwórz",
-
   "brands_title": "Dla marek filamentów i żywic",
   "brands_lead": "Umieść TigerTag na swoich szpulach, a odczyta je każde otwarte narzędzie: aplikacje, czytniki, wagi, akcesoria do drukarek.",
   "brand1_title": "Wdrożenie za darmo",
@@ -115,7 +105,6 @@
   "brands_shipping": "Już na szpulach eSun, Rosa3D, Sunlu, R3D, Landu, Lotactree, JamgHe i innych marek.",
   "brands_boxes_alt": "Pudełka filamentów eSun, Rosa3D i Sunlu z oznaczeniem TigerTag RFID",
   "brands_cert": "Certyfikacja",
-
   "eco_title": "Ekosystem TigerSystem",
   "eco_lead": "Darmowe aplikacje i sprzęt open source, które odczytują, zapisują i wykorzystują TigerTagi, dla drukarek każdej marki.",
   "eco_studio_title": "Tiger Studio Manager",
@@ -140,14 +129,12 @@
   "eco_install": "Instalator w przeglądarce",
   "eco_visit": "Odwiedź",
   "eco_read": "Czytaj",
-
   "comm_title": "Integracje społeczności",
   "comm_lead": "Niezależne projekty, które odczytują lub zapisują TigerTagi.",
   "comm_openrfid": "Wieloformatowy kontroler RFID i biblioteka do parsowania tagów filamentów.",
   "comm_snapmaker": "Rozszerzony firmware do Snapmaker U1.",
   "comm_ha": "Integracja z Home Assistant (projekt społecznościowy).",
   "comm_bambutagger": "Sprzęt DIY na ESP32 do odczytu i zapisu tagów.",
-
   "faq_title": "Pytania",
   "faq1_q": "Jakiego chipa NFC używa TigerTag?",
   "faq1_a": "NTAG213 lub większego (NTAG215, NTAG216), ISO 14443-3. Układ mieści się w 144 bajtach najmniejszego z nich, więc każdy większy chip też działa.",
@@ -163,11 +150,9 @@
   "faq6_a": "Tiger Studio Manager łączy te chipy producentów z Twoim magazynem po ich identyfikatorze, bez dekodowania i nadpisywania. Możesz też dodać obok nich TigerTag.",
   "faq7_q": "Które drukarki współpracują z TigerTag?",
   "faq7_a": "Dzięki Tiger Studio Manager, TigerSpool i Tiger Touch: Bambu Lab, Creality, Elegoo, Anycubic, Snapmaker, FlashForge, Prusa oraz maszyny z Klipper lub OctoPrint.",
-
   "join_title": "Buduj na otwartym standardzie",
   "join_text": "Przeczytaj specyfikację, wybierz SDK albo zacznij od darmowych aplikacji.",
   "join_btn": "Otwórz specyfikację",
-
   "foot_licences": "Specyfikacja CC-BY-4.0 · Baza danych CC0-1.0 · Kod Apache-2.0",
   "foot_trademark": "TigerTag jest znakiem towarowym TigerTag Corp. Polityka znaków towarowych",
   "foot_source": "Źródło tej strony"

@@ -3,20 +3,17 @@
   "lang_label": "选择语言",
   "theme_label": "浅色或深色",
   "skip": "跳至正文",
-
   "meta_title": "TigerTag：3D 打印耗材与树脂的开放 NFC 标准",
   "meta_description": "TigerTag 是免费、开放的 NFC 协议。任何读取设备都能从中读出线材卷或树脂瓶的材料、颜色、打印参数和剩余用量，并验证其是否为正品，全程离线。",
   "og_title": "TigerTag：一枚 NFC 芯片，所有设备通用",
   "og_description": "免费、开放的 3D 打印耗材 NFC 标准：材料、参数、用量与离线防伪，尽在一枚小小的芯片中。",
   "og_alt": "TigerSystem 生态：电脑上的 Tiger Studio Manager、手机 App、Tiger Touch，以及正在读取线材卷的 TigerPOD",
-
   "nav_protocol": "协议",
   "nav_how": "工作原理",
   "nav_dev": "开发者",
   "nav_brands": "品牌商",
   "nav_eco": "生态",
   "nav_faq": "常见问题",
-
   "hero_kicker": "3D 打印耗材的开放 NFC 标准",
   "hero_headline": "线材卷上一枚小芯片，每台设备都知道它装的是什么。",
   "hero_lead": "TigerTag 让任何读取设备读出线材卷或树脂瓶的材料、品牌、颜色、打印参数和剩余用量，并证明它是正品。全程离线，人人免费，不属于任何打印机厂商。",
@@ -24,16 +21,14 @@
   "cta_sdk": "使用 SDK 开发",
   "cta_apps": "下载免费 App",
   "hero_alt": "iMac 上的 Tiger Studio Manager、iPhone 上的 TigerTag RFID Connect App、Tiger Touch 屏幕，以及围绕同一卷线材、可变身为 Tiger Scale 和 TigerSpool 的 TigerPOD Mini",
-
   "fact1_value": "144 字节",
   "fact1_label": "写入标准 NTAG213 或 NTAG215 NFC 芯片",
   "fact2_value": "100% 离线",
   "fact2_label": "材料、参数和真伪验证，无需服务器即可读取",
   "fact3_value": "免费",
   "fact3_label": "协议、SDK、App 和数据库：无需授权，不收费用",
-  "fact4_value": "19,000+",
-  "fact4_label": "开放目录中的产品数量，每六小时同步一次",
-
+  "fact4_value": "20,000+",
+  "fact4_label": "款产品收录于开放目录，尚未收录的材料可用自定义模式手动编码",
   "what_title": "TigerTag 能告诉读取设备什么",
   "what_lead": "打印所需的一切都存储在芯片上。即使读取设备从不联网，也不会丢失任何信息。",
   "what1_title": "材料与品牌",
@@ -48,16 +43,14 @@
   "what5_text": "线材卷两侧各贴一枚芯片，通过共享标识符配对：从任意一侧都能识别该卷线材，每枚标签都知道自己是第 1 枚还是第 2 枚。",
   "what6_title": "防伪验证",
   "what6_text": "TigerTag+ Certified 芯片带有 ECDSA-P256 签名，任何读取设备都能离线验证：这卷线材是正品吗？",
-
   "types_title": "三种标签类型，同一种格式",
   "types_lead": "同样的 144 字节，同样的读取方式。不同的是芯片所能提供的保证。",
   "t1_name": "TigerTag",
-  "t1_text": "包含打印所需的一切，任何人都可以写入：品牌商、创客、App 均可。完全离线工作。",
+  "t1_text": "包含打印所需的一切，任何人都可以写入：品牌商、创客、App 均可。完全离线工作。在自定义模式下，可为目录中尚未收录的任何材料编码。",
   "t2_name": "TigerTag+",
   "t2_text": "带有官方目录产品 ID 的 TigerTag：名称、SKU、条形码和图片均可离线解析，芯片写入后，参数修正仍可同步到芯片上。",
   "t3_name": "TigerTag+ Certified",
   "t3_text": "由认证厂商签名的 TigerTag+。签名与芯片的唯一 ID 绑定，复制的芯片无法通过验证。",
-
   "how_title": "工作原理",
   "how_lead": "TigerTag 就是一枚普通的 NFC 芯片，永不写锁定。格式公开，工具开源。",
   "step1_title": "写入",
@@ -74,7 +67,6 @@
   "layout_sig": "签名：64 字节，第 0x18 至 0x27 页",
   "layout_sig_detail": "对芯片 UID 及第 4、5 页进行 ECDSA-P256 签名；未签名的芯片此处全为零",
   "layout_link": "查看规范中的完整字节布局",
-
   "why_title": "为什么选择 TigerTag",
   "why1_title": "无需服务器的防伪验证",
   "why1_text": "ECDSA-P256 签名，使用协议随附的公钥即可完全离线验证。",
@@ -88,7 +80,6 @@
   "why5_text": "不可撤销、免版税的实施权，适用于开源或闭源产品。",
   "why6_title": "开放数据",
   "why6_text": "参考表和完整产品目录均为公共领域（CC0）：可嵌入任何地方。",
-
   "dev_title": "面向开发者",
   "dev_lead": "几行代码即可解析、验证、创建和修改 TigerTag。两套 SDK 生成完全相同的字节，均可离线工作。",
   "dev_js_title": "JavaScript SDK",
@@ -103,7 +94,6 @@
   "dev_spec_text": "字节布局、签名机制、完整示例和版本历史。",
   "repo": "代码仓库",
   "open": "打开",
-
   "brands_title": "面向线材与树脂品牌",
   "brands_lead": "在您的线材卷上贴上 TigerTag，所有开放工具都能读取：App、读卡器、电子秤、打印机配件。",
   "brand1_title": "免费实施",
@@ -115,7 +105,6 @@
   "brands_shipping": "eSun、Rosa3D、Sunlu、R3D、Landu、Lotactree、JamgHe 等品牌的线材卷已搭载 TigerTag。",
   "brands_boxes_alt": "印有 TigerTag RFID 标识的 eSun、Rosa3D 和 Sunlu 线材包装盒",
   "brands_cert": "认证",
-
   "eco_title": "TigerSystem 生态",
   "eco_lead": "免费、开源的软件和硬件，读取、写入和使用 TigerTag，支持所有打印机品牌。",
   "eco_studio_title": "Tiger Studio Manager",
@@ -140,14 +129,12 @@
   "eco_install": "网页安装器",
   "eco_visit": "访问",
   "eco_read": "阅读",
-
   "comm_title": "社区集成",
   "comm_lead": "读取或写入 TigerTag 的独立项目。",
   "comm_openrfid": "多格式 RFID 控制器及线材标签解析库。",
   "comm_snapmaker": "Snapmaker U1 扩展固件。",
   "comm_ha": "Home Assistant 集成（社区项目）。",
   "comm_bambutagger": "基于 ESP32 的 DIY 标签读写硬件。",
-
   "faq_title": "常见问题",
   "faq1_q": "TigerTag 使用哪种 NFC 芯片？",
   "faq1_a": "NTAG213 或更大容量的芯片（NTAG215、NTAG216），符合 ISO 14443-3 标准。数据布局按最小芯片的 144 字节设计，因此更大容量的芯片同样适用。",
@@ -163,11 +150,9 @@
   "faq6_a": "Tiger Studio Manager 通过芯片 ID 将这些厂商芯片关联到您的库存，无需解码或改写。您也可以在旁边再加一枚 TigerTag。",
   "faq7_q": "哪些打印机支持 TigerTag？",
   "faq7_a": "通过 Tiger Studio Manager、TigerSpool 和 Tiger Touch，支持 Bambu Lab、Creality、Elegoo、Anycubic、Snapmaker、FlashForge、Prusa，以及 Klipper 或 OctoPrint 机型。",
-
   "join_title": "基于开放标准构建",
   "join_text": "阅读协议规范，选择一套 SDK，或从免费 App 开始。",
   "join_btn": "打开协议规范",
-
   "foot_licences": "规范 CC-BY-4.0 · 数据库 CC0-1.0 · 代码 Apache-2.0",
   "foot_trademark": "TigerTag 是 TigerTag Corp 的商标。商标政策",
   "foot_source": "本页源代码"

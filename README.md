@@ -386,7 +386,10 @@ already does offline:
 Not every product has one. The catalogue is still filling in, and a
 product that is not in it yet has no id to write — which is not a defect
 in the chip: it stays a perfectly valid TigerTag, and everything needed
-to print is still on it.
+to print is still on it. That is the **custom mode** of Tiger Studio
+Manager and the SDKs: material, brand, colours, settings and quantity
+entered by hand, for anything the catalogue (20 000+ products) does not
+list yet.
 
 Catalogue entries are curated, never self-declared. A **TigerTag
 Certified** manufacturer drives its own products; until a brand asks for
@@ -581,7 +584,7 @@ references whose timestamp has changed since their last sync.
 tables and also published **one file per brand** in
 [`database/brands/`](database/brands/): the same products, in the same
 format, for the brand you need only (a few hundred kilobytes instead of
-~17 MB). [`database/brands/index.json`](database/brands/index.json) maps each
+~18 MB). [`database/brands/index.json`](database/brands/index.json) maps each
 `id_brand` to its file. Every file of `database/` is listed with its sha256 in
 [`database/manifest.json`](database/manifest.json). Details:
 [`database/README.md`](database/README.md#one-catalogue-per-brand).
