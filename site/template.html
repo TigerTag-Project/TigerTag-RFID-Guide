@@ -30,6 +30,7 @@
 <link rel="icon" href="{{@base}}assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{{@base}}assets/apple-touch-icon.png">
 <script src="{{@base}}site.js" defer></script>
+<script src="{{@base}}playground.js" defer></script>
 {{@jsonld}}
 </head>
 <body>
@@ -42,6 +43,7 @@
       <span>Tiger<b>Tag</b></span>
     </a>
     <nav class="nav" aria-label="TigerTag">
+      <a href="#playground">{{nav_play}}</a>
       <a href="#protocol">{{nav_protocol}}</a>
       <a href="#how">{{nav_how}}</a>
       <a href="#developers">{{nav_dev}}</a>
@@ -70,14 +72,13 @@
 <main id="main">
   <section class="hero wrap">
     <div class="intro">
-      <p class="kicker">{{hero_kicker}}</p>
-      <h1 class="name">Tiger<span>Tag</span></h1>
+      <h1><span class="kicker">{{hero_kicker}}</span><span class="name">Tiger<span>Tag</span></span></h1>
       <p class="headline">{{hero_headline}}</p>
       <p class="lead">{{hero_lead}}</p>
       <div class="ctas">
-        <a class="btn primary" href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide#readme">{{cta_spec}}</a>
+        <a class="btn primary" href="#playground">{{cta_play}}</a>
+        <a class="btn" href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide#readme">{{cta_spec}}</a>
         <a class="btn" href="#developers">{{cta_sdk}}</a>
-        <a class="btn" href="#ecosystem">{{cta_apps}}</a>
       </div>
     </div>
     <div class="show">
@@ -90,6 +91,94 @@
     <div class="fact"><b>{{fact2_value}}</b><span>{{fact2_label}}</span></div>
     <div class="fact"><b>{{fact3_value}}</b><span>{{fact3_label}}</span></div>
     <div class="fact"><b>{{fact4_value}}</b><span>{{fact4_label}}</span></div>
+  </section>
+
+  <section id="playground" class="wrap playground" data-data="{{@base}}data/">
+    <h2>{{pg_title}}</h2>
+    <p class="sub">{{pg_lead}}</p>
+    <div class="pg-grid">
+      <div class="card pg-controls">
+        <div class="pg-tabs" role="tablist">
+          <button type="button" class="pg-tab" role="tab" data-mode="catalogue" aria-selected="true">{{pg_tab_cat}}</button>
+          <button type="button" class="pg-tab" role="tab" data-mode="custom" aria-selected="false">{{pg_tab_custom}}</button>
+          <button type="button" class="pg-tab" role="tab" data-mode="decode" aria-selected="false">{{pg_tab_decode}}</button>
+        </div>
+
+        <div class="pg-panel" data-mode="catalogue">
+          <label class="pg-f"><span>{{pg_brand}}</span><select id="pg-cat-brand"></select></label>
+          <label class="pg-f"><span>{{pg_search}}</span><input id="pg-cat-search" type="search" autocomplete="off"></label>
+          <ul id="pg-cat-list" class="pg-list"></ul>
+          <div class="pg-product" hidden><img alt="" width="72" height="72" loading="lazy"><div><b class="pg-ptitle"></b><span class="pg-pmeta"></span></div></div>
+        </div>
+
+        <div class="pg-panel" data-mode="custom" hidden>
+          <label class="pg-f"><span>{{pg_brand}}</span><select id="pg-c-brand"></select></label>
+          <label class="pg-f"><span>{{pg_material}}</span><select id="pg-c-material"></select></label>
+          <div class="pg-2">
+            <label class="pg-f"><span>{{pg_aspect1}}</span><select id="pg-c-aspect1"></select></label>
+            <label class="pg-f"><span>{{pg_aspect2}}</span><select id="pg-c-aspect2"></select></label>
+          </div>
+          <div class="pg-2">
+            <label class="pg-f"><span>{{pg_type}}</span><select id="pg-c-type"></select></label>
+            <label class="pg-f"><span>{{pg_diameter}}</span><select id="pg-c-diameter"></select></label>
+          </div>
+          <div class="pg-f"><span>{{pg_colors}}</span>
+            <div class="pg-colors">
+              <select id="pg-c-ncolors" aria-label="{{pg_colors}}"><option>1</option><option>2</option><option>3</option></select>
+              <input id="pg-c-col1" type="color" value="#e6352b" aria-label="1">
+              <input id="pg-c-col2" type="color" value="#f58220" aria-label="2">
+              <input id="pg-c-col3" type="color" value="#1e6cf0" aria-label="3">
+            </div>
+          </div>
+          <div class="pg-2">
+            <label class="pg-f"><span>{{pg_measure}}</span><input id="pg-c-measure" type="number" min="0" max="16777215" value="1000"></label>
+            <label class="pg-f"><span>{{pg_unit}}</span><select id="pg-c-unit"></select></label>
+          </div>
+          <div class="pg-f"><span>{{pg_nozzle}}</span><div class="pg-2"><input id="pg-c-nmin" type="number" min="0" max="500" aria-label="{{pg_nozzle}} min"><input id="pg-c-nmax" type="number" min="0" max="500" aria-label="{{pg_nozzle}} max"></div></div>
+          <div class="pg-f"><span>{{pg_bed}}</span><div class="pg-2"><input id="pg-c-bmin" type="number" min="0" max="255" aria-label="{{pg_bed}} min"><input id="pg-c-bmax" type="number" min="0" max="255" aria-label="{{pg_bed}} max"></div></div>
+          <div class="pg-f"><span>{{pg_dry}}</span><div class="pg-2"><input id="pg-c-dtemp" type="number" min="0" max="255" aria-label="{{pg_dry}} °C"><input id="pg-c-dtime" type="number" min="0" max="255" aria-label="{{pg_dry}} h"></div></div>
+          <div class="pg-2">
+            <label class="pg-f"><span>{{pg_td}}</span><input id="pg-c-td" type="number" min="0" max="100" step="0.1" value="0"></label>
+            <label class="pg-f"><span>{{pg_msg}}</span><input id="pg-c-msg" type="text" maxlength="28"></label>
+          </div>
+        </div>
+
+        <div class="pg-panel" data-mode="decode" hidden>
+          <label class="pg-f"><span>{{pg_decode_hint}}</span><textarea id="pg-decode-in" rows="5" spellcheck="false"></textarea></label>
+          <div class="pg-actions"><button type="button" class="btn small primary" id="pg-decode-btn">{{pg_decode_btn}}</button><label class="btn small pg-filebtn">{{pg_file}}<input id="pg-file" type="file" accept=".bin,application/octet-stream" hidden></label></div>
+        </div>
+
+        <div class="pg-common">
+          <label class="pg-f"><span>{{pg_twin}}</span><select id="pg-twin">
+            <option value="0">{{pg_twin_0}}</option><option value="1" selected>{{pg_twin_1}}</option>
+            <option value="1/2">{{pg_twin_12}}</option><option value="2/2">{{pg_twin_22}}</option></select></label>
+          <label class="pg-f"><span>{{pg_left}} <output id="pg-left-out">100 %</output></span><input id="pg-left" type="range" min="0" max="100" value="100"></label>
+          <button type="button" class="btn small" data-example="twin">{{pg_flip}}</button>
+        </div>
+        <p class="pg-error" role="alert"></p>
+      </div>
+
+      <div class="pg-out">
+        <div class="card pg-head">
+          <div class="pg-spool" aria-hidden="true"><i></i></div>
+          <p class="pg-summary"></p>
+        </div>
+        <div class="card">
+          <h3>{{pg_bytes_title}}</h3>
+          <div class="pg-bytes" aria-label="{{pg_bytes_title}}"></div>
+          <p class="pg-explain muted"></p>
+          <div class="pg-actions"><button type="button" class="btn small" id="pg-copy">{{pg_copy}}</button><button type="button" class="btn small" id="pg-download">{{pg_download}}</button></div>
+          <textarea class="pg-hex" rows="2" readonly aria-label="Hex"></textarea>
+        </div>
+      </div>
+    </div>
+    <div class="card pg-table">
+      <h3>{{pg_fields_title}}</h3>
+      <div class="pg-scroll"><table class="pg-fields"><thead><tr><th>{{pg_col_field}}</th><th>{{pg_col_bytes}}</th><th>{{pg_col_hex}}</th><th>{{pg_col_value}}</th></tr></thead><tbody></tbody></table></div>
+      <p class="muted small">{{pg_note}}</p>
+    </div>
+    <script type="application/json" id="pg-i18n">{{@pgi18n}}</script>
+    <script type="application/json" id="pg-default">{{@pgdefault}}</script>
   </section>
 
   <section id="protocol" class="wrap">

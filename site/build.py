@@ -69,6 +69,29 @@ ASSETS = {
     "brand/icon.png": "apple-touch-icon.png",
 }
 
+# The playground reads these, published under data/ next to the pages.
+DATA_TABLES = ["id_brand.json", "id_material.json", "id_aspect.json", "id_type.json",
+               "id_diameter.json", "id_measure_unit.json"]
+# The product the playground opens with (Rosa3D PLA-Silk Red).
+DEFAULT_PRODUCT_ID = 710056716
+
+
+def default_product():
+    """The playground's first product, taken from its brand file, inlined in every page."""
+    index = json.loads((REPO / "database/brands/index.json").read_text(encoding="utf-8"))
+    for brand in index["brands"]:
+        products = json.loads((REPO / "database/brands" / brand["file"]).read_text(encoding="utf-8"))
+        for product in products:
+            if product.get("id") == DEFAULT_PRODUCT_ID:
+                return product
+    raise SystemExit(f"error: default playground product {DEFAULT_PRODUCT_ID} is not in the catalogue")
+
+
+def script_json(value):
+    """JSON safe inside a <script> block."""
+    return json.dumps(value, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+
+
 PLACEHOLDER = re.compile(r"\{\{([a-z0-9_@]+)\}\}")
 
 
@@ -111,7 +134,7 @@ def pages_grid():
     return "\n".join(cells)
 
 
-def render(template, lang, words, dicts, site_url):
+def render(template, lang, words, dicts, site_url, product):
     base = "" if lang == "en" else "../"
     url = site_url + page_path(lang)
 
@@ -137,6 +160,22 @@ def render(template, lang, words, dicts, site_url):
          "publisher": {"@type": "Organization", "name": "TigerTag Corp", "url": "https://tigersystem.io"}},
         {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": HTML_LANG.get(lang, lang), "mainEntity": faq},
     ]
+    jsonld.append({
+        "@context": "https://schema.org", "@type": "Dataset",
+        "name": "TigerTag product catalogue and reference tables",
+        "description": "Open catalogue of 3D-printing filament and resin products with the ids written on TigerTag NFC chips, "
+                       "the reference tables (materials, brands, aspects, types, diameters, units) and one file per brand.",
+        "url": "https://github.com/TigerTag-Project/TigerTag-RFID-Guide/tree/main/database",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "isAccessibleForFree": True,
+        "creator": {"@type": "Organization", "name": "TigerTag Corp", "url": "https://tigersystem.io"},
+        "distribution": [
+            {"@type": "DataDownload", "encodingFormat": "application/json",
+             "contentUrl": "https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_catalog.json"},
+            {"@type": "DataDownload", "encodingFormat": "application/json",
+             "contentUrl": "https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/brands/index.json"},
+        ],
+    })
     # `</` never appears inside a <script> block.
     jsonld_html = "\n".join('<script type="application/ld+json">' + json.dumps(j, ensure_ascii=False).replace("</", "<\\/") + "</script>"
                             for j in jsonld)
@@ -152,6 +191,8 @@ def render(template, lang, words, dicts, site_url):
         "@alternates": "\n".join(alternates),
         "@langmenu": "\n".join(menu),
         "@pages": pages_grid(),
+        "@pgi18n": script_json({k[3:]: v for k, v in words.items() if k.startswith("pj_")}),
+        "@pgdefault": script_json(product),
         "@jsonld": jsonld_html,
         "@trademark": f'<a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/TRADEMARK.md">{html.escape(words["foot_trademark"])}</a>',
     }
@@ -168,6 +209,7 @@ def render(template, lang, words, dicts, site_url):
 def build(out, site_url):
     dicts = load_dictionaries()
     template = (HERE / "template.html").read_text(encoding="utf-8")
+    product = default_product()
     if out.exists():
         shutil.rmtree(out)
     (out / "assets").mkdir(parents=True)
@@ -175,9 +217,15 @@ def build(out, site_url):
     for lang in LANGS:
         target = out / page_path(lang) / "index.html"
         target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_text(render(template, lang, dicts[lang], dicts, site_url), encoding="utf-8")
+        target.write_text(render(template, lang, dicts[lang], dicts, site_url, product), encoding="utf-8")
 
-    for name in ("site.css", "site.js"):
+    # The reference tables and the per-brand catalogue, for the playground.
+    (out / "data" / "brands").mkdir(parents=True)
+    for name in DATA_TABLES:
+        shutil.copy2(REPO / "database" / name, out / "data" / name)
+    for path in (REPO / "database" / "brands").glob("*.json"):
+        shutil.copy2(path, out / "data" / "brands" / path.name)
+    for name in ("site.css", "site.js", "playground.js"):
         shutil.copy2(HERE / name, out / name)
     for source, published in ASSETS.items():
         shutil.copy2(REPO / source, out / "assets" / published)
@@ -209,7 +257,10 @@ def main():
     parser.add_argument("--out", default=str(REPO / "_site"))
     parser.add_argument("--url", default=SITE_URL)
     parser.add_argument("--check", action="store_true")
+    parser.add_argument("--only", help="comma-separated languages, for a quick local preview")
     args = parser.parse_args()
+    if args.only:
+        LANGS[:] = [l for l in LANGS if l in args.only.split(",")]
     if args.check:
         load_dictionaries()
         print(f"translations OK: {len(LANGS)} languages")

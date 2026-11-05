@@ -14,6 +14,9 @@ on:
       - 'Images/**'
       - 'brand/**'
       - 'llms.txt'
+      # The playground publishes the reference tables and the per-brand catalogue:
+      # a catalogue sync redeploys it, so the playground never lags behind.
+      - 'database/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
