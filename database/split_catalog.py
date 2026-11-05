@@ -23,7 +23,7 @@
 Reads `id_catalog.json` and writes `brands/id_<brand>.json`: the same products,
 in the same order and the same format, one file per brand. A reader, a scale or
 a brand's own tool can then embed only the brand it needs instead of the whole
-catalogue (19 885 products, ~17 MB in November 2026).
+catalogue (20 000+ products, ~18 MB in November 2026).
 
 Products are grouped by `RFID_Data.id_brand`, the id the chip carries, never by
 the brand's display name. The file name is built from that name (`Rosa3D` →
