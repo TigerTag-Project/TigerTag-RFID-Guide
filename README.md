@@ -370,7 +370,11 @@ already does offline:
 
 - **Catalogue metadata** — series, product name, SKU, barcode, capacity,
   image and the rest, from [`database/id_catalog.json`](database/id_catalog.json),
-  which ships here under CC0 and resolves offline. The API (§2.2) adds
+  which ships here under CC0 and resolves offline — also split into **one
+  file per brand** in [`database/brands/`](database/brands/)
+  (`id_rosa3d.json`, `id_bambu_lab.json`…, listed by `id_brand` in
+  [`index.json`](database/brands/index.json)) for an integration that only
+  needs its own brand. The API (§2.2) adds
   more on top — documentation and extended detail — which is **a bonus,
   never a dependency**: nothing a reader needs in order to work is
   reachable only over the network.
@@ -571,6 +575,16 @@ references whose timestamp has changed since their last sync.
 <a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/database/last_update.json" target="_blank">View JSON reference on GitHub</a>
 
 🔗 Raw JSON link: https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/last_update.json
+
+**Catalogue, whole or by brand.** The product catalogue
+([`database/id_catalog.json`](database/id_catalog.json)) is synced with the
+tables and also published **one file per brand** in
+[`database/brands/`](database/brands/): the same products, in the same
+format, for the brand you need only (a few hundred kilobytes instead of
+~17 MB). [`database/brands/index.json`](database/brands/index.json) maps each
+`id_brand` to its file. Every file of `database/` is listed with its sha256 in
+[`database/manifest.json`](database/manifest.json). Details:
+[`database/README.md`](database/README.md#one-catalogue-per-brand).
 
 **API Link** *(live values — the JSON above is the snapshot of the last sync)*:
 <a href="https://api.tigertag.io/api:tigertag/all/last_update" target="_blank">https://api.tigertag.io/api:tigertag/all/last_update</a>
