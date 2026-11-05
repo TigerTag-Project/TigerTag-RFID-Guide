@@ -5414,6 +5414,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 135,
+      "color_g": 184,
+      "color_r": 222,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 25,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7812,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1100
+    },
+    "barcode": null,
+    "brand": "Jayo",
+    "color": "#DEB887",
+    "color_info": {
+      "colors": [
+        "#DEB887"
+      ],
+      "type": "mono"
+    },
+    "id": 1741283815,
+    "img_src": "https://cdn.tigertag.io/img?id=1741283815&v=1793864673",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1100 g",
+    "product_type": "Filament",
+    "sku": "B0HCB9RFPZ",
+    "title": "Standard PETG - Burly Wood"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 74,
       "color_g": 107,
       "color_r": 198,

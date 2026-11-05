@@ -137327,6 +137327,47 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 41,
+      "color_g": 187,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 55,
+      "data5": 3,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 38533,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1
+    },
+    "barcode": "LTP04F01K11",
+    "brand": "Lotactree",
+    "color": "#FFBB29FF",
+    "color_info": {
+      "colors": [
+        "#FFBB29FF"
+      ],
+      "type": "mono"
+    },
+    "id": 682876558,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1 kg",
+    "product_type": "Filament",
+    "sku": "LTP04F01K11",
+    "title": "PLA Force - PLA-F GOLD"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 160,
       "color_g": 63,
       "color_r": 123,
@@ -340984,6 +341025,47 @@
     "product_type": "Filament",
     "sku": "B0DZH49X8H",
     "title": "PETG Pro - Yellow"
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 135,
+      "color_g": 184,
+      "color_r": 222,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 25,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7812,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1100
+    },
+    "barcode": null,
+    "brand": "Jayo",
+    "color": "#DEB887",
+    "color_info": {
+      "colors": [
+        "#DEB887"
+      ],
+      "type": "mono"
+    },
+    "id": 1741283815,
+    "img_src": "https://cdn.tigertag.io/img?id=1741283815&v=1793864673",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1100 g",
+    "product_type": "Filament",
+    "sku": "B0HCB9RFPZ",
+    "title": "Standard PETG - Burly Wood"
   },
   {
     "RFID_Data": {
