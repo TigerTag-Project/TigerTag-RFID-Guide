@@ -108,7 +108,6 @@
           <label class="pg-f"><span>{{pg_brand}}</span><select id="pg-cat-brand"></select></label>
           <label class="pg-f"><span>{{pg_search}}</span><input id="pg-cat-search" type="search" autocomplete="off"></label>
           <ul id="pg-cat-list" class="pg-list"></ul>
-          <div class="pg-product" hidden><span class="pg-thumb pg-thumb--lg"><img alt="" width="72" height="72" loading="lazy"></span><div><b class="pg-ptitle"></b><span class="pg-pmeta"></span></div></div>
         </div>
 
         <div class="pg-panel" data-mode="custom" hidden>
@@ -160,8 +159,9 @@
 
       <div class="pg-out">
         <div class="card pg-head">
-          <div class="pg-spool" aria-hidden="true"><i></i></div>
-          <p class="pg-summary"></p>
+          <span class="pg-thumb pg-thumb--head" hidden><img alt="" width="96" height="96"></span>
+          <div class="pg-spool" aria-hidden="true"></div>
+          <div class="pg-headtxt"><b class="pg-ptitle"></b><span class="pg-pmeta"></span><p class="pg-summary"></p></div>
         </div>
         <div class="card">
           <h3>{{pg_bytes_title}}</h3>

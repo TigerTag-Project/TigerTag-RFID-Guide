@@ -198,6 +198,7 @@
 
     // The chip's own colours, painted with the same convention as the catalogue list.
     $(".pg-spool").style.background = current.entry ? colorBg(entryRow(current.entry)) : colorBg(chipRow(current));
+    renderHead(current);
     $(".pg-summary").textContent = summary(current);
     $(".pg-hex").value = Array.from(bytes, (x) => x.toString(16).toUpperCase().padStart(2, "0")).join("");
     previous = bytes;
@@ -300,8 +301,12 @@
              aspect1Id: r.id_aspect1, aspect2Id: r.id_aspect2, colorHex: p.color };
   }
   function chipRow(f) {
+    // A chip's colours 2 and 3 are zero when unused (the chip convention), so the
+    // colours it holds become the list, as Studio does for a spool it writes:
+    // two or three colours paint the soft split whatever the aspects say.
     const hex = (c) => (c && c.some((x) => x) ? rgbHex(c) : null);
-    return { colorList: [], aspect1Id: f.idAspect1, aspect2Id: f.idAspect2,
+    const list = [rgbHex(f.c1), hex(f.c2), hex(f.c3)].filter(Boolean);
+    return { colorList: list.length > 1 ? list : [], aspect1Id: f.idAspect1, aspect2Id: f.idAspect2,
              colorHex: rgbHex(f.c1), colorHex2: hex(f.c2), colorHex3: hex(f.c3) };
   }
 
@@ -379,17 +384,30 @@
       + (!hits.length ? `<li class="pg-muted">${T.no_match}</li>` : "");
   }
   function showProduct(entry) {
-    const card = $(".pg-product");
-    card.hidden = false;
-    card.querySelector("img").src = cdnImg(entry.img_src, 72);
-    const frame = card.querySelector(".pg-thumb");
-    frame.style.setProperty("--spool-bg", colorBg(entryRow(entry)));
-    if (entry.img_src) frame.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX); else delete frame.dataset.zoom;
-    card.querySelector("img").alt = entry.title || "";
-    card.querySelector(".pg-ptitle").textContent = `${entry.brand} · ${entry.title}`;
-    card.querySelector(".pg-pmeta").textContent = [entry.material, entry.measure, entry.sku, entry.barcode].filter(Boolean).join(" · ");
     current = applyCommon(fromCatalog(entry));
     render();
+  }
+
+  /* The card above the byte grid: the catalogue product (photo in its colour
+     frame, name, material, quantity, SKU, barcode) and the chip's one-line
+     summary; a chip with no catalogue product shows its colour swatch instead. */
+  function renderHead(f) {
+    const head = $(".pg-head"), frame = head.querySelector(".pg-thumb"), img = frame.querySelector("img");
+    const entry = f.entry;
+    const photo = !!(entry && entry.img_src);
+    frame.hidden = !photo;
+    head.querySelector(".pg-spool").hidden = photo;
+    if (photo) {
+      const src = cdnImg(entry.img_src, 96);
+      if (img.getAttribute("src") !== src) img.src = src;
+      img.alt = entry.title || "";
+      frame.style.setProperty("--spool-bg", colorBg(entryRow(entry)));
+      frame.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX);
+    } else {
+      delete frame.dataset.zoom;
+    }
+    head.querySelector(".pg-ptitle").textContent = entry ? `${entry.brand} · ${entry.title}` : "";
+    head.querySelector(".pg-pmeta").textContent = entry ? [entry.material, entry.measure, entry.sku, entry.barcode].filter(Boolean).join(" · ") : "";
   }
 
   /* ── Custom tab ────────────────────────────────────────────────────────── */
@@ -513,6 +531,9 @@
     $("#pg-c-diameter").value = String(DEFAULT_PRODUCT.RFID_Data.data1 || 56);   // 1.75 mm
     onMaterial();
     setMode("catalogue");
+    // The catalogue opens on the default product's brand (Rosa3D), its products listed.
+    const home = brandIndex.find((b) => b.id_brand === DEFAULT_PRODUCT.RFID_Data.id_brand);
+    if (home) { $("#pg-cat-brand").value = home.file; onBrand(); }
     showProduct(DEFAULT_PRODUCT);
     previous = null; render();
     $(".pg-explain").textContent = T.pick_byte;

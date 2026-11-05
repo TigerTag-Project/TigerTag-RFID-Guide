@@ -195,7 +195,8 @@ footer.foot .links { justify-content: center; }
 .pg-thumb { flex: none; display: inline-flex; border-radius: 10px; overflow: hidden; background: var(--spool-bg, var(--line)); }
 .pg-thumb img { display: block; width: 56px; height: 56px; object-fit: cover; box-sizing: border-box;
   border: 4px solid transparent; border-radius: 10px; background: #fff; background-clip: padding-box; }
-.pg-thumb--lg img { width: 72px; height: 72px; border-width: 5px; }
+.pg-thumb--head img { width: 96px; height: 96px; border-width: 5px; }
+.pg-thumb[hidden], .pg-spool[hidden] { display: none; }
 /* The hover preview: one element on the page, so the list's scroll box never clips it. */
 .pg-zoom { position: fixed; z-index: 50; pointer-events: none; padding: 6px; border-radius: 16px;
   background: var(--spool-bg, var(--card)); box-shadow: 0 18px 40px -10px rgba(0, 0, 0, .55), 0 0 0 1px var(--line);
@@ -207,9 +208,10 @@ footer.foot .links { justify-content: center; }
 .pg-ptxt b { display: block; font-size: .92rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .pg-ptxt small { display: block; color: var(--muted); font-size: .8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .pg-muted { padding: 10px 12px; color: var(--muted); }
-.pg-product { display: flex; gap: 12px; align-items: center; padding: 10px; border: 1px solid var(--line); border-radius: 12px; margin-bottom: 12px; }
-.pg-product b { display: block; }
-.pg-pmeta { color: var(--muted); font-size: .85rem; }
+.pg-headtxt { min-width: 0; }
+.pg-ptitle { display: block; font-size: 1.05rem; color: var(--text); }
+.pg-ptitle:empty, .pg-pmeta:empty { display: none; }
+.pg-pmeta { display: block; color: var(--muted); font-size: .88rem; margin: 2px 0 8px; }
 .pg-common { border-top: 1px solid var(--line); padding-top: 14px; margin-top: 4px; }
 .pg-error { color: #f06a6a; margin: 8px 0 0; min-height: 1px; }
 .pg-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
