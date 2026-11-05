@@ -65,8 +65,7 @@ ASSETS = {
     # White logo on the dark theme, black (contouring) logo on the light one.
     "brand/logo_tigertag_head.svg": "logo-tigertag-white.svg",
     "brand/logo_tigertag_contouring_head.svg": "logo-tigertag-black.svg",
-    "brand/logo_tigertag_icon_square.svg": "favicon.svg",
-    "brand/icon.png": "apple-touch-icon.png",
+    "brand/tigersystem-icon-framed.svg": "favicon.svg",
 }
 
 # The playground reads these, published under data/ next to the pages.

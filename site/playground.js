@@ -196,13 +196,8 @@
     });
     $(".pg-fields tbody").innerHTML = rows.join("");
 
-    const spool = $(".pg-spool");
-    const cols = [current.c1, current.c2, current.c3].filter((c, k) => k === 0 || c.some((x) => x));
-    spool.style.setProperty("--c1", rgbHex(cols[0]));
-    spool.style.setProperty("--c2", rgbHex(cols[1] || cols[0]));
-    spool.style.setProperty("--c3", rgbHex(cols[2] || cols[1] || cols[0]));
-    const fillPct = current.measure ? Math.max(4, Math.min(100, Math.round(current.measureAvailable * 100 / current.measure))) : 100;
-    spool.style.setProperty("--fill", fillPct + "%");
+    // The chip's own colours, painted with the same convention as the catalogue list.
+    $(".pg-spool").style.background = current.entry ? colorBg(entryRow(current.entry)) : colorBg(chipRow(current));
     $(".pg-summary").textContent = summary(current);
     $(".pg-hex").value = Array.from(bytes, (x) => x.toString(16).toUpperCase().padStart(2, "0")).join("");
     previous = bytes;
@@ -260,6 +255,89 @@
     return url + (url.includes("?") ? "&" : "?") + "size=" + size;
   }
 
+  /* The spool colour, painted exactly as every Tiger app paints it: a port of
+     colorBg() in Tiger Studio Manager (renderer/inventory.js, swatch convention
+     v1.2, TigerSystem-Docs material-swatch.md). Keyed on aspect ids, never labels. */
+  const RAMP_ANGLE = "135deg", SPLIT_BLEND = 20;
+  const ASPECT_ID = { TRICOLOR: 24, RAINBOW: 145, BICOLOR: 252 };
+  const pieSplit = (colors) => {
+    if (colors.length <= 3) {
+      const seg = 100 / colors.length, h = SPLIT_BLEND / 2;
+      const stops = colors.map((c, i) => `${c} ${+Math.max(0, i * seg + (i ? h : 0)).toFixed(2)}% ${+Math.min(100, (i + 1) * seg - (i < colors.length - 1 ? h : 0)).toFixed(2)}%`);
+      return `linear-gradient(${RAMP_ANGLE}, ${stops.join(", ")})`;
+    }
+    const step = 360 / colors.length;
+    return `conic-gradient(${colors.map((c, i) => `${c} ${i * step}deg ${(i + 1) * step}deg`).join(", ")})`;
+  };
+  const conicSweep = (colors) => `conic-gradient(from 0deg, ${colors.join(", ")}, ${colors[0]})`;
+  function colorBg(row) {
+    const ids = [row.aspect1Id, row.aspect2Id].map(Number);
+    const isRainbow = ids.includes(ASPECT_ID.RAINBOW), isTricolor = ids.includes(ASPECT_ID.TRICOLOR), isBicolor = ids.includes(ASPECT_ID.BICOLOR);
+    const norm = (c) => { const x = (c || "").trim().replace(/^#/, ""); const h = x.length === 8 ? x.slice(0, 6) : x; return /^[0-9a-fA-F]{6}$/.test(h) ? "#" + h : null; };
+    const cls = (row.colorList || []).map(norm).filter(Boolean);
+    const type = row.colorType || "";
+    const own = [row.colorHex, row.colorHex2, row.colorHex3].filter(Boolean);
+    if (cls.length >= 2 && type === "conic_gradient") return conicSweep(cls);
+    if (cls.length >= 2 && type === "gradient") return `linear-gradient(${RAMP_ANGLE}, ${cls.join(", ")})`;
+    if (cls.length >= 3 && isTricolor && !isRainbow) return conicSweep(cls);
+    if (cls.length >= 2) return pieSplit(cls);
+    if (cls.length === 1) return cls[0];
+    if (isRainbow && isTricolor) { const [a = "#ff4d4d", b = "#ffd93d", c = "#4da3ff"] = cls; return `linear-gradient(${RAMP_ANGLE}, ${a} 0%, ${b} 50%, ${c} 100%)`; }
+    if (isRainbow && isBicolor) { const [a = "#ff7a00", b = "#8a2be2"] = cls; return `linear-gradient(${RAMP_ANGLE}, ${a} 0%, ${b} 100%)`; }
+    if (isRainbow) {
+      if (own.length >= 2) return `linear-gradient(${RAMP_ANGLE}, ${own.join(", ")})`;
+      if (own.length === 1) return own[0];
+      return `linear-gradient(${RAMP_ANGLE}, #ff0000, #ff8800, #ffff00, #00cc00, #0000ff, #8b00ff)`;
+    }
+    if (isTricolor) { const [a = "#cccccc", b = "#888888", c] = own; return c ? conicSweep([a, b, c]) : pieSplit([a, b]); }
+    if (isBicolor) { const [a = "#cccccc", b = "#ffffff"] = own; return pieSplit([a, b]); }
+    return row.colorHex || "#1c2030";
+  }
+  /* A catalogue entry, or the chip being shown, as colorBg() reads it. */
+  function entryRow(p) {
+    const r = p.RFID_Data || {};
+    return { colorList: (p.color_info && p.color_info.colors) || [], colorType: p.color_info && p.color_info.type,
+             aspect1Id: r.id_aspect1, aspect2Id: r.id_aspect2, colorHex: p.color };
+  }
+  function chipRow(f) {
+    const hex = (c) => (c && c.some((x) => x) ? rgbHex(c) : null);
+    return { colorList: [], aspect1Id: f.idAspect1, aspect2Id: f.idAspect2,
+             colorHex: rgbHex(f.c1), colorHex2: hex(f.c2), colorHex3: hex(f.c3) };
+  }
+
+  /* Hover a product photo: a larger preview beside it, after a short delay so a
+     sweep down the list does not flash one per row (Tiger Studio Manager's thumb zoom). */
+  const ZOOM_PX = 220;
+  let zoomEl = null, zoomTimer = 0, zoomFor = null;
+  function hideZoom() { clearTimeout(zoomTimer); zoomFor = null; if (zoomEl) zoomEl.classList.remove("is-on"); }
+  function showZoom(wrap) {
+    if (!zoomEl) {
+      zoomEl = document.createElement("div");
+      zoomEl.className = "pg-zoom"; zoomEl.setAttribute("aria-hidden", "true"); zoomEl.innerHTML = "<img alt=\"\">";
+      document.body.appendChild(zoomEl);
+    }
+    const img = zoomEl.firstChild;
+    if (img.getAttribute("src") !== wrap.dataset.zoom) img.src = wrap.dataset.zoom;
+    zoomEl.style.setProperty("--spool-bg", wrap.style.getPropertyValue("--spool-bg") || "transparent");
+    const r = wrap.getBoundingClientRect(), size = ZOOM_PX + 12, gap = 12;
+    const left = r.right + gap + size < innerWidth ? r.right + gap : Math.max(8, r.left - gap - size);
+    const top = Math.min(Math.max(8, r.top + r.height / 2 - size / 2), innerHeight - size - 8);
+    zoomEl.style.left = left + "px"; zoomEl.style.top = top + "px";
+    zoomEl.classList.add("is-on");
+  }
+  if (window.matchMedia("(hover: hover)").matches) {
+    document.addEventListener("mouseover", (e) => {
+      const wrap = e.target.closest && e.target.closest(".pg-thumb[data-zoom]");
+      if (wrap === zoomFor) return;
+      hideZoom();
+      if (!wrap) return;
+      zoomFor = wrap;
+      zoomTimer = setTimeout(() => { if (zoomFor === wrap && wrap.isConnected) showZoom(wrap); }, 220);
+    });
+    document.addEventListener("scroll", hideZoom, true);
+    document.addEventListener("mousedown", hideZoom, true);
+  }
+
   function opt(v, t, sel) { return `<option value="${v}"${sel ? " selected" : ""}>${escapeHtml(t)}</option>`; }
 
   function fillSelects(brands, aspects, types, diams, units) {
@@ -294,8 +372,8 @@
     const q = $("#pg-cat-search").value.trim().toLowerCase();
     const hits = products.filter((p) => !q || [p.title, p.sku, p.barcode, p.material, p.series].some((v) => v && String(v).toLowerCase().includes(q)));
     $("#pg-cat-list").innerHTML = hits.slice(0, 60).map((p) =>
-      `<li><button type="button" data-k="${products.indexOf(p)}"><span class="pg-thumb" style="--pc:${escapeHtml(p.color || "#888")}">`
-      + (p.img_src ? `<img src="${escapeHtml(cdnImg(p.img_src, 52))}" alt="" width="52" height="52" loading="lazy" decoding="async">` : "")
+      `<li><button type="button" data-k="${products.indexOf(p)}"><span class="pg-thumb" style="--spool-bg:${escapeHtml(colorBg(entryRow(p)))}"${p.img_src ? ` data-zoom="${escapeHtml(cdnImg(p.img_src, ZOOM_PX))}"` : ""}>`
+      + (p.img_src ? `<img src="${escapeHtml(cdnImg(p.img_src, 56))}" alt="" width="56" height="56" loading="lazy" decoding="async">` : "")
       + `</span><span class="pg-ptxt"><b>${escapeHtml(p.title)}</b><small>${escapeHtml([p.brand, p.material, p.measure].filter(Boolean).join(" · "))}</small></span></button></li>`).join("")
       + (hits.length > 60 ? `<li class="pg-muted">${T.more.replace("{n}", hits.length - 60)}</li>` : "")
       + (!hits.length ? `<li class="pg-muted">${T.no_match}</li>` : "");
@@ -304,6 +382,9 @@
     const card = $(".pg-product");
     card.hidden = false;
     card.querySelector("img").src = cdnImg(entry.img_src, 72);
+    const frame = card.querySelector(".pg-thumb");
+    frame.style.setProperty("--spool-bg", colorBg(entryRow(entry)));
+    if (entry.img_src) frame.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX); else delete frame.dataset.zoom;
     card.querySelector("img").alt = entry.title || "";
     card.querySelector(".pg-ptitle").textContent = `${entry.brand} · ${entry.title}`;
     card.querySelector(".pg-pmeta").textContent = [entry.material, entry.measure, entry.sku, entry.barcode].filter(Boolean).join(" · ");
