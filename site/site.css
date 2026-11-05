@@ -22,10 +22,12 @@
 }
 
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: clip; }
 body {
   margin: 0; min-height: 100vh; background: var(--bg); color: var(--text);
   font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  /* The hero picture overflows its column on purpose: never let it scroll the page sideways. */
+  overflow-x: clip;
 }
 a { color: var(--link); }
 img { max-width: 100%; height: auto; }
@@ -76,7 +78,7 @@ header.bar .wrap { display: flex; align-items: center; gap: 18px; min-height: 64
 .langlist a:hover, .langlist a[aria-current="true"] { background: var(--bg); color: var(--accent); }
 
 /* Hero. */
-.hero { display: grid; grid-template-columns: minmax(0, .95fr) minmax(0, 1.05fr); gap: 40px; align-items: center; margin-top: 40px; }
+.hero { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); gap: 32px; align-items: center; margin-top: 32px; }
 h1 { margin: 0; }
 h1 .kicker, h1 .name { display: block; }
 .kicker { color: var(--accent); font-weight: 650; text-transform: uppercase; letter-spacing: .08em; font-size: .85rem; margin-bottom: 10px; }
@@ -92,7 +94,11 @@ h1 .kicker, h1 .name { display: block; }
 .btn:hover { border-color: var(--accent); }
 .btn.primary { background: var(--accent); border-color: var(--accent); color: #1a0f05; }
 .btn.small { padding: 8px 14px; font-size: .9rem; }
-.show img { display: block; width: 100%; }
+/* The picture is wider than its column: the devices sit on a transparent stage with
+   room around them, so it grows past the column's edges without crowding the text. */
+.show img { display: block; width: 114%; max-width: none; margin: 0 -2% 0 -12%; }
+.eco-hero { margin: 0 0 20px; }
+.eco-hero img { display: block; width: min(1000px, 100%); margin: 0 auto; }
 
 /* Four facts. */
 .facts { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; margin-top: 36px; }
@@ -234,6 +240,7 @@ footer.foot .links { justify-content: center; }
   .nav { display: none; }
   header.bar .wrap { justify-content: space-between; }
   .hero { grid-template-columns: 1fr; gap: 18px; text-align: center; }
+  .show img { width: 100%; margin: 0; }
   .ctas { justify-content: center; }
   .facts, .steps { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .grid3, .eco { grid-template-columns: repeat(2, minmax(0, 1fr)); }
