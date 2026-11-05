@@ -189,15 +189,25 @@ footer.foot .links { justify-content: center; }
 .pg-list { max-height: 360px; }
 .pg-list button { display: flex; gap: 12px; align-items: center; width: 100%; text-align: left; padding: 6px 10px 6px 6px; background: none; border: 0; border-bottom: 1px solid var(--line); color: var(--text); font: inherit; cursor: pointer; }
 .pg-list button:hover { background: var(--bg); }
-/* The photo on white, with the product's colour as a band on the left (Tiger Studio Manager's list). */
-.pg-thumb { flex: none; width: 64px; height: 56px; border-radius: 8px; background: #fff; border-left: 8px solid var(--pc); display: grid; place-items: center; overflow: hidden; }
-.pg-thumb img { width: 52px; height: 52px; object-fit: contain; }
+/* The spool colour frames the photo, photo corners rounded inside the frame:
+   Tiger Studio Manager's .thumb-wrap (a transparent border on the photo, the
+   frame painted by the wrapper's background, which may be a gradient). */
+.pg-thumb { flex: none; display: inline-flex; border-radius: 10px; overflow: hidden; background: var(--spool-bg, var(--line)); }
+.pg-thumb img { display: block; width: 56px; height: 56px; object-fit: cover; box-sizing: border-box;
+  border: 4px solid transparent; border-radius: 10px; background: #fff; background-clip: padding-box; }
+.pg-thumb--lg img { width: 72px; height: 72px; border-width: 5px; }
+/* The hover preview: one element on the page, so the list's scroll box never clips it. */
+.pg-zoom { position: fixed; z-index: 50; pointer-events: none; padding: 6px; border-radius: 16px;
+  background: var(--spool-bg, var(--card)); box-shadow: 0 18px 40px -10px rgba(0, 0, 0, .55), 0 0 0 1px var(--line);
+  opacity: 0; transform: scale(.92); transition: opacity .14s ease, transform .16s cubic-bezier(.2, .8, .2, 1); }
+.pg-zoom.is-on { opacity: 1; transform: none; }
+.pg-zoom img { display: block; width: 220px; height: 220px; object-fit: cover; border-radius: 11px; background: #fff; }
+@media (prefers-reduced-motion: reduce) { .pg-zoom { transition: none; } }
 .pg-ptxt { min-width: 0; }
 .pg-ptxt b { display: block; font-size: .92rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .pg-ptxt small { display: block; color: var(--muted); font-size: .8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .pg-muted { padding: 10px 12px; color: var(--muted); }
 .pg-product { display: flex; gap: 12px; align-items: center; padding: 10px; border: 1px solid var(--line); border-radius: 12px; margin-bottom: 12px; }
-.pg-product img { width: 72px; height: 72px; object-fit: contain; background: #fff; border-radius: 8px; }
 .pg-product b { display: block; }
 .pg-pmeta { color: var(--muted); font-size: .85rem; }
 .pg-common { border-top: 1px solid var(--line); padding-top: 14px; margin-top: 4px; }
@@ -207,8 +217,7 @@ footer.foot .links { justify-content: center; }
 .pg-out { display: grid; gap: 16px; }
 .pg-head { display: flex; gap: 18px; align-items: center; }
 .pg-summary { margin: 0; color: var(--text); font-weight: 600; }
-.pg-spool { flex: none; width: 92px; height: 92px; border-radius: 50%; position: relative;
-  background: conic-gradient(var(--c1) 0 33%, var(--c2) 0 66%, var(--c3) 0); box-shadow: inset 0 0 0 6px rgba(0,0,0,.18); }
+.pg-spool { flex: none; width: 92px; height: 92px; border-radius: 50%; position: relative; box-shadow: inset 0 0 0 6px rgba(0,0,0,.18); }
 .pg-spool::after { content: ""; position: absolute; inset: 30px; border-radius: 50%; background: var(--card); box-shadow: 0 0 0 4px var(--line); }
 .pg-bytes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: repeat(18, auto); grid-auto-flow: column; gap: 4px 14px; margin: 10px 0 6px; }
 .pg-row { display: grid; grid-template-columns: 26px repeat(4, minmax(0, 1fr)); gap: 3px; align-items: center; }
