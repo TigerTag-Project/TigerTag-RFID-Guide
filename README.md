@@ -1320,7 +1320,7 @@ There are **two shells to print**, same Pod underneath:
 
 - **[Pod Mini](https://makerworld.com/fr/models/3190348-tigerpod-mini-for-openspool-tigertag-rfid-filament)** — *recommended.* More compact: it prints faster, uses less
   filament, takes less desk space, and routes the cables inside.
-- **[Pod (original)](https://makerworld.com/fr/models/1289152-tigertag-io-open-spool-pod-for-rfid-filament)** — the first shell, sized for a standard 1 kg spool.
+- **[Pod (original)](https://makerworld.com/fr/models/1289152-tigerpod-for-openspool-tigertag-rfid-filament)** — the first shell, sized for a standard 1 kg spool.
 
 The shell is the part you print, so the Pod comes out in whatever colour you load —
 there is no official colourway to match.
