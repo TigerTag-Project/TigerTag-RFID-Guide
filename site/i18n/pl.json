@@ -245,5 +245,7 @@
   "pj_x_twin": "Bliźniacze tagi: oba chipy produktu mają wspólny znacznik czasu; bajt +39 mówi, który to chip (0x12 = 1 z 2, 0x22 = 2 z 2).",
   "pj_x_res": "Zarezerwowane: zawsze zero.",
   "pj_x_msg": "Dowolny tekst do 28 bajtów, w UTF-8.",
-  "pj_x_sig": "Podpis: zapisywany wyłącznie przez certyfikowanego producenta, obejmuje UID chipa oraz strony 4 i 5, weryfikowany offline."
+  "pj_x_sig": "Podpis: zapisywany wyłącznie przez certyfikowanego producenta, obejmuje UID chipa oraz strony 4 i 5, weryfikowany offline.",
+  "pj_filter": "Filtruj…",
+  "pj_no_option": "Brak wyników"
 }

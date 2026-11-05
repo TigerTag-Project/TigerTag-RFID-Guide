@@ -245,5 +245,7 @@
   "pj_x_twin": "Tags gêmeas: os dois chips de um item compartilham o timestamp; o byte +39 indica qual é este (0x12 = 1 de 2, 0x22 = 2 de 2).",
   "pj_x_res": "Reservado: sempre zero.",
   "pj_x_msg": "Um texto livre de até 28 bytes, em UTF-8.",
-  "pj_x_sig": "Assinatura: gravada apenas por um fabricante certificado, sobre o UID do chip e as páginas 4 e 5, e verificada offline."
+  "pj_x_sig": "Assinatura: gravada apenas por um fabricante certificado, sobre o UID do chip e as páginas 4 e 5, e verificada offline.",
+  "pj_filter": "Filtrar…",
+  "pj_no_option": "Nenhum resultado"
 }

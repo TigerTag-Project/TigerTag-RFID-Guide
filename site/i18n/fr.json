@@ -245,5 +245,7 @@
   "pj_x_twin": "Puces jumelles : les deux puces d’un article partagent l’horodatage ; l’octet +39 indique laquelle est celle-ci (0x12 = 1 sur 2, 0x22 = 2 sur 2).",
   "pj_x_res": "Réservé : toujours à zéro.",
   "pj_x_msg": "Un texte libre de 28 octets au plus, en UTF-8.",
-  "pj_x_sig": "Signature : écrite uniquement par un fabricant certifié, sur l’UID de la puce et les pages 4 et 5, et vérifiée hors ligne."
+  "pj_x_sig": "Signature : écrite uniquement par un fabricant certifié, sur l’UID de la puce et les pages 4 et 5, et vérifiée hors ligne.",
+  "pj_filter": "Filtrer…",
+  "pj_no_option": "Aucun résultat"
 }

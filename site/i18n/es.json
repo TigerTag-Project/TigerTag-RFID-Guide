@@ -245,5 +245,7 @@
   "pj_x_twin": "Etiquetas gemelas: los dos chips de un artículo comparten la marca de tiempo; el byte +39 indica cuál es este (0x12 = 1 de 2, 0x22 = 2 de 2).",
   "pj_x_res": "Reservado: siempre a cero.",
   "pj_x_msg": "Un texto libre de hasta 28 bytes, en UTF-8.",
-  "pj_x_sig": "Firma: la escribe solo un fabricante certificado, sobre el UID del chip y las páginas 4 y 5, y se verifica sin conexión."
+  "pj_x_sig": "Firma: la escribe solo un fabricante certificado, sobre el UID del chip y las páginas 4 y 5, y se verifica sin conexión.",
+  "pj_filter": "Filtrar…",
+  "pj_no_option": "Sin resultados"
 }

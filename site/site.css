@@ -54,6 +54,8 @@ header.bar .wrap { display: flex; align-items: center; gap: 18px; min-height: 64
 :root[data-shown="light"] .logo-light { display: block; }
 :root[data-shown="light"] .logo-dark { display: none; }
 .nav { display: flex; gap: 18px; flex: 1; justify-content: center; flex-wrap: wrap; }
+/* Longer words (French, German, Russian…) keep the menu on one line. */
+@media (max-width: 1320px) { .nav { gap: 12px; } .nav a { font-size: .88rem; } }
 .nav a { color: var(--muted); text-decoration: none; font-size: .95rem; }
 .nav a:hover { color: var(--text); }
 .tools { display: flex; gap: 8px; align-items: center; }
@@ -173,6 +175,16 @@ footer.foot .links { justify-content: center; }
 .pg-tab[aria-selected="true"] { background: var(--card); color: var(--text); box-shadow: 0 1px 4px var(--shadow); }
 .pg-f { display: block; margin-bottom: 12px; }
 .pg-f > span { display: block; font-size: .85rem; color: var(--muted); margin-bottom: 5px; }
+/* The field's name in the specification, next to its label. */
+.pg-fname { font: 600 .72rem ui-monospace, Menlo, monospace; color: var(--accent); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; margin-left: 4px; white-space: nowrap; }
+.pg-fname--row { display: block; width: fit-content; margin: 3px 0 0 17px; font-weight: 500; color: var(--muted); }
+.pg-left { display: grid; grid-template-columns: 1fr 96px; gap: 10px; align-items: center; }
+#pg-left-out, #pg-msg-out { color: var(--text); font-weight: 600; margin-left: 6px; }
+.pg-td { max-width: 50%; }
+/* How many of the message's 28 bytes are used. */
+.pg-meter { display: block; height: 6px; margin-top: 6px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); overflow: hidden; }
+.pg-meter i { display: block; height: 100%; width: 0; background: var(--g-msg); transition: width .15s ease; }
+.pg-meter i.is-full { background: var(--accent); }
 .pg-f select, .pg-f input:not([type=color]):not([type=range]), .pg-f textarea, .pg-colors select {
   width: 100%; font: inherit; font-size: .95rem; color: var(--text); background: var(--bg);
   border: 1px solid var(--line); border-radius: 10px; padding: 9px 11px; }
@@ -183,6 +195,24 @@ footer.foot .links { justify-content: center; }
 .pg-2 .pg-f { margin-bottom: 12px; }
 .pg-colors { display: flex; gap: 8px; align-items: center; }
 .pg-colors select { width: 70px; }
+.pg-colors input[type=color][hidden] { display: none; }
+/* A long list with a search box (brands, materials, aspects). */
+.pg-combo { position: relative; }
+.pg-combo-btn { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 8px; font: inherit; font-size: .95rem;
+  color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 9px 11px; cursor: pointer; text-align: left; }
+.pg-combo-btn span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pg-combo-btn svg { width: 15px; height: 15px; flex: none; color: var(--muted); }
+.pg-combo-btn:focus-visible, .pg-combo-btn[aria-expanded="true"] { outline: 2px solid var(--accent); outline-offset: 1px; }
+.pg-combo-pop { position: absolute; z-index: 20; left: 0; min-width: max(100%, 260px); top: calc(100% + 6px); background: var(--card);
+  border: 1px solid var(--accent); border-radius: 12px; box-shadow: 0 18px 44px rgba(0, 0, 0, .5); padding: 8px; }
+.pg-combo-pop[hidden] { display: none; }
+.pg-combo-q { width: 100%; font: inherit; font-size: .92rem; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin-bottom: 6px; }
+.pg-combo-q:focus { outline: 2px solid var(--accent); outline-offset: 0; }
+.pg-combo-list { list-style: none; margin: 0; padding: 0; max-height: 260px; overflow-y: auto; }
+.pg-combo-list li { padding: 7px 10px; border-radius: 7px; cursor: pointer; color: var(--text); font-size: .92rem; }
+.pg-combo-list li:hover, .pg-combo-list li.is-active { background: var(--bg); }
+.pg-combo-list li[aria-selected="true"] { color: var(--accent); font-weight: 600; }
+.pg-combo-list .pg-combo-none { color: var(--muted); cursor: default; }
 .pg-colors input[type=color] { width: 44px; height: 40px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); padding: 3px; cursor: pointer; }
 .pg-list { list-style: none; margin: 0 0 12px; padding: 0; max-height: 260px; overflow-y: auto; border: 1px solid var(--line); border-radius: 10px; }
 .pg-list:empty { display: none; }
@@ -195,7 +225,8 @@ footer.foot .links { justify-content: center; }
 .pg-thumb { flex: none; display: inline-flex; border-radius: 10px; overflow: hidden; background: var(--spool-bg, var(--line)); }
 .pg-thumb img { display: block; width: 56px; height: 56px; object-fit: cover; box-sizing: border-box;
   border: 4px solid transparent; border-radius: 10px; background: #fff; background-clip: padding-box; }
-.pg-thumb--lg img { width: 72px; height: 72px; border-width: 5px; }
+.pg-thumb--head img { width: 96px; height: 96px; border-width: 5px; }
+.pg-thumb[hidden], .pg-spool[hidden] { display: none; }
 /* The hover preview: one element on the page, so the list's scroll box never clips it. */
 .pg-zoom { position: fixed; z-index: 50; pointer-events: none; padding: 6px; border-radius: 16px;
   background: var(--spool-bg, var(--card)); box-shadow: 0 18px 40px -10px rgba(0, 0, 0, .55), 0 0 0 1px var(--line);
@@ -207,9 +238,10 @@ footer.foot .links { justify-content: center; }
 .pg-ptxt b { display: block; font-size: .92rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .pg-ptxt small { display: block; color: var(--muted); font-size: .8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .pg-muted { padding: 10px 12px; color: var(--muted); }
-.pg-product { display: flex; gap: 12px; align-items: center; padding: 10px; border: 1px solid var(--line); border-radius: 12px; margin-bottom: 12px; }
-.pg-product b { display: block; }
-.pg-pmeta { color: var(--muted); font-size: .85rem; }
+.pg-headtxt { min-width: 0; }
+.pg-ptitle { display: block; font-size: 1.05rem; color: var(--text); }
+.pg-ptitle:empty, .pg-pmeta:empty { display: none; }
+.pg-pmeta { display: block; color: var(--muted); font-size: .88rem; margin: 2px 0 8px; }
 .pg-common { border-top: 1px solid var(--line); padding-top: 14px; margin-top: 4px; }
 .pg-error { color: #f06a6a; margin: 8px 0 0; min-height: 1px; }
 .pg-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }

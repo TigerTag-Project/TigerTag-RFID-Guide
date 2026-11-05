@@ -18,6 +18,17 @@
   const EPOCH_MS = Date.UTC(2000, 0, 1);
 
   /* The 80 data bytes, field by field (README section 2). `group` gives the colour. */
+  /* Each field's name in the specification (README section 2), shown next to its
+     translated label wherever it appears. */
+  const SPEC = {
+    id_tigertag: "ID TigerTag", id_product: "ID Product", id_material: "ID Material", id_aspect1: "ID Aspect 1",
+    id_aspect2: "ID Aspect 2", id_type: "ID Type", id_diameter: "ID Diameter", id_brand: "ID Brand",
+    color1: "Color 1 (RGBA)", measure: "Measure", id_unit: "ID Unit", nozzle_min: "Nozzle Temp Min",
+    nozzle_max: "Nozzle Temp Max", dry_temp: "Dry Temp", dry_time: "Dry Time", bed_min: "Bed Temp Min",
+    bed_max: "Bed Temp Max", timestamp: "Twin Tag ID & Timestamp", color2: "Color 2 (RGB)",
+    tag_info: "Tag index / count", color3: "Color 3 (RGB)", reserved: "Reserved", td: "TD (HueForge)",
+    message: "Custom Message", measure_available: "Measure Available", signature: "Signature R / S (ECDSA)",
+  };
   const FIELDS = [
     { key: "id_tigertag", off: 0, len: 4, group: "id" },
     { key: "id_product", off: 4, len: 4, group: "id" },
@@ -192,12 +203,14 @@
       const hex = Array.from(bytes.slice(fld.off, fld.off + fld.len), (x) => x.toString(16).toUpperCase().padStart(2, "0")).join(" ");
       const shown = fld.len > 8 ? hex.slice(0, 23) + " …" : hex;
       const sw = /^color/.test(fld.key) ? `<i class="pg-sw" style="background:${rgbHex(fld.key === "color1" ? current.c1 : fld.key === "color2" ? current.c2 : current.c3)}"></i>` : "";
-      return `<tr data-f="${i}" class="g-${fld.group}${selected === i ? " pg-sel" : ""}"><td><span class="pg-dot"></span>${T["f_" + fld.key]}</td><td class="pg-mono">+${fld.off}${fld.len > 1 ? "–" + (fld.off + fld.len - 1) : ""}</td><td class="pg-mono">${shown}</td><td>${sw}${escapeHtml(value(i, current))}</td></tr>`;
+      return `<tr data-f="${i}" class="g-${fld.group}${selected === i ? " pg-sel" : ""}"><td><span class="pg-dot"></span>${T["f_" + fld.key]}<code class="pg-fname pg-fname--row">${SPEC[fld.key]}</code></td><td class="pg-mono">+${fld.off}${fld.len > 1 ? "–" + (fld.off + fld.len - 1) : ""}</td><td class="pg-mono">${shown}</td><td>${sw}${escapeHtml(value(i, current))}</td></tr>`;
     });
     $(".pg-fields tbody").innerHTML = rows.join("");
 
     // The chip's own colours, painted with the same convention as the catalogue list.
     $(".pg-spool").style.background = current.entry ? colorBg(entryRow(current.entry)) : colorBg(chipRow(current));
+    renderHead(current);
+    syncSearchable();
     $(".pg-summary").textContent = summary(current);
     $(".pg-hex").value = Array.from(bytes, (x) => x.toString(16).toUpperCase().padStart(2, "0")).join("");
     previous = bytes;
@@ -300,8 +313,12 @@
              aspect1Id: r.id_aspect1, aspect2Id: r.id_aspect2, colorHex: p.color };
   }
   function chipRow(f) {
+    // A chip's colours 2 and 3 are zero when unused (the chip convention), so the
+    // colours it holds become the list, as Studio does for a spool it writes:
+    // two or three colours paint the soft split whatever the aspects say.
     const hex = (c) => (c && c.some((x) => x) ? rgbHex(c) : null);
-    return { colorList: [], aspect1Id: f.idAspect1, aspect2Id: f.idAspect2,
+    const list = [rgbHex(f.c1), hex(f.c2), hex(f.c3)].filter(Boolean);
+    return { colorList: list.length > 1 ? list : [], aspect1Id: f.idAspect1, aspect2Id: f.idAspect2,
              colorHex: rgbHex(f.c1), colorHex2: hex(f.c2), colorHex3: hex(f.c3) };
   }
 
@@ -338,6 +355,68 @@
     document.addEventListener("mousedown", hideZoom, true);
   }
 
+  /* Long lists (brands, materials, aspects) open as a list with a search box, as
+     Tiger Studio Manager's enhanced selects do. The native <select> stays the
+     source of truth: picking an item sets its value and fires change / input,
+     and the button reads its selected option back after every render. */
+  const searchable = [];
+  function enhanceSelect(sel) {
+    const box = document.createElement("div");
+    box.className = "pg-combo";
+    box.innerHTML = `<button type="button" class="pg-combo-btn" aria-haspopup="listbox" aria-expanded="false"><span></span>`
+      + `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button>`
+      + `<div class="pg-combo-pop" hidden><input type="search" class="pg-combo-q" autocomplete="off" placeholder="${escapeHtml(T.filter)}" aria-label="${escapeHtml(T.filter)}"><ul class="pg-combo-list" role="listbox"></ul></div>`;
+    sel.after(box);
+    sel.hidden = true;
+    const btn = box.querySelector(".pg-combo-btn"), pop = box.querySelector(".pg-combo-pop");
+    const q = box.querySelector(".pg-combo-q"), list = box.querySelector(".pg-combo-list");
+    let active = -1, shown = [];
+    const fold = (t) => t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    function sync() {
+      const o = sel.selectedOptions[0];
+      btn.firstChild.textContent = o ? o.textContent : "";
+      btn.setAttribute("aria-label", (sel.closest(".pg-f")?.querySelector("span")?.firstChild?.textContent || "").trim());
+    }
+    function draw() {
+      const needle = fold(q.value.trim());
+      shown = Array.from(sel.options).filter((o) => !needle || fold(o.textContent).includes(needle));
+      if (active >= shown.length) active = shown.length - 1;
+      list.innerHTML = shown.length
+        ? shown.map((o, k) => `<li role="option" data-k="${k}" aria-selected="${o.selected}" class="${k === active ? "is-active" : ""}">${escapeHtml(o.textContent)}</li>`).join("")
+        : `<li class="pg-combo-none">${escapeHtml(T.no_option)}</li>`;
+      const a = list.querySelector(".is-active"); if (a) a.scrollIntoView({ block: "nearest" });
+    }
+    function open() {
+      searchable.forEach((x) => x !== api && x.close());
+      pop.hidden = false; btn.setAttribute("aria-expanded", "true");
+      q.value = ""; active = Math.max(0, Array.from(sel.options).findIndex((o) => o.selected));
+      draw(); q.focus();
+    }
+    function close() { pop.hidden = true; btn.setAttribute("aria-expanded", "false"); }
+    function pick(o) {
+      if (!o) return;
+      sel.value = o.value;
+      sel.dispatchEvent(new Event("change", { bubbles: true }));
+      sel.dispatchEvent(new Event("input", { bubbles: true }));
+      sync(); close(); btn.focus();
+    }
+    btn.addEventListener("click", () => (pop.hidden ? open() : close()));
+    q.addEventListener("input", () => { active = 0; draw(); });
+    q.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowDown") { active = Math.min(shown.length - 1, active + 1); draw(); e.preventDefault(); }
+      else if (e.key === "ArrowUp") { active = Math.max(0, active - 1); draw(); e.preventDefault(); }
+      else if (e.key === "Enter") { pick(shown[active]); e.preventDefault(); }
+      else if (e.key === "Escape") { close(); btn.focus(); }
+    });
+    list.addEventListener("mousedown", (e) => { const li = e.target.closest("li[data-k]"); if (li) { e.preventDefault(); pick(shown[Number(li.dataset.k)]); } });
+    document.addEventListener("mousedown", (e) => { if (!box.contains(e.target)) close(); });
+    const api = { sync, close };
+    searchable.push(api);
+    sync();
+    return api;
+  }
+  const syncSearchable = () => searchable.forEach((x) => x.sync());
+
   function opt(v, t, sel) { return `<option value="${v}"${sel ? " selected" : ""}>${escapeHtml(t)}</option>`; }
 
   function fillSelects(brands, aspects, types, diams, units) {
@@ -350,6 +429,7 @@
     $("#pg-c-type").innerHTML = types.map((a) => opt(a.id, a.label)).join("");
     $("#pg-c-diameter").innerHTML = diams.map((a) => opt(a.id, a.label + " mm")).join("");
     $("#pg-c-unit").innerHTML = units.map((a) => opt(a.id, a.label)).join("");
+    ["#pg-cat-brand", "#pg-c-brand", "#pg-c-material", "#pg-c-aspect1", "#pg-c-aspect2"].forEach((id) => enhanceSelect($(id)));
   }
 
   async function brandProducts(file) {
@@ -379,17 +459,30 @@
       + (!hits.length ? `<li class="pg-muted">${T.no_match}</li>` : "");
   }
   function showProduct(entry) {
-    const card = $(".pg-product");
-    card.hidden = false;
-    card.querySelector("img").src = cdnImg(entry.img_src, 72);
-    const frame = card.querySelector(".pg-thumb");
-    frame.style.setProperty("--spool-bg", colorBg(entryRow(entry)));
-    if (entry.img_src) frame.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX); else delete frame.dataset.zoom;
-    card.querySelector("img").alt = entry.title || "";
-    card.querySelector(".pg-ptitle").textContent = `${entry.brand} · ${entry.title}`;
-    card.querySelector(".pg-pmeta").textContent = [entry.material, entry.measure, entry.sku, entry.barcode].filter(Boolean).join(" · ");
     current = applyCommon(fromCatalog(entry));
     render();
+  }
+
+  /* The card above the byte grid: the catalogue product (photo in its colour
+     frame, name, material, quantity, SKU, barcode) and the chip's one-line
+     summary; a chip with no catalogue product shows its colour swatch instead. */
+  function renderHead(f) {
+    const head = $(".pg-head"), frame = head.querySelector(".pg-thumb"), img = frame.querySelector("img");
+    const entry = f.entry;
+    const photo = !!(entry && entry.img_src);
+    frame.hidden = !photo;
+    head.querySelector(".pg-spool").hidden = photo;
+    if (photo) {
+      const src = cdnImg(entry.img_src, 96);
+      if (img.getAttribute("src") !== src) img.src = src;
+      img.alt = entry.title || "";
+      frame.style.setProperty("--spool-bg", colorBg(entryRow(entry)));
+      frame.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX);
+    } else {
+      delete frame.dataset.zoom;
+    }
+    head.querySelector(".pg-ptitle").textContent = entry ? `${entry.brand} · ${entry.title}` : "";
+    head.querySelector(".pg-pmeta").textContent = entry ? [entry.material, entry.measure, entry.sku, entry.barcode].filter(Boolean).join(" · ") : "";
   }
 
   /* ── Custom tab ────────────────────────────────────────────────────────── */
@@ -397,6 +490,9 @@
     const v = (id) => $(id).value;
     const num = (id) => Number(v(id)) || 0;
     const ncol = num("#pg-c-ncolors") || 1;
+    // Only the pickers of the colours in use are shown.
+    $("#pg-c-col2").hidden = ncol < 2;
+    $("#pg-c-col3").hidden = ncol < 3;
     return applyCommon({
       idTigertag: ID_TIGERTAG, idProduct: MAKER_PRODUCT,
       idMaterial: num("#pg-c-material"), idAspect1: num("#pg-c-aspect1"), idAspect2: num("#pg-c-aspect2"),
@@ -408,6 +504,22 @@
       tdRaw: Math.round(Number(v("#pg-c-td")) * 10) || 0, message: v("#pg-c-msg"), signature: null,
     });
   }
+  /* Custom Message (+48) holds 28 bytes of UTF-8: an accented letter takes 2, an
+     emoji 4. Typing stops at 28 bytes, never inside a character, and the meter
+     shows how many are used. */
+  const MSG_BYTES = 28;
+  function fitMessage() {
+    const el = $("#pg-c-msg"), enc = new TextEncoder();
+    let text = el.value;
+    while (enc.encode(text).length > MSG_BYTES) text = Array.from(text).slice(0, -1).join("");
+    if (text !== el.value) el.value = text;
+    const used = enc.encode(text).length;
+    $("#pg-msg-out").textContent = used + " / " + MSG_BYTES;
+    const bar = $("#pg-msg-bar");
+    bar.style.width = (used * 100 / MSG_BYTES) + "%";
+    bar.classList.toggle("is-full", used >= MSG_BYTES);
+  }
+
   function onMaterial() {
     const m = materials.find((x) => String(x.id) === $("#pg-c-material").value);
     const r = m && m.recommended;
@@ -421,15 +533,25 @@
   }
 
   /* ── Common controls: twin tags and remaining quantity ─────────────────── */
+  /* The remaining quantity is the chip's Measure Available (+76, u24): an integer
+     in the unit, from 0 to the initial Measure. A new product or a new initial
+     quantity starts full. */
+  let leftFor = null;
   function applyCommon(f) {
     const twin = $("#pg-twin").value;            // "0", "1" (single), "1/2", "2/2"
     if (twin === "1") { f.tagCount = 1; f.tagIndex = 1; }
     else if (twin === "1/2") { f.tagCount = 2; f.tagIndex = 1; }
     else if (twin === "2/2") { f.tagCount = 2; f.tagIndex = 2; }
     else { f.tagCount = 0; f.tagIndex = 0; }
-    const pct = Number($("#pg-left").value);
-    f.measureAvailable = Math.round(f.measure * pct / 100);
-    $("#pg-left-out").textContent = pct + " %";
+    const sl = $("#pg-left"), nb = $("#pg-left-n");
+    const key = (f.entry ? f.entry.id : "custom") + ":" + f.measure;
+    if (key !== leftFor) {
+      leftFor = key;
+      sl.max = nb.max = String(f.measure);
+      sl.value = nb.value = String(f.measure);
+    }
+    f.measureAvailable = Math.min(f.measure, Math.max(0, Math.round(Number(nb.value) || 0)));
+    $("#pg-left-out").textContent = f.measureAvailable + " / " + f.measure + " " + (tables.unit.get(f.idUnit) || "");
     return f;
   }
   function onCommon() {
@@ -469,10 +591,12 @@
     $("#pg-cat-list").addEventListener("click", (e) => {
       const b = e.target.closest("button[data-k]"); if (b) showProduct(products[Number(b.dataset.k)]);
     });
+    $("#pg-c-msg").addEventListener("input", fitMessage);
     root.querySelectorAll(".pg-panel[data-mode=custom] input, .pg-panel[data-mode=custom] select").forEach((el) =>
       el.addEventListener(el.id === "pg-c-material" ? "change" : "input", el.id === "pg-c-material" ? onMaterial : () => { current = readCustom(); render(); }));
     $("#pg-twin").addEventListener("change", onCommon);
-    $("#pg-left").addEventListener("input", onCommon);
+    $("#pg-left").addEventListener("input", () => { $("#pg-left-n").value = $("#pg-left").value; onCommon(); });
+    $("#pg-left-n").addEventListener("input", () => { $("#pg-left").value = $("#pg-left-n").value; onCommon(); });
     $("#pg-decode-btn").addEventListener("click", () => decodeHex($("#pg-decode-in").value));
     $("#pg-file").addEventListener("change", async (e) => {
       const file = e.target.files[0]; if (!file) return;
@@ -513,6 +637,9 @@
     $("#pg-c-diameter").value = String(DEFAULT_PRODUCT.RFID_Data.data1 || 56);   // 1.75 mm
     onMaterial();
     setMode("catalogue");
+    // The catalogue opens on the default product's brand (Rosa3D), its products listed.
+    const home = brandIndex.find((b) => b.id_brand === DEFAULT_PRODUCT.RFID_Data.id_brand);
+    if (home) { $("#pg-cat-brand").value = home.file; onBrand(); }
     showProduct(DEFAULT_PRODUCT);
     previous = null; render();
     $(".pg-explain").textContent = T.pick_byte;
