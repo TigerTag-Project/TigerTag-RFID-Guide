@@ -89,7 +89,9 @@ Deployment as of 2026:
   coming) — via TigerTag Studio Manager, which speaks each brand's own
   protocol.
 - Printer firmware reading TigerTag chips natively: Snapmaker U1, through
-  the community Extended Firmware (see Community integrations below).
+  the community Extended Firmware, and Elegoo Centauri Carbon, through the
+  community COSMOS firmware and the Canvas's built-in NFC reader (see
+  Community integrations below).
 - Official mobile apps: TigerTag RFID Connect (iOS + Android), free.
 - Official desktop app: TigerTag Studio Manager (Windows / macOS /
   Linux), open source.
@@ -294,6 +296,11 @@ integration, never as a thing bought on its own.
   https://github.com/Kenny3231/TigerTag
 - Snapmaker U1 Extended Firmware (TigerTag via OpenRFID):
   https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware
+- COSMOS — open-source firmware for the Elegoo Centauri Carbon (Yocto
+  Linux, Klipper / Kalico). Its canvas_rfid module reads NTAG21x chips
+  with the NFC reader built into the Canvas multi-colour unit and decodes
+  them with OpenRFID, TigerTag included. GPL-3.0, not affiliated with
+  Elegoo. https://github.com/OpenCentauri/cosmos
 - BambuTagger — DIY ESP32 reader/writer hardware (BT-Touch handheld,
   BT-AMS-C four-slot AMS reader). Reads and writes the TigerTag binary
   format at the specified offsets; does not read TD, the custom message
