@@ -187,25 +187,15 @@ def download_dataset(endpoint, filename):
 # to one is a readable patch for the other.
 CATALOG_FILE = "id_catalog.json"
 CATALOG_KEY = "products"
-# Measured against the live endpoint on 2026-09-05, with 13 408 products:
+# Since 2026-11-06 `product/get/all` serves at most 1 000 products a page: a larger
+# `per_page` is capped by the server, and `nextPage` / `pageTotal` follow the cap.
+# The endpoint reads a catalogue snapshot that Xano prepares in the background, so
+# a page of 1 000 costs under a second (about 0.1 s from its response cache), while
+# one request for everything held the instance for 10 s and delayed chip reads
+# (TigerTag-Project/TigerTag-Manager#121). A full sync is about 21 requests.
 #
-#   per_page   result             time     bytes
-#   1 000      200                 3.4 s   548 KB
-#   2 000      200                 4.4 s   1.1 MB
-#   5 000      200                 7.2 s   2.8 MB
-#   8 000      200                 9.9 s   4.5 MB
-#   9 000      200                14.2 s   5.0 MB
-#   10 000     502, then 200      ~12 s    5.6 MB
-#   13 408     502 immediately     0.2 s   —
-#
-# So the ceiling is soft, not a documented maximum: 10 000 failed and then
-# succeeded a minute later, which makes it a function of server load rather than
-# a limit to sit next to. 5 000 keeps a wide margin below the first sign of
-# trouble and still cuts a full sync from 14 requests to 3.
-#
-# Raise this only with fresh measurements. "One page for everything" is not a
-# goal worth chasing — it is the shape that fails.
-CATALOG_PER_PAGE = 5000
+# Asking for more than 1 000 still works (it is capped), but only 1 000 come back.
+CATALOG_PER_PAGE = 1000
 CATALOG_MAX_PAGES = 100   # runaway guard, NOT a catalogue-size limit
 # The reference tables are single small GETs; a catalogue page is thousands of
 # products, so it gets its own, longer budget.
