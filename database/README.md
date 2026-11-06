@@ -52,7 +52,7 @@ The same data is available, always current, with no key and no login:
 | `id_type.json` | Product type identifiers |
 | `id_diameter.json` | Filament diameter identifiers |
 | `id_measure_unit.json` | Measurement unit identifiers |
-| `id_catalog.json` | **The full TigerTag+ product catalogue** — named like its `id_*.json` neighbours because that is what it is: the ids — every referenced product with its brand, series, name, material, aspect, colour, SKU, barcode, capacity and image |
+| `id_catalog.json` | **The full TigerTag+ product catalogue** — named like its `id_*.json` neighbours because that is what it is: the ids — every referenced product with its brand, series, name, material, aspects, colour, SKU, barcode, capacity, image, chip fields (`RFID_Data`), flags and last change date |
 | `last_update.json` | Sync timestamps, as served by the API's `all/last_update` |
 | `manifest.json` | Every table above with its sha256, size, entry count and last change date. See [The manifest](#the-manifest) |
 | `brands/` | The catalogue split into one file per brand (`brands/id_rosa3d.json`, `brands/id_bambu_lab.json`, …) with `brands/index.json`. See [One catalogue per brand](#one-catalogue-per-brand) |
@@ -62,7 +62,7 @@ The same data is available, always current, with no key and no login:
 ### The product catalogue
 
 The tables above name the *vocabulary* — what a material or a brand id means.
-`id_catalog.json` is the **catalogue itself**: ~3 000 real products, each with the
+`id_catalog.json` is the **catalogue itself**: 20 000+ real products, each with the
 `id` a chip carries in `id_product`. Resolving a scanned chip to an actual
 product needs nothing more than this file.
 
@@ -72,22 +72,32 @@ deal as the reference tables.
 
 ```jsonc
 {
-  "id": 1251796608,            // matches the chip's id_product
+  "id": 75550790,              // matches the chip's id_product
   "product_type": "Filament",
   "brand": "3DXTech",
   "series": "CarbonX",
   "name": "Black",
   "title": "CarbonX - Black",  // series + name, pre-joined
-  "material": "PP",
+  "material": "PEKK",
   "aspect1": "Carbon",
   "aspect2": null,
   "color": "#000000FF",
   "color_info": { "type": "mono", "colors": ["#000000FF"] },
-  "measure": "750 g",
-  "sku": "PP01010750BK0",
-  "barcode": "07050135",
-  "img_src": "https://cdn.tigertag.io/img?id=1251796608&v=4",
-  "updated_at": 1785083620855
+  "measure": "500 g",
+  "sku": "PK06010500BK0",
+  "barcode": "84765591",
+  "img_src": "https://cdn.tigertag.io/img?id=75550790&v=3",
+  "info1": false,
+  "info2": false,
+  "info3": false,
+  "updated_at": 1788478691958, // epoch ms, null if never modified
+  "RFID_Data": {               // what a chip for this product carries
+    "id_type": 142, "id_brand": 39652, "id_material": 53970,
+    "id_aspect1": 238, "id_aspect2": null, "id_unit": 21, "measure": 500,
+    "color_r": 0, "color_g": 0, "color_b": 0, "color_a": 255,
+    "data1": 56, "data2": 370, "data3": 410, "data4": 150,
+    "data5": 4, "data6": 120, "data7": 150
+  }
 }
 ```
 
@@ -95,9 +105,28 @@ Read `series` and `name` from their own fields — do **not** split `title` on t
 last `" - "`. A colour name may contain one: *"PLA Basic - CMYK - Magenta"* is
 series `PLA Basic` + name `CMYK - Magenta`, and splitting gets it backwards.
 
-`sku`, `barcode` and `updated_at` are **not** filled in for every product; treat
-them as optional. `id`, `product_type`, `brand`, `series`, `name`, `material`,
-`aspect1`, `color`, `color_info` and `measure` are always present.
+Every product carries every key above. Some values may be `null` or empty:
+
+| Field | Filled in |
+|---|---|
+| `id`, `product_type`, `brand`, `series`, `name`, `title`, `material`, `aspect1`, `color`, `color_info`, `measure`, `info1`–`info3` | always |
+| `RFID_Data` | for every product a chip can be written for: the ids of `id_*.json` (`id_type`, `id_brand`, `id_material`, `id_aspect1`, `id_aspect2`, `id_unit`), the capacity, the colour as RGBA and the `data1`–`data7` slots. `null` for a handful of products with no chip data (three in November 2026) |
+| `aspect2` | only when the product has a second aspect |
+| `sku`, `barcode` | when the brand supplied one |
+| `updated_at` | epoch ms of the product's last change, **`null` for a product never modified since it was created** (about 1 200 in November 2026) |
+
+`info1`, `info2` and `info3` are booleans: three generic per-product attributes
+carried from the Manager (TigerTag-Project/TigerTag-Manager#35).
+
+`brands/` is cut by `RFID_Data.id_brand`, so a product whose `RFID_Data` is
+`null` is in `id_catalog.json` but in no brand file; `brands/index.json` counts
+them.
+
+**Do not use `updated_at` alone for an incremental sync.** A product never
+modified since it was created has `updated_at: null`, so "everything newer than
+my last sync" misses it (TigerTag-Project/TigerTag-Manager#58). Compare the whole
+file instead: the `sha256` in [`manifest.json`](#the-manifest) says whether
+anything changed.
 
 Refreshed by `python db_update.py`, in the same run as the tables above — there
 is no separate catalogue command. It walks every page, sorts by `id` and sorts
@@ -110,8 +139,9 @@ server timestamp to compare and every run downloads it in full (20 000+ products
 five pages, ~18 MB in November 2026). That is why the byte-comparison above matters:
 the download is unconditional, the *write* is not. `last_update.json` is the
 API's own payload plus a `products` key: the newest `updated_at` of the products
-(epoch ms), so it means the same thing as its neighbours. Each file's change date
-is also in `manifest.json`.
+(epoch ms), so it means the same thing as its neighbours. Because products never
+modified have no `updated_at`, that date can miss a new product; the catalogue's
+`sha256` and change date in `manifest.json` do not.
 
 ### The manifest
 
