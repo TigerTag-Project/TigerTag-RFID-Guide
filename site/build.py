@@ -33,6 +33,7 @@ Usage:
 """
 
 import argparse
+import hashlib
 import html
 import json
 import re
@@ -91,6 +92,11 @@ def default_product():
             if product.get("id") == DEFAULT_PRODUCT_ID:
                 return product
     raise SystemExit(f"error: default playground product {DEFAULT_PRODUCT_ID} is not in the catalogue")
+
+
+def asset_version(name):
+    """Short sha256 of a published site file, appended to its URL as ?v=."""
+    return hashlib.sha256((HERE / name).read_bytes()).hexdigest()[:10]
 
 
 def script_json(value):
@@ -244,6 +250,11 @@ def render(template, lang, words, dicts, site_url, product, dates):
         "@pgi18n": script_json({k[3:]: v for k, v in words.items() if k.startswith("pj_")}),
         "@pgdefault": script_json(product),
         "@jsonld": jsonld_html,
+        # Content hashes: a new site.css / site.js / playground.js gets a new URL,
+        # so no browser keeps running the previous one from its cache.
+        "@vcss": asset_version("site.css"),
+        "@vjs": asset_version("site.js"),
+        "@vpg": asset_version("playground.js"),
         "@trademark": f'<a href="https://github.com/TigerTag-Project/TigerTag-RFID-Guide/blob/main/TRADEMARK.md">{html.escape(words["foot_trademark"])}</a>',
     }
 
