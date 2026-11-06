@@ -343,7 +343,7 @@
   }
   if (window.matchMedia("(hover: hover)").matches) {
     document.addEventListener("mouseover", (e) => {
-      const wrap = e.target.closest && e.target.closest(".pg-thumb[data-zoom], .pg-sc-img[data-zoom]");
+      const wrap = e.target.closest && e.target.closest(".pg-thumb[data-zoom]");
       if (wrap === zoomFor) return;
       hideZoom();
       if (!wrap) return;
@@ -462,52 +462,44 @@
     render();
   }
 
-  /* The card above the byte grid, drawn as Tiger Studio Manager's filament card
-     (_gridCardInnerHTML / .spool-card): a square of the spool's colour with the
-     TigerTag logo as a watermark (white on a dark colour, contoured on a light
-     one), the product photo laid over it, then name, brand · material, the
-     remaining weight and its fill bar. A custom or decoded chip gets the same
-     card without the photo. Next to it: the catalogue details and the summary. */
+  /* The card above the byte grid, as a pill of Tiger Studio Manager's lists: the
+     product photo in its spool-colour frame (hover zoom), the name, then
+     brand · material · quantity. A custom or decoded chip gets the same pill
+     with Studio's no-photo thumbnail: the colour square and the TigerTag logo
+     (white on a dark colour, contoured on a light one). Under it: SKU, barcode
+     and the chip's one-line summary. */
   const LOGO_LIGHT = "assets/logo-tigertag-white.svg", LOGO_DARK = "assets/logo-tigertag-black.svg";
   function isColorDark(bg) {
-    const m = String(bg).match(/#([0-9a-fA-F]{6})/) || null;
+    const m = String(bg).match(/#([0-9a-fA-F]{6})/);
     const rgb = m ? [0, 2, 4].map((i) => parseInt(m[1].slice(i, i + 2), 16))
       : (String(bg).match(/rgb\((\d+),\s*(\d+),\s*(\d+)/) || []).slice(1, 4).map(Number);
     if (rgb.length < 3) return false;
     return (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) / 255 < 0.5;
   }
-  function fillBarColor(pct) { return pct < 20 ? "#F44336" : pct < 50 ? "#FF9800" : "#4CAF50"; }
   function renderHead(f) {
-    const head = $(".pg-head"), tile = head.querySelector(".pg-sc-img");
-    const logo = tile.querySelector(".pg-sc-logo"), photo = tile.querySelector(".pg-sc-photo");
+    const head = $(".pg-head"), frame = head.querySelector(".pg-thumb");
+    const photo = frame.querySelector(".pg-pill-photo"), swatch = frame.querySelector(".pg-pill-color"), logo = frame.querySelector(".pg-pill-logo");
     const entry = f.entry;
     const bg = entry ? colorBg(entryRow(entry)) : colorBg(chipRow(f));
-    tile.style.background = bg;
-    tile.style.setProperty("--spool-bg", bg);
-    const base = root.dataset.data.replace(/data\/$/, "");
-    const logoSrc = base + (isColorDark(bg) ? LOGO_LIGHT : LOGO_DARK);
-    if (logo.getAttribute("src") !== logoSrc) logo.src = logoSrc;
-    if (entry && entry.img_src) {
-      const src = cdnImg(entry.img_src, 256);
+    frame.style.setProperty("--spool-bg", bg);
+    const hasPhoto = !!(entry && entry.img_src);
+    photo.hidden = !hasPhoto; swatch.hidden = hasPhoto;
+    if (hasPhoto) {
+      const src = cdnImg(entry.img_src, 64);
       if (photo.getAttribute("src") !== src) photo.src = src;
       photo.alt = entry.title || "";
-      photo.hidden = false;
-      tile.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX);
+      frame.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX);
     } else {
-      photo.hidden = true; photo.removeAttribute("src");
-      delete tile.dataset.zoom;
+      delete frame.dataset.zoom;
+      swatch.style.background = bg;
+      const src = root.dataset.data.replace(/data\/$/, "") + (isColorDark(bg) ? LOGO_LIGHT : LOGO_DARK);
+      if (logo.getAttribute("src") !== src) logo.src = src;
     }
     const unit = tables.unit.get(f.idUnit) || "";
-    const aspects = [f.idAspect1, f.idAspect2].filter(Boolean).map((id) => tables.aspect.get(id)).filter((a) => a && a !== "-");
-    head.querySelector(".pg-sc-name").textContent = entry ? entry.title : ([label(tables.material, f.idMaterial)].concat(aspects).join(" "));
-    head.querySelector(".pg-sc-sub").textContent = `${label(tables.brand, f.idBrand)} · ${label(tables.material, f.idMaterial)}`;
-    head.querySelector(".pg-sc-weight").textContent = f.measureAvailable + " " + unit;
-    head.querySelector(".pg-sc-tier").textContent = typeName(f.idTigertag);
-    const pct = f.measure ? Math.max(0, Math.min(100, Math.round(f.measureAvailable * 100 / f.measure))) : 0;
-    const bar = head.querySelector(".pg-sc-bar span");
-    bar.style.width = pct + "%"; bar.style.background = fillBarColor(pct);
-    head.querySelector(".pg-ptitle").textContent = entry ? `${entry.brand} · ${entry.title}` : "";
-    head.querySelector(".pg-pmeta").textContent = entry ? [entry.material, entry.measure, entry.sku, entry.barcode].filter(Boolean).join(" · ") : "";
+    const aspects = [f.idAspect1, f.idAspect2].filter(Boolean).map((id) => tables.aspect.get(id)).filter((x) => x && x !== "-");
+    head.querySelector(".pg-pill-name").textContent = entry ? entry.title : [label(tables.material, f.idMaterial)].concat(aspects).join(" ");
+    head.querySelector(".pg-pill-sub").textContent = [label(tables.brand, f.idBrand), label(tables.material, f.idMaterial), f.measure + " " + unit].join(" · ");
+    head.querySelector(".pg-pmeta").textContent = entry ? [entry.sku, entry.barcode].filter(Boolean).join(" · ") : "";
   }
 
   /* ── Custom tab ────────────────────────────────────────────────────────── */
