@@ -1450,6 +1450,12 @@ Open-source firmware for the **Elegoo Centauri Carbon**, a complete mainline-Lin
 
 **Repository:** [OpenCentauri/cosmos](https://github.com/OpenCentauri/cosmos) — GPL-3.0. Independent of, and not affiliated with, Elegoo.
 
+### 6.6 Stellio — 3D-print library manager
+
+Desktop application (Python, Windows) that manages a local library of 3D-printing files — previews, semantic search, slicer hand-off, print queue — with a filament side that reads the **TigerTag inventory** through the public cloud data: sign in, or let it pick up an existing Tiger Studio session, and the account's spools appear in its stock, **read-only** (it never writes to the inventory). It then filters the library to what the spools in stock can print and warns before a print runs short. It does not read chips itself.
+
+🔗 [stellio-app/stellio](https://github.com/stellio-app/stellio) · [stellio-app.com](https://stellio-app.com) — AGPL-3.0.
+
 ---
 
 ## Press kit & brand assets
@@ -1760,6 +1766,7 @@ Community integrations:
 - Home Assistant: https://github.com/Kenny3231/TigerTag
 - Snapmaker U1 firmware: https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware
 - Elegoo Centauri Carbon firmware (COSMOS): https://github.com/OpenCentauri/cosmos
+- Stellio (3D-print library manager, reads the TigerTag inventory): https://github.com/stellio-app/stellio
 
 ## Support the project
 

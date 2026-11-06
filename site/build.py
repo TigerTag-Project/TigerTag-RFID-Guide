@@ -62,6 +62,13 @@ ASSETS = {
     "Images/Box_eSun.png": "Box_eSun.png",
     "Images/Box_Rosa3D.png": "Box_Rosa3D.png",
     "Images/Box_Sunlu.png": "Box_Sunlu.png",
+    "Images/Refill_Black.png": "Refill_Black.png",
+    "Images/Refill_Gold.png": "Refill_Gold.png",
+    "Images/Refill_Purple.png": "Refill_Purple.png",
+    "Images/Refill_Yellow.png": "Refill_Yellow.png",
+    "Images/Refill_Green.png": "Refill_Green.png",
+    "Images/TigerTag_Refill_Front.png": "TigerTag_Refill_Front.png",
+    "Images/TigerTag_Refill_Back.png": "TigerTag_Refill_Back.png",
     # White logo on the dark theme, black (contouring) logo on the light one.
     "brand/logo_tigertag_head.svg": "logo-tigertag-white.svg",
     "brand/logo_tigertag_contouring_head.svg": "logo-tigertag-black.svg",

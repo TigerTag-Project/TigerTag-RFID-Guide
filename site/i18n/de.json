@@ -248,5 +248,13 @@
   "pj_x_msg": "Ein freier Text mit bis zu 28 Byte, in UTF-8.",
   "pj_x_sig": "Signatur: nur von einem zertifizierten Hersteller geschrieben, über die UID des Chips und die Seiten 4 und 5, und offline geprüft.",
   "pj_filter": "Filtern…",
-  "pj_no_option": "Keine Treffer"
+  "pj_no_option": "Keine Treffer",
+  "comm_stellio": "Desktop-Bibliothek für 3D-Druckdateien; liest Ihr TigerTag-Inventar (nur lesend) und zeigt, was Ihre Spulen drucken können.",
+  "comm_spooly": "Filament-Inventarplattform (Web, iOS, Android, Home Assistant, OrcaSlicer), deren Spulenerkennung auf TigerTag basiert.",
+  "pg_series": "Serie",
+  "pj_all_series": "Alle Serien",
+  "refill_title": "Auch Nachfüllspulen",
+  "refill_text": "Keine Kunststoffspule und trotzdem ein TigerTag auf jeder Rolle, egal in welcher Farbe. Der TigerTag-Refill-Träger hat an jedem Ende einen Chip.",
+  "refill_alt": "Filament-Nachfüllrollen in fünf Farben, jede mit einem TigerTag-Abzeichen",
+  "refill_carrier_alt": "TigerTag-Refill-Träger, Vorder- und Rückseite: ein Streifen mit einem Chipfach an jedem Ende"
 }

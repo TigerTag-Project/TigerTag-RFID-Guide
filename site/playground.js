@@ -428,7 +428,8 @@
     $("#pg-c-type").innerHTML = types.map((a) => opt(a.id, a.label)).join("");
     $("#pg-c-diameter").innerHTML = diams.map((a) => opt(a.id, a.label + " mm")).join("");
     $("#pg-c-unit").innerHTML = units.map((a) => opt(a.id, a.label)).join("");
-    ["#pg-cat-brand", "#pg-c-brand", "#pg-c-material", "#pg-c-aspect1", "#pg-c-aspect2"].forEach((id) => enhanceSelect($(id)));
+    $("#pg-cat-series").innerHTML = opt("", T.all_series);
+    ["#pg-cat-brand", "#pg-cat-series", "#pg-c-brand", "#pg-c-material", "#pg-c-aspect1", "#pg-c-aspect2"].forEach((id) => enhanceSelect($(id)));
   }
 
   async function brandProducts(file) {
@@ -445,11 +446,25 @@
     if (!file) return;
     $("#pg-cat-list").innerHTML = `<li class="pg-muted">${T.loading}</li>`;
     try { products = await brandProducts(file); } catch (e) { $("#pg-cat-list").innerHTML = `<li class="pg-muted">${T.load_error}</li>`; return; }
+    fillSeries();
     listProducts();
+  }
+  /* A product's series. The catalogue export lost its `series` field on
+     2026-09-01 (TigerTag-Manager#98); every title still reads "<series> - <name>",
+     so the series is taken from the title until the field comes back. */
+  const seriesOf = (p) => (p.series && String(p.series).trim()) || String(p.title || "").split(" - ")[0].trim();
+  function fillSeries() {
+    const count = new Map();
+    products.forEach((p) => { const s = seriesOf(p); if (s) count.set(s, (count.get(s) || 0) + 1); });
+    const list = [...count.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+    $("#pg-cat-series").innerHTML = opt("", `${T.all_series} (${products.length})`) + list.map(([s, n]) => opt(s, `${s} (${n})`)).join("");
+    syncSearchable();
   }
   function listProducts() {
     const q = $("#pg-cat-search").value.trim().toLowerCase();
-    const hits = products.filter((p) => !q || [p.title, p.sku, p.barcode, p.material, p.series].some((v) => v && String(v).toLowerCase().includes(q)));
+    const series = $("#pg-cat-series").value;
+    const hits = products.filter((p) => (!series || seriesOf(p) === series)
+      && (!q || [p.title, p.sku, p.barcode, p.material, p.series].some((v) => v && String(v).toLowerCase().includes(q))));
     $("#pg-cat-list").innerHTML = hits.slice(0, 60).map((p) =>
       `<li><button type="button" data-k="${products.indexOf(p)}"><span class="pg-thumb" style="--spool-bg:${escapeHtml(colorBg(entryRow(p)))}"${p.img_src ? ` data-zoom="${escapeHtml(cdnImg(p.img_src, ZOOM_PX))}"` : ""}>`
       + (p.img_src ? `<img src="${escapeHtml(cdnImg(p.img_src, 56))}" alt="" width="56" height="56" loading="lazy" decoding="async">` : "")
@@ -605,6 +620,7 @@
     root.querySelectorAll(".pg-tab").forEach((b) => b.addEventListener("click", () => setMode(b.dataset.mode)));
     $("#pg-cat-brand").addEventListener("change", onBrand);
     $("#pg-cat-search").addEventListener("input", listProducts);
+    $("#pg-cat-series").addEventListener("change", listProducts);
     $("#pg-cat-list").addEventListener("click", (e) => {
       const b = e.target.closest("button[data-k]"); if (b) showProduct(products[Number(b.dataset.k)]);
     });

@@ -248,5 +248,13 @@
   "pj_x_msg": "Un texte libre de 28 octets au plus, en UTF-8.",
   "pj_x_sig": "Signature : écrite uniquement par un fabricant certifié, sur l’UID de la puce et les pages 4 et 5, et vérifiée hors ligne.",
   "pj_filter": "Filtrer…",
-  "pj_no_option": "Aucun résultat"
+  "pj_no_option": "Aucun résultat",
+  "comm_stellio": "Bibliothèque de bureau pour vos fichiers d’impression 3D ; lit votre inventaire TigerTag, en lecture seule, pour montrer ce que vos bobines peuvent imprimer.",
+  "comm_spooly": "Plateforme d’inventaire de filaments (web, iOS, Android, Home Assistant, OrcaSlicer) dont l’identification des bobines repose sur TigerTag.",
+  "pg_series": "Série",
+  "pj_all_series": "Toutes les séries",
+  "refill_title": "Les recharges aussi",
+  "refill_text": "Pas de bobine en plastique, et pourtant un TigerTag sur chaque recharge, quelle que soit la couleur. Le support TigerTag Refill porte une puce à chaque extrémité.",
+  "refill_alt": "Recharges de filament en cinq couleurs, chacune avec un badge TigerTag",
+  "refill_carrier_alt": "Support TigerTag Refill, recto et verso : une bande avec un logement de puce à chaque extrémité"
 }

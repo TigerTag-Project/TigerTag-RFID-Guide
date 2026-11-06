@@ -248,5 +248,13 @@
   "pj_x_msg": "A free text of up to 28 bytes, in UTF-8.",
   "pj_x_sig": "Signature: written only by a certified manufacturer, over the chip UID and pages 4 and 5, and verified offline.",
   "pj_filter": "Type to filter",
-  "pj_no_option": "Nothing matches"
+  "pj_no_option": "Nothing matches",
+  "comm_stellio": "Desktop library for 3D-print files; reads your TigerTag inventory, read-only, to show what your spools can print.",
+  "comm_spooly": "Filament inventory platform (web, iOS, Android, Home Assistant, OrcaSlicer) whose spool identification is built on TigerTag.",
+  "pg_series": "Series",
+  "pj_all_series": "All series",
+  "refill_title": "Refills too",
+  "refill_text": "No plastic spool, and still a TigerTag on every coil, whatever the colour. The TigerTag refill carrier holds a chip at each end.",
+  "refill_alt": "Filament refills in five colours, each with a TigerTag badge",
+  "refill_carrier_alt": "TigerTag refill carrier, front and back: a strip with a chip housing at each end"
 }
