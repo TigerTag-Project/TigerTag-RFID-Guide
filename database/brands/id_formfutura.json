@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924471722",
     "brand": "FormFutura",
     "color": "#FF0000FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "EasyFil",
     "sku": "175EHIPS-RED-0750",
-    "title": "EasyFil - Red"
+    "title": "EasyFil - Red",
+    "updated_at": 1788524026746
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956552809",
     "brand": "FormFutura",
     "color": "#A3A890",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Urban Grey Camouflage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "175MPLA-UGCAM-0750",
-    "title": "Matt PLA - Urban Grey Camouflage"
+    "title": "Matt PLA - Urban Grey Camouflage",
+    "updated_at": 1784884929574
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8718924475843",
     "brand": "FormFutura",
     "color": "#C7B440",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Willow",
     "product_type": "Filament",
+    "series": "EasyWood",
     "sku": "175EWOOD-WILLOW-0500",
-    "title": "EasyWood - Willow"
+    "title": "EasyWood - Willow",
+    "updated_at": 1784883934475
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 2300
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": "8718924472286",
     "brand": "FormFutura",
     "color": "#7D7F70FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2300 g",
+    "name": "Robotic Grey",
     "product_type": "Filament",
+    "series": "Premium PLA",
     "sku": "PPLA-175RGRY-02300",
-    "title": "Premium PLA - Robotic Grey"
+    "title": "Premium PLA - Robotic Grey",
+    "updated_at": 1788522749760
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956552489",
     "brand": "FormFutura",
     "color": "#A3A3A0",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Aircraft Grey Camouflage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "FOFF1663",
-    "title": "Matt PLA - Aircraft Grey Camouflage"
+    "title": "Matt PLA - Aircraft Grey Camouflage",
+    "updated_at": 1784885008364
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924470626",
     "brand": "FormFutura",
     "color": "#FFFFFF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PP",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Centaur",
     "sku": "FOFF0895",
-    "title": "Centaur - White"
+    "title": "Centaur - White",
+    "updated_at": 1784893962642
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8718924473078",
     "brand": "FormFutura",
     "color": "#999950",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Olive",
     "product_type": "Filament",
+    "series": "EasyWood",
     "sku": "FOFF0460",
-    "title": "EasyWood - Olive"
+    "title": "EasyWood - Olive",
+    "updated_at": 1784883779743
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8720574291056",
     "brand": "FormFutura",
     "color": "#FFFFFF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Python Flex (TPU 98A)",
     "sku": "PF98-175WHTE-00500",
-    "title": "Python Flex (TPU 98A) - White"
+    "title": "Python Flex (TPU 98A) - White",
+    "updated_at": 1784894744572
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476130",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TitanX",
     "sku": "175TITX-BLCK-0750",
-    "title": "TitanX - Black"
+    "title": "TitanX - Black",
+    "updated_at": 1788524382488
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924470466",
     "brand": "FormFutura",
     "color": "#FFFFFFFF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ReForm rPLA",
     "sku": "175RPLA-WHT-1000",
-    "title": "ReForm rPLA - White"
+    "title": "ReForm rPLA - White",
+    "updated_at": 1788522749760
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924475539",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS Pro Flame Retardant",
     "sku": "175ABSPROFR-BLCK-0500",
-    "title": "ABS Pro Flame Retardant - Black"
+    "title": "ABS Pro Flame Retardant - Black",
+    "updated_at": 1788524254853
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8718924475805",
     "brand": "FormFutura",
     "color": "#C6A660FF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Birch",
     "product_type": "Filament",
+    "series": "EasyWood",
     "sku": "FOFF0459",
-    "title": "EasyWood - Birch"
+    "title": "EasyWood - Birch",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924472200",
     "brand": "FormFutura",
     "color": "#F5F5F5FF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "EasyFil",
     "sku": "EHPS-175NTRL-00750",
-    "title": "EasyFil - Natural"
+    "title": "EasyFil - Natural",
+    "updated_at": 1788524026746
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956552649",
     "brand": "FormFutura",
     "color": "#9B1110",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Earth Red Camouflage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "MPLA-175ERCM-00750",
-    "title": "Matt PLA - Earth Red Camouflage"
+    "title": "Matt PLA - Earth Red Camouflage",
+    "updated_at": 1784885154329
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956554728",
     "brand": "FormFutura",
     "color": "#434B40",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "Volcano",
     "sku": "VPLA-175DGRY-00750",
-    "title": "Volcano - Dark Grey"
+    "title": "Volcano - Dark Grey",
+    "updated_at": 1784893526963
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956554711",
     "brand": "FormFutura",
     "color": "#1E69B0",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "Volcano",
     "sku": "VPLA-175DBLU-00750",
-    "title": "Volcano - Dark Blue"
+    "title": "Volcano - Dark Blue",
+    "updated_at": 1784893586743
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956553257",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PET",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ReForm rPET",
     "sku": "175RPET-BLCK-1000",
-    "title": "ReForm rPET - Black"
+    "title": "ReForm rPET - Black",
+    "updated_at": 1788523102247
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956554735",
     "brand": "FormFutura",
     "color": "#CBD0C0",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "Volcano",
     "sku": "VPLA-175LGRY-00750",
-    "title": "Volcano - Light Grey"
+    "title": "Volcano - Light Grey",
+    "updated_at": 1784893475849
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8718924475867",
     "brand": "FormFutura",
     "color": "#A65E20",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Cedar",
     "product_type": "Filament",
+    "series": "EasyWood",
     "sku": "FOFF0456",
-    "title": "EasyWood - Cedar"
+    "title": "EasyWood - Cedar",
+    "updated_at": 1784883586255
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476154",
     "brand": "FormFutura",
     "color": "#FFFFFFFF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TitanX",
     "sku": "FOFF0455",
-    "title": "TitanX - White"
+    "title": "TitanX - White",
+    "updated_at": 1788524254853
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476338",
     "brand": "FormFutura",
     "color": "#D4D4D4FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ApolloX",
     "sku": "APOX-175GREY-00750",
-    "title": "ApolloX - Grey"
+    "title": "ApolloX - Grey",
+    "updated_at": 1788523852959
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956553530",
     "brand": "FormFutura",
     "color": "#C9C9C9FF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PET",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ReForm rPET",
     "sku": "175RPET-SLVR-1000",
-    "title": "ReForm rPET - Silver"
+    "title": "ReForm rPET - Silver",
+    "updated_at": 1788523102247
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924479049",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Volcano",
     "sku": "175VPLA-BLCK-0750",
-    "title": "Volcano - Black"
+    "title": "Volcano - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956552601",
     "brand": "FormFutura",
     "color": "#8F5D00",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Desert Sand Camouflage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "MPLA-175DSCM-00750",
-    "title": "Matt PLA - Desert Sand Camouflage"
+    "title": "Matt PLA - Desert Sand Camouflage",
+    "updated_at": 1784886791039
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956552762",
     "brand": "FormFutura",
     "color": "#A869B0",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Purple Camouflage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "MPLA-175PUCM-00750",
-    "title": "Matt PLA - Purple Camouflage"
+    "title": "Matt PLA - Purple Camouflage",
+    "updated_at": 1784885334069
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476277",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ApolloX",
     "sku": "175APOX-BLCK-0750",
-    "title": "ApolloX - Black"
+    "title": "ApolloX - Black",
+    "updated_at": 1788523852959
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956552564",
     "brand": "FormFutura",
     "color": "#5C6540",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Dark Green Camouflage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "MPLA-175DGCM-00750",
-    "title": "Matt PLA - Dark Green Camouflage"
+    "title": "Matt PLA - Dark Green Camouflage",
+    "updated_at": 1784892899047
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8718924471647",
     "brand": "FormFutura",
     "color": "#4A3720",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Coconut",
     "product_type": "Filament",
+    "series": "EasyWood",
     "sku": "FOFF0462",
-    "title": "EasyWood - Coconut"
+    "title": "EasyWood - Coconut",
+    "updated_at": 1784883653561
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956553295",
     "brand": "FormFutura",
     "color": "#8F8F8FFF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PET",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ReForm rPET",
     "sku": "RPET-175GREY-01000",
-    "title": "ReForm rPET - Grey"
+    "title": "ReForm rPET - Grey",
+    "updated_at": 1788523102247
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956553455",
     "brand": "FormFutura",
     "color": "#FF8800FF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PET",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ReForm rPET",
     "sku": "175RPET-ORA-1000",
-    "title": "ReForm rPET - Orange"
+    "title": "ReForm rPET - Orange",
+    "updated_at": 1788523102247
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924478431",
     "brand": "FormFutura",
     "color": "#C39292",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Terracotta",
     "product_type": "Filament",
+    "series": "StoneFil (PLA)",
     "sku": "175STONEFIL-TERRA-0500",
-    "title": "StoneFil (PLA) - Terracotta"
+    "title": "StoneFil (PLA) - Terracotta",
+    "updated_at": 1784882879360
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "8718924473092",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CarbonFil",
     "sku": "175CARBFIL-BLCK-0500",
-    "title": "CarbonFil - Black"
+    "title": "CarbonFil - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8718924472798",
     "brand": "FormFutura",
     "color": "#3B3C30",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Ebony",
     "product_type": "Filament",
+    "series": "EasyWood",
     "sku": "FOFF0461",
-    "title": "EasyWood - Ebony"
+    "title": "EasyWood - Ebony",
+    "updated_at": 1784883721469
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956552687",
     "brand": "FormFutura",
     "color": "#626350",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Gunmetal Grey Camouflage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "FOFF1662",
-    "title": "Matt PLA - Gunmetal Grey Camouflage"
+    "title": "Matt PLA - Gunmetal Grey Camouflage",
+    "updated_at": 1784885249763
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924479063",
     "brand": "FormFutura",
     "color": "#FFFFFF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Volcano",
     "sku": "175VPLA-WHT-0750",
-    "title": "Volcano - White"
+    "title": "Volcano - White",
+    "updated_at": 1784893268660
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924470084",
     "brand": "FormFutura",
     "color": "#F9FDD0",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PP",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Centaur",
     "sku": "FOFF0654",
-    "title": "Centaur - Natural"
+    "title": "Centaur - Natural",
+    "updated_at": 1784894080685
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 2300
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": "8718924472262",
     "brand": "FormFutura",
     "color": "#FFFFFFFF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2300 g",
+    "name": "Frosty White",
     "product_type": "Filament",
+    "series": "Premium PLA",
     "sku": "FOFF0466",
-    "title": "Premium PLA - Frosty White"
+    "title": "Premium PLA - Frosty White",
+    "updated_at": 1788522749760
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": "8718924477069",
     "brand": "FormFutura",
     "color": "#875A5AFF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Classic Copper",
     "product_type": "Filament",
+    "series": "MetalFil (PLA)",
     "sku": "175MTFLCOP-NAT-0750",
-    "title": "MetalFil (PLA) - Classic Copper"
+    "title": "MetalFil (PLA) - Classic Copper",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924478585",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Off-Black",
     "product_type": "Filament",
+    "series": "ReForm rPLA",
     "sku": "175RPLA-BLCK-1000",
-    "title": "ReForm rPLA - Off-Black"
+    "title": "ReForm rPLA - Off-Black",
+    "updated_at": 1788522749760
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8720574298482",
     "brand": "FormFutura",
     "color": "#959260",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Olive Camouflage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "MPLA-175OLCM-00250",
-    "title": "Matt PLA - Olive Camouflage"
+    "title": "Matt PLA - Olive Camouflage",
+    "updated_at": 1784887110252
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476291",
     "brand": "FormFutura",
     "color": "#FFFFFFFF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ApolloX",
     "sku": "APOX-175WHTE-00750",
-    "title": "ApolloX - White"
+    "title": "ApolloX - White",
+    "updated_at": 1788523852959
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 999
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": "8718924471852",
     "brand": "FormFutura",
     "color": "#EDEDEDFF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "999 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "Premium PLA",
     "sku": "PPLA-175TRNP-01000",
-    "title": "Premium PLA - Clear"
+    "title": "Premium PLA - Clear",
+    "updated_at": 1788535815817
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956552526",
     "brand": "FormFutura",
     "color": "#102C50",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Blue Camouflage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "MPLA-175BUCM-00750",
-    "title": "Matt PLA - Blue Camouflage"
+    "title": "Matt PLA - Blue Camouflage",
+    "updated_at": 1784885095929
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924471418",
     "brand": "FormFutura",
     "color": "#FFFFFFFF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABSpro",
     "sku": "FOFF0435",
-    "title": "ABSpro - White"
+    "title": "ABSpro - White",
+    "updated_at": 1788524254853
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8720847069979",
     "brand": "FormFutura",
     "color": "#B8B8B0FF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Medium Grey",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "MPLA-175MDGY-B1000",
-    "title": "Matt PLA - Medium Grey"
+    "title": "Matt PLA - Medium Grey",
+    "updated_at": 1788522927548
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8720847069986",
     "brand": "FormFutura",
     "color": "#A8C2A0",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Sage",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "MPLA-175SAGE-B1000",
-    "title": "Matt PLA - Sage"
+    "title": "Matt PLA - Sage",
+    "updated_at": 1784886939856
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924471401",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABSpro",
     "sku": "FOFF0434",
-    "title": "ABSpro - Black"
+    "title": "ABSpro - Black",
+    "updated_at": 1788524254853
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": "8718924477120",
     "brand": "FormFutura",
     "color": "#C4B1B1",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Ancient Bronze",
     "product_type": "Filament",
+    "series": "MetalFil (PLA)",
     "sku": "FOFF0467",
-    "title": "MetalFil (PLA) - Ancient Bronze"
+    "title": "MetalFil (PLA) - Ancient Bronze",
+    "updated_at": 1784883158138
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956551611",
     "brand": "FormFutura",
     "color": "#F6F6F0FF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Stealth White",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "175MPLA-SWHT-0750",
-    "title": "Matt PLA - Stealth White"
+    "title": "Matt PLA - Stealth White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476390",
     "brand": "FormFutura",
     "color": "#0905FFFF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "ApolloX",
     "sku": "FOFF0440",
-    "title": "ApolloX - Dark Blue"
+    "title": "ApolloX - Dark Blue",
+    "updated_at": 1788523852959
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924471708",
     "brand": "FormFutura",
     "color": "#999999FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "750 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "EasyFil",
     "sku": "175EHIPS-GREY-0750",
-    "title": "EasyFil - Grey"
+    "title": "EasyFil - Grey",
+    "updated_at": 1788524026746
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8718924475829",
     "brand": "FormFutura",
     "color": "#B39960",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Pine",
     "product_type": "Filament",
+    "series": "EasyWood",
     "sku": "175EWOOD-PINE-0500",
-    "title": "EasyWood - Pine"
+    "title": "EasyWood - Pine",
+    "updated_at": 1784883859270
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924471746",
     "brand": "FormFutura",
     "color": "#002AFFFF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "750 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "EasyFil",
     "sku": "175EHIPS-DBLUE-0750",
-    "title": "EasyFil - Dark Blue"
+    "title": "EasyFil - Dark Blue",
+    "updated_at": 1788524026746
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8720847069993",
     "brand": "FormFutura",
     "color": "#7D6E50",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Earth",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "MPLA-175EART-B1000",
-    "title": "Matt PLA - Earth"
+    "title": "Matt PLA - Earth",
+    "updated_at": 1784886865659
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476352",
     "brand": "FormFutura",
     "color": "#EDEDEDFF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "ApolloX",
     "sku": "FOFF0439",
-    "title": "ApolloX - Light Grey"
+    "title": "ApolloX - Light Grey",
+    "updated_at": 1788523852959
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924470503",
     "brand": "FormFutura",
     "color": "#FFFFFFFF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ReForm rTitan",
     "sku": "RTIT-175WHTE-01000",
-    "title": "ReForm rTitan - White"
+    "title": "ReForm rTitan - White",
+    "updated_at": 1788523268880
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956552052",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Python Flex (TPU 98A)",
     "sku": "PF98-175BLCK-00500",
-    "title": "Python Flex (TPU 98A) - Black"
+    "title": "Python Flex (TPU 98A) - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476376",
     "brand": "FormFutura",
     "color": "#FF0000FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ApolloX",
     "sku": "FOFF0441",
-    "title": "ApolloX - Red"
+    "title": "ApolloX - Red",
+    "updated_at": 1788523852959
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924478417",
     "brand": "FormFutura",
     "color": "#766A5D",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Pottery Clay",
     "product_type": "Filament",
+    "series": "StoneFil (PLA)",
     "sku": "FOFF0512",
-    "title": "StoneFil (PLA) - Pottery Clay"
+    "title": "StoneFil (PLA) - Pottery Clay",
+    "updated_at": 1792796873969
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924471661",
     "brand": "FormFutura",
     "color": "#FFFFFFFF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "EasyFil",
     "sku": "175EHIPS-WHITE-0750",
-    "title": "EasyFil - White"
+    "title": "EasyFil - White",
+    "updated_at": 1788524026746
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 300
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924471388",
     "brand": "FormFutura",
     "color": "#EDEDEDFF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PVA",
     "measure": "300 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "AquaSolve",
     "sku": "AQSV-175NTRL-00300",
-    "title": "AquaSolve - Natural"
+    "title": "AquaSolve - Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924470589",
     "brand": "FormFutura",
     "color": "#000000",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PP",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Centaur",
     "sku": "CTPP-175BLCK-00500",
-    "title": "Centaur - Black"
+    "title": "Centaur - Black",
+    "updated_at": 1784893982258
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956557071",
     "brand": "FormFutura",
     "color": "#FFFFFFFF",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "PET",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ReForm rPET",
     "sku": "RPET-175WHTE-01000",
-    "title": "ReForm rPET - White"
+    "title": "ReForm rPET - White",
+    "updated_at": 1788523102247
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8720629065663",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ApolloX 10% Kevlar",
     "sku": "AXKV-175BLCK-00500",
-    "title": "ApolloX 10% Kevlar - Black"
+    "title": "ApolloX 10% Kevlar - Black",
+    "updated_at": 1788523852959
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924471685",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "EasyFil",
     "sku": "EHPS-175BLCK-00750",
-    "title": "EasyFil - Black"
+    "title": "EasyFil - Black",
+    "updated_at": 1788524026746
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956553332",
     "brand": "FormFutura",
     "color": "#4D6AFFFF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PET",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "ReForm rPET",
     "sku": "FOFF1675",
-    "title": "ReForm rPET - Light Blue"
+    "title": "ReForm rPET - Light Blue",
+    "updated_at": 1788523102247
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956553493",
     "brand": "FormFutura",
     "color": "#FF0000FF",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PET",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ReForm rPET",
     "sku": "175RPET-RED-1000",
-    "title": "ReForm rPET - Red"
+    "title": "ReForm rPET - Red",
+    "updated_at": 1788523102247
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924478394",
     "brand": "FormFutura",
     "color": "#D7D0D0",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Granite",
     "product_type": "Filament",
+    "series": "StoneFil (PLA)",
     "sku": "175STONEFIL-GRAN-0500",
-    "title": "StoneFil (PLA) - Granite"
+    "title": "StoneFil (PLA) - Granite",
+    "updated_at": 1784882707046
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476314",
     "brand": "FormFutura",
     "color": "#FBF9F9FF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ApolloX",
     "sku": "APOX-175NTRL-00750",
-    "title": "ApolloX - Natural"
+    "title": "ApolloX - Natural",
+    "updated_at": 1788523852959
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 250
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "FormFutura",
     "color": "#B39960",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "250 g",
+    "name": "Pine",
     "product_type": "Filament",
+    "series": "EasyWood",
     "sku": "175EWOOD-PINE-0250",
-    "title": "EasyWood - Pine"
+    "title": "EasyWood - Pine",
+    "updated_at": 1793371437308
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476192",
     "brand": "FormFutura",
     "color": "#B0B0B0FF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "TitanX",
     "sku": "175TITX-GREY-0750",
-    "title": "TitanX - Grey"
+    "title": "TitanX - Grey",
+    "updated_at": 1788524254853
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924478370",
     "brand": "FormFutura",
     "color": "#999999",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Concrete",
     "product_type": "Filament",
+    "series": "StoneFil (PLA)",
     "sku": "FOFF0513",
-    "title": "StoneFil (PLA) - Concrete"
+    "title": "StoneFil (PLA) - Concrete",
+    "updated_at": 1784882653631
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924478622",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ReForm rTitan",
     "sku": "RTIT-175BLCK-01000",
-    "title": "ReForm rTitan - Black"
+    "title": "ReForm rTitan - Black",
+    "updated_at": 1788523268880
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8719956551604",
     "brand": "FormFutura",
     "color": "#1E1E10",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Stealth Black",
     "product_type": "Filament",
+    "series": "Matt PLA",
     "sku": "175MPLA-SBLCK-0750",
-    "title": "Matt PLA - Stealth Black"
+    "title": "Matt PLA - Stealth Black",
+    "updated_at": 1784884849422
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 2300
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": "8718924472279",
     "brand": "FormFutura",
     "color": "#000000FF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2300 g",
+    "name": "Strong Black",
     "product_type": "Filament",
+    "series": "Premium PLA",
     "sku": "175PPLA-STRBLA-2300",
-    "title": "Premium PLA - Strong Black"
+    "title": "Premium PLA - Strong Black",
+    "updated_at": 1788522749760
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924476215",
     "brand": "FormFutura",
     "color": "#D9D9D9FF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "TitanX",
     "sku": "FOFF0769",
-    "title": "TitanX - Light Grey"
+    "title": "TitanX - Light Grey",
+    "updated_at": 1788524254853
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956554704",
     "brand": "FormFutura",
     "color": "#CC0600",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Volcano",
     "sku": "VPLA-175REDC-00750",
-    "title": "Volcano - Red"
+    "title": "Volcano - Red",
+    "updated_at": 1784893644563
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8718924479353",
     "brand": "FormFutura",
     "color": "#FAFAFA",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "Python Flex (TPU 98A)",
     "sku": "FOFF0581",
-    "title": "Python Flex (TPU 98A) - Clear"
+    "title": "Python Flex (TPU 98A) - Clear",
+    "updated_at": 1784894799970
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8719956553417",
     "brand": "FormFutura",
     "color": "#E6DBDBFF",
@@ -3234,8 +3626,11 @@
     "info3": false,
     "material": "PET",
     "measure": "1000 g",
+    "name": "Cream White",
     "product_type": "Filament",
+    "series": "ReForm rPET",
     "sku": "RPET-175CWHT-01000",
-    "title": "ReForm rPET - Cream White"
+    "title": "ReForm rPET - Cream White",
+    "updated_at": 1788523102247
   }
 ]

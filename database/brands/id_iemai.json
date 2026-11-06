@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "IEM-ABS-BLACK-175-1000",
-    "title": "ABS - Black"
+    "title": "ABS - Black",
+    "updated_at": 1792067570518
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PPS-CF",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-PPS",
     "sku": "IEM-CFPPS-BLACK-175-750",
-    "title": "CF-PPS - Black"
+    "title": "CF-PPS - Black",
+    "updated_at": 1792067574953
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#FFFFFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PA12",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PA12",
     "sku": "IEM-PA12-WHITE-175-1000",
-    "title": "PA12 - White"
+    "title": "PA12 - White",
+    "updated_at": 1792067576739
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PPS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PPS",
     "sku": "IEM-PPS-BLACK-175-1000",
-    "title": "PPS - Black"
+    "title": "PPS - Black",
+    "updated_at": 1792067578850
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "IEM-ASA-BLACK-175-1000",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1792067582230
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PEEK-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-PEEK",
     "sku": "IEM-CFPEEK-BLACK-175-1000",
-    "title": "CF-PEEK - Black"
+    "title": "CF-PEEK - Black",
+    "updated_at": 1792067585137
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PA12-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-PA12",
     "sku": "IEM-CFPA12-BLACK-175-1000",
-    "title": "CF-PA12 - Black"
+    "title": "CF-PA12 - Black",
+    "updated_at": 1792067585144
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#FFFFFF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PVA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "E-REMOVE",
     "sku": "IEM-EREMOVE-WHITE-175-1000",
-    "title": "E-REMOVE - White"
+    "title": "E-REMOVE - White",
+    "updated_at": 1792067587957
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#FFFFFF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "IEM-PC-WHITE-175-1000",
-    "title": "PC - White"
+    "title": "PC - White",
+    "updated_at": 1792067590845
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#D2B48C",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PPSU",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PPSU",
     "sku": "IEM-PPSU-NATURAL-175-1000",
-    "title": "PPSU - Natural"
+    "title": "PPSU - Natural",
+    "updated_at": 1792067590916
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#D2B48C",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PEEK-GF",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "GF-PEEK",
     "sku": "IEM-GFPEEK-NATURAL-175-1000",
-    "title": "GF-PEEK - Natural"
+    "title": "GF-PEEK - Natural",
+    "updated_at": 1792067593819
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#FFFFFF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PP",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PP",
     "sku": "IEM-PP-WHITE-175-1000",
-    "title": "PP - White"
+    "title": "PP - White",
+    "updated_at": 1792067596431
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-PA6",
     "sku": "IEM-CFPA6-BLACK-175-1000",
-    "title": "CF-PA6 - Black"
+    "title": "CF-PA6 - Black",
+    "updated_at": 1792067596510
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "HS TPU 95A",
     "product_type": "Filament",
+    "series": "HS TPU 95A",
     "sku": "IEM-HSTPU95A-BLACK-175-1000",
-    "title": "HS TPU 95A - HS TPU 95A"
+    "title": "HS TPU 95A - HS TPU 95A",
+    "updated_at": 1792065311414
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#D2B48C",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PEI 1010",
     "sku": "IEM-PEI1010-NATURAL-175-1000",
-    "title": "PEI 1010 - Natural"
+    "title": "PEI 1010 - Natural",
+    "updated_at": 1792067599566
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-PLA",
     "sku": "IEM-CFPLA-BLACK-175-1000",
-    "title": "CF-PLA - Black"
+    "title": "CF-PLA - Black",
+    "updated_at": 1792067602737
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#FFFFFF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "IEM-PETG-WHITE-175-1000",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1792067602837
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PPA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-PPA",
     "sku": "IEM-CFPPA-BLACK-175-1000",
-    "title": "CF-PPA - Black"
+    "title": "CF-PPA - Black",
+    "updated_at": 1792067606250
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#FFFFFF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PVA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HT-SP",
     "sku": "IEM-HTSP-WHITE-175-1000",
-    "title": "HT-SP - White"
+    "title": "HT-SP - White",
+    "updated_at": 1792067609423
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#D2B48C",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PEI-9085",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PEI 9085",
     "sku": "IEM-PEI9085-NATURAL-175-1000",
-    "title": "PEI 9085 - Natural"
+    "title": "PEI 9085 - Natural",
+    "updated_at": 1792067609517
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-PETG",
     "sku": "IEM-CFPETG-BLACK-175-1000",
-    "title": "CF-PETG - Black"
+    "title": "CF-PETG - Black",
+    "updated_at": 1792067612335
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-ABS",
     "sku": "IEM-CFABS-BLACK-175-1000",
-    "title": "CF-ABS - Black"
+    "title": "CF-ABS - Black",
+    "updated_at": 1792067619420
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#FFFFFF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "IEM-TPU-WHITE-175-1000",
-    "title": "TPU - White"
+    "title": "TPU - White",
+    "updated_at": 1792067619511
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#D2B48C",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PVA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "E-WATER",
     "sku": "IEM-EWATER-NATURAL-175-1000",
-    "title": "E-WATER - Natural"
+    "title": "E-WATER - Natural",
+    "updated_at": 1792067619627
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#D2B48C",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PEKK",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PEKK",
     "sku": "IEM-PEKK-NATURAL-175-1000",
-    "title": "PEKK - Natural"
+    "title": "PEKK - Natural",
+    "updated_at": 1792067624349
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#FFFFFF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "IEM-PLA-WHITE-175-1000",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1792067627035
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#D2B48C",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PEEK",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PEEK",
     "sku": "IEM-PEEK-NATURAL-175-1000",
-    "title": "PEEK - Natural"
+    "title": "PEEK - Natural",
+    "updated_at": 1792067629747
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-ASA",
     "sku": "IEM-CFASA-BLACK-175-1000",
-    "title": "CF-ASA - Black"
+    "title": "CF-ASA - Black",
+    "updated_at": 1792067629742
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ESD-ABS",
     "sku": "IEM-ESDABS-BLACK-175-1000",
-    "title": "ESD-ABS - Black"
+    "title": "ESD-ABS - Black",
+    "updated_at": 1792067630219
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#000000",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PC-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CF-PC",
     "sku": "IEM-CFPC-BLACK-175-1000",
-    "title": "CF-PC - Black"
+    "title": "CF-PC - Black",
+    "updated_at": 1792067633420
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "IEMAI",
     "color": "#FFFFFF",
@@ -1266,8 +1418,11 @@
     "info3": false,
     "material": "PA12-GF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "GF-PA12",
     "sku": "IEM-GFPA12-WHITE-175-1000",
-    "title": "GF-PA12 - White"
+    "title": "GF-PA12 - White",
+    "updated_at": 1792067635727
   }
 ]

@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#1C1C1C",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "PLAM-BK",
-    "title": "PLA Matte - Black"
+    "title": "PLA Matte - Black",
+    "updated_at": 1792797676362
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#1A1A1A",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "TPU 98A Black",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "TPU98A-BK050-175",
-    "title": "TPU - TPU 98A Black"
+    "title": "TPU - TPU 98A Black",
+    "updated_at": 1792795420569
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#808080",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-GY",
-    "title": "ASA - Grey"
+    "title": "ASA - Grey",
+    "updated_at": 1792795344572
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#D32F2F",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-RD",
-    "title": "rPLA - Red"
+    "title": "rPLA - Red",
+    "updated_at": 1792795459890
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#808080",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Tough",
     "sku": "PLAT-GY075-175",
-    "title": "PLA Tough - Grey"
+    "title": "PLA Tough - Grey",
+    "updated_at": 1792795408002
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#F0F0F0",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-TR",
-    "title": "rPETg - Transparent"
+    "title": "rPETg - Transparent",
+    "updated_at": 1792797836807
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#1565C0",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-BL",
-    "title": "rPETg - Blue"
+    "title": "rPETg - Blue",
+    "updated_at": 1792795427164
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#E7DFC6",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Eggshell",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "PLAM-EGG",
-    "title": "PLA Matte - Eggshell"
+    "title": "PLA Matte - Eggshell",
+    "updated_at": 1792797987271
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#3A3A3A",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "750 g",
+    "name": "Natural Dark Grey / Black",
     "product_type": "Filament",
+    "series": "Carbon Fibre",
     "sku": "CAR",
-    "title": "Carbon Fibre - Natural Dark Grey / Black"
+    "title": "Carbon Fibre - Natural Dark Grey / Black",
+    "updated_at": 1792795356876
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#000000",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-BK",
-    "title": "rPETg - Black"
+    "title": "rPETg - Black",
+    "updated_at": 1792795427167
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#000000",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Tough",
     "sku": "PLAT-BK075-175",
-    "title": "PLA Tough - Black"
+    "title": "PLA Tough - Black",
+    "updated_at": 1792795407509
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#D8CBB0",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Oatmeal",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "PLAM-OAT",
-    "title": "PLA Matte - Oatmeal"
+    "title": "PLA Matte - Oatmeal",
+    "updated_at": 1792798040889
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#000000",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-BK",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1792795341385
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#F5F5F5",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Bio HT",
     "sku": "BIOHT-WH1",
-    "title": "Bio HT - White"
+    "title": "Bio HT - White",
+    "updated_at": 1792795353377
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#A32638",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Cosmic",
     "sku": "COS-RD",
-    "title": "PLA Cosmic - Red"
+    "title": "PLA Cosmic - Red",
+    "updated_at": 1792795363191
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#C62828",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-RD",
-    "title": "ASA - Red"
+    "title": "ASA - Red",
+    "updated_at": 1792795344614
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#F57C00",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-OR",
-    "title": "rPETg - Orange"
+    "title": "rPETg - Orange",
+    "updated_at": 1792795433773
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#2E7D32",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-GRN",
-    "title": "rPETg - Green"
+    "title": "rPETg - Green",
+    "updated_at": 1792795433578
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#B8B8B8",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-LGY",
-    "title": "rPLA - Light Grey"
+    "title": "rPLA - Light Grey",
+    "updated_at": 1792795453678
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#C0C0C0",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-SLV",
-    "title": "rPLA - Silver"
+    "title": "rPLA - Silver",
+    "updated_at": 1792795466485
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#F57C00",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-OR",
-    "title": "rPLA - Orange"
+    "title": "rPLA - Orange",
+    "updated_at": 1792795459998
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#6F4E37",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "500 g",
+    "name": "Natural (Dark) Wood",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "WOOD-D",
-    "title": "Wood PLA - Natural (Dark) Wood"
+    "title": "Wood PLA - Natural (Dark) Wood",
+    "updated_at": 1792795420899
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#7D7D7D",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "PLAM-GY",
-    "title": "PLA Matte - Grey"
+    "title": "PLA Matte - Grey",
+    "updated_at": 1792799038598
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#1A1A1A",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Bio HT",
     "sku": "BIOHT-BK1",
-    "title": "Bio HT - Black"
+    "title": "Bio HT - Black",
+    "updated_at": 1792795350671
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#1A1A1A",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "TPU 90A Black",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "TPU90A-BK050-175",
-    "title": "TPU - TPU 90A Black"
+    "title": "TPU - TPU 90A Black",
+    "updated_at": 1792795414483
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#B23A2E",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "PLAM-RD",
-    "title": "PLA Matte - Red"
+    "title": "PLA Matte - Red",
+    "updated_at": 1792799076792
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#D32F2F",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Tough",
     "sku": "PLAT-RD075-175",
-    "title": "PLA Tough - Red"
+    "title": "PLA Tough - Red",
+    "updated_at": 1792795414095
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#B8860B",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Cosmic",
     "sku": "COS-GO",
-    "title": "PLA Cosmic - Gold"
+    "title": "PLA Cosmic - Gold",
+    "updated_at": 1792795359767
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#808080",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-GY",
-    "title": "rPETg - Grey"
+    "title": "rPETg - Grey",
+    "updated_at": 1792795433603
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#D32F2F",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-RD",
-    "title": "rPETg - Red"
+    "title": "rPETg - Red",
+    "updated_at": 1792795440070
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#D2B48C",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "500 g",
+    "name": "Light Wood",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "WOOD-L",
-    "title": "Wood PLA - Light Wood"
+    "title": "Wood PLA - Light Wood",
+    "updated_at": 1792795420788
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#F2EFE9",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Off-White",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "PLAM-OWH",
-    "title": "PLA Matte - Off-White"
+    "title": "PLA Matte - Off-White",
+    "updated_at": 1792799209365
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#000000",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-BK",
-    "title": "rPLA - Black"
+    "title": "rPLA - Black",
+    "updated_at": 1792795447199
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#FFFFFF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-WH",
-    "title": "ASA - White"
+    "title": "ASA - White",
+    "updated_at": 1792795347412
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#9CAF88",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Sage",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "PLAM-SAGE",
-    "title": "PLA Matte - Sage"
+    "title": "PLA Matte - Sage",
+    "updated_at": 1792799338294
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#808080",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Bio HT",
     "sku": "BIOHT-GY1",
-    "title": "Bio HT - Grey"
+    "title": "Bio HT - Grey",
+    "updated_at": 1792795350713
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#F5F5F5",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Frost White",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-FWH",
-    "title": "rPETg - Frost White"
+    "title": "rPETg - Frost White",
+    "updated_at": 1792795427107
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#FFFFFF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-WH",
-    "title": "rPLA - White"
+    "title": "rPLA - White",
+    "updated_at": 1792795466500
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#2A5CAA",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "PLAM-BL",
-    "title": "PLA Matte - Blue"
+    "title": "PLA Matte - Blue",
+    "updated_at": 1792799430959
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#FFFFFF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Tough",
     "sku": "PLAT-WH075-175",
-    "title": "PLA Tough - White"
+    "title": "PLA Tough - White",
+    "updated_at": 1792795414486
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#1A237E",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PLA Tough",
     "sku": "PLAT-DBL075-175",
-    "title": "PLA Tough - Dark Blue"
+    "title": "PLA Tough - Dark Blue",
+    "updated_at": 1792795408083
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#1A237E",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-DBL",
-    "title": "rPLA - Dark Blue"
+    "title": "rPLA - Dark Blue",
+    "updated_at": 1792795447302
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#808080",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-GY",
-    "title": "rPLA - Grey"
+    "title": "rPLA - Grey",
+    "updated_at": 1792795453572
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#F0EAD6",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Natural Transparent",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-NAT",
-    "title": "rPLA - Natural Transparent"
+    "title": "rPLA - Natural Transparent",
+    "updated_at": 1792799686498
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#A8A8A8",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Cosmic",
     "sku": "COS-SLV",
-    "title": "PLA Cosmic - Silver"
+    "title": "PLA Cosmic - Silver",
+    "updated_at": 1792795366166
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#2E7D32",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-GRN",
-    "title": "rPLA - Green"
+    "title": "rPLA - Green",
+    "updated_at": 1792795453482
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#FFFFFF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-WH",
-    "title": "rPETg - White"
+    "title": "rPETg - White",
+    "updated_at": 1792795446591
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#FDD835",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "rPLA",
     "sku": "RPLA-YL",
-    "title": "rPLA - Yellow"
+    "title": "rPLA - Yellow",
+    "updated_at": 1792795466502
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#1A4D8F",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Cosmic",
     "sku": "COS-BL",
-    "title": "PLA Cosmic - Blue"
+    "title": "PLA Cosmic - Blue",
+    "updated_at": 1792795356994
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#B7B7B7",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "PLAM-SLV",
-    "title": "PLA Matte - Silver"
+    "title": "PLA Matte - Silver",
+    "updated_at": 1792800117277
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#C0C0C0",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "rPETg",
     "sku": "RPET-SLV",
-    "title": "rPETg - Silver"
+    "title": "rPETg - Silver",
+    "updated_at": 1792795440369
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Filamentive",
     "color": "#5A5A5A",
@@ -2127,8 +2384,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Cosmic",
     "sku": "COS-GY",
-    "title": "PLA Cosmic - Grey"
+    "title": "PLA Cosmic - Grey",
+    "updated_at": 1792795363104
   }
 ]

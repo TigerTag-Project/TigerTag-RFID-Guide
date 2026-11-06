@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2C3E50FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Twilight Tide",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "AMB3904TWI",
-    "title": "Silk PLA - Twilight Tide"
+    "title": "Silk PLA - Twilight Tide",
+    "updated_at": 1788365601303
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMB1521",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1788365006467
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B3121CFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "ASA-GF",
     "measure": "1000 g",
+    "name": "Voron Red",
     "product_type": "Filament",
+    "series": "ASA-GF",
     "sku": "AMB2050",
-    "title": "ASA-GF - Voron Red"
+    "title": "ASA-GF - Voron Red",
+    "updated_at": 1788364470172
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#4B0082FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cosmic Shimmer",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB3906COS",
-    "title": "PLA Galactic Sparkle - Cosmic Shimmer"
+    "title": "PLA Galactic Sparkle - Cosmic Shimmer",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": "Glow in the Dark",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E8B57",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Glow Clear to Green",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB3769GAL",
-    "title": "ASA Galactic - Galactic Glow Clear to Green"
+    "title": "ASA Galactic - Galactic Glow Clear to Green",
+    "updated_at": 1792844380972
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E8B57FF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1532",
-    "title": "PLA - Green"
+    "title": "PLA - Green",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#800080FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1535",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Black",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1510",
-    "title": "ASA Galactic - Galactic Black"
+    "title": "ASA Galactic - Galactic Black",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#6F2DA8FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Grape",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2042",
-    "title": "PLA Galactic Sparkle - Galactic Grape"
+    "title": "PLA Galactic Sparkle - Galactic Grape",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF66CC",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Rainbow Rush",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB2531RAI",
-    "title": "ASA - Rainbow Rush"
+    "title": "ASA - Rainbow Rush",
+    "updated_at": 1792797766703
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": "Pearl",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#D3D3D3",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Cool Grey Pearl",
     "product_type": "Filament",
+    "series": "Dolos ASA",
     "sku": "AMB3753COO",
-    "title": "Dolos ASA - Cool Grey Pearl"
+    "title": "Dolos ASA - Cool Grey Pearl",
+    "updated_at": 1792844397805
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#036A31FF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Holiday Green (Green w/ Red Sparkle)",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2420HOL",
-    "title": "PLA Galactic Sparkle - Holiday Green (Green w/ Red Sparkle)"
+    "title": "PLA Galactic Sparkle - Holiday Green (Green w/ Red Sparkle)",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#D0342CFF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMB1524",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1788365006467
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#1B3B6FFF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Planetary Blue",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1517",
-    "title": "ASA Galactic - Galactic Planetary Blue"
+    "title": "ASA Galactic - Galactic Planetary Blue",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#7851A9FF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Prince of Purple",
     "product_type": "Filament",
+    "series": "Dolos PLA",
     "sku": "AMB1752",
-    "title": "Dolos PLA - Prince of Purple"
+    "title": "Dolos PLA - Prince of Purple",
+    "updated_at": 1788364602095
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFB347FF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Creamsicle",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB3765CRE",
-    "title": "ASA - Creamsicle"
+    "title": "ASA - Creamsicle",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#5B4E9EFF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue+Purple",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "AMB3776BLU",
-    "title": "Silk PLA - Blue+Purple"
+    "title": "Silk PLA - Blue+Purple",
+    "updated_at": 1788365601303
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFD700FF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1537",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#D4AF37FF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Bright Gold",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "AMB3774BRI",
-    "title": "Silk PLA - Bright Gold"
+    "title": "Silk PLA - Bright Gold",
+    "updated_at": 1788365601303
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#800080FF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Uber ABS",
     "sku": "AMB1509",
-    "title": "Uber ABS - Purple"
+    "title": "Uber ABS - Purple",
+    "updated_at": 1788417869121
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#CC5500FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Burnt Orange",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB3766BUR",
-    "title": "ASA - Burnt Orange"
+    "title": "ASA - Burnt Orange",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#36454FFF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Midnight Meteorite",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2047",
-    "title": "PLA Galactic Sparkle - Galactic Midnight Meteorite"
+    "title": "PLA Galactic Sparkle - Galactic Midnight Meteorite",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#D0342CFF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Uber ABS",
     "sku": "AMB1508",
-    "title": "Uber ABS - Red"
+    "title": "Uber ABS - Red",
+    "updated_at": 1788417869121
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#8DB600FF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Yellow+Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "AMB3780YEL",
-    "title": "Silk PLA - Yellow+Green"
+    "title": "Silk PLA - Yellow+Green",
+    "updated_at": 1788365601303
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#F1C27DFF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Skin (Light)",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB3767SKI",
-    "title": "ASA - Skin (Light)"
+    "title": "ASA - Skin (Light)",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFFFFFFF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMB1522",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1788365006467
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#808080FF",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Grey",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2048",
-    "title": "PLA Galactic Sparkle - Galactic Grey"
+    "title": "PLA Galactic Sparkle - Galactic Grey",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#4F7942FF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "West Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1494",
-    "title": "ASA - West Green"
+    "title": "ASA - West Green",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF66CC",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rainbow Silk",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "AMB3771RAI",
-    "title": "Silk PLA - Rainbow Silk"
+    "title": "Silk PLA - Rainbow Silk",
+    "updated_at": 1792797949483
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC-ABS",
     "sku": "AMB1728",
-    "title": "PC-ABS - Black"
+    "title": "PC-ABS - Black",
+    "updated_at": 1788364830305
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#D0342CFF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PC-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PC-CF",
     "sku": "AMB1733",
-    "title": "PC-CF - Red"
+    "title": "PC-CF - Red",
+    "updated_at": 1788364948266
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PHA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PHA",
     "sku": "BEY3626BLA1KG",
-    "title": "PHA - Black"
+    "title": "PHA - Black",
+    "updated_at": 1788365070081
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#893F45FF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Cardovan",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB2527CAR",
-    "title": "ASA - Cardovan"
+    "title": "ASA - Cardovan",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#4B5320FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Camo Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB2535CAM",
-    "title": "ASA - Camo Green"
+    "title": "ASA - Camo Green",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#1560BDFF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Super Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3763SUP",
-    "title": "PLA - Super Blue"
+    "title": "PLA - Super Blue",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": "Pearl",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#D3D3D3",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cool Grey Pearl",
     "product_type": "Filament",
+    "series": "Dolos PLA",
     "sku": "AMB3754COO",
-    "title": "Dolos PLA - Cool Grey Pearl"
+    "title": "Dolos PLA - Cool Grey Pearl",
+    "updated_at": 1792844421672
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#CC5500FF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Burnt Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3758BUR",
-    "title": "PLA - Burnt Orange"
+    "title": "PLA - Burnt Orange",
+    "updated_at": 1788365144799
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E8B57FF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Green",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2043",
-    "title": "PLA Galactic Sparkle - Galactic Green"
+    "title": "PLA Galactic Sparkle - Galactic Green",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#6A5ACDFF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PHA",
     "measure": "1000 g",
+    "name": "Slate Blue",
     "product_type": "Filament",
+    "series": "PHA",
     "sku": "BEY3634GRE1KG",
-    "title": "PHA - Slate Blue"
+    "title": "PHA - Slate Blue",
+    "updated_at": 1788365070082
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#1F5FA8FF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1530",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1788365144799
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1492",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#808080FF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1544",
-    "title": "PLA - Grey"
+    "title": "PLA - Grey",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "1000 g",
+    "name": "Galactic Black",
     "product_type": "Filament",
+    "series": "PC-ABS",
     "sku": "AMB1729",
-    "title": "PC-ABS - Galactic Black"
+    "title": "PC-ABS - Galactic Black",
+    "updated_at": 1788364830305
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFD700FF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1502",
-    "title": "ASA - Yellow"
+    "title": "ASA - Yellow",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF8C00FF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1533",
-    "title": "PLA - Orange"
+    "title": "PLA - Orange",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#3C341FFF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Camo Olive Drab",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1528OD",
-    "title": "PLA - Camo Olive Drab"
+    "title": "PLA - Camo Olive Drab",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#008080FF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Quadra Teal",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2038GQT",
-    "title": "PLA Galactic Sparkle - Galactic Quadra Teal"
+    "title": "PLA Galactic Sparkle - Galactic Quadra Teal",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#008080FF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Quadra Teal",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1542",
-    "title": "PLA - Quadra Teal"
+    "title": "PLA - Quadra Teal",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#4B5320FF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Camo Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB2522CAM",
-    "title": "PLA - Camo Green"
+    "title": "PLA - Camo Green",
+    "updated_at": 1788365144799
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#F0EAD6FF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "ASA-GF",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ASA-GF",
     "sku": "AMB2051",
-    "title": "ASA-GF - Natural"
+    "title": "ASA-GF - Natural",
+    "updated_at": 1788364470172
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFE135FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Banana Rama",
     "product_type": "Filament",
+    "series": "Dolos ASA",
     "sku": "AMB3752BAN",
-    "title": "Dolos ASA - Banana Rama"
+    "title": "Dolos ASA - Banana Rama",
+    "updated_at": 1788364516811
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#808080FF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Grey",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1512",
-    "title": "ASA Galactic - Galactic Grey"
+    "title": "ASA Galactic - Galactic Grey",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#1F5FA8FF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMB1525",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1788365006467
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF7518FF",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "KB3D Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1543",
-    "title": "PLA - KB3D Orange"
+    "title": "PLA - KB3D Orange",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PPS-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PPS-CF",
     "sku": "AMB4401PPS",
-    "title": "PPS-CF - Black"
+    "title": "PPS-CF - Black",
+    "updated_at": 1788365378678
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": "Glow in the Dark",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#CCFF99",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "GITD (Clear to Green Glow)",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2040",
-    "title": "PLA Galactic Sparkle - GITD (Clear to Green Glow)"
+    "title": "PLA Galactic Sparkle - GITD (Clear to Green Glow)",
+    "updated_at": 1792844447969
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FAFAFAFF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Polar White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1545",
-    "title": "ASA - Polar White"
+    "title": "ASA - Polar White",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#36454FFF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Midnight Meteorite",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1519",
-    "title": "ASA Galactic - Galactic Midnight Meteorite"
+    "title": "ASA Galactic - Galactic Midnight Meteorite",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFFFFFFF",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Uber ABS",
     "sku": "AMB1505",
-    "title": "Uber ABS - White"
+    "title": "Uber ABS - White",
+    "updated_at": 1788417869121
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Supernova Black (multi-color glitter)",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2517SUP",
-    "title": "PLA Galactic Sparkle - Supernova Black (multi-color glitter)"
+    "title": "PLA Galactic Sparkle - Supernova Black (multi-color glitter)",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Supernova Black",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB2546SUP",
-    "title": "ASA Galactic - Supernova Black"
+    "title": "ASA Galactic - Supernova Black",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#F5F5F5FF",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PHA",
     "measure": "1000 g",
+    "name": "Fog White",
     "product_type": "Filament",
+    "series": "PHA",
     "sku": "BEY3628GRE1KG",
-    "title": "PHA - Fog White"
+    "title": "PHA - Fog White",
+    "updated_at": 1788365070081
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#E2725BFF",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Terracotta",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB3909TER",
-    "title": "ASA - Terracotta"
+    "title": "ASA - Terracotta",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#7851A9FF",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Prince of Purple",
     "product_type": "Filament",
+    "series": "Dolos ASA",
     "sku": "AMB2036",
-    "title": "Dolos ASA - Prince of Purple"
+    "title": "Dolos ASA - Prince of Purple",
+    "updated_at": 1788364516811
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFD1DC",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Pastel Pink",
     "product_type": "Filament",
+    "series": "Uber ABS",
     "sku": "AMB1507",
-    "title": "Uber ABS - Pastel Pink"
+    "title": "Uber ABS - Pastel Pink",
+    "updated_at": 1792798226863
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#F2F2F2FF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMB1523",
-    "title": "PETG - Clear"
+    "title": "PETG - Clear",
+    "updated_at": 1788365006467
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF66CC",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Rainbow Fusion",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMB3764RAI",
-    "title": "PETG - Rainbow Fusion"
+    "title": "PETG - Rainbow Fusion",
+    "updated_at": 1792798269158
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#6E6E6EFF",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Super Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB2521SUP",
-    "title": "PLA - Super Grey"
+    "title": "PLA - Super Grey",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#C1440EFF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bloody Murder (Blood Orange)",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1528BO",
-    "title": "PLA - Bloody Murder (Blood Orange)"
+    "title": "PLA - Bloody Murder (Blood Orange)",
+    "updated_at": 1788365144799
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E8B87FF",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue+Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "AMB3779BLU",
-    "title": "Silk PLA - Blue+Green"
+    "title": "Silk PLA - Blue+Green",
+    "updated_at": 1788365601303
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF1493FF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Hot Pink",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB2537GAL",
-    "title": "ASA Galactic - Galactic Hot Pink"
+    "title": "ASA Galactic - Galactic Hot Pink",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B3121CFF",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Voron Red",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2046",
-    "title": "PLA Galactic Sparkle - Galactic Voron Red"
+    "title": "PLA Galactic Sparkle - Galactic Voron Red",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF7518FF",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "KB-3D Orange",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1498",
-    "title": "ASA - KB-3D Orange"
+    "title": "ASA - KB-3D Orange",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF1493FF",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Hot Pink",
     "product_type": "Filament",
+    "series": "ABS Matte",
     "sku": "AMB2408NAT",
-    "title": "ABS Matte - Hot Pink"
+    "title": "ABS Matte - Hot Pink",
+    "updated_at": 1788364188497
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#BDC720FF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Holiday Green (Green w/ Red Sparkle)",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB2414GAL",
-    "title": "ASA Galactic - Galactic Holiday Green (Green w/ Red Sparkle)"
+    "title": "ASA Galactic - Galactic Holiday Green (Green w/ Red Sparkle)",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E0854FF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Midnight Purple",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB4393MID",
-    "title": "ASA - Midnight Purple"
+    "title": "ASA - Midnight Purple",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B0B7BCFF",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Titanium Anno",
     "product_type": "Filament",
+    "series": "Dolos ASA",
     "sku": "AMB2037",
-    "title": "Dolos ASA - Titanium Anno"
+    "title": "Dolos ASA - Titanium Anno",
+    "updated_at": 1788364516811
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#1560BDFF",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Super Blue",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB3751GAL",
-    "title": "PLA Galactic Sparkle - Galactic Super Blue"
+    "title": "PLA Galactic Sparkle - Galactic Super Blue",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#4F7942FF",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "West Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3761WES",
-    "title": "PLA - West Green"
+    "title": "PLA - West Green",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#0B0B0FFF",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Velvet Black",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2038",
-    "title": "PLA Galactic Sparkle - Galactic Velvet Black"
+    "title": "PLA Galactic Sparkle - Galactic Velvet Black",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFD700FF",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Yellow",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2041",
-    "title": "PLA Galactic Sparkle - Galactic Yellow"
+    "title": "PLA Galactic Sparkle - Galactic Yellow",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#39FF14",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fluorescent Neon Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB2524FLU",
-    "title": "PLA - Fluorescent Neon Green"
+    "title": "PLA - Fluorescent Neon Green",
+    "updated_at": 1792799019763
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#3C341FFF",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Camo Olive Drab",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB2536CAM",
-    "title": "ASA - Camo Olive Drab"
+    "title": "ASA - Camo Olive Drab",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B22222FF",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Santa's Robe (Red w/ Silver Sparkle)",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB2416GAL",
-    "title": "ASA Galactic - Galactic Santa's Robe (Red w/ Silver Sparkle)"
+    "title": "ASA Galactic - Galactic Santa's Robe (Red w/ Silver Sparkle)",
+    "updated_at": 1788364331398
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Uber ABS",
     "sku": "AMB1504",
-    "title": "Uber ABS - Black"
+    "title": "Uber ABS - Black",
+    "updated_at": 1788417869121
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#C41E3AFF",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Holiday Red (Red w/ Green Sparkle)",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2419HOL",
-    "title": "PLA Galactic Sparkle - Holiday Red (Red w/ Green Sparkle)"
+    "title": "PLA Galactic Sparkle - Holiday Red (Red w/ Green Sparkle)",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#8B0000FF",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Dark Red",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "AMB1723",
-    "title": "ASA-CF - Dark Red"
+    "title": "ASA-CF - Dark Red",
+    "updated_at": 1788364387983
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#CC5500FF",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Burnt Orange (w/ Gold Sparkle)",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB4391GAL",
-    "title": "ASA Galactic - Galactic Burnt Orange (w/ Gold Sparkle)"
+    "title": "ASA Galactic - Galactic Burnt Orange (w/ Gold Sparkle)",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#008080FF",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Quadra Teal",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB2538GAL",
-    "title": "ASA Galactic - Galactic Quadra Teal"
+    "title": "ASA Galactic - Galactic Quadra Teal",
+    "updated_at": 1788364331398
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B22222FF",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Santa's Robe (Red w/ Extra Silver Sparkle)",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2421SAN",
-    "title": "PLA Galactic Sparkle - Santa's Robe (Red w/ Extra Silver Sparkle)"
+    "title": "PLA Galactic Sparkle - Santa's Robe (Red w/ Extra Silver Sparkle)",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 95",
     "sku": "AMB1727",
-    "title": "TPU 95 - Black"
+    "title": "TPU 95 - Black",
+    "updated_at": 1788417740815
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#808080FF",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMB1527",
-    "title": "PETG - Grey"
+    "title": "PETG - Grey",
+    "updated_at": 1788365006467
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E0854FF",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Midnight Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB4392MID",
-    "title": "PLA - Midnight Purple"
+    "title": "PLA - Midnight Purple",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#F1C27DFF",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Skin (Light)",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3756SKI",
-    "title": "PLA - Skin (Light)"
+    "title": "PLA - Skin (Light)",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#5D3FD3FF",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Violet Void",
     "product_type": "Filament",
+    "series": "Dolos ASA",
     "sku": "AMB2540VIO",
-    "title": "Dolos ASA - Violet Void"
+    "title": "Dolos ASA - Violet Void",
+    "updated_at": 1788364516811
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Metal",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#A9A9A9",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Metal Grey",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "AMB3773MET",
-    "title": "Silk PLA - Metal Grey"
+    "title": "Silk PLA - Metal Grey",
+    "updated_at": 1792799166394
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFC1CCFF",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Bubble Gum",
     "product_type": "Filament",
+    "series": "Dolos ASA",
     "sku": "AMB4388BUB",
-    "title": "Dolos ASA - Bubble Gum"
+    "title": "Dolos ASA - Bubble Gum",
+    "updated_at": 1788364516811
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "PC-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC-CF",
     "sku": "AMB1731",
-    "title": "PC-CF - Black"
+    "title": "PC-CF - Black",
+    "updated_at": 1788364948266
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#008080FF",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Quadra Teal",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1503",
-    "title": "ASA - Quadra Teal"
+    "title": "ASA - Quadra Teal",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#F1C27DFF",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Skin Rash (Light Skin with Red Glitter)",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB3768SKI",
-    "title": "ASA Galactic - Skin Rash (Light Skin with Red Glitter)"
+    "title": "ASA Galactic - Skin Rash (Light Skin with Red Glitter)",
+    "updated_at": 1788364331398
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFB347FF",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Creamsicle",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3757CRE",
-    "title": "PLA - Creamsicle"
+    "title": "PLA - Creamsicle",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#C1440EFF",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Bloody Murder (Blood Orange)",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB2528BLO",
-    "title": "ASA - Bloody Murder (Blood Orange)"
+    "title": "ASA - Bloody Murder (Blood Orange)",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF66CC",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Rainbow",
     "product_type": "Filament",
+    "series": "Dolos ASA",
     "sku": "AMB3912RAI",
-    "title": "Dolos ASA - Rainbow"
+    "title": "Dolos ASA - Rainbow",
+    "updated_at": 1792799239806
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#4A6741FF",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Armored Turtle Green (w/ Gold Sparkle)",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB2832ARM",
-    "title": "ASA Galactic - Armored Turtle Green (w/ Gold Sparkle)"
+    "title": "ASA Galactic - Armored Turtle Green (w/ Gold Sparkle)",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#D0342CFF",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1534",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B3121CFF",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Voron Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3760VOR",
-    "title": "PLA - Voron Red"
+    "title": "PLA - Voron Red",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B8B8B8FF",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Stardust",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2515STA",
-    "title": "PLA Galactic Sparkle - Stardust"
+    "title": "PLA Galactic Sparkle - Stardust",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B3121CFF",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Voron Red",
     "product_type": "Filament",
+    "series": "ABS Matte",
     "sku": "AMB2407WHI",
-    "title": "ABS Matte - Voron Red"
+    "title": "ABS Matte - Voron Red",
+    "updated_at": 1788364188497
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF1493FF",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Hot Pink",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB2532HOT",
-    "title": "ASA - Hot Pink"
+    "title": "ASA - Hot Pink",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF69B4FF",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Pink",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2045",
-    "title": "PLA Galactic Sparkle - Galactic Pink"
+    "title": "PLA Galactic Sparkle - Galactic Pink",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFD700FF",
@@ -4546,9 +5098,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Yellow",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1511",
-    "title": "ASA Galactic - Galactic Yellow"
+    "title": "ASA Galactic - Galactic Yellow",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -4571,6 +5126,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF1493FF",
@@ -4587,9 +5144,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Hot Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB2520HOT",
-    "title": "PLA - Hot Pink"
+    "title": "PLA - Hot Pink",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -4612,6 +5172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFC72CFF",
@@ -4628,9 +5190,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow Jacket (Co-Extrusion)",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB2523YEL",
-    "title": "PLA - Yellow Jacket (Co-Extrusion)"
+    "title": "PLA - Yellow Jacket (Co-Extrusion)",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -4653,6 +5218,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B3121CFF",
@@ -4669,9 +5236,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Voron Red",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1520",
-    "title": "ASA Galactic - Galactic Voron Red"
+    "title": "ASA Galactic - Galactic Voron Red",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -4694,6 +5264,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#40E0D0",
@@ -4710,9 +5282,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Soft Turquoise Matte",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1531",
-    "title": "PLA - Soft Turquoise Matte"
+    "title": "PLA - Soft Turquoise Matte",
+    "updated_at": 1792799327376
   },
   {
     "RFID_Data": {
@@ -4735,6 +5310,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFFFFFFF",
@@ -4751,9 +5328,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1493",
-    "title": "ASA - White"
+    "title": "ASA - White",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -4776,6 +5356,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -4792,9 +5374,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black (Pantone 7C)",
     "product_type": "Filament",
+    "series": "ABS Matte",
     "sku": "AMB2406BLA",
-    "title": "ABS Matte - Black (Pantone 7C)"
+    "title": "ABS Matte - Black (Pantone 7C)",
+    "updated_at": 1788364188497
   },
   {
     "RFID_Data": {
@@ -4817,6 +5402,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E8B57FF",
@@ -4833,9 +5420,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Green",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1516",
-    "title": "ASA Galactic - Galactic Green"
+    "title": "ASA Galactic - Galactic Green",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -4858,6 +5448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFFFFFFF",
@@ -4874,9 +5466,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1539",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -4899,6 +5494,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#808080FF",
@@ -4915,9 +5512,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1496",
-    "title": "ASA - Grey"
+    "title": "ASA - Grey",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -4940,6 +5540,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#0695B0FF",
@@ -4956,9 +5558,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Coral Wave",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB3910COR",
-    "title": "ASA - Coral Wave"
+    "title": "ASA - Coral Wave",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -4981,6 +5586,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2C3E50FF",
@@ -4997,9 +5604,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Twilight Tide",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB3905TWIL",
-    "title": "ASA Galactic - Twilight Tide"
+    "title": "ASA Galactic - Twilight Tide",
+    "updated_at": 1788364331398
   },
   {
     "RFID_Data": {
@@ -5022,6 +5632,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": "Glow in the Dark",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#7FB2E5",
@@ -5038,9 +5650,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Glow Blue",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2039",
-    "title": "PLA Galactic Sparkle - Galactic Glow Blue"
+    "title": "PLA Galactic Sparkle - Galactic Glow Blue",
+    "updated_at": 1792844546520
   },
   {
     "RFID_Data": {
@@ -5063,6 +5678,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#C41E3AFF",
@@ -5079,9 +5696,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Holiday Red (Red w/ Green Sparkle)",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB2415GAL",
-    "title": "ASA Galactic - Galactic Holiday Red (Red w/ Green Sparkle)"
+    "title": "ASA Galactic - Galactic Holiday Red (Red w/ Green Sparkle)",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -5104,6 +5724,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E5984FF",
@@ -5120,9 +5742,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Terrestrial Blue",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1499",
-    "title": "ASA - Terrestrial Blue"
+    "title": "ASA - Terrestrial Blue",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -5145,6 +5770,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -5161,9 +5788,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1529",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1788365144799
   },
   {
     "RFID_Data": {
@@ -5186,6 +5816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#808080FF",
@@ -5202,9 +5834,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "1000 g",
+    "name": "Galactic Grey",
     "product_type": "Filament",
+    "series": "PC-ABS",
     "sku": "AMB1730",
-    "title": "PC-ABS - Galactic Grey"
+    "title": "PC-ABS - Galactic Grey",
+    "updated_at": 1788364830305
   },
   {
     "RFID_Data": {
@@ -5227,6 +5862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#4A6741FF",
@@ -5243,9 +5880,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Armored Turtle Green (w/ Gold Sparkle)",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2834ARM",
-    "title": "PLA Galactic Sparkle - Armored Turtle Green (w/ Gold Sparkle)"
+    "title": "PLA Galactic Sparkle - Armored Turtle Green (w/ Gold Sparkle)",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -5268,6 +5908,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#D0342CFF",
@@ -5284,9 +5926,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Super Red",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1513",
-    "title": "ASA Galactic - Galactic Super Red"
+    "title": "ASA Galactic - Galactic Super Red",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -5309,6 +5954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#01796FFF",
@@ -5325,9 +5972,12 @@
     "info3": false,
     "material": "PHA",
     "measure": "1000 g",
+    "name": "Pine Green",
     "product_type": "Filament",
+    "series": "PHA",
     "sku": "BEY3632RED1KG",
-    "title": "PHA - Pine Green"
+    "title": "PHA - Pine Green",
+    "updated_at": 1788365070082
   },
   {
     "RFID_Data": {
@@ -5350,6 +6000,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF7F50FF",
@@ -5366,9 +6018,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Coral Wave",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3911COR",
-    "title": "PLA - Coral Wave"
+    "title": "PLA - Coral Wave",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -5391,6 +6046,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -5407,9 +6064,12 @@
     "info3": false,
     "material": "ASA-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA-GF",
     "sku": "AMB2049",
-    "title": "ASA-GF - Black"
+    "title": "ASA-GF - Black",
+    "updated_at": 1788364470172
   },
   {
     "RFID_Data": {
@@ -5432,6 +6092,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#1F5FA8FF",
@@ -5448,9 +6110,12 @@
     "info3": false,
     "material": "PC-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PC-CF",
     "sku": "AMB1732",
-    "title": "PC-CF - Blue"
+    "title": "PC-CF - Blue",
+    "updated_at": 1788364948266
   },
   {
     "RFID_Data": {
@@ -5473,6 +6138,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#A9784CFF",
@@ -5489,9 +6156,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Faded Desert Brown FDE",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1541",
-    "title": "PLA - Faded Desert Brown FDE"
+    "title": "PLA - Faded Desert Brown FDE",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -5514,6 +6184,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#4B0082FF",
@@ -5530,9 +6202,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Cosmic Shimmer",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB3907COS",
-    "title": "ASA Galactic - Cosmic Shimmer"
+    "title": "ASA Galactic - Cosmic Shimmer",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -5555,6 +6230,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF66CC",
@@ -5571,9 +6248,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rainbow Rush",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB2525RAI",
-    "title": "PLA - Rainbow Rush"
+    "title": "PLA - Rainbow Rush",
+    "updated_at": 1792799601810
   },
   {
     "RFID_Data": {
@@ -5596,6 +6276,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E8B57FF",
@@ -5612,9 +6294,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "British Racing Green",
     "product_type": "Filament",
+    "series": "ABS Matte",
     "sku": "AMB2409PAS",
-    "title": "ABS Matte - British Racing Green"
+    "title": "ABS Matte - British Racing Green",
+    "updated_at": 1788364188497
   },
   {
     "RFID_Data": {
@@ -5637,6 +6322,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#CC5500FF",
@@ -5653,9 +6340,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Burnt Orange (w/ Gold Sparkle)",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB4390GAL",
-    "title": "PLA Galactic Sparkle - Galactic Burnt Orange (w/ Gold Sparkle)"
+    "title": "PLA Galactic Sparkle - Galactic Burnt Orange (w/ Gold Sparkle)",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -5678,6 +6368,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF1493FF",
@@ -5694,9 +6386,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Hot Pink",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2516GAL",
-    "title": "PLA Galactic Sparkle - Galactic Hot Pink"
+    "title": "PLA Galactic Sparkle - Galactic Hot Pink",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -5719,6 +6414,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#16325CFF",
@@ -5735,9 +6432,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "AMB1724",
-    "title": "ASA-CF - Dark Blue"
+    "title": "ASA-CF - Dark Blue",
+    "updated_at": 1788364387983
   },
   {
     "RFID_Data": {
@@ -5760,6 +6460,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#808080FF",
@@ -5776,9 +6478,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Grey Abyss (Non-Sparkle Galactic Black)",
     "product_type": "Filament",
+    "series": "ABS Matte",
     "sku": "AMB2410RED",
-    "title": "ABS Matte - Grey Abyss (Non-Sparkle Galactic Black)"
+    "title": "ABS Matte - Grey Abyss (Non-Sparkle Galactic Black)",
+    "updated_at": 1788364188497
   },
   {
     "RFID_Data": {
@@ -5801,6 +6506,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF66CC",
@@ -5817,9 +6524,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rainbow Candy",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "AMB3772RAI",
-    "title": "Silk PLA - Rainbow Candy"
+    "title": "Silk PLA - Rainbow Candy",
+    "updated_at": 1792799672991
   },
   {
     "RFID_Data": {
@@ -5842,6 +6552,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF69B4FF",
@@ -5858,9 +6570,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1538",
-    "title": "PLA - Pink"
+    "title": "PLA - Pink",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -5883,6 +6598,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF66CCFF",
@@ -5899,9 +6616,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easter Egg (Gradient)",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB2519EAS",
-    "title": "PLA - Easter Egg (Gradient)"
+    "title": "PLA - Easter Egg (Gradient)",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -5924,6 +6644,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#5D3FD3FF",
@@ -5940,9 +6662,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Violet Void",
     "product_type": "Filament",
+    "series": "Dolos PLA",
     "sku": "AMB2518VIO",
-    "title": "Dolos PLA - Violet Void"
+    "title": "Dolos PLA - Violet Void",
+    "updated_at": 1788364602095
   },
   {
     "RFID_Data": {
@@ -5965,6 +6690,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#39FF14",
@@ -5981,9 +6708,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Fluorescent Neon Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB2533FLU",
-    "title": "ASA - Fluorescent Neon Green"
+    "title": "ASA - Fluorescent Neon Green",
+    "updated_at": 1792799751885
   },
   {
     "RFID_Data": {
@@ -6006,6 +6736,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Glitter",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000",
@@ -6022,9 +6754,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Galactic Black (With Glitter)",
     "product_type": "Filament",
+    "series": "ABS Matte",
     "sku": "AMB2833GAL",
-    "title": "ABS Matte - Galactic Black (With Glitter)"
+    "title": "ABS Matte - Galactic Black (With Glitter)",
+    "updated_at": 1792799758580
   },
   {
     "RFID_Data": {
@@ -6047,6 +6782,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#2E5984FF",
@@ -6063,9 +6800,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Terrestrial Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3759TER",
-    "title": "PLA - Terrestrial Blue"
+    "title": "PLA - Terrestrial Blue",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -6088,6 +6828,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#F0EAD6FF",
@@ -6104,9 +6846,12 @@
     "info3": false,
     "material": "PHA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PHA",
     "sku": "BEY3630NAT1KG",
-    "title": "PHA - Natural"
+    "title": "PHA - Natural",
+    "updated_at": 1788365070082
   },
   {
     "RFID_Data": {
@@ -6129,6 +6874,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#6F2DA8FF",
@@ -6145,9 +6892,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Grape",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1515",
-    "title": "ASA Galactic - Galactic Grape"
+    "title": "ASA Galactic - Galactic Grape",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -6170,6 +6920,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#6F2DA8FF",
@@ -6186,9 +6938,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grape",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1501",
-    "title": "ASA - Grape"
+    "title": "ASA - Grape",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -6211,6 +6966,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B0B7BCFF",
@@ -6227,9 +6984,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Titanium Anno",
     "product_type": "Filament",
+    "series": "Dolos PLA",
     "sku": "AMB1753",
-    "title": "Dolos PLA - Titanium Anno"
+    "title": "Dolos PLA - Titanium Anno",
+    "updated_at": 1788364602095
   },
   {
     "RFID_Data": {
@@ -6252,6 +7012,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#800080FF",
@@ -6268,9 +7030,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "AMB1725",
-    "title": "ASA-CF - Purple"
+    "title": "ASA-CF - Purple",
+    "updated_at": 1788364387983
   },
   {
     "RFID_Data": {
@@ -6293,6 +7058,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#6E6E6EFF",
@@ -6309,9 +7076,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Super Grey",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB2529SUP",
-    "title": "ASA - Super Grey"
+    "title": "ASA - Super Grey",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -6334,6 +7104,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF66CC",
@@ -6350,9 +7122,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rainbow",
     "product_type": "Filament",
+    "series": "Dolos PLA",
     "sku": "AMB3755RAI",
-    "title": "Dolos PLA - Rainbow"
+    "title": "Dolos PLA - Rainbow",
+    "updated_at": 1792799916060
   },
   {
     "RFID_Data": {
@@ -6375,6 +7150,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B3121CFF",
@@ -6391,9 +7168,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Voron Red",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1495",
-    "title": "ASA - Voron Red"
+    "title": "ASA - Voron Red",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -6416,6 +7196,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#C9CB3CFF",
@@ -6432,9 +7214,12 @@
     "info3": false,
     "material": "PHA",
     "measure": "1000 g",
+    "name": "Lichen Yellow",
     "product_type": "Filament",
+    "series": "PHA",
     "sku": "BEY3636OCE1KG",
-    "title": "PHA - Lichen Yellow"
+    "title": "PHA - Lichen Yellow",
+    "updated_at": 1788365070082
   },
   {
     "RFID_Data": {
@@ -6457,6 +7242,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#1560BDFF",
@@ -6473,9 +7260,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Super Blue",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1500",
-    "title": "ASA - Super Blue"
+    "title": "ASA - Super Blue",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -6498,6 +7288,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B497BD",
@@ -6514,9 +7306,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Soft Lavender Matte",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1536",
-    "title": "PLA - Soft Lavender Matte"
+    "title": "PLA - Soft Lavender Matte",
+    "updated_at": 1792800011084
   },
   {
     "RFID_Data": {
@@ -6539,6 +7334,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#6F2DA8FF",
@@ -6555,9 +7352,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grape",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3762GRA",
-    "title": "PLA - Grape"
+    "title": "PLA - Grape",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -6580,6 +7380,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF69B4FF",
@@ -6596,9 +7398,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Pink",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1518",
-    "title": "ASA Galactic - Galactic Pink"
+    "title": "ASA Galactic - Galactic Pink",
+    "updated_at": 1788364331397
   },
   {
     "RFID_Data": {
@@ -6621,6 +7426,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#893F45FF",
@@ -6637,9 +7444,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cardovan",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB2526CAR",
-    "title": "PLA - Cardovan"
+    "title": "PLA - Cardovan",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -6662,6 +7472,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF66CCFF",
@@ -6678,9 +7490,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Easter Egg",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB2530EAS",
-    "title": "ASA - Easter Egg"
+    "title": "ASA - Easter Egg",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -6703,6 +7518,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#A9784CFF",
@@ -6719,9 +7536,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Faded Desert Brown FDE",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "AMB1497",
-    "title": "ASA - Faded Desert Brown FDE"
+    "title": "ASA - Faded Desert Brown FDE",
+    "updated_at": 1788364280465
   },
   {
     "RFID_Data": {
@@ -6744,6 +7564,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#000000FF",
@@ -6760,9 +7582,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "AMB1722",
-    "title": "ASA-CF - Black"
+    "title": "ASA-CF - Black",
+    "updated_at": 1788364387983
   },
   {
     "RFID_Data": {
@@ -6785,6 +7610,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#D0342CFF",
@@ -6801,9 +7628,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold+Red",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "AMB3775GOL",
-    "title": "Silk PLA - Gold+Red"
+    "title": "Silk PLA - Gold+Red",
+    "updated_at": 1788365601303
   },
   {
     "RFID_Data": {
@@ -6826,6 +7656,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#1B3B6FFF",
@@ -6842,9 +7674,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galactic Planetary Blue",
     "product_type": "Filament",
+    "series": "PLA Galactic Sparkle",
     "sku": "AMB2044",
-    "title": "PLA Galactic Sparkle - Galactic Planetary Blue"
+    "title": "PLA Galactic Sparkle - Galactic Planetary Blue",
+    "updated_at": 1788365222105
   },
   {
     "RFID_Data": {
@@ -6867,6 +7702,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFE135FF",
@@ -6883,9 +7720,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Banana Rama",
     "product_type": "Filament",
+    "series": "Dolos PLA",
     "sku": "AMB1754",
-    "title": "Dolos PLA - Banana Rama"
+    "title": "Dolos PLA - Banana Rama",
+    "updated_at": 1788364602095
   },
   {
     "RFID_Data": {
@@ -6908,6 +7748,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FF8C00FF",
@@ -6924,9 +7766,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMB1526",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1788365006467
   },
   {
     "RFID_Data": {
@@ -6949,6 +7794,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#FFC1CCFF",
@@ -6965,9 +7812,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bubble Gum",
     "product_type": "Filament",
+    "series": "Dolos PLA",
     "sku": "AMB4389BUB",
-    "title": "Dolos PLA - Bubble Gum"
+    "title": "Dolos PLA - Bubble Gum",
+    "updated_at": 1788364602095
   },
   {
     "RFID_Data": {
@@ -6990,6 +7840,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#E2725BFF",
@@ -7006,9 +7858,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Terracotta",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3908TER",
-    "title": "PLA - Terracotta"
+    "title": "PLA - Terracotta",
+    "updated_at": 1788365144800
   },
   {
     "RFID_Data": {
@@ -7031,6 +7886,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#0B0B0F",
@@ -7047,9 +7904,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Velvet Black (Matte)",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB1528",
-    "title": "PLA - Velvet Black (Matte)"
+    "title": "PLA - Velvet Black (Matte)",
+    "updated_at": 1792800172677
   },
   {
     "RFID_Data": {
@@ -7072,6 +7932,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#F0EAD6FF",
@@ -7088,9 +7950,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Uber ABS",
     "sku": "AMB1506",
-    "title": "Uber ABS - Natural"
+    "title": "Uber ABS - Natural",
+    "updated_at": 1788417869121
   },
   {
     "RFID_Data": {
@@ -7113,6 +7978,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Glow in the Dark",
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#CCFF99",
@@ -7129,9 +7996,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow in the Dark Rainbow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMB3770GLO",
-    "title": "PLA - Glow in the Dark Rainbow"
+    "title": "PLA - Glow in the Dark Rainbow",
+    "updated_at": 1792844635597
   },
   {
     "RFID_Data": {
@@ -7154,6 +8024,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#B8B8B8FF",
@@ -7170,9 +8042,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Stardust",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB2539STA",
-    "title": "ASA Galactic - Stardust"
+    "title": "ASA Galactic - Stardust",
+    "updated_at": 1788364331398
   },
   {
     "RFID_Data": {
@@ -7195,6 +8070,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Ambrosia",
     "color": "#1560BDFF",
@@ -7211,8 +8088,11 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Galactic Super Blue",
     "product_type": "Filament",
+    "series": "ASA Galactic",
     "sku": "AMB1514",
-    "title": "ASA Galactic - Galactic Super Blue"
+    "title": "ASA Galactic - Galactic Super Blue",
+    "updated_at": 1788364331397
   }
 ]

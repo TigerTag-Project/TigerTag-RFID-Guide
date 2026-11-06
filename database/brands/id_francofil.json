@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 10000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FFD500FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "10000 g",
+    "name": "Yellow RAL 1018",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117510181000",
-    "title": "PLA Standard - Yellow RAL 1018"
+    "title": "PLA Standard - Yellow RAL 1018",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#808080FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG Standard",
     "sku": "317570010100",
-    "title": "PETG Standard - Grey"
+    "title": "PETG Standard - Grey",
+    "updated_at": 1788471677766
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#1565C0FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Translucent Blue",
     "product_type": "Filament",
+    "series": "PLA Translucide",
     "sku": "117508060100",
-    "title": "PLA Translucide - Translucent Blue"
+    "title": "PLA Translucide - Translucent Blue",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E0C171FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wheat - Byproduct",
     "product_type": "Filament",
+    "series": "PLA Coproduits",
     "sku": "117502020100",
-    "title": "PLA Coproduits - Wheat - Byproduct"
+    "title": "PLA Coproduits - Wheat - Byproduct",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#808080FF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "4017570010100",
-    "title": "TPU 95A - Grey"
+    "title": "TPU 95A - Grey",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#808080FF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey RAL 7040",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "128570400100",
-    "title": "PLA Standard - Grey RAL 7040"
+    "title": "PLA Standard - Grey RAL 7040",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": "Glitter",
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#2E8B57",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Iridescent Glitter Green",
     "product_type": "Filament",
+    "series": "PLA Irisés",
     "sku": "117503080100",
-    "title": "PLA Irisés - Iridescent Glitter Green"
+    "title": "PLA Irisés - Iridescent Glitter Green",
+    "updated_at": 1792797684805
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#CCCCCCFF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Carbon",
     "product_type": "Filament",
+    "series": "PETG Carbone",
     "sku": "3217500010100",
-    "title": "PETG Carbone - Carbon"
+    "title": "PETG Carbone - Carbon",
+    "updated_at": 1788471808976
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#3A3B3CFF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "5000 g",
+    "name": "Anthracite RAL 7016",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117570160500",
-    "title": "PLA Standard - Anthracite RAL 7016"
+    "title": "PLA Standard - Anthracite RAL 7016",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#000000FF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "4017500010050",
-    "title": "TPU 95A - Black"
+    "title": "TPU 95A - Black",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E30613FF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU 98A",
     "sku": "417530200100",
-    "title": "TPU 98A - Red"
+    "title": "TPU 98A - Red",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#2E8B57FF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Translucent Green",
     "product_type": "Filament",
+    "series": "PLA Translucide",
     "sku": "117508070100",
-    "title": "PLA Translucide - Translucent Green"
+    "title": "PLA Translucide - Translucent Green",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#EDEAE0FF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Oyster - Byproduct",
     "product_type": "Filament",
+    "series": "PLA Coproduits",
     "sku": "117501010100",
-    "title": "PLA Coproduits - Oyster - Byproduct"
+    "title": "PLA Coproduits - Oyster - Byproduct",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FFFFFFFF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "217500020100",
-    "title": "ABS - White"
+    "title": "ABS - White",
+    "updated_at": 1788471415849
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#8B3A3AFF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Red Granite",
     "product_type": "Filament",
+    "series": "PLA Granit",
     "sku": "117508050050",
-    "title": "PLA Granit - Red Granite"
+    "title": "PLA Granit - Red Granite",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F5F0DCFF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "4017500000100",
-    "title": "TPU 95A - Natural"
+    "title": "TPU 95A - Natural",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F5F0DCFF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "TPU 98A",
     "sku": "417500000050",
-    "title": "TPU 98A - Natural"
+    "title": "TPU 98A - Natural",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#808080FF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey RAL 7001",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117570010100",
-    "title": "PLA Standard - Grey RAL 7001"
+    "title": "PLA Standard - Grey RAL 7001",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#4B3621FF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Coffee - Byproduct",
     "product_type": "Filament",
+    "series": "PLA Coproduits",
     "sku": "117502030100",
-    "title": "PLA Coproduits - Coffee - Byproduct"
+    "title": "PLA Coproduits - Coffee - Byproduct",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#000000FF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117500010100",
-    "title": "PLA Standard - Black"
+    "title": "PLA Standard - Black",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F0E6D6FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Scallop - Byproduct",
     "product_type": "Filament",
+    "series": "PLA Coproduits",
     "sku": "117501030100",
-    "title": "PLA Coproduits - Scallop - Byproduct"
+    "title": "PLA Coproduits - Scallop - Byproduct",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E30613FF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PETG-ESD",
     "measure": "5000 g",
+    "name": "ESD Red",
     "product_type": "Filament",
+    "series": "PETG ESD",
     "sku": "3417530200500",
-    "title": "PETG ESD - ESD Red"
+    "title": "PETG ESD - ESD Red",
+    "updated_at": 1788471956266
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F7E98EFF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Yellow - Lemon Meringue",
     "product_type": "Filament",
+    "series": "PLA Pastels",
     "sku": "117506050100",
-    "title": "PLA Pastels - Pastel Yellow - Lemon Meringue"
+    "title": "PLA Pastels - Pastel Yellow - Lemon Meringue",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FFFFFFFF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU 98A",
     "sku": "417500020100",
-    "title": "TPU 98A - White"
+    "title": "TPU 98A - White",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F5F0DCFF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "TPE",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "TPE 88A",
     "sku": "517500000100",
-    "title": "TPE 88A - Natural"
+    "title": "TPE 88A - Natural",
+    "updated_at": 1788472203681
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#1565C0FF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Blue A110",
     "product_type": "Filament",
+    "series": "PLA Métallisés",
     "sku": "117503060050",
-    "title": "PLA Métallisés - Blue A110"
+    "title": "PLA Métallisés - Blue A110",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E8E8E8FF",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Green | PMUC Certified",
     "product_type": "Filament",
+    "series": "PLA PMUC",
     "sku": "1217560000075",
-    "title": "PLA PMUC - Green | PMUC Certified"
+    "title": "PLA PMUC - Green | PMUC Certified",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#3B2F3AFF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Anthracite Violet",
     "product_type": "Filament",
+    "series": "PLA Irisés",
     "sku": "117504030100",
-    "title": "PLA Irisés - Anthracite Violet"
+    "title": "PLA Irisés - Anthracite Violet",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F5F0DCFF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "5000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "217500000500",
-    "title": "ABS - Natural"
+    "title": "ABS - Natural",
+    "updated_at": 1788471415849
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FFFFFFFF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG Standard",
     "sku": "317500020100",
-    "title": "PETG Standard - White"
+    "title": "PETG Standard - White",
+    "updated_at": 1788471677766
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#30D5C8FF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Turquoise Blue",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117523970100",
-    "title": "PLA Standard - Turquoise Blue"
+    "title": "PLA Standard - Turquoise Blue",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FFFFFFFF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PETG-PTFE",
     "measure": "500 g",
+    "name": "PTFE White",
     "product_type": "Filament",
+    "series": "PETG PTFE",
     "sku": "3317500020050",
-    "title": "PETG PTFE - PTFE White"
+    "title": "PETG PTFE - PTFE White",
+    "updated_at": 1788472069152
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FFFFFFFF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117500020100",
-    "title": "PLA Standard - White"
+    "title": "PLA Standard - White",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F9C0D0FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Pink - Cotton Candy",
     "product_type": "Filament",
+    "series": "PLA Pastels",
     "sku": "117506030100",
-    "title": "PLA Pastels - Pastel Pink - Cotton Candy"
+    "title": "PLA Pastels - Pastel Pink - Cotton Candy",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FFFFFFFF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "2117500020100",
-    "title": "ASA - White"
+    "title": "ASA - White",
+    "updated_at": 1788471544661
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FF7F00FF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Translucent Orange",
     "product_type": "Filament",
+    "series": "PLA Translucide",
     "sku": "117508090100",
-    "title": "PLA Translucide - Translucent Orange"
+    "title": "PLA Translucide - Translucent Orange",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#1565C0FF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "4017550020100",
-    "title": "TPU 95A - Blue"
+    "title": "TPU 95A - Blue",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FFFFFFFF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "4017500020100",
-    "title": "TPU 95A - White"
+    "title": "TPU 95A - White",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#C41E3AFF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Christmas Red",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117504010100",
-    "title": "PLA Standard - Christmas Red"
+    "title": "PLA Standard - Christmas Red",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FF7F00FF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange RAL 2003",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117520030100",
-    "title": "PLA Standard - Orange RAL 2003"
+    "title": "PLA Standard - Orange RAL 2003",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#CAF0F8FF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Air - Heliox Collection - The 4 Elements",
     "product_type": "Filament",
+    "series": "PLA Collection Heliox",
     "sku": "PLA-AIR",
-    "title": "PLA Collection Heliox - Air - Heliox Collection - The 4 Elements"
+    "title": "PLA Collection Heliox - Air - Heliox Collection - The 4 Elements",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#D4AF37FF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Métallisés",
     "sku": "117503010100",
-    "title": "PLA Métallisés - Gold"
+    "title": "PLA Métallisés - Gold",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F7FF00FF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fluo Yellow RAL 1026",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117510260100",
-    "title": "PLA Standard - Fluo Yellow RAL 1026"
+    "title": "PLA Standard - Fluo Yellow RAL 1026",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#808080FF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "TPE",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "TPE 88A",
     "sku": "517570010100",
-    "title": "TPE 88A - Grey"
+    "title": "TPE 88A - Grey",
+    "updated_at": 1788472203681
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F5F0DCFF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "2128500000100",
-    "title": "ASA - Natural"
+    "title": "ASA - Natural",
+    "updated_at": 1788471544661
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 250
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F5F0DCFF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PETG-ESD",
     "measure": "250 g",
+    "name": "ESD Natural",
     "product_type": "Filament",
+    "series": "PETG ESD",
     "sku": "3417500000025",
-    "title": "PETG ESD - ESD Natural"
+    "title": "PETG ESD - ESD Natural",
+    "updated_at": 1788471956266
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#2E8B57FF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green RAL 6000",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117560000100",
-    "title": "PLA Standard - Green RAL 6000"
+    "title": "PLA Standard - Green RAL 6000",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#93C572FF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "5000 g",
+    "name": "Pistachio Green RAL 6019",
     "product_type": "Filament",
+    "series": "PLA Pastels",
     "sku": "117560190500",
-    "title": "PLA Pastels - Pistachio Green RAL 6019"
+    "title": "PLA Pastels - Pistachio Green RAL 6019",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E8E6DFFF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "5000 g",
+    "name": "White Granite",
     "product_type": "Filament",
+    "series": "PLA Granit",
     "sku": "117508010500",
-    "title": "PLA Granit - White Granite"
+    "title": "PLA Granit - White Granite",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#000000FF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Standard",
     "sku": "317500010100",
-    "title": "PETG Standard - Black"
+    "title": "PETG Standard - Black",
+    "updated_at": 1788471677766
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E30613FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG Standard",
     "sku": "317530200100",
-    "title": "PETG Standard - Red"
+    "title": "PETG Standard - Red",
+    "updated_at": 1788471677766
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#CCCCCCFF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "M-XR Detectable",
     "product_type": "Filament",
+    "series": "PETG M-XR",
     "sku": "3117500000100",
-    "title": "PETG M-XR - M-XR Detectable"
+    "title": "PETG M-XR - M-XR Detectable",
+    "updated_at": 1788471677766
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#000000FF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "217500010100",
-    "title": "ABS - Black"
+    "title": "ABS - Black",
+    "updated_at": 1788471415849
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#4A4E52FF",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Slate - Byproduct",
     "product_type": "Filament",
+    "series": "PLA Coproduits",
     "sku": "117502050100",
-    "title": "PLA Coproduits - Slate - Byproduct"
+    "title": "PLA Coproduits - Slate - Byproduct",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E8E8E8FF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Red | PMUC Certified",
     "product_type": "Filament",
+    "series": "PLA PMUC",
     "sku": "1217530200050",
-    "title": "PLA PMUC - Red | PMUC Certified"
+    "title": "PLA PMUC - Red | PMUC Certified",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E30613FF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "2117530200100",
-    "title": "ASA - Red"
+    "title": "ASA - Red",
+    "updated_at": 1788471544661
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#2E8B57FF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Phosphorescent Green",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117500050100",
-    "title": "PLA Standard - Phosphorescent Green"
+    "title": "PLA Standard - Phosphorescent Green",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#8B5A2BFF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Clay - Byproduct",
     "product_type": "Filament",
+    "series": "PLA Coproduits",
     "sku": "117502060050",
-    "title": "PLA Coproduits - Clay - Byproduct"
+    "title": "PLA Coproduits - Clay - Byproduct",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E8E8E8FF",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "5000 g",
+    "name": "Black | PMUC Certified",
     "product_type": "Filament",
+    "series": "PLA PMUC",
     "sku": "1217500020500",
-    "title": "PLA PMUC - Black | PMUC Certified"
+    "title": "PLA PMUC - Black | PMUC Certified",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E30613FF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Red RAL 3020",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117530200050",
-    "title": "PLA Standard - Red RAL 3020"
+    "title": "PLA Standard - Red RAL 3020",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#AEE3F5FF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Blue - The Glacier",
     "product_type": "Filament",
+    "series": "PLA Pastels",
     "sku": "117506020100",
-    "title": "PLA Pastels - Pastel Blue - The Glacier"
+    "title": "PLA Pastels - Pastel Blue - The Glacier",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#9C6B3E",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wood - Byproduct",
     "product_type": "Filament",
+    "series": "PLA Coproduits",
     "sku": "117502040100",
-    "title": "PLA Coproduits - Wood - Byproduct"
+    "title": "PLA Coproduits - Wood - Byproduct",
+    "updated_at": 1792799189865
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#C0C0C0FF",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Métallisés",
     "sku": "117503050100",
-    "title": "PLA Métallisés - Silver"
+    "title": "PLA Métallisés - Silver",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F2A0C1FF",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "5000 g",
+    "name": "Pink FME (Foreign Material Exclusion) PMUC Certified",
     "product_type": "Filament",
+    "series": "PETG PMUC",
     "sku": "317540100500",
-    "title": "PETG PMUC - Pink FME (Foreign Material Exclusion) PMUC Certified"
+    "title": "PETG PMUC - Pink FME (Foreign Material Exclusion) PMUC Certified",
+    "updated_at": 1788471677766
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F5F0DCFF",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PETG Standard",
     "sku": "317500000100",
-    "title": "PETG Standard - Natural"
+    "title": "PETG Standard - Natural",
+    "updated_at": 1788471677766
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F2A0C1FF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "500 g",
+    "name": "Pink FME (Foreign Material Exclusion) PMUC Certified",
     "product_type": "Filament",
+    "series": "ABS PMUC",
     "sku": "217540100050",
-    "title": "ABS PMUC - Pink FME (Foreign Material Exclusion) PMUC Certified"
+    "title": "ABS PMUC - Pink FME (Foreign Material Exclusion) PMUC Certified",
+    "updated_at": 1788471415849
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#B87333FF",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Copper",
     "product_type": "Filament",
+    "series": "PLA Métallisés",
     "sku": "117503030100",
-    "title": "PLA Métallisés - Copper"
+    "title": "PLA Métallisés - Copper",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#1565C0FF",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue RAL 5015",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117550150100",
-    "title": "PLA Standard - Blue RAL 5015"
+    "title": "PLA Standard - Blue RAL 5015",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#B497D6FF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Purple - Lilac",
     "product_type": "Filament",
+    "series": "PLA Pastels",
     "sku": "117506040100",
-    "title": "PLA Pastels - Pastel Purple - Lilac"
+    "title": "PLA Pastels - Pastel Purple - Lilac",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#006064FF",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Peacock Blue",
     "product_type": "Filament",
+    "series": "PLA Irisés",
     "sku": "117503070100",
-    "title": "PLA Irisés - Peacock Blue"
+    "title": "PLA Irisés - Peacock Blue",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#808080FF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "2117570010100",
-    "title": "ASA - Grey"
+    "title": "ASA - Grey",
+    "updated_at": 1788471544661
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 10000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E3D5B8FF",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "10000 g",
+    "name": "Vanilla Granite",
     "product_type": "Filament",
+    "series": "PLA Granit",
     "sku": "117508031000",
-    "title": "PLA Granit - Vanilla Granite"
+    "title": "PLA Granit - Vanilla Granite",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#D9A441FF",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Beer - Byproduct",
     "product_type": "Filament",
+    "series": "PLA Coproduits",
     "sku": "117502010050",
-    "title": "PLA Coproduits - Beer - Byproduct"
+    "title": "PLA Coproduits - Beer - Byproduct",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#C9B458FF",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Yellow Granite",
     "product_type": "Filament",
+    "series": "PLA Granit",
     "sku": "117508040050",
-    "title": "PLA Granit - Yellow Granite"
+    "title": "PLA Granit - Yellow Granite",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#8C5E2AFF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "PLA Métallisés",
     "sku": "117503020100",
-    "title": "PLA Métallisés - Bronze"
+    "title": "PLA Métallisés - Bronze",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E8E8E8FF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White | PMUC Certified",
     "product_type": "Filament",
+    "series": "PLA PMUC",
     "sku": "1228500010100",
-    "title": "PLA PMUC - White | PMUC Certified"
+    "title": "PLA PMUC - White | PMUC Certified",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F5F0DCFF",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117500000050",
-    "title": "PLA Standard - Natural"
+    "title": "PLA Standard - Natural",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#1565C0FF",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "TPU 98A",
     "sku": "417550020100",
-    "title": "TPU 98A - Blue"
+    "title": "TPU 98A - Blue",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#8C8C86FF",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Grey Granite",
     "product_type": "Filament",
+    "series": "PLA Granit",
     "sku": "117508020075",
-    "title": "PLA Granit - Grey Granite"
+    "title": "PLA Granit - Grey Granite",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": "Glitter",
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#1B1B1B",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glitter Metallic Black",
     "product_type": "Filament",
+    "series": "PLA Métallisés",
     "sku": "117504040100",
-    "title": "PLA Métallisés - Glitter Metallic Black"
+    "title": "PLA Métallisés - Glitter Metallic Black",
+    "updated_at": 1792799770791
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#1565C0FF",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Blue RAL 5002",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117550020050",
-    "title": "PLA Standard - Blue RAL 5002"
+    "title": "PLA Standard - Blue RAL 5002",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FFD500FF",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Translucent Yellow",
     "product_type": "Filament",
+    "series": "PLA Translucide",
     "sku": "117508080100",
-    "title": "PLA Translucide - Translucent Yellow"
+    "title": "PLA Translucide - Translucent Yellow",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E30613FF",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "4017530200100",
-    "title": "TPU 95A - Red"
+    "title": "TPU 95A - Red",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#FF69B4FF",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink RAL 4003",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117540030100",
-    "title": "PLA Standard - Pink RAL 4003"
+    "title": "PLA Standard - Pink RAL 4003",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#808080FF",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "TPU 98A",
     "sku": "417570010100",
-    "title": "TPU 98A - Grey"
+    "title": "TPU 98A - Grey",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E85D04FF",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fire - Heliox Collection - The 4 Elements",
     "product_type": "Filament",
+    "series": "PLA Collection Heliox",
     "sku": "PLA-FEU",
-    "title": "PLA Collection Heliox - Fire - Heliox Collection - The 4 Elements"
+    "title": "PLA Collection Heliox - Fire - Heliox Collection - The 4 Elements",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#2E8B57FF",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green RAL 6018",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117560180100",
-    "title": "PLA Standard - Green RAL 6018"
+    "title": "PLA Standard - Green RAL 6018",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F2A0C1FF",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink FME (Foreign Material Exclusion) PMUC Certified",
     "product_type": "Filament",
+    "series": "PLA PMUC",
     "sku": "117540100100",
-    "title": "PLA PMUC - Pink FME (Foreign Material Exclusion) PMUC Certified"
+    "title": "PLA PMUC - Pink FME (Foreign Material Exclusion) PMUC Certified",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#48CAE4FF",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Water - Heliox Collection - The 4 Elements",
     "product_type": "Filament",
+    "series": "PLA Collection Heliox",
     "sku": "PLA-EAU",
-    "title": "PLA Collection Heliox - Water - Heliox Collection - The 4 Elements"
+    "title": "PLA Collection Heliox - Water - Heliox Collection - The 4 Elements",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#000000FF",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 98A",
     "sku": "417500010050",
-    "title": "TPU 98A - Black"
+    "title": "TPU 98A - Black",
+    "updated_at": 1788471292876
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#F2A0C1FF",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Pink FME (Foreign Material Exclusion) PMUC Certified",
     "product_type": "Filament",
+    "series": "ASA PMUC",
     "sku": "2117540100100",
-    "title": "ASA PMUC - Pink FME (Foreign Material Exclusion) PMUC Certified"
+    "title": "ASA PMUC - Pink FME (Foreign Material Exclusion) PMUC Certified",
+    "updated_at": 1788471544661
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#8B5A2BFF",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Earth - Heliox Collection - The 4 Elements",
     "product_type": "Filament",
+    "series": "PLA Collection Heliox",
     "sku": "PLA-TER",
-    "title": "PLA Collection Heliox - Earth - Heliox Collection - The 4 Elements"
+    "title": "PLA Collection Heliox - Earth - Heliox Collection - The 4 Elements",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#6A0DADFF",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Halloween Purple",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "117540050100",
-    "title": "PLA Standard - Halloween Purple"
+    "title": "PLA Standard - Halloween Purple",
+    "updated_at": 1788471165641
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#1565C0FF",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Standard",
     "sku": "317550020100",
-    "title": "PETG Standard - Blue"
+    "title": "PETG Standard - Blue",
+    "updated_at": 1788471677766
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#E0B0C8FF",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink Silver",
     "product_type": "Filament",
+    "series": "PLA Irisés",
     "sku": "117504020100",
-    "title": "PLA Irisés - Pink Silver"
+    "title": "PLA Irisés - Pink Silver",
+    "updated_at": 1788471165640
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#000000FF",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "2117500010050",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1788471544661
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FrancoFil",
     "color": "#1C1F26FF",
@@ -3972,8 +4454,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mussel - Byproduct",
     "product_type": "Filament",
+    "series": "PLA Coproduits",
     "sku": "117501020100",
-    "title": "PLA Coproduits - Mussel - Byproduct"
+    "title": "PLA Coproduits - Mussel - Byproduct",
+    "updated_at": 1788471165641
   }
 ]

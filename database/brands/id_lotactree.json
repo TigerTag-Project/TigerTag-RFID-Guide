@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#ADD8E6FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01E10K11",
-    "title": "PLA - Light Blue"
+    "title": "PLA - Light Blue",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFEB3BFF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lotactree Yellow",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18C05K11",
-    "title": "PLA-E - Lotactree Yellow"
+    "title": "PLA-E - Lotactree Yellow",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#87CEEBFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G10K11",
-    "title": "PLA Silk - Sky Blue"
+    "title": "PLA Silk - Sky Blue",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#F5F5DCFF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01A11K11",
-    "title": "PLA - Beige"
+    "title": "PLA - Beige",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#22A94CFF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA-E Refill",
     "sku": "LTP18D02K12",
-    "title": "PLA-E Refill - Green"
+    "title": "PLA-E Refill - Green",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#9099A2FF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cool Grey Luminous",
     "product_type": "Filament",
+    "series": "PLA-F Luminous",
     "sku": "LTP03A02K11",
-    "title": "PLA-F Luminous - Cool Grey Luminous"
+    "title": "PLA-F Luminous - Cool Grey Luminous",
+    "updated_at": 1788427780510
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09A01K12",
-    "title": "PLA Silk - Black"
+    "title": "PLA Silk - Black",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFF33",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01C03K11",
-    "title": "PLA - Neon Yellow"
+    "title": "PLA - Neon Yellow",
+    "updated_at": 1792797757903
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#9099A2FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cool Grey",
     "product_type": "Filament",
+    "series": "PLA-F",
     "sku": "LTP04A02K11",
-    "title": "PLA-F - Cool Grey"
+    "title": "PLA-F - Cool Grey",
+    "updated_at": 1788427737684
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LTA01A01K11",
-    "title": "ABS - Black"
+    "title": "ABS - Black",
+    "updated_at": 1788264042216
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 250
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "250 g",
+    "name": "TPU Black 250g",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LTT01A01G01",
-    "title": "TPU - TPU Black 250g"
+    "title": "TPU - TPU Black 250g",
+    "updated_at": 1788427824285
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Milky White",
     "product_type": "Filament",
+    "series": "PLA-E Refill",
     "sku": "LTP18A05K12",
-    "title": "PLA-E Refill - Milky White"
+    "title": "PLA-E Refill - Milky White",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "TPU White 1kg",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LTT01A00K11",
-    "title": "TPU - TPU White 1kg"
+    "title": "TPU - TPU White 1kg",
+    "updated_at": 1788427824285
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFF5EEFF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Marshmallow",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01B03K12",
-    "title": "PLA Refill - Marshmallow"
+    "title": "PLA Refill - Marshmallow",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#B87333FF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red Copper",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G11K11",
-    "title": "PLA Silk - Red Copper"
+    "title": "PLA Silk - Red Copper",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1
     },
+    "aspect1": "Clear",
+    "aspect2": "Translucent",
     "barcode": "LTG01L06K11",
     "brand": "Lotactree",
     "color": "#00FF59",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1 kg",
+    "name": "Transparent Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01L06K11",
-    "title": "PETG - Transparent Green"
+    "title": "PETG - Transparent Green",
+    "updated_at": 1793723560559
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#2E86C1FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lake Blue",
     "product_type": "Filament",
+    "series": "PLA-E Refill",
     "sku": "LTP18E01K12",
-    "title": "PLA-E Refill - Lake Blue"
+    "title": "PLA-E Refill - Lake Blue",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C68642FF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Oak (Refill)",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01F06K12",
-    "title": "PLA Refill - Oak (Refill)"
+    "title": "PLA Refill - Oak (Refill)",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black Luminous",
     "product_type": "Filament",
+    "series": "PLA-F Luminous",
     "sku": "LTP03A01K11",
-    "title": "PLA-F Luminous - Black Luminous"
+    "title": "PLA-F Luminous - Black Luminous",
+    "updated_at": 1788427780510
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#9099A2FF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cool Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01A02K11",
-    "title": "PLA - Cool Grey"
+    "title": "PLA - Cool Grey",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01A01K12",
-    "title": "PLA Refill - Black"
+    "title": "PLA Refill - Black",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D32F2FFF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA-F",
     "sku": "LTP04B00K11",
-    "title": "PLA-F - Red"
+    "title": "PLA-F - Red",
+    "updated_at": 1788427737684
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "LTP04F01K11",
     "brand": "Lotactree",
     "color": "#FFBB29FF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1 kg",
+    "name": "PLA-F GOLD",
     "product_type": "Filament",
+    "series": "PLA Force",
     "sku": "LTP04F01K11",
-    "title": "PLA Force - PLA-F GOLD"
+    "title": "PLA Force - PLA-F GOLD",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C19A6B",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lotactree Wood",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01F00K11",
-    "title": "PLA - Lotactree Wood"
+    "title": "PLA - Lotactree Wood",
+    "updated_at": 1792797946466
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF6EC7",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01B07K11",
-    "title": "PLA - Neon Pink"
+    "title": "PLA - Neon Pink",
+    "updated_at": 1792797969769
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#2E86C1FF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lake Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01E01K11",
-    "title": "PLA - Lake Blue"
+    "title": "PLA - Lake Blue",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFD500FF",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lego Yellow",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01C01K12",
-    "title": "PLA Refill - Lego Yellow"
+    "title": "PLA Refill - Lego Yellow",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LTA01A00K11",
-    "title": "ABS - White"
+    "title": "ABS - White",
+    "updated_at": 1788264042216
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C41E3AFF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Chinese Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01B00K11",
-    "title": "PETG - Chinese Red"
+    "title": "PETG - Chinese Red",
+    "updated_at": 1788427232581
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C19A6B",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01F00K12",
-    "title": "PLA Refill - Wood"
+    "title": "PLA Refill - Wood",
+    "updated_at": 1792798000091
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D32F2FFF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "LTC01B00K11",
-    "title": "PC - Red"
+    "title": "PC - Red",
+    "updated_at": 1788427192216
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000080FF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Navy Blue (Refill)",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01E11K12",
-    "title": "PLA Refill - Navy Blue (Refill)"
+    "title": "PLA Refill - Navy Blue (Refill)",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#1565C0FF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA-F",
     "sku": "LTP04E02K11",
-    "title": "PLA-F - Blue"
+    "title": "PLA-F - Blue",
+    "updated_at": 1788427737684
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#9099A2FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cool Grey",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01A02K11",
-    "title": "PETG - Cool Grey"
+    "title": "PETG - Cool Grey",
+    "updated_at": 1788427232581
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D4AF37FF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01F01K11",
-    "title": "PLA - Gold"
+    "title": "PLA - Gold",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Snowy White",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18A00K11",
-    "title": "PLA-E - Snowy White"
+    "title": "PLA-E - Snowy White",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#00FFFFFF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01D07K11",
-    "title": "PLA - Cyan"
+    "title": "PLA - Cyan",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18A01K11",
-    "title": "PLA-E - Black"
+    "title": "PLA-E - Black",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D32F2FFF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G02K11",
-    "title": "PLA Silk - Red"
+    "title": "PLA Silk - Red",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Snowy White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01A00K11",
-    "title": "PETG - Snowy White"
+    "title": "PETG - Snowy White",
+    "updated_at": 1788427232581
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#5C4033FF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Walnut",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01F04K12",
-    "title": "PLA Refill - Walnut"
+    "title": "PLA Refill - Walnut",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Black",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G01K11",
-    "title": "PLA Silk - Silk Black"
+    "title": "PLA Silk - Silk Black",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF5F1F",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01C04K11",
-    "title": "PLA - Neon Orange"
+    "title": "PLA - Neon Orange",
+    "updated_at": 1792798088285
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#1565C0FF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01E02K11",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D32F2FFF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18B00K11",
-    "title": "PLA-E - Red"
+    "title": "PLA-E - Red",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFDBACFF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Flesh Color",
     "product_type": "Filament",
+    "series": "PLA-F",
     "sku": "LTP04B04K11",
-    "title": "PLA-F - Flesh Color"
+    "title": "PLA-F - Flesh Color",
+    "updated_at": 1788427737684
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFD500FF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lego Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01C01K11",
-    "title": "PLA - Lego Yellow"
+    "title": "PLA - Lego Yellow",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 250
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFC90EFF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "250 g",
+    "name": "TPU Yellow 250g",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LTT01C01G01",
-    "title": "TPU - TPU Yellow 250g"
+    "title": "TPU - TPU Yellow 250g",
+    "updated_at": 1788427824285
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black & Deep Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09H02K11",
-    "title": "PLA Silk - Black & Deep Gold"
+    "title": "PLA Silk - Black & Deep Gold",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#4CAF5033",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Translucent Green",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "LTP18L06K13",
-    "title": "PLA Translucent - Translucent Green"
+    "title": "PLA Translucent - Translucent Green",
+    "updated_at": 1788427486727
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C3B1E1FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01E03K11",
-    "title": "PLA - Light Purple"
+    "title": "PLA - Light Purple",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF5F1F",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Orange (Refill)",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01C04K12",
-    "title": "PLA Refill - Neon Orange (Refill)"
+    "title": "PLA Refill - Neon Orange (Refill)",
+    "updated_at": 1792798166309
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black & Purple",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09H06K11",
-    "title": "PLA Silk - Black & Purple"
+    "title": "PLA Silk - Black & Purple",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#6A0DADFF",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01E04K11",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1788427294165
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFDBACFF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Flesh Color",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01B04K12",
-    "title": "PLA Refill - Flesh Color"
+    "title": "PLA Refill - Flesh Color",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Snowy White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01A00K11",
-    "title": "PLA - Snowy White"
+    "title": "PLA - Snowy White",
+    "updated_at": 1788427294165
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FDF5E6FF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lotactree Warm White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01A03K11",
-    "title": "PLA - Lotactree Warm White"
+    "title": "PLA - Lotactree Warm White",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#013220FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ink Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G07K11",
-    "title": "PLA Silk - Ink Green"
+    "title": "PLA Silk - Ink Green",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1
     },
+    "aspect1": "Clear",
+    "aspect2": "Translucent",
     "barcode": "LTG01L07K11",
     "brand": "Lotactree",
     "color": "#D4FF00",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1 kg",
+    "name": "Transparent Lemon",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01L07K11",
-    "title": "PETG - Transparent Lemon"
+    "title": "PETG - Transparent Lemon",
+    "updated_at": 1793723211945
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PA6 Ease",
     "sku": "LTN04A00K11",
-    "title": "PA6 Ease - White"
+    "title": "PA6 Ease - White",
+    "updated_at": 1788427158423
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#DE3163FF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cherry",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01F03K11",
-    "title": "PLA - Cherry"
+    "title": "PLA - Cherry",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFD500FF",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Lego Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01C01K11",
-    "title": "PETG - Lego Yellow"
+    "title": "PETG - Lego Yellow",
+    "updated_at": 1788427232581
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C19A6B",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lotactree Wood",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18F00K11",
-    "title": "PLA-E - Lotactree Wood"
+    "title": "PLA-E - Lotactree Wood",
+    "updated_at": 1792798914468
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFB6C1FF",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01B01K11",
-    "title": "PLA - Light Pink"
+    "title": "PLA - Light Pink",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#22A94CFF",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18D02K11",
-    "title": "PLA-E - Green"
+    "title": "PLA-E - Green",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "LTC01A01K11",
-    "title": "PC - Black"
+    "title": "PC - Black",
+    "updated_at": 1788427192216
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D32F2FFF",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PA6 Ease",
     "sku": "LTN04B00K11",
-    "title": "PA6 Ease - Red"
+    "title": "PA6 Ease - Red",
+    "updated_at": 1788427158423
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#22A94CFF",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01D02K11",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1788427232581
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C0C0C0FF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18F02K11",
-    "title": "PLA-E - Silver"
+    "title": "PLA-E - Silver",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA6 Ease",
     "sku": "LTN04A01K11",
-    "title": "PA6 Ease - Black"
+    "title": "PA6 Ease - Black",
+    "updated_at": 1788427158423
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01A01K11",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#1565C0FF",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01E02K12",
-    "title": "PLA Refill - Blue"
+    "title": "PLA Refill - Blue",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF69B4",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Hot Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01B06K11",
-    "title": "PLA - Neon Hot Pink"
+    "title": "PLA - Neon Hot Pink",
+    "updated_at": 1792799025581
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Lotactree White",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "LTC01A00K11",
-    "title": "PC - Lotactree White"
+    "title": "PC - Lotactree White",
+    "updated_at": 1788427192216
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF69B4FF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Tricolor Pink/Green/Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09J01K11",
-    "title": "PLA Silk - Tricolor Pink/Green/Blue"
+    "title": "PLA Silk - Tricolor Pink/Green/Blue",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D9D9D9",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Marble",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01F10K11",
-    "title": "PLA - Marble"
+    "title": "PLA - Marble",
+    "updated_at": 1792799085472
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#B8860BFF",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Deep Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G17K12",
-    "title": "PLA Silk - Deep Gold"
+    "title": "PLA Silk - Deep Gold",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#22A94CFF",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA-F",
     "sku": "LTP04D02K11",
-    "title": "PLA-F - Green"
+    "title": "PLA-F - Green",
+    "updated_at": 1788427737684
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#9099A2FF",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cool Grey",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01A02K12",
-    "title": "PLA Refill - Cool Grey"
+    "title": "PLA Refill - Cool Grey",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -3265,6 +3660,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF0000",
@@ -3283,9 +3680,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red & Orange & Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09J03K11",
-    "title": "PLA Silk - Red & Orange & Gold"
+    "title": "PLA Silk - Red & Orange & Gold",
+    "updated_at": 1791797938437
   },
   {
     "RFID_Data": {
@@ -3308,6 +3708,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#2E86C1FF",
@@ -3324,9 +3726,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lake Blue",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01E01K12",
-    "title": "PLA Refill - Lake Blue"
+    "title": "PLA Refill - Lake Blue",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -3349,6 +3754,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
@@ -3365,9 +3772,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Milky White",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01A05K12",
-    "title": "PLA Refill - Milky White"
+    "title": "PLA Refill - Milky White",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -3390,6 +3800,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF7F00FF",
@@ -3406,9 +3818,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA-F",
     "sku": "LTP04C00K11",
-    "title": "PLA-F - Orange"
+    "title": "PLA-F - Orange",
+    "updated_at": 1788427737684
   },
   {
     "RFID_Data": {
@@ -3431,6 +3846,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF7F00FF",
@@ -3447,9 +3864,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange (Refill)",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01C00K12",
-    "title": "PLA Refill - Orange (Refill)"
+    "title": "PLA Refill - Orange (Refill)",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -3472,6 +3892,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFD500FF",
@@ -3488,9 +3910,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lego Yellow",
     "product_type": "Filament",
+    "series": "PLA-F",
     "sku": "LTP04C01K11",
-    "title": "PLA-F - Lego Yellow"
+    "title": "PLA-F - Lego Yellow",
+    "updated_at": 1788427737684
   },
   {
     "RFID_Data": {
@@ -3513,6 +3938,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#95A5A6FF",
@@ -3529,9 +3956,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Concrete Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01A06K11",
-    "title": "PLA - Concrete Grey"
+    "title": "PLA - Concrete Grey",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -3554,6 +3984,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -3570,9 +4002,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Snowy White",
     "product_type": "Filament",
+    "series": "PLA-F",
     "sku": "LTP04A00K11",
-    "title": "PLA-F - Snowy White"
+    "title": "PLA-F - Snowy White",
+    "updated_at": 1788427737684
   },
   {
     "RFID_Data": {
@@ -3595,6 +4030,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#E8F600FF",
@@ -3611,9 +4048,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Acid Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01C02K11",
-    "title": "PLA - Acid Yellow"
+    "title": "PLA - Acid Yellow",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -3636,6 +4076,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF69B4FF",
@@ -3652,9 +4094,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Tricolor Pink/Green/Dark Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09J00K11",
-    "title": "PLA Silk - Tricolor Pink/Green/Dark Blue"
+    "title": "PLA Silk - Tricolor Pink/Green/Dark Blue",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -3680,6 +4125,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF69B4",
@@ -3697,9 +4144,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rainbow Candy",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09J07K11",
-    "title": "PLA Silk - Rainbow Candy"
+    "title": "PLA Silk - Rainbow Candy",
+    "updated_at": 1792799253085
   },
   {
     "RFID_Data": {
@@ -3722,6 +4172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#228B22FF",
@@ -3738,9 +4190,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Forest Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01D05K11",
-    "title": "PLA - Forest Green"
+    "title": "PLA - Forest Green",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -3763,6 +4218,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D32F2FFF",
@@ -3779,9 +4236,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red/Black",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09H03K11",
-    "title": "PLA Silk - Red/Black"
+    "title": "PLA Silk - Red/Black",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -3804,6 +4264,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFF5EEFF",
@@ -3820,9 +4282,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Marshmallow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01B03K11",
-    "title": "PLA - Marshmallow"
+    "title": "PLA - Marshmallow",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -3845,6 +4310,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C8E6C9FF",
@@ -3861,9 +4328,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Force Glow Green",
     "product_type": "Filament",
+    "series": "PLA Force",
     "sku": "LTP04K00K11",
-    "title": "PLA Force - Force Glow Green"
+    "title": "PLA Force - Force Glow Green",
+    "updated_at": 1788427330314
   },
   {
     "RFID_Data": {
@@ -3886,6 +4356,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFB6C1FF",
@@ -3902,9 +4374,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Pink",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01B01K12",
-    "title": "PLA Refill - Light Pink"
+    "title": "PLA Refill - Light Pink",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -3927,6 +4402,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#B5A642FF",
@@ -3943,9 +4420,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Greenish Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G08K11",
-    "title": "PLA Silk - Greenish Gold"
+    "title": "PLA Silk - Greenish Gold",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -3968,6 +4448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -3984,9 +4466,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Snowy White",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01A00K12",
-    "title": "PLA Refill - Snowy White"
+    "title": "PLA Refill - Snowy White",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -4009,6 +4494,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -4025,9 +4512,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-F",
     "sku": "LTP04A01K11",
-    "title": "PLA-F - Black"
+    "title": "PLA-F - Black",
+    "updated_at": 1788427737684
   },
   {
     "RFID_Data": {
@@ -4050,6 +4540,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#F5F5DCFF",
@@ -4066,9 +4558,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18A11K11",
-    "title": "PLA-E - Beige"
+    "title": "PLA-E - Beige",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -4091,6 +4586,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#8B4513FF",
@@ -4107,9 +4604,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01A07K12",
-    "title": "PLA Refill - Brown"
+    "title": "PLA Refill - Brown",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -4132,6 +4632,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C68642FF",
@@ -4148,9 +4650,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Oak",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01F06K11",
-    "title": "PLA - Oak"
+    "title": "PLA - Oak",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -4173,6 +4678,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF7F00FF",
@@ -4189,9 +4696,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G00K11",
-    "title": "PLA Silk - Orange"
+    "title": "PLA Silk - Orange",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -4214,6 +4724,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#013220FF",
@@ -4230,9 +4742,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ink Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G07K12",
-    "title": "PLA Silk - Ink Green"
+    "title": "PLA Silk - Ink Green",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -4255,6 +4770,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#6A0DADFF",
@@ -4271,9 +4788,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18E04K11",
-    "title": "PLA-E - Purple"
+    "title": "PLA-E - Purple",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -4296,6 +4816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#B0E0E6FF",
@@ -4312,9 +4834,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Powder Blue",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18E12K11",
-    "title": "PLA-E - Powder Blue"
+    "title": "PLA-E - Powder Blue",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -4337,6 +4862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#002FA7FF",
@@ -4353,9 +4880,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Klein Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01E00K11",
-    "title": "PLA - Klein Blue"
+    "title": "PLA - Klein Blue",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -4378,6 +4908,8 @@
       "id_unit": 21,
       "measure": 1
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "LTP01C05K11",
     "brand": "Lotactree",
     "color": "#FBFF00",
@@ -4394,9 +4926,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1 kg",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01C05K11",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1793722086841
   },
   {
     "RFID_Data": {
@@ -4419,6 +4954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#98FF98FF",
@@ -4435,9 +4972,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01D00K11",
-    "title": "PLA - Mint Green"
+    "title": "PLA - Mint Green",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -4460,6 +5000,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000080FF",
@@ -4476,9 +5018,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01E11K11",
-    "title": "PLA - Navy Blue"
+    "title": "PLA - Navy Blue",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -4501,6 +5046,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#95A5A6FF",
@@ -4517,9 +5064,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Concrete Grey",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01A06K12",
-    "title": "PLA Refill - Concrete Grey"
+    "title": "PLA Refill - Concrete Grey",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -4542,6 +5092,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FDF5E6FF",
@@ -4558,9 +5110,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Warm White",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01A03K12",
-    "title": "PLA Refill - Warm White"
+    "title": "PLA Refill - Warm White",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -4583,6 +5138,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
@@ -4599,9 +5156,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Milky White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01A05K11",
-    "title": "PLA - Milky White"
+    "title": "PLA - Milky White",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -4624,6 +5184,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#9099A2FF",
@@ -4640,9 +5202,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cool Grey",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18A02K11",
-    "title": "PLA-E - Cool Grey"
+    "title": "PLA-E - Cool Grey",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -4665,6 +5230,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#6A0DADFF",
@@ -4681,9 +5248,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple (Refill)",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01E04K12",
-    "title": "PLA Refill - Purple (Refill)"
+    "title": "PLA Refill - Purple (Refill)",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -4706,6 +5276,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF69B4FF",
@@ -4722,9 +5294,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rose Red & Sky Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09H12K11",
-    "title": "PLA Silk - Rose Red & Sky Blue"
+    "title": "PLA Silk - Rose Red & Sky Blue",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -4747,6 +5322,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#1565C0FF",
@@ -4763,9 +5340,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "TPU Blue 1kg",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LTT01E02K11",
-    "title": "TPU - TPU Blue 1kg"
+    "title": "TPU - TPU Blue 1kg",
+    "updated_at": 1788427824285
   },
   {
     "RFID_Data": {
@@ -4788,6 +5368,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#39FF14",
@@ -4804,9 +5386,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01D04K11",
-    "title": "PLA - Neon Green"
+    "title": "PLA - Neon Green",
+    "updated_at": 1792799634786
   },
   {
     "RFID_Data": {
@@ -4829,6 +5414,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#B08D57FF",
@@ -4845,9 +5432,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Teak",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01F05K12",
-    "title": "PLA Refill - Teak"
+    "title": "PLA Refill - Teak",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -4870,6 +5460,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#B08D57FF",
@@ -4886,9 +5478,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lotactree Teak",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01F05K11",
-    "title": "PLA - Lotactree Teak"
+    "title": "PLA - Lotactree Teak",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -4911,6 +5506,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFDBACFF",
@@ -4927,9 +5524,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Flesh Color",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01B04K11",
-    "title": "PLA - Flesh Color"
+    "title": "PLA - Flesh Color",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -4952,6 +5552,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#2E86C1FF",
@@ -4968,9 +5570,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "TPU Lake Blue",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LTT01E01K11",
-    "title": "TPU - TPU Lake Blue"
+    "title": "TPU - TPU Lake Blue",
+    "updated_at": 1788427824285
   },
   {
     "RFID_Data": {
@@ -4993,6 +5598,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D4AF37FF",
@@ -5009,9 +5616,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18F01K11",
-    "title": "PLA-E - Gold"
+    "title": "PLA-E - Gold",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -5040,6 +5650,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D81F26",
@@ -5058,9 +5670,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Force Glow Rainbow",
     "product_type": "Filament",
+    "series": "PLA Force",
     "sku": "LTP04J05K11",
-    "title": "PLA Force - Force Glow Rainbow"
+    "title": "PLA Force - Force Glow Rainbow",
+    "updated_at": 1792799699506
   },
   {
     "RFID_Data": {
@@ -5083,6 +5698,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#00008BFF",
@@ -5099,9 +5716,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G09K11",
-    "title": "PLA Silk - Dark Blue"
+    "title": "PLA Silk - Dark Blue",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -5124,6 +5744,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#22A94CFF",
@@ -5140,9 +5762,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01D02K12",
-    "title": "PLA Refill - Green"
+    "title": "PLA Refill - Green",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -5165,6 +5790,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -5181,9 +5808,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-E Refill",
     "sku": "LTP18A01K12",
-    "title": "PLA-E Refill - Black"
+    "title": "PLA-E Refill - Black",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -5206,6 +5836,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000",
@@ -5222,9 +5854,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS-LITE",
     "sku": "LTA03A01K11",
-    "title": "ABS-LITE - Black"
+    "title": "ABS-LITE - Black",
+    "updated_at": 1793800224848
   },
   {
     "RFID_Data": {
@@ -5247,6 +5882,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#1565C0FF",
@@ -5263,9 +5900,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01E02K11",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1788427232581
   },
   {
     "RFID_Data": {
@@ -5288,6 +5928,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -5304,9 +5946,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "LTA03A00K11",
-    "title": "ASA - White"
+    "title": "ASA - White",
+    "updated_at": 1788427123388
   },
   {
     "RFID_Data": {
@@ -5329,6 +5974,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#848789",
@@ -5345,9 +5992,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Metallic Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01A04K11",
-    "title": "PLA - Metallic Grey"
+    "title": "PLA - Metallic Grey",
+    "updated_at": 1792799744903
   },
   {
     "RFID_Data": {
@@ -5370,6 +6020,8 @@
       "id_unit": 21,
       "measure": 1
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000",
@@ -5386,9 +6038,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1 kg",
+    "name": "ASA-CF 15",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "LTS03A01K11",
-    "title": "ASA - ASA-CF 15"
+    "title": "ASA - ASA-CF 15",
+    "updated_at": 1793721311234
   },
   {
     "RFID_Data": {
@@ -5411,6 +6066,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#CE1620FF",
@@ -5427,9 +6084,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apple Red",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01B02K12",
-    "title": "PLA Refill - Apple Red"
+    "title": "PLA Refill - Apple Red",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -5452,6 +6112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D32F2FFF",
@@ -5468,9 +6130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01B00K11",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1788427294165
   },
   {
     "RFID_Data": {
@@ -5493,6 +6158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
@@ -5509,9 +6176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Milky White Luminous",
     "product_type": "Filament",
+    "series": "PLA-F Luminous",
     "sku": "LTP03A05K11",
-    "title": "PLA-F Luminous - Milky White Luminous"
+    "title": "PLA-F Luminous - Milky White Luminous",
+    "updated_at": 1788427780510
   },
   {
     "RFID_Data": {
@@ -5534,6 +6204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -5550,9 +6222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black & Red & Orange",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09J13K11",
-    "title": "PLA Silk - Black & Red & Orange"
+    "title": "PLA Silk - Black & Red & Orange",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -5575,6 +6250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#B0E0E6FF",
@@ -5591,9 +6268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Powder Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01E12K11",
-    "title": "PLA - Powder Blue"
+    "title": "PLA - Powder Blue",
+    "updated_at": 1788427294165
   },
   {
     "RFID_Data": {
@@ -5616,6 +6296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#4B5320FF",
@@ -5632,9 +6314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01D01K11",
-    "title": "PLA - Army Green"
+    "title": "PLA - Army Green",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -5657,6 +6342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF7F00FF",
@@ -5673,9 +6360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01C00K11",
-    "title": "PLA - Orange"
+    "title": "PLA - Orange",
+    "updated_at": 1788427294165
   },
   {
     "RFID_Data": {
@@ -5698,6 +6388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#00FFFFFF",
@@ -5714,9 +6406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01D07K12",
-    "title": "PLA Refill - Cyan"
+    "title": "PLA Refill - Cyan",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -5739,6 +6434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#002FA7FF",
@@ -5755,9 +6452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Klein Blue",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01E00K12",
-    "title": "PLA Refill - Klein Blue"
+    "title": "PLA Refill - Klein Blue",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -5780,6 +6480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#9099A2FF",
@@ -5796,9 +6498,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cool Grey",
     "product_type": "Filament",
+    "series": "PLA-E Refill",
     "sku": "LTP18A02K12",
-    "title": "PLA-E Refill - Cool Grey"
+    "title": "PLA-E Refill - Cool Grey",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -5821,6 +6526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -5837,9 +6544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black & Red & Purple",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09J02K11",
-    "title": "PLA Silk - Black & Red & Purple"
+    "title": "PLA Silk - Black & Red & Purple",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -5862,6 +6572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#00FFFFFF",
@@ -5878,9 +6590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G16K11",
-    "title": "PLA Silk - Cyan"
+    "title": "PLA Silk - Cyan",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -5903,6 +6618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D4AF37FF",
@@ -5919,9 +6636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA-E Refill",
     "sku": "LTP18F01K12",
-    "title": "PLA-E Refill - Gold"
+    "title": "PLA-E Refill - Gold",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -5944,6 +6664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -5960,9 +6682,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01A01K11",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1788427232581
   },
   {
     "RFID_Data": {
@@ -5985,6 +6710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#5C4033FF",
@@ -6001,9 +6728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lotactree Walnut",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01F04K11",
-    "title": "PLA - Lotactree Walnut"
+    "title": "PLA - Lotactree Walnut",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -6026,6 +6756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C0C0C0FF",
@@ -6042,9 +6774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01F02K12",
-    "title": "PLA Refill - Silver"
+    "title": "PLA Refill - Silver",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -6067,6 +6802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D32F2FFF",
@@ -6083,9 +6820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red (Refill)",
     "product_type": "Filament",
+    "series": "PLA-E Refill",
     "sku": "LTP18B00K12",
-    "title": "PLA-E Refill - Red (Refill)"
+    "title": "PLA-E Refill - Red (Refill)",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -6108,6 +6848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#22A94CFF",
@@ -6124,9 +6866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G05K11",
-    "title": "PLA Silk - Green"
+    "title": "PLA Silk - Green",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -6149,6 +6894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#98FF98FF",
@@ -6165,9 +6912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mint Green (Refill)",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01D00K12",
-    "title": "PLA Refill - Mint Green (Refill)"
+    "title": "PLA Refill - Mint Green (Refill)",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -6190,6 +6940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C0C0C0FF",
@@ -6206,9 +6958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09F02K12",
-    "title": "PLA Silk - Silver"
+    "title": "PLA Silk - Silver",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -6231,6 +6986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFD1DC",
@@ -6247,9 +7004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01B05K11",
-    "title": "PLA - Pastel Pink"
+    "title": "PLA - Pastel Pink",
+    "updated_at": 1792799937566
   },
   {
     "RFID_Data": {
@@ -6272,6 +7032,8 @@
       "id_unit": 21,
       "measure": 1
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "LTP01C06K11",
     "brand": "Lotactree",
     "color": "#FF6600",
@@ -6288,9 +7050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1 kg",
+    "name": "Carrot Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01C06K11",
-    "title": "PLA - Carrot Orange"
+    "title": "PLA - Carrot Orange",
+    "updated_at": 1793722306900
   },
   {
     "RFID_Data": {
@@ -6313,6 +7078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#9E9E9EFF",
@@ -6329,9 +7096,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "LTA03A02K11",
-    "title": "ASA - Grey"
+    "title": "ASA - Grey",
+    "updated_at": 1788427123388
   },
   {
     "RFID_Data": {
@@ -6354,6 +7124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#B8860BFF",
@@ -6370,9 +7142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Deep Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G17K11",
-    "title": "PLA Silk - Deep Gold"
+    "title": "PLA Silk - Deep Gold",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -6395,6 +7170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#900C3FFF",
@@ -6411,9 +7188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple Red",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G14K11",
-    "title": "PLA Silk - Purple Red"
+    "title": "PLA Silk - Purple Red",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -6436,6 +7216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C0C0C0FF",
@@ -6452,9 +7234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G12K11",
-    "title": "PLA Silk - Silver"
+    "title": "PLA Silk - Silver",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -6477,6 +7262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D32F2FFF",
@@ -6493,9 +7280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red (Refill)",
     "product_type": "Filament",
+    "series": "PLA Refill",
     "sku": "LTP01B00K12",
-    "title": "PLA Refill - Red (Refill)"
+    "title": "PLA Refill - Red (Refill)",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -6518,6 +7308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#CE1620FF",
@@ -6534,9 +7326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apple Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01B02K11",
-    "title": "PLA - Apple Red"
+    "title": "PLA - Apple Red",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -6559,6 +7354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFF1A",
@@ -6575,9 +7372,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Lotactree Transparent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01L14K11",
-    "title": "PETG - Lotactree Transparent"
+    "title": "PETG - Lotactree Transparent",
+    "updated_at": 1788427232581
   },
   {
     "RFID_Data": {
@@ -6600,6 +7400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000",
@@ -6616,9 +7418,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "LTS01A01K11",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1793800193303
   },
   {
     "RFID_Data": {
@@ -6641,6 +7446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#F5F5DCFF",
@@ -6657,9 +7464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA-E Refill",
     "sku": "LTP18A11K12",
-    "title": "PLA-E Refill - Beige"
+    "title": "PLA-E Refill - Beige",
+    "updated_at": 1788511943075
   },
   {
     "RFID_Data": {
@@ -6682,6 +7492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFD1DC",
@@ -6698,9 +7510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Pink",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18B05K11",
-    "title": "PLA-E - Pastel Pink"
+    "title": "PLA-E - Pastel Pink",
+    "updated_at": 1792800097697
   },
   {
     "RFID_Data": {
@@ -6723,6 +7538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#22A94CFF",
@@ -6739,9 +7556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01D02K11",
-    "title": "PLA - Green"
+    "title": "PLA - Green",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -6764,6 +7584,8 @@
       "id_unit": 21,
       "measure": 1
     },
+    "aspect1": "Translucent",
+    "aspect2": "Clear",
     "barcode": "LTG01L01K11",
     "brand": "Lotactree",
     "color": "#E100FF",
@@ -6780,9 +7602,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1 kg",
+    "name": "Transparent Purple",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG01L01K11",
-    "title": "PETG - Transparent Purple"
+    "title": "PETG - Transparent Purple",
+    "updated_at": 1793722998194
   },
   {
     "RFID_Data": {
@@ -6805,6 +7630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FFFFFFFF",
@@ -6821,9 +7648,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS-LITE",
     "sku": "LTS01A00K11",
-    "title": "ABS-LITE - White"
+    "title": "ABS-LITE - White",
+    "updated_at": 1788427076886
   },
   {
     "RFID_Data": {
@@ -6846,6 +7676,8 @@
       "id_unit": 21,
       "measure": 250
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#1565C0FF",
@@ -6862,9 +7694,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "250 g",
+    "name": "TPU Blue 250g",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LTT01E02G01",
-    "title": "TPU - TPU Blue 250g"
+    "title": "TPU - TPU Blue 250g",
+    "updated_at": 1788427824285
   },
   {
     "RFID_Data": {
@@ -6887,6 +7722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#000000FF",
@@ -6903,9 +7740,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "TPU Black 1kg",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LTT01A01K11",
-    "title": "TPU - TPU Black 1kg"
+    "title": "TPU - TPU Black 1kg",
+    "updated_at": 1788427824285
   },
   {
     "RFID_Data": {
@@ -6928,6 +7768,8 @@
       "id_unit": 21,
       "measure": 1
     },
+    "aspect1": "Carbon",
+    "aspect2": "Basic",
     "barcode": "LTA05A01K11",
     "brand": "Lotactree",
     "color": "#000000",
@@ -6944,9 +7786,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1 kg",
+    "name": "ABS-CF 15",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LTA05A01K11",
-    "title": "ABS - ABS-CF 15"
+    "title": "ABS - ABS-CF 15",
+    "updated_at": 1793721625159
   },
   {
     "RFID_Data": {
@@ -6969,6 +7814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#B3E5FCFF",
@@ -6985,9 +7832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Force Glow Light Blue",
     "product_type": "Filament",
+    "series": "PLA Force",
     "sku": "LTP04K01K11",
-    "title": "PLA Force - Force Glow Light Blue"
+    "title": "PLA Force - Force Glow Light Blue",
+    "updated_at": 1788427330314
   },
   {
     "RFID_Data": {
@@ -7010,6 +7860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#FF7F00FF",
@@ -7026,9 +7878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18C00K11",
-    "title": "PLA-E - Orange"
+    "title": "PLA-E - Orange",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -7051,6 +7906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#F2F2F0FF",
@@ -7067,9 +7924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Milky White",
     "product_type": "Filament",
+    "series": "PLA-E",
     "sku": "LTP18A05K11",
-    "title": "PLA-E - Milky White"
+    "title": "PLA-E - Milky White",
+    "updated_at": 1788427527717
   },
   {
     "RFID_Data": {
@@ -7092,6 +7952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Pearl",
     "barcode": null,
     "brand": "Lotactree",
     "color": "#F2F2F0",
@@ -7108,9 +7970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearl White",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G15K13",
-    "title": "PLA Silk - Pearl White"
+    "title": "PLA Silk - Pearl White",
+    "updated_at": 1792844631118
   },
   {
     "RFID_Data": {
@@ -7133,6 +7998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#8B4513FF",
@@ -7149,9 +8016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01A07K11",
-    "title": "PLA - Brown"
+    "title": "PLA - Brown",
+    "updated_at": 1788427294164
   },
   {
     "RFID_Data": {
@@ -7174,6 +8044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#C0C0C0FF",
@@ -7190,9 +8062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LTP01F02K11",
-    "title": "PLA - Silver"
+    "title": "PLA - Silver",
+    "updated_at": 1788427294165
   },
   {
     "RFID_Data": {
@@ -7215,6 +8090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Lotactree",
     "color": "#D4AF37FF",
@@ -7231,9 +8108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "LTP09G04K11",
-    "title": "PLA Silk - Gold"
+    "title": "PLA Silk - Gold",
+    "updated_at": 1788427441868
   },
   {
     "RFID_Data": {
@@ -7256,6 +8136,8 @@
       "id_unit": 21,
       "measure": 1
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "LTG04A01K11",
     "brand": "Lotactree",
     "color": "#000000",
@@ -7272,8 +8154,11 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1 kg",
+    "name": "PETG-CF 20",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "LTG04A01K11",
-    "title": "PETG - PETG-CF 20"
+    "title": "PETG - PETG-CF 20",
+    "updated_at": 1793722660584
   }
 ]

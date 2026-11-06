@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#000000",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LONGER-ABS-BLACK",
-    "title": "ABS - Black"
+    "title": "ABS - Black",
+    "updated_at": 1792796167397
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#E6C88A",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light gold",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-LIGHTGOLD",
-    "title": "PLA - Light gold"
+    "title": "PLA - Light gold",
+    "updated_at": 1792796206205
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#0000FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-BLUE",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1792796192594
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FFD700",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-GOLD",
-    "title": "PLA - Gold"
+    "title": "PLA - Gold",
+    "updated_at": 1792796198804
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FF00FF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fuchsia",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-FUCHSIA",
-    "title": "PLA - Fuchsia"
+    "title": "PLA - Fuchsia",
+    "updated_at": 1792796198970
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#CD7F32",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-BRONZE",
-    "title": "PLA - Bronze"
+    "title": "PLA - Bronze",
+    "updated_at": 1792796192484
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#00FFFF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-CYAN",
-    "title": "PLA - Cyan"
+    "title": "PLA - Cyan",
+    "updated_at": 1792796192700
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#C0C0C0",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-SILVER",
-    "title": "PLA - Silver"
+    "title": "PLA - Silver",
+    "updated_at": 1792796212801
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FFFFFF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LONGER-ABS-WHITE",
-    "title": "ABS - White"
+    "title": "ABS - White",
+    "updated_at": 1792796186173
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#808080",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LONGER-ABS-GREY",
-    "title": "ABS - Grey"
+    "title": "ABS - Grey",
+    "updated_at": 1792796186182
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#808080",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LONGER-TPU-GREY",
-    "title": "TPU - Grey"
+    "title": "TPU - Grey",
+    "updated_at": 1792796225171
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FFFF00",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-YELLOW",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1792796218907
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FFFFFF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-WHITE",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1792796219076
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#000000",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-BLACK",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1792796186176
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FF0000",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-RED",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1792796212798
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#800080",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-PURPLE",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1792796206266
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#000000",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LONGER-TPU-BLACK",
-    "title": "TPU - Black"
+    "title": "TPU - Black",
+    "updated_at": 1792796219003
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FFFFFF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LONGER-TPU-TRANSPARENT",
-    "title": "TPU - Transparent"
+    "title": "TPU - Transparent",
+    "updated_at": 1792799949704
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FFFFFF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "LONGER-TPU-WHITE",
-    "title": "TPU - White"
+    "title": "TPU - White",
+    "updated_at": 1792796225291
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#808080",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-GRAY",
-    "title": "PLA - Gray"
+    "title": "PLA - Gray",
+    "updated_at": 1792796199203
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FFC0CB",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-PINK",
-    "title": "PLA - Pink"
+    "title": "PLA - Pink",
+    "updated_at": 1792796206272
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Longer",
     "color": "#FFFFFF",
@@ -897,8 +1004,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LONGER-PLA-TRANSPARENT",
-    "title": "PLA - Transparent"
+    "title": "PLA - Transparent",
+    "updated_at": 1792800123701
   }
 ]

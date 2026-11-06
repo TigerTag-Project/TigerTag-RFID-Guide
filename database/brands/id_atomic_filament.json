@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver V2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-METALLIC-SILVER-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Silver V2"
+    "title": "PLA Atomic Filament - Silver V2",
+    "updated_at": 1793372663402
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Bright White",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-BRIGHT-WHITE-ASA-FILAMENT-AMS-COMPATIBLE",
-    "title": "ASA Atomic Filament - Bright White"
+    "title": "ASA Atomic Filament - Bright White",
+    "updated_at": 1793371915904
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Khaki",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-KHAKI-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Khaki"
+    "title": "PLA Atomic Filament - Khaki",
+    "updated_at": 1793374180399
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "JET Black",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-EXTREME-JET-BLACK-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - JET Black"
+    "title": "PLA Atomic Filament - JET Black",
+    "updated_at": 1793374137409
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Bright White",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-BRIGHT-WHITE-OPAQUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Bright White"
+    "title": "PCTG PRO Atomic Filament - Bright White",
+    "updated_at": 1793371921513
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-NEON-YELLOW-UV-REACTIVE-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Neon Yellow"
+    "title": "ABS Atomic Filament - Neon Yellow",
+    "updated_at": 1793375074399
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Carbon Fiber Black",
     "product_type": "Filament",
+    "series": "PCTG CF Atomic Filament",
     "sku": "AF-CARBON-FIBER-EXTREME-BLACK-PCTG-PRO",
-    "title": "PCTG CF Atomic Filament - Carbon Fiber Black"
+    "title": "PCTG CF Atomic Filament - Carbon Fiber Black",
+    "updated_at": 1793372060012
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Shamrock",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-SHAMROCK-SPARKLE-PLA",
-    "title": "PLA Atomic Filament - Shamrock"
+    "title": "PLA Atomic Filament - Shamrock",
+    "updated_at": 1793373212903
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#ADAFB0",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Marble",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-MARBLE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Marble"
+    "title": "PLA Atomic Filament - Marble",
+    "updated_at": 1793374700123
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Sapphire Blue",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-SAPPHIRE-BLUE-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Sapphire Blue"
+    "title": "PCTG PRO Atomic Filament - Sapphire Blue",
+    "updated_at": 1793373353582
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#20B2C9",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Aqua",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-AQUA-TRANSLUCENT-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Aqua"
+    "title": "PETG PRO Atomic Filament - Aqua",
+    "updated_at": 1793371300598
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Olive Drab Green",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-OLIVE-DRAB-GREEN-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Olive Drab Green"
+    "title": "PLA Atomic Filament - Olive Drab Green",
+    "updated_at": 1793375020722
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-PERFECT-BLUE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Blue"
+    "title": "PLA Atomic Filament - Blue",
+    "updated_at": 1793371696593
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bright White",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-BRIGHT-WHITE-OPAQUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Bright White"
+    "title": "PETG PRO Atomic Filament - Bright White",
+    "updated_at": 1793371914905
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-BLACK-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Black"
+    "title": "PLA Atomic Filament - Black",
+    "updated_at": 1793371124780
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#4D5053",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Marble",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-PCTG-MARBLE-1-75MM",
-    "title": "PCTG PRO Atomic Filament - Marble"
+    "title": "PCTG PRO Atomic Filament - Marble",
+    "updated_at": 1793374695933
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#AB5711",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sunset",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-SILKY-SUNSET-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Sunset"
+    "title": "PLA Atomic Filament - Sunset",
+    "updated_at": 1793372447339
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#20B2C9",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Tropical Sea Iridescent",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-TROPICAL-SEA-IRIDESCENT-TRANSLUCENT-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Tropical Sea Iridescent"
+    "title": "PETG PRO Atomic Filament - Tropical Sea Iridescent",
+    "updated_at": 1793372192990
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-FLUORESCENT-TRANS-UV-REACTIVE-NEON-GREEN",
-    "title": "PLA Atomic Filament - Neon Green v2"
+    "title": "PLA Atomic Filament - Neon Green v2",
+    "updated_at": 1793375037537
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Deep Black",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-DEEP-BLACK-OPAQUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Deep Black"
+    "title": "PETG PRO Atomic Filament - Deep Black",
+    "updated_at": 1793372502727
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Offshore Mist",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-SILKY-OFF-SHORE-MIST-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Offshore Mist"
+    "title": "PLA Atomic Filament - Offshore Mist",
+    "updated_at": 1793375027649
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "JET Black",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-EXTREME-JET-BLACK-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - JET Black"
+    "title": "PETG PRO Atomic Filament - JET Black",
+    "updated_at": 1793374140807
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Olive Drab",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-OLIVE-DRAB-OPAQUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Olive Drab"
+    "title": "PCTG PRO Atomic Filament - Olive Drab",
+    "updated_at": 1793375023903
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Indigo Golden",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-INDIGO-GOLDEN-SPARKLE-TRANSLUCENT-PCTG-PRO-AM",
-    "title": "PCTG PRO Atomic Filament - Indigo Golden"
+    "title": "PCTG PRO Atomic Filament - Indigo Golden",
+    "updated_at": 1793374090225
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#CF5607",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bug Eyes",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-BUG-EYES-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Bug Eyes"
+    "title": "PETG PRO Atomic Filament - Bug Eyes",
+    "updated_at": 1793372027187
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-LIGHT-GRAY-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Light Gray"
+    "title": "ABS Atomic Filament - Light Gray",
+    "updated_at": 1793374353384
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-NAVY-BLUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Navy Blue"
+    "title": "PETG PRO Atomic Filament - Navy Blue",
+    "updated_at": 1793374976881
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Bright Orange",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-BRIGHT-ORANGE-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Bright Orange"
+    "title": "PCTG PRO Atomic Filament - Bright Orange",
+    "updated_at": 1793371906294
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cosmic Graphite v2",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-COSMIC-GRAPHITE-V2-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Cosmic Graphite v2"
+    "title": "PETG PRO Atomic Filament - Cosmic Graphite v2",
+    "updated_at": 1793372231603
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#7B3FA0",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-PERFECT-PURPLE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Purple"
+    "title": "PLA Atomic Filament - Purple",
+    "updated_at": 1793374397918
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bright White",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-BRIGHT-WHITE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Bright White"
+    "title": "PLA Atomic Filament - Bright White",
+    "updated_at": 1793371924381
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F06292",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearly Peach",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-PEARLY-PEACH-TRANSLUCENT-PLA",
-    "title": "PLA Atomic Filament - Pearly Peach"
+    "title": "PLA Atomic Filament - Pearly Peach",
+    "updated_at": 1793374686504
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-NATURAL-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Natural"
+    "title": "ABS Atomic Filament - Natural",
+    "updated_at": 1793374943723
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-ROYAL-BLUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Royal Blue"
+    "title": "PCTG PRO Atomic Filament - Royal Blue",
+    "updated_at": 1793373697899
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F06292",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Neon Hot Pink",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-NEON-HOT-PINK-UV-REACTIVE-PCTG-PRO-AMS-COMPAT",
-    "title": "PCTG PRO Atomic Filament - Neon Hot Pink"
+    "title": "PCTG PRO Atomic Filament - Neon Hot Pink",
+    "updated_at": 1793375048014
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Starlight Gray",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-STARLIGHT-GRAY-PLA",
-    "title": "PLA Atomic Filament - Starlight Gray"
+    "title": "PLA Atomic Filament - Starlight Gray",
+    "updated_at": 1793372540341
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#D32F2F",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-PERFECT-RED-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Red"
+    "title": "PCTG PRO Atomic Filament - Red",
+    "updated_at": 1793374161598
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#D32F2F",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-PERFECT-RED-ASA",
-    "title": "ASA Atomic Filament - Red"
+    "title": "ASA Atomic Filament - Red",
+    "updated_at": 1793374158228
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Starlight Gray",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-STARLIGHT-GRAY-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Starlight Gray"
+    "title": "PETG PRO Atomic Filament - Starlight Gray",
+    "updated_at": 1793372538007
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-PERFECT-YELLOW-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Yellow"
+    "title": "PETG PRO Atomic Filament - Yellow",
+    "updated_at": 1793371665490
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-1-KG-NEON-ORANGE-UV-REACTIVE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Neon Orange"
+    "title": "PLA Atomic Filament - Neon Orange",
+    "updated_at": 1793375068825
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Minty Green",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-MINTY-GREEN-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Minty Green"
+    "title": "PETG PRO Atomic Filament - Minty Green",
+    "updated_at": 1793374809326
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bright Neon Green",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-SILKY-EXT-BRIGHT-NEON-GREEN-UV-REACT-PLA",
-    "title": "PLA Atomic Filament - Bright Neon Green"
+    "title": "PLA Atomic Filament - Bright Neon Green",
+    "updated_at": 1793371895114
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6D4C41",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Majestic Brown",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-MAJESTIC-BROWN-OPAQUE-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Majestic Brown"
+    "title": "PCTG PRO Atomic Filament - Majestic Brown",
+    "updated_at": 1793374684426
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F06292",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Hot Pink",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-HOT-PINK-OPAQUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Hot Pink"
+    "title": "PETG PRO Atomic Filament - Hot Pink",
+    "updated_at": 1793374068506
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#20B2C9",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Tropical Sea Iridescent v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-TROPICAL-SEA-IRIDESCENT-TRANSLUCENT-PLA",
-    "title": "PLA Atomic Filament - Tropical Sea Iridescent v2"
+    "title": "PLA Atomic Filament - Tropical Sea Iridescent v2",
+    "updated_at": 1793372191052
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F6660D",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Mysterious Abyss v2 Pearl",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-MYSTERIOUS-ABYSS-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Mysterious Abyss v2 Pearl"
+    "title": "PETG PRO Atomic Filament - Mysterious Abyss v2 Pearl",
+    "updated_at": 1793374859635
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2F2D4E",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Starry Night v3",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-TRANSLUCENT-STARRY-NIGHT-PLA",
-    "title": "PLA Atomic Filament - Starry Night v3"
+    "title": "PLA Atomic Filament - Starry Night v3",
+    "updated_at": 1793372532414
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-LIGHT-GRAY-OPAQUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Light Gray"
+    "title": "PETG PRO Atomic Filament - Light Gray",
+    "updated_at": 1793374342904
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Crystal Clear / Natural",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-CRYSTAL-CLEAR-NATURAL-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Crystal Clear / Natural"
+    "title": "PCTG PRO Atomic Filament - Crystal Clear / Natural",
+    "updated_at": 1793372270602
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bright Orange",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-BRIGHT-ORANGE-TRANSLUCENT-PLA",
-    "title": "PLA Atomic Filament - Bright Orange"
+    "title": "PLA Atomic Filament - Bright Orange",
+    "updated_at": 1793371905705
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616FF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA CF Atomic Filament",
     "sku": "AF-CARBON-FIBER-BLACK-ASA",
-    "title": "ASA CF Atomic Filament - Black"
+    "title": "ASA CF Atomic Filament - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#D32F2F",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-PERFECT-RED-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Red"
+    "title": "PETG PRO Atomic Filament - Red",
+    "updated_at": 1793374143022
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-BLACK-ASA-FILAMENT",
-    "title": "ASA Atomic Filament - Black"
+    "title": "ASA Atomic Filament - Black",
+    "updated_at": 1793371594215
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Neon Green Reactivd",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-NEON-GREEN-UV-REACTIVE-OPAQUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Neon Green Reactivd"
+    "title": "PCTG PRO Atomic Filament - Neon Green Reactivd",
+    "updated_at": 1793375035019
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Baby Blue v2",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-BABY-BLUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Baby Blue v2"
+    "title": "PETG PRO Atomic Filament - Baby Blue v2",
+    "updated_at": 1793371411029
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Rose Gold",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-ROSE-GOLD-METALLIC-TRANSLUCENT-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Rose Gold"
+    "title": "PETG PRO Atomic Filament - Rose Gold",
+    "updated_at": 1793373735920
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-NEON-YELLOW-PETG-PRO-UV-REACTIVE",
-    "title": "PETG PRO Atomic Filament - Neon Yellow"
+    "title": "PETG PRO Atomic Filament - Neon Yellow",
+    "updated_at": 1793375077171
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG CF Atomic Filament",
     "sku": "AF-CARBON-FIBER-BLACK-PETG-PRO-AMS-COMPATIBLE",
-    "title": "PETG CF Atomic Filament - Black"
+    "title": "PETG CF Atomic Filament - Black",
+    "updated_at": 1793371539704
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#8B1E2D",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Cherry Red",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-DARK-CHERRY-RED-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Dark Cherry Red"
+    "title": "ABS Atomic Filament - Dark Cherry Red",
+    "updated_at": 1793372372092
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pine Green v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-PINE-GREEN-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Pine Green v2"
+    "title": "PLA Atomic Filament - Pine Green v2",
+    "updated_at": 1793374673335
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Indigo Golden v3",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-INDIGO-GOLDEN-SPARKLE-TRANSLUCENT",
-    "title": "PLA Atomic Filament - Indigo Golden v3"
+    "title": "PLA Atomic Filament - Indigo Golden v3",
+    "updated_at": 1793374094707
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-BLACK-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Black"
+    "title": "ABS Atomic Filament - Black",
+    "updated_at": 1793371537509
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA MeltMiser Atomic Filament",
     "sku": "AF-MELTMISER-WHITE-PLA",
-    "title": "PLA MeltMiser Atomic Filament - White"
+    "title": "PLA MeltMiser Atomic Filament - White",
+    "updated_at": 1793371988021
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#7B3FA0",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Groovy Purple",
     "product_type": "Filament",
+    "series": "PLA Shade-Shifting Atomic Filament",
     "sku": "AF-GROOVY-PURPLE-PLA-SHADE-SHIFTING-AMS-COMP",
-    "title": "PLA Shade-Shifting Atomic Filament - Groovy Purple"
+    "title": "PLA Shade-Shifting Atomic Filament - Groovy Purple",
+    "updated_at": 1793373952530
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pine Green v2",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-PINE-GREEN-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Pine Green v2"
+    "title": "PETG PRO Atomic Filament - Pine Green v2",
+    "updated_at": 1793374670520
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-ROYAL-BLUE-ASA-FILAMENT-AMS-COMPATIBLE",
-    "title": "ASA Atomic Filament - Royal Blue"
+    "title": "ASA Atomic Filament - Royal Blue",
+    "updated_at": 1793373689826
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "True Gold v2",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-TRUE-GOLD-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - True Gold v2"
+    "title": "PETG PRO Atomic Filament - True Gold v2",
+    "updated_at": 1793372168996
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-LIGHT-GRAY-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Light Gray"
+    "title": "PCTG PRO Atomic Filament - Light Gray",
+    "updated_at": 1793374353893
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Pearl",
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pearlescent Neon Green v2",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-PEARL-TRANS-NEON-GREEN-PETG-UV-REACT",
-    "title": "PETG PRO Atomic Filament - Pearlescent Neon Green v2"
+    "title": "PETG PRO Atomic Filament - Pearlescent Neon Green v2",
+    "updated_at": 1793374696118
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#D32F2F",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-PERFECT-RED-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Red"
+    "title": "ABS Atomic Filament - Red",
+    "updated_at": 1793374144087
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Clear / Natural \"NO YELLOW HUE\"",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-NATURAL-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Clear / Natural \"NO YELLOW HUE\""
+    "title": "PLA Atomic Filament - Clear / Natural \"NO YELLOW HUE\"",
+    "updated_at": 1793375245936
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6D4C41",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Majestic Brown",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-MAJESTIC-BROWN-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Majestic Brown"
+    "title": "PETG PRO Atomic Filament - Majestic Brown",
+    "updated_at": 1793374689324
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Hi-Flow Pro Atomic Filament",
     "sku": "AF-BLACK-HI-FLOW-PRO-PLA-FILAMENT",
-    "title": "PLA Hi-Flow Pro Atomic Filament - Black"
+    "title": "PLA Hi-Flow Pro Atomic Filament - Black",
+    "updated_at": 1793371579947
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-NATURAL-ASA-FILAMENT",
-    "title": "ASA Atomic Filament - Natural"
+    "title": "ASA Atomic Filament - Natural",
+    "updated_at": 1793374928584
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#4E5351",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chameleon Coastline",
     "product_type": "Filament",
+    "series": "PLA Shade-Shifting Atomic Filament",
     "sku": "AF-CHAMELEON-COASTLINE-PLA-FILAMENT",
-    "title": "PLA Shade-Shifting Atomic Filament - Chameleon Coastline"
+    "title": "PLA Shade-Shifting Atomic Filament - Chameleon Coastline",
+    "updated_at": 1793372072426
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6D4C41",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Majestic Brown",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-MAJESTIC-BROWN-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Majestic Brown"
+    "title": "PLA Atomic Filament - Majestic Brown",
+    "updated_at": 1793374690410
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black Marble",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-BLACK-MARBLE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Black Marble"
+    "title": "PLA Atomic Filament - Black Marble",
+    "updated_at": 1793371639292
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Emerald Green",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-EMERALD-GREEN-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Emerald Green"
+    "title": "PCTG PRO Atomic Filament - Emerald Green",
+    "updated_at": 1793372599684
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-NEON-YELLOW-UV-REACTIVE-PCTG-PRO-AMS-COMPATIB",
-    "title": "PCTG PRO Atomic Filament - Neon Yellow"
+    "title": "PCTG PRO Atomic Filament - Neon Yellow",
+    "updated_at": 1793375079499
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#D32F2F",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Gemstone Ruby Red",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-RUBY-RED-TRANSLUCENT-PETG-PRO-1",
-    "title": "PETG PRO Atomic Filament - Gemstone Ruby Red"
+    "title": "PETG PRO Atomic Filament - Gemstone Ruby Red",
+    "updated_at": 1793372753727
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F06292",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fluorescent Neon Hot Pink",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-TRANS-NEON-HOT-PINK-PLA-UVREACT",
-    "title": "PLA Atomic Filament - Fluorescent Neon Hot Pink"
+    "title": "PLA Atomic Filament - Fluorescent Neon Hot Pink",
+    "updated_at": 1793372662549
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Bright White",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-BRIGHT-WHITE-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Bright White"
+    "title": "ABS Atomic Filament - Bright White",
+    "updated_at": 1793371909487
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Too Good to be Blue",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-TOO-GOOD-TO-BE-BLUE-SHIFTING-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Too Good to be Blue"
+    "title": "PETG PRO Atomic Filament - Too Good to be Blue",
+    "updated_at": 1793372395334
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "True Gold v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-1-KG-TRUE-GOLD-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - True Gold v2"
+    "title": "PLA Atomic Filament - True Gold v2",
+    "updated_at": 1793372171524
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Cosmic Graphite",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-COSMIC-GRAPHITE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Cosmic Graphite"
+    "title": "PCTG PRO Atomic Filament - Cosmic Graphite",
+    "updated_at": 1793372228580
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6D4C41",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-BRONZE-METALLIC-OPAQUE-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Bronze"
+    "title": "PCTG PRO Atomic Filament - Bronze",
+    "updated_at": 1793371955022
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#36524B",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Chameleon Coastline",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-CHAMELEON-COASTLINE-SHADE-SHIFT-PETG",
-    "title": "PETG PRO Atomic Filament - Chameleon Coastline"
+    "title": "PETG PRO Atomic Filament - Chameleon Coastline",
+    "updated_at": 1793372077586
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Smoke Blue",
     "product_type": "Filament",
+    "series": "PETG CF Atomic Filament",
     "sku": "AF-SMOKE-BLUE-CARBON-FIBER-EXTREME-PETG",
-    "title": "PETG CF Atomic Filament - Smoke Blue"
+    "title": "PETG CF Atomic Filament - Smoke Blue",
+    "updated_at": 1793372577616
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2FF",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "MICROPOLITAN Bright White",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-MICROPOLITAN-BRIGHT-WHITE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - MICROPOLITAN Bright White"
+    "title": "PLA Atomic Filament - MICROPOLITAN Bright White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-NEON-GREEN-UV-REACT-OPAQUE-PETG",
-    "title": "PETG PRO Atomic Filament - Neon Green"
+    "title": "PETG PRO Atomic Filament - Neon Green",
+    "updated_at": 1793375015894
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Minty Green",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-MINTY-GREEN-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Minty Green"
+    "title": "PLA Atomic Filament - Minty Green",
+    "updated_at": 1793374811603
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-PERFECT-YELLOW-ASA-FILAMENT",
-    "title": "ASA Atomic Filament - Yellow"
+    "title": "ASA Atomic Filament - Yellow",
+    "updated_at": 1793371657714
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F06292",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Hot Pink",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-TRANS-NEON-HOT-PINK-PETG-UV-REACT",
-    "title": "PETG PRO Atomic Filament - Neon Hot Pink"
+    "title": "PETG PRO Atomic Filament - Neon Hot Pink",
+    "updated_at": 1793375050580
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2F2F2",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Crystal Clear / Natural",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-CRYSTAL-CLEAR-NATURAL-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Crystal Clear / Natural"
+    "title": "PETG PRO Atomic Filament - Crystal Clear / Natural",
+    "updated_at": 1793372274227
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Silver v2",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-METALLIC-SILVER-V2-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Silver v2"
+    "title": "PETG PRO Atomic Filament - Silver v2",
+    "updated_at": 1793372660389
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-PERFECT-BLUE-OPAQUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Blue"
+    "title": "PETG PRO Atomic Filament - Blue",
+    "updated_at": 1793371719207
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Gun Metal Gray",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-GUN-METAL-GRAY-OPAQUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Gun Metal Gray"
+    "title": "PCTG PRO Atomic Filament - Gun Metal Gray",
+    "updated_at": 1793373953810
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-NEON-GREEN-UV-REACTIVE-ASA-AMS-COMPATIBLE",
-    "title": "ASA Atomic Filament - Neon Green"
+    "title": "ASA Atomic Filament - Neon Green",
+    "updated_at": 1793375020220
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Emerald Green Gemstone",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-EMERALD-GREEN-GEMSTONE-TRANSLUCENT-PLA",
-    "title": "PLA Atomic Filament - Emerald Green Gemstone"
+    "title": "PLA Atomic Filament - Emerald Green Gemstone",
+    "updated_at": 1793372608612
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Smoke Black",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-TRANSLUCENT-SMOKE-BLACK-PLA",
-    "title": "PLA Atomic Filament - Smoke Black"
+    "title": "PLA Atomic Filament - Smoke Black",
+    "updated_at": 1793372576027
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Deep Black",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-DEEP-BLACK-OPAQUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Deep Black"
+    "title": "PCTG PRO Atomic Filament - Deep Black",
+    "updated_at": 1793372511299
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Rose Gold",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-ROSE-GOLD-METALLIC-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Rose Gold"
+    "title": "PCTG PRO Atomic Filament - Rose Gold",
+    "updated_at": 1793373744597
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Golden Blood Diamond",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-GOLDEN-BLOOD-DIAMOND-TRANSLUCENT-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Golden Blood Diamond"
+    "title": "PETG PRO Atomic Filament - Golden Blood Diamond",
+    "updated_at": 1793373204690
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#20B2C9",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Aqua",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-SILKY-AQUA-PLA",
-    "title": "PLA Atomic Filament - Aqua"
+    "title": "PLA Atomic Filament - Aqua",
+    "updated_at": 1793371301021
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Fluorescent Neon Green",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-BRIGHT-NEON-GREEN-PETG-UV-REACT",
-    "title": "PETG PRO Atomic Filament - Fluorescent Neon Green"
+    "title": "PETG PRO Atomic Filament - Fluorescent Neon Green",
+    "updated_at": 1793372657198
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#8B1E2D",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Dark Cherry",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-DARK-CHERRY-OPAQUE-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Dark Cherry"
+    "title": "PCTG PRO Atomic Filament - Dark Cherry",
+    "updated_at": 1793372361416
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Midnight Blue",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-TRANSLUCENT-MIDNIGHT-BLUE-PLA",
-    "title": "PLA Atomic Filament - Midnight Blue"
+    "title": "PLA Atomic Filament - Midnight Blue",
+    "updated_at": 1793374766295
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-PERFECT-BLUE-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Blue"
+    "title": "ABS Atomic Filament - Blue",
+    "updated_at": 1793371734555
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#D32F2F",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-1-KG-RED-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Red"
+    "title": "PLA Atomic Filament - Red",
+    "updated_at": 1793374158584
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -4546,9 +5098,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Stone Gray",
     "product_type": "Filament",
+    "series": "PETG CF Atomic Filament",
     "sku": "AF-STONE-GRAY-CARBON-FIBER-EXTREME-PETG-PRO",
-    "title": "PETG CF Atomic Filament - Stone Gray"
+    "title": "PETG CF Atomic Filament - Stone Gray",
+    "updated_at": 1793372487205
   },
   {
     "RFID_Data": {
@@ -4571,6 +5126,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -4587,9 +5144,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Candy Apple Golden Pearl",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-CANDY-APPLE-GOLDEN-PEARL-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Candy Apple Golden Pearl"
+    "title": "PLA Atomic Filament - Candy Apple Golden Pearl",
+    "updated_at": 1793372053319
   },
   {
     "RFID_Data": {
@@ -4612,6 +5172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -4628,9 +5190,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Indigo Golden v3",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-INDIGO-GOLDEN-SPARKLE-TRANS-PETG",
-    "title": "PETG PRO Atomic Filament - Indigo Golden v3"
+    "title": "PETG PRO Atomic Filament - Indigo Golden v3",
+    "updated_at": 1793374101510
   },
   {
     "RFID_Data": {
@@ -4653,6 +5218,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6D4C41",
@@ -4669,9 +5236,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-BRONZE-METALLIC-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Bronze"
+    "title": "PLA Atomic Filament - Bronze",
+    "updated_at": 1793371941885
   },
   {
     "RFID_Data": {
@@ -4694,6 +5264,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -4710,9 +5282,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Cool Gray",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-COOL-GRAY-ASA-FILAMENT",
-    "title": "ASA Atomic Filament - Cool Gray"
+    "title": "ASA Atomic Filament - Cool Gray",
+    "updated_at": 1793372192024
   },
   {
     "RFID_Data": {
@@ -4735,6 +5310,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -4751,9 +5328,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "True Gold",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRUE-GOLD-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - True Gold"
+    "title": "PCTG PRO Atomic Filament - True Gold",
+    "updated_at": 1793372179604
   },
   {
     "RFID_Data": {
@@ -4776,6 +5356,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -4792,9 +5374,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-1-KG-BLUE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Royal Blue"
+    "title": "PLA Atomic Filament - Royal Blue",
+    "updated_at": 1793373682900
   },
   {
     "RFID_Data": {
@@ -4817,6 +5402,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -4833,9 +5420,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-YELLOW-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Yellow"
+    "title": "PLA Atomic Filament - Yellow",
+    "updated_at": 1793371705998
   },
   {
     "RFID_Data": {
@@ -4858,6 +5448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -4874,9 +5466,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-GRAY-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Gray"
+    "title": "PETG PRO Atomic Filament - Gray",
+    "updated_at": 1793373244290
   },
   {
     "RFID_Data": {
@@ -4899,6 +5494,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F06292",
@@ -4915,9 +5512,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Hot Pink",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-HOT-PINK-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Hot Pink"
+    "title": "PLA Atomic Filament - Hot Pink",
+    "updated_at": 1793374057197
   },
   {
     "RFID_Data": {
@@ -4940,6 +5540,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -4956,9 +5558,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Smoke Black",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-SMOKE-BLACK-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Smoke Black"
+    "title": "PETG PRO Atomic Filament - Smoke Black",
+    "updated_at": 1793372605538
   },
   {
     "RFID_Data": {
@@ -4981,6 +5586,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -4997,9 +5604,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-NEON-GREEN-UV-REACTIVE-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Neon Green"
+    "title": "ABS Atomic Filament - Neon Green",
+    "updated_at": 1793375022088
   },
   {
     "RFID_Data": {
@@ -5022,6 +5632,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -5038,9 +5650,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-NEON-ORANGE-UV-REACTIVE-OPAQUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Neon Orange"
+    "title": "PCTG PRO Atomic Filament - Neon Orange",
+    "updated_at": 1793375070803
   },
   {
     "RFID_Data": {
@@ -5063,6 +5678,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F06292",
@@ -5079,9 +5696,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Hot Pink",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-HOT-PINK-OPAQUE-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Hot Pink"
+    "title": "PCTG PRO Atomic Filament - Hot Pink",
+    "updated_at": 1793374057426
   },
   {
     "RFID_Data": {
@@ -5104,6 +5724,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -5120,9 +5742,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-ROYAL-BLUE-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Royal Blue"
+    "title": "ABS Atomic Filament - Royal Blue",
+    "updated_at": 1793373695529
   },
   {
     "RFID_Data": {
@@ -5145,6 +5770,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#7B3FA0",
@@ -5161,9 +5788,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Amethyst Violet Gemstone v2",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-AMETHYST-VIOLET-GEMSTONE-TRANS-PETG",
-    "title": "PETG PRO Atomic Filament - Amethyst Violet Gemstone v2"
+    "title": "PETG PRO Atomic Filament - Amethyst Violet Gemstone v2",
+    "updated_at": 1793371287524
   },
   {
     "RFID_Data": {
@@ -5186,6 +5816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -5202,9 +5834,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-PERFECT-ORANGE-OPAQUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Orange"
+    "title": "PETG PRO Atomic Filament - Orange",
+    "updated_at": 1793374880295
   },
   {
     "RFID_Data": {
@@ -5227,6 +5862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -5243,9 +5880,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-ARMY-GREEN-ASA-FILAMENT-AMS-COMPATIBLE",
-    "title": "ASA Atomic Filament - Army Green"
+    "title": "ASA Atomic Filament - Army Green",
+    "updated_at": 1793371353647
   },
   {
     "RFID_Data": {
@@ -5268,6 +5908,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#8B1E2D",
@@ -5284,9 +5926,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Cherry Red",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-1-KG-DARK-CHERRY-RED-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Dark Cherry Red"
+    "title": "PLA Atomic Filament - Dark Cherry Red",
+    "updated_at": 1793372366610
   },
   {
     "RFID_Data": {
@@ -5309,6 +5954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -5325,9 +5972,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Baby Blue v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-BABY-BLUE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Baby Blue v2"
+    "title": "PLA Atomic Filament - Baby Blue v2",
+    "updated_at": 1793371410284
   },
   {
     "RFID_Data": {
@@ -5350,6 +6000,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -5366,9 +6018,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-PERFECT-ORANGE-ASA-AMS-COMPATIBLE",
-    "title": "ASA Atomic Filament - Orange"
+    "title": "ASA Atomic Filament - Orange",
+    "updated_at": 1793374906833
   },
   {
     "RFID_Data": {
@@ -5391,6 +6046,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#20B2C9",
@@ -5407,9 +6064,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Turquoise",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-TURQUOISE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Turquoise"
+    "title": "PLA Atomic Filament - Turquoise",
+    "updated_at": 1793372167183
   },
   {
     "RFID_Data": {
@@ -5432,6 +6092,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#7B3FA0",
@@ -5448,9 +6110,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-PERFECT-PURPLE-OPAQUE-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Purple"
+    "title": "PCTG PRO Atomic Filament - Purple",
+    "updated_at": 1793374436295
   },
   {
     "RFID_Data": {
@@ -5473,6 +6138,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -5489,9 +6156,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Ultra Black",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-CARBON-FIBER-ULTRA-BLACK-ABS",
-    "title": "ABS Atomic Filament - Ultra Black"
+    "title": "ABS Atomic Filament - Ultra Black",
+    "updated_at": 1793372146820
   },
   {
     "RFID_Data": {
@@ -5514,6 +6184,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -5530,9 +6202,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-GRAY-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Gray"
+    "title": "ABS Atomic Filament - Gray",
+    "updated_at": 1793373268922
   },
   {
     "RFID_Data": {
@@ -5555,6 +6230,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -5571,9 +6248,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green v2 2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-NEON-GREEN-UV-REACTIVE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Neon Green v2 2"
+    "title": "PLA Atomic Filament - Neon Green v2 2",
+    "updated_at": 1793375043727
   },
   {
     "RFID_Data": {
@@ -5596,6 +6276,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Pearl",
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -5612,9 +6294,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearlescent Neon Green v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-PEARL-TRANS-NEON-GREEN-PLA-UV-REACTIVE",
-    "title": "PLA Atomic Filament - Pearlescent Neon Green v2"
+    "title": "PLA Atomic Filament - Pearlescent Neon Green v2",
+    "updated_at": 1793374690304
   },
   {
     "RFID_Data": {
@@ -5637,6 +6322,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -5653,9 +6340,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA MeltMiser Atomic Filament",
     "sku": "AF-MELTMISER-BLACK-PLA",
-    "title": "PLA MeltMiser Atomic Filament - Black"
+    "title": "PLA MeltMiser Atomic Filament - Black",
+    "updated_at": 1793371587103
   },
   {
     "RFID_Data": {
@@ -5678,6 +6368,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -5694,9 +6386,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-NEON-YELLOW-UV-REACTIVE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Neon Yellow"
+    "title": "PLA Atomic Filament - Neon Yellow",
+    "updated_at": 1793375100322
   },
   {
     "RFID_Data": {
@@ -5719,6 +6414,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#8B1E2D",
@@ -5735,9 +6432,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Dark Cherry",
     "product_type": "Filament",
+    "series": "PETG CF Atomic Filament",
     "sku": "AF-DARK-CHERRY-CARBON-FIBER-EXTREME-PETG",
-    "title": "PETG CF Atomic Filament - Dark Cherry"
+    "title": "PETG CF Atomic Filament - Dark Cherry",
+    "updated_at": 1793372361430
   },
   {
     "RFID_Data": {
@@ -5760,6 +6460,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -5776,9 +6478,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Emerald Green",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-EMERALD-GREEN-TRANSLUCENT-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Emerald Green"
+    "title": "PETG PRO Atomic Filament - Emerald Green",
+    "updated_at": 1793372603224
   },
   {
     "RFID_Data": {
@@ -5801,6 +6506,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -5817,9 +6524,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bright Orange",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-BRIGHT-ORANGE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Bright Orange"
+    "title": "PETG PRO Atomic Filament - Bright Orange",
+    "updated_at": 1793371900425
   },
   {
     "RFID_Data": {
@@ -5842,6 +6552,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#7B3FA0",
@@ -5858,9 +6570,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-PERFECT-PURPLE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Purple"
+    "title": "PETG PRO Atomic Filament - Purple",
+    "updated_at": 1793374496927
   },
   {
     "RFID_Data": {
@@ -5883,6 +6598,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#7B3FA0",
@@ -5899,9 +6616,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Amethyst Violet Gemstone",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-AMETHYST-VIOLET-GEMSTONE-TRANSLUCENT-PLA",
-    "title": "PLA Atomic Filament - Amethyst Violet Gemstone"
+    "title": "PLA Atomic Filament - Amethyst Violet Gemstone",
+    "updated_at": 1793371290926
   },
   {
     "RFID_Data": {
@@ -5924,6 +6644,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -5940,9 +6662,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-PERFECT-ORANGE-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Orange"
+    "title": "ABS Atomic Filament - Orange",
+    "updated_at": 1793374857539
   },
   {
     "RFID_Data": {
@@ -5965,6 +6690,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#314D4F",
@@ -5981,9 +6708,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bug Eyes",
     "product_type": "Filament",
+    "series": "PLA Shade-Shifting Atomic Filament",
     "sku": "AF-BUG-EYES-PLA-FILAMENT",
-    "title": "PLA Shade-Shifting Atomic Filament - Bug Eyes"
+    "title": "PLA Shade-Shifting Atomic Filament - Bug Eyes",
+    "updated_at": 1793372032220
   },
   {
     "RFID_Data": {
@@ -6006,6 +6736,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -6022,9 +6754,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Khaki",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-KHAKI-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Khaki"
+    "title": "PETG PRO Atomic Filament - Khaki",
+    "updated_at": 1793374179016
   },
   {
     "RFID_Data": {
@@ -6047,6 +6782,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -6063,9 +6800,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Gun Metal Gray",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-GUN-METAL-GRAY-OPAQUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Gun Metal Gray"
+    "title": "PETG PRO Atomic Filament - Gun Metal Gray",
+    "updated_at": 1793373971223
   },
   {
     "RFID_Data": {
@@ -6088,6 +6828,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -6104,9 +6846,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearlescent Blue",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-PEARLESCENT-BLUE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Pearlescent Blue"
+    "title": "PLA Atomic Filament - Pearlescent Blue",
+    "updated_at": 1793374695936
   },
   {
     "RFID_Data": {
@@ -6129,6 +6874,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -6145,9 +6892,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Yellow Opaque",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-NEON-YELLOW-UV-REACTIVE-OPAQUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Neon Yellow Opaque"
+    "title": "PETG PRO Atomic Filament - Neon Yellow Opaque",
+    "updated_at": 1793375067930
   },
   {
     "RFID_Data": {
@@ -6170,6 +6920,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -6186,9 +6938,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-PERFECT-ORANGE-OPAQUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Orange"
+    "title": "PCTG PRO Atomic Filament - Orange",
+    "updated_at": 1793374910388
   },
   {
     "RFID_Data": {
@@ -6211,6 +6966,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -6227,9 +6984,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA CF Atomic Filament",
     "sku": "AF-CARBON-FIBER-EXTREME-PLA-FILAMENT",
-    "title": "PLA CF Atomic Filament - Black"
+    "title": "PLA CF Atomic Filament - Black",
+    "updated_at": 1793371551915
   },
   {
     "RFID_Data": {
@@ -6252,6 +7012,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#A697EB",
@@ -6268,9 +7030,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Lilac",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-PASTEL-LILAC-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Pastel Lilac"
+    "title": "PLA Atomic Filament - Pastel Lilac",
+    "updated_at": 1793374766714
   },
   {
     "RFID_Data": {
@@ -6293,6 +7058,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -6309,9 +7076,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Gray v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-LIGHT-GRAY-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Light Gray v2"
+    "title": "PLA Atomic Filament - Light Gray v2",
+    "updated_at": 1793374359093
   },
   {
     "RFID_Data": {
@@ -6334,6 +7104,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -6350,9 +7122,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-ROYAL-BLUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Royal Blue"
+    "title": "PETG PRO Atomic Filament - Royal Blue",
+    "updated_at": 1793373709414
   },
   {
     "RFID_Data": {
@@ -6375,6 +7150,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -6391,9 +7168,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gun Metal Gray v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-GUN-METAL-GRAY-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Gun Metal Gray v2"
+    "title": "PLA Atomic Filament - Gun Metal Gray v2",
+    "updated_at": 1793373975130
   },
   {
     "RFID_Data": {
@@ -6416,6 +7196,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -6432,9 +7214,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sapphire Blue",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-SAPPHIRE-BLUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Sapphire Blue"
+    "title": "PETG PRO Atomic Filament - Sapphire Blue",
+    "updated_at": 1793373407925
   },
   {
     "RFID_Data": {
@@ -6457,6 +7242,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#D32F2F",
@@ -6473,9 +7260,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Gemstone Ruby Red",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-GEMSTONE-RUBY-RED-TRANSLUCENT-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Gemstone Ruby Red"
+    "title": "PCTG PRO Atomic Filament - Gemstone Ruby Red",
+    "updated_at": 1793372748022
   },
   {
     "RFID_Data": {
@@ -6498,6 +7288,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -6514,9 +7306,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-PERFECT-ORANGE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Orange"
+    "title": "PLA Atomic Filament - Orange",
+    "updated_at": 1793374887103
   },
   {
     "RFID_Data": {
@@ -6539,6 +7334,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -6555,9 +7352,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Dark Gray",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-DARK-GRAY-ASA-FILAMENT-AMS-COMPATIBLE",
-    "title": "ASA Atomic Filament - Dark Gray"
+    "title": "ASA Atomic Filament - Dark Gray",
+    "updated_at": 1793372380986
   },
   {
     "RFID_Data": {
@@ -6580,6 +7380,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -6596,9 +7398,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Khaki",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-KHAKI-OPAQUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Khaki"
+    "title": "PCTG PRO Atomic Filament - Khaki",
+    "updated_at": 1793374181234
   },
   {
     "RFID_Data": {
@@ -6621,6 +7426,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -6637,9 +7444,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PETG CF Atomic Filament",
     "sku": "AF-DARK-BLUE-CARBON-FIBER-EXTREME-PETG",
-    "title": "PETG CF Atomic Filament - Dark Blue"
+    "title": "PETG CF Atomic Filament - Dark Blue",
+    "updated_at": 1793372286338
   },
   {
     "RFID_Data": {
@@ -6662,6 +7472,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -6678,9 +7490,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-GRAY-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Gray"
+    "title": "PLA Atomic Filament - Gray",
+    "updated_at": 1793373224685
   },
   {
     "RFID_Data": {
@@ -6703,6 +7518,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -6719,9 +7536,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rose Gold",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-ROSE-GOLD-METALLIC-TRANSLUCENT",
-    "title": "PLA Atomic Filament - Rose Gold"
+    "title": "PLA Atomic Filament - Rose Gold",
+    "updated_at": 1793373730083
   },
   {
     "RFID_Data": {
@@ -6744,6 +7564,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -6760,9 +7582,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-PERFECT-YELLOW-OPAQUE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Yellow"
+    "title": "PCTG PRO Atomic Filament - Yellow",
+    "updated_at": 1793371674021
   },
   {
     "RFID_Data": {
@@ -6785,6 +7610,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -6801,9 +7628,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Too Good to be Blue",
     "product_type": "Filament",
+    "series": "PLA Shade-Shifting Atomic Filament",
     "sku": "AF-TOO-GOOD-TO-BE-BLUE-PLA-SHADE-SHIFTING",
-    "title": "PLA Shade-Shifting Atomic Filament - Too Good to be Blue"
+    "title": "PLA Shade-Shifting Atomic Filament - Too Good to be Blue",
+    "updated_at": 1793372391682
   },
   {
     "RFID_Data": {
@@ -6826,6 +7656,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -6842,9 +7674,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-METALLIC-SILVER-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Silver"
+    "title": "PCTG PRO Atomic Filament - Silver",
+    "updated_at": 1793372767394
   },
   {
     "RFID_Data": {
@@ -6867,6 +7702,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -6883,9 +7720,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ASA Atomic Filament",
     "sku": "AF-PERFECT-BLUE-ASA",
-    "title": "ASA Atomic Filament - Blue"
+    "title": "ASA Atomic Filament - Blue",
+    "updated_at": 1793371747529
   },
   {
     "RFID_Data": {
@@ -6908,6 +7748,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -6924,9 +7766,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Electric Blue v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-SILKY-ELECTRIC-BLUE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Electric Blue v2"
+    "title": "PLA Atomic Filament - Electric Blue v2",
+    "updated_at": 1793372562824
   },
   {
     "RFID_Data": {
@@ -6949,6 +7794,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#8B1E2D",
@@ -6965,9 +7812,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Cherry Red",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-DARK-CHERRY-RED-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Dark Cherry Red"
+    "title": "PETG PRO Atomic Filament - Dark Cherry Red",
+    "updated_at": 1793372370433
   },
   {
     "RFID_Data": {
@@ -6990,6 +7840,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#20B2C9",
@@ -7006,9 +7858,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Aqua Gemstone",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-AQUA-GEMSTONE-TRANSLUCENT-PLA",
-    "title": "PLA Atomic Filament - Aqua Gemstone"
+    "title": "PLA Atomic Filament - Aqua Gemstone",
+    "updated_at": 1793371319883
   },
   {
     "RFID_Data": {
@@ -7031,6 +7886,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -7047,9 +7904,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PLA Hi-Flow Pro Atomic Filament",
     "sku": "AF-LIGHT-GRAY-HI-FLOW-PRO-PLA-FILAMENT",
-    "title": "PLA Hi-Flow Pro Atomic Filament - Light Gray"
+    "title": "PLA Hi-Flow Pro Atomic Filament - Light Gray",
+    "updated_at": 1793374350091
   },
   {
     "RFID_Data": {
@@ -7072,6 +7932,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F57C00",
@@ -7088,9 +7950,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-NEON-ORANGE-UV-REACTIVE-OPAQUE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Neon Orange"
+    "title": "PETG PRO Atomic Filament - Neon Orange",
+    "updated_at": 1793375073749
   },
   {
     "RFID_Data": {
@@ -7113,6 +7978,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -7129,9 +7996,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "JET Black",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-EXTREME-JET-BLACK-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - JET Black"
+    "title": "PCTG PRO Atomic Filament - JET Black",
+    "updated_at": 1793374147126
   },
   {
     "RFID_Data": {
@@ -7154,6 +8024,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -7170,9 +8042,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-PCTG-PRO-PERFECT-BLUE-OPAQUE",
-    "title": "PCTG PRO Atomic Filament - Blue"
+    "title": "PCTG PRO Atomic Filament - Blue",
+    "updated_at": 1793371733006
   },
   {
     "RFID_Data": {
@@ -7195,6 +8070,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -7211,9 +8088,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Golden Blood Diamond",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-GOLDEN-BLOOD-DIAMOND-TRANSLUCENT-PLA",
-    "title": "PLA Atomic Filament - Golden Blood Diamond"
+    "title": "PLA Atomic Filament - Golden Blood Diamond",
+    "updated_at": 1793373186217
   },
   {
     "RFID_Data": {
@@ -7236,6 +8116,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#4E5151",
@@ -7252,9 +8134,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble v2",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-MARBLE-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Marble v2"
+    "title": "PETG PRO Atomic Filament - Marble v2",
+    "updated_at": 1793374706916
   },
   {
     "RFID_Data": {
@@ -7277,6 +8162,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6D4C41",
@@ -7293,9 +8180,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-BRONZE-METALLIC-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Bronze"
+    "title": "PETG PRO Atomic Filament - Bronze",
+    "updated_at": 1793371949642
   },
   {
     "RFID_Data": {
@@ -7318,6 +8208,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#D32F2F",
@@ -7334,9 +8226,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gemstone Ruby Red",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-GEMSTONE-RUBY-RED-TRANSLUCENT-PLA",
-    "title": "PLA Atomic Filament - Gemstone Ruby Red"
+    "title": "PLA Atomic Filament - Gemstone Ruby Red",
+    "updated_at": 1793372750708
   },
   {
     "RFID_Data": {
@@ -7359,6 +8254,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F06292",
@@ -7375,9 +8272,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bright Neon Pink",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-SILKY-EXTREME-BRIGHT-NEON-PINK-UV-REACT-PLA",
-    "title": "PLA Atomic Filament - Bright Neon Pink"
+    "title": "PLA Atomic Filament - Bright Neon Pink",
+    "updated_at": 1793371897813
   },
   {
     "RFID_Data": {
@@ -7400,6 +8300,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#2E9E4F",
@@ -7416,9 +8318,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-NEON-GREEN-UV-REACTIVE-PCTG-PRO-AMS-COMPATIBL",
-    "title": "PCTG PRO Atomic Filament - Neon Green"
+    "title": "PCTG PRO Atomic Filament - Neon Green",
+    "updated_at": 1793375023988
   },
   {
     "RFID_Data": {
@@ -7441,6 +8346,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#111616",
@@ -7457,9 +8364,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mysterious Abyss v2 Pearl",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-MYSTERIOUS-ABYSS-PEARL-PLA",
-    "title": "PLA Atomic Filament - Mysterious Abyss v2 Pearl"
+    "title": "PLA Atomic Filament - Mysterious Abyss v2 Pearl",
+    "updated_at": 1793374860534
   },
   {
     "RFID_Data": {
@@ -7482,6 +8392,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -7498,9 +8410,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Gun Metal Gray",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-GUN-METAL-GRAY-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Gun Metal Gray"
+    "title": "ABS Atomic Filament - Gun Metal Gray",
+    "updated_at": 1793373964620
   },
   {
     "RFID_Data": {
@@ -7523,6 +8438,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#F2C200",
@@ -7539,9 +8456,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-YELLOW-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Yellow"
+    "title": "PLA Atomic Filament - Yellow",
+    "updated_at": 1793371669601
   },
   {
     "RFID_Data": {
@@ -7564,6 +8484,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#E85707",
@@ -7580,9 +8502,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Starry Night v3",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-STARRY-NIGHT-TRANSLUCENT-PETG-PRO",
-    "title": "PETG PRO Atomic Filament - Starry Night v3"
+    "title": "PETG PRO Atomic Filament - Starry Night v3",
+    "updated_at": 1793372535012
   },
   {
     "RFID_Data": {
@@ -7605,6 +8530,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#20B2C9",
@@ -7621,9 +8548,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Turquoise",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TURQUOISE-PCTG-PRO",
-    "title": "PCTG PRO Atomic Filament - Turquoise"
+    "title": "PCTG PRO Atomic Filament - Turquoise",
+    "updated_at": 1793372161103
   },
   {
     "RFID_Data": {
@@ -7646,6 +8576,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -7662,9 +8594,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-1-KG-NAVY-BLUE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Navy Blue"
+    "title": "PLA Atomic Filament - Navy Blue",
+    "updated_at": 1793374976399
   },
   {
     "RFID_Data": {
@@ -7687,6 +8622,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -7703,9 +8640,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "ABS Atomic Filament",
     "sku": "AF-ARMY-GREEN-ABS-FILAMENT",
-    "title": "ABS Atomic Filament - Army Green"
+    "title": "ABS Atomic Filament - Army Green",
+    "updated_at": 1793371367719
   },
   {
     "RFID_Data": {
@@ -7728,6 +8668,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#6B7A3A",
@@ -7744,9 +8686,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Olive Drab Green",
     "product_type": "Filament",
+    "series": "PETG PRO Atomic Filament",
     "sku": "AF-OLIVE-DRAB-GREEN-PETG",
-    "title": "PETG PRO Atomic Filament - Olive Drab Green"
+    "title": "PETG PRO Atomic Filament - Olive Drab Green",
+    "updated_at": 1793375009294
   },
   {
     "RFID_Data": {
@@ -7769,6 +8714,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#161616",
@@ -7785,9 +8732,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Smoke Black",
     "product_type": "Filament",
+    "series": "PCTG PRO Atomic Filament",
     "sku": "AF-TRANSLUCENT-SMOKE-BLACK-PCTG-PRO-AMS-COMPATIBLE",
-    "title": "PCTG PRO Atomic Filament - Smoke Black"
+    "title": "PCTG PRO Atomic Filament - Smoke Black",
+    "updated_at": 1793372581311
   },
   {
     "RFID_Data": {
@@ -7810,6 +8760,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#808080",
@@ -7826,9 +8778,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cosmic Graphite v2",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-COSMIC-GRAPHITE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Cosmic Graphite v2"
+    "title": "PLA Atomic Filament - Cosmic Graphite v2",
+    "updated_at": 1793372228714
   },
   {
     "RFID_Data": {
@@ -7851,6 +8806,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Atomic Filament",
     "color": "#1E56C8",
@@ -7867,8 +8824,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sapphire Blue",
     "product_type": "Filament",
+    "series": "PLA Atomic Filament",
     "sku": "AF-TRANSLUCENT-SAPPHIRE-BLUE-PLA-FILAMENT",
-    "title": "PLA Atomic Filament - Sapphire Blue"
+    "title": "PLA Atomic Filament - Sapphire Blue",
+    "updated_at": 1793373408023
   }
 ]

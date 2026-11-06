@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#008351FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-GREEN",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#E3D9C6",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Pearl-White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-PEARLWHITE",
-    "title": "PLA - Pearl-White"
+    "title": "PLA - Pearl-White",
+    "updated_at": 1792844373318
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#A1A1A0",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Silver Metallic",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-SILVERMETALLIC",
-    "title": "PLA - Silver Metallic"
+    "title": "PLA - Silver Metallic",
+    "updated_at": 1792797707970
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#0E0E10FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PC",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "UM-PC-BLACK",
-    "title": "PC - Black"
+    "title": "PC - Black",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#DE4343FF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Tough PLA",
     "sku": "UM-TPLA-RED",
-    "title": "Tough PLA - Red"
+    "title": "Tough PLA - Red",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#2A292AFF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-BLACK",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#F8F32BFF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Tough PLA",
     "sku": "UM-TPLA-YELLOW",
-    "title": "Tough PLA - Yellow"
+    "title": "Tough PLA - Yellow",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#F7B500FF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-YELLOW",
-    "title": "ABS - Yellow"
+    "title": "ABS - Yellow",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#FC4C02FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-ORANGE",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#ECECE7FF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-WHITE",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#D0D0D0",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-TRANSPARENT",
-    "title": "PLA - Transparent"
+    "title": "PLA - Transparent",
+    "updated_at": 1792798051082
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#ED6B21FF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-ORANGE",
-    "title": "ABS - Orange"
+    "title": "ABS - Orange",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#A63437FF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "UM-TPU95A-RED",
-    "title": "TPU 95A - Red"
+    "title": "TPU 95A - Red",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#D0D0D0",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PC",
     "measure": "750 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "UM-PC-TRANSPARENT",
-    "title": "PC - Transparent"
+    "title": "PC - Transparent",
+    "updated_at": 1792798146184
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#0033A0",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Blue Translucent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-BLUETRANSLUCENT",
-    "title": "PETG - Blue Translucent"
+    "title": "PETG - Blue Translucent",
+    "updated_at": 1792798156274
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#ECECE7FF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-WHITE",
-    "title": "ABS - White"
+    "title": "ABS - White",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#ECECE7FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PC",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "UM-PC-WHITE",
-    "title": "PC - White"
+    "title": "PC - White",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#575D5EFF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-GRAY",
-    "title": "PETG - Gray"
+    "title": "PETG - Gray",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#0E0E10FF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-BLACK",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": "Fiber",
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#8D948DFF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PET-CF",
     "measure": "750 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PET CF",
     "sku": "UM-PETCF-GRAY",
-    "title": "PET CF - Gray"
+    "title": "PET CF - Gray",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#ED6B21FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-ORANGE",
-    "title": "PLA - Orange"
+    "title": "PLA - Orange",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": "Fiber",
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#1E1E1EFF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PA-CF",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Nylon CF Slide",
     "sku": "UM-NYLCF-BLACK",
-    "title": "Nylon CF Slide - Black"
+    "title": "Nylon CF Slide - Black",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#D0D0D0",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PA",
     "measure": "750 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "Nylon",
     "sku": "UM-NYL-TRANSPARENT",
-    "title": "Nylon - Transparent"
+    "title": "Nylon - Transparent",
+    "updated_at": 1792798294670
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": "Fiber",
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#1E1E1E",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PET-CF",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PET CF",
     "sku": "UM-PETCF-BLACK",
-    "title": "PET CF - Black"
+    "title": "PET CF - Black",
+    "updated_at": 1788851430789
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#006341",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Green Translucent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-GREENTRANSLUCENT",
-    "title": "PETG - Green Translucent"
+    "title": "PETG - Green Translucent",
+    "updated_at": 1792798388384
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#93272C",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Red Translucent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-REDTRANSLUCENT",
-    "title": "PETG - Red Translucent"
+    "title": "PETG - Red Translucent",
+    "updated_at": 1792798392897
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#80643F",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Pearl Gold",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-PEARLGOLD",
-    "title": "ABS - Pearl Gold"
+    "title": "ABS - Pearl Gold",
+    "updated_at": 1792844489303
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#BB1E10FF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-RED",
-    "title": "ABS - Red"
+    "title": "ABS - Red",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#F9A800FF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-YELLOW",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#00387BFF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-BLUE",
-    "title": "ABS - Blue"
+    "title": "ABS - Blue",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#ECECE7FF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Tough PLA",
     "sku": "UM-TPLA-WHITE",
-    "title": "Tough PLA - White"
+    "title": "Tough PLA - White",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#F1ECE1FF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "CoPE",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "CPE+",
     "sku": "UM-CPE-WHITE",
-    "title": "CPE+ - White"
+    "title": "CPE+ - White",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#A1A1A0FF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-SILVER",
-    "title": "ABS - Silver"
+    "title": "ABS - Silver",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#0E0E10FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "CoPE",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CPE+",
     "sku": "UM-CPE-BLACK",
-    "title": "CPE+ - Black"
+    "title": "CPE+ - Black",
+    "updated_at": 1788794865923
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#52595DFF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-GRAY",
-    "title": "ABS - Gray"
+    "title": "ABS - Gray",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#F1DD38FF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-YELLOW",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#D0D0D0",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "CoPE",
     "measure": "750 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "CPE+",
     "sku": "UM-CPE-TRANSPARENT",
-    "title": "CPE+ - Transparent"
+    "title": "CPE+ - Transparent",
+    "updated_at": 1792799417459
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#00387BFF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "UM-TPU95A-BLUE",
-    "title": "TPU 95A - Blue"
+    "title": "TPU 95A - Blue",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#D0D0D0",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-TRANSPARENT",
-    "title": "PETG - Transparent"
+    "title": "PETG - Transparent",
+    "updated_at": 1792799485293
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#61993BFF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-GREEN",
-    "title": "ABS - Green"
+    "title": "ABS - Green",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#61993BFF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-GREEN",
-    "title": "PLA - Green"
+    "title": "PLA - Green",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#F1ECE1FF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-WHITE",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#78858BFF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "Tough PLA",
     "sku": "UM-TPLA-GRAY",
-    "title": "Tough PLA - Gray"
+    "title": "Tough PLA - Gray",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#00A95CFF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Tough PLA",
     "sku": "UM-TPLA-GREEN",
-    "title": "Tough PLA - Green"
+    "title": "Tough PLA - Green",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#BC4077FF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-MAGENTA",
-    "title": "PLA - Magenta"
+    "title": "PLA - Magenta",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#2A292AFF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "UM-ABS-BLACK",
-    "title": "ABS - Black"
+    "title": "ABS - Black",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#27292BFF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Nylon",
     "sku": "UM-NYL-BLACK",
-    "title": "Nylon - Black"
+    "title": "Nylon - Black",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#A1A1A0FF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-SILVER",
-    "title": "PETG - Silver"
+    "title": "PETG - Silver",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#2A292AFF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Tough PLA",
     "sku": "UM-TPLA-BLACK",
-    "title": "Tough PLA - Black"
+    "title": "Tough PLA - Black",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 350
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#F1ECE1FF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PVA",
     "measure": "350 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Breakaway",
     "sku": "UM-BRK-WHITE",
-    "title": "Breakaway - White"
+    "title": "Breakaway - White",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#F1ECE1FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "UM-TPU95A-WHITE",
-    "title": "TPU 95A - White"
+    "title": "TPU 95A - White",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 350
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#F5F2D1FF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PVA",
     "measure": "350 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PVA",
     "sku": "UM-PVA-NATURAL",
-    "title": "PVA - Natural"
+    "title": "PVA - Natural",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#B1D600FF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Yellow Fluorescent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-YELLOWFLUORESCENT",
-    "title": "PETG - Yellow Fluorescent"
+    "title": "PETG - Yellow Fluorescent",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#00387BFF",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-BLUE",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#1B5583FF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Tough PLA",
     "sku": "UM-TPLA-BLUE",
-    "title": "Tough PLA - Blue"
+    "title": "Tough PLA - Blue",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#BB1E10FF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "UM-PLA-RED",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#BB1E10FF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-RED",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#005387FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "UM-PETG-BLUE",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#0E0E10FF",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "UM-TPU95A-BLACK",
-    "title": "TPU 95A - Black"
+    "title": "TPU 95A - Black",
+    "updated_at": 1788794181340
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": "Fiber",
     "barcode": null,
     "brand": "UltiMaker",
     "color": "#025669FF",
@@ -2455,8 +2752,11 @@
     "info3": false,
     "material": "PET-CF",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PET CF",
     "sku": "UM-PETCF-BLUE",
-    "title": "PET CF - Blue"
+    "title": "PET CF - Blue",
+    "updated_at": 1788794181340
   }
 ]

@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#E30613FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMP-X584",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1789024780786
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#FCD116FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMP-X587",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1789024780786
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#009E49FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMP-X588",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1789025255907
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#FFFFFFFF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMP-X582",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1789024780786
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#7B2D8EFF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMP-X586",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1789024780786
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#FF6600FF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMP-X589",
-    "title": "PLA - Orange"
+    "title": "PLA - Orange",
+    "updated_at": 1789024780786
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#0057B8FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMP-X581",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1789025255907
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#000000FF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMP-X583",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1789024780786
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#0057B8FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "AMP-X585",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1789024780786
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "FDPlast",
     "color": "#FFFFFFFF",
@@ -405,8 +452,11 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "AMP-X580",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1789025255907
   }
 ]

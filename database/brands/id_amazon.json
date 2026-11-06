@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#FFFFFFFF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG+175W1",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1788482415140
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "840095870276",
     "brand": "Amazon",
     "color": "#F90E00FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG+175R1",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1788482415140
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#2E5AACFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silky Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175SB1",
-    "title": "PLA - Silky Blue"
+    "title": "PLA - Silky Blue",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#808080FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG+175G1",
-    "title": "PETG - Grey"
+    "title": "PETG - Grey",
+    "updated_at": 1788482415140
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "840095800358",
     "brand": "Amazon",
     "color": "#F60E00FF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175R1",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "840095851886",
     "brand": "Amazon",
     "color": "#DEDDE0FF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "ESilk-PLA175S1A",
-    "title": "PLA - Silver"
+    "title": "PLA - Silver",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#FF0000FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "ABS+175R1",
-    "title": "ABS - Red"
+    "title": "ABS - Red",
+    "updated_at": 1788482551959
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": "00840095800389",
     "brand": "Amazon",
     "color": "#FFA410",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175NO1",
-    "title": "PLA - Neon Orange"
+    "title": "PLA - Neon Orange",
+    "updated_at": 1792798006897
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "840095870429",
     "brand": "Amazon",
     "color": "#F68910FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG+175O1",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1788482415140
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#4F4F4FFF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "ABS+175DG1",
-    "title": "ABS - Dark Grey"
+    "title": "ABS - Dark Grey",
+    "updated_at": 1788482551959
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#FF69B4FF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175PK1",
-    "title": "PLA - Pink"
+    "title": "PLA - Pink",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "840095800297",
     "brand": "Amazon",
     "color": "#FFFFFFFF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175W3",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "00840095800129",
     "brand": "Amazon",
     "color": "#F10300FF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Translucent Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA175trR1000",
-    "title": "PLA - Translucent Red"
+    "title": "PLA - Translucent Red",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "840095851879",
     "brand": "Amazon",
     "color": "#F0DDA0FF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "ESilk-PLA175J1A",
-    "title": "PLA - Gold"
+    "title": "PLA - Gold",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "840095800105",
     "brand": "Amazon",
     "color": "#000000FF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175B3",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#D3D3D3FF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175LG1",
-    "title": "PLA - Light Grey"
+    "title": "PLA - Light Grey",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "840095800204",
     "brand": "Amazon",
     "color": "#A7DB60FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bright green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175BG1",
-    "title": "PLA - Bright green"
+    "title": "PLA - Bright green",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#050505FF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "ABS+175B1",
-    "title": "ABS - Black"
+    "title": "ABS - Black",
+    "updated_at": 1788482551959
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": "840095800228",
     "brand": "Amazon",
     "color": "#F0E9D0",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearl White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175PW1",
-    "title": "PLA - Pearl White"
+    "title": "PLA - Pearl White",
+    "updated_at": 1792844490972
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "840095800457",
     "brand": "Amazon",
     "color": "#E0D010FF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG+175Y1",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1788482415140
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "840095870375",
     "brand": "Amazon",
     "color": "#043FB0FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG+175U1",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1788482415140
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#B87333FF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Copper",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175SC1",
-    "title": "PLA - Silk Copper"
+    "title": "PLA - Silk Copper",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#FF6600FF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175OR1",
-    "title": "PLA - Orange"
+    "title": "PLA - Orange",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#4F4F4FFF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175DG1",
-    "title": "PLA - Dark Grey"
+    "title": "PLA - Dark Grey",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "00840095800242",
     "brand": "Amazon",
     "color": "#D20030FF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175Z1",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#FFFFFFFF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "TPU+175W1",
-    "title": "TPU - White"
+    "title": "TPU - White",
+    "updated_at": 1788482714054
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#F0F8FF4D",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Translucent",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175TR1",
-    "title": "PLA - Translucent"
+    "title": "PLA - Translucent",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#FFFFFFFF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "ABS+175W1",
-    "title": "ABS - White"
+    "title": "ABS - White",
+    "updated_at": 1788482551959
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "00840095800112",
     "brand": "Amazon",
     "color": "#28A4D0FF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bleu",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175U1",
-    "title": "PLA - Bleu"
+    "title": "PLA - Bleu",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": "840095800211",
     "brand": "Amazon",
     "color": "#97E190",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175NG1",
-    "title": "PLA - Neon Green"
+    "title": "PLA - Neon Green",
+    "updated_at": 1792799474417
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "00840095800372",
     "brand": "Amazon",
     "color": "#9D6D50FF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175C1",
-    "title": "PLA - Brown"
+    "title": "PLA - Brown",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "00840095800303",
     "brand": "Amazon",
     "color": "#F9F160FF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175Y1",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "840095800167",
     "brand": "Amazon",
     "color": "#050E70FF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175DU1",
-    "title": "PLA - Dark Blue"
+    "title": "PLA - Dark Blue",
+    "updated_at": 1788482253288
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Amazon",
     "color": "#1FB7E0FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "ABS+175U1",
-    "title": "ABS - Blue"
+    "title": "ABS - Blue",
+    "updated_at": 1788482551959
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": "00840095800174",
     "brand": "Amazon",
     "color": "#E5E3D0",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PLA+175LM1",
-    "title": "PLA - Glow"
+    "title": "PLA - Glow",
+    "updated_at": 1792844616982
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "840095870443",
     "brand": "Amazon",
     "color": "#FBFBF0FF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Translucent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG175T1",
-    "title": "PETG - Translucent"
+    "title": "PETG - Translucent",
+    "updated_at": 1788482415140
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "840095870351",
     "brand": "Amazon",
     "color": "#000000FF",
@@ -1512,8 +1694,11 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG+175B1",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1788482415140
   }
 ]

@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "793591002101",
     "brand": "Copper3D",
     "color": "#38E935FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Apple Green",
     "product_type": "Filament",
+    "series": "PLActive",
     "sku": "COFC1456",
-    "title": "PLActive - Apple Green"
+    "title": "PLActive - Apple Green",
+    "updated_at": 1788486549590
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "793591374147",
     "brand": "Copper3D",
     "color": "#FF0000FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "MDflex",
     "sku": "COFC1458",
-    "title": "MDflex - Red"
+    "title": "MDflex - Red",
+    "updated_at": 1788486683977
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "793591002125",
     "brand": "Copper3D",
     "color": "#2B54F7FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PLActive",
     "sku": "COFC1454",
-    "title": "PLActive - Sky Blue"
+    "title": "PLActive - Sky Blue",
+    "updated_at": 1788486549590
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "793591002118",
     "brand": "Copper3D",
     "color": "#FF0000FF",
@@ -159,8 +176,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLActive",
     "sku": "COFC1455",
-    "title": "PLActive - Red"
+    "title": "PLActive - Red",
+    "updated_at": 1788486549590
   }
 ]

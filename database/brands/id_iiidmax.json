@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-YELLOW",
-    "title": "High Speed PETG IIIDMAX - Yellow"
+    "title": "High Speed PETG IIIDMAX - Yellow",
+    "updated_at": 1793371677723
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Gold-Green-Fuchsia",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-GOLDGREENFUCHSIA",
-    "title": "High Speed Silk PLA+ IIIDMAX - Gold-Green-Fuchsia"
+    "title": "High Speed Silk PLA+ IIIDMAX - Gold-Green-Fuchsia",
+    "updated_at": 1793373146818
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Raspberry",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "RASPBERRY-PLA",
-    "title": "Classic PLA+ IIIDMAX - Raspberry"
+    "title": "Classic PLA+ IIIDMAX - Raspberry",
+    "updated_at": 1793374203390
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Frosty Desert Yellow",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-FROSTYYELLOW",
-    "title": "High Speed PLA+ IIIDMAX - Frosty Desert Yellow"
+    "title": "High Speed PLA+ IIIDMAX - Frosty Desert Yellow",
+    "updated_at": 1793372719535
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Classic PETG IIIDMAX",
     "sku": "PETG-WHITE",
-    "title": "Classic PETG IIIDMAX - White"
+    "title": "Classic PETG IIIDMAX - White",
+    "updated_at": 1793371996637
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Blue-Green-Orange",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-BLUEGREENORANGE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Blue-Green-Orange"
+    "title": "High Speed Silk PLA+ IIIDMAX - Blue-Green-Orange",
+    "updated_at": 1793371843117
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F06292",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Light Pink",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "LIGHT-PINK-PLA",
-    "title": "Classic PLA+ IIIDMAX - Light Pink"
+    "title": "Classic PLA+ IIIDMAX - Light Pink",
+    "updated_at": 1793374551432
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS IIIDMAX",
     "sku": "ABS-RED",
-    "title": "ABS IIIDMAX - Red"
+    "title": "ABS IIIDMAX - Red",
+    "updated_at": 1793374067380
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8B1E2D",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Burgundy",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-BURGUNDY",
-    "title": "High Speed PLA+ IIIDMAX - Burgundy"
+    "title": "High Speed PLA+ IIIDMAX - Burgundy",
+    "updated_at": 1793372030440
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Emerald",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-EMERALDGREEN",
-    "title": "High Speed PLA+ IIIDMAX - Emerald"
+    "title": "High Speed PLA+ IIIDMAX - Emerald",
+    "updated_at": 1793372586906
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Black-Red",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-BLACKRED",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Black-Red"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Black-Red",
+    "updated_at": 1793373186295
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Black-Purple",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-BLACKPURPLE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Black-Purple"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Black-Purple",
+    "updated_at": 1793373186221
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Blue",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-BLUE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Blue"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Blue",
+    "updated_at": 1793373165205
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8D6E63",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Oats",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-OATS",
-    "title": "High Speed PLA+ IIIDMAX - Oats"
+    "title": "High Speed PLA+ IIIDMAX - Oats",
+    "updated_at": 1793375034911
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-RED",
-    "title": "High Speed PLA+ IIIDMAX - Red"
+    "title": "High Speed PLA+ IIIDMAX - Red",
+    "updated_at": 1793374074738
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Green-Orange",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-GREENORANGE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Green-Orange"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Green-Orange",
+    "updated_at": 1793372977901
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#808080",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-DARKGREY",
-    "title": "High Speed PLA+ IIIDMAX - Dark Grey"
+    "title": "High Speed PLA+ IIIDMAX - Dark Grey",
+    "updated_at": 1793372452127
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ABS IIIDMAX",
     "sku": "ABS-BLUE",
-    "title": "ABS IIIDMAX - Blue"
+    "title": "ABS IIIDMAX - Blue",
+    "updated_at": 1793371686249
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#7B3FA0",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Lavender",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-LAVENDER",
-    "title": "High Speed PLA+ IIIDMAX - Lavender"
+    "title": "High Speed PLA+ IIIDMAX - Lavender",
+    "updated_at": 1793374267521
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#808080",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Silver",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-SILVER",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Silver"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Silver",
+    "updated_at": 1793372795596
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Bamboo Green",
     "product_type": "Filament",
+    "series": "High Speed TPU 95A IIIDMAX",
     "sku": "IIID-HS-TPU-BAMBOO-GREEN",
-    "title": "High Speed TPU 95A IIIDMAX - Bamboo Green"
+    "title": "High Speed TPU 95A IIIDMAX - Bamboo Green",
+    "updated_at": 1793371419893
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#20B2C9",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Turquoise",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-TURQUOISE",
-    "title": "High Speed PLA+ IIIDMAX - Turquoise"
+    "title": "High Speed PLA+ IIIDMAX - Turquoise",
+    "updated_at": 1793372157393
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk RoseRed-Green",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-ROSEGREEN",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk RoseRed-Green"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk RoseRed-Green",
+    "updated_at": 1793372799646
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Classic PETG IIIDMAX",
     "sku": "PETG-RED",
-    "title": "Classic PETG IIIDMAX - Red"
+    "title": "Classic PETG IIIDMAX - Red",
+    "updated_at": 1793374076691
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Gold",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-PLA-GOLD",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Gold"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Gold",
+    "updated_at": 1793373037624
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Pumpkin",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-PUMPKIN",
-    "title": "High Speed PLA+ IIIDMAX - Pumpkin"
+    "title": "High Speed PLA+ IIIDMAX - Pumpkin",
+    "updated_at": 1793374541730
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#7B3FA0",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Violet",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "VIOLET-PLA",
-    "title": "Classic PLA+ IIIDMAX - Violet"
+    "title": "Classic PLA+ IIIDMAX - Violet",
+    "updated_at": 1793372124606
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Yellow",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-YELLOW",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Yellow"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Yellow",
+    "updated_at": 1793372788302
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-WHITE",
-    "title": "High Speed PETG IIIDMAX - White"
+    "title": "High Speed PETG IIIDMAX - White",
+    "updated_at": 1793372015314
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "High Speed TPU 95A IIIDMAX",
     "sku": "IIID-HS-TPU-YELLOW",
-    "title": "High Speed TPU 95A IIIDMAX - Yellow"
+    "title": "High Speed TPU 95A IIIDMAX - Yellow",
+    "updated_at": 1793371702486
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Fluo Blue",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-FLUOBLUE",
-    "title": "High Speed PLA+ IIIDMAX - Fluo Blue"
+    "title": "High Speed PLA+ IIIDMAX - Fluo Blue",
+    "updated_at": 1793372637023
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Cool White",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "COOL-WHITE-PLA",
-    "title": "Classic PLA+ IIIDMAX - Cool White"
+    "title": "Classic PLA+ IIIDMAX - Cool White",
+    "updated_at": 1793372199602
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-WHITE",
-    "title": "High Speed PLA+ IIIDMAX - White"
+    "title": "High Speed PLA+ IIIDMAX - White",
+    "updated_at": 1793371998803
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Crystal",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-CLEAR-CRYSTAL",
-    "title": "High Speed PETG IIIDMAX - Crystal"
+    "title": "High Speed PETG IIIDMAX - Crystal",
+    "updated_at": 1793372262316
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Vanilla",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-VANILLA",
-    "title": "High Speed PLA+ IIIDMAX - Vanilla"
+    "title": "High Speed PLA+ IIIDMAX - Vanilla",
+    "updated_at": 1793372137885
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Grayish Green",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-GRAYISHGREEN",
-    "title": "High Speed PLA+ IIIDMAX - Grayish Green"
+    "title": "High Speed PLA+ IIIDMAX - Grayish Green",
+    "updated_at": 1793373353425
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616FF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "MATTE-BLACK-PLA",
-    "title": "Classic PLA+ IIIDMAX - Black"
+    "title": "Classic PLA+ IIIDMAX - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#7B3FA0",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Mystic Purple",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-MYSTIC",
-    "title": "High Speed PLA+ IIIDMAX - Mystic Purple"
+    "title": "High Speed PLA+ IIIDMAX - Mystic Purple",
+    "updated_at": 1793374866097
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High Speed Carbon Fiber PLA+ IIIDMAX",
     "sku": "PLA-CF-B",
-    "title": "High Speed Carbon Fiber PLA+ IIIDMAX - Black"
+    "title": "High Speed Carbon Fiber PLA+ IIIDMAX - Black",
+    "updated_at": 1793371603106
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#C9C9C9",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Marble",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "MARBLE-PLA",
-    "title": "Classic PLA+ IIIDMAX - Marble"
+    "title": "Classic PLA+ IIIDMAX - Marble",
+    "updated_at": 1793374700315
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "White Oak",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-WHITE-OAK",
-    "title": "High Speed PLA+ IIIDMAX - White Oak"
+    "title": "High Speed PLA+ IIIDMAX - White Oak",
+    "updated_at": 1793371828282
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "YELLOW-PLA",
-    "title": "Classic PLA+ IIIDMAX - Yellow"
+    "title": "Classic PLA+ IIIDMAX - Yellow",
+    "updated_at": 1793371683011
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#3B2F2A",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Ebony",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-EBONY",
-    "title": "High Speed PLA+ IIIDMAX - Ebony"
+    "title": "High Speed PLA+ IIIDMAX - Ebony",
+    "updated_at": 1793371156404
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Bronze-Orange",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-BRONZEORANGE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Bronze-Orange"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Bronze-Orange",
+    "updated_at": 1793373099997
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Green Plum",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-GREENPLUM",
-    "title": "High Speed PLA+ IIIDMAX - Green Plum"
+    "title": "High Speed PLA+ IIIDMAX - Green Plum",
+    "updated_at": 1793373767124
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Crystal",
     "product_type": "Filament",
+    "series": "Classic PETG IIIDMAX",
     "sku": "PETG-CRYSTAL-CLEAR",
-    "title": "Classic PETG IIIDMAX - Crystal"
+    "title": "Classic PETG IIIDMAX - Crystal",
+    "updated_at": 1793372265600
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Black",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-BLACK",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Black"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Black",
+    "updated_at": 1793373199853
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Graphite",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-MATTE-GRAPHITE",
-    "title": "High Speed PLA+ IIIDMAX - Graphite"
+    "title": "High Speed PLA+ IIIDMAX - Graphite",
+    "updated_at": 1793373211840
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Crystal",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-CRYSTAL",
-    "title": "High Speed PLA+ IIIDMAX - Crystal"
+    "title": "High Speed PLA+ IIIDMAX - Crystal",
+    "updated_at": 1793372263940
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616FF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High Speed TPU 95A IIIDMAX",
     "sku": "IIID-HS-TPU-BLACK",
-    "title": "High Speed TPU 95A IIIDMAX - Black"
+    "title": "High Speed TPU 95A IIIDMAX - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#808080",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-GREY",
-    "title": "High Speed PETG IIIDMAX - Grey"
+    "title": "High Speed PETG IIIDMAX - Grey",
+    "updated_at": 1793373825096
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Classic PETG IIIDMAX",
     "sku": "PETG-BLACK",
-    "title": "Classic PETG IIIDMAX - Black"
+    "title": "Classic PETG IIIDMAX - Black",
+    "updated_at": 1793371528604
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#6B7A3A",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Tan",
     "product_type": "Filament",
+    "series": "ABS IIIDMAX",
     "sku": "ABS-TAN",
-    "title": "ABS IIIDMAX - Tan"
+    "title": "ABS IIIDMAX - Tan",
+    "updated_at": 1793372421320
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#6B7A3A",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Pine Green",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-PINEGREEN",
-    "title": "High Speed PLA+ IIIDMAX - Pine Green"
+    "title": "High Speed PLA+ IIIDMAX - Pine Green",
+    "updated_at": 1793374677420
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8D6E63",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-BROWN",
-    "title": "High Speed PLA+ IIIDMAX - Brown"
+    "title": "High Speed PLA+ IIIDMAX - Brown",
+    "updated_at": 1793372008624
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "MATTE-RED-PLA",
-    "title": "Classic PLA+ IIIDMAX - Red"
+    "title": "Classic PLA+ IIIDMAX - Red",
+    "updated_at": 1793374078621
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616FF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS IIIDMAX",
     "sku": "ABS-BLACK",
-    "title": "ABS IIIDMAX - Black"
+    "title": "ABS IIIDMAX - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F06292",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Pink",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-PINK",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Pink"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Pink",
+    "updated_at": 1793372960684
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Gemstone Blue",
     "product_type": "Filament",
+    "series": "High Speed TPU 95A IIIDMAX",
     "sku": "IIID-HS-TPU-GEMSTONE-BLUE",
-    "title": "High Speed TPU 95A IIIDMAX - Gemstone Blue"
+    "title": "High Speed TPU 95A IIIDMAX - Gemstone Blue",
+    "updated_at": 1793372742412
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Purplish Red",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-PURPLISHRED",
-    "title": "High Speed PLA+ IIIDMAX - Purplish Red"
+    "title": "High Speed PLA+ IIIDMAX - Purplish Red",
+    "updated_at": 1793374295117
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-BLUE",
-    "title": "High Speed PLA+ IIIDMAX - Blue"
+    "title": "High Speed PLA+ IIIDMAX - Blue",
+    "updated_at": 1793371713984
   },
   {
     "RFID_Data": {
@@ -2527,6 +2832,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#E53935",
@@ -2545,9 +2852,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Rainbow 3",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-RAINBOW-3",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Rainbow 3"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Rainbow 3",
+    "updated_at": 1793372839322
   },
   {
     "RFID_Data": {
@@ -2570,6 +2880,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -2586,9 +2898,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Ochre",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-OCHRE",
-    "title": "High Speed PLA+ IIIDMAX - Ochre"
+    "title": "High Speed PLA+ IIIDMAX - Ochre",
+    "updated_at": 1793375030164
   },
   {
     "RFID_Data": {
@@ -2611,6 +2926,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -2627,9 +2944,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-DARK-BLUE",
-    "title": "High Speed PETG IIIDMAX - Dark Blue"
+    "title": "High Speed PETG IIIDMAX - Dark Blue",
+    "updated_at": 1793372304142
   },
   {
     "RFID_Data": {
@@ -2652,6 +2972,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -2668,9 +2990,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Green",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-GREEN",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Green"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Green",
+    "updated_at": 1793372999096
   },
   {
     "RFID_Data": {
@@ -2699,6 +3024,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#E53935",
@@ -2717,9 +3044,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Rainbow 1",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-RAINBOW-1",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Rainbow 1"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Rainbow 1",
+    "updated_at": 1793372899813
   },
   {
     "RFID_Data": {
@@ -2742,6 +3072,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -2758,9 +3090,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-RED",
-    "title": "High Speed PETG IIIDMAX - Red"
+    "title": "High Speed PETG IIIDMAX - Red",
+    "updated_at": 1793374057241
   },
   {
     "RFID_Data": {
@@ -2783,6 +3118,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -2799,9 +3136,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "ROYAL-BLUE-PLA",
-    "title": "Classic PLA+ IIIDMAX - Royal Blue"
+    "title": "Classic PLA+ IIIDMAX - Royal Blue",
+    "updated_at": 1793373703487
   },
   {
     "RFID_Data": {
@@ -2824,6 +3164,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#808080",
@@ -2840,9 +3182,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "ABS IIIDMAX",
     "sku": "ABS-GRAY",
-    "title": "ABS IIIDMAX - Gray"
+    "title": "ABS IIIDMAX - Gray",
+    "updated_at": 1793373226696
   },
   {
     "RFID_Data": {
@@ -2865,6 +3210,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#7B3FA0",
@@ -2881,9 +3228,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Dual Silk Lavender",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-LAVENDER",
-    "title": "High Speed Silk PLA+ IIIDMAX - Dual Silk Lavender"
+    "title": "High Speed Silk PLA+ IIIDMAX - Dual Silk Lavender",
+    "updated_at": 1793372545110
   },
   {
     "RFID_Data": {
@@ -2906,6 +3256,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -2922,9 +3274,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Fluo Red",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-FLUORED",
-    "title": "High Speed PLA+ IIIDMAX - Fluo Red"
+    "title": "High Speed PLA+ IIIDMAX - Fluo Red",
+    "updated_at": 1793372653895
   },
   {
     "RFID_Data": {
@@ -2947,6 +3302,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F06292",
@@ -2963,9 +3320,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Peach",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-PEACH",
-    "title": "High Speed PLA+ IIIDMAX - Peach"
+    "title": "High Speed PLA+ IIIDMAX - Peach",
+    "updated_at": 1793374722436
   },
   {
     "RFID_Data": {
@@ -2988,6 +3348,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -3004,9 +3366,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "White Matte",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-WHITE",
-    "title": "High Speed PLA+ IIIDMAX - White Matte"
+    "title": "High Speed PLA+ IIIDMAX - White Matte",
+    "updated_at": 1793371835728
   },
   {
     "RFID_Data": {
@@ -3029,6 +3394,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F06292",
@@ -3045,9 +3412,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Lotus Pink",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-LOTUSSPINK",
-    "title": "High Speed PLA+ IIIDMAX - Lotus Pink"
+    "title": "High Speed PLA+ IIIDMAX - Lotus Pink",
+    "updated_at": 1793374604016
   },
   {
     "RFID_Data": {
@@ -3070,6 +3440,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8D6E63",
@@ -3086,9 +3458,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Faux Wood",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-FAUX-WOOD",
-    "title": "High Speed PLA+ IIIDMAX - Faux Wood"
+    "title": "High Speed PLA+ IIIDMAX - Faux Wood",
+    "updated_at": 1793372620904
   },
   {
     "RFID_Data": {
@@ -3111,6 +3486,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -3127,9 +3504,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Red Matte",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-RED",
-    "title": "High Speed PLA+ IIIDMAX - Red Matte"
+    "title": "High Speed PLA+ IIIDMAX - Red Matte",
+    "updated_at": 1793373770105
   },
   {
     "RFID_Data": {
@@ -3152,6 +3532,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#7B3FA0",
@@ -3168,9 +3550,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Purple",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-PURPLE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Purple"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Purple",
+    "updated_at": 1793375168639
   },
   {
     "RFID_Data": {
@@ -3193,6 +3578,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -3209,9 +3596,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Blue-Red",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-BLUERED",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Blue-Red"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Blue-Red",
+    "updated_at": 1793373125780
   },
   {
     "RFID_Data": {
@@ -3234,6 +3624,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -3250,9 +3642,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-LIGHTBLUE",
-    "title": "High Speed PLA+ IIIDMAX - Light Blue"
+    "title": "High Speed PLA+ IIIDMAX - Light Blue",
+    "updated_at": 1793374335158
   },
   {
     "RFID_Data": {
@@ -3275,6 +3670,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -3291,9 +3688,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "NEW-ORANGE-PLA",
-    "title": "Classic PLA+ IIIDMAX - Orange"
+    "title": "Classic PLA+ IIIDMAX - Orange",
+    "updated_at": 1793374896049
   },
   {
     "RFID_Data": {
@@ -3316,6 +3716,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -3332,9 +3734,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Sunset Orange",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "SUNSET-ORANGE-PLA",
-    "title": "Classic PLA+ IIIDMAX - Sunset Orange"
+    "title": "Classic PLA+ IIIDMAX - Sunset Orange",
+    "updated_at": 1793372437987
   },
   {
     "RFID_Data": {
@@ -3357,6 +3762,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -3373,9 +3780,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "High Speed TPU 95A IIIDMAX",
     "sku": "IIID-HS-TPU-RED",
-    "title": "High Speed TPU 95A IIIDMAX - Red"
+    "title": "High Speed TPU 95A IIIDMAX - Red",
+    "updated_at": 1793374057305
   },
   {
     "RFID_Data": {
@@ -3398,6 +3808,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -3414,9 +3826,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-YELLOW",
-    "title": "High Speed PLA+ IIIDMAX - Yellow"
+    "title": "High Speed PLA+ IIIDMAX - Yellow",
+    "updated_at": 1793371674212
   },
   {
     "RFID_Data": {
@@ -3439,6 +3854,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#20B2C9",
@@ -3455,9 +3872,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Deep Cyan",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-DEEPCYAN",
-    "title": "High Speed PLA+ IIIDMAX - Deep Cyan"
+    "title": "High Speed PLA+ IIIDMAX - Deep Cyan",
+    "updated_at": 1793372512331
   },
   {
     "RFID_Data": {
@@ -3480,6 +3900,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#6B7A3A",
@@ -3496,9 +3918,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-ARMYGREEN",
-    "title": "High Speed PLA+ IIIDMAX - Army Green"
+    "title": "High Speed PLA+ IIIDMAX - Army Green",
+    "updated_at": 1793371345431
   },
   {
     "RFID_Data": {
@@ -3521,6 +3946,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616FF",
@@ -3537,9 +3964,12 @@
     "info3": false,
     "material": "PA-CF",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "FiberX PA6/66+CF15 IIIDMAX",
     "sku": "PA6-CF-500",
-    "title": "FiberX PA6/66+CF15 IIIDMAX - Black"
+    "title": "FiberX PA6/66+CF15 IIIDMAX - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3562,6 +3992,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#6B7A3A",
@@ -3578,9 +4010,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Forest Green",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "FOREST-GREEN-PLA",
-    "title": "Classic PLA+ IIIDMAX - Forest Green"
+    "title": "Classic PLA+ IIIDMAX - Forest Green",
+    "updated_at": 1793372680299
   },
   {
     "RFID_Data": {
@@ -3603,6 +4038,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -3619,9 +4056,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-DARKGREEN",
-    "title": "High Speed PLA+ IIIDMAX - Dark Green"
+    "title": "High Speed PLA+ IIIDMAX - Dark Green",
+    "updated_at": 1793372383118
   },
   {
     "RFID_Data": {
@@ -3644,6 +4084,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -3660,9 +4102,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Orange",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-ORANGE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Orange"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Orange",
+    "updated_at": 1793372977813
   },
   {
     "RFID_Data": {
@@ -3685,6 +4130,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -3701,9 +4148,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Red",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-RED",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Red"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Red",
+    "updated_at": 1793372839326
   },
   {
     "RFID_Data": {
@@ -3726,6 +4176,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -3742,9 +4194,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "High Speed TPU 95A IIIDMAX",
     "sku": "IIID-HS-TPU-ORANGE",
-    "title": "High Speed TPU 95A IIIDMAX - Orange"
+    "title": "High Speed TPU 95A IIIDMAX - Orange",
+    "updated_at": 1793374904280
   },
   {
     "RFID_Data": {
@@ -3767,6 +4222,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -3783,9 +4240,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Cream Pink",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-CREAM-PINK",
-    "title": "High Speed PLA+ IIIDMAX - Cream Pink"
+    "title": "High Speed PLA+ IIIDMAX - Cream Pink",
+    "updated_at": 1793372253394
   },
   {
     "RFID_Data": {
@@ -3808,6 +4268,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Glow in the Dark",
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -3824,9 +4286,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "Glow in the Dark PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-GLOW-GREEN",
-    "title": "Glow in the Dark PLA+ IIIDMAX - Neon Green"
+    "title": "Glow in the Dark PLA+ IIIDMAX - Neon Green",
+    "updated_at": 1793375014230
   },
   {
     "RFID_Data": {
@@ -3849,6 +4314,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616FF",
@@ -3865,9 +4332,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-BLACK",
-    "title": "High Speed PLA+ IIIDMAX - Black"
+    "title": "High Speed PLA+ IIIDMAX - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3890,6 +4360,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -3906,9 +4378,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Red-Gold-Black",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-REDGOLDBLACK",
-    "title": "High Speed Silk PLA+ IIIDMAX - Red-Gold-Black"
+    "title": "High Speed Silk PLA+ IIIDMAX - Red-Gold-Black",
+    "updated_at": 1793373760107
   },
   {
     "RFID_Data": {
@@ -3931,6 +4406,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -3947,9 +4424,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Scallion Green",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-SCALGREEN",
-    "title": "High Speed PLA+ IIIDMAX - Scallion Green"
+    "title": "High Speed PLA+ IIIDMAX - Scallion Green",
+    "updated_at": 1793373307000
   },
   {
     "RFID_Data": {
@@ -3972,6 +4452,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -3988,9 +4470,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Black Matte",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-BLACK",
-    "title": "High Speed PLA+ IIIDMAX - Black Matte"
+    "title": "High Speed PLA+ IIIDMAX - Black Matte",
+    "updated_at": 1793371644502
   },
   {
     "RFID_Data": {
@@ -4013,6 +4498,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2C200",
@@ -4029,9 +4516,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Duvet Yellow",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-DUVETYELLOW",
-    "title": "High Speed PLA+ IIIDMAX - Duvet Yellow"
+    "title": "High Speed PLA+ IIIDMAX - Duvet Yellow",
+    "updated_at": 1793372542224
   },
   {
     "RFID_Data": {
@@ -4054,6 +4544,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -4070,9 +4562,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-ORANGE",
-    "title": "High Speed PETG IIIDMAX - Orange"
+    "title": "High Speed PETG IIIDMAX - Orange",
+    "updated_at": 1793374879516
   },
   {
     "RFID_Data": {
@@ -4095,6 +4590,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8D6E63",
@@ -4111,9 +4608,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Coffee",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "COFFEE-PLA",
-    "title": "Classic PLA+ IIIDMAX - Coffee"
+    "title": "Classic PLA+ IIIDMAX - Coffee",
+    "updated_at": 1793372155406
   },
   {
     "RFID_Data": {
@@ -4136,6 +4636,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#7B3FA0",
@@ -4152,9 +4654,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-PURPLE",
-    "title": "High Speed PETG IIIDMAX - Purple"
+    "title": "High Speed PETG IIIDMAX - Purple",
+    "updated_at": 1793374482993
   },
   {
     "RFID_Data": {
@@ -4177,6 +4682,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -4193,9 +4700,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "FiberX PETG+CF IIIDMAX",
     "sku": "PETG-CF-B",
-    "title": "FiberX PETG+CF IIIDMAX - Black"
+    "title": "FiberX PETG+CF IIIDMAX - Black",
+    "updated_at": 1793371604382
   },
   {
     "RFID_Data": {
@@ -4218,6 +4728,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -4234,9 +4746,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Blue-Green",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-BLUEGREEN",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Blue-Green"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Blue-Green",
+    "updated_at": 1793373146796
   },
   {
     "RFID_Data": {
@@ -4259,6 +4774,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -4275,9 +4792,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Red-Green",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-REDGREEN",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Red-Green"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Red-Green",
+    "updated_at": 1793372819506
   },
   {
     "RFID_Data": {
@@ -4300,6 +4820,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -4316,9 +4838,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Fluo Green",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-FLUOGREEN",
-    "title": "High Speed PLA+ IIIDMAX - Fluo Green"
+    "title": "High Speed PLA+ IIIDMAX - Fluo Green",
+    "updated_at": 1793372643788
   },
   {
     "RFID_Data": {
@@ -4347,6 +4872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#E53935",
@@ -4365,9 +4892,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Rainbow 2",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-RAINBOW-2",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Rainbow 2"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Rainbow 2",
+    "updated_at": 1793372858594
   },
   {
     "RFID_Data": {
@@ -4390,6 +4920,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#7B3FA0",
@@ -4406,9 +4938,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Violet",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-VIOLET",
-    "title": "High Speed PLA+ IIIDMAX - Violet"
+    "title": "High Speed PLA+ IIIDMAX - Violet",
+    "updated_at": 1793372119125
   },
   {
     "RFID_Data": {
@@ -4431,6 +4966,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -4447,9 +4984,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Glacier Blue",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-GLACIERBLUE",
-    "title": "High Speed PLA+ IIIDMAX - Glacier Blue"
+    "title": "High Speed PLA+ IIIDMAX - Glacier Blue",
+    "updated_at": 1793372760302
   },
   {
     "RFID_Data": {
@@ -4472,6 +5012,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#808080",
@@ -4488,9 +5030,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "SILVER-PLA",
-    "title": "Classic PLA+ IIIDMAX - Silver"
+    "title": "Classic PLA+ IIIDMAX - Silver",
+    "updated_at": 1793372747788
   },
   {
     "RFID_Data": {
@@ -4513,6 +5058,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Glow in the Dark",
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -4529,9 +5076,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Neon Sky Blue",
     "product_type": "Filament",
+    "series": "Glow in the Dark PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-GLOW-SKYBLUE",
-    "title": "Glow in the Dark PLA+ IIIDMAX - Neon Sky Blue"
+    "title": "Glow in the Dark PLA+ IIIDMAX - Neon Sky Blue",
+    "updated_at": 1793375079896
   },
   {
     "RFID_Data": {
@@ -4554,6 +5104,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616FF",
@@ -4570,9 +5122,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-BLACK",
-    "title": "High Speed PETG IIIDMAX - Black"
+    "title": "High Speed PETG IIIDMAX - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4595,6 +5150,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -4611,9 +5168,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Blue-Orange",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-BLUEORANGE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Blue-Orange"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Blue-Orange",
+    "updated_at": 1793373146887
   },
   {
     "RFID_Data": {
@@ -4636,6 +5196,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#D32F2F",
@@ -4652,9 +5214,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Red-Green-Blue",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-REDGREENBLUE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Red-Green-Blue"
+    "title": "High Speed Silk PLA+ IIIDMAX - Red-Green-Blue",
+    "updated_at": 1793373759827
   },
   {
     "RFID_Data": {
@@ -4677,6 +5242,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -4693,9 +5260,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-ORANGE",
-    "title": "High Speed PLA+ IIIDMAX - Orange"
+    "title": "High Speed PLA+ IIIDMAX - Orange",
+    "updated_at": 1793374898198
   },
   {
     "RFID_Data": {
@@ -4718,6 +5288,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#161616",
@@ -4734,9 +5306,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "FiberX ABS+CF IIIDMAX",
     "sku": "ABS-CF-B",
-    "title": "FiberX ABS+CF IIIDMAX - Black"
+    "title": "FiberX ABS+CF IIIDMAX - Black",
+    "updated_at": 1793371530985
   },
   {
     "RFID_Data": {
@@ -4759,6 +5334,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F06292",
@@ -4775,9 +5352,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Light Pink",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-LIGHTPINK",
-    "title": "High Speed PLA+ IIIDMAX - Light Pink"
+    "title": "High Speed PLA+ IIIDMAX - Light Pink",
+    "updated_at": 1793374547619
   },
   {
     "RFID_Data": {
@@ -4800,6 +5380,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8D6E63",
@@ -4816,9 +5398,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Bronze",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-PLA-BRONZE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Bronze"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Bronze",
+    "updated_at": 1793373101312
   },
   {
     "RFID_Data": {
@@ -4841,6 +5426,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#2E9E4F",
@@ -4857,9 +5444,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Emerald",
     "product_type": "Filament",
+    "series": "ABS IIIDMAX",
     "sku": "ABS-EMERALD",
-    "title": "ABS IIIDMAX - Emerald"
+    "title": "ABS IIIDMAX - Emerald",
+    "updated_at": 1793372587220
   },
   {
     "RFID_Data": {
@@ -4882,6 +5472,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8D6E63",
@@ -4898,9 +5490,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-CHOCOLATE",
-    "title": "High Speed PLA+ IIIDMAX - Chocolate"
+    "title": "High Speed PLA+ IIIDMAX - Chocolate",
+    "updated_at": 1793372096518
   },
   {
     "RFID_Data": {
@@ -4923,6 +5518,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#7B3FA0",
@@ -4939,9 +5536,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Lavender Matte",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-LAVENDER",
-    "title": "High Speed PLA+ IIIDMAX - Lavender Matte"
+    "title": "High Speed PLA+ IIIDMAX - Lavender Matte",
+    "updated_at": 1793374260229
   },
   {
     "RFID_Data": {
@@ -4964,6 +5564,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#808080",
@@ -4980,9 +5582,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Space Gray",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "SPACE-GRAY-PLA",
-    "title": "Classic PLA+ IIIDMAX - Space Gray"
+    "title": "Classic PLA+ IIIDMAX - Space Gray",
+    "updated_at": 1793372554503
   },
   {
     "RFID_Data": {
@@ -5005,6 +5610,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F06292",
@@ -5021,9 +5628,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-PINK",
-    "title": "High Speed PLA+ IIIDMAX - Pink"
+    "title": "High Speed PLA+ IIIDMAX - Pink",
+    "updated_at": 1793374635596
   },
   {
     "RFID_Data": {
@@ -5046,6 +5656,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8D6E63",
@@ -5062,9 +5674,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Mahogany",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MAHOGANY",
-    "title": "High Speed PLA+ IIIDMAX - Mahogany"
+    "title": "High Speed PLA+ IIIDMAX - Mahogany",
+    "updated_at": 1793374682197
   },
   {
     "RFID_Data": {
@@ -5087,6 +5702,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -5103,9 +5720,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ABS IIIDMAX",
     "sku": "ABS-ORANGE",
-    "title": "ABS IIIDMAX - Orange"
+    "title": "ABS IIIDMAX - Orange",
+    "updated_at": 1793374899603
   },
   {
     "RFID_Data": {
@@ -5128,6 +5748,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8D6E63",
@@ -5144,9 +5766,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Copper",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-SILK-PLA-COPPER",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Copper"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Copper",
+    "updated_at": 1793373063420
   },
   {
     "RFID_Data": {
@@ -5169,6 +5794,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#808080",
@@ -5185,9 +5812,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Cold Grey",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-MATTE-COLDGREY",
-    "title": "High Speed PLA+ IIIDMAX - Cold Grey"
+    "title": "High Speed PLA+ IIIDMAX - Cold Grey",
+    "updated_at": 1793372155400
   },
   {
     "RFID_Data": {
@@ -5210,6 +5840,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F57C00",
@@ -5226,9 +5858,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Fluo Orange",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-FLUOORANGE",
-    "title": "High Speed PLA+ IIIDMAX - Fluo Orange"
+    "title": "High Speed PLA+ IIIDMAX - Fluo Orange",
+    "updated_at": 1793372645793
   },
   {
     "RFID_Data": {
@@ -5251,6 +5886,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#6B7A3A",
@@ -5267,9 +5904,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "High Speed PETG IIIDMAX",
     "sku": "IIID-HS-PETG-ARMY-GREEN",
-    "title": "High Speed PETG IIIDMAX - Army Green"
+    "title": "High Speed PETG IIIDMAX - Army Green",
+    "updated_at": 1793371345929
   },
   {
     "RFID_Data": {
@@ -5292,6 +5932,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F2F2F2",
@@ -5308,9 +5950,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Ivory",
     "product_type": "Filament",
+    "series": "Classic PLA+ IIIDMAX",
     "sku": "IVORY-PLA",
-    "title": "Classic PLA+ IIIDMAX - Ivory"
+    "title": "Classic PLA+ IIIDMAX - Ivory",
+    "updated_at": 1793374124824
   },
   {
     "RFID_Data": {
@@ -5333,6 +5978,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#808080",
@@ -5349,9 +5996,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Space Gray",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-SPACEGRAY",
-    "title": "High Speed PLA+ IIIDMAX - Space Gray"
+    "title": "High Speed PLA+ IIIDMAX - Space Gray",
+    "updated_at": 1793372549906
   },
   {
     "RFID_Data": {
@@ -5374,6 +6024,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#F1C9A5",
@@ -5390,9 +6042,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-SKIN",
-    "title": "High Speed PLA+ IIIDMAX - Skin"
+    "title": "High Speed PLA+ IIIDMAX - Skin",
+    "updated_at": 1793372658220
   },
   {
     "RFID_Data": {
@@ -5415,6 +6070,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#1E56C8",
@@ -5431,9 +6088,12 @@
     "info3": false,
     "material": "PLA+ Silk",
     "measure": "1000 g",
+    "name": "Silk Purple-Blue",
     "product_type": "Filament",
+    "series": "High Speed Silk PLA+ IIIDMAX",
     "sku": "IIID-HS-DUALSILK-PURPLEBLUE",
-    "title": "High Speed Silk PLA+ IIIDMAX - Silk Purple-Blue"
+    "title": "High Speed Silk PLA+ IIIDMAX - Silk Purple-Blue",
+    "updated_at": 1793372899825
   },
   {
     "RFID_Data": {
@@ -5456,6 +6116,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#808080",
@@ -5472,9 +6134,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Dove Grey",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-DOVE-GREY",
-    "title": "High Speed PLA+ IIIDMAX - Dove Grey"
+    "title": "High Speed PLA+ IIIDMAX - Dove Grey",
+    "updated_at": 1793372532217
   },
   {
     "RFID_Data": {
@@ -5497,6 +6162,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "IIIDMAX",
     "color": "#8D6E63",
@@ -5513,8 +6180,11 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Vintage Brass",
     "product_type": "Filament",
+    "series": "High Speed PLA+ IIIDMAX",
     "sku": "IIID-HS-PLA-VINTAGE-BRASS",
-    "title": "High Speed PLA+ IIIDMAX - Vintage Brass"
+    "title": "High Speed PLA+ IIIDMAX - Vintage Brass",
+    "updated_at": 1793372127700
   }
 ]

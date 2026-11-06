@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#2E9E5B",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Quantum Dot HTPLA",
     "sku": "QPLA1705-GRN",
-    "title": "Quantum Dot HTPLA - Green"
+    "title": "Quantum Dot HTPLA - Green",
+    "updated_at": 1792148692805
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#927752",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Smooth Bronze",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-SMB",
-    "title": "Metallic HTPLA - Smooth Bronze"
+    "title": "Metallic HTPLA - Smooth Bronze",
+    "updated_at": 1792148912589
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#0C465F",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Lapis Lazuli",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-LAZ",
-    "title": "Glitter HTPLA - Lapis Lazuli"
+    "title": "Glitter HTPLA - Lapis Lazuli",
+    "updated_at": 1792148746079
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1EB475",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Candy Rainbow",
     "product_type": "Filament",
+    "series": "Glow HTPLA",
     "sku": "HTP21705-CRG",
-    "title": "Glow HTPLA - Candy Rainbow"
+    "title": "Glow HTPLA - Candy Rainbow",
+    "updated_at": 1792148557919
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#6F5E49",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Stainless Steel Gold",
     "product_type": "Filament",
+    "series": "Metal Composite HTPLA",
     "sku": "SSP11705-GLD",
-    "title": "Metal Composite HTPLA - Stainless Steel Gold"
+    "title": "Metal Composite HTPLA - Stainless Steel Gold",
+    "updated_at": 1792148926480
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#D8BD9A",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Beach Bum Beige",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-BBB",
-    "title": "HTPLA - Beach Bum Beige"
+    "title": "HTPLA - Beach Bum Beige",
+    "updated_at": 1792148470932
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#2E9E5B",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "For the Lulz Green",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-FTL",
-    "title": "Metallic HTPLA - For the Lulz Green"
+    "title": "Metallic HTPLA - For the Lulz Green",
+    "updated_at": 1792148626709
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#C06C0E",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Glitter 'n Gourd Orange",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-GNG",
-    "title": "Glitter HTPLA - Glitter 'n Gourd Orange"
+    "title": "Glitter HTPLA - Glitter 'n Gourd Orange",
+    "updated_at": 1792148643500
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#622D2D",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Heartthrob Red",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-HTR",
-    "title": "Metallic HTPLA - Heartthrob Red"
+    "title": "Metallic HTPLA - Heartthrob Red",
+    "updated_at": 1792148707424
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F8578F",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Cupid's Crush Pink",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-PNK",
-    "title": "Metallic HTPLA - Cupid's Crush Pink"
+    "title": "Metallic HTPLA - Cupid's Crush Pink",
+    "updated_at": 1792148590108
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Flexible TPU",
     "sku": "R98A1710-BLK",
-    "title": "Flexible TPU - Black"
+    "title": "Flexible TPU - Black",
+    "updated_at": 1792148478920
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#61322C",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Blood Wine Red",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTGL1705-BBW",
-    "title": "Translucent HTPLA - Blood Wine Red"
+    "title": "Translucent HTPLA - Blood Wine Red",
+    "updated_at": 1792148527078
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#62605F",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Steel",
     "product_type": "Filament",
+    "series": "Metal Composite HTPLA",
     "sku": "SSP11705",
-    "title": "Metal Composite HTPLA - Steel"
+    "title": "Metal Composite HTPLA - Steel",
+    "updated_at": 1792148932814
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#DCDBDC",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Iridescent Ice Clear",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTP21705-ICE",
-    "title": "Translucent HTPLA - Iridescent Ice Clear"
+    "title": "Translucent HTPLA - Iridescent Ice Clear",
+    "updated_at": 1792148720987
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#515A5D",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Good Old Gray",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-GOG",
-    "title": "HTPLA - Good Old Gray"
+    "title": "HTPLA - Good Old Gray",
+    "updated_at": 1792148647033
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HFPL1730-WHT",
-    "title": "HTPLA - White"
+    "title": "HTPLA - White",
+    "updated_at": 1792148980083
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#7E7E7E",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Gradient Gray",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTP21705-GRA",
-    "title": "Multicolor HTPLA - Gradient Gray"
+    "title": "Multicolor HTPLA - Gradient Gray",
+    "updated_at": 1792148653884
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#ED4132",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Fluorescent HTPLA",
     "sku": "HTP21705-FLR",
-    "title": "Fluorescent HTPLA - Red"
+    "title": "Fluorescent HTPLA - Red",
+    "updated_at": 1792148896305
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#924D33",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Amber Alchemy",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-AMY",
-    "title": "HTPLA - Amber Alchemy"
+    "title": "HTPLA - Amber Alchemy",
+    "updated_at": 1792148448499
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#733829",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Brick Red",
     "product_type": "Filament",
+    "series": "c-Matte PLA",
     "sku": "MPLA1705-BRR",
-    "title": "c-Matte PLA - Brick Red"
+    "title": "c-Matte PLA - Brick Red",
+    "updated_at": 1792148551490
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#2E9E5B",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Venomous Green",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTPM1705-VEN",
-    "title": "HTPLA - Venomous Green"
+    "title": "HTPLA - Venomous Green",
+    "updated_at": 1792148958493
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#4FB171",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Lucky Lime Glitter Green",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-LLG",
-    "title": "Glitter HTPLA - Lucky Lime Glitter Green"
+    "title": "Glitter HTPLA - Lucky Lime Glitter Green",
+    "updated_at": 1792148776612
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Fiber",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HTPETG",
     "sku": "HPGF1705-WHT",
-    "title": "HTPETG - White"
+    "title": "HTPETG - White",
+    "updated_at": 1792148973398
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#6D7076",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "Matte Fiber HTPLA",
     "sku": "HTMF1705-GRY",
-    "title": "Matte Fiber HTPLA - Gray"
+    "title": "Matte Fiber HTPLA - Gray",
+    "updated_at": 1792148678019
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#B5916B",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Daffodil",
     "product_type": "Filament",
+    "series": "Matte Fiber HTPLA",
     "sku": "HTMF1705-DAF",
-    "title": "Matte Fiber HTPLA - Daffodil"
+    "title": "Matte Fiber HTPLA - Daffodil",
+    "updated_at": 1792148592029
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#E3DBD4",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "PLA11710-NAT",
-    "title": "HTPLA - Natural"
+    "title": "HTPLA - Natural",
+    "updated_at": 1792148815998
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#0380D7",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Winter Blue",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-WTB",
-    "title": "Glitter HTPLA - Winter Blue"
+    "title": "Glitter HTPLA - Winter Blue",
+    "updated_at": 1792148990582
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#6AA6B3",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Stratocumulus",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-STC",
-    "title": "Multicolor HTPLA - Stratocumulus"
+    "title": "Multicolor HTPLA - Stratocumulus",
+    "updated_at": 1792148934504
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#393736",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Wonder Black Rainbow",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-WOB",
-    "title": "Glitter HTPLA - Wonder Black Rainbow"
+    "title": "Glitter HTPLA - Wonder Black Rainbow",
+    "updated_at": 1792797895672
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "PLA11730-BLK",
-    "title": "HTPLA - Black"
+    "title": "HTPLA - Black",
+    "updated_at": 1792148466720
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#2E9E5B",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Cloverleaf Green",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-CLG",
-    "title": "Metallic HTPLA - Cloverleaf Green"
+    "title": "Metallic HTPLA - Cloverleaf Green",
+    "updated_at": 1792148588400
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#B6B7B4",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Stardust Silver",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-DST",
-    "title": "Glitter HTPLA - Stardust Silver"
+    "title": "Glitter HTPLA - Stardust Silver",
+    "updated_at": 1792148928628
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#635853",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Walnut",
     "product_type": "Filament",
+    "series": "Matte Fiber HTPLA",
     "sku": "HTMF1705-WAL",
-    "title": "Matte Fiber HTPLA - Walnut"
+    "title": "Matte Fiber HTPLA - Walnut",
+    "updated_at": 1792148960433
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#D4AF37",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Tangerine Orange Gold",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-TOM",
-    "title": "Metallic HTPLA - Tangerine Orange Gold"
+    "title": "Metallic HTPLA - Tangerine Orange Gold",
+    "updated_at": 1792148944820
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#EC3A70",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "Fluorescent HTPLA",
     "sku": "HTP21705-FLP",
-    "title": "Fluorescent HTPLA - Pink"
+    "title": "Fluorescent HTPLA - Pink",
+    "updated_at": 1792148875795
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#AF2D30",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Fleck 'n Fire Red",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-FFR",
-    "title": "Glitter HTPLA - Fleck 'n Fire Red"
+    "title": "Glitter HTPLA - Fleck 'n Fire Red",
+    "updated_at": 1792148617423
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#CECDCD",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "500 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG1705-CLR",
-    "title": "PCTG - Clear"
+    "title": "PCTG - Clear",
+    "updated_at": 1792148576314
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#11ACB9",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Aqua Ice",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTP21705-AQI",
-    "title": "Translucent HTPLA - Aqua Ice"
+    "title": "Translucent HTPLA - Aqua Ice",
+    "updated_at": 1792148453220
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": "850039562112",
     "brand": "Proto-Pasta",
     "color": "#B46D50FF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Copper",
     "product_type": "Filament",
+    "series": "HTPLA Chargé",
     "sku": "HTPC1705-CU",
-    "title": "HTPLA Chargé - Copper"
+    "title": "HTPLA Chargé - Copper",
+    "updated_at": 1788486819587
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#9A9997",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Silver Smoke Grey",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTP21705-SMK",
-    "title": "Translucent HTPLA - Silver Smoke Grey"
+    "title": "Translucent HTPLA - Silver Smoke Grey",
+    "updated_at": 1792148910281
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#EF5640",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Mango Medley",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTP21705-MAM",
-    "title": "Multicolor HTPLA - Mango Medley"
+    "title": "Multicolor HTPLA - Mango Medley",
+    "updated_at": 1792148790521
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#D89F65",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Quantum Dot HTPLA",
     "sku": "QPLA1705-ORN",
-    "title": "Quantum Dot HTPLA - Orange"
+    "title": "Quantum Dot HTPLA - Orange",
+    "updated_at": 1792148871817
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#7A4FA8",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Purple Ice",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTP21705-PUI",
-    "title": "Translucent HTPLA - Purple Ice"
+    "title": "Translucent HTPLA - Purple Ice",
+    "updated_at": 1792148884321
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#53504F",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Iron",
     "product_type": "Filament",
+    "series": "Metal Composite HTPLA",
     "sku": "FEP11705",
-    "title": "Metal Composite HTPLA - Iron"
+    "title": "Metal Composite HTPLA - Iron",
+    "updated_at": 1792148732494
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#10976A",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Forest Fantasy Green",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-FFG",
-    "title": "Multicolor HTPLA - Forest Fantasy Green"
+    "title": "Multicolor HTPLA - Forest Fantasy Green",
+    "updated_at": 1792148631433
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#FB5829",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Citrus Sunrise Orange",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-CSO",
-    "title": "Multicolor HTPLA - Citrus Sunrise Orange"
+    "title": "Multicolor HTPLA - Citrus Sunrise Orange",
+    "updated_at": 1792148569599
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PETG-rCF",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "RPET1760-CF7",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1792148516490
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#076575",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Mermaid's Tale Teal",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-MTT",
-    "title": "Metallic HTPLA - Mermaid's Tale Teal"
+    "title": "Metallic HTPLA - Mermaid's Tale Teal",
+    "updated_at": 1792148803624
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#B53621",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "International Orange",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-INO",
-    "title": "HTPLA - International Orange"
+    "title": "HTPLA - International Orange",
+    "updated_at": 1792148719812
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Matte Fiber HTPLA",
     "sku": "HTMF1705-BLK",
-    "title": "Matte Fiber HTPLA - Black"
+    "title": "Matte Fiber HTPLA - Black",
+    "updated_at": 1792148488628
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#044192",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Cobalt Blue",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTP21705-COB",
-    "title": "Translucent HTPLA - Cobalt Blue"
+    "title": "Translucent HTPLA - Cobalt Blue",
+    "updated_at": 1792148584296
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#2A5FB0",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Marine Dream Blue",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-MDB",
-    "title": "Multicolor HTPLA - Marine Dream Blue"
+    "title": "Multicolor HTPLA - Marine Dream Blue",
+    "updated_at": 1792148790516
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#643634",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Stainless Steel Burgundy",
     "product_type": "Filament",
+    "series": "Metal Composite HTPLA",
     "sku": "SSP11705-BUR",
-    "title": "Metal Composite HTPLA - Stainless Steel Burgundy"
+    "title": "Metal Composite HTPLA - Stainless Steel Burgundy",
+    "updated_at": 1792148924005
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "c-Matte PLA",
     "sku": "MPLA1705-BLK",
-    "title": "c-Matte PLA - Black"
+    "title": "c-Matte PLA - Black",
+    "updated_at": 1792148504194
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Lab Coat White",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-LCW",
-    "title": "HTPLA - Lab Coat White"
+    "title": "HTPLA - Lab Coat White",
+    "updated_at": 1792148745816
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#BA0D20",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Candy Apple Red",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTGL1705-CAR",
-    "title": "Metallic HTPLA - Candy Apple Red"
+    "title": "Metallic HTPLA - Candy Apple Red",
+    "updated_at": 1792148556706
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#70627A",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Nebula Rainbow",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-NRB",
-    "title": "Multicolor HTPLA - Nebula Rainbow"
+    "title": "Multicolor HTPLA - Nebula Rainbow",
+    "updated_at": 1792148853910
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#D04E31",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Fluorescent HTPLA",
     "sku": "HTP21705-FLO",
-    "title": "Fluorescent HTPLA - Orange"
+    "title": "Fluorescent HTPLA - Orange",
+    "updated_at": 1792148869998
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": "850039562136",
     "brand": "Proto-Pasta",
     "color": "#654A30FF",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "HTPLA Chargé",
     "sku": "HTPC1705-BRO",
-    "title": "HTPLA Chargé - Bronze"
+    "title": "HTPLA Chargé - Bronze",
+    "updated_at": 1788486819587
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Fiber",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Glass Fiber HTPLA",
     "sku": "HTGF1705-WHT",
-    "title": "Glass Fiber HTPLA - White"
+    "title": "Glass Fiber HTPLA - White",
+    "updated_at": 1792148984581
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#2E9E5B",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Lootsef Green",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-LOG",
-    "title": "HTPLA - Lootsef Green"
+    "title": "HTPLA - Lootsef Green",
+    "updated_at": 1792148759911
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#526D96",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Nebula Silver Silk",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-NSS",
-    "title": "Multicolor HTPLA - Nebula Silver Silk"
+    "title": "Multicolor HTPLA - Nebula Silver Silk",
+    "updated_at": 1792798368477
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#624656",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Proton Purple",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTGL1705-LPP",
-    "title": "HTPLA - Proton Purple"
+    "title": "HTPLA - Proton Purple",
+    "updated_at": 1792148882011
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Unicorn Tears White",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-UTW",
-    "title": "Glitter HTPLA - Unicorn Tears White"
+    "title": "Glitter HTPLA - Unicorn Tears White",
+    "updated_at": 1792148956207
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Fiber",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#165F99",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "500 g",
+    "name": "Highfive Blue",
     "product_type": "Filament",
+    "series": "HTPETG",
     "sku": "HPGF1705-HFB",
-    "title": "HTPETG - Highfive Blue"
+    "title": "HTPETG - Highfive Blue",
+    "updated_at": 1792148696963
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "RPLA1760-BLA",
-    "title": "HTPLA - Black"
+    "title": "HTPLA - Black",
+    "updated_at": 1792148472478
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HTPETG",
     "sku": "HPCF1705-HSB",
-    "title": "HTPETG - Black"
+    "title": "HTPETG - Black",
+    "updated_at": 1792148480099
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#7A4FA8",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Dragon Scale Purple",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "SUB61705-DSP",
-    "title": "HTPLA - Dragon Scale Purple"
+    "title": "HTPLA - Dragon Scale Purple",
+    "updated_at": 1792148598702
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Fiber",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#A62525",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Glass Fiber HTPLA",
     "sku": "HTGF1705-RED",
-    "title": "Glass Fiber HTPLA - Red"
+    "title": "Glass Fiber HTPLA - Red",
+    "updated_at": 1792148894982
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Pearl",
+    "aspect2": "Metal",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#D46B78",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Pretty in Pink Pearl",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-PIP",
-    "title": "Metallic HTPLA - Pretty in Pink Pearl"
+    "title": "Metallic HTPLA - Pretty in Pink Pearl",
+    "updated_at": 1792798931571
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#7E868B",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Nebula Gold Dust",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-NGD",
-    "title": "Multicolor HTPLA - Nebula Gold Dust"
+    "title": "Multicolor HTPLA - Nebula Gold Dust",
+    "updated_at": 1792148840325
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#8B79A5",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Nebula Stardust",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-NSD",
-    "title": "Multicolor HTPLA - Nebula Stardust"
+    "title": "Multicolor HTPLA - Nebula Stardust",
+    "updated_at": 1792148865701
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Obsidian",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTPM1705-OBS",
-    "title": "HTPLA - Obsidian"
+    "title": "HTPLA - Obsidian",
+    "updated_at": 1792148869691
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Matte Fiber HTPLA",
     "sku": "HTMF1705-WHT",
-    "title": "Matte Fiber HTPLA - White"
+    "title": "Matte Fiber HTPLA - White",
+    "updated_at": 1792148971393
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2D23C",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Fluorescent HTPLA",
     "sku": "HTP21705-FLY",
-    "title": "Fluorescent HTPLA - Yellow"
+    "title": "Fluorescent HTPLA - Yellow",
+    "updated_at": 1792148996624
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": "850039562129",
     "brand": "Proto-Pasta",
     "color": "#B89D60FF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Brass",
     "product_type": "Filament",
+    "series": "HTPLA Chargé",
     "sku": "HTPC1705-BRA",
-    "title": "HTPLA Chargé - Brass"
+    "title": "HTPLA Chargé - Brass",
+    "updated_at": 1788486819587
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#273E59",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Night Before Blue",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-NBB",
-    "title": "Glitter HTPLA - Night Before Blue"
+    "title": "Glitter HTPLA - Night Before Blue",
+    "updated_at": 1792148865516
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#E0DFD8",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "Flexible TPU",
     "sku": "T70D1705-CLR",
-    "title": "Flexible TPU - Clear"
+    "title": "Flexible TPU - Clear",
+    "updated_at": 1792148579719
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Carbon Fiber HTPLA",
     "sku": "CFP11705",
-    "title": "Carbon Fiber HTPLA - Black"
+    "title": "Carbon Fiber HTPLA - Black",
+    "updated_at": 1792148483321
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#28465D",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Stainless Steel Blue",
     "product_type": "Filament",
+    "series": "Metal Composite HTPLA",
     "sku": "SSP11705-BLU",
-    "title": "Metal Composite HTPLA - Stainless Steel Blue"
+    "title": "Metal Composite HTPLA - Stainless Steel Blue",
+    "updated_at": 1792148922223
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#80323F",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Black to the Fuchsia",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTP21705-B2F",
-    "title": "Multicolor HTPLA - Black to the Fuchsia"
+    "title": "Multicolor HTPLA - Black to the Fuchsia",
+    "updated_at": 1792148526900
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#5F4E64",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Galactic Empire Purple",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-GEP",
-    "title": "Metallic HTPLA - Galactic Empire Purple"
+    "title": "Metallic HTPLA - Galactic Empire Purple",
+    "updated_at": 1792148637206
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HFPL1710-BLK",
-    "title": "HTPLA - Black"
+    "title": "HTPLA - Black",
+    "updated_at": 1792148504188
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#556B98",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Nebula Night",
     "product_type": "Filament",
+    "series": "Fluorescent HTPLA",
     "sku": "HTGL1705-NNG",
-    "title": "Fluorescent HTPLA - Nebula Night"
+    "title": "Fluorescent HTPLA - Nebula Night",
+    "updated_at": 1792148851801
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#FF8121",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Out of Darts Orange",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-ODO",
-    "title": "HTPLA - Out of Darts Orange"
+    "title": "HTPLA - Out of Darts Orange",
+    "updated_at": 1792148875481
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#9BD8CF",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Tears of my Enemies",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTPM1705-TME",
-    "title": "Translucent HTPLA - Tears of my Enemies"
+    "title": "Translucent HTPLA - Tears of my Enemies",
+    "updated_at": 1792148940910
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "PCTG-CF",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PGCF1705-HSB",
-    "title": "PCTG - Black"
+    "title": "PCTG - Black",
+    "updated_at": 1792148506291
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#AA5C45",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Copper",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1705-CU",
-    "title": "PETG - Copper"
+    "title": "PETG - Copper",
+    "updated_at": 1792148585681
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "c-Matte PLA",
     "sku": "MPLA1705-WHT",
-    "title": "c-Matte PLA - White"
+    "title": "c-Matte PLA - White",
+    "updated_at": 1792148984507
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#7C504B",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Mahogany",
     "product_type": "Filament",
+    "series": "Matte Fiber HTPLA",
     "sku": "HTMF1705-MAH",
-    "title": "Matte Fiber HTPLA - Mahogany"
+    "title": "Matte Fiber HTPLA - Mahogany",
+    "updated_at": 1792148776681
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#7A4FA8",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Fluorescent HTPLA",
     "sku": "HTP21705-FLU",
-    "title": "Fluorescent HTPLA - Purple"
+    "title": "Fluorescent HTPLA - Purple",
+    "updated_at": 1792148882015
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#81C8BC",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Aqua Phresh",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-SAP",
-    "title": "HTPLA - Aqua Phresh"
+    "title": "HTPLA - Aqua Phresh",
+    "updated_at": 1792148459692
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#2E9E5B",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Fleck 'n Forest Green",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-FNF",
-    "title": "Glitter HTPLA - Fleck 'n Forest Green"
+    "title": "Glitter HTPLA - Fleck 'n Forest Green",
+    "updated_at": 1792148624622
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PLA-ESD",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "PLA11705-ESD",
-    "title": "HTPLA - Black"
+    "title": "HTPLA - Black",
+    "updated_at": 1792148510507
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#C2217A",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Fleck 'n Fiesta Magenta",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-FST",
-    "title": "Glitter HTPLA - Fleck 'n Fiesta Magenta"
+    "title": "Glitter HTPLA - Fleck 'n Fiesta Magenta",
+    "updated_at": 1792148616230
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#FCBE06",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Caution Yellow",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-COY",
-    "title": "HTPLA - Caution Yellow"
+    "title": "HTPLA - Caution Yellow",
+    "updated_at": 1792148562983
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#989592",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Granite Gray",
     "product_type": "Filament",
+    "series": "c-Matte PLA",
     "sku": "MPLA1705-GRG",
-    "title": "c-Matte PLA - Granite Gray"
+    "title": "c-Matte PLA - Granite Gray",
+    "updated_at": 1792148655795
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#646C4F",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Jurassic Jungle Green",
     "product_type": "Filament",
+    "series": "c-Matte PLA",
     "sku": "MPLA1705-JUG",
-    "title": "c-Matte PLA - Jurassic Jungle Green"
+    "title": "c-Matte PLA - Jurassic Jungle Green",
+    "updated_at": 1792148745612
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#CAC5C2",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "PLAC1705-C60",
-    "title": "HTPLA - Natural"
+    "title": "HTPLA - Natural",
+    "updated_at": 1792148816008
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Satin",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#D1C3BB",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Moonstruck White Satin",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTPM1705-MSW",
-    "title": "HTPLA - Moonstruck White Satin"
+    "title": "HTPLA - Moonstruck White Satin",
+    "updated_at": 1792148801706
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#97989B",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "Flexible TPU",
     "sku": "T98A1705-CLR",
-    "title": "Flexible TPU - Clear"
+    "title": "Flexible TPU - Clear",
+    "updated_at": 1792148570024
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#62605F",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Stainless Steel",
     "product_type": "Filament",
+    "series": "Metal Composite HTPLA",
     "sku": "HTPC1710-HSS",
-    "title": "Metal Composite HTPLA - Stainless Steel"
+    "title": "Metal Composite HTPLA - Stainless Steel",
+    "updated_at": 1792148916216
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F7C803",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Artobot Electric Lemonade Yellow",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-ELY",
-    "title": "Metallic HTPLA - Artobot Electric Lemonade Yellow"
+    "title": "Metallic HTPLA - Artobot Electric Lemonade Yellow",
+    "updated_at": 1792148459606
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#0FA3CF",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Blue Ice",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTP21705-BLI",
-    "title": "Translucent HTPLA - Blue Ice"
+    "title": "Translucent HTPLA - Blue Ice",
+    "updated_at": 1792148546819
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#8A5695",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Purple Iris",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-BPI",
-    "title": "HTPLA - Purple Iris"
+    "title": "HTPLA - Purple Iris",
+    "updated_at": 1792148893010
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "PLA11730-WHT",
-    "title": "HTPLA - White"
+    "title": "HTPLA - White",
+    "updated_at": 1792148964981
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#B76E79",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Rose Gold",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTPM1705-ROS",
-    "title": "HTPLA - Rose Gold"
+    "title": "HTPLA - Rose Gold",
+    "updated_at": 1792148905798
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Fiber",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#053C78",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Glass Fiber HTPLA",
     "sku": "HTGF1705-BLU",
-    "title": "Glass Fiber HTPLA - Blue"
+    "title": "Glass Fiber HTPLA - Blue",
+    "updated_at": 1792148533694
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#3D6B7C",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Candy Rainbow",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTP21705-CRM",
-    "title": "Multicolor HTPLA - Candy Rainbow"
+    "title": "Multicolor HTPLA - Candy Rainbow",
+    "updated_at": 1792148565497
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "CDP11705",
-    "title": "HTPLA - Black"
+    "title": "HTPLA - Black",
+    "updated_at": 1792148493599
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#9E562F",
@@ -4546,9 +5098,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Terracotta",
     "product_type": "Filament",
+    "series": "c-Matte PLA",
     "sku": "MPLA1705-TCO",
-    "title": "c-Matte PLA - Terracotta"
+    "title": "c-Matte PLA - Terracotta",
+    "updated_at": 1792148949597
   },
   {
     "RFID_Data": {
@@ -4571,6 +5126,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#8F693F",
@@ -4587,9 +5144,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Good as Gold",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTPM1705-GLD",
-    "title": "HTPLA - Good as Gold"
+    "title": "HTPLA - Good as Gold",
+    "updated_at": 1792148651120
   },
   {
     "RFID_Data": {
@@ -4612,6 +5172,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#86827B",
@@ -4628,9 +5190,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Atomic Age Gray",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-AAG",
-    "title": "Glitter HTPLA - Atomic Age Gray"
+    "title": "Glitter HTPLA - Atomic Age Gray",
+    "updated_at": 1792148465598
   },
   {
     "RFID_Data": {
@@ -4653,6 +5218,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -4669,9 +5236,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1730-BLK",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1792148473306
   },
   {
     "RFID_Data": {
@@ -4694,6 +5264,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#62605F",
@@ -4710,9 +5282,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Steel",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1705-SS",
-    "title": "PETG - Steel"
+    "title": "PETG - Steel",
+    "updated_at": 1792148934593
   },
   {
     "RFID_Data": {
@@ -4735,6 +5310,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#069DAB",
@@ -4751,9 +5328,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Tidal Turquoise",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTP21705-TDL",
-    "title": "Multicolor HTPLA - Tidal Turquoise"
+    "title": "Multicolor HTPLA - Tidal Turquoise",
+    "updated_at": 1792148953880
   },
   {
     "RFID_Data": {
@@ -4776,6 +5356,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#D56369",
@@ -4792,9 +5374,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Quantum Dot HTPLA",
     "sku": "QPLA1705-RED",
-    "title": "Quantum Dot HTPLA - Red"
+    "title": "Quantum Dot HTPLA - Red",
+    "updated_at": 1792148889828
   },
   {
     "RFID_Data": {
@@ -4817,6 +5402,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#04D078",
@@ -4833,9 +5420,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Green In-the-Dark",
     "product_type": "Filament",
+    "series": "Glow HTPLA",
     "sku": "HTP21705-GGN",
-    "title": "Glow HTPLA - Green In-the-Dark"
+    "title": "Glow HTPLA - Green In-the-Dark",
+    "updated_at": 1792148692823
   },
   {
     "RFID_Data": {
@@ -4858,6 +5448,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#D1A051",
@@ -4874,9 +5466,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Gold Dust",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-GDT",
-    "title": "Glitter HTPLA - Gold Dust"
+    "title": "Glitter HTPLA - Gold Dust",
+    "updated_at": 1792148649532
   },
   {
     "RFID_Data": {
@@ -4899,6 +5494,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#624229",
@@ -4915,9 +5512,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Bottle Brown",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTP21705-BOB",
-    "title": "Translucent HTPLA - Bottle Brown"
+    "title": "Translucent HTPLA - Bottle Brown",
+    "updated_at": 1792148550019
   },
   {
     "RFID_Data": {
@@ -4940,6 +5540,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#912E3D",
@@ -4956,9 +5558,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Blood of My Enemies Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1705-BME",
-    "title": "PETG - Blood of My Enemies Red"
+    "title": "PETG - Blood of My Enemies Red",
+    "updated_at": 1792148536804
   },
   {
     "RFID_Data": {
@@ -4981,6 +5586,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -4997,9 +5604,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "500 g",
+    "name": "Galaxy Black",
     "product_type": "Filament",
+    "series": "HTPETG",
     "sku": "HPCF1705-HIG",
-    "title": "HTPETG - Galaxy Black"
+    "title": "HTPETG - Galaxy Black",
+    "updated_at": 1792148634996
   },
   {
     "RFID_Data": {
@@ -5022,6 +5632,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#AF618B",
@@ -5038,9 +5650,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Amethyst Aria",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTP21705-AMA",
-    "title": "Multicolor HTPLA - Amethyst Aria"
+    "title": "Multicolor HTPLA - Amethyst Aria",
+    "updated_at": 1792148448507
   },
   {
     "RFID_Data": {
@@ -5063,6 +5678,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Fiber",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#C7C3BC",
@@ -5079,9 +5696,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Laser Gray",
     "product_type": "Filament",
+    "series": "Glass Fiber HTPLA",
     "sku": "HTGF1705-LSR",
-    "title": "Glass Fiber HTPLA - Laser Gray"
+    "title": "Glass Fiber HTPLA - Laser Gray",
+    "updated_at": 1792148759492
   },
   {
     "RFID_Data": {
@@ -5104,6 +5724,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#03B986",
@@ -5120,9 +5742,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Nebula",
     "product_type": "Filament",
+    "series": "Glow HTPLA",
     "sku": "HTP21705-NGL",
-    "title": "Glow HTPLA - Nebula"
+    "title": "Glow HTPLA - Nebula",
+    "updated_at": 1792148838194
   },
   {
     "RFID_Data": {
@@ -5145,6 +5770,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#01ACCA",
@@ -5161,9 +5788,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Mane Teal",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "WS051705-020",
-    "title": "Glitter HTPLA - Mane Teal"
+    "title": "Glitter HTPLA - Mane Teal",
+    "updated_at": 1792148788609
   },
   {
     "RFID_Data": {
@@ -5186,6 +5816,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Fiber",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -5202,9 +5834,12 @@
     "info3": false,
     "material": "PCTG-GF",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PGGF1705-WHT",
-    "title": "PCTG - White"
+    "title": "PCTG - White",
+    "updated_at": 1792148973383
   },
   {
     "RFID_Data": {
@@ -5227,6 +5862,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -5243,9 +5880,12 @@
     "info3": false,
     "material": "PLA-ESD",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "CFP11705-ESD",
-    "title": "HTPLA - Black"
+    "title": "HTPLA - Black",
+    "updated_at": 1792148517082
   },
   {
     "RFID_Data": {
@@ -5268,6 +5908,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#67526A",
@@ -5284,9 +5926,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Gloop! Purple",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-GLP",
-    "title": "HTPLA - Gloop! Purple"
+    "title": "HTPLA - Gloop! Purple",
+    "updated_at": 1792148640916
   },
   {
     "RFID_Data": {
@@ -5309,6 +5954,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#53504F",
@@ -5325,9 +5972,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Iron",
     "product_type": "Filament",
+    "series": "Metal Composite HTPLA",
     "sku": "HTPC1710-HFE",
-    "title": "Metal Composite HTPLA - Iron"
+    "title": "Metal Composite HTPLA - Iron",
+    "updated_at": 1792148733225
   },
   {
     "RFID_Data": {
@@ -5350,6 +6000,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#4F497D",
@@ -5366,9 +6018,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "The Original Nebula",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTP21705-NEB",
-    "title": "Multicolor HTPLA - The Original Nebula"
+    "title": "Multicolor HTPLA - The Original Nebula",
+    "updated_at": 1792148951314
   },
   {
     "RFID_Data": {
@@ -5391,6 +6046,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#67422E",
@@ -5407,9 +6064,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Chocolate Eruption Brown",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-CEB",
-    "title": "HTPLA - Chocolate Eruption Brown"
+    "title": "HTPLA - Chocolate Eruption Brown",
+    "updated_at": 1792148564385
   },
   {
     "RFID_Data": {
@@ -5432,6 +6092,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -5448,9 +6110,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Green In-the-Dark White",
     "product_type": "Filament",
+    "series": "Glow HTPLA",
     "sku": "HTP21705-GGW",
-    "title": "Glow HTPLA - Green In-the-Dark White"
+    "title": "Glow HTPLA - Green In-the-Dark White",
+    "updated_at": 1792148692991
   },
   {
     "RFID_Data": {
@@ -5473,6 +6138,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#DAB763",
@@ -5489,9 +6156,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Quantum Dot HTPLA",
     "sku": "QPLA1705-YEL",
-    "title": "Quantum Dot HTPLA - Yellow"
+    "title": "Quantum Dot HTPLA - Yellow",
+    "updated_at": 1792148997384
   },
   {
     "RFID_Data": {
@@ -5514,6 +6184,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#115C90",
@@ -5530,9 +6202,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Wonder Blue Rainbow",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-WON",
-    "title": "Glitter HTPLA - Wonder Blue Rainbow"
+    "title": "Glitter HTPLA - Wonder Blue Rainbow",
+    "updated_at": 1792799542462
   },
   {
     "RFID_Data": {
@@ -5555,6 +6230,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -5571,9 +6248,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Texas Tea Black",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-TEX",
-    "title": "Glitter HTPLA - Texas Tea Black"
+    "title": "Glitter HTPLA - Texas Tea Black",
+    "updated_at": 1792148947031
   },
   {
     "RFID_Data": {
@@ -5596,6 +6276,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#5A5C61",
@@ -5612,9 +6294,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "c-Matte PLA",
     "sku": "MPLA1705-GRY",
-    "title": "c-Matte PLA - Gray"
+    "title": "c-Matte PLA - Gray",
+    "updated_at": 1792148678011
   },
   {
     "RFID_Data": {
@@ -5637,6 +6322,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#53504F",
@@ -5653,9 +6340,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Iron",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1705-FE",
-    "title": "PETG - Iron"
+    "title": "PETG - Iron",
+    "updated_at": 1792148733490
   },
   {
     "RFID_Data": {
@@ -5678,6 +6368,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#ECDFCB",
@@ -5694,9 +6386,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HFPL1710-NAT",
-    "title": "HTPLA - Natural"
+    "title": "HTPLA - Natural",
+    "updated_at": 1792148816012
   },
   {
     "RFID_Data": {
@@ -5719,6 +6414,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#2E9E5B",
@@ -5735,9 +6432,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Fluorescent HTPLA",
     "sku": "HTP21705-FLG",
-    "title": "Fluorescent HTPLA - Green"
+    "title": "Fluorescent HTPLA - Green",
+    "updated_at": 1792148678022
   },
   {
     "RFID_Data": {
@@ -5760,6 +6460,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -5776,9 +6478,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP32810-WHT",
-    "title": "HTPLA - White"
+    "title": "HTPLA - White",
+    "updated_at": 1792148978220
   },
   {
     "RFID_Data": {
@@ -5801,6 +6506,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#04BD7C",
@@ -5817,9 +6524,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Forest Fantasy",
     "product_type": "Filament",
+    "series": "Glow HTPLA",
     "sku": "HTGL1705-FGL",
-    "title": "Glow HTPLA - Forest Fantasy"
+    "title": "Glow HTPLA - Forest Fantasy",
+    "updated_at": 1792148627822
   },
   {
     "RFID_Data": {
@@ -5842,6 +6552,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#6D8EB2",
@@ -5858,9 +6570,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Nebula Cotton Candy Pastel",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-NCC",
-    "title": "Multicolor HTPLA - Nebula Cotton Candy Pastel"
+    "title": "Multicolor HTPLA - Nebula Cotton Candy Pastel",
+    "updated_at": 1792799721907
   },
   {
     "RFID_Data": {
@@ -5883,6 +6598,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#D40423",
@@ -5899,9 +6616,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP32810-RED",
-    "title": "HTPLA - Red"
+    "title": "HTPLA - Red",
+    "updated_at": 1792148899623
   },
   {
     "RFID_Data": {
@@ -5924,6 +6644,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -5940,9 +6662,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "RPET1760-BLA",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1792148515187
   },
   {
     "RFID_Data": {
@@ -5965,6 +6690,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -5981,9 +6708,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Carbon Fiber HTPLA",
     "sku": "RPLA1760-CF",
-    "title": "Carbon Fiber HTPLA - Black"
+    "title": "Carbon Fiber HTPLA - Black",
+    "updated_at": 1792148477277
   },
   {
     "RFID_Data": {
@@ -6006,6 +6736,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#88664F",
@@ -6022,9 +6754,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Double Espresso Brown",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-DEB",
-    "title": "Metallic HTPLA - Double Espresso Brown"
+    "title": "Metallic HTPLA - Double Espresso Brown",
+    "updated_at": 1792148596790
   },
   {
     "RFID_Data": {
@@ -6047,6 +6782,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#912E3D",
@@ -6063,9 +6800,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Blood of My Enemies Red",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "SUB21705-BME",
-    "title": "Translucent HTPLA - Blood of My Enemies Red"
+    "title": "Translucent HTPLA - Blood of My Enemies Red",
+    "updated_at": 1792148532536
   },
   {
     "RFID_Data": {
@@ -6088,6 +6828,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#BAC4CC",
@@ -6104,9 +6846,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "500 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "Carbon Fiber HTPLA",
     "sku": "HTP21705-CFL",
-    "title": "Carbon Fiber HTPLA - Light Gray"
+    "title": "Carbon Fiber HTPLA - Light Gray",
+    "updated_at": 1792148759879
   },
   {
     "RFID_Data": {
@@ -6129,6 +6874,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -6145,9 +6892,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Empire Strikes Black",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTPM1705-ESB",
-    "title": "Glitter HTPLA - Empire Strikes Black"
+    "title": "Glitter HTPLA - Empire Strikes Black",
+    "updated_at": 1792148605807
   },
   {
     "RFID_Data": {
@@ -6170,6 +6920,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#0B6137",
@@ -6186,9 +6938,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Soda Green",
     "product_type": "Filament",
+    "series": "Translucent HTPLA",
     "sku": "HTP21705-SOG",
-    "title": "Translucent HTPLA - Soda Green"
+    "title": "Translucent HTPLA - Soda Green",
+    "updated_at": 1792148918991
   },
   {
     "RFID_Data": {
@@ -6211,6 +6966,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Rainbow",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -6227,9 +6984,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Midnight",
     "product_type": "Filament",
+    "series": "Multicolor HTPLA",
     "sku": "HTGL1705-MNT",
-    "title": "Multicolor HTPLA - Midnight"
+    "title": "Multicolor HTPLA - Midnight",
+    "updated_at": 1792148801794
   },
   {
     "RFID_Data": {
@@ -6252,6 +7012,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -6268,9 +7030,12 @@
     "info3": false,
     "material": "PETG-ESD",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1705-ESD",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1792148525515
   },
   {
     "RFID_Data": {
@@ -6293,6 +7058,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#0B4D8E",
@@ -6309,9 +7076,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Highfive Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1710-HFB",
-    "title": "PETG - Highfive Blue"
+    "title": "PETG - Highfive Blue",
+    "updated_at": 1792148719882
   },
   {
     "RFID_Data": {
@@ -6334,6 +7104,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#0A4D8E",
@@ -6350,9 +7122,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Highfive Blue",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTPM1705-HFB",
-    "title": "HTPLA - Highfive Blue"
+    "title": "HTPLA - Highfive Blue",
+    "updated_at": 1792148704703
   },
   {
     "RFID_Data": {
@@ -6375,6 +7150,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#6C7076",
@@ -6391,9 +7168,12 @@
     "info3": false,
     "material": "PCTG-CF",
     "measure": "500 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PGCF1705-HIG",
-    "title": "PCTG - Gray"
+    "title": "PCTG - Gray",
+    "updated_at": 1792148657405
   },
   {
     "RFID_Data": {
@@ -6416,6 +7196,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -6432,9 +7214,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1730-WHT",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1792148967096
   },
   {
     "RFID_Data": {
@@ -6457,6 +7242,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Neon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#0154CB",
@@ -6473,9 +7260,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Fluorescent HTPLA",
     "sku": "HTP21705-FLB",
-    "title": "Fluorescent HTPLA - Blue"
+    "title": "Fluorescent HTPLA - Blue",
+    "updated_at": 1792148543411
   },
   {
     "RFID_Data": {
@@ -6498,6 +7288,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -6514,9 +7306,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1705-CF7",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1792148497890
   },
   {
     "RFID_Data": {
@@ -6539,6 +7334,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#BF3C4D",
@@ -6555,9 +7352,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Raspberry Jam",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-JAM",
-    "title": "HTPLA - Raspberry Jam"
+    "title": "HTPLA - Raspberry Jam",
+    "updated_at": 1792148888696
   },
   {
     "RFID_Data": {
@@ -6580,6 +7380,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#8B511A",
@@ -6596,9 +7398,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "What Karat? Gold",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTPM1705-SMG",
-    "title": "HTPLA - What Karat? Gold"
+    "title": "HTPLA - What Karat? Gold",
+    "updated_at": 1792148962502
   },
   {
     "RFID_Data": {
@@ -6621,6 +7426,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#073783",
@@ -6637,9 +7444,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP32810-BLU",
-    "title": "HTPLA - Blue"
+    "title": "HTPLA - Blue",
+    "updated_at": 1792148545113
   },
   {
     "RFID_Data": {
@@ -6662,6 +7472,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#6D6C71",
@@ -6678,9 +7490,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Dusty Smoke",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTGL1705-DUS",
-    "title": "HTPLA - Dusty Smoke"
+    "title": "HTPLA - Dusty Smoke",
+    "updated_at": 1792148602125
   },
   {
     "RFID_Data": {
@@ -6703,6 +7518,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#54585D",
@@ -6719,9 +7536,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "500 g",
+    "name": "Dark Gray",
     "product_type": "Filament",
+    "series": "Carbon Fiber HTPLA",
     "sku": "HTP21705-CFD",
-    "title": "Carbon Fiber HTPLA - Dark Gray"
+    "title": "Carbon Fiber HTPLA - Dark Gray",
+    "updated_at": 1792148594899
   },
   {
     "RFID_Data": {
@@ -6744,6 +7564,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1D595D",
@@ -6760,9 +7582,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Atikam Teal",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-ATT",
-    "title": "HTPLA - Atikam Teal"
+    "title": "HTPLA - Atikam Teal",
+    "updated_at": 1792148459493
   },
   {
     "RFID_Data": {
@@ -6785,6 +7610,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -6801,9 +7628,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Candle Light White",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-CLW",
-    "title": "Glitter HTPLA - Candle Light White"
+    "title": "Glitter HTPLA - Candle Light White",
+    "updated_at": 1792148553481
   },
   {
     "RFID_Data": {
@@ -6826,6 +7656,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -6842,9 +7674,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Carbon Fiber HTPLA",
     "sku": "HTP21705-CF",
-    "title": "Carbon Fiber HTPLA - Black"
+    "title": "Carbon Fiber HTPLA - Black",
+    "updated_at": 1792148491210
   },
   {
     "RFID_Data": {
@@ -6867,6 +7702,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Metal",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#CB830B",
@@ -6883,9 +7720,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Sun Gold Yellow",
     "product_type": "Filament",
+    "series": "Metallic HTPLA",
     "sku": "HTPM1705-SUN",
-    "title": "Metallic HTPLA - Sun Gold Yellow"
+    "title": "Metallic HTPLA - Sun Gold Yellow",
+    "updated_at": 1792148939186
   },
   {
     "RFID_Data": {
@@ -6908,6 +7748,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#CECDCD",
@@ -6924,9 +7766,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PETG1710-CLR",
-    "title": "PETG - Clear"
+    "title": "PETG - Clear",
+    "updated_at": 1792148576296
   },
   {
     "RFID_Data": {
@@ -6949,6 +7794,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#1A1A1A",
@@ -6965,9 +7812,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP32810-BLK",
-    "title": "HTPLA - Black"
+    "title": "HTPLA - Black",
+    "updated_at": 1792148495291
   },
   {
     "RFID_Data": {
@@ -6990,6 +7840,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#2E9E5B",
@@ -7006,9 +7858,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Ecto Ooze Green",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTP21705-EOG",
-    "title": "HTPLA - Ecto Ooze Green"
+    "title": "HTPLA - Ecto Ooze Green",
+    "updated_at": 1792148607614
   },
   {
     "RFID_Data": {
@@ -7031,6 +7886,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Glitter",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#C2B9B0",
@@ -7047,9 +7904,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Filafetti Confetti Frosting",
     "product_type": "Filament",
+    "series": "Glitter HTPLA",
     "sku": "HTGL1705-FCF",
-    "title": "Glitter HTPLA - Filafetti Confetti Frosting"
+    "title": "Glitter HTPLA - Filafetti Confetti Frosting",
+    "updated_at": 1792148613524
   },
   {
     "RFID_Data": {
@@ -7072,6 +7932,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Marble",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#F2F2F2",
@@ -7088,9 +7950,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "White Marble",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTGL1705-WHM",
-    "title": "HTPLA - White Marble"
+    "title": "HTPLA - White Marble",
+    "updated_at": 1792148986572
   },
   {
     "RFID_Data": {
@@ -7113,6 +7978,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Proto-Pasta",
     "color": "#9DA9B2",
@@ -7129,8 +7996,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Second to None Silver",
     "product_type": "Filament",
+    "series": "HTPLA",
     "sku": "HTPM1705-SIL",
-    "title": "HTPLA - Second to None Silver"
+    "title": "HTPLA - Second to None Silver",
+    "updated_at": 1792148907593
   }
 ]

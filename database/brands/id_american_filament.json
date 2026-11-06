@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#D42027FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_RED",
-    "title": "Silk PLA - Red"
+    "title": "Silk PLA - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#9E9E9EFF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Random Color",
     "product_type": "Filament",
+    "series": "Prototyping PLA",
     "sku": "PLA_1KG_PROTO",
-    "title": "Prototyping PLA - Random Color"
+    "title": "Prototyping PLA - Random Color",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#5B2C83FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Royal Purple",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_ROYALPURP",
-    "title": "PCTG - Royal Purple"
+    "title": "PCTG - Royal Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4A4F55FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Gunmetal Gray",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_GUNMETAL",
-    "title": "PCTG - Gunmetal Gray"
+    "title": "PCTG - Gunmetal Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#6A3D9AFF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_PURPLE",
-    "title": "PLA+ - Purple"
+    "title": "PLA+ - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#A58B5CFF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Coyote Tan",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_COYTAN",
-    "title": "Regenerative PLA+ - Coyote Tan"
+    "title": "Regenerative PLA+ - Coyote Tan",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#144D2BFF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_DARKG",
-    "title": "PLA+ - Dark Green"
+    "title": "PLA+ - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#FF2E93FF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Neon Pink",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_NPINK",
-    "title": "Regenerative PLA+ - Neon Pink"
+    "title": "Regenerative PLA+ - Neon Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#CE2029FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Fire Engine Red",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_FIRERED",
-    "title": "PCTG - Fire Engine Red"
+    "title": "PCTG - Fire Engine Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#14808AFF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Teal",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_TEAL",
-    "title": "PLA+ - Teal"
+    "title": "PLA+ - Teal",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#D9A441FF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Honey Gold",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_HONEYG",
-    "title": "PLA+ - Honey Gold"
+    "title": "PLA+ - Honey Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#B76E79FF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rose Gold",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_ROSE",
-    "title": "Silk PLA - Rose Gold"
+    "title": "Silk PLA - Rose Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1F4E9CFF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "American Blue",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_BLUE",
-    "title": "Regenerative PLA+ - American Blue"
+    "title": "Regenerative PLA+ - American Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#8E9194FF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Primer Gray",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_PRIMER",
-    "title": "PLA+ - Primer Gray"
+    "title": "PLA+ - Primer Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F4F6F8FF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Ice White",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_WHITE",
-    "title": "Regenerative PLA+ - Ice White"
+    "title": "Regenerative PLA+ - Ice White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#81613CFF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Coyote Brown",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_COYBRO",
-    "title": "Tough Pro PLA+ - Coyote Brown"
+    "title": "Tough Pro PLA+ - Coyote Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Lithophane",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F2F2F2FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Classic White",
     "product_type": "Filament",
+    "series": "Lithophane PLA",
     "sku": "LITHO_1KG_CLW",
-    "title": "Lithophane PLA - Classic White"
+    "title": "Lithophane PLA - Classic White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4B5320FF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_ARMYG",
-    "title": "PLA+ - Army Green"
+    "title": "PLA+ - Army Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4B5320FF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_ARMYG",
-    "title": "Tough Pro PLA+ - Army Green"
+    "title": "Tough Pro PLA+ - Army Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4F5357FF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Graphite",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_GRAPHITE",
-    "title": "Silk PLA - Graphite"
+    "title": "Silk PLA - Graphite",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4A4F55FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Gunmetal Gray",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_GUNMETAL",
-    "title": "Regenerative PLA+ - Gunmetal Gray"
+    "title": "Regenerative PLA+ - Gunmetal Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#CC5500FF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Burnt Orange",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_BURNTO",
-    "title": "Regenerative PLA+ - Burnt Orange"
+    "title": "Regenerative PLA+ - Burnt Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Lithophane",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#B89B72FF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sepia",
     "product_type": "Filament",
+    "series": "Lithophane PLA",
     "sku": "LITHO_1KG_SEPIA",
-    "title": "Lithophane PLA - Sepia"
+    "title": "Lithophane PLA - Sepia",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Lithophane",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#B4BCC4FF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cool Gray",
     "product_type": "Filament",
+    "series": "Lithophane PLA",
     "sku": "LITHO_1KG_COOLG",
-    "title": "Lithophane PLA - Cool Gray"
+    "title": "Lithophane PLA - Cool Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#FF5F00FF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_NORANGE",
-    "title": "PLA+ - Neon Orange"
+    "title": "PLA+ - Neon Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#6A3D9AFF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_PURPLE",
-    "title": "Silk PLA - Purple"
+    "title": "Silk PLA - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F57C00FF",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Construction Orange",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_CONORANGE",
-    "title": "PCTG - Construction Orange"
+    "title": "PCTG - Construction Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1F4E9CFF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "American Blue",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_BLUE",
-    "title": "Tough Pro PLA+ - American Blue"
+    "title": "Tough Pro PLA+ - American Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4B2E1EFF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Chocolate Brown",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_BROWN",
-    "title": "PLA+ - Chocolate Brown"
+    "title": "PLA+ - Chocolate Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "American Filament",
     "color": "#FF5F00",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_NORANGE",
-    "title": "Silk PLA - Neon Orange"
+    "title": "Silk PLA - Neon Orange",
+    "updated_at": 1792798258680
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#81613CFF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Coyote Brown",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_COYBROWN",
-    "title": "PLA+ - Coyote Brown"
+    "title": "PLA+ - Coyote Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "American Filament",
     "color": "#FF2E93",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Neon Pink",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_NPINK",
-    "title": "Silk PLA - Neon Pink"
+    "title": "Silk PLA - Neon Pink",
+    "updated_at": 1792798348782
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#FF6700FF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Safety Orange",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_SAF-ORAN",
-    "title": "Tough Pro PLA+ - Safety Orange"
+    "title": "Tough Pro PLA+ - Safety Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F4F6F8FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Ice White",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_WHITE",
-    "title": "Tough Pro PLA+ - Ice White"
+    "title": "Tough Pro PLA+ - Ice White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F4D100FF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_YELLOW",
-    "title": "Silk PLA - Yellow"
+    "title": "Silk PLA - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Lithophane",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#BEC1C4FF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crisp Gray",
     "product_type": "Filament",
+    "series": "Lithophane PLA",
     "sku": "LITHO_1KG_CLG",
-    "title": "Lithophane PLA - Crisp Gray"
+    "title": "Lithophane PLA - Crisp Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#7B4B94FF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Amethyst Purple",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_APURP",
-    "title": "Tough Pro PLA+ - Amethyst Purple"
+    "title": "Tough Pro PLA+ - Amethyst Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1FB5B0FF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Turquoise",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_TURQUOISE",
-    "title": "PCTG - Turquoise"
+    "title": "PCTG - Turquoise",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#C9A227FF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_GOLD",
-    "title": "PLA+ - Gold"
+    "title": "PLA+ - Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#12805CFF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Emerald Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_EMERALD",
-    "title": "Silk PLA - Emerald Green"
+    "title": "Silk PLA - Emerald Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#8E9194FF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Primer Gray",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_PRIMERG",
-    "title": "Tough Pro PLA+ - Primer Gray"
+    "title": "Tough Pro PLA+ - Primer Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Lithophane",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F3EBD9FF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Warm White",
     "product_type": "Filament",
+    "series": "Lithophane PLA",
     "sku": "LITHO_1KG_WLW",
-    "title": "Lithophane PLA - Warm White"
+    "title": "Lithophane PLA - Warm White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#0D0D0DFF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Obsidian Black",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_BLACK",
-    "title": "PCTG - Obsidian Black"
+    "title": "PCTG - Obsidian Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#C2A878FF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Desert Tan",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_DESERTT",
-    "title": "PLA+ - Desert Tan"
+    "title": "PLA+ - Desert Tan",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#14808AFF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Teal",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_TEAL",
-    "title": "Silk PLA - Teal"
+    "title": "Silk PLA - Teal",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#111111FF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Onyx Black",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_BLACK",
-    "title": "Tough Pro PLA+ - Onyx Black"
+    "title": "Tough Pro PLA+ - Onyx Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4A4F55FF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Gunmetal Gray",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_GUNMETAL",
-    "title": "PLA+ - Gunmetal Gray"
+    "title": "PLA+ - Gunmetal Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#FF2E93FF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Neon Pink",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_NPINK",
-    "title": "PLA+ - Neon Pink"
+    "title": "PLA+ - Neon Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F4F6F8FF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Ice White",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_WHITE",
-    "title": "PLA+ - Ice White"
+    "title": "PLA+ - Ice White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F7E000FF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Safety Yellow",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_SAF-YEL",
-    "title": "PCTG - Safety Yellow"
+    "title": "PCTG - Safety Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#D6F000FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Hi-Vis Yellow",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_HV-YEL",
-    "title": "PCTG - Hi-Vis Yellow"
+    "title": "PCTG - Hi-Vis Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4B5320FF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_ARMYG",
-    "title": "Regenerative PLA+ - Army Green"
+    "title": "Regenerative PLA+ - Army Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1B3A6BFF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Police Blue",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_LEOBLUE",
-    "title": "PCTG - Police Blue"
+    "title": "PCTG - Police Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#5E4B35FF",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Camo Brown",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_CAMO-B",
-    "title": "PCTG - Camo Brown"
+    "title": "PCTG - Camo Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F5F7FAFF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Arctic White",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_WHITE",
-    "title": "Silk PLA - Arctic White"
+    "title": "Silk PLA - Arctic White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#7EC8E3FF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_SKYBLUE",
-    "title": "PLA+ - Sky Blue"
+    "title": "PLA+ - Sky Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#0F52BAFF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Sapphire Blue",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_TBLUE",
-    "title": "PCTG - Sapphire Blue"
+    "title": "PCTG - Sapphire Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#39FF14FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_NGREEN",
-    "title": "PLA+ - Neon Green"
+    "title": "PLA+ - Neon Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#B01030FF",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Ruby Red",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_TRED",
-    "title": "PCTG - Ruby Red"
+    "title": "PCTG - Ruby Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#C8102EFF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "American Red",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_RED",
-    "title": "Regenerative PLA+ - American Red"
+    "title": "Regenerative PLA+ - American Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4A4F55FF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Gunmetal Gray",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_GUNMETAL",
-    "title": "Tough Pro PLA+ - Gunmetal Gray"
+    "title": "Tough Pro PLA+ - Gunmetal Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1F4E9CFF",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "American Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_BLUE",
-    "title": "PLA+ - American Blue"
+    "title": "PLA+ - American Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#FF9F1CFF",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Turn Signal Orange",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_SIGNALORANGE",
-    "title": "PCTG - Turn Signal Orange"
+    "title": "PCTG - Turn Signal Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4B5320FF",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_ARMYG",
-    "title": "PCTG - Army Green"
+    "title": "PCTG - Army Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#E3DAC9FF",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Bone White",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_BONE",
-    "title": "PLA+ - Bone White"
+    "title": "PLA+ - Bone White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#C8102EFF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "American Red",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_RED",
-    "title": "Tough Pro PLA+ - American Red"
+    "title": "Tough Pro PLA+ - American Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1A1A1AFF",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Matte Black",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_BLACK",
-    "title": "PLA+ - Matte Black"
+    "title": "PLA+ - Matte Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#7B4B94FF",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Amethyst Purple",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_AMETHYST",
-    "title": "PLA+ - Amethyst Purple"
+    "title": "PLA+ - Amethyst Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#7A7F85FF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Utility Gray",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_UTILGRAY",
-    "title": "PCTG - Utility Gray"
+    "title": "PCTG - Utility Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1F5A35FF",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Forest Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_FORESTG",
-    "title": "PLA+ - Forest Green"
+    "title": "PLA+ - Forest Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F5D000FF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Dandelion Yellow",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_DANDYELLOW",
-    "title": "PLA+ - Dandelion Yellow"
+    "title": "PLA+ - Dandelion Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1F5A35FF",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Forest Green",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_FORESTG",
-    "title": "Regenerative PLA+ - Forest Green"
+    "title": "Regenerative PLA+ - Forest Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "American Filament",
     "color": "#39FF14",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_NGREEN",
-    "title": "Silk PLA - Neon Green"
+    "title": "Silk PLA - Neon Green",
+    "updated_at": 1792799773716
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#CC5500FF",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Burnt Orange",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_BURNTO",
-    "title": "PLA+ - Burnt Orange"
+    "title": "PLA+ - Burnt Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#B09B7CFF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Light Coyote Brown",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_LGHT-COY-B",
-    "title": "PCTG - Light Coyote Brown"
+    "title": "PCTG - Light Coyote Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1A1A1AFF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Matte Black",
     "product_type": "Filament",
+    "series": "Regenerative PLA+",
     "sku": "RGEN-PLUS_1KG_BLACK",
-    "title": "Regenerative PLA+ - Matte Black"
+    "title": "Regenerative PLA+ - Matte Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 4000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#0D0D0DFF",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "4000 g",
+    "name": "Obsidian Black",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_4KG_BLACK",
-    "title": "PCTG - Obsidian Black"
+    "title": "PCTG - Obsidian Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#C8102EFF",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "American Red",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_RED",
-    "title": "PLA+ - American Red"
+    "title": "PLA+ - American Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#BFE3F0FF",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Icy Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_ICYBLUE",
-    "title": "PLA+ - Icy Blue"
+    "title": "PLA+ - Icy Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#7B4B94FF",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Amethyst Purple",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_AMETHYST",
-    "title": "Silk PLA - Amethyst Purple"
+    "title": "Silk PLA - Amethyst Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#FF2E93FF",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Neon Pink",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_NPINK",
-    "title": "Tough Pro PLA+ - Neon Pink"
+    "title": "Tough Pro PLA+ - Neon Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F2EBD8FF",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Ivory White",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_IVORY",
-    "title": "PLA+ - Ivory White"
+    "title": "PLA+ - Ivory White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#4C6B3CFF",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Outdoor Green",
     "product_type": "Filament",
+    "series": "Tough Pro PLA+",
     "sku": "TOUGH_1KG_OUTGREEN",
-    "title": "Tough Pro PLA+ - Outdoor Green"
+    "title": "Tough Pro PLA+ - Outdoor Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#2E9E6BFF",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Jade Green",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_TGREEN",
-    "title": "PCTG - Jade Green"
+    "title": "PCTG - Jade Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#1F5FBFFF",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "SILK_1KG_BLUE",
-    "title": "Silk PLA - Blue"
+    "title": "Silk PLA - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#A58B5CFF",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Coyote Tan",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "PLUS_1KG_COYTAN",
-    "title": "PLA+ - Coyote Tan"
+    "title": "PLA+ - Coyote Tan",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "American Filament",
     "color": "#F8F8F8FF",
@@ -3562,8 +3994,11 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Blizzard White",
     "product_type": "Filament",
+    "series": "PCTG",
     "sku": "PCTG_1KG_WHITE",
-    "title": "PCTG - Blizzard White"
+    "title": "PCTG - Blizzard White",
+    "updated_at": null
   }
 ]

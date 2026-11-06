@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3112539334734",
     "brand": "Kimya",
     "color": "#000000FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PS",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PS Recyclé",
     "sku": "OWFK2629",
-    "title": "PS Recyclé - Black"
+    "title": "PS Recyclé - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3112539334727",
     "brand": "Kimya",
     "color": "#FFFFFF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PS",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PS Recyclé",
     "sku": "OWFO0622",
-    "title": "PS Recyclé - White"
+    "title": "PS Recyclé - White",
+    "updated_at": 1784899809421
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3112539802837",
     "brand": "Kimya",
     "color": "#F8DF9BFF",
@@ -118,8 +130,11 @@
     "info3": false,
     "material": "PPSU",
     "measure": "500 g",
+    "name": "Amber",
     "product_type": "Filament",
+    "series": "PPSU-S",
     "sku": "KIFK2148",
-    "title": "PPSU-S - Amber"
+    "title": "PPSU-S - Amber",
+    "updated_at": null
   }
 ]

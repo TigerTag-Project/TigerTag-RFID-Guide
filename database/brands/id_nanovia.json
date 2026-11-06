@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F0E9E5FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PETG-ESD",
     "measure": "2000 g",
+    "name": "ESD",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597268",
-    "title": "PETG - ESD"
+    "title": "PETG - ESD",
+    "updated_at": 1788429193389
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PA",
     "measure": "500 g",
+    "name": "Rail Black",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376034597101",
-    "title": "PA - Rail Black"
+    "title": "PA - Rail Black",
+    "updated_at": 1763042440653
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D8D9D3FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PC",
     "measure": "2000 g",
+    "name": "V0 White",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456810",
-    "title": "PC - V0 White"
+    "title": "PC - V0 White",
+    "updated_at": 1788427306569
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DCD9D6FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597303",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C3C3C3FF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PC",
     "measure": "2000 g",
+    "name": "V0 Native",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456391",
-    "title": "PC - V0 Native"
+    "title": "PC - V0 Native",
+    "updated_at": 1788427306569
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CAAA93",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "2000 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597212",
-    "title": "PLA - Wood"
+    "title": "PLA - Wood",
+    "updated_at": 1792797672186
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "Flex B4C",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597244",
-    "title": "Flexibles - Flex B4C"
+    "title": "Flexibles - Flex B4C",
+    "updated_at": 1763048230079
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DDD8D1FF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "Flex V0",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597435",
-    "title": "Flexibles - Flex V0"
+    "title": "Flexibles - Flex V0",
+    "updated_at": 1763048394716
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456934",
-    "title": "PLA - EF Black"
+    "title": "PLA - EF Black",
+    "updated_at": 1763046151571
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PA",
     "measure": "2000 g",
+    "name": "Rail Black",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376034597100",
-    "title": "PA - Rail Black"
+    "title": "PA - Rail Black",
+    "updated_at": 1788427822412
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CFC39DFF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "750 g",
+    "name": "EF Natif",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456837",
-    "title": "ABS - EF Natif"
+    "title": "ABS - EF Natif",
+    "updated_at": 1763041509668
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C5B6A7FF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "ISTROFLEX",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597258",
-    "title": "Flexibles - ISTROFLEX"
+    "title": "Flexibles - ISTROFLEX",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C7C1C1FF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Native",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597307",
-    "title": "PETG - Native"
+    "title": "PETG - Native",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "500 g",
+    "name": "CF Black",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376004456620",
-    "title": "PA - CF Black"
+    "title": "PA - CF Black",
+    "updated_at": 1763042684694
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B6B8ABFF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "2000 g",
+    "name": "ABS V0",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456527",
-    "title": "PC - ABS V0"
+    "title": "PC - ABS V0",
+    "updated_at": 1788428000078
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#278AC1FF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597319",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1788426749307
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "ABS-AF",
     "measure": "2000 g",
+    "name": "AF Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456565",
-    "title": "ABS - AF Black"
+    "title": "ABS - AF Black",
+    "updated_at": 1788430606010
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F7F6F3FF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "750 g",
+    "name": "EF White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597203",
-    "title": "ABS - EF White"
+    "title": "ABS - EF White",
+    "updated_at": 1763041673113
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E2312FFF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597316",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1763045137467
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 4500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "4500 g",
+    "name": "CF",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": null,
-    "title": "PETG - CF"
+    "title": "PETG - CF",
+    "updated_at": 1763045410863
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EF7208FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597327",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EE7D10FF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597289",
-    "title": "PLA - EF Orange"
+    "title": "PLA - EF Orange",
+    "updated_at": 1763046936892
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D61C2CFF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597277",
-    "title": "PLA - EF Red"
+    "title": "PLA - EF Red",
+    "updated_at": 1785624965063
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#665044FF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "Lin Natif",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456595",
-    "title": "PLA - Lin Natif"
+    "title": "PLA - Lin Natif",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "ABS-AF",
     "measure": "2000 g",
+    "name": "AF Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456497",
-    "title": "ABS - AF Black"
+    "title": "ABS - AF Black",
+    "updated_at": 1788430606010
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#0F1114FF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "2000 g",
+    "name": "EF Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597018",
-    "title": "ABS - EF Black"
+    "title": "ABS - EF Black",
+    "updated_at": 1788427564382
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#176846FF",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597285",
-    "title": "PLA - EF Green"
+    "title": "PLA - EF Green",
+    "updated_at": 1763047192018
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CCCDC7FF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "TPU 70D Native",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456383",
-    "title": "Flexibles - TPU 70D Native"
+    "title": "Flexibles - TPU 70D Native",
+    "updated_at": 1763049383039
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#79787CFF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597330",
-    "title": "PETG - Grey"
+    "title": "PETG - Grey",
+    "updated_at": 1763044719006
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E4E4E0FF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "XRS",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597179",
-    "title": "PLA - XRS"
+    "title": "PLA - XRS",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E8E9E2FF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "XRS",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456828",
-    "title": "PLA - XRS"
+    "title": "PLA - XRS",
+    "updated_at": 1763047786934
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#66BCBBFF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "VX Green",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597254",
-    "title": "Flexibles - VX Green"
+    "title": "Flexibles - VX Green",
+    "updated_at": 1763048886014
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D0D2CEFF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "500 g",
+    "name": "ABS Rail",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597084",
-    "title": "PC - ABS Rail"
+    "title": "PC - ABS Rail",
+    "updated_at": 1788428000078
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PEKK",
     "measure": "500 g",
+    "name": "A-CF",
     "product_type": "Filament",
+    "series": "PEKK",
     "sku": "376004456439",
-    "title": "PEKK - A-CF"
+    "title": "PEKK - A-CF",
+    "updated_at": 1788429870823
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C8B8AAFF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "ISTROFLEX",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456753",
-    "title": "Flexibles - ISTROFLEX"
+    "title": "Flexibles - ISTROFLEX",
+    "updated_at": 1763049060161
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "500 g",
+    "name": "CF Black",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376004456607",
-    "title": "PA - CF Black"
+    "title": "PA - CF Black",
+    "updated_at": 1763042650063
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B0AEAFFF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597295",
-    "title": "PLA - EF Gray"
+    "title": "PLA - EF Gray",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "ISTROFLEX",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456755",
-    "title": "Flexibles - ISTROFLEX"
+    "title": "Flexibles - ISTROFLEX",
+    "updated_at": 1763049019416
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C21323FF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597278",
-    "title": "PLA - EF Red"
+    "title": "PLA - EF Red",
+    "updated_at": 1785624965063
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#A8A5A1FF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597230",
-    "title": "PLA - EF Gray"
+    "title": "PLA - EF Gray",
+    "updated_at": 1763046698901
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F8F7F3FF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HIPS",
     "sku": "376034597210",
-    "title": "HIPS - White"
+    "title": "HIPS - White",
+    "updated_at": 1762506651131
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#61B7B4FF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "500 g",
+    "name": "VX Green",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597250",
-    "title": "Flexibles - VX Green"
+    "title": "Flexibles - VX Green",
+    "updated_at": 1762946467792
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#1470ADFF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PA",
     "measure": "2000 g",
+    "name": "Food Industry Blue",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376004456660",
-    "title": "PA - Food Industry Blue"
+    "title": "PA - Food Industry Blue",
+    "updated_at": 1788427822412
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CA9F5CFF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "2000 g",
+    "name": "Ultem 1010",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "376004456359",
-    "title": "PEI - Ultem 1010"
+    "title": "PEI - Ultem 1010",
+    "updated_at": 1788428432165
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "VX Black",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456328",
-    "title": "Flexibles - VX Black"
+    "title": "Flexibles - VX Black",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#66BDBBFF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "VX Green",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597255",
-    "title": "Flexibles - VX Green"
+    "title": "Flexibles - VX Green",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "376034597208",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1763042254215
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "2000 g",
+    "name": "CF Ultem 1010",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "376004456553",
-    "title": "PEI - CF Ultem 1010"
+    "title": "PEI - CF Ultem 1010",
+    "updated_at": 1788428432165
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "ABS-AF",
     "measure": "500 g",
+    "name": "AF Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456494",
-    "title": "ABS - AF Black"
+    "title": "ABS - AF Black",
+    "updated_at": 1788430606010
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "2000 g",
+    "name": "PA-6 CF",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376004456578",
-    "title": "PA - PA-6 CF"
+    "title": "PA - PA-6 CF",
+    "updated_at": 1788429733266
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#327049FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597321",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1763045214511
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E7B611FF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597276",
-    "title": "PLA - EF Yellow"
+    "title": "PLA - EF Yellow",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F3F2E9FF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "750 g",
+    "name": "EF White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456488",
-    "title": "ABS - EF White"
+    "title": "ABS - EF White",
+    "updated_at": 1763041840026
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#3B9796FF",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "VX",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597274",
-    "title": "PLA - VX"
+    "title": "PLA - VX",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PC",
     "measure": "500 g",
+    "name": "CF Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456550",
-    "title": "PC - CF Black"
+    "title": "PC - CF Black",
+    "updated_at": 1763042743575
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DDDED8FF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PC",
     "measure": "2000 g",
+    "name": "V0 White",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456450",
-    "title": "PC - V0 White"
+    "title": "PC - V0 White",
+    "updated_at": 1788427306569
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D2D0C3FF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "500 g",
+    "name": "PA-6 Native",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376004456756",
-    "title": "PA - PA-6 Native"
+    "title": "PA - PA-6 Native",
+    "updated_at": 1763042542119
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F8F6F0FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597206",
-    "title": "PLA - EF White"
+    "title": "PLA - EF White",
+    "updated_at": 1763046087656
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F7F5F3FF",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HIPS",
     "sku": "376034597211",
-    "title": "HIPS - White"
+    "title": "HIPS - White",
+    "updated_at": 1762506706680
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PEKK",
     "measure": "500 g",
+    "name": "A-CF",
     "product_type": "Filament",
+    "series": "PEKK",
     "sku": "376004456440",
-    "title": "PEKK - A-CF"
+    "title": "PEKK - A-CF",
+    "updated_at": 1788429870823
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Flax Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456595",
-    "title": "PLA - Flax Black"
+    "title": "PLA - Flax Black",
+    "updated_at": 1785624965063
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D9D5D0FF",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PC-PTFE",
     "measure": "2000 g",
+    "name": "PTFE",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597263",
-    "title": "PC - PTFE"
+    "title": "PC - PTFE",
+    "updated_at": 1788430811016
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#2389BFFF",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597317",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1763044549926
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 4500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "4500 g",
+    "name": "CF",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "1036763491",
-    "title": "PETG - CF"
+    "title": "PETG - CF",
+    "updated_at": 1763045463261
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597300",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "2000 g",
+    "name": "CF Ultem 1010",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "376034597264",
-    "title": "PEI - CF Ultem 1010"
+    "title": "PEI - CF Ultem 1010",
+    "updated_at": 1788428432165
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "37600445627",
-    "title": "PLA - EF Black"
+    "title": "PLA - EF Black",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D2D3CFFF",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "2000 g",
+    "name": "ABS Rail",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597062",
-    "title": "PC - ABS Rail"
+    "title": "PC - ABS Rail",
+    "updated_at": 1788428000078
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#FFD72FFF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597310",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1763044838509
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E2DEDBFF",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PETG-ESD",
     "measure": "500 g",
+    "name": "ESD",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597266",
-    "title": "PETG - ESD"
+    "title": "PETG - ESD",
+    "updated_at": 1763045553298
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D4D4CAFF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "2000 g",
+    "name": "PA-6 Native",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376004456706",
-    "title": "PA - PA-6 Native"
+    "title": "PA - PA-6 Native",
+    "updated_at": 1788430713686
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PP-CF",
     "measure": "2000 g",
+    "name": "CF",
     "product_type": "Filament",
+    "series": "PP",
     "sku": "376034597106",
-    "title": "PP - CF"
+    "title": "PP - CF",
+    "updated_at": 1788430415078
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597298",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1763044476839
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "VX Black",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456326",
-    "title": "Flexibles - VX Black"
+    "title": "Flexibles - VX Black",
+    "updated_at": 1786711973093
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EB8B13FF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597290",
-    "title": "PLA - EF Orange"
+    "title": "PLA - EF Orange",
+    "updated_at": 1763046982895
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456657",
-    "title": "PLA - EF Black"
+    "title": "PLA - EF Black",
+    "updated_at": 1763046207359
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#2287BFFF",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597318",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1763044600322
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#0A528AFF",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597283",
-    "title": "PLA - EF Blue"
+    "title": "PLA - EF Blue",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C70B21FF",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597280",
-    "title": "PLA - EF Red"
+    "title": "PLA - EF Red",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#FFD72FFF",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597309",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1763044797700
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PEKK",
     "measure": "2000 g",
+    "name": "A-CF",
     "product_type": "Filament",
+    "series": "PEKK",
     "sku": "376034597224",
-    "title": "PEKK - A-CF"
+    "title": "PEKK - A-CF",
+    "updated_at": 1788429870823
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#BEB7AEFF",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Native",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456580",
-    "title": "PLA - EF Native"
+    "title": "PLA - EF Native",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "2000 g",
+    "name": "TPU 70D Black",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597039",
-    "title": "Flexibles - TPU 70D Black"
+    "title": "Flexibles - TPU 70D Black",
+    "updated_at": 1788428239886
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "PC",
     "measure": "500 g",
+    "name": "CF Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597114",
-    "title": "PC - CF Black"
+    "title": "PC - CF Black",
+    "updated_at": 1763042771596
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DDD9D6FF",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597301",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1763044316856
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B6B8ABFF",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "500 g",
+    "name": "ABS V0",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456663",
-    "title": "PC - ABS V0"
+    "title": "PC - ABS V0",
+    "updated_at": 1788428000078
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B8A794FF",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "ISTROFLEX",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597042",
-    "title": "Flexibles - ISTROFLEX"
+    "title": "Flexibles - ISTROFLEX",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#FFD52EFF",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597311",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "2000 g",
+    "name": "CF Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456601",
-    "title": "ABS - CF Black"
+    "title": "ABS - CF Black",
+    "updated_at": 1788430921971
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E1E0DAFF",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "PC",
     "measure": "500 g",
+    "name": "V0 White",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597251",
-    "title": "PC - V0 White"
+    "title": "PC - V0 White",
+    "updated_at": 1763042946259
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C8BB93FF",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "2000 g",
+    "name": "EF Natif",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456392",
-    "title": "ABS - EF Natif"
+    "title": "ABS - EF Natif",
+    "updated_at": 1788427564382
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E9E2D8FF",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "TPE",
     "measure": "500 g",
+    "name": "TPE 22D",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456639",
-    "title": "Flexibles - TPE 22D"
+    "title": "Flexibles - TPE 22D",
+    "updated_at": 1763049328061
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C59C58FF",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "500 g",
+    "name": "Ultem 1010",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "376004456438",
-    "title": "PEI - Ultem 1010"
+    "title": "PEI - Ultem 1010",
+    "updated_at": 1763043973306
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PA",
     "measure": "500 g",
+    "name": "Rail Black",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376034597099",
-    "title": "PA - Rail Black"
+    "title": "PA - Rail Black",
+    "updated_at": 1763042373757
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597297",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1763044434154
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#FAF8F4FF",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "2000 g",
+    "name": "EF White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456989",
-    "title": "ABS - EF White"
+    "title": "ABS - EF White",
+    "updated_at": 1788427564382
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C29952FF",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "2000 g",
+    "name": "Ultem 1010",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "376004456882",
-    "title": "PEI - Ultem 1010"
+    "title": "PEI - Ultem 1010",
+    "updated_at": 1788428432165
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D6D5CFFF",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "GF UV",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597201",
-    "title": "PETG - GF UV"
+    "title": "PETG - GF UV",
+    "updated_at": 1763045748260
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#070608FF",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "750 g",
+    "name": "EF Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597205",
-    "title": "ABS - EF Black"
+    "title": "ABS - EF Black",
+    "updated_at": 1763041894011
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F8F6F5FF",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "2000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HIPS",
     "sku": "376004456930",
-    "title": "HIPS - White"
+    "title": "HIPS - White",
+    "updated_at": 1788430206467
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DCD8D6FF",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597302",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1763044364998
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CCCDC7FF",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "2000 g",
+    "name": "TPU 70D Native",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597144",
-    "title": "Flexibles - TPU 70D Native"
+    "title": "Flexibles - TPU 70D Native",
+    "updated_at": 1788428239886
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F8F6F5FF",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "2000 g",
+    "name": "Nanovia",
     "product_type": "Filament",
+    "series": "HIPS",
     "sku": "376004456942",
-    "title": "HIPS - Nanovia"
+    "title": "HIPS - Nanovia",
+    "updated_at": 1788430206467
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#BFB8AFFF",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Native",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456711",
-    "title": "PLA - EF Native"
+    "title": "PLA - EF Native",
+    "updated_at": 1763045926602
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "2000 g",
+    "name": "TPU 70D",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597134",
-    "title": "Flexibles - TPU 70D"
+    "title": "Flexibles - TPU 70D",
+    "updated_at": 1788428239886
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#757478FF",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597332",
-    "title": "PETG - Grey"
+    "title": "PETG - Grey",
+    "updated_at": 1788426749307
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#146A44FF",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597287",
-    "title": "PLA - EF Green"
+    "title": "PLA - EF Green",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597299",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1788426749307
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#207EBAFF",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "PA",
     "measure": "500 g",
+    "name": "Food Industry Blue",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "NAPAFI1050BU",
-    "title": "PA - Food Industry Blue"
+    "title": "PA - Food Industry Blue",
+    "updated_at": 1763042296424
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CAC8C4FF",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "GF UV",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597138",
-    "title": "PETG - GF UV"
+    "title": "PETG - GF UV",
+    "updated_at": 1788426749307
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#33704BFF",
@@ -4546,9 +5098,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597324",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1788426749307
   },
   {
     "RFID_Data": {
@@ -4571,6 +5126,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -4587,9 +5144,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "TPU 70D Black",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597037",
-    "title": "Flexibles - TPU 70D Black"
+    "title": "Flexibles - TPU 70D Black",
+    "updated_at": 1763049404806
   },
   {
     "RFID_Data": {
@@ -4612,6 +5172,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CAAC96FF",
@@ -4628,9 +5190,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "2000 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597214",
-    "title": "PLA - Wood"
+    "title": "PLA - Wood",
+    "updated_at": 1788429475068
   },
   {
     "RFID_Data": {
@@ -4653,6 +5218,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -4669,9 +5236,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "2000 g",
+    "name": "CF Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456756",
-    "title": "ABS - CF Black"
+    "title": "ABS - CF Black",
+    "updated_at": 1788430921971
   },
   {
     "RFID_Data": {
@@ -4694,6 +5264,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E0DDDAFF",
@@ -4710,9 +5282,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597304",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -4735,6 +5310,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F2F6F3FF",
@@ -4751,9 +5328,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597073",
-    "title": "PLA - EF White"
+    "title": "PLA - EF White",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -4776,6 +5356,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#FFAA2EFF",
@@ -4792,9 +5374,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597292",
-    "title": "PLA - EF Orange"
+    "title": "PLA - EF Orange",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -4817,6 +5402,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#33724FFF",
@@ -4833,9 +5420,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597322",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1763045257257
   },
   {
     "RFID_Data": {
@@ -4858,6 +5448,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -4874,9 +5466,12 @@
     "info3": false,
     "material": "PC",
     "measure": "2000 g",
+    "name": "CF Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597110",
-    "title": "PC - CF Black"
+    "title": "PC - CF Black",
+    "updated_at": 1788427306569
   },
   {
     "RFID_Data": {
@@ -4899,6 +5494,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DFDBD9FF",
@@ -4915,9 +5512,12 @@
     "info3": false,
     "material": "PETG-ESD",
     "measure": "2000 g",
+    "name": "ESD",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597227",
-    "title": "PETG - ESD"
+    "title": "PETG - ESD",
+    "updated_at": 1788429193389
   },
   {
     "RFID_Data": {
@@ -4940,6 +5540,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -4956,9 +5558,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "2000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "376004456525",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1788430335790
   },
   {
     "RFID_Data": {
@@ -4981,6 +5586,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D5D4CEFF",
@@ -4997,9 +5604,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "GF UV",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597140",
-    "title": "PETG - GF UV"
+    "title": "PETG - GF UV",
+    "updated_at": 1763045698618
   },
   {
     "RFID_Data": {
@@ -5022,6 +5632,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EBEAE6FF",
@@ -5038,9 +5650,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "XRS",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456712",
-    "title": "PLA - XRS"
+    "title": "PLA - XRS",
+    "updated_at": 1763047819671
   },
   {
     "RFID_Data": {
@@ -5063,6 +5678,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#24704BFF",
@@ -5079,9 +5696,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597288",
-    "title": "PLA - EF Green"
+    "title": "PLA - EF Green",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -5104,6 +5724,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#1775B3FF",
@@ -5120,9 +5742,12 @@
     "info3": false,
     "material": "PA",
     "measure": "500 g",
+    "name": "Food Industry Blue",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376034597361",
-    "title": "PA - Food Industry Blue"
+    "title": "PA - Food Industry Blue",
+    "updated_at": 1763042424208
   },
   {
     "RFID_Data": {
@@ -5145,6 +5770,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#61B7B4FF",
@@ -5161,9 +5788,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "VX Green",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597256",
-    "title": "Flexibles - VX Green"
+    "title": "Flexibles - VX Green",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -5186,6 +5816,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -5202,9 +5834,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "ISTROFLEX",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597185",
-    "title": "Flexibles - ISTROFLEX"
+    "title": "Flexibles - ISTROFLEX",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -5227,6 +5862,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#192029FF",
@@ -5243,9 +5880,12 @@
     "info3": false,
     "material": "PA",
     "measure": "2000 g",
+    "name": "Rail Black",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376034597102",
-    "title": "PA - Rail Black"
+    "title": "PA - Rail Black",
+    "updated_at": 1788427822412
   },
   {
     "RFID_Data": {
@@ -5268,6 +5908,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -5284,9 +5926,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456652",
-    "title": "PLA - EF Black"
+    "title": "PLA - EF Black",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -5309,6 +5954,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#BFB8AFFF",
@@ -5325,9 +5972,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Native",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456834",
-    "title": "PLA - EF Native"
+    "title": "PLA - EF Native",
+    "updated_at": 1763045983697
   },
   {
     "RFID_Data": {
@@ -5350,6 +6000,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D6D7D3FF",
@@ -5366,9 +6018,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "500 g",
+    "name": "ABS Rail",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597098",
-    "title": "PC - ABS Rail"
+    "title": "PC - ABS Rail",
+    "updated_at": 1788428000078
   },
   {
     "RFID_Data": {
@@ -5391,6 +6046,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EE7009FF",
@@ -5407,9 +6064,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597326",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1763045008965
   },
   {
     "RFID_Data": {
@@ -5432,6 +6092,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B79A86",
@@ -5448,9 +6110,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "500 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597207",
-    "title": "PLA - Wood"
+    "title": "PLA - Wood",
+    "updated_at": 1792799187069
   },
   {
     "RFID_Data": {
@@ -5473,6 +6138,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#389897FF",
@@ -5489,9 +6156,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "VX",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597272",
-    "title": "PLA - VX"
+    "title": "PLA - VX",
+    "updated_at": 1763047738454
   },
   {
     "RFID_Data": {
@@ -5514,6 +6184,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C5C1B6FF",
@@ -5530,9 +6202,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Native",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456651",
-    "title": "PLA - EF Native"
+    "title": "PLA - EF Native",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -5555,6 +6230,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C4B4A3FF",
@@ -5571,9 +6248,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "ISTROFLEX",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456854",
-    "title": "Flexibles - ISTROFLEX"
+    "title": "Flexibles - ISTROFLEX",
+    "updated_at": 1763049175698
   },
   {
     "RFID_Data": {
@@ -5596,6 +6276,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -5612,9 +6294,12 @@
     "info3": false,
     "material": "PC",
     "measure": "2000 g",
+    "name": "V0 Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456412",
-    "title": "PC - V0 Black"
+    "title": "PC - V0 Black",
+    "updated_at": 1788427306569
   },
   {
     "RFID_Data": {
@@ -5637,6 +6322,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EAB709FF",
@@ -5653,9 +6340,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597275",
-    "title": "PLA - EF Yellow"
+    "title": "PLA - EF Yellow",
+    "updated_at": 1763046860763
   },
   {
     "RFID_Data": {
@@ -5678,6 +6368,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DFDBDAFF",
@@ -5694,9 +6386,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Native",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597305",
-    "title": "PETG - Native"
+    "title": "PETG - Native",
+    "updated_at": 1763044179915
   },
   {
     "RFID_Data": {
@@ -5719,6 +6414,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#0B0A0EFF",
@@ -5735,9 +6432,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "750 g",
+    "name": "EF Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597204",
-    "title": "ABS - EF Black"
+    "title": "ABS - EF Black",
+    "updated_at": 1763041927067
   },
   {
     "RFID_Data": {
@@ -5760,6 +6460,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -5776,9 +6478,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "500 g",
+    "name": "ESD Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456541",
-    "title": "ABS - ESD Black"
+    "title": "ABS - ESD Black",
+    "updated_at": 1763042095998
   },
   {
     "RFID_Data": {
@@ -5801,6 +6506,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#0C0D11FF",
@@ -5817,9 +6524,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "2000 g",
+    "name": "EF Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597094",
-    "title": "ABS - EF Black"
+    "title": "ABS - EF Black",
+    "updated_at": 1788427564382
   },
   {
     "RFID_Data": {
@@ -5842,6 +6552,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EF3834FF",
@@ -5858,9 +6570,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597314",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -5883,6 +6598,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -5899,9 +6616,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "VX Black",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456329",
-    "title": "Flexibles - VX Black"
+    "title": "Flexibles - VX Black",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -5924,6 +6644,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F1F1EFFF",
@@ -5940,9 +6662,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597270",
-    "title": "PLA - EF White"
+    "title": "PLA - EF White",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -5965,6 +6690,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -5981,9 +6708,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "TPU 70D",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597034",
-    "title": "Flexibles - TPU 70D"
+    "title": "Flexibles - TPU 70D",
+    "updated_at": 1763049475326
   },
   {
     "RFID_Data": {
@@ -6006,6 +6736,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CAA25FFF",
@@ -6022,9 +6754,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "500 g",
+    "name": "Ultem 1010",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "376004456441",
-    "title": "PEI - Ultem 1010"
+    "title": "PEI - Ultem 1010",
+    "updated_at": 1763044001367
   },
   {
     "RFID_Data": {
@@ -6047,6 +6782,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#054980FF",
@@ -6063,9 +6800,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597284",
-    "title": "PLA - EF Blue"
+    "title": "PLA - EF Blue",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -6088,6 +6828,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -6104,9 +6846,12 @@
     "info3": false,
     "material": "PEKK",
     "measure": "2000 g",
+    "name": "A-CF",
     "product_type": "Filament",
+    "series": "PEKK",
     "sku": "376034597265",
-    "title": "PEKK - A-CF"
+    "title": "PEKK - A-CF",
+    "updated_at": 1788429870823
   },
   {
     "RFID_Data": {
@@ -6129,6 +6874,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -6145,9 +6892,12 @@
     "info3": false,
     "material": "PC",
     "measure": "500 g",
+    "name": "V0 Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597243",
-    "title": "PC - V0 Black"
+    "title": "PC - V0 Black",
+    "updated_at": 1763043026964
   },
   {
     "RFID_Data": {
@@ -6170,6 +6920,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#ADACAEFF",
@@ -6186,9 +6938,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597296",
-    "title": "PLA - EF Gray"
+    "title": "PLA - EF Gray",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -6211,6 +6966,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -6227,9 +6984,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "500 g",
+    "name": "CF Ultem 1010",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "376004456536",
-    "title": "PEI - CF Ultem 1010"
+    "title": "PEI - CF Ultem 1010",
+    "updated_at": 1788527482707
   },
   {
     "RFID_Data": {
@@ -6252,6 +7012,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -6268,9 +7030,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "Flax Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456595",
-    "title": "PLA - Flax Black"
+    "title": "PLA - Flax Black",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -6293,6 +7058,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B8B8B8FF",
@@ -6309,9 +7076,12 @@
     "info3": false,
     "material": "PC",
     "measure": "500 g",
+    "name": "V0 Native",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456416",
-    "title": "PC - V0 Native"
+    "title": "PC - V0 Native",
+    "updated_at": 1763042870098
   },
   {
     "RFID_Data": {
@@ -6334,6 +7104,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#34724DFF",
@@ -6350,9 +7122,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597323",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1788426749307
   },
   {
     "RFID_Data": {
@@ -6375,6 +7150,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DDDED7FF",
@@ -6391,9 +7168,12 @@
     "info3": false,
     "material": "PC",
     "measure": "500 g",
+    "name": "V0 White",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597029",
-    "title": "PC - V0 White"
+    "title": "PC - V0 White",
+    "updated_at": 1763042917200
   },
   {
     "RFID_Data": {
@@ -6416,6 +7196,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -6432,9 +7214,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "376034597209",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1763042219270
   },
   {
     "RFID_Data": {
@@ -6457,6 +7242,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E7E8E2FF",
@@ -6473,9 +7260,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "XRS",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597132",
-    "title": "PLA - XRS"
+    "title": "PLA - XRS",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -6498,6 +7288,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -6514,9 +7306,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "2000 g",
+    "name": "CF Black",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376004456343",
-    "title": "PA - CF Black"
+    "title": "PA - CF Black",
+    "updated_at": 1788429733266
   },
   {
     "RFID_Data": {
@@ -6539,6 +7334,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C6B790FF",
@@ -6555,9 +7352,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "EF Native",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597236",
-    "title": "ABS - EF Native"
+    "title": "ABS - EF Native",
+    "updated_at": 1763039307657
   },
   {
     "RFID_Data": {
@@ -6580,6 +7380,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D1D0CBFF",
@@ -6596,9 +7398,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "GF UV",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597269",
-    "title": "PETG - GF UV"
+    "title": "PETG - GF UV",
+    "updated_at": 1788426749307
   },
   {
     "RFID_Data": {
@@ -6621,6 +7426,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#2487BEFF",
@@ -6637,9 +7444,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597320",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1788426749307
   },
   {
     "RFID_Data": {
@@ -6662,6 +7472,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DCD6C8FF",
@@ -6678,9 +7490,12 @@
     "info3": false,
     "material": "TPE",
     "measure": "500 g",
+    "name": "TPE 22D",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456622",
-    "title": "Flexibles - TPE 22D"
+    "title": "Flexibles - TPE 22D",
+    "updated_at": 1763049295412
   },
   {
     "RFID_Data": {
@@ -6703,6 +7518,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DFDAD4FF",
@@ -6719,9 +7536,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Native",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597306",
-    "title": "PETG - Native"
+    "title": "PETG - Native",
+    "updated_at": 1763044247108
   },
   {
     "RFID_Data": {
@@ -6744,6 +7564,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D5D2CDFF",
@@ -6760,9 +7582,12 @@
     "info3": false,
     "material": "PC-PTFE",
     "measure": "2000 g",
+    "name": "PTFE",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597182",
-    "title": "PC - PTFE"
+    "title": "PC - PTFE",
+    "updated_at": 1788430811016
   },
   {
     "RFID_Data": {
@@ -6785,6 +7610,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F0ECEAFF",
@@ -6801,9 +7628,12 @@
     "info3": false,
     "material": "PETG-ESD",
     "measure": "500 g",
+    "name": "ESD",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597215",
-    "title": "PETG - ESD"
+    "title": "PETG - ESD",
+    "updated_at": 1763045525365
   },
   {
     "RFID_Data": {
@@ -6826,6 +7656,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -6842,9 +7674,12 @@
     "info3": false,
     "material": "PP-CF",
     "measure": "500 g",
+    "name": "CF",
     "product_type": "Filament",
+    "series": "PP",
     "sku": "376034597104",
-    "title": "PP - CF"
+    "title": "PP - CF",
+    "updated_at": 1763047873856
   },
   {
     "RFID_Data": {
@@ -6867,6 +7702,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CABD95FF",
@@ -6883,9 +7720,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "2000 g",
+    "name": "EF Natif",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597253",
-    "title": "ABS - EF Natif"
+    "title": "ABS - EF Natif",
+    "updated_at": 1788427564382
   },
   {
     "RFID_Data": {
@@ -6908,6 +7748,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CEB098",
@@ -6924,9 +7766,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "500 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597213",
-    "title": "PLA - Wood"
+    "title": "PLA - Wood",
+    "updated_at": 1792799611473
   },
   {
     "RFID_Data": {
@@ -6949,6 +7794,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B9B9B9FF",
@@ -6965,9 +7812,12 @@
     "info3": false,
     "material": "PC",
     "measure": "2000 g",
+    "name": "V0 Native",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597113",
-    "title": "PC - V0 Native"
+    "title": "PC - V0 Native",
+    "updated_at": 1788427306569
   },
   {
     "RFID_Data": {
@@ -6990,6 +7840,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EEF0EFFF",
@@ -7006,9 +7858,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456879",
-    "title": "PLA - EF White"
+    "title": "PLA - EF White",
+    "updated_at": 1763046043330
   },
   {
     "RFID_Data": {
@@ -7031,6 +7886,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -7047,9 +7904,12 @@
     "info3": false,
     "material": "PP-CF",
     "measure": "500 g",
+    "name": "CF",
     "product_type": "Filament",
+    "series": "PP",
     "sku": "376034597105",
-    "title": "PP - CF"
+    "title": "PP - CF",
+    "updated_at": 1763047915055
   },
   {
     "RFID_Data": {
@@ -7072,6 +7932,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -7088,9 +7950,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "500 g",
+    "name": "CF Ultem 1010",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "376004456535",
-    "title": "PEI - CF Ultem 1010"
+    "title": "PEI - CF Ultem 1010",
+    "updated_at": 1788527482707
   },
   {
     "RFID_Data": {
@@ -7113,6 +7978,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#6D6C71FF",
@@ -7129,9 +7996,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597329",
-    "title": "PETG - Grey"
+    "title": "PETG - Grey",
+    "updated_at": 1763044673593
   },
   {
     "RFID_Data": {
@@ -7154,6 +8024,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -7170,9 +8042,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "2000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "376004456387",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1788430335790
   },
   {
     "RFID_Data": {
@@ -7195,6 +8070,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E6E0D4FF",
@@ -7211,9 +8088,12 @@
     "info3": false,
     "material": "TPE",
     "measure": "2000 g",
+    "name": "TPE 22D",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456344",
-    "title": "Flexibles - TPE 22D"
+    "title": "Flexibles - TPE 22D",
+    "updated_at": 1788430505574
   },
   {
     "RFID_Data": {
@@ -7236,6 +8116,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -7252,9 +8134,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "500 g",
+    "name": "CF",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376004456857",
-    "title": "PETG - CF"
+    "title": "PETG - CF",
+    "updated_at": 1763045432309
   },
   {
     "RFID_Data": {
@@ -7277,6 +8162,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#E7E2D8FF",
@@ -7293,9 +8180,12 @@
     "info3": false,
     "material": "TPE",
     "measure": "2000 g",
+    "name": "TPE 22D",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597063",
-    "title": "Flexibles - TPE 22D"
+    "title": "Flexibles - TPE 22D",
+    "updated_at": 1788430505574
   },
   {
     "RFID_Data": {
@@ -7318,6 +8208,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -7334,9 +8226,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "2000 g",
+    "name": "CF",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376004456308",
-    "title": "PETG - CF"
+    "title": "PETG - CF",
+    "updated_at": 1788428909591
   },
   {
     "RFID_Data": {
@@ -7359,6 +8254,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C9CAC4FF",
@@ -7375,9 +8272,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "2000 g",
+    "name": "TPU 70D Native",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597217",
-    "title": "Flexibles - TPU 70D Native"
+    "title": "Flexibles - TPU 70D Native",
+    "updated_at": 1788428239886
   },
   {
     "RFID_Data": {
@@ -7400,6 +8300,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B6B8ABFF",
@@ -7416,9 +8318,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "500 g",
+    "name": "ABS V0",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597261",
-    "title": "PC - ABS V0"
+    "title": "PC - ABS V0",
+    "updated_at": 1788428000078
   },
   {
     "RFID_Data": {
@@ -7441,6 +8346,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EEEDE6FF",
@@ -7457,9 +8364,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "2000 g",
+    "name": "EF White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597103",
-    "title": "ABS - EF White"
+    "title": "ABS - EF White",
+    "updated_at": 1788427564382
   },
   {
     "RFID_Data": {
@@ -7482,6 +8392,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#1870B0FF",
@@ -7498,9 +8410,12 @@
     "info3": false,
     "material": "PA",
     "measure": "2000 g",
+    "name": "Food Industry Blue",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376034597121",
-    "title": "PA - Food Industry Blue"
+    "title": "PA - Food Industry Blue",
+    "updated_at": 1788427822412
   },
   {
     "RFID_Data": {
@@ -7523,6 +8438,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -7539,9 +8456,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "Flax Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456595",
-    "title": "PLA - Flax Black"
+    "title": "PLA - Flax Black",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -7564,6 +8484,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#ACA8A8FF",
@@ -7580,9 +8502,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597294",
-    "title": "PLA - EF Gray"
+    "title": "PLA - EF Gray",
+    "updated_at": 1763046749161
   },
   {
     "RFID_Data": {
@@ -7605,6 +8530,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -7621,9 +8548,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Flax Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376004456595",
-    "title": "PLA - Flax Black"
+    "title": "PLA - Flax Black",
+    "updated_at": 1785624965063
   },
   {
     "RFID_Data": {
@@ -7646,6 +8576,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DBD7CBFF",
@@ -7662,9 +8594,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "Flex V0",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597436",
-    "title": "Flexibles - Flex V0"
+    "title": "Flexibles - Flex V0",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -7687,6 +8622,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#5AB3AFFF",
@@ -7703,9 +8640,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "VX Green",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": null,
-    "title": "Flexibles - VX Green"
+    "title": "Flexibles - VX Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7728,6 +8668,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#006136FF",
@@ -7744,9 +8686,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597286",
-    "title": "PLA - EF Green"
+    "title": "PLA - EF Green",
+    "updated_at": 1763047243468
   },
   {
     "RFID_Data": {
@@ -7769,6 +8714,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -7785,9 +8732,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "VX Black",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "",
-    "title": "Flexibles - VX Black"
+    "title": "Flexibles - VX Black",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -7810,6 +8760,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DE9904FF",
@@ -7826,9 +8778,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597484",
-    "title": "PLA - EF Yellow"
+    "title": "PLA - EF Yellow",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -7851,6 +8806,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#0D5892FF",
@@ -7867,9 +8824,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597282",
-    "title": "PLA - EF Blue"
+    "title": "PLA - EF Blue",
+    "updated_at": 1763046599666
   },
   {
     "RFID_Data": {
@@ -7892,6 +8852,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#3C9893FF",
@@ -7908,9 +8870,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "VX",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597273",
-    "title": "PLA - VX"
+    "title": "PLA - VX",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -7933,6 +8898,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -7949,9 +8916,12 @@
     "info3": false,
     "material": "PP-CF",
     "measure": "2000 g",
+    "name": "CF",
     "product_type": "Filament",
+    "series": "PP",
     "sku": "376034597107",
-    "title": "PP - CF"
+    "title": "PP - CF",
+    "updated_at": 1788430415078
   },
   {
     "RFID_Data": {
@@ -7974,6 +8944,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EE6F08FF",
@@ -7990,9 +8962,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597325",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1763044900357
   },
   {
     "RFID_Data": {
@@ -8015,6 +8990,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -8031,9 +9008,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "Flex B4C",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597245",
-    "title": "Flexibles - Flex B4C"
+    "title": "Flexibles - Flex B4C",
+    "updated_at": 1763048245625
   },
   {
     "RFID_Data": {
@@ -8056,6 +9036,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -8072,9 +9054,12 @@
     "info3": false,
     "material": "PC",
     "measure": "2000 g",
+    "name": "V0 Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597260",
-    "title": "PC - V0 Black"
+    "title": "PC - V0 Black",
+    "updated_at": 1788427306569
   },
   {
     "RFID_Data": {
@@ -8097,6 +9082,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DD9A02FF",
@@ -8113,9 +9100,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597229",
-    "title": "PLA - EF Yellow"
+    "title": "PLA - EF Yellow",
+    "updated_at": 1763046815610
   },
   {
     "RFID_Data": {
@@ -8138,6 +9128,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DD2A29FF",
@@ -8154,9 +9146,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597313",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1763045073818
   },
   {
     "RFID_Data": {
@@ -8179,6 +9174,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -8195,9 +9192,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "500 g",
+    "name": "ESD Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376004456501",
-    "title": "ABS - ESD Black"
+    "title": "ABS - ESD Black",
+    "updated_at": 1763042069533
   },
   {
     "RFID_Data": {
@@ -8220,6 +9220,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000",
@@ -8236,9 +9238,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "VX Black",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456327",
-    "title": "Flexibles - VX Black"
+    "title": "Flexibles - VX Black",
+    "updated_at": 1786712766593
   },
   {
     "RFID_Data": {
@@ -8261,6 +9266,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D4D5D0FF",
@@ -8277,9 +9284,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "2000 g",
+    "name": "ABS Rail",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597061",
-    "title": "PC - ABS Rail"
+    "title": "PC - ABS Rail",
+    "updated_at": 1788428000078
   },
   {
     "RFID_Data": {
@@ -8302,6 +9312,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#EE7108FF",
@@ -8318,9 +9330,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597328",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -8343,6 +9358,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B5B5B5FF",
@@ -8359,9 +9376,12 @@
     "info3": false,
     "material": "PC",
     "measure": "500 g",
+    "name": "V0 Native",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456732",
-    "title": "PC - V0 Native"
+    "title": "PC - V0 Native",
+    "updated_at": 1763042830323
   },
   {
     "RFID_Data": {
@@ -8384,6 +9404,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -8400,9 +9422,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "2000 g",
+    "name": "CF",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376004456309",
-    "title": "PETG - CF"
+    "title": "PETG - CF",
+    "updated_at": 1788428909591
   },
   {
     "RFID_Data": {
@@ -8425,6 +9450,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#CACBC5FF",
@@ -8441,9 +9468,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "TPU 70D Native",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376034597017",
-    "title": "Flexibles - TPU 70D Native"
+    "title": "Flexibles - TPU 70D Native",
+    "updated_at": 1763049456124
   },
   {
     "RFID_Data": {
@@ -8466,6 +9496,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -8482,9 +9514,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "2000 g",
+    "name": "ESD Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597238",
-    "title": "ABS - ESD Black"
+    "title": "ABS - ESD Black",
+    "updated_at": 1788428678590
   },
   {
     "RFID_Data": {
@@ -8507,6 +9542,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DC2C27FF",
@@ -8523,9 +9560,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597315",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -8548,6 +9588,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#358E8EFF",
@@ -8564,9 +9606,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "VX",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597271",
-    "title": "PLA - VX"
+    "title": "PLA - VX",
+    "updated_at": 1763047640054
   },
   {
     "RFID_Data": {
@@ -8589,6 +9634,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -8605,9 +9652,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "500 g",
+    "name": "ISTROFLEX",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456855",
-    "title": "Flexibles - ISTROFLEX"
+    "title": "Flexibles - ISTROFLEX",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8630,6 +9680,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -8646,9 +9698,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "2000 g",
+    "name": "ISTROFLEX",
     "product_type": "Filament",
+    "series": "Flexibles",
     "sku": "376004456351",
-    "title": "Flexibles - ISTROFLEX"
+    "title": "Flexibles - ISTROFLEX",
+    "updated_at": 1788427003274
   },
   {
     "RFID_Data": {
@@ -8671,6 +9726,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#03427BFF",
@@ -8687,9 +9744,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "EF Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597281",
-    "title": "PLA - EF Blue"
+    "title": "PLA - EF Blue",
+    "updated_at": 1763046463497
   },
   {
     "RFID_Data": {
@@ -8712,6 +9772,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#B5B7AAFF",
@@ -8728,9 +9790,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "2000 g",
+    "name": "ABS V0",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597262",
-    "title": "PC - ABS V0"
+    "title": "PC - ABS V0",
+    "updated_at": 1788428000078
   },
   {
     "RFID_Data": {
@@ -8753,6 +9818,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#F1932BFF",
@@ -8769,9 +9836,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597291",
-    "title": "PLA - EF Orange"
+    "title": "PLA - EF Orange",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -8794,6 +9864,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DFDAD8FF",
@@ -8810,9 +9882,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Native",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597308",
-    "title": "PETG - Native"
+    "title": "PETG - Native",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -8835,6 +9910,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#C7C6B2FF",
@@ -8851,9 +9928,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "2000 g",
+    "name": "PA-6 Native",
     "product_type": "Filament",
+    "series": "PA",
     "sku": "376004456357",
-    "title": "PA - PA-6 Native"
+    "title": "PA - PA-6 Native",
+    "updated_at": 1788430713686
   },
   {
     "RFID_Data": {
@@ -8876,6 +9956,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -8892,9 +9974,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "2000 g",
+    "name": "ESD Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "376034597186",
-    "title": "ABS - ESD Black"
+    "title": "ABS - ESD Black",
+    "updated_at": 1788428678590
   },
   {
     "RFID_Data": {
@@ -8917,6 +10002,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#6D6D71FF",
@@ -8933,9 +10020,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597331",
-    "title": "PETG - Grey"
+    "title": "PETG - Grey",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -8958,6 +10048,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#000000FF",
@@ -8974,9 +10066,12 @@
     "info3": false,
     "material": "PC",
     "measure": "2000 g",
+    "name": "CF Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376034597259",
-    "title": "PC - CF Black"
+    "title": "PC - CF Black",
+    "updated_at": 1788427306569
   },
   {
     "RFID_Data": {
@@ -8999,6 +10094,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#FED32FFF",
@@ -9015,9 +10112,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "376034597312",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1788426749308
   },
   {
     "RFID_Data": {
@@ -9040,6 +10140,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#DC2A3CFF",
@@ -9056,9 +10158,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "EF Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "376034597279",
-    "title": "PLA - EF Red"
+    "title": "PLA - EF Red",
+    "updated_at": 1788426447500
   },
   {
     "RFID_Data": {
@@ -9081,6 +10186,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D7D4CFFF",
@@ -9097,9 +10204,12 @@
     "info3": false,
     "material": "PC",
     "measure": "500 g",
+    "name": "PTFE",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456983",
-    "title": "PC - PTFE"
+    "title": "PC - PTFE",
+    "updated_at": 1762511045325
   },
   {
     "RFID_Data": {
@@ -9122,6 +10232,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Nanovia",
     "color": "#D9D8D4FF",
@@ -9138,8 +10250,11 @@
     "info3": false,
     "material": "PC-PTFE",
     "measure": "500 g",
+    "name": "PTFE",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "376004456734",
-    "title": "PC - PTFE"
+    "title": "PC - PTFE",
+    "updated_at": 1763043276759
   }
 ]

@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFFFFF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0FQTPDBVS",
-    "title": "PLA Pro - White"
+    "title": "PLA Pro - White",
+    "updated_at": 1792796934297
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#BC69ACFF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Fuchsia Blue",
     "product_type": "Filament",
+    "series": "Multicolor Silk PLA",
     "sku": "B0DZHHG3NB",
-    "title": "Multicolor Silk PLA - Fuchsia Blue"
+    "title": "Multicolor Silk PLA - Fuchsia Blue",
+    "updated_at": 1788467081142
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFFFFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "High-Speed PLA",
     "sku": "B0DPWMSMNQ",
-    "title": "High-Speed PLA - White"
+    "title": "High-Speed PLA - White",
+    "updated_at": 1792796934891
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FF6A13FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "B0FQTW2X1V",
-    "title": "TPU 95A - Orange"
+    "title": "TPU 95A - Orange",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#D50032FF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "INS-TPU95-RED",
-    "title": "TPU 95A - Red"
+    "title": "TPU 95A - Red",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#978F81FF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Clay",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0FQTS2NBY",
-    "title": "Matte PLA - Clay"
+    "title": "Matte PLA - Clay",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#E684B4FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "INS-MATTE-PINK",
-    "title": "Matte PLA - Pink"
+    "title": "Matte PLA - Pink",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F0F0EEFF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "B0G5N8Q6G1",
-    "title": "TPU 95A - White"
+    "title": "TPU 95A - White",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#E0C8B4FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Maple",
     "product_type": "Filament",
+    "series": "WoodFill PLA",
     "sku": "B0DZHH16B6",
-    "title": "WoodFill PLA - Maple"
+    "title": "WoodFill PLA - Maple",
+    "updated_at": 1788467216781
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#101820FF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 90A",
     "sku": "B0DZHKJRDQ-2",
-    "title": "TPU 90A - Black"
+    "title": "TPU 90A - Black",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#EDEDED",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PP",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PP",
     "sku": "INS-PP-TRANSPARENT",
-    "title": "PP - Transparent"
+    "title": "PP - Transparent",
+    "updated_at": 1792797904282
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#A7A8A9FF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "High-Speed PLA",
     "sku": "B0DPWQ2T7Y-2",
-    "title": "High-Speed PLA - Grey"
+    "title": "High-Speed PLA - Grey",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#0147BAFF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "High-Speed PLA Pro",
     "sku": "B0DPWQZMS8-2",
-    "title": "High-Speed PLA Pro - Blue"
+    "title": "High-Speed PLA Pro - Blue",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#A7A8A9FF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0DZGXXZDD",
-    "title": "PETG Pro - Grey"
+    "title": "PETG Pro - Grey",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FF0000FF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "High-Speed PLA Pro",
     "sku": "B0DPWQD36Q-2",
-    "title": "High-Speed PLA Pro - Red"
+    "title": "High-Speed PLA Pro - Red",
+    "updated_at": 1788466679790
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F7F1E6FF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS-GF10",
     "sku": "INS-ABSGF-NATURAL",
-    "title": "ABS-GF10 - Natural"
+    "title": "ABS-GF10 - Natural",
+    "updated_at": 1788468590092
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#464C50FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0DPWQ2976",
-    "title": "Matte PLA - Grey"
+    "title": "Matte PLA - Grey",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFFFFF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA-AERO",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "LW-PLA",
     "sku": "B0FQTPDBVS-2",
-    "title": "LW-PLA - White"
+    "title": "LW-PLA - White",
+    "updated_at": 1792796934500
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#685BC7FF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "INS-ASA-PURPLE",
-    "title": "ASA - Purple"
+    "title": "ASA - Purple",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#B99C8DFF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "WoodFill PLA",
     "sku": "B0DZHKBC7S",
-    "title": "WoodFill PLA - Natural"
+    "title": "WoodFill PLA - Natural",
+    "updated_at": 1788467216781
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#CBCCD0FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA Marble",
     "measure": "1000 g",
+    "name": "Granite",
     "product_type": "Filament",
+    "series": "High-Speed Marble PLA",
     "sku": "B0DZHF9HSY",
-    "title": "High-Speed Marble PLA - Granite"
+    "title": "High-Speed Marble PLA - Granite",
+    "updated_at": 1788467356765
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#CD001AFF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0DZGL6JJB",
-    "title": "PETG Pro - Red"
+    "title": "PETG Pro - Red",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#2457C5FF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue+Green",
     "product_type": "Filament",
+    "series": "Multicolor Silk PLA",
     "sku": "INS-SILK-BLUEGREEN",
-    "title": "Multicolor Silk PLA - Blue+Green"
+    "title": "Multicolor Silk PLA - Blue+Green",
+    "updated_at": 1788467081142
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#A05EB5FF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0FQTSMC2C-2",
-    "title": "Matte PLA - Purple"
+    "title": "Matte PLA - Purple",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFFFFFFF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0DZGGTCTC",
-    "title": "PETG Pro - White"
+    "title": "PETG Pro - White",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#00B140FF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0FQTSNWW8",
-    "title": "PETG Pro - Green"
+    "title": "PETG Pro - Green",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#A7A8A9FF",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "TPU 90A",
     "sku": "B0FQTRFPB9-2",
-    "title": "TPU 90A - Grey"
+    "title": "TPU 90A - Grey",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#485CC7FF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0DPWN16Q1",
-    "title": "Matte PLA - Blue"
+    "title": "Matte PLA - Blue",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#00AA13FF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "High-Speed PLA Pro",
     "sku": "B0G59RHY51-2",
-    "title": "High-Speed PLA Pro - Green"
+    "title": "High-Speed PLA Pro - Green",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F4F9FF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent White",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "INS-TPU95-TRANSPARENTW",
-    "title": "TPU 95A - Transparent White"
+    "title": "TPU 95A - Transparent White",
+    "updated_at": 1792798191984
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#EDE8DBFF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS FR V0",
     "sku": "INS-ABSFR-NATURAL",
-    "title": "ABS FR V0 - Natural"
+    "title": "ABS FR V0 - Natural",
+    "updated_at": 1788467490756
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#00A3E0FF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "B0FQTY5QVK",
-    "title": "TPU 95A - Sky Blue"
+    "title": "TPU 95A - Sky Blue",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#67823AFF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "High-Speed PLA Pro",
     "sku": "B0FQTPRSCV-3",
-    "title": "High-Speed PLA Pro - Olive Green"
+    "title": "High-Speed PLA Pro - Olive Green",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F8E600FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "High-Speed PLA",
     "sku": "B0DPWQN4QD",
-    "title": "High-Speed PLA - Yellow"
+    "title": "High-Speed PLA - Yellow",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#101820FF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC-ABS",
     "sku": "INS-PCABS-BLACK",
-    "title": "PC-ABS - Black"
+    "title": "PC-ABS - Black",
+    "updated_at": 1788467677741
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#CD001AFF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "High-Speed PLA",
     "sku": "B0DPWQD36Q",
-    "title": "High-Speed PLA - Red"
+    "title": "High-Speed PLA - Red",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F3DFD5FF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0DZ25FHM2",
-    "title": "PLA Pro - Beige"
+    "title": "PLA Pro - Beige",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#CD001AFF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU 90A",
     "sku": "INS-TPU90-RED",
-    "title": "TPU 90A - Red"
+    "title": "TPU 90A - Red",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#E5D4C5FF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PEEK",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PEEK",
     "sku": "INS-PEEK-NATURAL",
-    "title": "PEEK - Natural"
+    "title": "PEEK - Natural",
+    "updated_at": 1788468816577
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#BC2726FF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "INS-ASA-RED",
-    "title": "ASA - Red"
+    "title": "ASA - Red",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F8E600FF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0DZH49X8H",
-    "title": "PETG Pro - Yellow"
+    "title": "PETG Pro - Yellow",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#0032A0FF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0G59RFPBQ",
-    "title": "PLA Pro - Blue"
+    "title": "PLA Pro - Blue",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#000000FF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PA12-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA12-CF",
     "sku": "B0DZMYRQNH",
-    "title": "PA12-CF - Black"
+    "title": "PA12-CF - Black",
+    "updated_at": 1788468505364
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#761E1CFF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA Marble",
     "measure": "1000 g",
+    "name": "Brick Red",
     "product_type": "Filament",
+    "series": "High-Speed Marble PLA",
     "sku": "B0DZHGWF35",
-    "title": "High-Speed Marble PLA - Brick Red"
+    "title": "High-Speed Marble PLA - Brick Red",
+    "updated_at": 1788467356765
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#00A3E0FF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0FQTWZL96",
-    "title": "PETG Pro - Sky Blue"
+    "title": "PETG Pro - Sky Blue",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#ED7334FF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "INS-ASA-ORANGE",
-    "title": "ASA - Orange"
+    "title": "ASA - Orange",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#1B1D1EFF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "B0DZHGXSXY",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#DC9E97FF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Cherry Wood",
     "product_type": "Filament",
+    "series": "WoodFill PLA",
     "sku": "INS-WOOD-CHERRYWOOD",
-    "title": "WoodFill PLA - Cherry Wood"
+    "title": "WoodFill PLA - Cherry Wood",
+    "updated_at": 1788467216781
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#000000FF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PA6-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA6-GF25",
     "sku": "B0F59PQ2WZ",
-    "title": "PA6-GF25 - Black"
+    "title": "PA6-GF25 - Black",
+    "updated_at": 1788467833487
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F8E600FF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0G59XLQ6J",
-    "title": "PLA Pro - Yellow"
+    "title": "PLA Pro - Yellow",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#101820FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-CF15",
     "sku": "B0DPWPFRLL-3",
-    "title": "PLA-CF15 - Black"
+    "title": "PLA-CF15 - Black",
+    "updated_at": 1788468291353
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#EEE7D4FF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bone White",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0FQTRX8R7-2",
-    "title": "Matte PLA - Bone White"
+    "title": "Matte PLA - Bone White",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#E684B4FF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "INS-PLAPRO-PINK",
-    "title": "PLA Pro - Pink"
+    "title": "PLA Pro - Pink",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#11BBA9FF",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0FQTX98GF",
-    "title": "PETG Pro - Mint Green"
+    "title": "PETG Pro - Mint Green",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#45D0EFFF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Fantasy Cyber",
     "product_type": "Filament",
+    "series": "Multicolor Silk PLA",
     "sku": "B0DZHGBC3B",
-    "title": "Multicolor Silk PLA - Fantasy Cyber"
+    "title": "Multicolor Silk PLA - Fantasy Cyber",
+    "updated_at": 1788467081142
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FF6A14FF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0FQTPXM2J",
-    "title": "PLA Pro - Orange"
+    "title": "PLA Pro - Orange",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F8E600FF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "High-Speed PLA Pro",
     "sku": "B0DPWQN4QD-2",
-    "title": "High-Speed PLA Pro - Yellow"
+    "title": "High-Speed PLA Pro - Yellow",
+    "updated_at": 1788466679790
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FF7F41FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0FQTPXM2J-2",
-    "title": "Matte PLA - Orange"
+    "title": "Matte PLA - Orange",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFFFFFFF",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU 90A",
     "sku": "B0G5N8Q6G1-2",
-    "title": "TPU 90A - White"
+    "title": "TPU 90A - White",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#67823AFF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0FQTPRSCV",
-    "title": "PLA Pro - Olive Green"
+    "title": "PLA Pro - Olive Green",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#00B140FF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "B0FQTPZFTY",
-    "title": "TPU 95A - Green"
+    "title": "TPU 95A - Green",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#323034FF",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0DPWLYXFC",
-    "title": "Matte PLA - Black"
+    "title": "Matte PLA - Black",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#C2B29A",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Wood Like",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "INS-PLAPRO-WOODLIKE",
-    "title": "PLA Pro - Wood Like"
+    "title": "PLA Pro - Wood Like",
+    "updated_at": 1792799278806
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#00AA13FF",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0G59RHY51",
-    "title": "PLA Pro - Green"
+    "title": "PLA Pro - Green",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#00AA13FF",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0DZFP1QLC",
-    "title": "Matte PLA - Green"
+    "title": "Matte PLA - Green",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#355ECDFF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Iceland Aurora",
     "product_type": "Filament",
+    "series": "Multicolor Silk PLA",
     "sku": "B0DZHGYC6Z",
-    "title": "Multicolor Silk PLA - Iceland Aurora"
+    "title": "Multicolor Silk PLA - Iceland Aurora",
+    "updated_at": 1788467081142
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#00AA13FF",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "TPU 90A",
     "sku": "B0FQTPZFTY-2",
-    "title": "TPU 90A - Green"
+    "title": "TPU 90A - Green",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#808080FF",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "High-Speed PLA Pro",
     "sku": "B0DPWQ2T7Y-3",
-    "title": "High-Speed PLA Pro - Grey"
+    "title": "High-Speed PLA Pro - Grey",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#75787BFF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "B0FQTRFPB9",
-    "title": "TPU 95A - Grey"
+    "title": "TPU 95A - Grey",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FEA2C1FF",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Pink Gold",
     "product_type": "Filament",
+    "series": "Multicolor Silk PLA",
     "sku": "B0DZHF25ML",
-    "title": "Multicolor Silk PLA - Pink Gold"
+    "title": "Multicolor Silk PLA - Pink Gold",
+    "updated_at": 1788467081142
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#E4007EFF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0FQTSR5KL",
-    "title": "PETG Pro - Pink"
+    "title": "PETG Pro - Pink",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FF6A13FF",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0FQTY4HDW",
-    "title": "PETG Pro - Orange"
+    "title": "PETG Pro - Orange",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#1A1A1AFF",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black+Purple",
     "product_type": "Filament",
+    "series": "Multicolor Silk PLA",
     "sku": "INS-SILK-BLACKPURPLE",
-    "title": "Multicolor Silk PLA - Black+Purple"
+    "title": "Multicolor Silk PLA - Black+Purple",
+    "updated_at": 1788467081142
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F8E600FF",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0DPWQD4CK",
-    "title": "Matte PLA - Yellow"
+    "title": "Matte PLA - Yellow",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#E03030FF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red+Gold",
     "product_type": "Filament",
+    "series": "Multicolor Silk PLA",
     "sku": "INS-SILK-REDGOLD",
-    "title": "Multicolor Silk PLA - Red+Gold"
+    "title": "Multicolor Silk PLA - Red+Gold",
+    "updated_at": 1788467081142
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#10B833FF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Glow in The Dark PLA",
     "sku": "B0G59RHY51-3",
-    "title": "Glow in The Dark PLA - Green"
+    "title": "Glow in The Dark PLA - Green",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#19326CFF",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Nebula",
     "product_type": "Filament",
+    "series": "NebuLux PLA",
     "sku": "INS-NEBULUX-NEBULA",
-    "title": "NebuLux PLA - Nebula"
+    "title": "NebuLux PLA - Nebula",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#000000FF",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS FR V0",
     "sku": "INS-ABSFR-BLACK",
-    "title": "ABS FR V0 - Black"
+    "title": "ABS FR V0 - Black",
+    "updated_at": 1788467490756
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#101820FF",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-CF10",
     "sku": "B0DYD5BCXV",
-    "title": "PETG-CF10 - Black"
+    "title": "PETG-CF10 - Black",
+    "updated_at": 1788467996165
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#BE68ACFF",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "California Sunset",
     "product_type": "Filament",
+    "series": "Multicolor Silk PLA",
     "sku": "B0DZHK82YC",
-    "title": "Multicolor Silk PLA - California Sunset"
+    "title": "Multicolor Silk PLA - California Sunset",
+    "updated_at": 1788467081142
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFF13FFF",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "INS-ASA-YELLOW",
-    "title": "ASA - Yellow"
+    "title": "ASA - Yellow",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#A47B67FF",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Light Brown",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "INS-ASA-LIGHTBROWN",
-    "title": "ASA - Light Brown"
+    "title": "ASA - Light Brown",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#997261FF",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Walnut Wood",
     "product_type": "Filament",
+    "series": "WoodFill PLA",
     "sku": "INS-WOOD-WALNUTWOOD",
-    "title": "WoodFill PLA - Walnut Wood"
+    "title": "WoodFill PLA - Walnut Wood",
+    "updated_at": 1788467216781
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#262626FF",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "B0DZHKJRDQ",
-    "title": "TPU 95A - Black"
+    "title": "TPU 95A - Black",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#101820FF",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High-Speed PLA Pro",
     "sku": "B0DPWPFRLL-2",
-    "title": "High-Speed PLA Pro - Black"
+    "title": "High-Speed PLA Pro - Black",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#A7A8A9FF",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0DPWQ2T7Y",
-    "title": "PLA Pro - Grey"
+    "title": "PLA Pro - Grey",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#C64343FF",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0DPWPFF2J",
-    "title": "Matte PLA - Red"
+    "title": "Matte PLA - Red",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#0032A0FF",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "TPU 90A",
     "sku": "INS-TPU90-BLUE",
-    "title": "TPU 90A - Blue"
+    "title": "TPU 90A - Blue",
+    "updated_at": 1788466516339
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#623412FF",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "INS-PLAPRO-BROWN",
-    "title": "PLA Pro - Brown"
+    "title": "PLA Pro - Brown",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFFFFF",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0DPWMT9SB",
-    "title": "Matte PLA - White"
+    "title": "Matte PLA - White",
+    "updated_at": 1792796941598
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#6E7174FF",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "PA6-GF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PA6-GF25",
     "sku": "INS-PA6GF-GREY",
-    "title": "PA6-GF25 - Grey"
+    "title": "PA6-GF25 - Grey",
+    "updated_at": 1788467833487
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#CD001AFF",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0G59WLS1D",
-    "title": "PLA Pro - Red"
+    "title": "PLA Pro - Red",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F6F5F2FF",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "B0DZHJLM2C",
-    "title": "ASA - White"
+    "title": "ASA - White",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#101820FF",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0DPW7MBGR",
-    "title": "PLA Pro - Black"
+    "title": "PLA Pro - Black",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFFFFF",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "High-Speed PLA Pro",
     "sku": "B0DPWMSMNQ-2",
-    "title": "High-Speed PLA Pro - White"
+    "title": "High-Speed PLA Pro - White",
+    "updated_at": 1792796941796
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#5A6D3DFF",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0FQTPRSCV-2",
-    "title": "Matte PLA - Olive Green"
+    "title": "Matte PLA - Olive Green",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#0032A0FF",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0DZG2TKZ4",
-    "title": "PETG Pro - Blue"
+    "title": "PETG Pro - Blue",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#75787BFF",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "B0FQTTXFL8",
-    "title": "ASA - Grey"
+    "title": "ASA - Grey",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFFFFF",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Glow in The Dark PLA",
     "sku": "B0FQTPDBVS-3",
-    "title": "Glow in The Dark PLA - White"
+    "title": "Glow in The Dark PLA - White",
+    "updated_at": 1792796941789
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#101820FF",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "B0DZGKPLLP",
-    "title": "PETG Pro - Black"
+    "title": "PETG Pro - Black",
+    "updated_at": 1788466780041
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#101820FF",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High-Speed PLA",
     "sku": "B0DPWPFRLL",
-    "title": "High-Speed PLA - Black"
+    "title": "High-Speed PLA - Black",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F7F1E6FF",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Nylon PA6-66",
     "sku": "B0DZHK8JGW",
-    "title": "Nylon PA6-66 - Natural"
+    "title": "Nylon PA6-66 - Natural",
+    "updated_at": 1788468743053
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#A6D4E8FF",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "B0FQTYD2JS",
-    "title": "Matte PLA - Light Blue"
+    "title": "Matte PLA - Light Blue",
+    "updated_at": 1788466225482
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F1F0E8FF",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Bone White",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0FQTRX8R7",
-    "title": "PLA Pro - Bone White"
+    "title": "PLA Pro - Bone White",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FFFFFFFF",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "PC-ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PC-ABS",
     "sku": "INS-PCABS-WHITE",
-    "title": "PC-ABS - White"
+    "title": "PC-ABS - White",
+    "updated_at": 1788467677741
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#0032A0FF",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "High-Speed PLA",
     "sku": "B0DPWQZMS8",
-    "title": "High-Speed PLA - Blue"
+    "title": "High-Speed PLA - Blue",
+    "updated_at": 1788466679791
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#1DAA27FF",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "INS-ASA-GREEN",
-    "title": "ASA - Green"
+    "title": "ASA - Green",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#101820FF",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA6-CF",
     "sku": "B0F2DJM536",
-    "title": "PA6-CF - Black"
+    "title": "PA6-CF - Black",
+    "updated_at": 1788468192276
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "Inslogic",
     "color": "#C2B29A",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wood Like",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "INS-MATTE-WOODLIKE",
-    "title": "Matte PLA - Wood Like"
+    "title": "Matte PLA - Wood Like",
+    "updated_at": 1792800120072
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#F8F6F0FF",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "B0FMF25TMD",
-    "title": "PC - Natural"
+    "title": "PC - Natural",
+    "updated_at": 1788468664370
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#685BC7FF",
@@ -4546,9 +5098,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "B0FQTSMC2C",
-    "title": "PLA Pro - Purple"
+    "title": "PLA Pro - Purple",
+    "updated_at": 1788466374187
   },
   {
     "RFID_Data": {
@@ -4571,6 +5126,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#1729ABFF",
@@ -4587,9 +5144,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "INS-ASA-BLUE",
-    "title": "ASA - Blue"
+    "title": "ASA - Blue",
+    "updated_at": 1788466915891
   },
   {
     "RFID_Data": {
@@ -4612,6 +5172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Inslogic",
     "color": "#FF6A13FF",
@@ -4628,8 +5190,11 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "TPU 90A",
     "sku": "B0FQTW2X1V-2",
-    "title": "TPU 90A - Orange"
+    "title": "TPU 90A - Orange",
+    "updated_at": 1788466516339
   }
 ]

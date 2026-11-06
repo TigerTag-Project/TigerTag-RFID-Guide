@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "8434000501571",
     "brand": "InnovateFil",
     "color": "#000000FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU CF ESD",
     "sku": "NNTPU2NT2A050",
-    "title": "TPU CF ESD - Black"
+    "title": "TPU CF ESD - Black",
+    "updated_at": 1788486011088
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "8434429650669",
     "brand": "InnovateFil",
     "color": "#F0F0F0FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PETG CF",
     "sku": "NNPET5NT2A075",
-    "title": "PETG CF - Natural"
+    "title": "PETG CF - Natural",
+    "updated_at": 1788485696175
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "8434000011148",
     "brand": "InnovateFil",
     "color": "#F0F0F0FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PETG CF",
     "sku": "FIFS1033",
-    "title": "PETG CF - Natural"
+    "title": "PETG CF - Natural",
+    "updated_at": 1788485696175
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000757008",
     "brand": "InnovateFil",
     "color": "#FFFFFFFF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PETG FP",
     "sku": "NNPET4NT4A075",
-    "title": "PETG FP - Natural"
+    "title": "PETG FP - Natural",
+    "updated_at": 1788485696175
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434429368588",
     "brand": "InnovateFil",
     "color": "#F0EFEFFF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ASA CF",
     "sku": "NNASA1NT0A075",
-    "title": "ASA CF - Natural"
+    "title": "ASA CF - Natural",
+    "updated_at": 1788486300803
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "8434429112853",
     "brand": "InnovateFil",
     "color": "#F5F5F5FF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS-GF",
     "sku": "NNABS5NT0A075",
-    "title": "ABS-GF - Natural"
+    "title": "ABS-GF - Natural",
+    "updated_at": 1788486155585
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000106318",
     "brand": "InnovateFil",
     "color": "#000000FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "True Black",
     "product_type": "Filament",
+    "series": "TPU HARDNESS+",
     "sku": "INFS2532",
-    "title": "TPU HARDNESS+ - True Black"
+    "title": "TPU HARDNESS+ - True Black",
+    "updated_at": 1788485852878
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000807222",
     "brand": "InnovateFil",
     "color": "#F3F2F2FF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "TPU FR (Fire Proof UL 94 V0 )",
     "sku": "NNTPU3NT0A075",
-    "title": "TPU FR (Fire Proof UL 94 V0 ) - Natural"
+    "title": "TPU FR (Fire Proof UL 94 V0 ) - Natural",
+    "updated_at": 1788485852878
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000010264",
     "brand": "InnovateFil",
     "color": "#F0F0F0FF",
@@ -364,8 +406,11 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "TPU HARDNESS+",
     "sku": "FIFS0650",
-    "title": "TPU HARDNESS+ - Natural"
+    "title": "TPU HARDNESS+ - Natural",
+    "updated_at": 1788485852878
   }
 ]

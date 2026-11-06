@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803189",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Nylon",
     "sku": "G3D-NYLON-WHITE-175-1KG",
-    "title": "Nylon - White"
+    "title": "Nylon - White",
+    "updated_at": 1788464710376
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803462",
     "brand": "G3D Pro",
     "color": "#C0C0C0FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Argent",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-ARGENT-175-1KG",
-    "title": "ABS - Argent"
+    "title": "ABS - Argent",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803271",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Noir",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-NOIR-175-1KG",
-    "title": "PETG - Noir"
+    "title": "PETG - Noir",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800874",
     "brand": "G3D Pro",
     "color": "#808080FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Gris",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "G3D-ASA-GRIS-175-1KG",
-    "title": "ASA - Gris"
+    "title": "ASA - Gris",
+    "updated_at": 1788464835179
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Wood",
     "barcode": "3701624804353",
     "brand": "G3D Pro",
     "color": "#C19A6B",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-WOOD-175-1KG",
-    "title": "PLA Mat - Wood"
+    "title": "PLA Mat - Wood",
+    "updated_at": 1792797674703
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804919",
     "brand": "G3D Pro",
     "color": "#3A3A3AFF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Dark Gris",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-DARKGRIS-175-1KG",
-    "title": "TPU - Dark Gris"
+    "title": "TPU - Dark Gris",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804490",
     "brand": "G3D Pro",
     "color": "#808080FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gris",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-GRIS-175-1KG",
-    "title": "PLA - Gris"
+    "title": "PLA - Gris",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804650",
     "brand": "G3D Pro",
     "color": "#C0C0C0FF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Argent",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-ARGENT-175-1KG",
-    "title": "PLA - Argent"
+    "title": "PLA - Argent",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804834",
     "brand": "G3D Pro",
     "color": "#E30613FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-RED-175-1KG",
-    "title": "PLA Mat - Red"
+    "title": "PLA Mat - Red",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804285",
     "brand": "G3D Pro",
     "color": "#808080FF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-GREY-175-1KG",
-    "title": "PLA Mat - Grey"
+    "title": "PLA Mat - Grey",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804827",
     "brand": "G3D Pro",
     "color": "#4A4A4AFF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-DARKGREY-175-1KG",
-    "title": "PLA Mat - Dark Grey"
+    "title": "PLA Mat - Dark Grey",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804735",
     "brand": "G3D Pro",
     "color": "#FFFAFAFF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blanc Neige",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-BLANCNEIGE-175-1KG",
-    "title": "PLA - Blanc Neige"
+    "title": "PLA - Blanc Neige",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804605",
     "brand": "G3D Pro",
     "color": "#7F00FFFF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Violet",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-VIOLET-175-1KG",
-    "title": "PLA - Violet"
+    "title": "PLA - Violet",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804681",
     "brand": "G3D Pro",
     "color": "#CD7F32FF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-BRONZE-175-1KG",
-    "title": "PLA - Bronze"
+    "title": "PLA - Bronze",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803110",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "G3D-PC-BLACK-175-1KG",
-    "title": "PC - Black"
+    "title": "PC - Black",
+    "updated_at": 1788464580179
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803264",
     "brand": "G3D Pro",
     "color": "#E30613FF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Rouge",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-ROUGE-175-1KG",
-    "title": "PETG - Rouge"
+    "title": "PETG - Rouge",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800980",
     "brand": "G3D Pro",
     "color": "#0057B8FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Bleu",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-BLEU-175-1KG",
-    "title": "TPU - Bleu"
+    "title": "TPU - Bleu",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800959",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blanc",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-BLANC-175-1KG",
-    "title": "TPU - Blanc"
+    "title": "TPU - Blanc",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804568",
     "brand": "G3D Pro",
     "color": "#6F4423FF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Marron",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-MARRON-175-1KG",
-    "title": "PLA - Marron"
+    "title": "PLA - Marron",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624802700",
     "brand": "G3D Pro",
     "color": "#D9480FFF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-ORANGE-175-500G",
-    "title": "PLA Mat - Orange"
+    "title": "PLA Mat - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804582",
     "brand": "G3D Pro",
     "color": "#B87333FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cuivre Copper",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-CUIVRECOPPER-175-1KG",
-    "title": "PLA - Cuivre Copper"
+    "title": "PLA - Cuivre Copper",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804636",
     "brand": "G3D Pro",
     "color": "#87CEEBFF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bleu Ciel",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-BLEUCIEL-175-1KG",
-    "title": "PLA - Bleu Ciel"
+    "title": "PLA - Bleu Ciel",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624805220",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Haute Vitesse",
     "sku": "G3D-PLAHS-BLACK-175-1KG",
-    "title": "PLA Haute Vitesse - Black"
+    "title": "PLA Haute Vitesse - Black",
+    "updated_at": 1788464051971
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804674",
     "brand": "G3D Pro",
     "color": "#00B7C3FF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-CYAN-175-1KG",
-    "title": "PLA - Cyan"
+    "title": "PLA - Cyan",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803288",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blanc",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-BLANC-175-1KG",
-    "title": "PETG - Blanc"
+    "title": "PETG - Blanc",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804322",
     "brand": "G3D Pro",
     "color": "#FFD700FF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-YELLOW-175-1KG",
-    "title": "PLA Mat - Yellow"
+    "title": "PLA Mat - Yellow",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "3701624800911",
     "brand": "G3D Pro",
     "color": "#FFFFFF26",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-TRANSPARENT-175-1KG",
-    "title": "TPU - Transparent"
+    "title": "TPU - Transparent",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803547",
     "brand": "G3D Pro",
     "color": "#228B22FF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Vert",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-VERT-175-1KG",
-    "title": "ABS - Vert"
+    "title": "ABS - Vert",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "3701624812563",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "3000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "G3D-PETGCF-BLACK-175-3KG",
-    "title": "PETG-CF - Black"
+    "title": "PETG-CF - Black",
+    "updated_at": 1788464320879
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803530",
     "brand": "G3D Pro",
     "color": "#C41E3AFF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Rouge",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-DARKROUGE-175-1KG",
-    "title": "ABS - Dark Rouge"
+    "title": "ABS - Dark Rouge",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804643",
     "brand": "G3D Pro",
     "color": "#FFC0CBFF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rose",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-ROSE-175-1KG",
-    "title": "PLA - Rose"
+    "title": "PLA - Rose",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804315",
     "brand": "G3D Pro",
     "color": "#7B3F00FF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-CHOCOLATE-175-1KG",
-    "title": "PLA Mat - Chocolate"
+    "title": "PLA Mat - Chocolate",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "3701624803202",
     "brand": "G3D Pro",
     "color": "#FFFFFF26",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-TRANSPARENT-175-1KG",
-    "title": "PETG - Transparent"
+    "title": "PETG - Transparent",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804513",
     "brand": "G3D Pro",
     "color": "#C41E3AFF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rouge Scarlet",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-ROUGESCARLET-175-1KG",
-    "title": "PLA - Rouge Scarlet"
+    "title": "PLA - Rouge Scarlet",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624805268",
     "brand": "G3D Pro",
     "color": "#FFD500FF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Haute Vitesse",
     "sku": "G3D-PLAHS-YELLOW-175-1KG",
-    "title": "PLA Haute Vitesse - Yellow"
+    "title": "PLA Haute Vitesse - Yellow",
+    "updated_at": 1788464051971
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804537",
     "brand": "G3D Pro",
     "color": "#228B22FF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Vert",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-VERT-175-1KG",
-    "title": "PLA - Vert"
+    "title": "PLA - Vert",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624802670",
     "brand": "G3D Pro",
     "color": "#3F4FB5FF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-BLUE-175-500G",
-    "title": "PLA Mat - Blue"
+    "title": "PLA Mat - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3008800010516",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PA",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Nylon",
     "sku": "G3D-NYLON-WHITE-175-500G",
-    "title": "Nylon - White"
+    "title": "Nylon - White",
+    "updated_at": 1788464710376
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803240",
     "brand": "G3D Pro",
     "color": "#0057B8FF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bleu",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-BLEU-175-1KG",
-    "title": "PETG - Bleu"
+    "title": "PETG - Bleu",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804346",
     "brand": "G3D Pro",
     "color": "#4B5320FF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Military Green",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-MILITARYGREEN-175-1KG",
-    "title": "PLA Mat - Military Green"
+    "title": "PLA Mat - Military Green",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804773",
     "brand": "G3D Pro",
     "color": "#3A3A3AFF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Gris Anthracite",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-DARKGRISANTHRACITE-175-1KG",
-    "title": "PETG - Dark Gris Anthracite"
+    "title": "PETG - Dark Gris Anthracite",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803172",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Nylon",
     "sku": "G3D-NYLON-BLACK-175-1KG",
-    "title": "Nylon - Black"
+    "title": "Nylon - Black",
+    "updated_at": 1788464710376
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800935",
     "brand": "G3D Pro",
     "color": "#808080FF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Gris",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-GRIS-175-1KG",
-    "title": "TPU - Gris"
+    "title": "TPU - Gris",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804377",
     "brand": "G3D Pro",
     "color": "#000000FF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-BLACK-175-1KG",
-    "title": "PLA Mat - Black"
+    "title": "PLA Mat - Black",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803516",
     "brand": "G3D Pro",
     "color": "#6F4423FF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Marron",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-MARRON-175-1KG",
-    "title": "ABS - Marron"
+    "title": "ABS - Marron",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624802724",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-WHITE-175-500G",
-    "title": "PLA Mat - White"
+    "title": "PLA Mat - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804520",
     "brand": "G3D Pro",
     "color": "#FFEB3BFF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Jaune",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-JAUNE-175-1KG",
-    "title": "PLA - Jaune"
+    "title": "PLA - Jaune",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "3701624812563",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "G3D-PETGCF-BLACK-175-1KG",
-    "title": "PETG-CF - Black"
+    "title": "PETG-CF - Black",
+    "updated_at": 1788464320879
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804780",
     "brand": "G3D Pro",
     "color": "#FF69B4FF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Rose",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-ROSE-175-1KG",
-    "title": "PETG - Rose"
+    "title": "PETG - Rose",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624812846",
     "brand": "G3D Pro",
     "color": "#FF7A00FF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-ORANGE-175-1KG",
-    "title": "TPU - Orange"
+    "title": "TPU - Orange",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": "Wood",
     "barcode": "3701624802694",
     "brand": "G3D Pro",
     "color": "#95684A",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-WOOD-175-500G",
-    "title": "PLA Mat - Wood"
+    "title": "PLA Mat - Wood",
+    "updated_at": 1792798276503
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803608",
     "brand": "G3D Pro",
     "color": "#0047ABFF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Bleu",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-BLEU-175-1KG",
-    "title": "ABS - Bleu"
+    "title": "ABS - Bleu",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624802625",
     "brand": "G3D Pro",
     "color": "#7E7570FF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-GREY-175-500G",
-    "title": "PLA Mat - Grey"
+    "title": "PLA Mat - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "3701624805138",
     "brand": "G3D Pro",
     "color": "#808080FF",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "G3D-PLACF-GREY-175-1KG",
-    "title": "PLA-CF - Grey"
+    "title": "PLA-CF - Grey",
+    "updated_at": 1788464458180
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803578",
     "brand": "G3D Pro",
     "color": "#FFEB3BFF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Jaune",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-JAUNE-175-1KG",
-    "title": "ABS - Jaune"
+    "title": "ABS - Jaune",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624812839",
     "brand": "G3D Pro",
     "color": "#E8B796FF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Peau Skin",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-PEAUSKIN-175-1KG",
-    "title": "TPU - Peau Skin"
+    "title": "TPU - Peau Skin",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804339",
     "brand": "G3D Pro",
     "color": "#0047ABFF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-BLUE-175-1KG",
-    "title": "PLA Mat - Blue"
+    "title": "PLA Mat - Blue",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804384",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-WHITE-175-1KG",
-    "title": "PLA Mat - White"
+    "title": "PLA Mat - White",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803158",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HIPS",
     "sku": "G3D-HIPS-WHITE-175-1KG",
-    "title": "HIPS - White"
+    "title": "HIPS - White",
+    "updated_at": 1788464968983
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624812860",
     "brand": "G3D Pro",
     "color": "#808080FF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG Haute Vitesse",
     "sku": "G3D-PETGHS-GREY-175-1KG",
-    "title": "PETG Haute Vitesse - Grey"
+    "title": "PETG Haute Vitesse - Grey",
+    "updated_at": 1788464226668
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800966",
     "brand": "G3D Pro",
     "color": "#E30613FF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Rouge",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-ROUGE-175-1KG",
-    "title": "TPU - Rouge"
+    "title": "TPU - Rouge",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "3701624812563",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "5000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "G3D-PETGCF-BLACK-175-5KG",
-    "title": "PETG-CF - Black"
+    "title": "PETG-CF - Black",
+    "updated_at": 1788464320879
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803257",
     "brand": "G3D Pro",
     "color": "#2E8B57FF",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Vert",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-VERT-175-1KG",
-    "title": "PETG - Vert"
+    "title": "PETG - Vert",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803226",
     "brand": "G3D Pro",
     "color": "#FFD500FF",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Jaune",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-JAUNE-175-1KG",
-    "title": "PETG - Jaune"
+    "title": "PETG - Jaune",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804896",
     "brand": "G3D Pro",
     "color": "#3A3A3AFF",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Dark Gris",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "G3D-ASA-DARKGRIS-175-1KG",
-    "title": "ASA - Dark Gris"
+    "title": "ASA - Dark Gris",
+    "updated_at": 1788464835179
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803509",
     "brand": "G3D Pro",
     "color": "#B57EDCFF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Lavande",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-LAVANDE-175-1KG",
-    "title": "ABS - Lavande"
+    "title": "ABS - Lavande",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624802717",
     "brand": "G3D Pro",
     "color": "#000000FF",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-BLACK-175-500G",
-    "title": "PLA Mat - Black"
+    "title": "PLA Mat - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624805244",
     "brand": "G3D Pro",
     "color": "#808080FF",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Haute Vitesse",
     "sku": "G3D-PLAHS-GREY-175-1KG",
-    "title": "PLA Haute Vitesse - Grey"
+    "title": "PLA Haute Vitesse - Grey",
+    "updated_at": 1788464051971
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804599",
     "brand": "G3D Pro",
     "color": "#90EE90FF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Vert Clair",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-VERTCLAIR-175-1KG",
-    "title": "PLA - Vert Clair"
+    "title": "PLA - Vert Clair",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804551",
     "brand": "G3D Pro",
     "color": "#D4AF37FF",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Or",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-OR-175-1KG",
-    "title": "PLA - Or"
+    "title": "PLA - Or",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624805237",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Haute Vitesse",
     "sku": "G3D-PLAHS-WHITE-175-1KG",
-    "title": "PLA Haute Vitesse - White"
+    "title": "PLA Haute Vitesse - White",
+    "updated_at": 1788464051971
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804575",
     "brand": "G3D Pro",
     "color": "#B57EDCFF",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lavande",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-LAVANDE-175-1KG",
-    "title": "PLA - Lavande"
+    "title": "PLA - Lavande",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624802663",
     "brand": "G3D Pro",
     "color": "#F2AB1FFF",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-YELLOW-175-500G",
-    "title": "PLA Mat - Yellow"
+    "title": "PLA Mat - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "3701624803127",
     "brand": "G3D Pro",
     "color": "#FFFFFF26",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "G3D-PC-TRANSPARENT-175-1KG",
-    "title": "PC - Transparent"
+    "title": "PC - Transparent",
+    "updated_at": 1788464580179
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803554",
     "brand": "G3D Pro",
     "color": "#E30613FF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Rouge",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-ROUGE-175-1KG",
-    "title": "ABS - Rouge"
+    "title": "ABS - Rouge",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624805275",
     "brand": "G3D Pro",
     "color": "#EC008CFF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA Haute Vitesse",
     "sku": "G3D-PLAHS-MAGENTA-175-1KG",
-    "title": "PLA Haute Vitesse - Magenta"
+    "title": "PLA Haute Vitesse - Magenta",
+    "updated_at": 1788464051971
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800881",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Noir",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "G3D-ASA-NOIR-175-1KG",
-    "title": "ASA - Noir"
+    "title": "ASA - Noir",
+    "updated_at": 1788464835179
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624803271",
     "brand": "G3D Pro",
     "color": "#000000FF",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Mat",
     "sku": "G3D-PETG-BLACK-175-1KG",
-    "title": "PETG Mat - Black"
+    "title": "PETG Mat - Black",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800898",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blanc",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "G3D-ASA-BLANC-175-1KG",
-    "title": "ASA - Blanc"
+    "title": "ASA - Blanc",
+    "updated_at": 1788464835179
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803479",
     "brand": "G3D Pro",
     "color": "#FFDAB9FF",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Peau-Skin",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-PEAUSKIN-175-1KG",
-    "title": "ABS - Peau-Skin"
+    "title": "ABS - Peau-Skin",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "3701624812853",
     "brand": "G3D Pro",
     "color": "#C97F3E66",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Translucide Caramel",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-TRANSLUCIDECARAMEL-175-1KG",
-    "title": "TPU - Translucide Caramel"
+    "title": "TPU - Translucide Caramel",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803233",
     "brand": "G3D Pro",
     "color": "#C0C0C0FF",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Argent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-ARGENT-175-1KG",
-    "title": "PETG - Argent"
+    "title": "PETG - Argent",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804759",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blanc",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-BLANC-175-1KG",
-    "title": "PLA - Blanc"
+    "title": "PLA - Blanc",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804902",
     "brand": "G3D Pro",
     "color": "#FFFAFAFF",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blanc Neige",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-BLANCNEIGE-175-1KG",
-    "title": "TPU - Blanc Neige"
+    "title": "TPU - Blanc Neige",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803639",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blanc",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-BLANC-175-1KG",
-    "title": "ABS - Blanc"
+    "title": "ABS - Blanc",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624805107",
     "brand": "G3D Pro",
     "color": "#FFFAFAFF",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blanc Neige",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-BLANCNEIGE-175-1KG",
-    "title": "ABS - Blanc Neige"
+    "title": "ABS - Blanc Neige",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "3701624812822",
     "brand": "G3D Pro",
     "color": "#1B2A4AFF",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "G3D-PLACF-NAVYBLUE-175-1KG",
-    "title": "PLA-CF - Navy Blue"
+    "title": "PLA-CF - Navy Blue",
+    "updated_at": 1788464458180
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803646",
     "brand": "G3D Pro",
     "color": "#000000FF",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Noir",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-NOIR-175-1KG",
-    "title": "ABS - Noir"
+    "title": "ABS - Noir",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803103",
     "brand": "G3D Pro",
     "color": "#0057B8FF",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "G3D-PC-BLUE-175-1KG",
-    "title": "PC - Blue"
+    "title": "PC - Blue",
+    "updated_at": 1788464580179
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804766",
     "brand": "G3D Pro",
     "color": "#FF7A00FF",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-ORANGE-175-1KG",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803486",
     "brand": "G3D Pro",
     "color": "#808080FF",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Gris",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-GRIS-175-1KG",
-    "title": "ABS - Gris"
+    "title": "ABS - Gris",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800942",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Noir",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-NOIR-175-1KG",
-    "title": "TPU - Noir"
+    "title": "TPU - Noir",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "3701624803622",
     "brand": "G3D Pro",
     "color": "#FFFFFF26",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-TRANSPARENT-175-1KG",
-    "title": "ABS - Transparent"
+    "title": "ABS - Transparent",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804728",
     "brand": "G3D Pro",
     "color": "#FF00FFFF",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fuchsia",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-FUCHSIA-175-1KG",
-    "title": "PLA - Fuchsia"
+    "title": "PLA - Fuchsia",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803219",
     "brand": "G3D Pro",
     "color": "#808080FF",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Gris",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-GRIS-175-1KG",
-    "title": "PETG - Gris"
+    "title": "PETG - Gris",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804698",
     "brand": "G3D Pro",
     "color": "#0047ABFF",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bleu",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-BLEU-175-1KG",
-    "title": "PLA - Bleu"
+    "title": "PLA - Bleu",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624812754",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Haute Vitesse",
     "sku": "G3D-PETGHS-BLACK-175-1KG",
-    "title": "PETG Haute Vitesse - Black"
+    "title": "PETG Haute Vitesse - Black",
+    "updated_at": 1788464226668
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804797",
     "brand": "G3D Pro",
     "color": "#F5F0E6FF",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blanc Casse",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-BLANCCASSE-175-1KG",
-    "title": "PETG - Blanc Casse"
+    "title": "PETG - Blanc Casse",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803523",
     "brand": "G3D Pro",
     "color": "#7F00FFFF",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Violet",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-VIOLET-175-1KG",
-    "title": "ABS - Violet"
+    "title": "ABS - Violet",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804360",
     "brand": "G3D Pro",
     "color": "#FF7F00FF",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-ORANGE-175-1KG",
-    "title": "PLA Mat - Orange"
+    "title": "PLA Mat - Orange",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803561",
     "brand": "G3D Pro",
     "color": "#FFC0CBFF",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Rose",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-ROSE-175-1KG",
-    "title": "ABS - Rose"
+    "title": "ABS - Rose",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624812624",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG Mat",
     "sku": "G3D-PETG-WHITE-175-1KG",
-    "title": "PETG Mat - White"
+    "title": "PETG Mat - White",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "3701624804544",
     "brand": "G3D Pro",
     "color": "#F5EFD999",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Naturel",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-NATUREL-175-1KG",
-    "title": "PLA - Naturel"
+    "title": "PLA - Naturel",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624801635",
     "brand": "G3D Pro",
     "color": "#F0E6D2FF",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "PA",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Nylon",
     "sku": "G3D-NYLON-NATURAL-175-500G",
-    "title": "Nylon - Natural"
+    "title": "Nylon - Natural",
+    "updated_at": 1788464710376
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624802687",
     "brand": "G3D Pro",
     "color": "#6F6C3BFF",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "500 g",
+    "name": "Military Green",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-MILITARYGREEN-175-500G",
-    "title": "PLA Mat - Military Green"
+    "title": "PLA Mat - Military Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "3701624812815",
     "brand": "G3D Pro",
     "color": "#4B5320FF",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Military Green",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "G3D-PLACF-MILITARYGREEN-175-1KG",
-    "title": "PLA-CF - Military Green"
+    "title": "PLA-CF - Military Green",
+    "updated_at": 1788464458180
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803615",
     "brand": "G3D Pro",
     "color": "#383E42FF",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Gris Anthracite",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-DARKGRISANTHRACITE-175-1KG",
-    "title": "ABS - Dark Gris Anthracite"
+    "title": "ABS - Dark Gris Anthracite",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "3701624804308",
     "brand": "G3D Pro",
     "color": "#6A0DADFF",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Mat",
     "sku": "G3D-PLA-PURPLE-175-1KG",
-    "title": "PLA Mat - Purple"
+    "title": "PLA Mat - Purple",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": "3701624805114",
     "brand": "G3D Pro",
     "color": "#F5F5F0FF",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Perle Blanc",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-PERLEBLANC-175-1KG",
-    "title": "ABS - Perle Blanc"
+    "title": "ABS - Perle Blanc",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804711",
     "brand": "G3D Pro",
     "color": "#383E42FF",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Gris Anthracite",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-DARKGRISANTHRACITE-175-1KG",
-    "title": "PLA - Dark Gris Anthracite"
+    "title": "PLA - Dark Gris Anthracite",
+    "updated_at": 1788463307379
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803134",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -4546,9 +5098,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "G3D-PC-WHITE-175-1KG",
-    "title": "PC - White"
+    "title": "PC - White",
+    "updated_at": 1788464580179
   },
   {
     "RFID_Data": {
@@ -4571,6 +5126,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": "3701624804704",
     "brand": "G3D Pro",
     "color": "#F5F5F0FF",
@@ -4587,9 +5144,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Perle Blanc",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-PERLEBLANC-175-1KG",
-    "title": "PLA - Perle Blanc"
+    "title": "PLA - Perle Blanc",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -4612,6 +5172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800928",
     "brand": "G3D Pro",
     "color": "#2E8B57FF",
@@ -4628,9 +5190,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Vert",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-VERT-175-1KG",
-    "title": "TPU - Vert"
+    "title": "TPU - Vert",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -4653,6 +5218,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "3701624800867",
     "brand": "G3D Pro",
     "color": "#1A1A1AFF",
@@ -4669,9 +5236,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "G3D-PLACF-BLACK-175-1KG",
-    "title": "PLA-CF - Black"
+    "title": "PLA-CF - Black",
+    "updated_at": 1788464458180
   },
   {
     "RFID_Data": {
@@ -4694,6 +5264,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804506",
     "brand": "G3D Pro",
     "color": "#FFDAB9FF",
@@ -4710,9 +5282,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Peau-Skin",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-PEAUSKIN-175-1KG",
-    "title": "PLA - Peau-Skin"
+    "title": "PLA - Peau-Skin",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -4735,6 +5310,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "3701624804612",
     "brand": "G3D Pro",
     "color": "#FFFFFF26",
@@ -4751,9 +5328,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-TRANSPARENT-175-1KG",
-    "title": "PLA - Transparent"
+    "title": "PLA - Transparent",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -4776,6 +5356,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803196",
     "brand": "G3D Pro",
     "color": "#7B2D8EFF",
@@ -4792,9 +5374,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Violet",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "G3D-PETG-VIOLET-175-1KG",
-    "title": "PETG - Violet"
+    "title": "PETG - Violet",
+    "updated_at": 1788463764504
   },
   {
     "RFID_Data": {
@@ -4817,6 +5402,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803165",
     "brand": "G3D Pro",
     "color": "#F0E6D2FF",
@@ -4833,9 +5420,12 @@
     "info3": false,
     "material": "PA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Nylon",
     "sku": "G3D-NYLON-NATURAL-175-1KG",
-    "title": "Nylon - Natural"
+    "title": "Nylon - Natural",
+    "updated_at": 1788464710376
   },
   {
     "RFID_Data": {
@@ -4858,6 +5448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624800973",
     "brand": "G3D Pro",
     "color": "#FFD500FF",
@@ -4874,9 +5466,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Jaune",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "G3D-TPU-JAUNE-175-1KG",
-    "title": "TPU - Jaune"
+    "title": "TPU - Jaune",
+    "updated_at": 1788463905281
   },
   {
     "RFID_Data": {
@@ -4899,6 +5494,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804629",
     "brand": "G3D Pro",
     "color": "#E30613FF",
@@ -4915,9 +5512,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rouge",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-ROUGE-175-1KG",
-    "title": "PLA - Rouge"
+    "title": "PLA - Rouge",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -4940,6 +5540,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624805251",
     "brand": "G3D Pro",
     "color": "#00AEEFFF",
@@ -4956,9 +5558,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA Haute Vitesse",
     "sku": "G3D-PLAHS-CYAN-175-1KG",
-    "title": "PLA Haute Vitesse - Cyan"
+    "title": "PLA Haute Vitesse - Cyan",
+    "updated_at": 1788464051971
   },
   {
     "RFID_Data": {
@@ -4981,6 +5586,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624812761",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -4997,9 +5604,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG Haute Vitesse",
     "sku": "G3D-PETGHS-WHITE-175-1KG",
-    "title": "PETG Haute Vitesse - White"
+    "title": "PETG Haute Vitesse - White",
+    "updated_at": 1788464226668
   },
   {
     "RFID_Data": {
@@ -5022,6 +5632,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803493",
     "brand": "G3D Pro",
     "color": "#B87333FF",
@@ -5038,9 +5650,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Bronze Cuivre",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-BRONZECUIVRE-175-1KG",
-    "title": "ABS - Bronze Cuivre"
+    "title": "ABS - Bronze Cuivre",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -5063,6 +5678,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624803585",
     "brand": "G3D Pro",
     "color": "#FF7F11FF",
@@ -5079,9 +5696,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "G3D-ABS-ORANGE-175-1KG",
-    "title": "ABS - Orange"
+    "title": "ABS - Orange",
+    "updated_at": 1788463618804
   },
   {
     "RFID_Data": {
@@ -5104,6 +5724,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624801628",
     "brand": "G3D Pro",
     "color": "#FFFFFFFF",
@@ -5120,9 +5742,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "500 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HIPS",
     "sku": "G3D-HIPS-WHITE-175-500G",
-    "title": "HIPS - White"
+    "title": "HIPS - White",
+    "updated_at": 1788464968983
   },
   {
     "RFID_Data": {
@@ -5145,6 +5770,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804841",
     "brand": "G3D Pro",
     "color": "#F0E6D2FF",
@@ -5161,9 +5788,12 @@
     "info3": false,
     "material": "PVA",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PVA",
     "sku": "G3D-PVA-NATURAL-175-500G",
-    "title": "PVA - Natural"
+    "title": "PVA - Natural",
+    "updated_at": 1788465100991
   },
   {
     "RFID_Data": {
@@ -5186,6 +5816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804667",
     "brand": "G3D Pro",
     "color": "#FF7F11FF",
@@ -5202,9 +5834,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-ORANGE-175-1KG",
-    "title": "PLA - Orange"
+    "title": "PLA - Orange",
+    "updated_at": 1788463483191
   },
   {
     "RFID_Data": {
@@ -5227,6 +5862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "3701624804742",
     "brand": "G3D Pro",
     "color": "#000000FF",
@@ -5243,8 +5880,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Noir",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "G3D-PLA-NOIR-175-1KG",
-    "title": "PLA - Noir"
+    "title": "PLA - Noir",
+    "updated_at": 1788463483191
   }
 ]

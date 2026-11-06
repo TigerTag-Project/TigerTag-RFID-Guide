@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E6D6B0",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Noctua Beige",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-NOCBEI-1000",
-    "title": "PLA - Noctua Beige"
+    "title": "PLA - Noctua Beige",
+    "updated_at": 1792247340788
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675063",
     "brand": "Prusament",
     "color": "#FF00F7",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ms. Pink",
     "product_type": "Filament",
+    "series": "PLA Blend",
     "sku": "PRM-PLA-PNK-1000",
-    "title": "PLA Blend - Ms. Pink"
+    "title": "PLA Blend - Ms. Pink",
+    "updated_at": 1792248386659
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#8A8A8A",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Marble Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-MARGRE-1000",
-    "title": "PLA - Marble Grey"
+    "title": "PLA - Marble Grey",
+    "updated_at": 1792247036854
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#C8102E",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "800 g",
+    "name": "Lipstick Red",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "PRM-ASA-LIPRED-800",
-    "title": "ASA - Lipstick Red"
+    "title": "ASA - Lipstick Red",
+    "updated_at": 1792247114671
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F5E88A",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PVB",
     "measure": "500 g",
+    "name": "Light Yellow",
     "product_type": "Filament",
+    "series": "PVB",
     "sku": "PRM-PVB-LIGYEL-500",
-    "title": "PVB - Light Yellow"
+    "title": "PVB - Light Yellow",
+    "updated_at": 1792248284183
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 900
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F58220",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PC",
     "measure": "900 g",
+    "name": "Prusa Orange",
     "product_type": "Filament",
+    "series": "PC Blend",
     "sku": "PRM-PCB-PRUORA-900",
-    "title": "PC Blend - Prusa Orange"
+    "title": "PC Blend - Prusa Orange",
+    "updated_at": 1792246423273
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E8EEF2",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-CLE-1000",
-    "title": "PETG - Clear"
+    "title": "PETG - Clear",
+    "updated_at": 1792246120755
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#7B8087",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Urban Grey",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "PRM-U95-URBGRE-500",
-    "title": "TPU 95A - Urban Grey"
+    "title": "TPU 95A - Urban Grey",
+    "updated_at": 1792247662854
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1F3FBF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Ultramarine Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-ULTBLU-1000",
-    "title": "PETG - Ultramarine Blue"
+    "title": "PETG - Ultramarine Blue",
+    "updated_at": 1792246539547
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 900
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PC",
     "measure": "900 g",
+    "name": "Jet Black",
     "product_type": "Filament",
+    "series": "PC Blend",
     "sku": "PRM-PCB-JETBLA-900",
-    "title": "PC Blend - Jet Black"
+    "title": "PC Blend - Jet Black",
+    "updated_at": 1792246098967
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Galaxy Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-GALBLA-1000",
-    "title": "PETG - Galaxy Black"
+    "title": "PETG - Galaxy Black",
+    "updated_at": 1792246029641
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#2E9E47",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galaxy Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-GALGRE-1000",
-    "title": "PLA - Galaxy Green"
+    "title": "PLA - Galaxy Green",
+    "updated_at": 1792246945072
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#4CC24C",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PVB",
     "measure": "500 g",
+    "name": "Bright Green",
     "product_type": "Filament",
+    "series": "PVB",
     "sku": "PRM-PVB-BRIGRE-500",
-    "title": "PVB - Bright Green"
+    "title": "PVB - Bright Green",
+    "updated_at": 1792247572369
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#D6006E",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA CMYK",
     "sku": "PRM-PLC-MAG-1000",
-    "title": "PLA CMYK - Magenta"
+    "title": "PLA CMYK - Magenta",
+    "updated_at": 1792247956091
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#B5B8BC",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "My Silverness",
     "product_type": "Filament",
+    "series": "PLA Blend",
     "sku": "PRM-PLB-MYSIL-1000",
-    "title": "PLA Blend - My Silverness"
+    "title": "PLA Blend - My Silverness",
+    "updated_at": 1792247266544
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galaxy Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-GALBLA-1000",
-    "title": "PLA - Galaxy Black"
+    "title": "PLA - Galaxy Black",
+    "updated_at": 1792245854573
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 900
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#7B8087",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PC",
     "measure": "900 g",
+    "name": "Urban Grey",
     "product_type": "Filament",
+    "series": "PC Blend",
     "sku": "PRM-PCB-URBGRE-900",
-    "title": "PC Blend - Urban Grey"
+    "title": "PC Blend - Urban Grey",
+    "updated_at": 1792246452879
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F58220",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Prusa Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-PRUORA-1000",
-    "title": "PETG - Prusa Orange"
+    "title": "PETG - Prusa Orange",
+    "updated_at": 1792246021140
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#6B4A3A",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mystic Brown",
     "product_type": "Filament",
+    "series": "Premium PLA",
     "sku": "PRM-PPL-MYSBRO-1000",
-    "title": "Premium PLA - Mystic Brown"
+    "title": "Premium PLA - Mystic Brown",
+    "updated_at": 1792245948054
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#7B3FA0",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galaxy Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-GALPUR-1000",
-    "title": "PLA - Galaxy Purple"
+    "title": "PLA - Galaxy Purple",
+    "updated_at": 1792245855695
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#3CD13C",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Electric Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-ELEGRE-1000",
-    "title": "PETG - Electric Green"
+    "title": "PETG - Electric Green",
+    "updated_at": 1792246537339
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "800 g",
+    "name": "Jet Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "PRM-ASA-JETBLA-800",
-    "title": "ASA - Jet Black"
+    "title": "ASA - Jet Black",
+    "updated_at": 1792245938488
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F5F5F5",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "800 g",
+    "name": "Signal White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "PRM-ASA-SIGWHI-800",
-    "title": "ASA - Signal White"
+    "title": "ASA - Signal White",
+    "updated_at": 1792246374259
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675032",
     "brand": "Prusament",
     "color": "#15D3F9",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Azure Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-AZR-1000",
-    "title": "PLA - Azure Blue"
+    "title": "PLA - Azure Blue",
+    "updated_at": 1792248367589
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 900
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#2E7D32",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PC",
     "measure": "900 g",
+    "name": "Prusa Pro Green",
     "product_type": "Filament",
+    "series": "PC Blend",
     "sku": "PRM-PCB-PRUPROGRE-900",
-    "title": "PC Blend - Prusa Pro Green"
+    "title": "PC Blend - Prusa Pro Green",
+    "updated_at": 1792246446538
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E8E2D0",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PA11",
     "measure": "800 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PA11",
     "sku": "PRM-PA11-NAT-800",
-    "title": "PA11 - Natural"
+    "title": "PA11 - Natural",
+    "updated_at": 1792247187069
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#2E7D32",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "800 g",
+    "name": "Prusa Pro Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "PRM-ASA-PRUPROGRE-800",
-    "title": "ASA - Prusa Pro Green"
+    "title": "ASA - Prusa Pro Green",
+    "updated_at": 1792247165455
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#2B2B2B",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PVB",
     "measure": "500 g",
+    "name": "Smoky Black",
     "product_type": "Filament",
+    "series": "PVB",
     "sku": "PRM-PVB-SMOBLA-500",
-    "title": "PVB - Smoky Black"
+    "title": "PVB - Smoky Black",
+    "updated_at": 1792247655972
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#4F4F4F",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Tungsten Grey",
     "product_type": "Filament",
+    "series": "PETG Tungsten 75%",
     "sku": "PRM-PTTU-TUNGRE-1000",
-    "title": "PETG Tungsten 75% - Tungsten Grey"
+    "title": "PETG Tungsten 75% - Tungsten Grey",
+    "updated_at": 1792246209344
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675537",
     "brand": "Prusament",
     "color": "#18CC00",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Jungle Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-JGG-1000",
-    "title": "PETG - Jungle Green"
+    "title": "PETG - Jungle Green",
+    "updated_at": 1792248395442
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#B5D89A",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pistachio Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-PISGRE-1000",
-    "title": "PLA - Pistachio Green"
+    "title": "PLA - Pistachio Green",
+    "updated_at": 1792247413599
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 900
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E8E2D0",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PC",
     "measure": "900 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PC Blend",
     "sku": "PRM-PCB-NAT-900",
-    "title": "PC Blend - Natural"
+    "title": "PC Blend - Natural",
+    "updated_at": 1792246379684
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1C6BA0",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Ocean Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-OCEBLU-1000",
-    "title": "PETG - Ocean Blue"
+    "title": "PETG - Ocean Blue",
+    "updated_at": 1792248210745
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#B5D89A",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pistachio Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-PISGRE-1000",
-    "title": "PETG - Pistachio Green"
+    "title": "PETG - Pistachio Green",
+    "updated_at": 1792247468184
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#C0C0C0",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver Glitter",
     "product_type": "Filament",
+    "series": "PLA ColorMix",
     "sku": "PRM-PLM-SILGLI-1000",
-    "title": "PLA ColorMix - Silver Glitter"
+    "title": "PLA ColorMix - Silver Glitter",
+    "updated_at": 1792247336257
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1E8F4E",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Emerald Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-EMEGRE-1000",
-    "title": "PETG - Emerald Green"
+    "title": "PETG - Emerald Green",
+    "updated_at": 1792246536836
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675421",
     "brand": "Prusament",
     "color": "#FFEE38",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Mango Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-MNG-1000",
-    "title": "PETG - Mango Yellow"
+    "title": "PETG - Mango Yellow",
+    "updated_at": 1792248401465
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675629",
     "brand": "Prusament",
     "color": "#3AC200",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Simply Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-SGR-1000",
-    "title": "PLA - Simply Green"
+    "title": "PLA - Simply Green",
+    "updated_at": 1792248383148
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#2E7D32",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Prusa Pro Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-PRUPROGRE-1000",
-    "title": "PLA - Prusa Pro Green"
+    "title": "PLA - Prusa Pro Green",
+    "updated_at": 1792247415866
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F7C6D4",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sakura Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-SAKPIN-1000",
-    "title": "PLA - Sakura Pink"
+    "title": "PLA - Sakura Pink",
+    "updated_at": 1792248180374
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#000000",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Jet Black",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "",
-    "title": "TPU 95A - Jet Black"
+    "title": "TPU 95A - Jet Black",
+    "updated_at": 1792248413469
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#8A8A8A",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG Magnetite 40%",
     "sku": "PRM-PTMG-GRE-1000",
-    "title": "PETG Magnetite 40% - Grey"
+    "title": "PETG Magnetite 40% - Grey",
+    "updated_at": 1792247092387
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F7D117",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow Gold",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-YELGOL-1000",
-    "title": "PETG - Yellow Gold"
+    "title": "PETG - Yellow Gold",
+    "updated_at": 1792247496679
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#0041A8",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Ultramarine Blue",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "",
-    "title": "TPU 95A - Ultramarine Blue"
+    "title": "TPU 95A - Ultramarine Blue",
+    "updated_at": 1792248428392
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F2EFE8",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearl White",
     "product_type": "Filament",
+    "series": "PLA Blend",
     "sku": "PRM-PLB-PEAWHI-1000",
-    "title": "PLA Blend - Pearl White"
+    "title": "PLA Blend - Pearl White",
+    "updated_at": 1792246617989
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1D4E9E",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "800 g",
+    "name": "Sapphire Blue",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "PRM-ASA-SAPBLU-800",
-    "title": "ASA - Sapphire Blue"
+    "title": "ASA - Sapphire Blue",
+    "updated_at": 1792247186054
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#39FF14",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-NEOGRE-1000",
-    "title": "PETG - Neon Green"
+    "title": "PETG - Neon Green",
+    "updated_at": 1792247886657
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#00B4D8",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA CMYK",
     "sku": "PRM-PLC-CYA-1000",
-    "title": "PLA CMYK - Cyan"
+    "title": "PLA CMYK - Cyan",
+    "updated_at": 1792248042251
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#3A3D40",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Anthracite Grey",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-ANTGRE-1000",
-    "title": "PETG - Anthracite Grey"
+    "title": "PETG - Anthracite Grey",
+    "updated_at": 1792246113974
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#5C6B3C",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-ARMGRE-1000",
-    "title": "PLA - Army Green"
+    "title": "PLA - Army Green",
+    "updated_at": 1792247493435
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675100",
     "brand": "Prusament",
     "color": "#000000",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Jet Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-JET-1000",
-    "title": "PETG - Jet Black"
+    "title": "PETG - Jet Black",
+    "updated_at": 1792248392451
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Satin",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "Prusament",
     "color": "#EDEDED",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Birch White",
     "product_type": "Filament",
+    "series": "Woodfill",
     "sku": "",
-    "title": "Woodfill - Birch White"
+    "title": "Woodfill - Birch White",
+    "updated_at": 1792798928283
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#000000",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Galaxy Black",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "",
-    "title": "TPU 95A - Galaxy Black"
+    "title": "TPU 95A - Galaxy Black",
+    "updated_at": 1792248411280
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E8E2D0",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PVB",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PVB",
     "sku": "PRM-PVB-NAT-500",
-    "title": "PVB - Natural"
+    "title": "PVB - Natural",
+    "updated_at": 1792247394886
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PC-CF",
     "measure": "800 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC Blend Carbon Fiber",
     "sku": "PRM-PCBCF-BLA-800",
-    "title": "PC Blend Carbon Fiber - Black"
+    "title": "PC Blend Carbon Fiber - Black",
+    "updated_at": 1792247266375
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Satin",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#865B5BFF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Brown",
     "product_type": "Filament",
+    "series": "Woodfill",
     "sku": "",
-    "title": "Woodfill - Pastel Brown"
+    "title": "Woodfill - Pastel Brown",
+    "updated_at": 1788477593676
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#C0C0C0",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galaxy Silver",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-GALSIL-1000",
-    "title": "PLA - Galaxy Silver"
+    "title": "PLA - Galaxy Silver",
+    "updated_at": 1792246203387
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#2E9E47",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "800 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG Ultraglow",
     "sku": "PRM-PTUG-GRE-800",
-    "title": "PETG Ultraglow - Green"
+    "title": "PETG Ultraglow - Green",
+    "updated_at": 1792247653787
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#7B4B2A",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Noctua Brown",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-NOCBRO-1000",
-    "title": "PLA - Noctua Brown"
+    "title": "PLA - Noctua Brown",
+    "updated_at": 1792247360390
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": "8594173675056",
     "brand": "Prusament",
     "color": "#D9D9D9",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearl Mouse",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-PMS-1000",
-    "title": "PLA - Pearl Mouse"
+    "title": "PLA - Pearl Mouse",
+    "updated_at": 1792844509705
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#3CD13C",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Electric Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-ELEGRE-1000",
-    "title": "PLA - Electric Green"
+    "title": "PLA - Electric Green",
+    "updated_at": 1792246956451
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675360",
     "brand": "Prusament",
     "color": "#FFFFFF",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Signal White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-SGW-1000",
-    "title": "PETG - Signal White"
+    "title": "PETG - Signal White",
+    "updated_at": 1792248402551
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E8E2D0",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "800 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "PRM-ASA-NAT-800",
-    "title": "ASA - Natural"
+    "title": "ASA - Natural",
+    "updated_at": 1792247908758
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 650
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PP-CF",
     "measure": "650 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PP Carbon Fiber",
     "sku": "PRM-PPCF-BLA-650",
-    "title": "PP Carbon Fiber - Black"
+    "title": "PP Carbon Fiber - Black",
+    "updated_at": 1792246304251
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#7B4B2A",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Noctua Brown",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "PRM-PTM-NOCBRO-1000",
-    "title": "PETG Matte - Noctua Brown"
+    "title": "PETG Matte - Noctua Brown",
+    "updated_at": 1792247676192
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E6D6B0",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Noctua Beige",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "PRM-PTM-NOCBEI-1000",
-    "title": "PETG Matte - Noctua Beige"
+    "title": "PETG Matte - Noctua Beige",
+    "updated_at": 1792247655286
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#6FA8DC",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chalky Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-CHABLU-1000",
-    "title": "PLA - Chalky Blue"
+    "title": "PLA - Chalky Blue",
+    "updated_at": 1792247313793
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675117",
     "brand": "Prusament",
     "color": "#DEDEDE",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Urban Grey",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-URB-1000",
-    "title": "PETG - Urban Grey"
+    "title": "PETG - Urban Grey",
+    "updated_at": 1792248404643
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F58220",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "800 g",
+    "name": "Prusa Orange",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "PRM-ASA-PRUORA-800",
-    "title": "ASA - Prusa Orange"
+    "title": "ASA - Prusa Orange",
+    "updated_at": 1792246321541
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#D6006E",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA ColorMix",
     "sku": "PRM-PLM-MAG-1000",
-    "title": "PLA ColorMix - Magenta"
+    "title": "PLA ColorMix - Magenta",
+    "updated_at": 1792247964176
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#7A4FA3",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Shimmering Violet",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-SHIVIO-1000",
-    "title": "PETG - Shimmering Violet"
+    "title": "PETG - Shimmering Violet",
+    "updated_at": 1792246176473
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA ColorMix",
     "sku": "PRM-PLM-BLA-1000",
-    "title": "PLA ColorMix - Black"
+    "title": "PLA ColorMix - Black",
+    "updated_at": 1792247887654
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675193",
     "brand": "Prusament",
     "color": "#000000",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Jet Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-JET-1000",
-    "title": "PLA - Jet Black"
+    "title": "PLA - Jet Black",
+    "updated_at": 1792248367766
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#9ACD32",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lime Green",
     "product_type": "Filament",
+    "series": "PLA Blend",
     "sku": "PRM-PLB-LIMGRE-1000",
-    "title": "PLA Blend - Lime Green"
+    "title": "PLA Blend - Lime Green",
+    "updated_at": 1792247544583
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#3A3D40",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Anthracite Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-ANTGRE-1000",
-    "title": "PLA - Anthracite Grey"
+    "title": "PLA - Anthracite Grey",
+    "updated_at": 1792247261484
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173676404",
     "brand": "Prusament",
     "color": "#00A4EB",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-SKY-1000",
-    "title": "PETG - Sky Blue"
+    "title": "PETG - Sky Blue",
+    "updated_at": 1792248404686
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675452",
     "brand": "Prusament",
     "color": "#FFD500",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Oh My Gold",
     "product_type": "Filament",
+    "series": "PLA Blend",
     "sku": "PRM-PLA-OMG-1000",
-    "title": "PLA Blend - Oh My Gold"
+    "title": "PLA Blend - Oh My Gold",
+    "updated_at": 1792248386750
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Satin",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "Prusament",
     "color": "#F4EBEB",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Linden Light",
     "product_type": "Filament",
+    "series": "Woodfill",
     "sku": "",
-    "title": "Woodfill - Linden Light"
+    "title": "Woodfill - Linden Light",
+    "updated_at": 1792799548570
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1B2A6B",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PVB",
     "measure": "500 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PVB",
     "sku": "PRM-PVB-DARBLU-500",
-    "title": "PVB - Dark Blue"
+    "title": "PVB - Dark Blue",
+    "updated_at": 1792247583149
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#6FA8DC",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Chalky Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-CHABLU-1000",
-    "title": "PETG - Chalky Blue"
+    "title": "PETG - Chalky Blue",
+    "updated_at": 1792246517369
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 850
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PC",
     "measure": "850 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC Space Grade",
     "sku": "PRM-PCSG-BLA-850",
-    "title": "PC Space Grade - Black"
+    "title": "PC Space Grade - Black",
+    "updated_at": 1792247235657
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "8594173675766",
     "brand": "Prusament",
     "color": "#0F0F0F",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "PRM-PETG-MBL-1000",
-    "title": "PETG Matte - Black"
+    "title": "PETG Matte - Black",
+    "updated_at": 1792799574701
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#2E7D32",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Prusa Pro Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-PRUPROGRE-1000",
-    "title": "PETG - Prusa Pro Green"
+    "title": "PETG - Prusa Pro Green",
+    "updated_at": 1792245699549
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 850
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E8E2D0",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "PP-GF",
     "measure": "850 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PP Glass Fiber",
     "sku": "PRM-PPGF-NAT-850",
-    "title": "PP Glass Fiber - Natural"
+    "title": "PP Glass Fiber - Natural",
+    "updated_at": 1792246306280
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173676268",
     "brand": "Prusament",
     "color": "#FFFFFF",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "PRM-U95-NAT-500",
-    "title": "TPU 95A - Natural"
+    "title": "TPU 95A - Natural",
+    "updated_at": 1792248426963
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#6E7479",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gentleman's Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-GENGRE-1000",
-    "title": "PLA - Gentleman's Grey"
+    "title": "PLA - Gentleman's Grey",
+    "updated_at": 1792247015459
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#B07A3A",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Viva La Bronze",
     "product_type": "Filament",
+    "series": "PLA Blend",
     "sku": "PRM-PLB-VIVLABRO-1000",
-    "title": "PLA Blend - Viva La Bronze"
+    "title": "PLA Blend - Viva La Bronze",
+    "updated_at": 1792245851464
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#7FC8A9",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Opal Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-OPAGRE-1000",
-    "title": "PLA - Opal Green"
+    "title": "PLA - Opal Green",
+    "updated_at": 1792245860678
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#5E6368",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gravity Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-GRAGRE-1000",
-    "title": "PLA - Gravity Grey"
+    "title": "PLA - Gravity Grey",
+    "updated_at": 1792246248836
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#6B8E23",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "800 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "PRM-ASA-OLIGRE-800",
-    "title": "ASA - Olive Green"
+    "title": "ASA - Olive Green",
+    "updated_at": 1792247113557
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#3E6B55",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mystic Green",
     "product_type": "Filament",
+    "series": "Premium PLA",
     "sku": "PRM-PPL-MYSGRE-1000",
-    "title": "Premium PLA - Mystic Green"
+    "title": "Premium PLA - Mystic Green",
+    "updated_at": 1792245941265
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#00B4D8",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA ColorMix",
     "sku": "PRM-PLM-CYA-1000",
-    "title": "PLA ColorMix - Cyan"
+    "title": "PLA ColorMix - Cyan",
+    "updated_at": 1792248061265
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#D98B6A",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Terracotta Light",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-TERLIG-1000",
-    "title": "PETG - Terracotta Light"
+    "title": "PETG - Terracotta Light",
+    "updated_at": 1792247489337
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F5F5F5",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pristine White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-PRIWHI-1000",
-    "title": "PLA - Pristine White"
+    "title": "PLA - Pristine White",
+    "updated_at": 1792247992075
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F5F5F5",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA ColorMix",
     "sku": "PRM-PLM-WHI-1000",
-    "title": "PLA ColorMix - White"
+    "title": "PLA ColorMix - White",
+    "updated_at": 1792248123091
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Satin",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "Prusament",
     "color": "#000000",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Charcoal Black",
     "product_type": "Filament",
+    "series": "Woodfill",
     "sku": "",
-    "title": "Woodfill - Charcoal Black"
+    "title": "Woodfill - Charcoal Black",
+    "updated_at": 1792799793873
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#A3162A",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Carmine Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-CARRED-1000",
-    "title": "PETG - Carmine Red"
+    "title": "PETG - Carmine Red",
+    "updated_at": 1792246537968
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F7D117",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA CMYK",
     "sku": "PRM-PLC-YEL-1000",
-    "title": "PLA CMYK - Yellow"
+    "title": "PLA CMYK - Yellow",
+    "updated_at": 1792248048478
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#D4AF37",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold Glitter",
     "product_type": "Filament",
+    "series": "PLA ColorMix",
     "sku": "PRM-PLM-GOLGLI-1000",
-    "title": "PLA ColorMix - Gold Glitter"
+    "title": "PLA ColorMix - Gold Glitter",
+    "updated_at": 1792248114572
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F58220",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "PVB",
     "measure": "500 g",
+    "name": "Prusa Orange",
     "product_type": "Filament",
+    "series": "PVB",
     "sku": "PRM-PVB-PRUORA-500",
-    "title": "PVB - Prusa Orange"
+    "title": "PVB - Prusa Orange",
+    "updated_at": 1792248212755
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E8E2D0",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-NAT-1000",
-    "title": "PLA - Natural"
+    "title": "PLA - Natural",
+    "updated_at": 1792247572361
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "800 g",
+    "name": "Galaxy Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "PRM-ASA-GALBLA-800",
-    "title": "ASA - Galaxy Black"
+    "title": "ASA - Galaxy Black",
+    "updated_at": 1792246015890
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F7D117",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA ColorMix",
     "sku": "PRM-PLM-YEL-1000",
-    "title": "PLA ColorMix - Yellow"
+    "title": "PLA ColorMix - Yellow",
+    "updated_at": 1792248133972
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#8B0000",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blood Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-BLORED-1000",
-    "title": "PLA - Blood Red"
+    "title": "PLA - Blood Red",
+    "updated_at": 1792247571467
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#E8E2D0",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "500 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PEI 1010",
     "sku": "PRM-PEI-NAT-500",
-    "title": "PEI 1010 - Natural"
+    "title": "PEI 1010 - Natural",
+    "updated_at": 1792247420766
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1E8F4E",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Emerald Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-EMEGRE-1000",
-    "title": "PLA - Emerald Green"
+    "title": "PLA - Emerald Green",
+    "updated_at": 1792246950384
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675254",
     "brand": "Prusament",
     "color": "#0062FF",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "PLA Blend",
     "sku": "PRM-PLA-ROB-1000",
-    "title": "PLA Blend - Royal Blue"
+    "title": "PLA Blend - Royal Blue",
+    "updated_at": 1792248394058
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F58220",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Prusa Orange Transparent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-PRUORATRA-1000",
-    "title": "PETG - Prusa Orange Transparent"
+    "title": "PETG - Prusa Orange Transparent",
+    "updated_at": 1792247482755
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675285",
     "brand": "Prusament",
     "color": "#FFEA00",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pineapple Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-PYL-1000",
-    "title": "PLA - Pineapple Yellow"
+    "title": "PLA - Pineapple Yellow",
+    "updated_at": 1792248376351
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675292",
     "brand": "Prusament",
     "color": "#FF8800",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Prusa Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-PRO-1000",
-    "title": "PLA - Prusa Orange"
+    "title": "PLA - Prusa Orange",
+    "updated_at": 1792248376442
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -4546,9 +5098,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Carbon Fiber",
     "sku": "PRM-PTCF-BLA-1000",
-    "title": "PETG Carbon Fiber - Black"
+    "title": "PETG Carbon Fiber - Black",
+    "updated_at": 1792246029158
   },
   {
     "RFID_Data": {
@@ -4571,6 +5126,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#DC1E28",
@@ -4587,9 +5144,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galaxy Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-GALRED-1000",
-    "title": "PLA - Galaxy Red"
+    "title": "PLA - Galaxy Red",
+    "updated_at": 1792247344377
   },
   {
     "RFID_Data": {
@@ -4612,6 +5172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675049",
     "brand": "Prusament",
     "color": "#FFFFFF",
@@ -4628,9 +5190,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Vanilla White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-WHT-1000",
-    "title": "PLA - Vanilla White"
+    "title": "PLA - Vanilla White",
+    "updated_at": 1792248384360
   },
   {
     "RFID_Data": {
@@ -4653,6 +5218,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Satin",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "Prusament",
     "color": "#5D3C3C",
@@ -4669,9 +5236,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chocolate Brown",
     "product_type": "Filament",
+    "series": "Woodfill",
     "sku": "",
-    "title": "Woodfill - Chocolate Brown"
+    "title": "Woodfill - Chocolate Brown",
+    "updated_at": 1792800137508
   },
   {
     "RFID_Data": {
@@ -4694,6 +5264,8 @@
       "id_unit": 21,
       "measure": 900
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#BDBDBD",
@@ -4710,9 +5282,12 @@
     "info3": false,
     "material": "PC",
     "measure": "900 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "PC Blend",
     "sku": "PRM-PCB-LIGGRE-900",
-    "title": "PC Blend - Light Grey"
+    "title": "PC Blend - Light Grey",
+    "updated_at": 1792246107979
   },
   {
     "RFID_Data": {
@@ -4735,6 +5310,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#F0933D",
@@ -4751,9 +5328,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "Lipstick Red",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "",
-    "title": "TPU 95A - Lipstick Red"
+    "title": "TPU 95A - Lipstick Red",
+    "updated_at": 1792248413581
   },
   {
     "RFID_Data": {
@@ -4776,6 +5356,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Prusament",
     "color": "#1A1A1A",
@@ -4792,9 +5374,12 @@
     "info3": false,
     "material": "PA11-CF",
     "measure": "800 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA11 Carbon Fiber",
     "sku": "PRM-PA11CF-BLA-800",
-    "title": "PA11 Carbon Fiber - Black"
+    "title": "PA11 Carbon Fiber - Black",
+    "updated_at": 1792247032276
   },
   {
     "RFID_Data": {
@@ -4817,6 +5402,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675025",
     "brand": "Prusament",
     "color": "#FF0000",
@@ -4833,9 +5420,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lipstick Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "PRM-PLA-LPS-1000",
-    "title": "PLA - Lipstick Red"
+    "title": "PLA - Lipstick Red",
+    "updated_at": 1792248374555
   },
   {
     "RFID_Data": {
@@ -4858,6 +5448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8594173675544",
     "brand": "Prusament",
     "color": "#FA0000",
@@ -4874,8 +5466,11 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Lipstick Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "PRM-PETG-LPS-1000",
-    "title": "PETG - Lipstick Red"
+    "title": "PETG - Lipstick Red",
+    "updated_at": 1792248395458
   }
 ]

@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 350
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000010837",
     "brand": "Smart Materials 3D",
     "color": "#FAFAFAFF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PVA",
     "measure": "350 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PVA",
     "sku": "SMPVA0NT0A035",
-    "title": "PVA - Natural"
+    "title": "PVA - Natural",
+    "updated_at": 1788526572565
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000004508",
     "brand": "Smart Materials 3D",
     "color": "#000000FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "True Black",
     "product_type": "Filament",
+    "series": "PLA EP",
     "sku": "SMFS0596",
-    "title": "PLA EP - True Black"
+    "title": "PLA EP - True Black",
+    "updated_at": 1788475698744
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PAHT",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PA HT",
     "sku": "NNPAX1NT0A075",
-    "title": "PA HT - Natural"
+    "title": "PA HT - Natural",
+    "updated_at": 1788526357687
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000001910",
     "brand": "Smart Materials 3D",
     "color": "#F7F7F7FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS Fire Proof",
     "sku": "SMFS0594",
-    "title": "ABS Fire Proof - Natural"
+    "title": "ABS Fire Proof - Natural",
+    "updated_at": 1788525864472
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 650
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434429132219",
     "brand": "Smart Materials 3D",
     "color": "#F4F1F1FF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PP",
     "measure": "650 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PP",
     "sku": "NNPPL0NT0A065",
-    "title": "PP - Natural"
+    "title": "PP - Natural",
+    "updated_at": 1788526039461
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000690879",
     "brand": "Smart Materials 3D",
     "color": "#020797FF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Tanzanite",
     "product_type": "Filament",
+    "series": "PLA Iris",
     "sku": "SMPLA0BL5A075",
-    "title": "PLA Iris - Tanzanite"
+    "title": "PLA Iris - Tanzanite",
+    "updated_at": 1788475698744
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000010561",
     "brand": "Smart Materials 3D",
     "color": "#F0F0F0FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PVB",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PVB",
     "sku": "SMFS0600",
-    "title": "PVB - Natural"
+    "title": "PVB - Natural",
+    "updated_at": 1788526760992
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#005285",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Blue MDT",
     "product_type": "Filament",
+    "series": "PETG MDT",
     "sku": "NNPET2NT3A075",
-    "title": "PETG MDT - Blue MDT"
+    "title": "PETG MDT - Blue MDT",
+    "updated_at": 1784730824874
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434429024576",
     "brand": "Smart Materials 3D",
     "color": "#001CF0FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Crystal",
     "sku": "SMPLA0BL4A100",
-    "title": "PLA Crystal - Blue"
+    "title": "PLA Crystal - Blue",
+    "updated_at": 1788475698744
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "8434429650669",
     "brand": "Smart Materials 3D",
     "color": "#000000FF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Natural (Black)",
     "product_type": "Filament",
+    "series": "PETG CF",
     "sku": "NNPET5NT2A075",
-    "title": "PETG CF - Natural (Black)"
+    "title": "PETG CF - Natural (Black)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 650
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434429454151",
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PP",
     "measure": "650 g",
+    "name": "Ivory White",
     "product_type": "Filament",
+    "series": "PP",
     "sku": "NNPPL0WH0A065",
-    "title": "PP - Ivory White"
+    "title": "PP - Ivory White",
+    "updated_at": 1788526039461
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#F55656FF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Sunset",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0OR0A100",
-    "title": "ABS - Sunset"
+    "title": "ABS - Sunset",
+    "updated_at": 1788475807686
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8434000711154",
     "brand": "Smart Materials 3D",
     "color": "#98B5A3",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "WILLOW",
     "product_type": "Filament",
+    "series": "WOOD",
     "sku": "SMMS18GR1A075",
-    "title": "WOOD - WILLOW"
+    "title": "WOOD - WILLOW",
+    "updated_at": 1783521139853
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8434000417759",
     "brand": "Smart Materials 3D",
     "color": "#B49364",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "OLIVE",
     "product_type": "Filament",
+    "series": "Durable",
     "sku": "ECHA18NT0A075",
-    "title": "Durable - OLIVE"
+    "title": "Durable - OLIVE",
+    "updated_at": 1784725564864
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#32A1F5FF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Sapphire",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0BL1A075",
-    "title": "ABS - Sapphire"
+    "title": "ABS - Sapphire",
+    "updated_at": 1788525864472
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000484591",
     "brand": "Smart Materials 3D",
     "color": "#3DA8D6FF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Topaze",
     "product_type": "Filament",
+    "series": "PLA Iris",
     "sku": "SMPLA0GR7A075",
-    "title": "PLA Iris - Topaze"
+    "title": "PLA Iris - Topaze",
+    "updated_at": 1788475698744
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434429051572",
     "brand": "Smart Materials 3D",
     "color": "#FF0000FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Crystal",
     "sku": "SMPLA0RE4A100",
-    "title": "PLA Crystal - Red"
+    "title": "PLA Crystal - Red",
+    "updated_at": 1788475698744
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#AAA297",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "ASH",
     "product_type": "Filament",
+    "series": "WOOD",
     "sku": "SMMB18WH4A075",
-    "title": "WOOD - ASH"
+    "title": "WOOD - ASH",
+    "updated_at": 1783520326760
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#E0115F",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Ruby",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0RE0A100",
-    "title": "ABS - Ruby"
+    "title": "ABS - Ruby",
+    "updated_at": 1792797290889
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8434000590797",
     "brand": "Smart Materials 3D",
     "color": "#8C5B18",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Pine",
     "product_type": "Filament",
+    "series": "Durable",
     "sku": "ECMN18NT0A075",
-    "title": "Durable - Pine"
+    "title": "Durable - Pine",
+    "updated_at": 1784725509764
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "8434429368588",
     "brand": "Smart Materials 3D",
     "color": "#F2EBD9",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ASA CF",
     "sku": "NNASA1NT0A075",
-    "title": "ASA CF - Natural"
+    "title": "ASA CF - Natural",
+    "updated_at": 1792797262678
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8434000087518",
     "brand": "Smart Materials 3D",
     "color": "#8C5B18",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Cork",
     "product_type": "Filament",
+    "series": "Durable",
     "sku": "ECCO18NT0A075",
-    "title": "Durable - Cork"
+    "title": "Durable - Cork",
+    "updated_at": 1784725436946
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000106318",
     "brand": "Smart Materials 3D",
     "color": "#000000FF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "True Black",
     "product_type": "Filament",
+    "series": "TPU HARDNESS+",
     "sku": "INFS2532",
-    "title": "TPU HARDNESS+ - True Black"
+    "title": "TPU HARDNESS+ - True Black",
+    "updated_at": 1788526185981
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#0008FFFF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Cobalt",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0BL0A100",
-    "title": "ABS - Cobalt"
+    "title": "ABS - Cobalt",
+    "updated_at": 1788475807686
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#F0E800FF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Orinoco",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0YE0A075",
-    "title": "ABS - Orinoco"
+    "title": "ABS - Orinoco",
+    "updated_at": 1788525864472
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 650
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434429256274",
     "brand": "Smart Materials 3D",
     "color": "#000000FF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PP",
     "measure": "650 g",
+    "name": "True black",
     "product_type": "Filament",
+    "series": "PP",
     "sku": "NNPPL0BK0A065",
-    "title": "PP - True black"
+    "title": "PP - True black",
+    "updated_at": 1788526039461
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000006328",
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Boun",
     "sku": "SMFS0598",
-    "title": "Boun - Natural"
+    "title": "Boun - Natural",
+    "updated_at": 1788475698744
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000004478",
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ivory White",
     "product_type": "Filament",
+    "series": "PLA EP",
     "sku": "SMFS0597",
-    "title": "PLA EP - Ivory White"
+    "title": "PLA EP - Ivory White",
+    "updated_at": 1788475698744
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#1AE000FF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Chlorophyll",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0GR2A075",
-    "title": "ABS - Chlorophyll"
+    "title": "ABS - Chlorophyll",
+    "updated_at": 1788525864472
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 500
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "8434000501571",
     "brand": "Smart Materials 3D",
     "color": "#000000FF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "500 g",
+    "name": "black",
     "product_type": "Filament",
+    "series": "TPU CF ESD",
     "sku": "NNTPU2NT2A050",
-    "title": "TPU CF ESD - black"
+    "title": "TPU CF ESD - black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0NT0A100",
-    "title": "ABS - Natural"
+    "title": "ABS - Natural",
+    "updated_at": 1788475807686
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434429632344",
     "brand": "Smart Materials 3D",
     "color": "#EFEBEBFF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PVDF",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PVDF",
     "sku": "NNPVD0NT0A075",
-    "title": "PVDF - Natural"
+    "title": "PVDF - Natural",
+    "updated_at": 1788526930574
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8434000182572",
     "brand": "Smart Materials 3D",
     "color": "#B49364",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "Oyster",
     "product_type": "Filament",
+    "series": "Durable",
     "sku": "ECOS25NT0A075",
-    "title": "Durable - Oyster"
+    "title": "Durable - Oyster",
+    "updated_at": 1784725369847
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "8434000060757",
     "brand": "Smart Materials 3D",
     "color": "#BA6017",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "TEKA",
     "product_type": "Filament",
+    "series": "WOOD",
     "sku": "SMMS18OR0A075",
-    "title": "WOOD - TEKA"
+    "title": "WOOD - TEKA",
+    "updated_at": 1783517306876
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#000000FF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "True black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0BK0A100",
-    "title": "ABS - True black"
+    "title": "ABS - True black",
+    "updated_at": 1788475807686
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000010264",
     "brand": "Smart Materials 3D",
     "color": "#EBEBEBFF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "TPU HARDNESS+",
     "sku": "FIFS0650",
-    "title": "TPU HARDNESS+ - Natural"
+    "title": "TPU HARDNESS+ - Natural",
+    "updated_at": 1788526185981
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000807222",
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "TPU FR",
     "sku": "NNTPU3NT0A075",
-    "title": "TPU FR - Natural"
+    "title": "TPU FR - Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000876419",
     "brand": "Smart Materials 3D",
     "color": "#A99E9EFF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Alexandrite",
     "product_type": "Filament",
+    "series": "PLA Iris",
     "sku": "SMPLA0BR4A075",
-    "title": "PLA Iris - Alexandrite"
+    "title": "PLA Iris - Alexandrite",
+    "updated_at": 1788475698744
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Ivory White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0WH0A100",
-    "title": "ABS - Ivory White"
+    "title": "ABS - Ivory White",
+    "updated_at": 1788475807686
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#A89DAE",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "750 g",
+    "name": "HEATHER",
     "product_type": "Filament",
+    "series": "WOOD",
     "sku": "SMME18HT1A075",
-    "title": "WOOD - HEATHER"
+    "title": "WOOD - HEATHER",
+    "updated_at": 1783522198452
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000045433",
     "brand": "Smart Materials 3D",
     "color": "#000000FF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PAHT",
     "measure": "750 g",
+    "name": "True Black",
     "product_type": "Filament",
+    "series": "PA HT",
     "sku": "NNPAX1BK0A075",
-    "title": "PA HT - True Black"
+    "title": "PA HT - True Black",
+    "updated_at": 1788526357687
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#BDBDBDFF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0SV0A100",
-    "title": "ABS - Silver"
+    "title": "ABS - Silver",
+    "updated_at": 1788475807686
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000001064",
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMFS0742",
-    "title": "ABS - Natural"
+    "title": "ABS - Natural",
+    "updated_at": 1788525864472
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000086542",
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PP",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PP GF",
     "sku": "NNPPL3NT0A075",
-    "title": "PP GF - Natural"
+    "title": "PP GF - Natural",
+    "updated_at": 1788526039461
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000757008",
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PETG FP",
     "sku": "NNPET4NT4A075",
-    "title": "PETG FP - Natural"
+    "title": "PETG FP - Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000004904",
     "brand": "Smart Materials 3D",
     "color": "#FFFFFFFF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS Medical",
     "sku": "SMFS0601",
-    "title": "ABS Medical - Natural"
+    "title": "ABS Medical - Natural",
+    "updated_at": 1788525864472
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart Materials 3D",
     "color": "#5C5C5CFF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Antracite",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "SMABS0GY0A100",
-    "title": "ABS - Antracite"
+    "title": "ABS - Antracite",
+    "updated_at": 1788475807686
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434000107186",
     "brand": "Smart Materials 3D",
     "color": "#F2EBD9",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PETG MDT",
     "sku": "SMFS1745",
-    "title": "PETG MDT - Natural"
+    "title": "PETG MDT - Natural",
+    "updated_at": 1792797270405
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 650
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "8434429142348",
     "brand": "Smart Materials 3D",
     "color": "#F2EBD9",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PP",
     "measure": "650 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PP CF",
     "sku": "NNPPL4NT0A065",
-    "title": "PP CF - Natural"
+    "title": "PP CF - Natural",
+    "updated_at": 1792797270194
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "8434429097204",
     "brand": "Smart Materials 3D",
     "color": "#FFE433FF",
@@ -2045,8 +2292,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Crystal",
     "sku": "SMPLA0YE2A100",
-    "title": "PLA Crystal - Yellow"
+    "title": "PLA Crystal - Yellow",
+    "updated_at": 1788475698744
   }
 ]

@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": "Neon",
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#39FF14",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-NGRN",
-    "title": "PLA Metallic - Neon Green"
+    "title": "PLA Metallic - Neon Green",
+    "updated_at": 1792797666467
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFB570FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Orange",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-LORN",
-    "title": "PLA Standard - Light Orange"
+    "title": "PLA Standard - Light Orange",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#1565C0FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-BLU",
-    "title": "PLA Standard - Blue"
+    "title": "PLA Standard - Blue",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "191314041435",
     "brand": "Hatchbox",
     "color": "#F3EEDCFF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood Ivory",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "3D WOOD-1KG1.75-IVR",
-    "title": "Wood PLA - Wood Ivory"
+    "title": "Wood PLA - Wood Ivory",
+    "updated_at": 1788470125156
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFF44FFF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lemon Yellow",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-LMYLW",
-    "title": "PLA Matte - Lemon Yellow"
+    "title": "PLA Matte - Lemon Yellow",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF7F00FF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Orange Rapid",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "3D RPD-PETG1KG-ORN",
-    "title": "PETG - Orange Rapid"
+    "title": "PETG - Orange Rapid",
+    "updated_at": 1788470238755
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FDD835FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-YLW",
-    "title": "PLA Standard - Yellow"
+    "title": "PLA Standard - Yellow",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFB570FF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Light Orange",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-LORN",
-    "title": "TPU - Light Orange"
+    "title": "TPU - Light Orange",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#CD7F32FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "3D ABS-1KG1.75-BRNZ",
-    "title": "ABS - Bronze"
+    "title": "ABS - Bronze",
+    "updated_at": 1788470606750
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#E8D3A2FF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA PRO+",
     "sku": "3D PLAP-1KG1.75-BGE",
-    "title": "PLA PRO+ - Beige"
+    "title": "PLA PRO+ - Beige",
+    "updated_at": 1788470480786
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#6A0DADFF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-PUR",
-    "title": "PLA Metallic - Purple"
+    "title": "PLA Metallic - Purple",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFFFFFFF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-WHT",
-    "title": "PLA MAX - White"
+    "title": "PLA MAX - White",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "191314004058",
     "brand": "Hatchbox",
     "color": "#1A1A1AFF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood Black",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "3D WOOD-1KG1.75-BLK",
-    "title": "Wood PLA - Wood Black"
+    "title": "Wood PLA - Wood Black",
+    "updated_at": 1788470125156
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C41E3AFF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Jelly Red",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-JRED",
-    "title": "PLA Standard - Jelly Red"
+    "title": "PLA Standard - Jelly Red",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#98D8C8FF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-318C",
-    "title": "PLA Standard - Mint Green"
+    "title": "PLA Standard - Mint Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFFFFFFF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-WHT",
-    "title": "PLA Standard - White"
+    "title": "PLA Standard - White",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C41E3AFF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "3D ABS-1KG1.75-RED",
-    "title": "ABS - Red"
+    "title": "ABS - Red",
+    "updated_at": 1788470606750
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#98D8C8FF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-MTGRN",
-    "title": "PLA Metallic - Mint Green"
+    "title": "PLA Metallic - Mint Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#6E4B3AFF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pecan Brown",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-PBRN",
-    "title": "PLA MAX - Pecan Brown"
+    "title": "PLA MAX - Pecan Brown",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C0C0C0FF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-SLV",
-    "title": "TPU - Silver"
+    "title": "TPU - Silver",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": "Neon",
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#39FF14",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-802C",
-    "title": "PLA Standard - Neon Green"
+    "title": "PLA Standard - Neon Green",
+    "updated_at": 1792797911181
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF69B4FF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-PNK",
-    "title": "PLA Metallic - Pink"
+    "title": "PLA Metallic - Pink",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#1565C0FF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-BLU",
-    "title": "PLA MAX - Blue"
+    "title": "PLA MAX - Blue",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C6E600FF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Lime Green",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-LMGRN",
-    "title": "TPU - Lime Green"
+    "title": "TPU - Lime Green",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#7A8B4CFF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Guacamole Green",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-GGRN",
-    "title": "PLA Matte - Guacamole Green"
+    "title": "PLA Matte - Guacamole Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF69B4FF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Reload",
     "sku": "3D RS-PLA1KG-PNK",
-    "title": "PLA Reload - Pink"
+    "title": "PLA Reload - Pink",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 200
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#CCCCCCFF",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "200 g",
+    "name": "Natural/Mixed",
     "product_type": "Filament",
+    "series": "Cleaning Filament",
     "sku": "3D CF-0.2KG",
-    "title": "Cleaning Filament - Natural/Mixed"
+    "title": "Cleaning Filament - Natural/Mixed",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": "Neon",
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF3131",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Red",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-NRED",
-    "title": "PLA MAX - Neon Red"
+    "title": "PLA MAX - Neon Red",
+    "updated_at": 1792797936159
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF8C00FF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-ORN",
-    "title": "PLA Metallic - Orange"
+    "title": "PLA Metallic - Orange",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#2E8B57FF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-GRN",
-    "title": "PLA Metallic - Green"
+    "title": "PLA Metallic - Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#008080FF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Teal",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-TEAL",
-    "title": "PLA MAX - Teal"
+    "title": "PLA MAX - Teal",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#AAF0D1",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Mint",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "3D PLA-1KG1.75-SILK-MINT",
-    "title": "PLA Silk - Mint"
+    "title": "PLA Silk - Mint",
+    "updated_at": 1792797980597
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF7F27FF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-ORN",
-    "title": "PLA Matte - Orange"
+    "title": "PLA Matte - Orange",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF7F50FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Coral",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-COR",
-    "title": "PLA MAX - Coral"
+    "title": "PLA MAX - Coral",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#F3E5ABFF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lemonade",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-LMDE",
-    "title": "PLA Matte - Lemonade"
+    "title": "PLA Matte - Lemonade",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#000000FF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-BLK",
-    "title": "PLA MAX - Black"
+    "title": "PLA MAX - Black",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#89CFF0FF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Baby Blue",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-BBLU",
-    "title": "PLA Standard - Baby Blue"
+    "title": "PLA Standard - Baby Blue",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C41E3AFF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-RED",
-    "title": "TPU - Red"
+    "title": "TPU - Red",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#F1C6A7FF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Flesh",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-FLH",
-    "title": "PLA MAX - Flesh"
+    "title": "PLA MAX - Flesh",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#708238FF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-OLV",
-    "title": "PLA MAX - Olive Green"
+    "title": "PLA MAX - Olive Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#5A7247FF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Peapod Green",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-PEGRN",
-    "title": "PLA Matte - Peapod Green"
+    "title": "PLA Matte - Peapod Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#808080FF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-GRY",
-    "title": "PLA MAX - Gray"
+    "title": "PLA MAX - Gray",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#F5F0E6FF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-NAT",
-    "title": "PLA Standard - Natural"
+    "title": "PLA Standard - Natural",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#2E7D32FF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-GRN",
-    "title": "PLA Standard - Green"
+    "title": "PLA Standard - Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#1B1F3BFF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Navy",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-NVY",
-    "title": "PLA Matte - Navy"
+    "title": "PLA Matte - Navy",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#98D8C8FF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-MTGRN",
-    "title": "PLA MAX - Mint Green"
+    "title": "PLA MAX - Mint Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#6A5ACDFF",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Slate Blue",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-SBLU",
-    "title": "PLA MAX - Slate Blue"
+    "title": "PLA MAX - Slate Blue",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#98D8C8FF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "3D ABS-1KG1.75-318C",
-    "title": "ABS - Mint Green"
+    "title": "ABS - Mint Green",
+    "updated_at": 1788470606750
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "191314004065",
     "brand": "Hatchbox",
     "color": "#6B4226FF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood Brown",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "3D WOOD-1KG1.75-BRN",
-    "title": "Wood PLA - Wood Brown"
+    "title": "Wood PLA - Wood Brown",
+    "updated_at": 1788470125156
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#00008BFF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-DBLU",
-    "title": "PLA MAX - Dark Blue"
+    "title": "PLA MAX - Dark Blue",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FDD835FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-YLW",
-    "title": "TPU - Yellow"
+    "title": "TPU - Yellow",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#2E7D32FF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-GRN",
-    "title": "TPU - Green"
+    "title": "TPU - Green",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#6A0DADFF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-PUR",
-    "title": "TPU - Purple"
+    "title": "TPU - Purple",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C41E3AFF",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "3D PETG-1KG1.75-RED",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1788470736878
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#1565C0FF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Reload",
     "sku": "3D RS-PLA1KG-BLU",
-    "title": "PLA Reload - Blue"
+    "title": "PLA Reload - Blue",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#A8D5A2",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "PLA PRO+",
     "sku": "3D PLAP-1KG1.75-PGRN",
-    "title": "PLA PRO+ - Pastel Green"
+    "title": "PLA PRO+ - Pastel Green",
+    "updated_at": 1792798290880
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#2C1A47FF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Midnight Purple",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-MPUR",
-    "title": "PLA MAX - Midnight Purple"
+    "title": "PLA MAX - Midnight Purple",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#8B0000FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Red",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-DRED",
-    "title": "PLA MAX - Dark Red"
+    "title": "PLA MAX - Dark Red",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFC0CB",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "3D PLA-1KG1.75-SILK-PNK",
-    "title": "PLA Silk - Pink"
+    "title": "PLA Silk - Pink",
+    "updated_at": 1792798755982
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF7F00FF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA PRO+",
     "sku": "3D PLAP-1KG1.75-ORN",
-    "title": "PLA PRO+ - Orange"
+    "title": "PLA PRO+ - Orange",
+    "updated_at": 1788470480786
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C19A6BFF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Kraft",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-KRT",
-    "title": "PLA Matte - Kraft"
+    "title": "PLA Matte - Kraft",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#1565C0FF",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-BLU",
-    "title": "TPU - Blue"
+    "title": "TPU - Blue",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C9A227FF",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Dark Yellow",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-DYLW",
-    "title": "TPU - Dark Yellow"
+    "title": "TPU - Dark Yellow",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#A8D5A2",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-365C",
-    "title": "PLA Standard - Pastel Green"
+    "title": "PLA Standard - Pastel Green",
+    "updated_at": 1792799041562
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "849344040439",
     "brand": "Hatchbox",
     "color": "#B08D57FF",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "3D WOOD-1KG1.75",
-    "title": "Wood PLA - Natural"
+    "title": "Wood PLA - Natural",
+    "updated_at": 1788470125156
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#98D8C8FF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-MTGRN",
-    "title": "TPU - Mint Green"
+    "title": "TPU - Mint Green",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C6FFC6FF",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow In The Dark",
     "product_type": "Filament",
+    "series": "PLA Glow",
     "sku": "3D PLA-1KG1.75-GLOW",
-    "title": "PLA Glow - Glow In The Dark"
+    "title": "PLA Glow - Glow In The Dark",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#614051FF",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Eggplant Purple",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-EPUR",
-    "title": "PLA Standard - Eggplant Purple"
+    "title": "PLA Standard - Eggplant Purple",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFDB58FF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mustard",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-MSD",
-    "title": "PLA MAX - Mustard"
+    "title": "PLA MAX - Mustard",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#B22222FF",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-RED",
-    "title": "PLA Metallic - Red"
+    "title": "PLA Metallic - Red",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF69B4FF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Hot Pink",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-HPNK",
-    "title": "PLA MAX - Hot Pink"
+    "title": "PLA MAX - Hot Pink",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#000000FF",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-BLK",
-    "title": "PLA Standard - Black"
+    "title": "PLA Standard - Black",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#E8D3A2FF",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-720C",
-    "title": "TPU - Beige"
+    "title": "TPU - Beige",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#D32F2FFF",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Reload",
     "sku": "3D RS-PLA1KG-RED",
-    "title": "PLA Reload - Red"
+    "title": "PLA Reload - Red",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FDB927FF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Laker Gold",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-LGLD",
-    "title": "PLA MAX - Laker Gold"
+    "title": "PLA MAX - Laker Gold",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#C6E600FF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lime Green",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-LMGRN",
-    "title": "PLA Standard - Lime Green"
+    "title": "PLA Standard - Lime Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFD700FF",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-YLW",
-    "title": "PLA Metallic - Yellow"
+    "title": "PLA Metallic - Yellow",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#9CAF88FF",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sage Green",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-SGRN",
-    "title": "PLA MAX - Sage Green"
+    "title": "PLA MAX - Sage Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#ADD8E6FF",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-LBLU",
-    "title": "PLA Metallic - Light Blue"
+    "title": "PLA Metallic - Light Blue",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "191314041442",
     "brand": "Hatchbox",
     "color": "#F5F5F5FF",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood White",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "3D WOOD-1KG1.75-WHT",
-    "title": "Wood PLA - Wood White"
+    "title": "Wood PLA - Wood White",
+    "updated_at": 1788470125156
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#A0342AFF",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Iron Red",
     "product_type": "Filament",
+    "series": "PLA PRO+",
     "sku": "3D PLAP-1KG1.75-INRED",
-    "title": "PLA PRO+ - Iron Red"
+    "title": "PLA PRO+ - Iron Red",
+    "updated_at": 1788470480786
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#F48FB1FF",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-PNK",
-    "title": "PLA Standard - Pink"
+    "title": "PLA Standard - Pink",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF8C00FF",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-ORN",
-    "title": "PLA MAX - Orange"
+    "title": "PLA MAX - Orange",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FDD835FF",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "PETG HS",
     "measure": "1000 g",
+    "name": "Yellow Rapid",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "3D RPD-PETG1KG-YLW",
-    "title": "PETG - Yellow Rapid"
+    "title": "PETG - Yellow Rapid",
+    "updated_at": 1788470238755
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FF69B4FF",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-PNK",
-    "title": "TPU - Pink"
+    "title": "TPU - Pink",
+    "updated_at": 1788470360839
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFCBA4FF",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Peach",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-PCH",
-    "title": "PLA MAX - Peach"
+    "title": "PLA MAX - Peach",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#8B3A2BFF",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apple Sauce",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-APSC",
-    "title": "PLA Standard - Apple Sauce"
+    "title": "PLA Standard - Apple Sauce",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#6A0DADFF",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA PRO+",
     "sku": "3D PLAP-1KG1.75-PUR",
-    "title": "PLA PRO+ - Purple"
+    "title": "PLA PRO+ - Purple",
+    "updated_at": 1788470480786
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "191314041428",
     "brand": "Hatchbox",
     "color": "#808080FF",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood Gray",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "3D WOOD-1KG1.75-GRY",
-    "title": "Wood PLA - Wood Gray"
+    "title": "Wood PLA - Wood Gray",
+    "updated_at": 1788470125156
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#D32F2FFF",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-RED",
-    "title": "PLA Standard - Red"
+    "title": "PLA Standard - Red",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#9B59B6FF",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "UV Color Changing Purple",
     "product_type": "Filament",
+    "series": "PLA Color-Changing",
     "sku": "3D PLA-1KG1.75-UVPUR",
-    "title": "PLA Color-Changing - UV Color Changing Purple"
+    "title": "PLA Color-Changing - UV Color Changing Purple",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#B2BEB5FF",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ash Gray",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-AGRY",
-    "title": "PLA Matte - Ash Gray"
+    "title": "PLA Matte - Ash Gray",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#2E7D32FF",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-GRN",
-    "title": "PLA MAX - Green"
+    "title": "PLA MAX - Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#B7410EFF",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rust",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-RUST",
-    "title": "PLA Metallic - Rust"
+    "title": "PLA Metallic - Rust",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#A0342AFF",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Iron Red",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-INRED",
-    "title": "PLA Standard - Iron Red"
+    "title": "PLA Standard - Iron Red",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#2E7D32FF",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Reload",
     "sku": "3D RS-PLA1KG-GRN",
-    "title": "PLA Reload - Green"
+    "title": "PLA Reload - Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": "191314041411",
     "brand": "Hatchbox",
     "color": "#6B4226FF",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood Cedar Brown",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "3D WOOD-1KG1.75-CDRBRN",
-    "title": "Wood PLA - Wood Cedar Brown"
+    "title": "Wood PLA - Wood Cedar Brown",
+    "updated_at": 1788470125156
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#928E85FF",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Stone Gray",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-WGRY",
-    "title": "PLA Matte - Stone Gray"
+    "title": "PLA Matte - Stone Gray",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#2B2B2BFF",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-BLK",
-    "title": "PLA Metallic - Black"
+    "title": "PLA Metallic - Black",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FFA089FF",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Vivid Tangerine",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "3D PLA-1KG1.75-MAT-VTAN",
-    "title": "PLA Matte - Vivid Tangerine"
+    "title": "PLA Matte - Vivid Tangerine",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#A8D5A2",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "3D TPU-1KG1.75-365C",
-    "title": "TPU - Pastel Green"
+    "title": "TPU - Pastel Green",
+    "updated_at": 1792799993974
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#872657FF",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Raspberry",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-DRBY",
-    "title": "PLA MAX - Dark Raspberry"
+    "title": "PLA MAX - Dark Raspberry",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#D32F2FFF",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Reload",
     "sku": "3D RS-PLA1KG-RED-PCK",
-    "title": "PLA Reload - Red"
+    "title": "PLA Reload - Red",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#6F4E37FF",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Brown Paint-Free",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "3D ABS-1KG1.75-PFR-BRN",
-    "title": "ABS - Brown Paint-Free"
+    "title": "ABS - Brown Paint-Free",
+    "updated_at": 1788470606750
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#39FF14",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PLA PRO+",
     "sku": "3D PLAP-1KG1.75-NGRN",
-    "title": "PLA PRO+ - Neon Green"
+    "title": "PLA PRO+ - Neon Green",
+    "updated_at": 1792800091307
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#6F4E37",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "3D PLA-1KG1.75-SILK-BRN",
-    "title": "PLA Silk - Brown"
+    "title": "PLA Silk - Brown",
+    "updated_at": 1792800113591
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#00CCCCFF",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Robin Egg Blue",
     "product_type": "Filament",
+    "series": "PLA MAX",
     "sku": "HB PLA-MAX-RBLU",
-    "title": "PLA MAX - Robin Egg Blue"
+    "title": "PLA MAX - Robin Egg Blue",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#00CC99FF",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Caribbean Green",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-CGRN",
-    "title": "PLA Standard - Caribbean Green"
+    "title": "PLA Standard - Caribbean Green",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#F5F5F5FF",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "3D PLA-1KG1.75-SHNY-WHT",
-    "title": "PLA Metallic - White"
+    "title": "PLA Metallic - White",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#8C8C8CFF",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cool Gray",
     "product_type": "Filament",
+    "series": "PLA Standard",
     "sku": "3D PLA-1KG1.75-CG6C",
-    "title": "PLA Standard - Cool Gray"
+    "title": "PLA Standard - Cool Gray",
+    "updated_at": 1788469899791
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hatchbox",
     "color": "#FAFAFA",
@@ -4546,8 +5098,11 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "3D PLA-1KG1.75-SILK-WHT",
-    "title": "PLA Silk - White"
+    "title": "PLA Silk - White",
+    "updated_at": 1792800205079
   }
 ]

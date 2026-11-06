@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "36911453",
     "brand": "ELEGOO",
     "color": "#FFE68A",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sunshine Yellow",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0255",
-    "title": "Matte PLA - Sunshine Yellow"
+    "title": "Matte PLA - Sunshine Yellow",
+    "updated_at": 1792193145949
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#B9A0DA",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Purple",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1162",
-    "title": "PETG Glitter - Light Purple"
+    "title": "PETG Glitter - Light Purple",
+    "updated_at": 1792189745478
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6932704912614",
     "brand": "ELEGOO",
     "color": "#E4A0FD",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lavender Purple",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0257",
-    "title": "Matte PLA - Lavender Purple"
+    "title": "Matte PLA - Lavender Purple",
+    "updated_at": 1792193051874
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#B98A55",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wood Color",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-109",
-    "title": "PLA - Wood Color"
+    "title": "PLA - Wood Color",
+    "updated_at": 1792797684799
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769704",
     "brand": "ELEGOO",
     "color": "#BABABA",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0205",
-    "title": "PETG Pro - Grey"
+    "title": "PETG Pro - Grey",
+    "updated_at": 1792193044937
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769445",
     "brand": "ELEGOO",
     "color": "#CACBCE",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0195",
-    "title": "PLA Pro - Grey"
+    "title": "PLA Pro - Grey",
+    "updated_at": 1792193035962
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769421",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0188",
-    "title": "PLA Pro - Black"
+    "title": "PLA Pro - Black",
+    "updated_at": 1792192872759
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#A63A2E",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brick Red",
     "product_type": "Filament",
+    "series": "PLA Marble",
     "sku": "GWCZ-EL-PLA-130",
-    "title": "PLA Marble - Brick Red"
+    "title": "PLA Marble - Brick Red",
+    "updated_at": 1792188902881
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7EC8F0",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-PP-101",
-    "title": "PLA+ - Sky Blue"
+    "title": "PLA+ - Sky Blue",
+    "updated_at": 1792192002050
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-3D-P03",
-    "title": "PLA - Grey"
+    "title": "PLA - Grey",
+    "updated_at": 1792192264875
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "91457373",
     "brand": "ELEGOO",
     "color": "#FBFF00",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0121",
-    "title": "Rapid PLA+ - Yellow"
+    "title": "Rapid PLA+ - Yellow",
+    "updated_at": 1792193192058
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "GWCZ-EL-GGF-002",
-    "title": "PETG-GF - Grey"
+    "title": "PETG-GF - Grey",
+    "updated_at": 1792191508911
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F4A6C0",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-PP-105",
-    "title": "PLA+ - Pink"
+    "title": "PLA+ - Pink",
+    "updated_at": 1792192104779
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704921029",
     "brand": "ELEGOO",
     "color": "#23B6E7",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0748",
-    "title": "Silk PLA - Sky Blue"
+    "title": "Silk PLA - Sky Blue",
+    "updated_at": 1792193136168
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP01",
-    "title": "PLA+ - Black"
+    "title": "PLA+ - Black",
+    "updated_at": 1792191841574
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0850",
     "brand": "ELEGOO",
     "color": "#004961",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0850",
-    "title": "ABS - Navy Blue"
+    "title": "ABS - Navy Blue",
+    "updated_at": 1792193066489
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "61567069",
     "brand": "ELEGOO",
     "color": "#0011FF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0117",
-    "title": "Rapid PLA+ - Blue"
+    "title": "Rapid PLA+ - Blue",
+    "updated_at": 1792192928439
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#664305",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "",
-    "title": "Rapid PETG - Brown"
+    "title": "Rapid PETG - Brown",
+    "updated_at": 1792192965575
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#D2B48C",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Tan Birch",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "GWCZ-EL-PLA-150",
-    "title": "PLA Wood - Tan Birch"
+    "title": "PLA Wood - Tan Birch",
+    "updated_at": 1792190776085
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "GWCZ-EL-3DF-PCF0966",
-    "title": "PLA-CF - Blue"
+    "title": "PLA-CF - Blue",
+    "updated_at": 1792191611198
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#9C9C98",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cement Grey",
     "product_type": "Filament",
+    "series": "PLA Marble",
     "sku": "GWCZ-EL-PLA-131",
-    "title": "PLA Marble - Cement Grey"
+    "title": "PLA Marble - Cement Grey",
+    "updated_at": 1792188901523
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0202",
     "brand": "ELEGOO",
     "color": "#417AEC",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0202",
-    "title": "PETG Pro - Light Blue"
+    "title": "PETG Pro - Light Blue",
+    "updated_at": 1792193054552
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0644",
     "brand": "ELEGOO",
     "color": "#969795",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0644",
-    "title": "ABS - Grey"
+    "title": "ABS - Grey",
+    "updated_at": 1792193042061
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F7D117",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-3D-P07",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1792192309779
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F7D117",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "TPU 72D",
     "sku": "GWCZ-EL-3DF-T71151",
-    "title": "TPU 72D - Yellow"
+    "title": "TPU 72D - Yellow",
+    "updated_at": 1792190317024
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F4A6C0",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "GWCZ-EL-3DF-PL1138",
-    "title": "PLA Translucent - Pink"
+    "title": "PLA Translucent - Pink",
+    "updated_at": 1792189512492
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6976021764358",
     "brand": "ELEGOO",
     "color": "#D54D76",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ruby Red",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0252",
-    "title": "Matte PLA - Ruby Red"
+    "title": "Matte PLA - Ruby Red",
+    "updated_at": 1792193120975
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F58220",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-3D-P08N",
-    "title": "PLA - Orange"
+    "title": "PLA - Orange",
+    "updated_at": 1792192348554
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704903490",
     "brand": "ELEGOO",
     "color": "#1FE5C4",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "50.203.0572",
-    "title": "TPU 95A - Green"
+    "title": "TPU 95A - Green",
+    "updated_at": 1792193009083
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021764334",
     "brand": "ELEGOO",
     "color": "#1EFF00",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0118",
-    "title": "Rapid PLA+ - Green"
+    "title": "Rapid PLA+ - Green",
+    "updated_at": 1792193010173
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1F4FB5",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cobalt Blue",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0758",
-    "title": "PLA Basic - Cobalt Blue"
+    "title": "PLA Basic - Cobalt Blue",
+    "updated_at": 1792191184230
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6932704912607",
     "brand": "ELEGOO",
     "color": "#BFBFBF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Slate Grey",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0256",
-    "title": "Matte PLA - Slate Grey"
+    "title": "Matte PLA - Slate Grey",
+    "updated_at": 1792193139383
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769728",
     "brand": "ELEGOO",
     "color": "#CDCBCB",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0207",
-    "title": "PETG Pro - Silver"
+    "title": "PETG Pro - Silver",
+    "updated_at": 1792193127338
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B4B2A",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "GWCZ-EL-3DF-PCF0969",
-    "title": "PLA-CF - Brown"
+    "title": "PLA-CF - Brown",
+    "updated_at": 1792191677069
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704911815",
     "brand": "ELEGOO",
     "color": "#F50000",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "50.203.0218",
-    "title": "Rapid PETG - Red"
+    "title": "Rapid PETG - Red",
+    "updated_at": 1792193112162
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704912805",
     "brand": "ELEGOO",
     "color": "#FFBD80",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red Copper",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0309",
-    "title": "Silk PLA - Red Copper"
+    "title": "Silk PLA - Red Copper",
+    "updated_at": 1792193118473
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F0DFB2",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "",
-    "title": "Rapid PETG - Beige"
+    "title": "Rapid PETG - Beige",
+    "updated_at": 1792192850750
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "GWCZ-EL-3DF-PE0773",
-    "title": "PETG Translucent - Green"
+    "title": "PETG Translucent - Green",
+    "updated_at": 1792190502615
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#4F4F4F",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "PLA Sparkle",
     "sku": "GWCZ-EL-PLA-136",
-    "title": "PLA Sparkle - Dark Grey"
+    "title": "PLA Sparkle - Dark Grey",
+    "updated_at": 1792190934915
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0834",
     "brand": "ELEGOO",
     "color": "#48D40C",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0834",
-    "title": "ABS - Green"
+    "title": "ABS - Green",
+    "updated_at": 1792193023954
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "42975581",
     "brand": "ELEGOO",
     "color": "#B8B8B8",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0692",
-    "title": "Silk PLA - Silver"
+    "title": "Silk PLA - Silver",
+    "updated_at": 1792193130081
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0762",
-    "title": "PLA Basic - Grey"
+    "title": "PLA Basic - Grey",
+    "updated_at": 1792191287413
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": "6976021769575",
     "brand": "ELEGOO",
     "color": "#C7C7C7",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Marble",
     "product_type": "Filament",
+    "series": "PLA Marble",
     "sku": "50.203.0113",
-    "title": "PLA Marble - Marble"
+    "title": "PLA Marble - Marble",
+    "updated_at": 1792193057442
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PC-FR",
     "sku": "GWCZ-EL-3DF-PC0771",
-    "title": "PC-FR - White"
+    "title": "PC-FR - White",
+    "updated_at": 1792190657219
   },
   {
     "RFID_Data": {
@@ -1827,6 +2047,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704903438",
     "brand": "ELEGOO",
     "color": "#050DFF",
@@ -1844,9 +2066,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue Green Orange",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0337",
-    "title": "Silk PLA - Blue Green Orange"
+    "title": "Silk PLA - Blue Green Orange",
+    "updated_at": 1792192951157
   },
   {
     "RFID_Data": {
@@ -1869,6 +2094,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F4A6C0",
@@ -1885,9 +2112,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0764",
-    "title": "PLA Basic - Pink"
+    "title": "PLA Basic - Pink",
+    "updated_at": 1792191282993
   },
   {
     "RFID_Data": {
@@ -1910,6 +2140,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704921081",
     "brand": "ELEGOO",
     "color": "#FF000D",
@@ -1926,9 +2158,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "True Red",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0788",
-    "title": "PLA Pro - True Red"
+    "title": "PLA Pro - True Red",
+    "updated_at": 1792193156375
   },
   {
     "RFID_Data": {
@@ -1951,6 +2186,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#39FF14",
@@ -1967,9 +2204,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP04N",
-    "title": "PLA+ - Neon Green"
+    "title": "PLA+ - Neon Green",
+    "updated_at": 1792797959479
   },
   {
     "RFID_Data": {
@@ -1992,6 +2232,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#0011FF",
@@ -2008,9 +2250,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "",
-    "title": "Rapid PETG - Blue"
+    "title": "Rapid PETG - Blue",
+    "updated_at": 1792192935338
   },
   {
     "RFID_Data": {
@@ -2033,6 +2278,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -2049,9 +2296,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "GWCZ-EL-3DF-P0743",
-    "title": "PLA Metallic - Green"
+    "title": "PLA Metallic - Green",
+    "updated_at": 1792190861690
   },
   {
     "RFID_Data": {
@@ -2074,6 +2324,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6976021764389",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -2090,9 +2342,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0250",
-    "title": "Matte PLA - Black"
+    "title": "Matte PLA - Black",
+    "updated_at": 1792192850764
   },
   {
     "RFID_Data": {
@@ -2115,6 +2370,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6976021769506",
     "brand": "ELEGOO",
     "color": "#FFC800",
@@ -2131,9 +2388,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0091",
-    "title": "Silk PLA - Gold"
+    "title": "Silk PLA - Gold",
+    "updated_at": 1792192996444
   },
   {
     "RFID_Data": {
@@ -2156,6 +2416,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E8EEF2",
@@ -2172,9 +2434,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Translucent",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0765",
-    "title": "PLA Basic - Translucent"
+    "title": "PLA Basic - Translucent",
+    "updated_at": 1792797993588
   },
   {
     "RFID_Data": {
@@ -2197,6 +2462,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7A3B2E",
@@ -2213,9 +2480,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rosewood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "GWCZ-EL-PLA-149",
-    "title": "PLA Wood - Rosewood"
+    "title": "PLA Wood - Rosewood",
+    "updated_at": 1792190729606
   },
   {
     "RFID_Data": {
@@ -2238,6 +2508,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -2254,9 +2526,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "GWCZ-EL-3DF-PE0776",
-    "title": "PETG Translucent - Grey"
+    "title": "PETG Translucent - Grey",
+    "updated_at": 1792190545607
   },
   {
     "RFID_Data": {
@@ -2279,6 +2554,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021764341",
     "brand": "ELEGOO",
     "color": "#BABABA",
@@ -2295,9 +2572,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0165",
-    "title": "Rapid PLA+ - Silver"
+    "title": "Rapid PLA+ - Silver",
+    "updated_at": 1792193127335
   },
   {
     "RFID_Data": {
@@ -2320,6 +2600,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0641",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -2336,9 +2618,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0641",
-    "title": "ABS - Black"
+    "title": "ABS - Black",
+    "updated_at": 1792192873260
   },
   {
     "RFID_Data": {
@@ -2364,6 +2649,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704908181",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -2381,9 +2668,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black Purple",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0466",
-    "title": "Silk PLA - Black Purple"
+    "title": "Silk PLA - Black Purple",
+    "updated_at": 1792192904839
   },
   {
     "RFID_Data": {
@@ -2406,6 +2696,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704900321",
     "brand": "ELEGOO",
     "color": "#919191",
@@ -2422,9 +2714,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "50.203.0573",
-    "title": "TPU 95A - Grey"
+    "title": "TPU 95A - Grey",
+    "updated_at": 1792193038373
   },
   {
     "RFID_Data": {
@@ -2447,6 +2742,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -2463,9 +2760,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Rapid TPU 95A",
     "sku": "GWCZ-EL-RTP-003",
-    "title": "Rapid TPU 95A - Red"
+    "title": "Rapid TPU 95A - Red",
+    "updated_at": 1792189034781
   },
   {
     "RFID_Data": {
@@ -2488,6 +2788,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F7D117",
@@ -2504,9 +2806,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA CMYK",
     "sku": "GWCZ-EL-3DF-PCM1104",
-    "title": "PLA CMYK - Yellow"
+    "title": "PLA CMYK - Yellow",
+    "updated_at": 1792189590983
   },
   {
     "RFID_Data": {
@@ -2529,6 +2834,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -2545,9 +2852,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "GWCZ-EL-3DF-PL1137",
-    "title": "PLA Translucent - Green"
+    "title": "PLA Translucent - Green",
+    "updated_at": 1792189506307
   },
   {
     "RFID_Data": {
@@ -2570,6 +2880,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -2586,9 +2898,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Glow",
     "sku": "GWCZ-EL-3DF-PLG0803",
-    "title": "PLA Glow - Green"
+    "title": "PLA Glow - Green",
+    "updated_at": 1792190398906
   },
   {
     "RFID_Data": {
@@ -2611,6 +2926,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0643",
     "brand": "ELEGOO",
     "color": "#FF0000",
@@ -2627,9 +2944,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0643",
-    "title": "ABS - Red"
+    "title": "ABS - Red",
+    "updated_at": 1792193109266
   },
   {
     "RFID_Data": {
@@ -2652,6 +2972,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -2668,9 +2990,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Sparkle",
     "sku": "GWCZ-EL-PLA-132",
-    "title": "PLA Sparkle - Black"
+    "title": "PLA Sparkle - Black",
+    "updated_at": 1792190842901
   },
   {
     "RFID_Data": {
@@ -2693,6 +3018,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -2709,9 +3036,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "GWCZ-EL-GGF-003",
-    "title": "PETG-GF - White"
+    "title": "PETG-GF - White",
+    "updated_at": 1792191513329
   },
   {
     "RFID_Data": {
@@ -2737,6 +3067,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1F6B3A",
@@ -2754,9 +3086,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Holly Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "GWCZ-EL-PLA-123",
-    "title": "Silk PLA - Holly Green"
+    "title": "Silk PLA - Holly Green",
+    "updated_at": 1792188778415
   },
   {
     "RFID_Data": {
@@ -2779,6 +3114,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -2795,9 +3132,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1089",
-    "title": "PETG HF - Red"
+    "title": "PETG HF - Red",
+    "updated_at": 1792189929127
   },
   {
     "RFID_Data": {
@@ -2820,6 +3160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0201",
     "brand": "ELEGOO",
     "color": "#0252F2",
@@ -2836,9 +3178,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0201",
-    "title": "PETG Pro - Blue"
+    "title": "PETG Pro - Blue",
+    "updated_at": 1792192928372
   },
   {
     "RFID_Data": {
@@ -2861,6 +3206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -2877,9 +3224,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "GWCZ-EL-EPC-002",
-    "title": "PC - White"
+    "title": "PC - White",
+    "updated_at": 1792191442102
   },
   {
     "RFID_Data": {
@@ -2902,6 +3252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E8EEF2",
@@ -2918,9 +3270,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Translucent",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-104N",
-    "title": "PLA - Translucent"
+    "title": "PLA - Translucent",
+    "updated_at": 1792798124569
   },
   {
     "RFID_Data": {
@@ -2943,6 +3298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E8EEF2",
@@ -2959,9 +3316,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Translucent",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-PP-104N",
-    "title": "PLA+ - Translucent"
+    "title": "PLA+ - Translucent",
+    "updated_at": 1792798124501
   },
   {
     "RFID_Data": {
@@ -2984,6 +3344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F4A6C0",
@@ -3000,9 +3362,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "GWCZ-EL-3DF-PE0779",
-    "title": "PETG Translucent - Pink"
+    "title": "PETG Translucent - Pink",
+    "updated_at": 1792190623930
   },
   {
     "RFID_Data": {
@@ -3025,6 +3390,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#B98A55",
@@ -3041,9 +3408,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Wood Color",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-PP-108",
-    "title": "PLA+ - Wood Color"
+    "title": "PLA+ - Wood Color",
+    "updated_at": 1792798132680
   },
   {
     "RFID_Data": {
@@ -3066,6 +3436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -3082,9 +3454,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0766",
-    "title": "PLA Basic - Green"
+    "title": "PLA Basic - Green",
+    "updated_at": 1792191355317
   },
   {
     "RFID_Data": {
@@ -3107,6 +3482,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6932704902356",
     "brand": "ELEGOO",
     "color": "#EEE5D3",
@@ -3123,9 +3500,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0260",
-    "title": "Matte PLA - Beige"
+    "title": "Matte PLA - Beige",
+    "updated_at": 1792192770679
   },
   {
     "RFID_Data": {
@@ -3148,6 +3528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F4A6C0",
@@ -3164,9 +3546,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Glow",
     "sku": "GWCZ-EL-3DF-PLG0806",
-    "title": "PLA Glow - Pink"
+    "title": "PLA Glow - Pink",
+    "updated_at": 1792190474907
   },
   {
     "RFID_Data": {
@@ -3189,6 +3574,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E6D6B0",
@@ -3205,9 +3592,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1096",
-    "title": "PETG HF - Beige"
+    "title": "PETG HF - Beige",
+    "updated_at": 1792190066620
   },
   {
     "RFID_Data": {
@@ -3230,6 +3620,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": "6932704900307",
     "brand": "ELEGOO",
     "color": "#F2F2F2",
@@ -3246,9 +3638,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Translucent",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "50.203.0569",
-    "title": "TPU 95A - Translucent"
+    "title": "TPU 95A - Translucent",
+    "updated_at": 1792798176259
   },
   {
     "RFID_Data": {
@@ -3271,6 +3666,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B4B2A",
@@ -3287,9 +3684,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-111",
-    "title": "PLA - Brown"
+    "title": "PLA - Brown",
+    "updated_at": 1792192500485
   },
   {
     "RFID_Data": {
@@ -3312,6 +3712,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E6D6B0",
@@ -3328,9 +3730,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-112",
-    "title": "PLA - Beige"
+    "title": "PLA - Beige",
+    "updated_at": 1792192493249
   },
   {
     "RFID_Data": {
@@ -3353,6 +3758,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704908501",
     "brand": "ELEGOO",
     "color": "#ADADAD",
@@ -3369,9 +3776,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Space Grey",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "50.203.0312",
-    "title": "Rapid PETG - Space Grey"
+    "title": "Rapid PETG - Space Grey",
+    "updated_at": 1792193149938
   },
   {
     "RFID_Data": {
@@ -3394,6 +3804,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704900314",
     "brand": "ELEGOO",
     "color": "#FF0000",
@@ -3410,9 +3822,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "50.203.0570",
-    "title": "TPU 95A - Red"
+    "title": "TPU 95A - Red",
+    "updated_at": 1792193106834
   },
   {
     "RFID_Data": {
@@ -3435,6 +3850,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#A9825C",
@@ -3451,9 +3868,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Brown",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1163",
-    "title": "PETG Glitter - Light Brown"
+    "title": "PETG Glitter - Light Brown",
+    "updated_at": 1792189751732
   },
   {
     "RFID_Data": {
@@ -3476,6 +3896,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#D6006E",
@@ -3492,9 +3914,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA CMYK",
     "sku": "GWCZ-EL-3DF-PCM1107",
-    "title": "PLA CMYK - Magenta"
+    "title": "PLA CMYK - Magenta",
+    "updated_at": 1792189660032
   },
   {
     "RFID_Data": {
@@ -3517,6 +3942,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B3FA0",
@@ -3533,9 +3960,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0754",
-    "title": "PLA Basic - Purple"
+    "title": "PLA Basic - Purple",
+    "updated_at": 1792191119167
   },
   {
     "RFID_Data": {
@@ -3558,6 +3988,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#5C3A21",
@@ -3574,9 +4006,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cocoa Brown",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0755",
-    "title": "PLA Basic - Cocoa Brown"
+    "title": "PLA Basic - Cocoa Brown",
+    "updated_at": 1792191107690
   },
   {
     "RFID_Data": {
@@ -3599,6 +4034,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704908259",
     "brand": "ELEGOO",
     "color": "#F0DFB2",
@@ -3615,9 +4052,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0314",
-    "title": "Rapid PLA+ - Beige"
+    "title": "Rapid PLA+ - Beige",
+    "updated_at": 1792192850759
   },
   {
     "RFID_Data": {
@@ -3640,6 +4080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704921012",
     "brand": "ELEGOO",
     "color": "#F8ABC2",
@@ -3656,9 +4098,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Peach Pink",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0787",
-    "title": "Silk PLA - Peach Pink"
+    "title": "Silk PLA - Peach Pink",
+    "updated_at": 1792193087771
   },
   {
     "RFID_Data": {
@@ -3681,6 +4126,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769810",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -3697,9 +4144,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "50.203.0567",
-    "title": "TPU 95A - Black"
+    "title": "TPU 95A - Black",
+    "updated_at": 1792192891784
   },
   {
     "RFID_Data": {
@@ -3722,6 +4172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F58220",
@@ -3738,9 +4190,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP08N",
-    "title": "PLA+ - Orange"
+    "title": "PLA+ - Orange",
+    "updated_at": 1792192020983
   },
   {
     "RFID_Data": {
@@ -3763,6 +4218,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0206",
     "brand": "ELEGOO",
     "color": "#B60AF5",
@@ -3779,9 +4236,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0206",
-    "title": "PETG Pro - Purple"
+    "title": "PETG Pro - Purple",
+    "updated_at": 1792193103437
   },
   {
     "RFID_Data": {
@@ -3804,6 +4264,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -3820,9 +4282,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1093",
-    "title": "PETG HF - Grey"
+    "title": "PETG HF - Grey",
+    "updated_at": 1792189901287
   },
   {
     "RFID_Data": {
@@ -3845,6 +4310,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E8B7A",
@@ -3861,9 +4328,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Sea Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-PP-102",
-    "title": "PLA+ - Sea Green"
+    "title": "PLA+ - Sea Green",
+    "updated_at": 1792192019761
   },
   {
     "RFID_Data": {
@@ -3886,6 +4356,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#D0DDAF",
@@ -3902,9 +4374,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0261",
-    "title": "Matte PLA - Mint Green"
+    "title": "Matte PLA - Mint Green",
+    "updated_at": 1792193061281
   },
   {
     "RFID_Data": {
@@ -3927,6 +4402,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0836",
     "brand": "ELEGOO",
     "color": "#F462C6",
@@ -3943,9 +4420,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0836",
-    "title": "ABS - Pink"
+    "title": "ABS - Pink",
+    "updated_at": 1792193091144
   },
   {
     "RFID_Data": {
@@ -3968,6 +4448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#30D5C8",
@@ -3984,9 +4466,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Turquoise",
     "product_type": "Filament",
+    "series": "PLA Sparkle",
     "sku": "GWCZ-EL-PLA-137",
-    "title": "PLA Sparkle - Turquoise"
+    "title": "PLA Sparkle - Turquoise",
+    "updated_at": 1792190954434
   },
   {
     "RFID_Data": {
@@ -4009,6 +4494,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704911808",
     "brand": "ELEGOO",
     "color": "#14C817",
@@ -4025,9 +4512,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "50.203.0220",
-    "title": "Rapid PETG - Green"
+    "title": "Rapid PETG - Green",
+    "updated_at": 1792193024340
   },
   {
     "RFID_Data": {
@@ -4050,6 +4540,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021764273",
     "brand": "ELEGOO",
     "color": "#FF9500",
@@ -4066,9 +4558,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0120",
-    "title": "Rapid PLA+ - Orange"
+    "title": "Rapid PLA+ - Orange",
+    "updated_at": 1792193075673
   },
   {
     "RFID_Data": {
@@ -4091,6 +4586,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -4107,9 +4604,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1158",
-    "title": "PETG Glitter - Blue"
+    "title": "PETG Glitter - Blue",
+    "updated_at": 1792189674816
   },
   {
     "RFID_Data": {
@@ -4135,6 +4635,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704908198",
     "brand": "ELEGOO",
     "color": "#050DFF",
@@ -4152,9 +4654,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0467",
-    "title": "Silk PLA - Blue Green"
+    "title": "Silk PLA - Blue Green",
+    "updated_at": 1792192933939
   },
   {
     "RFID_Data": {
@@ -4177,6 +4682,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769414",
     "brand": "ELEGOO",
     "color": "#CD0A13",
@@ -4193,9 +4700,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Burgundy Red",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0190",
-    "title": "PLA Pro - Burgundy Red"
+    "title": "PLA Pro - Burgundy Red",
+    "updated_at": 1792192979157
   },
   {
     "RFID_Data": {
@@ -4218,6 +4728,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E6D6B0",
@@ -4234,9 +4746,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0763",
-    "title": "PLA Basic - Beige"
+    "title": "PLA Basic - Beige",
+    "updated_at": 1792191276177
   },
   {
     "RFID_Data": {
@@ -4259,6 +4774,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#5A5D63",
@@ -4275,9 +4792,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Space Grey",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-107",
-    "title": "PLA - Space Grey"
+    "title": "PLA - Space Grey",
+    "updated_at": 1792192440455
   },
   {
     "RFID_Data": {
@@ -4303,6 +4823,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704921005",
     "brand": "ELEGOO",
     "color": "#A130FD",
@@ -4320,9 +4842,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bluish Purple",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0749",
-    "title": "Silk PLA - Bluish Purple"
+    "title": "Silk PLA - Bluish Purple",
+    "updated_at": 1792192965565
   },
   {
     "RFID_Data": {
@@ -4345,6 +4870,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0642",
     "brand": "ELEGOO",
     "color": "#FFFFFF",
@@ -4361,9 +4888,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0642",
-    "title": "ABS - White"
+    "title": "ABS - White",
+    "updated_at": 1792193180367
   },
   {
     "RFID_Data": {
@@ -4386,6 +4916,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -4402,9 +4934,12 @@
     "info3": false,
     "material": "PAHT-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PAHT-CF",
     "sku": "GWCZ-EL-TCF-001",
-    "title": "PAHT-CF - Black"
+    "title": "PAHT-CF - Black",
+    "updated_at": 1792191528392
   },
   {
     "RFID_Data": {
@@ -4427,6 +4962,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B3FA0",
@@ -4443,9 +4980,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple Pink",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1165",
-    "title": "PETG Glitter - Purple Pink"
+    "title": "PETG Glitter - Purple Pink",
+    "updated_at": 1792189826634
   },
   {
     "RFID_Data": {
@@ -4468,6 +5008,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -4484,9 +5026,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "GWCZ-EL-EPC-001",
-    "title": "PC - Black"
+    "title": "PC - Black",
+    "updated_at": 1792191429894
   },
   {
     "RFID_Data": {
@@ -4509,6 +5054,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -4525,9 +5072,12 @@
     "info3": false,
     "material": "PET-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PET-CF",
     "sku": "GWCZ-EL-3DF-PETC0807",
-    "title": "PET-CF - Black"
+    "title": "PET-CF - Black",
+    "updated_at": 1792190396191
   },
   {
     "RFID_Data": {
@@ -4550,6 +5100,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -4566,9 +5118,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "GWCZ-EL-3DF-AS0739",
-    "title": "ASA - Red"
+    "title": "ASA - Red",
+    "updated_at": 1792191831965
   },
   {
     "RFID_Data": {
@@ -4594,6 +5149,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "16212061",
     "brand": "ELEGOO",
     "color": "#1EFF00",
@@ -4611,9 +5168,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green Red",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0090",
-    "title": "Silk PLA - Green Red"
+    "title": "Silk PLA - Green Red",
+    "updated_at": 1792193027757
   },
   {
     "RFID_Data": {
@@ -4636,6 +5196,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F8C8DC",
@@ -4652,9 +5214,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Pink",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1161",
-    "title": "PETG Glitter - Light Pink"
+    "title": "PETG Glitter - Light Pink",
+    "updated_at": 1792189738528
   },
   {
     "RFID_Data": {
@@ -4677,6 +5242,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E8EEF2",
@@ -4693,9 +5260,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Clear Black",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "GWCZ-EL-EPC-003",
-    "title": "PC - Clear Black"
+    "title": "PC - Clear Black",
+    "updated_at": 1792191433029
   },
   {
     "RFID_Data": {
@@ -4718,6 +5288,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "28809821",
     "brand": "ELEGOO",
     "color": "#0019D6",
@@ -4734,9 +5306,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0253",
-    "title": "Matte PLA - Navy Blue"
+    "title": "Matte PLA - Navy Blue",
+    "updated_at": 1792193063765
   },
   {
     "RFID_Data": {
@@ -4759,6 +5334,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704921111",
     "brand": "ELEGOO",
     "color": "#E660B5",
@@ -4775,9 +5352,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Hot Pink",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0791",
-    "title": "PLA Pro - Hot Pink"
+    "title": "PLA Pro - Hot Pink",
+    "updated_at": 1792193044887
   },
   {
     "RFID_Data": {
@@ -4800,6 +5380,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -4816,9 +5398,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "GWCZ-EL-GGF-001",
-    "title": "PETG-GF - Black"
+    "title": "PETG-GF - Black",
+    "updated_at": 1792191513715
   },
   {
     "RFID_Data": {
@@ -4841,6 +5426,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -4857,9 +5444,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1090",
-    "title": "PETG HF - Blue"
+    "title": "PETG HF - Blue",
+    "updated_at": 1792189963229
   },
   {
     "RFID_Data": {
@@ -4882,6 +5472,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -4898,9 +5490,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "GWCZ-EL-3DF-ASC1099",
-    "title": "ASA-CF - Grey"
+    "title": "ASA-CF - Grey",
+    "updated_at": 1792190145720
   },
   {
     "RFID_Data": {
@@ -4923,6 +5518,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#9DB7CC",
@@ -4939,9 +5536,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Misty Blue",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0767",
-    "title": "PLA Basic - Misty Blue"
+    "title": "PLA Basic - Misty Blue",
+    "updated_at": 1792191356384
   },
   {
     "RFID_Data": {
@@ -4964,6 +5564,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -4980,9 +5582,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "GWCZ-EL-3DF-PCF0965",
-    "title": "PLA-CF - Red"
+    "title": "PLA-CF - Red",
+    "updated_at": 1792191595944
   },
   {
     "RFID_Data": {
@@ -5005,6 +5610,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -5021,9 +5628,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0750",
-    "title": "PLA Basic - Black"
+    "title": "PLA Basic - Black",
+    "updated_at": 1792191027332
   },
   {
     "RFID_Data": {
@@ -5046,6 +5656,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#6B8E23",
@@ -5062,9 +5674,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1166",
-    "title": "PETG Glitter - Olive Green"
+    "title": "PETG Glitter - Olive Green",
+    "updated_at": 1792189827595
   },
   {
     "RFID_Data": {
@@ -5087,6 +5702,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F7D117",
@@ -5103,9 +5720,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "GWCZ-EL-3DF-PL1135",
-    "title": "PLA Translucent - Yellow"
+    "title": "PLA Translucent - Yellow",
+    "updated_at": 1792189431599
   },
   {
     "RFID_Data": {
@@ -5128,6 +5748,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F2F6FA",
@@ -5144,9 +5766,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crystal White",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "GWCZ-EL-3DF-PL1132",
-    "title": "PLA Translucent - Crystal White"
+    "title": "PLA Translucent - Crystal White",
+    "updated_at": 1792189428607
   },
   {
     "RFID_Data": {
@@ -5169,6 +5794,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#5C4033",
@@ -5185,9 +5812,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Walnut Wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "GWCZ-EL-PLA-148",
-    "title": "PLA Wood - Walnut Wood"
+    "title": "PLA Wood - Walnut Wood",
+    "updated_at": 1792190700209
   },
   {
     "RFID_Data": {
@@ -5210,6 +5840,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F7D117",
@@ -5226,9 +5858,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP07",
-    "title": "PLA+ - Yellow"
+    "title": "PLA+ - Yellow",
+    "updated_at": 1792191929164
   },
   {
     "RFID_Data": {
@@ -5251,6 +5886,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0645",
     "brand": "ELEGOO",
     "color": "#6446FB",
@@ -5267,9 +5904,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0645",
-    "title": "ABS - Blue"
+    "title": "ABS - Blue",
+    "updated_at": 1792192928136
   },
   {
     "RFID_Data": {
@@ -5292,6 +5932,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704903483",
     "brand": "ELEGOO",
     "color": "#001EFF",
@@ -5308,9 +5950,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "50.203.0571",
-    "title": "TPU 95A - Blue"
+    "title": "TPU 95A - Blue",
+    "updated_at": 1792192928043
   },
   {
     "RFID_Data": {
@@ -5333,6 +5978,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#B5B035",
@@ -5349,9 +5996,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Olive Yellow",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1167",
-    "title": "PETG Glitter - Olive Yellow"
+    "title": "PETG Glitter - Olive Yellow",
+    "updated_at": 1792189838191
   },
   {
     "RFID_Data": {
@@ -5374,6 +6024,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -5390,9 +6042,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU 72D",
     "sku": "GWCZ-EL-3DF-T71150",
-    "title": "TPU 72D - Red"
+    "title": "TPU 72D - Red",
+    "updated_at": 1792190320931
   },
   {
     "RFID_Data": {
@@ -5415,6 +6070,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#6B8E23",
@@ -5431,9 +6088,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "GWCZ-EL-3DF-PE0777",
-    "title": "PETG Translucent - Olive Green"
+    "title": "PETG Translucent - Olive Green",
+    "updated_at": 1792190572112
   },
   {
     "RFID_Data": {
@@ -5456,6 +6116,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B4B2A",
@@ -5472,9 +6134,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1095",
-    "title": "PETG HF - Brown"
+    "title": "PETG HF - Brown",
+    "updated_at": 1792190051734
   },
   {
     "RFID_Data": {
@@ -5497,6 +6162,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -5513,9 +6180,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-3D-P06",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1792192276973
   },
   {
     "RFID_Data": {
@@ -5538,6 +6208,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -5554,9 +6226,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1088",
-    "title": "PETG HF - White"
+    "title": "PETG HF - White",
+    "updated_at": 1792189908904
   },
   {
     "RFID_Data": {
@@ -5579,6 +6254,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021764266",
     "brand": "ELEGOO",
     "color": "#FFFFFF",
@@ -5595,9 +6272,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0115",
-    "title": "Rapid PLA+ - White"
+    "title": "Rapid PLA+ - White",
+    "updated_at": 1792193176157
   },
   {
     "RFID_Data": {
@@ -5620,6 +6300,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0200",
     "brand": "ELEGOO",
     "color": "#96363E",
@@ -5636,9 +6318,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Burgundy Red",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0200",
-    "title": "PETG Pro - Burgundy Red"
+    "title": "PETG Pro - Burgundy Red",
+    "updated_at": 1792192977370
   },
   {
     "RFID_Data": {
@@ -5661,6 +6346,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -5677,9 +6364,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "GWCZ-EL-3DF-P0742",
-    "title": "PLA Metallic - Blue"
+    "title": "PLA Metallic - Blue",
+    "updated_at": 1792190861785
   },
   {
     "RFID_Data": {
@@ -5702,6 +6392,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -5718,9 +6410,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "GWCZ-EL-3DF-ASC1100",
-    "title": "ASA-CF - Red"
+    "title": "ASA-CF - Red",
+    "updated_at": 1792190143882
   },
   {
     "RFID_Data": {
@@ -5743,6 +6438,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "97241693",
     "brand": "ELEGOO",
     "color": "#B0B0B0",
@@ -5759,9 +6456,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0116",
-    "title": "Rapid PLA+ - Grey"
+    "title": "Rapid PLA+ - Grey",
+    "updated_at": 1792193035938
   },
   {
     "RFID_Data": {
@@ -5784,6 +6484,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F58220",
@@ -5800,9 +6502,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-PLB0809",
-    "title": "PLA Basic - Orange"
+    "title": "PLA Basic - Orange",
+    "updated_at": 1792191367778
   },
   {
     "RFID_Data": {
@@ -5825,6 +6530,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F4A6C0",
@@ -5841,9 +6548,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "GWCZ-EL-GRO-111",
-    "title": "PETG Pro - Pink"
+    "title": "PETG Pro - Pink",
+    "updated_at": 1792188921587
   },
   {
     "RFID_Data": {
@@ -5866,6 +6576,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -5882,9 +6594,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "GWCZ-EL-3DF-ASC0987",
-    "title": "ASA-CF - Black"
+    "title": "ASA-CF - Black",
+    "updated_at": 1792190129706
   },
   {
     "RFID_Data": {
@@ -5910,6 +6625,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -5927,9 +6644,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue Purple Black",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "GWCZ-EL-PLA-120",
-    "title": "Silk PLA - Blue Purple Black"
+    "title": "Silk PLA - Blue Purple Black",
+    "updated_at": 1792188840431
   },
   {
     "RFID_Data": {
@@ -5952,6 +6672,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F7D117",
@@ -5968,9 +6690,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Glow",
     "sku": "GWCZ-EL-3DF-PLG0804",
-    "title": "PLA Glow - Yellow"
+    "title": "PLA Glow - Yellow",
+    "updated_at": 1792190433403
   },
   {
     "RFID_Data": {
@@ -5993,6 +6718,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A7F8D",
@@ -6009,9 +6736,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purplish Grey",
     "product_type": "Filament",
+    "series": "PLA Sparkle",
     "sku": "GWCZ-EL-PLA-138",
-    "title": "PLA Sparkle - Purplish Grey"
+    "title": "PLA Sparkle - Purplish Grey",
+    "updated_at": 1792191038897
   },
   {
     "RFID_Data": {
@@ -6037,6 +6767,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F7D117",
@@ -6054,9 +6786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow Purple",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "GWCZ-EL-3DF-P0706",
-    "title": "Silk PLA - Yellow Purple"
+    "title": "Silk PLA - Yellow Purple",
+    "updated_at": 1792188836326
   },
   {
     "RFID_Data": {
@@ -6079,6 +6814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B3FA0",
@@ -6095,9 +6832,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-PP-106",
-    "title": "PLA+ - Purple"
+    "title": "PLA+ - Purple",
+    "updated_at": 1792192091983
   },
   {
     "RFID_Data": {
@@ -6120,6 +6860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -6136,9 +6878,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1087",
-    "title": "PETG HF - Black"
+    "title": "PETG HF - Black",
+    "updated_at": 1792189893187
   },
   {
     "RFID_Data": {
@@ -6161,6 +6906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -6177,9 +6924,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP02",
-    "title": "PLA+ - White"
+    "title": "PLA+ - White",
+    "updated_at": 1792191850026
   },
   {
     "RFID_Data": {
@@ -6202,6 +6952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -6218,9 +6970,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU 72D",
     "sku": "GWCZ-EL-3DF-T71148",
-    "title": "TPU 72D - White"
+    "title": "TPU 72D - White",
+    "updated_at": 1792190222162
   },
   {
     "RFID_Data": {
@@ -6243,6 +6998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E97A3D",
@@ -6259,9 +7016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0263",
-    "title": "Matte PLA - Orange"
+    "title": "Matte PLA - Orange",
+    "updated_at": 1792193078748
   },
   {
     "RFID_Data": {
@@ -6284,6 +7044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E8EEF2",
@@ -6300,9 +7062,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1097",
-    "title": "PETG HF - Transparent"
+    "title": "PETG HF - Transparent",
+    "updated_at": 1792799220097
   },
   {
     "RFID_Data": {
@@ -6325,6 +7090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1B2A6B",
@@ -6341,9 +7108,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP05N",
-    "title": "PLA+ - Dark Blue"
+    "title": "PLA+ - Dark Blue",
+    "updated_at": 1792191938646
   },
   {
     "RFID_Data": {
@@ -6366,6 +7136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0449",
     "brand": "ELEGOO",
     "color": "#317010",
@@ -6382,9 +7154,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0449",
-    "title": "PETG Pro - Olive Green"
+    "title": "PETG Pro - Olive Green",
+    "updated_at": 1792193072662
   },
   {
     "RFID_Data": {
@@ -6407,6 +7182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -6423,9 +7200,12 @@
     "info3": false,
     "material": "PPS-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PPS-CF",
     "sku": "GWCZ-EL-3DF-PPSC1156",
-    "title": "PPS-CF - Black"
+    "title": "PPS-CF - Black",
+    "updated_at": 1792192571874
   },
   {
     "RFID_Data": {
@@ -6448,6 +7228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": "6932704921104",
     "brand": "ELEGOO",
     "color": "#61F57E",
@@ -6464,9 +7246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0790",
-    "title": "PLA Pro - Neon Green"
+    "title": "PLA Pro - Neon Green",
+    "updated_at": 1792799235599
   },
   {
     "RFID_Data": {
@@ -6489,6 +7274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -6505,9 +7292,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1091",
-    "title": "PETG HF - Green"
+    "title": "PETG HF - Green",
+    "updated_at": 1792190002200
   },
   {
     "RFID_Data": {
@@ -6530,6 +7320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F0328C",
@@ -6546,9 +7338,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Hot Pink",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0756",
-    "title": "PLA Basic - Hot Pink"
+    "title": "PLA Basic - Hot Pink",
+    "updated_at": 1792191117203
   },
   {
     "RFID_Data": {
@@ -6571,6 +7366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769438",
     "brand": "ELEGOO",
     "color": "#FAE500",
@@ -6587,9 +7384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0194",
-    "title": "PLA Pro - Yellow"
+    "title": "PLA Pro - Yellow",
+    "updated_at": 1792193186045
   },
   {
     "RFID_Data": {
@@ -6612,6 +7412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B3FA0",
@@ -6628,9 +7430,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "GWCZ-EL-3DF-PCF0968",
-    "title": "PLA-CF - Purple"
+    "title": "PLA-CF - Purple",
+    "updated_at": 1792191678336
   },
   {
     "RFID_Data": {
@@ -6653,6 +7458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F58220",
@@ -6669,9 +7476,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Glow",
     "sku": "GWCZ-EL-3DF-PLG0805",
-    "title": "PLA Glow - Orange"
+    "title": "PLA Glow - Orange",
+    "updated_at": 1792190468481
   },
   {
     "RFID_Data": {
@@ -6694,6 +7504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#C8244B",
@@ -6710,9 +7522,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rose Red",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "GWCZ-EL-3DF-PL1140",
-    "title": "PLA Translucent - Rose Red"
+    "title": "PLA Translucent - Rose Red",
+    "updated_at": 1792189574240
   },
   {
     "RFID_Data": {
@@ -6735,6 +7550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -6751,9 +7568,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "ASA Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "GWCZ-EL-3DF-AS0733B",
-    "title": "ASA - ASA Green"
+    "title": "ASA - ASA Green",
+    "updated_at": 1792191754362
   },
   {
     "RFID_Data": {
@@ -6776,6 +7596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#B98A55",
@@ -6792,9 +7614,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wood filled",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "GWCZ-EL-PLA-124",
-    "title": "PLA Wood - Wood filled"
+    "title": "PLA Wood - Wood filled",
+    "updated_at": 1792190696608
   },
   {
     "RFID_Data": {
@@ -6817,6 +7642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8DC63F",
@@ -6833,9 +7660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apple Green",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0759",
-    "title": "PLA Basic - Apple Green"
+    "title": "PLA Basic - Apple Green",
+    "updated_at": 1792191201889
   },
   {
     "RFID_Data": {
@@ -6858,6 +7688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F7D117",
@@ -6874,9 +7706,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0752",
-    "title": "PLA Basic - Yellow"
+    "title": "PLA Basic - Yellow",
+    "updated_at": 1792191035828
   },
   {
     "RFID_Data": {
@@ -6899,6 +7734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704911792",
     "brand": "ELEGOO",
     "color": "#FBFF00",
@@ -6915,9 +7752,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "50.203.0221",
-    "title": "Rapid PETG - Yellow"
+    "title": "Rapid PETG - Yellow",
+    "updated_at": 1792193203767
   },
   {
     "RFID_Data": {
@@ -6940,6 +7780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -6956,9 +7798,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "GWCZ-EL-3DF-PCF0964",
-    "title": "PLA-CF - Grey"
+    "title": "PLA-CF - Grey",
+    "updated_at": 1792191594630
   },
   {
     "RFID_Data": {
@@ -6981,6 +7826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769469",
     "brand": "ELEGOO",
     "color": "#18C93B",
@@ -6997,9 +7844,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0193",
-    "title": "PLA Pro - Green"
+    "title": "PLA Pro - Green",
+    "updated_at": 1792193023958
   },
   {
     "RFID_Data": {
@@ -7022,6 +7872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#B9A0DA",
@@ -7038,9 +7890,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Purple",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "GWCZ-EL-3DF-PL1139",
-    "title": "PLA Translucent - Light Purple"
+    "title": "PLA Translucent - Light Purple",
+    "updated_at": 1792189518695
   },
   {
     "RFID_Data": {
@@ -7063,6 +7918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -7079,9 +7936,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Glow",
     "sku": "GWCZ-EL-3DF-PLG0802",
-    "title": "PLA Glow - Blue"
+    "title": "PLA Glow - Blue",
+    "updated_at": 1792190396095
   },
   {
     "RFID_Data": {
@@ -7104,6 +7964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769452",
     "brand": "ELEGOO",
     "color": "#1537E0",
@@ -7120,9 +7982,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0191",
-    "title": "PLA Pro - Blue"
+    "title": "PLA Pro - Blue",
+    "updated_at": 1792192933662
   },
   {
     "RFID_Data": {
@@ -7145,6 +8010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#A9825C",
@@ -7161,9 +8028,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Brown",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "GWCZ-EL-PLA-147",
-    "title": "PLA Wood - Light Brown"
+    "title": "PLA Wood - Light Brown",
+    "updated_at": 1792190698193
   },
   {
     "RFID_Data": {
@@ -7186,6 +8056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "01019741",
     "brand": "ELEGOO",
     "color": "#FF0000",
@@ -7202,9 +8074,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0119",
-    "title": "Rapid PLA+ - Red"
+    "title": "Rapid PLA+ - Red",
+    "updated_at": 1792193118551
   },
   {
     "RFID_Data": {
@@ -7227,6 +8102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "50.203.0831",
     "brand": "ELEGOO",
     "color": "#007533",
@@ -7243,9 +8120,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "50.203.0831",
-    "title": "PETG-CF - Green"
+    "title": "PETG-CF - Green",
+    "updated_at": 1792193009878
   },
   {
     "RFID_Data": {
@@ -7268,6 +8148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -7284,9 +8166,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "GWCZ-EL-3DF-PCF0967",
-    "title": "PLA-CF - Green"
+    "title": "PLA-CF - Green",
+    "updated_at": 1792191680738
   },
   {
     "RFID_Data": {
@@ -7309,6 +8194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -7325,9 +8212,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA CMYK",
     "sku": "GWCZ-EL-3DF-PCM1105",
-    "title": "PLA CMYK - White"
+    "title": "PLA CMYK - White",
+    "updated_at": 1792189588910
   },
   {
     "RFID_Data": {
@@ -7350,6 +8240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "50.203.0829",
     "brand": "ELEGOO",
     "color": "#D64343",
@@ -7366,9 +8258,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "50.203.0829",
-    "title": "PETG-CF - Red"
+    "title": "PETG-CF - Red",
+    "updated_at": 1792193109260
   },
   {
     "RFID_Data": {
@@ -7391,6 +8286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F7D117",
@@ -7407,9 +8304,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1092",
-    "title": "PETG HF - Yellow"
+    "title": "PETG HF - Yellow",
+    "updated_at": 1792189980011
   },
   {
     "RFID_Data": {
@@ -7432,6 +8332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769698",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -7448,9 +8350,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0198",
-    "title": "PETG Pro - Black"
+    "title": "PETG Pro - Black",
+    "updated_at": 1792192878155
   },
   {
     "RFID_Data": {
@@ -7473,6 +8378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#CD7F32",
@@ -7489,9 +8396,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "GWCZ-EL-3DF-P0741",
-    "title": "PLA Metallic - Bronze"
+    "title": "PLA Metallic - Bronze",
+    "updated_at": 1792190802822
   },
   {
     "RFID_Data": {
@@ -7517,6 +8427,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704921067",
     "brand": "ELEGOO",
     "color": "#050DFF",
@@ -7534,9 +8446,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue Magenta",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0663",
-    "title": "Silk PLA - Blue Magenta"
+    "title": "Silk PLA - Blue Magenta",
+    "updated_at": 1792192951259
   },
   {
     "RFID_Data": {
@@ -7559,6 +8474,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704911846",
     "brand": "ELEGOO",
     "color": "#949494",
@@ -7575,9 +8492,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "50.203.0222",
-    "title": "Rapid PETG - Grey"
+    "title": "Rapid PETG - Grey",
+    "updated_at": 1792193029185
   },
   {
     "RFID_Data": {
@@ -7600,6 +8520,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -7616,9 +8538,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1157",
-    "title": "PETG Glitter - Black"
+    "title": "PETG Glitter - Black",
+    "updated_at": 1792189665708
   },
   {
     "RFID_Data": {
@@ -7641,6 +8566,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -7657,9 +8584,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "GWCZ-EL-GCF-002",
-    "title": "PETG-CF - Grey"
+    "title": "PETG-CF - Grey",
+    "updated_at": 1792188847794
   },
   {
     "RFID_Data": {
@@ -7682,6 +8612,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0833",
     "brand": "ELEGOO",
     "color": "#FAD900",
@@ -7698,9 +8630,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0833",
-    "title": "ABS - Yellow"
+    "title": "ABS - Yellow",
+    "updated_at": 1792193188661
   },
   {
     "RFID_Data": {
@@ -7723,6 +8658,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#5A5D63",
@@ -7739,9 +8676,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Space Grey",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-PP-103",
-    "title": "PLA+ - Space Grey"
+    "title": "PLA+ - Space Grey",
+    "updated_at": 1792192027438
   },
   {
     "RFID_Data": {
@@ -7764,6 +8704,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704911839",
     "brand": "ELEGOO",
     "color": "#FFFFFF",
@@ -7780,9 +8722,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "50.203.0217",
-    "title": "Rapid PETG - White"
+    "title": "Rapid PETG - White",
+    "updated_at": 1792193174841
   },
   {
     "RFID_Data": {
@@ -7805,6 +8750,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -7821,9 +8768,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Sparkle",
     "sku": "GWCZ-EL-PLA-134",
-    "title": "PLA Sparkle - Green"
+    "title": "PLA Sparkle - Green",
+    "updated_at": 1792190938182
   },
   {
     "RFID_Data": {
@@ -7846,6 +8796,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0646",
     "brand": "ELEGOO",
     "color": "#FF9500",
@@ -7862,9 +8814,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0646",
-    "title": "ABS - Orange"
+    "title": "ABS - Orange",
+    "updated_at": 1792193081586
   },
   {
     "RFID_Data": {
@@ -7890,6 +8845,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#A9ADB2",
@@ -7907,9 +8864,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver Grey",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "GWCZ-EL-3D-S03N",
-    "title": "Silk PLA - Silver Grey"
+    "title": "Silk PLA - Silver Grey",
+    "updated_at": 1792188701836
   },
   {
     "RFID_Data": {
@@ -7932,6 +8892,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8B5A2B",
@@ -7948,9 +8910,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Medium Brown",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "GWCZ-EL-PLA-151",
-    "title": "PLA Wood - Medium Brown"
+    "title": "PLA Wood - Medium Brown",
+    "updated_at": 1792190777193
   },
   {
     "RFID_Data": {
@@ -7973,6 +8938,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0847",
     "brand": "ELEGOO",
     "color": "#41B602",
@@ -7989,9 +8956,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0847",
-    "title": "ABS - Olive Green"
+    "title": "ABS - Olive Green",
+    "updated_at": 1792193072670
   },
   {
     "RFID_Data": {
@@ -8014,6 +8984,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -8030,9 +9002,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "GWCZ-EL-3DF-PL1134",
-    "title": "PLA Translucent - Red"
+    "title": "PLA Translucent - Red",
+    "updated_at": 1792189446300
   },
   {
     "RFID_Data": {
@@ -8055,6 +9030,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -8071,9 +9048,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 72D",
     "sku": "GWCZ-EL-3DF-T71147",
-    "title": "TPU 72D - Black"
+    "title": "TPU 72D - Black",
+    "updated_at": 1792190219178
   },
   {
     "RFID_Data": {
@@ -8096,6 +9076,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8FCBEF",
@@ -8112,9 +9094,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "GWCZ-EL-3DF-PL1136",
-    "title": "PLA Translucent - Light Blue"
+    "title": "PLA Translucent - Light Blue",
+    "updated_at": 1792189502077
   },
   {
     "RFID_Data": {
@@ -8137,6 +9122,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -8153,9 +9140,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP03",
-    "title": "PLA+ - Grey"
+    "title": "PLA+ - Grey",
+    "updated_at": 1792191848778
   },
   {
     "RFID_Data": {
@@ -8178,6 +9168,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -8194,9 +9186,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "GWCZ-EL-3DF-AS0738",
-    "title": "ASA - Grey"
+    "title": "ASA - Grey",
+    "updated_at": 1792191770389
   },
   {
     "RFID_Data": {
@@ -8219,6 +9214,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B3FA0",
@@ -8235,9 +9232,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-103",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1792192358845
   },
   {
     "RFID_Data": {
@@ -8260,6 +9260,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0264",
     "brand": "ELEGOO",
     "color": "#FF0015",
@@ -8276,9 +9278,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0264",
-    "title": "PETG Pro - Red"
+    "title": "PETG Pro - Red",
+    "updated_at": 1792193115977
   },
   {
     "RFID_Data": {
@@ -8301,6 +9306,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "50.203.0634",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -8317,9 +9324,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "50.203.0634",
-    "title": "PETG-CF - Black"
+    "title": "PETG-CF - Black",
+    "updated_at": 1792192904779
   },
   {
     "RFID_Data": {
@@ -8342,6 +9352,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F58220",
@@ -8358,9 +9370,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1094",
-    "title": "PETG HF - Orange"
+    "title": "PETG HF - Orange",
+    "updated_at": 1792190001130
   },
   {
     "RFID_Data": {
@@ -8383,6 +9398,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#FFBF00",
@@ -8399,9 +9416,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Amber",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "GWCZ-EL-3DF-PE0778",
-    "title": "PETG Translucent - Amber"
+    "title": "PETG Translucent - Amber",
+    "updated_at": 1792190630089
   },
   {
     "RFID_Data": {
@@ -8424,6 +9444,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -8440,9 +9462,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "GWCZ-EL-3DF-AS0709B",
-    "title": "ASA - White"
+    "title": "ASA - White",
+    "updated_at": 1792191767881
   },
   {
     "RFID_Data": {
@@ -8465,6 +9490,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704911822",
     "brand": "ELEGOO",
     "color": "#FFAE00",
@@ -8481,9 +9508,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "50.203.0223",
-    "title": "Rapid PETG - Orange"
+    "title": "Rapid PETG - Orange",
+    "updated_at": 1792193081583
   },
   {
     "RFID_Data": {
@@ -8506,6 +9536,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#D4AF37",
@@ -8522,9 +9554,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Metallic",
     "sku": "GWCZ-EL-3DF-P0740",
-    "title": "PLA Metallic - Gold"
+    "title": "PLA Metallic - Gold",
+    "updated_at": 1792190774010
   },
   {
     "RFID_Data": {
@@ -8547,6 +9582,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021764280",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -8563,9 +9600,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0114",
-    "title": "Rapid PLA+ - Black"
+    "title": "Rapid PLA+ - Black",
+    "updated_at": 1792192872538
   },
   {
     "RFID_Data": {
@@ -8588,6 +9628,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#D4AF37",
@@ -8604,9 +9646,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Sparkle",
     "sku": "GWCZ-EL-PLA-133",
-    "title": "PLA Sparkle - Gold"
+    "title": "PLA Sparkle - Gold",
+    "updated_at": 1792190874512
   },
   {
     "RFID_Data": {
@@ -8632,6 +9677,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6976021769537",
     "brand": "ELEGOO",
     "color": "#0091FF",
@@ -8649,9 +9696,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue Purple",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0284",
-    "title": "Silk PLA - Blue Purple"
+    "title": "Silk PLA - Blue Purple",
+    "updated_at": 1792192951147
   },
   {
     "RFID_Data": {
@@ -8674,6 +9724,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1B2A6B",
@@ -8690,9 +9742,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-3D-P05N",
-    "title": "PLA - Dark Blue"
+    "title": "PLA - Dark Blue",
+    "updated_at": 1792192270659
   },
   {
     "RFID_Data": {
@@ -8715,6 +9770,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769667",
     "brand": "ELEGOO",
     "color": "#FFFFFF",
@@ -8731,9 +9788,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0199",
-    "title": "PETG Pro - White"
+    "title": "PETG Pro - White",
+    "updated_at": 1792193159549
   },
   {
     "RFID_Data": {
@@ -8756,6 +9816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1BB3A0",
@@ -8772,9 +9834,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Turquoise Green",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0760",
-    "title": "PLA Basic - Turquoise Green"
+    "title": "PLA Basic - Turquoise Green",
+    "updated_at": 1792191204313
   },
   {
     "RFID_Data": {
@@ -8797,6 +9862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#00B4D8",
@@ -8813,9 +9880,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0753",
-    "title": "PLA Basic - Cyan"
+    "title": "PLA Basic - Cyan",
+    "updated_at": 1792191120395
   },
   {
     "RFID_Data": {
@@ -8838,6 +9908,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704921036",
     "brand": "ELEGOO",
     "color": "#FF0000",
@@ -8854,9 +9926,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "True Red",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0769",
-    "title": "Silk PLA - True Red"
+    "title": "Silk PLA - True Red",
+    "updated_at": 1792193156378
   },
   {
     "RFID_Data": {
@@ -8879,6 +9954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E8EEF2",
@@ -8895,9 +9972,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PC",
     "sku": "GWCZ-EL-EPC-004",
-    "title": "PC - Transparent"
+    "title": "PC - Transparent",
+    "updated_at": 1792799764678
   },
   {
     "RFID_Data": {
@@ -8920,6 +10000,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A8A86",
@@ -8936,9 +10018,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Teal Green",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1164",
-    "title": "PETG Glitter - Teal Green"
+    "title": "PETG Glitter - Teal Green",
+    "updated_at": 1792189824197
   },
   {
     "RFID_Data": {
@@ -8961,6 +10046,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#785239",
@@ -8977,9 +10064,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Earth Brown",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0262",
-    "title": "Matte PLA - Earth Brown"
+    "title": "Matte PLA - Earth Brown",
+    "updated_at": 1792192983977
   },
   {
     "RFID_Data": {
@@ -9002,6 +10092,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "50.203.0830",
     "brand": "ELEGOO",
     "color": "#614DFF",
@@ -9018,9 +10110,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "50.203.0830",
-    "title": "PETG-CF - Blue"
+    "title": "PETG-CF - Blue",
+    "updated_at": 1792192940778
   },
   {
     "RFID_Data": {
@@ -9043,6 +10138,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B4B2A",
@@ -9059,9 +10156,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-PP-109",
-    "title": "PLA+ - Brown"
+    "title": "PLA+ - Brown",
+    "updated_at": 1792192175568
   },
   {
     "RFID_Data": {
@@ -9084,6 +10184,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#BDBDBD",
@@ -9100,9 +10202,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "GWCZ-EL-3DF-PL1133",
-    "title": "PLA Translucent - Light Grey"
+    "title": "PLA Translucent - Light Grey",
+    "updated_at": 1792189439700
   },
   {
     "RFID_Data": {
@@ -9125,6 +10230,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6976021764372",
     "brand": "ELEGOO",
     "color": "#FFFFFF",
@@ -9141,9 +10248,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0251",
-    "title": "Matte PLA - White"
+    "title": "Matte PLA - White",
+    "updated_at": 1792193190196
   },
   {
     "RFID_Data": {
@@ -9166,6 +10276,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#8A8A8A",
@@ -9182,9 +10294,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "TPU 72D",
     "sku": "GWCZ-EL-3DF-T71149",
-    "title": "TPU 72D - Grey"
+    "title": "TPU 72D - Grey",
+    "updated_at": 1792190282492
   },
   {
     "RFID_Data": {
@@ -9207,6 +10322,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0204",
     "brand": "ELEGOO",
     "color": "#FFF81F",
@@ -9223,9 +10340,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0204",
-    "title": "PETG Pro - Yellow"
+    "title": "PETG Pro - Yellow",
+    "updated_at": 1792193198866
   },
   {
     "RFID_Data": {
@@ -9248,6 +10368,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704902387",
     "brand": "ELEGOO",
     "color": "#E6E6E6",
@@ -9264,9 +10386,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "50.203.0315",
-    "title": "Rapid PETG - Clear"
+    "title": "Rapid PETG - Clear",
+    "updated_at": 1792192979235
   },
   {
     "RFID_Data": {
@@ -9289,6 +10414,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "15581533",
     "brand": "ELEGOO",
     "color": "#FEA8FF",
@@ -9305,9 +10432,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Coral Pink",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0285",
-    "title": "Silk PLA - Coral Pink"
+    "title": "Silk PLA - Coral Pink",
+    "updated_at": 1792192983969
   },
   {
     "RFID_Data": {
@@ -9330,6 +10460,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#E6D6B0",
@@ -9346,9 +10478,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-PP-107",
-    "title": "PLA+ - Beige"
+    "title": "PLA+ - Beige",
+    "updated_at": 1792192099536
   },
   {
     "RFID_Data": {
@@ -9371,6 +10506,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#00B4D8",
@@ -9387,9 +10524,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA CMYK",
     "sku": "GWCZ-EL-3DF-PCM1106",
-    "title": "PLA CMYK - Cyan"
+    "title": "PLA CMYK - Cyan",
+    "updated_at": 1792189590411
   },
   {
     "RFID_Data": {
@@ -9412,6 +10552,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -9428,9 +10570,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "GWCZ-EL-3DF-ASC1102",
-    "title": "ASA-CF - Green"
+    "title": "ASA-CF - Green",
+    "updated_at": 1792190199704
   },
   {
     "RFID_Data": {
@@ -9453,6 +10598,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#0A0A0A",
@@ -9469,9 +10616,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Deep Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "GWCZ-EL-3DF-AS0708B",
-    "title": "ASA - Deep Black"
+    "title": "ASA - Deep Black",
+    "updated_at": 1792191688566
   },
   {
     "RFID_Data": {
@@ -9494,6 +10644,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#D8C3A0",
@@ -9510,9 +10662,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Sand",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "GWCZ-EL-3DF-ASC1103",
-    "title": "ASA-CF - Sand"
+    "title": "ASA-CF - Sand",
+    "updated_at": 1792190222202
   },
   {
     "RFID_Data": {
@@ -9535,6 +10690,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#000000",
@@ -9551,9 +10708,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Galaxy",
     "sku": "50.203.0110",
-    "title": "Galaxy - Black"
+    "title": "Galaxy - Black",
+    "updated_at": 1792192874066
   },
   {
     "RFID_Data": {
@@ -9576,6 +10736,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#6400FA",
@@ -9592,9 +10754,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Galaxy",
     "sku": "50.203.0230",
-    "title": "Galaxy - Purple"
+    "title": "Galaxy - Purple",
+    "updated_at": 1792193096983
   },
   {
     "RFID_Data": {
@@ -9617,6 +10782,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5B800",
@@ -9633,9 +10800,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sunflower Yellow",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0757",
-    "title": "PLA Basic - Sunflower Yellow"
+    "title": "PLA Basic - Sunflower Yellow",
+    "updated_at": 1792191203396
   },
   {
     "RFID_Data": {
@@ -9658,6 +10828,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -9674,9 +10846,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP06",
-    "title": "PLA+ - Red"
+    "title": "PLA+ - Red",
+    "updated_at": 1792191920277
   },
   {
     "RFID_Data": {
@@ -9699,6 +10874,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -9715,9 +10892,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-3D-P01",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1792192184135
   },
   {
     "RFID_Data": {
@@ -9740,6 +10920,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0849",
     "brand": "ELEGOO",
     "color": "#F0DD66",
@@ -9756,9 +10938,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange Yellow",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0849",
-    "title": "ABS - Orange Yellow"
+    "title": "ABS - Orange Yellow",
+    "updated_at": 1792193084984
   },
   {
     "RFID_Data": {
@@ -9781,6 +10966,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -9797,9 +10984,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "TPU 72D",
     "sku": "GWCZ-EL-3DF-T71152",
-    "title": "TPU 72D - Blue"
+    "title": "TPU 72D - Blue",
+    "updated_at": 1792190309115
   },
   {
     "RFID_Data": {
@@ -9822,6 +11012,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E9E47",
@@ -9838,9 +11030,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "TPU 72D",
     "sku": "GWCZ-EL-3DF-T71153",
-    "title": "TPU 72D - Green"
+    "title": "TPU 72D - Green",
+    "updated_at": 1792190364124
   },
   {
     "RFID_Data": {
@@ -9863,6 +11058,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "76214365",
     "brand": "ELEGOO",
     "color": "#664305",
@@ -9879,9 +11076,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "Rapid PLA+",
     "sku": "50.203.0313",
-    "title": "Rapid PLA+ - Brown"
+    "title": "Rapid PLA+ - Brown",
+    "updated_at": 1792192965578
   },
   {
     "RFID_Data": {
@@ -9904,6 +11104,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F4A6C0",
@@ -9920,9 +11122,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-102",
-    "title": "PLA - Pink"
+    "title": "PLA - Pink",
+    "updated_at": 1792192343953
   },
   {
     "RFID_Data": {
@@ -9945,6 +11150,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F58220",
@@ -9961,9 +11168,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "GWCZ-EL-3DF-PE0774",
-    "title": "PETG Translucent - Orange"
+    "title": "PETG Translucent - Orange",
+    "updated_at": 1792190556435
   },
   {
     "RFID_Data": {
@@ -9986,6 +11196,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F58220",
@@ -10002,9 +11214,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1159",
-    "title": "PETG Glitter - Orange"
+    "title": "PETG Glitter - Orange",
+    "updated_at": 1792189669791
   },
   {
     "RFID_Data": {
@@ -10027,6 +11242,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "10411133",
     "brand": "ELEGOO",
     "color": "#FFFFFF",
@@ -10043,9 +11260,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Rapid TPU 95A",
     "sku": "50.203.0632",
-    "title": "Rapid TPU 95A - White"
+    "title": "Rapid TPU 95A - White",
+    "updated_at": 1792193173277
   },
   {
     "RFID_Data": {
@@ -10068,6 +11288,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#B87333",
@@ -10084,9 +11306,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Copper Filled",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-126",
-    "title": "PLA - Copper Filled"
+    "title": "PLA - Copper Filled",
+    "updated_at": 1792192521353
   },
   {
     "RFID_Data": {
@@ -10109,6 +11334,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -10125,9 +11352,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "GWCZ-EL-3DF-PE0772",
-    "title": "PETG Translucent - Blue"
+    "title": "PETG Translucent - Blue",
+    "updated_at": 1792190470499
   },
   {
     "RFID_Data": {
@@ -10150,6 +11380,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -10166,9 +11398,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC-FR",
     "sku": "GWCZ-EL-3DF-PC0770",
-    "title": "PC-FR - Black"
+    "title": "PC-FR - Black",
+    "updated_at": 1792190627097
   },
   {
     "RFID_Data": {
@@ -10191,6 +11426,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769407",
     "brand": "ELEGOO",
     "color": "#FFFFFF",
@@ -10207,9 +11444,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0189",
-    "title": "PLA Pro - White"
+    "title": "PLA Pro - White",
+    "updated_at": 1792193169072
   },
   {
     "RFID_Data": {
@@ -10232,6 +11472,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6976021764402",
     "brand": "ELEGOO",
     "color": "#FFC2FD",
@@ -10248,9 +11490,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sakura Pink",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0258",
-    "title": "Matte PLA - Sakura Pink"
+    "title": "Matte PLA - Sakura Pink",
+    "updated_at": 1792193124544
   },
   {
     "RFID_Data": {
@@ -10273,6 +11518,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -10289,9 +11536,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0751",
-    "title": "PLA Basic - Red"
+    "title": "PLA Basic - Red",
+    "updated_at": 1792191036179
   },
   {
     "RFID_Data": {
@@ -10314,6 +11564,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#2E8B7A",
@@ -10330,9 +11582,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sea Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-106",
-    "title": "PLA - Sea Green"
+    "title": "PLA - Sea Green",
+    "updated_at": 1792192423146
   },
   {
     "RFID_Data": {
@@ -10355,6 +11610,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#BDBDBD",
@@ -10371,9 +11628,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "PETG Glitter",
     "sku": "GWCZ-EL-3DF-PEG1160",
-    "title": "PETG Glitter - Light Grey"
+    "title": "PETG Glitter - Light Grey",
+    "updated_at": 1792189758923
   },
   {
     "RFID_Data": {
@@ -10396,6 +11656,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7EC8F0",
@@ -10412,9 +11674,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-PLA-105",
-    "title": "PLA - Sky Blue"
+    "title": "PLA - Sky Blue",
+    "updated_at": 1792192414475
   },
   {
     "RFID_Data": {
@@ -10440,6 +11705,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -10457,9 +11724,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "GWCZ-EL-PLA-122N",
-    "title": "Silk PLA - Red"
+    "title": "Silk PLA - Red",
+    "updated_at": 1792188780797
   },
   {
     "RFID_Data": {
@@ -10485,6 +11755,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704903414",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -10502,9 +11774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black Red",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0335",
-    "title": "Silk PLA - Black Red"
+    "title": "Silk PLA - Black Red",
+    "updated_at": 1792192904880
   },
   {
     "RFID_Data": {
@@ -10527,6 +11802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -10543,9 +11820,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "GWCZ-EL-3DF-ASC1101",
-    "title": "ASA-CF - Blue"
+    "title": "ASA-CF - Blue",
+    "updated_at": 1792190154598
   },
   {
     "RFID_Data": {
@@ -10568,6 +11848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769827",
     "brand": "ELEGOO",
     "color": "#FFFFFF",
@@ -10584,9 +11866,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "50.203.0568",
-    "title": "TPU 95A - White"
+    "title": "TPU 95A - White",
+    "updated_at": 1792193166248
   },
   {
     "RFID_Data": {
@@ -10612,6 +11897,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704921050",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -10629,9 +11916,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0707",
-    "title": "Silk PLA - Black Green"
+    "title": "Silk PLA - Black Green",
+    "updated_at": 1792192904848
   },
   {
     "RFID_Data": {
@@ -10654,6 +11944,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0837",
     "brand": "ELEGOO",
     "color": "#9FF9DB",
@@ -10670,9 +11962,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0837",
-    "title": "ABS - Cyan"
+    "title": "ABS - Cyan",
+    "updated_at": 1792192996357
   },
   {
     "RFID_Data": {
@@ -10695,6 +11990,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "6932704903391",
     "brand": "ELEGOO",
     "color": "#C99B4A",
@@ -10711,9 +12008,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Copper",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0693",
-    "title": "Silk PLA - Copper"
+    "title": "Silk PLA - Copper",
+    "updated_at": 1792192979151
   },
   {
     "RFID_Data": {
@@ -10736,6 +12036,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769476",
     "brand": "ELEGOO",
     "color": "#5C77FF",
@@ -10752,9 +12054,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0192",
-    "title": "PLA Pro - Light Blue"
+    "title": "PLA Pro - Light Blue",
+    "updated_at": 1792193054451
   },
   {
     "RFID_Data": {
@@ -10777,6 +12082,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#DC1E28",
@@ -10793,9 +12100,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Sparkle",
     "sku": "GWCZ-EL-PLA-135",
-    "title": "PLA Sparkle - Red"
+    "title": "PLA Sparkle - Red",
+    "updated_at": 1792190951327
   },
   {
     "RFID_Data": {
@@ -10818,6 +12128,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769490",
     "brand": "ELEGOO",
     "color": "#A83CE2",
@@ -10834,9 +12146,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0196",
-    "title": "PLA Pro - Purple"
+    "title": "PLA Pro - Purple",
+    "updated_at": 1792193100345
   },
   {
     "RFID_Data": {
@@ -10859,6 +12174,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "6932704912591",
     "brand": "ELEGOO",
     "color": "#7BF9EA",
@@ -10875,9 +12192,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Teal Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0254",
-    "title": "Matte PLA - Teal Green"
+    "title": "Matte PLA - Teal Green",
+    "updated_at": 1792193145942
   },
   {
     "RFID_Data": {
@@ -10900,6 +12220,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0835",
     "brand": "ELEGOO",
     "color": "#EF0FFF",
@@ -10916,9 +12238,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0835",
-    "title": "ABS - Purple"
+    "title": "ABS - Purple",
+    "updated_at": 1792193094243
   },
   {
     "RFID_Data": {
@@ -10941,6 +12266,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#5A5D63",
@@ -10957,9 +12284,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Space Grey",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1098",
-    "title": "PETG HF - Space Grey"
+    "title": "PETG HF - Space Grey",
+    "updated_at": 1792190084588
   },
   {
     "RFID_Data": {
@@ -10982,6 +12312,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#7B3FA0",
@@ -10998,9 +12330,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "GWCZ-EL-3DF-PE0775",
-    "title": "PETG Translucent - Purple"
+    "title": "PETG Translucent - Purple",
+    "updated_at": 1792190551833
   },
   {
     "RFID_Data": {
@@ -11023,6 +12358,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1E5BD6",
@@ -11039,9 +12376,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "GWCZ-EL-3DF-AS0732",
-    "title": "ASA - Blue"
+    "title": "ASA - Blue",
+    "updated_at": 1792191774552
   },
   {
     "RFID_Data": {
@@ -11064,6 +12404,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0203",
     "brand": "ELEGOO",
     "color": "#69EC22",
@@ -11080,9 +12422,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG Pro",
     "sku": "50.203.0203",
-    "title": "PETG Pro - Green"
+    "title": "PETG Pro - Green",
+    "updated_at": 1792193009066
   },
   {
     "RFID_Data": {
@@ -11105,6 +12450,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#39FF14",
@@ -11121,9 +12468,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-3D-P04N",
-    "title": "PLA - Neon Green"
+    "title": "PLA - Neon Green",
+    "updated_at": 1792800152964
   },
   {
     "RFID_Data": {
@@ -11146,6 +12496,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": "71957341",
     "brand": "ELEGOO",
     "color": "#A8FFF9",
@@ -11162,9 +12514,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ice Blue",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "50.203.0259",
-    "title": "Matte PLA - Ice Blue"
+    "title": "Matte PLA - Ice Blue",
+    "updated_at": 1792193047982
   },
   {
     "RFID_Data": {
@@ -11187,6 +12542,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1A1A1A",
@@ -11203,9 +12560,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "GWCZ-EL-PCF-101",
-    "title": "PLA-CF - Black"
+    "title": "PLA-CF - Black",
+    "updated_at": 1792191581099
   },
   {
     "RFID_Data": {
@@ -11228,6 +12588,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704921098",
     "brand": "ELEGOO",
     "color": "#CAC591",
@@ -11244,9 +12606,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0789",
-    "title": "PLA Pro - Beige"
+    "title": "PLA Pro - Beige",
+    "updated_at": 1792192850849
   },
   {
     "RFID_Data": {
@@ -11269,6 +12634,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6932704911785",
     "brand": "ELEGOO",
     "color": "#000000",
@@ -11285,9 +12652,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Rapid PETG",
     "sku": "50.203.0216",
-    "title": "Rapid PETG - Black"
+    "title": "Rapid PETG - Black",
+    "updated_at": 1792192880666
   },
   {
     "RFID_Data": {
@@ -11313,6 +12683,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -11330,9 +12702,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "GWCZ-EL-PLA-129",
-    "title": "Silk PLA - White"
+    "title": "Silk PLA - White",
+    "updated_at": 1792188778378
   },
   {
     "RFID_Data": {
@@ -11355,6 +12730,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#1C7C8C",
@@ -11371,9 +12748,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Peacock Blue",
     "product_type": "Filament",
+    "series": "Galaxy",
     "sku": "GWCZ-EL-PLA-113",
-    "title": "Galaxy - Peacock Blue"
+    "title": "Galaxy - Peacock Blue",
+    "updated_at": 1792163421127
   },
   {
     "RFID_Data": {
@@ -11396,6 +12776,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "50.203.0832",
     "brand": "ELEGOO",
     "color": "#B32DFB",
@@ -11412,9 +12794,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "50.203.0832",
-    "title": "PETG-CF - Purple"
+    "title": "PETG-CF - Purple",
+    "updated_at": 1792193100336
   },
   {
     "RFID_Data": {
@@ -11437,6 +12822,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -11453,9 +12840,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0761",
-    "title": "PLA Basic - White"
+    "title": "PLA Basic - White",
+    "updated_at": 1792191270899
   },
   {
     "RFID_Data": {
@@ -11478,6 +12868,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "6976021769483",
     "brand": "ELEGOO",
     "color": "#C7C7C7",
@@ -11494,9 +12886,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Pro",
     "sku": "50.203.0197",
-    "title": "PLA Pro - Silver"
+    "title": "PLA Pro - Silver",
+    "updated_at": 1792193133939
   },
   {
     "RFID_Data": {
@@ -11519,6 +12914,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "50.203.0848",
     "brand": "ELEGOO",
     "color": "#46CEFB",
@@ -11535,9 +12932,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "50.203.0848",
-    "title": "ABS - Sky Blue"
+    "title": "ABS - Sky Blue",
+    "updated_at": 1792193136171
   },
   {
     "RFID_Data": {
@@ -11560,6 +12960,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "ELEGOO",
     "color": "#F5F5F5",
@@ -11576,9 +12978,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "GWCZ-EL-3D-P02",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1792192196175
   },
   {
     "RFID_Data": {
@@ -11601,6 +13006,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": "73580893",
     "brand": "ELEGOO",
     "color": "#1DEDDF",
@@ -11617,8 +13024,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "50.203.0286",
-    "title": "Silk PLA - Mint Green"
+    "title": "Silk PLA - Mint Green",
+    "updated_at": 1792193063775
   }
 ]

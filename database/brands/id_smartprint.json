@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919314",
-    "title": "PLA SmartPrint - Green"
+    "title": "PLA SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Luminous PLA SmartPrint",
     "sku": "5903707919550",
-    "title": "Luminous PLA SmartPrint - Yellow"
+    "title": "Luminous PLA SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923519",
-    "title": "PLA SmartPrint - Red"
+    "title": "PLA SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#B5A642FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Brass",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707923311",
-    "title": "PLA Silk SmartPrint - Brass"
+    "title": "PLA Silk SmartPrint - Brass",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -190,6 +210,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2F",
@@ -208,9 +230,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red Yellow Blue",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920211",
-    "title": "PLA Silk SmartPrint - Red Yellow Blue"
+    "title": "PLA Silk SmartPrint - Red Yellow Blue",
+    "updated_at": 1792797707884
   },
   {
     "RFID_Data": {
@@ -233,6 +258,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -249,9 +276,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919369",
-    "title": "PLA SmartPrint - White"
+    "title": "PLA SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -274,6 +304,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#7B2CBFFF",
@@ -290,9 +322,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924127",
-    "title": "PETG SmartPrint - Purple"
+    "title": "PETG SmartPrint - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -315,6 +350,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F06292FF",
@@ -331,9 +368,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "New Pink",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919628",
-    "title": "PLA+ SmartPrint - New Pink"
+    "title": "PLA+ SmartPrint - New Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -356,6 +396,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -372,9 +414,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923465",
-    "title": "PLA SmartPrint - Black"
+    "title": "PLA SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -397,6 +442,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -413,9 +460,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919277",
-    "title": "PLA SmartPrint - White"
+    "title": "PLA SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -438,6 +488,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#C2A878FF",
@@ -454,9 +506,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Sand Gold",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919642",
-    "title": "PLA+ SmartPrint - Sand Gold"
+    "title": "PLA+ SmartPrint - Sand Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -479,6 +534,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -495,9 +552,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919734",
-    "title": "PLA+ SmartPrint - Green"
+    "title": "PLA+ SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -526,6 +586,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#7B2CBF",
@@ -544,9 +606,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Royal Blossom",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920266",
-    "title": "PLA Silk SmartPrint - Royal Blossom"
+    "title": "PLA Silk SmartPrint - Royal Blossom",
+    "updated_at": 1792797766775
   },
   {
     "RFID_Data": {
@@ -569,6 +634,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#E1D4B5FF",
@@ -585,9 +652,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923861",
-    "title": "PETG SmartPrint - Beige"
+    "title": "PETG SmartPrint - Beige",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -610,6 +680,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -626,9 +698,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707919437",
-    "title": "PETG SmartPrint - Blue"
+    "title": "PETG SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -651,6 +726,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -667,9 +744,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "5000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923625",
-    "title": "PLA SmartPrint - Black"
+    "title": "PLA SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -692,6 +772,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#5DAE3BFF",
@@ -708,9 +790,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grass Green",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923298",
-    "title": "PLA SmartPrint - Grass Green"
+    "title": "PLA SmartPrint - Grass Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -733,6 +818,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -749,9 +836,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923830",
-    "title": "PETG SmartPrint - Red"
+    "title": "PETG SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -774,6 +864,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -790,9 +882,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "3000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923595",
-    "title": "PETG SmartPrint - Gray"
+    "title": "PETG SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -815,6 +910,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -831,9 +928,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA CF SmartPrint",
     "sku": "5903707923564",
-    "title": "PLA CF SmartPrint - Green"
+    "title": "PLA CF SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -856,6 +956,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -872,9 +974,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919192",
-    "title": "ABS+ SmartPrint - Red"
+    "title": "ABS+ SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -897,6 +1002,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#E1D4B5FF",
@@ -913,9 +1020,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924202",
-    "title": "PETG SmartPrint - Beige"
+    "title": "PETG SmartPrint - Beige",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -938,6 +1048,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6B8E23FF",
@@ -954,9 +1066,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923786",
-    "title": "PETG SmartPrint - Olive Green"
+    "title": "PETG SmartPrint - Olive Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -979,6 +1094,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -995,9 +1112,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919215",
-    "title": "ABS+ SmartPrint - Yellow"
+    "title": "ABS+ SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1020,6 +1140,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FF7A00FF",
@@ -1036,9 +1158,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919338",
-    "title": "PLA SmartPrint - Orange"
+    "title": "PLA SmartPrint - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1061,6 +1186,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -1077,9 +1204,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919703",
-    "title": "PLA+ SmartPrint - Gray"
+    "title": "PLA+ SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1102,6 +1232,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -1118,9 +1250,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA SmartPrint",
     "sku": "5903707922604",
-    "title": "ASA SmartPrint - Red"
+    "title": "ASA SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1149,6 +1284,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#4B5320",
@@ -1167,9 +1304,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Army",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707923540",
-    "title": "PLA Silk SmartPrint - Army"
+    "title": "PLA Silk SmartPrint - Army",
+    "updated_at": 1792797913167
   },
   {
     "RFID_Data": {
@@ -1192,6 +1332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -1208,9 +1350,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924189",
-    "title": "PETG SmartPrint - Yellow"
+    "title": "PETG SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1233,6 +1378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6B4226FF",
@@ -1249,9 +1396,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919925",
-    "title": "PLA SmartPrint - Brown"
+    "title": "PLA SmartPrint - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1274,6 +1424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -1290,9 +1442,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707919451",
-    "title": "PETG SmartPrint - Green"
+    "title": "PETG SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1315,6 +1470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -1331,9 +1488,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919260",
-    "title": "PLA SmartPrint - Black"
+    "title": "PLA SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1356,6 +1516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#5C4033FF",
@@ -1372,9 +1534,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Black Walnut",
     "product_type": "Filament",
+    "series": "PLA Wood SmartPrint",
     "sku": "5903707919598",
-    "title": "PLA Wood SmartPrint - Black Walnut"
+    "title": "PLA Wood SmartPrint - Black Walnut",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1397,6 +1562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -1413,9 +1580,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "ASA SmartPrint",
     "sku": "5903707922574",
-    "title": "ASA SmartPrint - Gray"
+    "title": "ASA SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1438,6 +1608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -1454,9 +1626,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919352",
-    "title": "PLA SmartPrint - Black"
+    "title": "PLA SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1485,6 +1660,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6",
@@ -1503,9 +1680,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue Purple Black",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920310",
-    "title": "PLA Silk SmartPrint - Blue Purple Black"
+    "title": "PLA Silk SmartPrint - Blue Purple Black",
+    "updated_at": 1792797983382
   },
   {
     "RFID_Data": {
@@ -1528,6 +1708,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -1544,9 +1726,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Meta SmartPrint",
     "sku": "5903707919987",
-    "title": "PLA Meta SmartPrint - Red"
+    "title": "PLA Meta SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1569,6 +1754,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6B4226FF",
@@ -1585,9 +1772,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923502",
-    "title": "PLA SmartPrint - Brown"
+    "title": "PLA SmartPrint - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1610,6 +1800,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFF4E0FF",
@@ -1626,9 +1818,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Warm White",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919529",
-    "title": "PLA SmartPrint - Warm White"
+    "title": "PLA SmartPrint - Warm White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1651,6 +1846,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -1667,9 +1864,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919178",
-    "title": "ABS+ SmartPrint - Gray"
+    "title": "ABS+ SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1692,6 +1892,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#0B5D1EFF",
@@ -1708,9 +1910,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924219",
-    "title": "PETG SmartPrint - Dark Green"
+    "title": "PETG SmartPrint - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1733,6 +1938,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -1749,9 +1956,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Luminous PLA SmartPrint",
     "sku": "5903707919574",
-    "title": "Luminous PLA SmartPrint - Green"
+    "title": "Luminous PLA SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1774,6 +1984,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -1790,9 +2002,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Meta SmartPrint",
     "sku": "5903707920013",
-    "title": "PLA Meta SmartPrint - Green"
+    "title": "PLA Meta SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1815,6 +2030,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -1831,9 +2048,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA CF SmartPrint",
     "sku": "5903707922536",
-    "title": "PLA CF SmartPrint - Red"
+    "title": "PLA CF SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1856,6 +2076,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -1872,9 +2094,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA SmartPrint",
     "sku": "5903707922550",
-    "title": "ASA SmartPrint - White"
+    "title": "ASA SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1897,6 +2122,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -1913,9 +2140,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707919444",
-    "title": "PETG SmartPrint - Red"
+    "title": "PETG SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1938,6 +2168,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -1954,9 +2186,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924165",
-    "title": "PETG SmartPrint - Blue"
+    "title": "PETG SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1982,6 +2217,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2F",
@@ -1999,9 +2236,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red Blue",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920112",
-    "title": "PLA Silk SmartPrint - Red Blue"
+    "title": "PLA Silk SmartPrint - Red Blue",
+    "updated_at": 1792798098200
   },
   {
     "RFID_Data": {
@@ -2024,6 +2264,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F0F0F0FF",
@@ -2040,9 +2282,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919659",
-    "title": "PLA+ SmartPrint - Clear"
+    "title": "PLA+ SmartPrint - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2065,6 +2310,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -2081,9 +2328,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "5000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707922505",
-    "title": "PETG SmartPrint - Black"
+    "title": "PETG SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2106,6 +2356,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D9C4F2FF",
@@ -2122,9 +2374,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923427",
-    "title": "PLA SmartPrint - Purple"
+    "title": "PLA SmartPrint - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2147,6 +2402,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFF3A8FF",
@@ -2163,9 +2420,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923410",
-    "title": "PLA SmartPrint - Yellow"
+    "title": "PLA SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2188,6 +2448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -2204,9 +2466,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ASA SmartPrint",
     "sku": "5903707922598",
-    "title": "ASA SmartPrint - Green"
+    "title": "ASA SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2229,6 +2494,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -2245,9 +2512,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919291",
-    "title": "PLA SmartPrint - Red"
+    "title": "PLA SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2270,6 +2540,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F0F0F0FF",
@@ -2286,9 +2558,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919345",
-    "title": "PLA SmartPrint - Clear"
+    "title": "PLA SmartPrint - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2311,6 +2586,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -2327,9 +2604,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920099",
-    "title": "PLA Silk SmartPrint - Yellow"
+    "title": "PLA Silk SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2352,6 +2632,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -2368,9 +2650,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923823",
-    "title": "PETG SmartPrint - Blue"
+    "title": "PETG SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2393,6 +2678,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FF7A00FF",
@@ -2409,9 +2696,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "TPU SmartPrint",
     "sku": "5903707920372",
-    "title": "TPU SmartPrint - Orange"
+    "title": "TPU SmartPrint - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2434,6 +2724,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -2450,9 +2742,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919604",
-    "title": "PLA+ SmartPrint - Black"
+    "title": "PLA+ SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2475,6 +2770,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#14213DFF",
@@ -2491,9 +2788,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923328",
-    "title": "PLA SmartPrint - Navy Blue"
+    "title": "PLA SmartPrint - Navy Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2516,6 +2816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -2532,9 +2834,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920037",
-    "title": "PLA Silk SmartPrint - White"
+    "title": "PLA Silk SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2557,6 +2862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#C98B9BFF",
@@ -2573,9 +2880,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Glamour",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707923557",
-    "title": "PLA Silk SmartPrint - Glamour"
+    "title": "PLA Silk SmartPrint - Glamour",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2598,6 +2908,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#00BCD4FF",
@@ -2614,9 +2926,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923793",
-    "title": "PETG SmartPrint - Cyan"
+    "title": "PETG SmartPrint - Cyan",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2639,6 +2954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#7B2CBFFF",
@@ -2655,9 +2972,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923892",
-    "title": "PETG SmartPrint - Purple"
+    "title": "PETG SmartPrint - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2686,6 +3006,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -2704,9 +3026,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gradient",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919888",
-    "title": "PLA SmartPrint - Gradient"
+    "title": "PLA SmartPrint - Gradient",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2729,6 +3054,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -2745,9 +3072,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919185",
-    "title": "ABS+ SmartPrint - Blue"
+    "title": "ABS+ SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2770,6 +3100,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#E0218AFF",
@@ -2786,9 +3118,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923373",
-    "title": "PLA SmartPrint - Magenta"
+    "title": "PLA SmartPrint - Magenta",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2811,6 +3146,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -2827,9 +3164,12 @@
     "info3": false,
     "material": "ASA-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA SmartPrint",
     "sku": "5903707922611",
-    "title": "ASA SmartPrint - Black"
+    "title": "ASA SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2858,6 +3198,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2F",
@@ -2876,9 +3218,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red Blue Green",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920303",
-    "title": "PLA Silk SmartPrint - Red Blue Green"
+    "title": "PLA Silk SmartPrint - Red Blue Green",
+    "updated_at": 1792798200691
   },
   {
     "RFID_Data": {
@@ -2901,6 +3246,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#C9A36BFF",
@@ -2917,9 +3264,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Maple Wood",
     "product_type": "Filament",
+    "series": "PLA Wood SmartPrint",
     "sku": "5903707923304",
-    "title": "PLA Wood SmartPrint - Maple Wood"
+    "title": "PLA Wood SmartPrint - Maple Wood",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2942,6 +3292,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -2958,9 +3310,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Meta SmartPrint",
     "sku": "5903707919994",
-    "title": "PLA Meta SmartPrint - Blue"
+    "title": "PLA Meta SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2983,6 +3338,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F0F0F0FF",
@@ -2999,9 +3356,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707919468",
-    "title": "PETG SmartPrint - Clear"
+    "title": "PETG SmartPrint - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3024,6 +3384,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -3040,9 +3402,12 @@
     "info3": false,
     "material": "PA12",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA12 SmartPrint",
     "sku": "5903707924066",
-    "title": "PA12 SmartPrint - Black"
+    "title": "PA12 SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3065,6 +3430,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -3081,9 +3448,12 @@
     "info3": false,
     "material": "PA12-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA12 SmartPrint",
     "sku": "5903707922628",
-    "title": "PA12 SmartPrint - Black"
+    "title": "PA12 SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3106,6 +3476,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#4FC3F7FF",
@@ -3122,9 +3494,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Water Blue",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919918",
-    "title": "PLA SmartPrint - Water Blue"
+    "title": "PLA SmartPrint - Water Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3147,6 +3522,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -3163,9 +3540,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919321",
-    "title": "PLA SmartPrint - Yellow"
+    "title": "PLA SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3188,6 +3568,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -3204,9 +3586,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA Meta SmartPrint",
     "sku": "5903707919970",
-    "title": "PLA Meta SmartPrint - Gray"
+    "title": "PLA Meta SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3232,6 +3617,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111",
@@ -3249,9 +3636,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black Blue",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920174",
-    "title": "PLA Silk SmartPrint - Black Blue"
+    "title": "PLA Silk SmartPrint - Black Blue",
+    "updated_at": 1792798276506
   },
   {
     "RFID_Data": {
@@ -3274,6 +3664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#7F1734FF",
@@ -3290,9 +3682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Claret",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923458",
-    "title": "PLA SmartPrint - Claret"
+    "title": "PLA SmartPrint - Claret",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3321,6 +3716,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#3A2E6B",
@@ -3339,9 +3736,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Twilight Serenity",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920280",
-    "title": "PLA Silk SmartPrint - Twilight Serenity"
+    "title": "PLA Silk SmartPrint - Twilight Serenity",
+    "updated_at": 1792798301001
   },
   {
     "RFID_Data": {
@@ -3364,6 +3764,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -3380,9 +3782,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923489",
-    "title": "PLA SmartPrint - Green"
+    "title": "PLA SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3411,6 +3816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#0B3C5D",
@@ -3429,9 +3836,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Oceans Embrace",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920259",
-    "title": "PLA Silk SmartPrint - Oceans Embrace"
+    "title": "PLA Silk SmartPrint - Oceans Embrace",
+    "updated_at": 1792798358372
   },
   {
     "RFID_Data": {
@@ -3454,6 +3864,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F0F0F0FF",
@@ -3470,9 +3882,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "TPU SmartPrint",
     "sku": "5903707920402",
-    "title": "TPU SmartPrint - Clear"
+    "title": "TPU SmartPrint - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3495,6 +3910,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -3511,9 +3928,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Luminous PLA SmartPrint",
     "sku": "5903707919536",
-    "title": "Luminous PLA SmartPrint - White"
+    "title": "Luminous PLA SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3536,6 +3956,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -3552,9 +3974,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920082",
-    "title": "PLA Silk SmartPrint - Green"
+    "title": "PLA Silk SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3577,6 +4002,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#9A9A9AFF",
@@ -3593,9 +4020,12 @@
     "info3": false,
     "material": "PLA Marble",
     "measure": "1000 g",
+    "name": "Concrete",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923526",
-    "title": "PLA SmartPrint - Concrete"
+    "title": "PLA SmartPrint - Concrete",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3618,6 +4048,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -3634,9 +4066,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920020",
-    "title": "PLA Silk SmartPrint - Black"
+    "title": "PLA Silk SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3665,6 +4100,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#5C6B7A",
@@ -3683,9 +4120,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Storms Whisper",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920297",
-    "title": "PLA Silk SmartPrint - Storms Whisper"
+    "title": "PLA Silk SmartPrint - Storms Whisper",
+    "updated_at": 1792798939006
   },
   {
     "RFID_Data": {
@@ -3714,6 +4154,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111",
@@ -3732,9 +4174,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black Gold Purple",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920228",
-    "title": "PLA Silk SmartPrint - Black Gold Purple"
+    "title": "PLA Silk SmartPrint - Black Gold Purple",
+    "updated_at": 1792798945491
   },
   {
     "RFID_Data": {
@@ -3757,6 +4202,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F0F0F0FF",
@@ -3773,9 +4220,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919253",
-    "title": "ABS+ SmartPrint - Clear"
+    "title": "ABS+ SmartPrint - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3798,6 +4248,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -3814,9 +4266,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923816",
-    "title": "PETG SmartPrint - Green"
+    "title": "PETG SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3845,6 +4300,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2F",
@@ -3863,9 +4320,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red Yellow Green",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920198",
-    "title": "PLA Silk SmartPrint - Red Yellow Green"
+    "title": "PLA Silk SmartPrint - Red Yellow Green",
+    "updated_at": 1792798958579
   },
   {
     "RFID_Data": {
@@ -3888,6 +4348,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#7B2CBFFF",
@@ -3904,9 +4366,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923472",
-    "title": "PLA SmartPrint - Purple"
+    "title": "PLA SmartPrint - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3929,6 +4394,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#E8E6E3FF",
@@ -3945,9 +4412,12 @@
     "info3": false,
     "material": "PLA Marble",
     "measure": "1000 g",
+    "name": "Marble",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919871",
-    "title": "PLA SmartPrint - Marble"
+    "title": "PLA SmartPrint - Marble",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3970,6 +4440,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -3986,9 +4458,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924080",
-    "title": "PETG SmartPrint - Blue"
+    "title": "PETG SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4014,6 +4489,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2F",
@@ -4031,9 +4508,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red Gold",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920143",
-    "title": "PLA Silk SmartPrint - Red Gold"
+    "title": "PLA Silk SmartPrint - Red Gold",
+    "updated_at": 1792798977107
   },
   {
     "RFID_Data": {
@@ -4056,6 +4536,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#7B2CBFFF",
@@ -4072,9 +4554,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919680",
-    "title": "PLA+ SmartPrint - Purple"
+    "title": "PLA+ SmartPrint - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4097,6 +4582,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6B4226FF",
@@ -4113,9 +4600,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919673",
-    "title": "PLA+ SmartPrint - Brown"
+    "title": "PLA+ SmartPrint - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4138,6 +4628,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#BFEBC8FF",
@@ -4154,9 +4646,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923403",
-    "title": "PLA SmartPrint - Green"
+    "title": "PLA SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4179,6 +4674,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F8C8DCFF",
@@ -4195,9 +4692,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923380",
-    "title": "PLA SmartPrint - Pink"
+    "title": "PLA SmartPrint - Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4220,6 +4720,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#A0412DFF",
@@ -4236,9 +4738,12 @@
     "info3": false,
     "material": "PLA Marble",
     "measure": "1000 g",
+    "name": "Brick Red",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923533",
-    "title": "PLA SmartPrint - Brick Red"
+    "title": "PLA SmartPrint - Brick Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4261,6 +4766,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#00BCD4FF",
@@ -4277,9 +4784,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919932",
-    "title": "PLA SmartPrint - Cyan"
+    "title": "PLA SmartPrint - Cyan",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4302,6 +4812,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -4318,9 +4830,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Meta SmartPrint",
     "sku": "5903707920006",
-    "title": "PLA Meta SmartPrint - Yellow"
+    "title": "PLA Meta SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4343,6 +4858,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -4359,9 +4876,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "SMR-PET-BLK",
-    "title": "PETG SmartPrint - Black"
+    "title": "PETG SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4384,6 +4904,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -4400,9 +4922,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707919482",
-    "title": "PETG SmartPrint - Yellow"
+    "title": "PETG SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4425,6 +4950,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -4441,9 +4968,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU SmartPrint",
     "sku": "5903707920327",
-    "title": "TPU SmartPrint - Black"
+    "title": "TPU SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4466,6 +4996,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -4482,9 +5014,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919666",
-    "title": "PLA+ SmartPrint - Yellow"
+    "title": "PLA+ SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4507,6 +5042,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F1C27DFF",
@@ -4523,9 +5060,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919833",
-    "title": "PLA SmartPrint - Skin"
+    "title": "PLA SmartPrint - Skin",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4548,6 +5088,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6F4E37FF",
@@ -4564,9 +5106,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Coffee",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923885",
-    "title": "PETG SmartPrint - Coffee"
+    "title": "PETG SmartPrint - Coffee",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4589,6 +5134,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#A9744FFF",
@@ -4605,9 +5152,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA Wood SmartPrint",
     "sku": "5903707919581",
-    "title": "PLA Wood SmartPrint - Wood"
+    "title": "PLA Wood SmartPrint - Wood",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4630,6 +5180,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -4646,9 +5198,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "SMR-PET-WHT",
-    "title": "PETG SmartPrint - White"
+    "title": "PETG SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4671,6 +5226,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#4B2E1EFF",
@@ -4687,9 +5244,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919864",
-    "title": "PLA SmartPrint - Chocolate"
+    "title": "PLA SmartPrint - Chocolate",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4712,6 +5272,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6B8E23FF",
@@ -4728,9 +5290,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923335",
-    "title": "PLA SmartPrint - Olive Green"
+    "title": "PLA SmartPrint - Olive Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4753,6 +5318,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -4769,9 +5336,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919307",
-    "title": "PLA SmartPrint - Blue"
+    "title": "PLA SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4794,6 +5364,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#7B2CBFFF",
@@ -4810,9 +5382,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920075",
-    "title": "PLA Silk SmartPrint - Purple"
+    "title": "PLA Silk SmartPrint - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4835,6 +5410,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -4851,9 +5428,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924172",
-    "title": "PETG SmartPrint - Green"
+    "title": "PETG SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4876,6 +5456,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -4892,9 +5474,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923496",
-    "title": "PLA SmartPrint - Blue"
+    "title": "PLA SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4917,6 +5502,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -4933,9 +5520,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919284",
-    "title": "PLA SmartPrint - Gray"
+    "title": "PLA SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4958,6 +5548,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -4974,9 +5566,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "3000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923588",
-    "title": "PETG SmartPrint - White"
+    "title": "PETG SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4999,6 +5594,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD3A8FF",
@@ -5015,9 +5612,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923434",
-    "title": "PLA SmartPrint - Orange"
+    "title": "PLA SmartPrint - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5040,6 +5640,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -5056,9 +5658,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "TPU SmartPrint",
     "sku": "5903707920365",
-    "title": "TPU SmartPrint - Blue"
+    "title": "TPU SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5084,6 +5689,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F48FB1",
@@ -5101,9 +5708,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Pink Gold",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920136",
-    "title": "PLA Silk SmartPrint - Pink Gold"
+    "title": "PLA Silk SmartPrint - Pink Gold",
+    "updated_at": 1792799304601
   },
   {
     "RFID_Data": {
@@ -5126,6 +5736,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -5142,9 +5754,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU SmartPrint",
     "sku": "5903707920358",
-    "title": "TPU SmartPrint - Red"
+    "title": "TPU SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5167,6 +5782,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -5183,9 +5800,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919383",
-    "title": "PLA SmartPrint - Blue"
+    "title": "PLA SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5208,6 +5828,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -5224,9 +5846,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919376",
-    "title": "PLA SmartPrint - Gray"
+    "title": "PLA SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5252,6 +5877,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111",
@@ -5269,9 +5896,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black Gold",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920129",
-    "title": "PLA Silk SmartPrint - Black Gold"
+    "title": "PLA Silk SmartPrint - Black Gold",
+    "updated_at": 1792799377770
   },
   {
     "RFID_Data": {
@@ -5294,6 +5924,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#B87333FF",
@@ -5310,9 +5942,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Copper",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923878",
-    "title": "PETG SmartPrint - Copper"
+    "title": "PETG SmartPrint - Copper",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5335,6 +5970,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#C2185BFF",
@@ -5351,9 +5988,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Raspberry",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923366",
-    "title": "PLA SmartPrint - Raspberry"
+    "title": "PLA SmartPrint - Raspberry",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5376,6 +6016,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -5392,9 +6034,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "TPU SmartPrint",
     "sku": "5903707920396",
-    "title": "TPU SmartPrint - Yellow"
+    "title": "TPU SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5417,6 +6062,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -5433,9 +6080,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924134",
-    "title": "PETG SmartPrint - Black"
+    "title": "PETG SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5458,6 +6108,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -5474,9 +6126,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ASA SmartPrint",
     "sku": "5903707922581",
-    "title": "ASA SmartPrint - Blue"
+    "title": "ASA SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5499,6 +6154,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -5515,9 +6172,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924097",
-    "title": "PETG SmartPrint - Red"
+    "title": "PETG SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5540,6 +6200,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -5556,9 +6218,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919390",
-    "title": "PLA SmartPrint - Red"
+    "title": "PLA SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5581,6 +6246,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -5597,9 +6264,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924073",
-    "title": "PETG SmartPrint - Black"
+    "title": "PETG SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5622,6 +6292,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -5638,9 +6310,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA SmartPrint",
     "sku": "5903707922543",
-    "title": "ASA SmartPrint - Black"
+    "title": "ASA SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5666,6 +6341,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111",
@@ -5683,9 +6360,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black Green",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920150",
-    "title": "PLA Silk SmartPrint - Black Green"
+    "title": "PLA Silk SmartPrint - Black Green",
+    "updated_at": 1792799476372
   },
   {
     "RFID_Data": {
@@ -5708,6 +6388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#5DAE3BFF",
@@ -5724,9 +6406,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grass Green",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924233",
-    "title": "PETG SmartPrint - Grass Green"
+    "title": "PETG SmartPrint - Grass Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5749,6 +6434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#8DB600FF",
@@ -5765,9 +6452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apple Green",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919949",
-    "title": "PLA SmartPrint - Apple Green"
+    "title": "PLA SmartPrint - Apple Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5790,6 +6480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#B98A57FF",
@@ -5806,9 +6498,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Oak",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923809",
-    "title": "PETG SmartPrint - Oak"
+    "title": "PETG SmartPrint - Oak",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5831,6 +6526,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -5847,9 +6544,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "5000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923601",
-    "title": "PETG SmartPrint - White"
+    "title": "PETG SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5872,6 +6572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FF7A00FF",
@@ -5888,9 +6590,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707919499",
-    "title": "PETG SmartPrint - Orange"
+    "title": "PETG SmartPrint - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5919,6 +6624,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F8A5A5",
@@ -5937,9 +6644,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Light Rainbow",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920242",
-    "title": "PLA Silk SmartPrint - Light Rainbow"
+    "title": "PLA Silk SmartPrint - Light Rainbow",
+    "updated_at": 1792799608371
   },
   {
     "RFID_Data": {
@@ -5962,6 +6672,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FF7A00FF",
@@ -5978,9 +6690,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919222",
-    "title": "ABS+ SmartPrint - Orange"
+    "title": "ABS+ SmartPrint - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6003,6 +6718,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#C0C0C0FF",
@@ -6019,9 +6736,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920044",
-    "title": "PLA Silk SmartPrint - Silver"
+    "title": "PLA Silk SmartPrint - Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6044,6 +6764,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -6060,9 +6782,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "5000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923632",
-    "title": "PLA SmartPrint - White"
+    "title": "PLA SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6085,6 +6810,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -6101,9 +6828,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919154",
-    "title": "ABS+ SmartPrint - Black"
+    "title": "ABS+ SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6126,6 +6856,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -6142,9 +6874,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924158",
-    "title": "PETG SmartPrint - Red"
+    "title": "PETG SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6167,6 +6902,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6A2C70FF",
@@ -6183,9 +6920,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple Plum",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923342",
-    "title": "PLA SmartPrint - Purple Plum"
+    "title": "PLA SmartPrint - Purple Plum",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6208,6 +6948,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6B4226FF",
@@ -6224,9 +6966,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707919512",
-    "title": "PETG SmartPrint - Brown"
+    "title": "PETG SmartPrint - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6249,6 +6994,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -6265,9 +7012,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA CF SmartPrint",
     "sku": "5903707922529",
-    "title": "PLA CF SmartPrint - Blue"
+    "title": "PLA CF SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6290,6 +7040,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#B87333FF",
@@ -6306,9 +7058,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Copper",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920068",
-    "title": "PLA Silk SmartPrint - Copper"
+    "title": "PLA Silk SmartPrint - Copper",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6331,6 +7086,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -6347,9 +7104,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Luminous PLA SmartPrint",
     "sku": "5903707919567",
-    "title": "Luminous PLA SmartPrint - Blue"
+    "title": "Luminous PLA SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6372,6 +7132,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6B4226FF",
@@ -6388,9 +7150,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919239",
-    "title": "ABS+ SmartPrint - Brown"
+    "title": "ABS+ SmartPrint - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6419,6 +7184,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6",
@@ -6437,9 +7204,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue Green Purple",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920181",
-    "title": "PLA Silk SmartPrint - Blue Green Purple"
+    "title": "PLA Silk SmartPrint - Blue Green Purple",
+    "updated_at": 1792799731976
   },
   {
     "RFID_Data": {
@@ -6462,6 +7232,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -6478,9 +7250,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Meta SmartPrint",
     "sku": "5903707919963",
-    "title": "PLA Meta SmartPrint - White"
+    "title": "PLA Meta SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6503,6 +7278,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -6519,9 +7296,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919208",
-    "title": "ABS+ SmartPrint - Green"
+    "title": "ABS+ SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6544,6 +7324,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#C0C0C0FF",
@@ -6560,9 +7342,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919246",
-    "title": "ABS+ SmartPrint - Silver"
+    "title": "ABS+ SmartPrint - Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6585,6 +7370,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -6601,9 +7388,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924110",
-    "title": "PETG SmartPrint - Green"
+    "title": "PETG SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6626,6 +7416,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -6642,9 +7434,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919741",
-    "title": "PLA SmartPrint - Black"
+    "title": "PLA SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6667,6 +7462,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -6683,9 +7480,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "TPU SmartPrint",
     "sku": "5903707920389",
-    "title": "TPU SmartPrint - Gray"
+    "title": "TPU SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6714,6 +7514,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FF7A00",
@@ -6732,9 +7534,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Orange Blue Green",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920204",
-    "title": "PLA Silk SmartPrint - Orange Blue Green"
+    "title": "PLA Silk SmartPrint - Orange Blue Green",
+    "updated_at": 1792799842585
   },
   {
     "RFID_Data": {
@@ -6757,6 +7562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D4AF37FF",
@@ -6773,9 +7580,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920051",
-    "title": "PLA Silk SmartPrint - Gold"
+    "title": "PLA Silk SmartPrint - Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6798,6 +7608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#C0C0C0FF",
@@ -6814,9 +7626,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707919505",
-    "title": "PETG SmartPrint - Silver"
+    "title": "PETG SmartPrint - Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6845,6 +7660,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2F",
@@ -6863,9 +7680,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rainbow",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920235",
-    "title": "PLA Silk SmartPrint - Rainbow"
+    "title": "PLA Silk SmartPrint - Rainbow",
+    "updated_at": 1792799885262
   },
   {
     "RFID_Data": {
@@ -6888,6 +7708,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FF7A00FF",
@@ -6904,9 +7726,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919697",
-    "title": "PLA+ SmartPrint - Orange"
+    "title": "PLA+ SmartPrint - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6929,6 +7754,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1E5BC6FF",
@@ -6945,9 +7772,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919710",
-    "title": "PLA+ SmartPrint - Blue"
+    "title": "PLA+ SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6970,6 +7800,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -6986,9 +7818,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS+ SmartPrint",
     "sku": "5903707919161",
-    "title": "ABS+ SmartPrint - White"
+    "title": "ABS+ SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7011,6 +7846,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#6B4226FF",
@@ -7027,9 +7864,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924196",
-    "title": "PETG SmartPrint - Brown"
+    "title": "PETG SmartPrint - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7052,6 +7892,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -7068,9 +7910,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "5000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923618",
-    "title": "PETG SmartPrint - Gray"
+    "title": "PETG SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7093,6 +7938,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#A67B5BFF",
@@ -7109,9 +7956,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Brown",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923359",
-    "title": "PLA SmartPrint - Light Brown"
+    "title": "PLA SmartPrint - Light Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7134,6 +7984,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -7150,9 +8002,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "SMR-PET-GRY",
-    "title": "PETG SmartPrint - Gray"
+    "title": "PETG SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7175,6 +8030,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -7191,9 +8048,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707919802",
-    "title": "PLA SmartPrint - Yellow"
+    "title": "PLA SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7222,6 +8082,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FF7A00",
@@ -7240,9 +8102,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Sunset Horizon",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920273",
-    "title": "PLA Silk SmartPrint - Sunset Horizon"
+    "title": "PLA Silk SmartPrint - Sunset Horizon",
+    "updated_at": 1792799953605
   },
   {
     "RFID_Data": {
@@ -7265,6 +8130,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -7281,9 +8148,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "3000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707922499",
-    "title": "PETG SmartPrint - Black"
+    "title": "PETG SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7306,6 +8176,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -7322,9 +8194,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA CF SmartPrint",
     "sku": "5903707922512",
-    "title": "PLA CF SmartPrint - Black"
+    "title": "PLA CF SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7350,6 +8225,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111",
@@ -7367,9 +8244,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black Purple",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920167",
-    "title": "PLA Silk SmartPrint - Black Purple"
+    "title": "PLA Silk SmartPrint - Black Purple",
+    "updated_at": 1792800027174
   },
   {
     "RFID_Data": {
@@ -7392,6 +8272,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -7408,9 +8290,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924141",
-    "title": "PETG SmartPrint - White"
+    "title": "PETG SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7433,6 +8318,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFD500FF",
@@ -7449,9 +8336,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923847",
-    "title": "PETG SmartPrint - Yellow"
+    "title": "PETG SmartPrint - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7474,6 +8364,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#2E9E3EFF",
@@ -7490,9 +8382,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "TPU SmartPrint",
     "sku": "5903707920341",
-    "title": "TPU SmartPrint - Green"
+    "title": "TPU SmartPrint - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7515,6 +8410,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#B5D8F5FF",
@@ -7531,9 +8428,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923397",
-    "title": "PLA SmartPrint - Blue"
+    "title": "PLA SmartPrint - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7556,6 +8456,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#C0C0C0FF",
@@ -7572,9 +8474,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919635",
-    "title": "PLA+ SmartPrint - Silver"
+    "title": "PLA+ SmartPrint - Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7597,6 +8502,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -7613,9 +8520,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919611",
-    "title": "PLA+ SmartPrint - White"
+    "title": "PLA+ SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7638,6 +8548,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#1B6CA8FF",
@@ -7654,9 +8566,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Ocean Blue",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707923854",
-    "title": "PETG SmartPrint - Ocean Blue"
+    "title": "PETG SmartPrint - Ocean Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7679,6 +8594,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#FFFFFFFF",
@@ -7695,9 +8612,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU SmartPrint",
     "sku": "5903707920334",
-    "title": "TPU SmartPrint - White"
+    "title": "TPU SmartPrint - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7720,6 +8640,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -7736,9 +8658,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707924103",
-    "title": "PETG SmartPrint - Gray"
+    "title": "PETG SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7761,6 +8686,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#111111FF",
@@ -7777,9 +8704,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Meta SmartPrint",
     "sku": "5903707919956",
-    "title": "PLA Meta SmartPrint - Black"
+    "title": "PLA Meta SmartPrint - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7802,6 +8732,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F0F0F0FF",
@@ -7818,9 +8750,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PLA Silk SmartPrint",
     "sku": "5903707920105",
-    "title": "PLA Silk SmartPrint - Clear"
+    "title": "PLA Silk SmartPrint - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7843,6 +8778,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#D32F2FFF",
@@ -7859,9 +8796,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA+ SmartPrint",
     "sku": "5903707919727",
-    "title": "PLA+ SmartPrint - Red"
+    "title": "PLA+ SmartPrint - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7884,6 +8824,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#F48FB1FF",
@@ -7900,9 +8842,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PETG SmartPrint",
     "sku": "5903707919475",
-    "title": "PETG SmartPrint - Pink"
+    "title": "PETG SmartPrint - Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7925,6 +8870,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#C0C0C0FF",
@@ -7941,9 +8888,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ASA SmartPrint",
     "sku": "5903707922567",
-    "title": "ASA SmartPrint - Silver"
+    "title": "ASA SmartPrint - Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7966,6 +8916,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#808080FF",
@@ -7982,9 +8934,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA CF SmartPrint",
     "sku": "5903707923571",
-    "title": "PLA CF SmartPrint - Gray"
+    "title": "PLA CF SmartPrint - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8007,6 +8962,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "SmartPrint",
     "color": "#E58FB0FF",
@@ -8023,8 +8980,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Raspberry",
     "product_type": "Filament",
+    "series": "PLA SmartPrint",
     "sku": "5903707923441",
-    "title": "PLA SmartPrint - Raspberry"
+    "title": "PLA SmartPrint - Raspberry",
+    "updated_at": null
   }
 ]

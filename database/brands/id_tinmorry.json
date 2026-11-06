@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#B76E79FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Rose Gold",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-RoseGold",
-    "title": "PETG-Metallic - Metallic Rose Gold"
+    "title": "PETG-Metallic - Metallic Rose Gold",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Transparent-New",
-    "title": "PLA-Rapid - Transparent"
+    "title": "PLA-Rapid - Transparent",
+    "updated_at": 1792797665983
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFD500FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Pumpkin Yellow",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matt-PumpkinYellow",
-    "title": "PLA-Matte - Matte Pumpkin Yellow"
+    "title": "PLA-Matte - Matte Pumpkin Yellow",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#0B6E4FFF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Emerald Green",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Emerald Green",
-    "title": "PETG-Matte - Matte Emerald Green"
+    "title": "PETG-Matte - Matte Emerald Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Green",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-Green",
-    "title": "PETG-Metallic - Metallic Green"
+    "title": "PETG-Metallic - Metallic Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2B36AFF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted  Apricot",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedApricot",
-    "title": "PETG-GF - Frosted  Apricot"
+    "title": "PETG-GF - Frosted  Apricot",
+    "updated_at": 1788422721769
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Glow Yellow Green",
     "product_type": "Filament",
+    "series": "PETG-Glow",
     "sku": "PETG-GlowYellowGreen",
-    "title": "PETG-Glow - Glow Yellow Green"
+    "title": "PETG-Glow - Glow Yellow Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#20B2AAFF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Turquoise blue",
     "product_type": "Filament",
+    "series": "PC-GF",
     "sku": "PC-GF-Turquoise blue",
-    "title": "PC-GF - Turquoise blue"
+    "title": "PC-GF - Turquoise blue",
+    "updated_at": 1788423146215
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Light Brown",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-LightBrown",
-    "title": "PLA-Matte - Matte Light Brown"
+    "title": "PLA-Matte - Matte Light Brown",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS-CF",
     "sku": "ABS-CF Black",
-    "title": "ABS-CF - Black"
+    "title": "ABS-CF - Black",
+    "updated_at": 1788424125607
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7BC96FFF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Mint green",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedMintGreen",
-    "title": "PETG-GF - Frosted Mint green"
+    "title": "PETG-GF - Frosted Mint green",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1E3A8AFF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Navy Blue",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedNavyBlue",
-    "title": "PETG-GF - Frosted Navy Blue"
+    "title": "PETG-GF - Frosted Navy Blue",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#00B7C6FF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sparkly Cyan",
     "product_type": "Filament",
+    "series": "PETG-Sparkly",
     "sku": "PETG-Sparkly-Cyan",
-    "title": "PETG-Sparkly - Sparkly Cyan"
+    "title": "PETG-Sparkly - Sparkly Cyan",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#808080FF",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Grey",
-    "title": "PLA-Regular - Grey"
+    "title": "PLA-Regular - Grey",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Signal Green",
     "product_type": "Filament",
+    "series": "PC-GF",
     "sku": "PC-GF-Signal Green",
-    "title": "PC-GF - Signal Green"
+    "title": "PC-GF - Signal Green",
+    "updated_at": 1788423146215
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent Violet",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Trans-Violet",
-    "title": "95A-TPU - Transparent Violet"
+    "title": "95A-TPU - Transparent Violet",
+    "updated_at": 1792797715562
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PAHT-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PAHT-CF",
     "sku": "PAHT-CF-Black",
-    "title": "PAHT-CF - Black"
+    "title": "PAHT-CF - Black",
+    "updated_at": 1788424265714
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA- Black-New",
-    "title": "PLA-Rapid - Black"
+    "title": "PLA-Rapid - Black",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#8C6239FF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Bronze",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-Bronze",
-    "title": "PLA-Silk - Silk Bronze"
+    "title": "PLA-Silk - Silk Bronze",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cold White",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-ColdWhite-New",
-    "title": "PLA-Rapid - Cold White"
+    "title": "PLA-Rapid - Cold White",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Sky Blue-New",
-    "title": "PLA-Rapid - Sky Blue"
+    "title": "PLA-Rapid - Sky Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#9B9B9B",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Marble Grey",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "PETG-CF-MarbleGrey",
-    "title": "PETG-CF - Marble Grey"
+    "title": "PETG-CF - Marble Grey",
+    "updated_at": 1792797783863
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk White",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-White",
-    "title": "PLA-Silk - Silk White"
+    "title": "PLA-Silk - Silk White",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6B8E23FF",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "PETG-CF-OliveGreen",
-    "title": "PETG-CF - Olive Green"
+    "title": "PETG-CF - Olive Green",
+    "updated_at": 1788423503176
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D4AF37FF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Gold",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-Gold",
-    "title": "PLA-Silk - Silk Gold"
+    "title": "PLA-Silk - Silk Gold",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7A00FF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Orange",
-    "title": "PLA-Regular - Orange"
+    "title": "PLA-Regular - Orange",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent Red",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Trans-Red",
-    "title": "95A-TPU - Transparent Red"
+    "title": "95A-TPU - Transparent Red",
+    "updated_at": 1792797820504
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0272DFF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Traffic Red",
     "product_type": "Filament",
+    "series": "PC-GF",
     "sku": "PC-GF-Traffic Red",
-    "title": "PC-GF - Traffic Red"
+    "title": "PC-GF - Traffic Red",
+    "updated_at": 1788423146215
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Red",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-Red",
-    "title": "PLA-Matte - Matte Red"
+    "title": "PLA-Matte - Matte Red",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Ice Blue",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-IceBlue",
-    "title": "PETG-ECO - Ice Blue"
+    "title": "PETG-ECO - Ice Blue",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Violet",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Violet",
-    "title": "95A-TPU - Violet"
+    "title": "95A-TPU - Violet",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#8B8B83FF",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble Granite",
     "product_type": "Filament",
+    "series": "PETG-Marble",
     "sku": "PETG-Marble-Granite",
-    "title": "PETG-Marble - Marble Granite"
+    "title": "PETG-Marble - Marble Granite",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Light Green",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-LightGreen",
-    "title": "PLA-Matte - Matte Light Green"
+    "title": "PLA-Matte - Matte Light Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble Light Brown",
     "product_type": "Filament",
+    "series": "PETG-Marble",
     "sku": "PETG-Marble-LightBrown",
-    "title": "PETG-Marble - Marble Light Brown"
+    "title": "PETG-Marble - Marble Light Brown",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Iron Black",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-IronBlack",
-    "title": "PLA-Silk - Silk Iron Black"
+    "title": "PLA-Silk - Silk Iron Black",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1E3A8AFF",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Royal Blue-New",
-    "title": "PLA-Rapid - Royal Blue"
+    "title": "PLA-Rapid - Royal Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Ice Blue",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedIceBlue",
-    "title": "PETG-GF - Frosted Ice Blue"
+    "title": "PETG-GF - Frosted Ice Blue",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#808080FF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Grey",
-    "title": "PETG-ECO - Grey"
+    "title": "PETG-ECO - Grey",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F5C400FF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro-Yellow",
-    "title": "ABS-Pro - Yellow"
+    "title": "ABS-Pro - Yellow",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D4AF37FF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Champagne Gold",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-ChampagneGold",
-    "title": "PETG-Metallic - Metallic Champagne Gold"
+    "title": "PETG-Metallic - Metallic Champagne Gold",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFD500FF",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Traffic Yellow",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-TrafficYellow",
-    "title": "95A-TPU - Traffic Yellow"
+    "title": "95A-TPU - Traffic Yellow",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "PLA-CF-Black",
-    "title": "PLA-CF - Black"
+    "title": "PLA-CF - Black",
+    "updated_at": 1788423848866
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Glow Light Blue",
     "product_type": "Filament",
+    "series": "PETG-Glow",
     "sku": "PETG-GlowLightBlue",
-    "title": "PETG-Glow - Glow Light Blue"
+    "title": "PETG-Glow - Glow Light Blue",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D4AF37FF",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Galaxy Purple Gold",
     "product_type": "Filament",
+    "series": "PETG-Galaxy",
     "sku": "PETG-Galaxy-PurpleGold",
-    "title": "PETG-Galaxy - Galaxy Purple Gold"
+    "title": "PETG-Galaxy - Galaxy Purple Gold",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Ivory White",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-IvoryWhite",
-    "title": "PETG-ECO - Ivory White"
+    "title": "PETG-ECO - Ivory White",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Pink",
-    "title": "PETG-ECO - Pink"
+    "title": "PETG-ECO - Pink",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Transparent",
-    "title": "PETG-ECO - Transparent"
+    "title": "PETG-ECO - Transparent",
+    "updated_at": 1792797937172
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bone White",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Bone White",
-    "title": "PETG-ECO - Bone White"
+    "title": "PETG-ECO - Bone White",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-Blue",
-    "title": "ASA - Blue"
+    "title": "ASA - Blue",
+    "updated_at": 1788423321089
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-DarkRed",
-    "title": "PETG-ECO - Red"
+    "title": "PETG-ECO - Red",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0C0C0FF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Silver",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-Silver",
-    "title": "PLA-Silk - Silk Silver"
+    "title": "PLA-Silk - Silk Silver",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D6006DFF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Fluorescent Fuchsia",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-FluorescentFuchsia",
-    "title": "PETG-ECO - Fluorescent Fuchsia"
+    "title": "PETG-ECO - Fluorescent Fuchsia",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Green-New",
-    "title": "PLA-Rapid - Green"
+    "title": "PLA-Rapid - Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Green",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-TransGreen",
-    "title": "PETG-ECO - Transparent Green"
+    "title": "PETG-ECO - Transparent Green",
+    "updated_at": 1792797987369
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D6006DFF",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Magenta-New",
-    "title": "PLA-Rapid - Magenta"
+    "title": "PLA-Rapid - Magenta",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C8C8C8FF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Warm Light Grey",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Warm Light Grey",
-    "title": "PETG-Matte - Matte Warm Light Grey"
+    "title": "PETG-Matte - Matte Warm Light Grey",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0272DFF",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Glow Rose Red",
     "product_type": "Filament",
+    "series": "PETG-Glow",
     "sku": "PETG-GlowRoseRed",
-    "title": "PETG-Glow - Glow Rose Red"
+    "title": "PETG-Glow - Glow Rose Red",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C8C8C8FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-LightGrey",
-    "title": "PETG-ECO - Light Grey"
+    "title": "PETG-ECO - Light Grey",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFD500FF",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bright Yellow",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-BrightYellow",
-    "title": "PETG-ECO - Bright Yellow"
+    "title": "PETG-ECO - Bright Yellow",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro- Black",
-    "title": "ABS-Pro - Black"
+    "title": "ABS-Pro - Black",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D6006DFF",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Magenta",
-    "title": "PLA-Regular - Magenta"
+    "title": "PLA-Regular - Magenta",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Sakura Pink",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedSakuraPink",
-    "title": "PETG-GF - Frosted Sakura Pink"
+    "title": "PETG-GF - Frosted Sakura Pink",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent grey",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-TransparentGrey",
-    "title": "95A-TPU - Transparent grey"
+    "title": "95A-TPU - Transparent grey",
+    "updated_at": 1792798057270
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "TPU-GF",
     "measure": "1000 g",
+    "name": "Frosted Red",
     "product_type": "Filament",
+    "series": "TPU-GF",
     "sku": "TPU-GF-Frosted Red",
-    "title": "TPU-GF - Frosted Red"
+    "title": "TPU-GF - Frosted Red",
+    "updated_at": 1788423658430
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7A00FF",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Orange",
-    "title": "PETG-ECO - Orange"
+    "title": "PETG-ECO - Orange",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Green",
-    "title": "PLA-Regular - Green"
+    "title": "PLA-Regular - Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0C0C0FF",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sparkly Silver",
     "product_type": "Filament",
+    "series": "PETG-Sparkly",
     "sku": "PETG-Sparkly-Silver",
-    "title": "PETG-Sparkly - Sparkly Silver"
+    "title": "PETG-Sparkly - Sparkly Silver",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2B36AFF",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apricot",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Apricot-New",
-    "title": "PLA-Rapid - Apricot"
+    "title": "PLA-Rapid - Apricot",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-Black",
-    "title": "PLA-Matte - Black"
+    "title": "PLA-Matte - Black",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Red-New",
-    "title": "PLA-Rapid - Red"
+    "title": "PLA-Rapid - Red",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "ASA-CF-Black",
-    "title": "ASA-CF - Black"
+    "title": "ASA-CF - Black",
+    "updated_at": 1788424440871
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Rose Red",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-RoseRed",
-    "title": "PLA-Silk - Silk Rose Red"
+    "title": "PLA-Silk - Silk Rose Red",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble Magic Brown",
     "product_type": "Filament",
+    "series": "PETG-Marble",
     "sku": "PETG-Marble-MagicBrown",
-    "title": "PETG-Marble - Marble Magic Brown"
+    "title": "PETG-Marble - Marble Magic Brown",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sparkly Black",
     "product_type": "Filament",
+    "series": "PETG-Sparkly",
     "sku": "PETG-Sparkly-Black",
-    "title": "PETG-Sparkly - Sparkly Black"
+    "title": "PETG-Sparkly - Sparkly Black",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "TPU-GF",
     "measure": "1000 g",
+    "name": "Frosted Blue",
     "product_type": "Filament",
+    "series": "TPU-GF",
     "sku": "TPU-GF-Frosted Blue",
-    "title": "TPU-GF - Frosted Blue"
+    "title": "TPU-GF - Frosted Blue",
+    "updated_at": 1788423658430
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Pink",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-Pink",
-    "title": "PLA-Matte - Matte Pink"
+    "title": "PLA-Matte - Matte Pink",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Meeple White",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-MeepleWhite",
-    "title": "PETG-ECO - Meeple White"
+    "title": "PETG-ECO - Meeple White",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7A00FF",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Orange",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-Orange",
-    "title": "PLA-Matte - Matte Orange"
+    "title": "PLA-Matte - Matte Orange",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#00B7C6FF",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Cyan-New",
-    "title": "PLA-Rapid - Cyan"
+    "title": "PLA-Rapid - Cyan",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7A00FF",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Orange-New",
-    "title": "PLA-Rapid - Orange"
+    "title": "PLA-Rapid - Orange",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5A5A5AFF",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Space Grey",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-SpaceGrey",
-    "title": "PETG-Metallic - Metallic Space Grey"
+    "title": "PETG-Metallic - Metallic Space Grey",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2B36AFF",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Apricot",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Apricot",
-    "title": "PETG-ECO - Apricot"
+    "title": "PETG-ECO - Apricot",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Fluorescent Green",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-FluorescentGreen",
-    "title": "PETG-ECO - Fluorescent Green"
+    "title": "PETG-ECO - Fluorescent Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F5C400FF",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Warm Yellow",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Warm Yellow-New",
-    "title": "PLA-Rapid - Warm Yellow"
+    "title": "PLA-Rapid - Warm Yellow",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#B76E79FF",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Metallic Rose Gold",
     "product_type": "Filament",
+    "series": "PLA-Metallic",
     "sku": "PLA-Metallic-RoseGold",
-    "title": "PLA-Metallic - Metallic Rose Gold"
+    "title": "PLA-Metallic - Metallic Rose Gold",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D4AF37FF",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Galaxy Green Gold",
     "product_type": "Filament",
+    "series": "PETG-Galaxy",
     "sku": "PETG-Galaxy-GreenGold",
-    "title": "PETG-Galaxy - Galaxy Green Gold"
+    "title": "PETG-Galaxy - Galaxy Green Gold",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F5C400FF",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Yellow",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-Yellow",
-    "title": "PLA-Matte - Matte Yellow"
+    "title": "PLA-Matte - Matte Yellow",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFD500FF",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Fluorescent Yellow",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-FluorescentYellow",
-    "title": "95A-TPU - Fluorescent Yellow"
+    "title": "95A-TPU - Fluorescent Yellow",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Smog Blue",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Smog Blue",
-    "title": "PETG-Matte - Matte Smog Blue"
+    "title": "PETG-Matte - Matte Smog Blue",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Red",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-Red",
-    "title": "PLA-Silk - Silk Red"
+    "title": "PLA-Silk - Silk Red",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0272DFF",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Ruby Red",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-RubyRed",
-    "title": "PETG-GF - Frosted Ruby Red"
+    "title": "PETG-GF - Frosted Ruby Red",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sparkly Purple",
     "product_type": "Filament",
+    "series": "PETG-Sparkly",
     "sku": "PETG-Sparkly-Violet",
-    "title": "PETG-Sparkly - Sparkly Purple"
+    "title": "PETG-Sparkly - Sparkly Purple",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble Magic Pink",
     "product_type": "Filament",
+    "series": "PETG-Marble",
     "sku": "PETG-Marble-MagicPink",
-    "title": "PETG-Marble - Marble Magic Pink"
+    "title": "PETG-Marble - Marble Magic Pink",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0272DFF",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Fluorescent Red",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-FluorescentRed",
-    "title": "95A-TPU - Fluorescent Red"
+    "title": "95A-TPU - Fluorescent Red",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Brown",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-Brown",
-    "title": "PETG-GF - Frosted Brown"
+    "title": "PETG-GF - Frosted Brown",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C8C8C8FF",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Light Grey-New",
-    "title": "PLA-Rapid - Light Grey"
+    "title": "PLA-Rapid - Light Grey",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7A00FF",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro-Orange",
-    "title": "ABS-Pro - Orange"
+    "title": "ABS-Pro - Orange",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7F00FF",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Glow Light Orange",
     "product_type": "Filament",
+    "series": "PETG-Glow",
     "sku": "PETG-GlowLightOrange",
-    "title": "PETG-Glow - Glow Light Orange"
+    "title": "PETG-Glow - Glow Light Orange",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#8A8A8AFF",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Cold Grey",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro- CoolGrey",
-    "title": "ABS-Pro - Cold Grey"
+    "title": "ABS-Pro - Cold Grey",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Glow Green",
     "product_type": "Filament",
+    "series": "PETG-Glow",
     "sku": "PETG-GlowGreen",
-    "title": "PETG-Glow - Glow Green"
+    "title": "PETG-Glow - Glow Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte White",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-White",
-    "title": "PETG-Matte - Matte White"
+    "title": "PETG-Matte - Matte White",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble Magic Green",
     "product_type": "Filament",
+    "series": "PETG-Marble",
     "sku": "PETG-Marble-MagicGreen",
-    "title": "PETG-Marble - Marble Magic Green"
+    "title": "PETG-Marble - Marble Magic Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galaxy Green",
     "product_type": "Filament",
+    "series": "PLA-Galaxy",
     "sku": "PLA-GalaxyGreen",
-    "title": "PLA-Galaxy - Galaxy Green"
+    "title": "PLA-Galaxy - Galaxy Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Sakura Pink",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Sakura Pink",
-    "title": "PETG-Matte - Matte Sakura Pink"
+    "title": "PETG-Matte - Matte Sakura Pink",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "PA6-GF",
     "measure": "1000 g",
+    "name": "Jade White",
     "product_type": "Filament",
+    "series": "PA6-GF",
     "sku": "PA6-GF-Jade White",
-    "title": "PA6-GF - Jade White"
+    "title": "PA6-GF - Jade White",
+    "updated_at": 1788424009084
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Blue",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Transblue",
-    "title": "PETG-ECO - Transparent Blue"
+    "title": "PETG-ECO - Transparent Blue",
+    "updated_at": 1792798392889
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Pink-New",
-    "title": "PLA-Rapid - Pink"
+    "title": "PLA-Rapid - Pink",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Red",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedRed",
-    "title": "PETG-GF - Frosted Red"
+    "title": "PETG-GF - Frosted Red",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7BC96FFF",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apple Green",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Apple Green-New",
-    "title": "PLA-Rapid - Apple Green"
+    "title": "PLA-Rapid - Apple Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Transparent",
-    "title": "95A-TPU - Transparent"
+    "title": "95A-TPU - Transparent",
+    "updated_at": 1792798897501
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -4546,9 +5098,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Blue",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-Blue",
-    "title": "PETG-Metallic - Metallic Blue"
+    "title": "PETG-Metallic - Metallic Blue",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -4571,6 +5126,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -4587,9 +5144,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA6-CF",
     "sku": "PA6-CF-Black5PCT",
-    "title": "PA6-CF - Black"
+    "title": "PA6-CF - Black",
+    "updated_at": 1788424560980
   },
   {
     "RFID_Data": {
@@ -4612,6 +5172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#00786FFF",
@@ -4628,9 +5190,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Peacock Green",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "PETG-CF-PeacockGreen",
-    "title": "PETG-CF - Peacock Green"
+    "title": "PETG-CF - Peacock Green",
+    "updated_at": 1788423503176
   },
   {
     "RFID_Data": {
@@ -4653,6 +5218,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#808080FF",
@@ -4669,9 +5236,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Grey",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-Grey",
-    "title": "PLA-Matte - Matte Grey"
+    "title": "PLA-Matte - Matte Grey",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -4694,6 +5264,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#808080FF",
@@ -4710,9 +5282,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Grey",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedGrey",
-    "title": "PETG-GF - Frosted Grey"
+    "title": "PETG-GF - Frosted Grey",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -4735,6 +5310,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -4751,9 +5328,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Vinca Blue",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-VincaBlue",
-    "title": "PETG-ECO - Vinca Blue"
+    "title": "PETG-ECO - Vinca Blue",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -4776,6 +5356,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1E3A8AFF",
@@ -4792,9 +5374,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Klein Blue",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-KleinBlue",
-    "title": "PETG-ECO - Klein Blue"
+    "title": "PETG-ECO - Klein Blue",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -4817,6 +5402,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6B8E23FF",
@@ -4833,9 +5420,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-OliveGreen",
-    "title": "PETG-ECO - Olive Green"
+    "title": "PETG-ECO - Olive Green",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -4858,6 +5448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1E3A8AFF",
@@ -4874,9 +5466,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Midnight Green",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-MidnightGreen",
-    "title": "PETG-Metallic - Metallic Midnight Green"
+    "title": "PETG-Metallic - Metallic Midnight Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -4899,6 +5494,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0C0C0",
@@ -4915,9 +5512,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Metallic Silver",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-MetallicSilver",
-    "title": "95A-TPU - Metallic Silver"
+    "title": "95A-TPU - Metallic Silver",
+    "updated_at": 1792798973174
   },
   {
     "RFID_Data": {
@@ -4940,6 +5540,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#808080FF",
@@ -4956,9 +5558,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-Grey",
-    "title": "ASA - Grey"
+    "title": "ASA - Grey",
+    "updated_at": 1788423321089
   },
   {
     "RFID_Data": {
@@ -4981,6 +5586,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#9C7A4E",
@@ -4997,9 +5604,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Wood",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Light Wood-New",
-    "title": "PLA-Rapid - Light Wood"
+    "title": "PLA-Rapid - Light Wood",
+    "updated_at": 1792799005912
   },
   {
     "RFID_Data": {
@@ -5022,6 +5632,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -5038,9 +5650,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sakura Pink",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-SakuraPink",
-    "title": "PETG-ECO - Sakura Pink"
+    "title": "PETG-ECO - Sakura Pink",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -5063,6 +5678,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0C0C0FF",
@@ -5079,9 +5696,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Regular Silver",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Silver",
-    "title": "PLA-Regular - Regular Silver"
+    "title": "PLA-Regular - Regular Silver",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -5104,6 +5724,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0272DFF",
@@ -5120,9 +5742,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Fluorescent Rose Red",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-FluorescentRoseRed",
-    "title": "95A-TPU - Fluorescent Rose Red"
+    "title": "95A-TPU - Fluorescent Rose Red",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -5145,6 +5770,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#00B7C6FF",
@@ -5161,9 +5788,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro-Cyan",
-    "title": "ABS-Pro - Cyan"
+    "title": "ABS-Pro - Cyan",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -5186,6 +5816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -5202,9 +5834,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte White",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-White",
-    "title": "PLA-Matte - Matte White"
+    "title": "PLA-Matte - Matte White",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -5227,6 +5862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1A",
@@ -5243,9 +5880,12 @@
     "info3": false,
     "material": "PET-CF",
     "measure": "1000 g",
+    "name": "Matte Black",
     "product_type": "Filament",
+    "series": "PET-CF",
     "sku": "PET-CF-Black",
-    "title": "PET-CF - Matte Black"
+    "title": "PET-CF - Matte Black",
+    "updated_at": 1792799054600
   },
   {
     "RFID_Data": {
@@ -5268,6 +5908,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -5284,9 +5926,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted White",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedWhite",
-    "title": "PETG-GF - Frosted White"
+    "title": "PETG-GF - Frosted White",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -5309,6 +5954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -5325,9 +5972,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "PETG-CF-Black",
-    "title": "PETG-CF - Black"
+    "title": "PETG-CF - Black",
+    "updated_at": 1788423503176
   },
   {
     "RFID_Data": {
@@ -5350,6 +6000,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -5366,9 +6018,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-Red",
-    "title": "ASA - Red"
+    "title": "ASA - Red",
+    "updated_at": 1788423321089
   },
   {
     "RFID_Data": {
@@ -5391,6 +6046,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -5407,9 +6064,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Fluorescent Purple",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-FluorescentPurple",
-    "title": "95A-TPU - Fluorescent Purple"
+    "title": "95A-TPU - Fluorescent Purple",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -5432,6 +6092,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -5448,9 +6110,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro-Green",
-    "title": "ABS-Pro - Green"
+    "title": "ABS-Pro - Green",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -5473,6 +6138,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -5489,9 +6156,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Black",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedBlack",
-    "title": "PETG-GF - Frosted Black"
+    "title": "PETG-GF - Frosted Black",
+    "updated_at": 1788422721769
   },
   {
     "RFID_Data": {
@@ -5514,6 +6184,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7F00FF",
@@ -5530,9 +6202,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Pomelo Orange",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matt-PomeloOrange",
-    "title": "PLA-Matte - Matte Pomelo Orange"
+    "title": "PLA-Matte - Matte Pomelo Orange",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -5555,6 +6230,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6B8E23FF",
@@ -5571,9 +6248,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Olive Green",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matt-OliveGreen",
-    "title": "PLA-Matte - Matte Olive Green"
+    "title": "PLA-Matte - Matte Olive Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -5596,6 +6276,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -5612,9 +6294,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Chameleon Blue/Purple",
     "product_type": "Filament",
+    "series": "PETG-Galaxy",
     "sku": "PETG-Galaxy-Chameleon-Blue/Purple",
-    "title": "PETG-Galaxy - Chameleon Blue/Purple"
+    "title": "PETG-Galaxy - Chameleon Blue/Purple",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -5637,6 +6322,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C8C8C8FF",
@@ -5653,9 +6340,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "PC-GF",
     "sku": "PC-GF-Light Grey",
-    "title": "PC-GF - Light Grey"
+    "title": "PC-GF - Light Grey",
+    "updated_at": 1788423146215
   },
   {
     "RFID_Data": {
@@ -5678,6 +6368,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7BC96FFF",
@@ -5694,9 +6386,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Horizon Green",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-HorizonGreen",
-    "title": "PETG-ECO - Horizon Green"
+    "title": "PETG-ECO - Horizon Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -5719,6 +6414,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -5735,9 +6432,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Red",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-TransRed",
-    "title": "PETG-ECO - Transparent Red"
+    "title": "PETG-ECO - Transparent Red",
+    "updated_at": 1792799138592
   },
   {
     "RFID_Data": {
@@ -5760,6 +6460,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0C0C0FF",
@@ -5776,9 +6478,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Silver",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-Silver",
-    "title": "PETG-Metallic - Metallic Silver"
+    "title": "PETG-Metallic - Metallic Silver",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -5801,6 +6506,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1E3A8AFF",
@@ -5817,9 +6524,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Navy Blue",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matt-NavyBlue",
-    "title": "PLA-Matte - Matte Navy Blue"
+    "title": "PLA-Matte - Matte Navy Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -5842,6 +6552,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0",
@@ -5858,9 +6570,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Neon Blue",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-NeonBlue",
-    "title": "95A-TPU - Neon Blue"
+    "title": "95A-TPU - Neon Blue",
+    "updated_at": 1792799153699
   },
   {
     "RFID_Data": {
@@ -5883,6 +6598,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -5899,9 +6616,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent Green",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Trans-Light-Green",
-    "title": "95A-TPU - Transparent Green"
+    "title": "95A-TPU - Transparent Green",
+    "updated_at": 1792799157478
   },
   {
     "RFID_Data": {
@@ -5924,6 +6644,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -5940,9 +6662,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble Magic Purple",
     "product_type": "Filament",
+    "series": "PETG-Marble",
     "sku": "PETG-Marble-MagicPurple",
-    "title": "PETG-Marble - Marble Magic Purple"
+    "title": "PETG-Marble - Marble Magic Purple",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -5965,6 +6690,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -5981,9 +6708,12 @@
     "info3": false,
     "material": "PA6-GF",
     "measure": "1000 g",
+    "name": "Frosted White",
     "product_type": "Filament",
+    "series": "PA6-GF",
     "sku": "PA6-GF-Frosted White",
-    "title": "PA6-GF - Frosted White"
+    "title": "PA6-GF - Frosted White",
+    "updated_at": 1788424009084
   },
   {
     "RFID_Data": {
@@ -6006,6 +6736,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -6022,9 +6754,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Fluorescent Blue",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-FluorescentBlue",
-    "title": "95A-TPU - Fluorescent Blue"
+    "title": "95A-TPU - Fluorescent Blue",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -6047,6 +6782,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#0B6E4FFF",
@@ -6063,9 +6800,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Emerald Green",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-EmeraldGreen",
-    "title": "95A-TPU - Emerald Green"
+    "title": "95A-TPU - Emerald Green",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -6088,6 +6828,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -6104,9 +6846,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Red",
-    "title": "PLA-Regular - Red"
+    "title": "PLA-Regular - Red",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -6129,6 +6874,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#8C6239FF",
@@ -6145,9 +6892,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Bronze",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-Bronze",
-    "title": "PETG-Metallic - Metallic Bronze"
+    "title": "PETG-Metallic - Metallic Bronze",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -6170,6 +6920,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#9E958DFF",
@@ -6186,9 +6938,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Warm Grey",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro-WarmGrey",
-    "title": "ABS-Pro - Warm Grey"
+    "title": "ABS-Pro - Warm Grey",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -6211,6 +6966,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7BC96FFF",
@@ -6227,9 +6984,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Mint Green",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-MintGreen",
-    "title": "PETG-ECO - Mint Green"
+    "title": "PETG-ECO - Mint Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -6252,6 +7012,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F1C6A7FF",
@@ -6268,9 +7030,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Skin",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-Skin",
-    "title": "PLA-Matte - Matte Skin"
+    "title": "PLA-Matte - Matte Skin",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -6293,6 +7058,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C8C8C8FF",
@@ -6309,9 +7076,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Warm Light Grey",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedWarmLightGrey",
-    "title": "PETG-GF - Frosted Warm Light Grey"
+    "title": "PETG-GF - Frosted Warm Light Grey",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -6334,6 +7104,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -6350,9 +7122,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Lilac purple",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedLilacPurple",
-    "title": "PETG-GF - Frosted Lilac purple"
+    "title": "PETG-GF - Frosted Lilac purple",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -6375,6 +7150,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -6391,9 +7168,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble White",
     "product_type": "Filament",
+    "series": "PETG-Marble",
     "sku": "PETG-Marble-White",
-    "title": "PETG-Marble - Marble White"
+    "title": "PETG-Marble - Marble White",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -6416,6 +7196,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -6432,9 +7214,12 @@
     "info3": false,
     "material": "TPU-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU-GF",
     "sku": "TPU-GF-Black",
-    "title": "TPU-GF - Black"
+    "title": "TPU-GF - Black",
+    "updated_at": 1788423658430
   },
   {
     "RFID_Data": {
@@ -6457,6 +7242,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -6473,9 +7260,12 @@
     "info3": false,
     "material": "PA6-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA6-GF",
     "sku": "PA6-GF Black",
-    "title": "PA6-GF - Black"
+    "title": "PA6-GF - Black",
+    "updated_at": 1788424009084
   },
   {
     "RFID_Data": {
@@ -6498,6 +7288,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -6514,9 +7306,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Purple",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-Purple",
-    "title": "PLA-Silk - Silk Purple"
+    "title": "PLA-Silk - Silk Purple",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -6539,6 +7334,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -6555,9 +7352,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Reddish Brown",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Reddish Brown-New",
-    "title": "PLA-Rapid - Reddish Brown"
+    "title": "PLA-Rapid - Reddish Brown",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -6580,6 +7380,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0272DFF",
@@ -6596,9 +7398,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Fluorescent Rose Red",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-FluorescentRoseRed",
-    "title": "PETG-ECO - Fluorescent Rose Red"
+    "title": "PETG-ECO - Fluorescent Rose Red",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -6621,6 +7426,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -6637,9 +7444,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Green",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedGreen",
-    "title": "PETG-GF - Frosted Green"
+    "title": "PETG-GF - Frosted Green",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -6662,6 +7472,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -6678,9 +7490,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Transparent",
-    "title": "PLA-Regular - Transparent"
+    "title": "PLA-Regular - Transparent",
+    "updated_at": 1792799277107
   },
   {
     "RFID_Data": {
@@ -6703,6 +7518,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -6719,9 +7536,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cold White",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-ColdWhite",
-    "title": "PETG-ECO - Cold White"
+    "title": "PETG-ECO - Cold White",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -6744,6 +7564,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -6760,9 +7582,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Mocha Mousse Chocolate Brown",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-MochaMousseChocolateBrown",
-    "title": "PETG-ECO - Mocha Mousse Chocolate Brown"
+    "title": "PETG-ECO - Mocha Mousse Chocolate Brown",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -6785,6 +7610,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -6801,9 +7628,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Lake Blue",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro-LakeBlue",
-    "title": "ABS-Pro - Lake Blue"
+    "title": "ABS-Pro - Lake Blue",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -6826,6 +7656,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -6842,9 +7674,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS-GF",
     "sku": "ABS-GF-Black",
-    "title": "ABS-GF - Black"
+    "title": "ABS-GF - Black",
+    "updated_at": 1788424837283
   },
   {
     "RFID_Data": {
@@ -6867,6 +7702,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -6883,9 +7720,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-DarkGreen",
-    "title": "PETG-ECO - Green"
+    "title": "PETG-ECO - Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -6908,6 +7748,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -6924,9 +7766,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Black",
-    "title": "PETG-ECO - Black"
+    "title": "PETG-ECO - Black",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -6949,6 +7794,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7F00FF",
@@ -6965,9 +7812,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Fire Safety Orange",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-FireSafetyOrange",
-    "title": "95A-TPU - Fire Safety Orange"
+    "title": "95A-TPU - Fire Safety Orange",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -6990,6 +7840,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -7006,9 +7858,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Purple",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-Purple",
-    "title": "PETG-Metallic - Metallic Purple"
+    "title": "PETG-Metallic - Metallic Purple",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -7031,6 +7886,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -7047,9 +7904,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grape Purple",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Grape Purple-New",
-    "title": "PLA-Rapid - Grape Purple"
+    "title": "PLA-Rapid - Grape Purple",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7072,6 +7932,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -7088,9 +7950,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sparkly Red",
     "product_type": "Filament",
+    "series": "PETG-Sparkly",
     "sku": "PETG-Sparkly-Red",
-    "title": "PETG-Sparkly - Sparkly Red"
+    "title": "PETG-Sparkly - Sparkly Red",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -7113,6 +7978,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C8C8C8FF",
@@ -7129,9 +7996,12 @@
     "info3": false,
     "material": "TPU-GF",
     "measure": "1000 g",
+    "name": "Frosted Light Grey",
     "product_type": "Filament",
+    "series": "TPU-GF",
     "sku": "TPU-GF-Frosted Light Grey",
-    "title": "TPU-GF - Frosted Light Grey"
+    "title": "TPU-GF - Frosted Light Grey",
+    "updated_at": 1788423658430
   },
   {
     "RFID_Data": {
@@ -7154,6 +8024,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F5C400FF",
@@ -7170,9 +8042,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Yellow",
-    "title": "PLA-Regular - Yellow"
+    "title": "PLA-Regular - Yellow",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7195,6 +8070,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -7211,9 +8088,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent Emerald Green",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Trans-Emerald-Green",
-    "title": "95A-TPU - Transparent Emerald Green"
+    "title": "95A-TPU - Transparent Emerald Green",
+    "updated_at": 1792799377682
   },
   {
     "RFID_Data": {
@@ -7236,6 +8116,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -7252,9 +8134,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Blue",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedBlue",
-    "title": "PETG-GF - Frosted Blue"
+    "title": "PETG-GF - Frosted Blue",
+    "updated_at": 1788422721769
   },
   {
     "RFID_Data": {
@@ -7277,6 +8162,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -7293,9 +8180,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Green",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-Green",
-    "title": "PLA-Silk - Silk Green"
+    "title": "PLA-Silk - Silk Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7318,6 +8208,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -7334,9 +8226,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Fluorescent Green",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-FluorescentGreen",
-    "title": "95A-TPU - Fluorescent Green"
+    "title": "95A-TPU - Fluorescent Green",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -7359,6 +8254,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#0B6E4FFF",
@@ -7375,9 +8272,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Spinach Green",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matt-SpinachGreen",
-    "title": "PLA-Matte - Matte Spinach Green"
+    "title": "PLA-Matte - Matte Spinach Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7400,6 +8300,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#8A8A8AFF",
@@ -7416,9 +8318,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Cool Grey",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "PLA-CF-CoolGrey",
-    "title": "PLA-CF - Cool Grey"
+    "title": "PLA-CF - Cool Grey",
+    "updated_at": 1788423848866
   },
   {
     "RFID_Data": {
@@ -7441,6 +8346,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1E3A8AFF",
@@ -7457,9 +8364,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Galaxy Jewel Blue",
     "product_type": "Filament",
+    "series": "PETG-Galaxy",
     "sku": "PETG-Galaxy-JewelBlue",
-    "title": "PETG-Galaxy - Galaxy Jewel Blue"
+    "title": "PETG-Galaxy - Galaxy Jewel Blue",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -7482,6 +8392,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -7498,9 +8410,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cold white",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-ColdWhite",
-    "title": "PLA-Regular - Cold white"
+    "title": "PLA-Regular - Cold white",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7523,6 +8438,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFD500FF",
@@ -7539,9 +8456,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Carter Yellow",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-CarterYellow",
-    "title": "PETG-ECO - Carter Yellow"
+    "title": "PETG-ECO - Carter Yellow",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -7564,6 +8484,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -7580,9 +8502,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sparkly Green",
     "product_type": "Filament",
+    "series": "PETG-Sparkly",
     "sku": "PETG-Sparkly-Green",
-    "title": "PETG-Sparkly - Sparkly Green"
+    "title": "PETG-Sparkly - Sparkly Green",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -7605,6 +8530,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -7621,9 +8548,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Purple",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-Purple",
-    "title": "PLA-Matte - Matte Purple"
+    "title": "PLA-Matte - Matte Purple",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7646,6 +8576,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F5C400FF",
@@ -7662,9 +8594,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Yellow-New",
-    "title": "PLA-Rapid - Yellow"
+    "title": "PLA-Rapid - Yellow",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7687,6 +8622,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7A00FF",
@@ -7703,9 +8640,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-Orange",
-    "title": "ASA - Orange"
+    "title": "ASA - Orange",
+    "updated_at": 1788423321089
   },
   {
     "RFID_Data": {
@@ -7728,6 +8668,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -7744,9 +8686,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Purple-New",
-    "title": "PLA-Rapid - Purple"
+    "title": "PLA-Rapid - Purple",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7769,6 +8714,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#4A4A4AFF",
@@ -7785,9 +8732,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "PETG-CF-DarkGrey",
-    "title": "PETG-CF - Dark Grey"
+    "title": "PETG-CF - Dark Grey",
+    "updated_at": 1788423503176
   },
   {
     "RFID_Data": {
@@ -7810,6 +8760,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -7826,9 +8778,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Brown",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-Brown",
-    "title": "PLA-Matte - Matte Brown"
+    "title": "PLA-Matte - Matte Brown",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7851,6 +8806,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#808080FF",
@@ -7867,9 +8824,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Telecom Grey",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Telecom Grey",
-    "title": "95A-TPU - Telecom Grey"
+    "title": "95A-TPU - Telecom Grey",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -7892,6 +8852,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -7908,9 +8870,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Pink",
-    "title": "PLA-Regular - Pink"
+    "title": "PLA-Regular - Pink",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -7933,6 +8898,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0272DFF",
@@ -7949,9 +8916,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic DarkRed",
     "product_type": "Filament",
+    "series": "PETG-Metallic",
     "sku": "PETG-Metallic-DarkRed",
-    "title": "PETG-Metallic - Metallic DarkRed"
+    "title": "PETG-Metallic - Metallic DarkRed",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -7974,6 +8944,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -7990,9 +8962,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Carbon Blue",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "PLA-CF-CarbonBlue",
-    "title": "PLA-CF - Carbon Blue"
+    "title": "PLA-CF - Carbon Blue",
+    "updated_at": 1788423848866
   },
   {
     "RFID_Data": {
@@ -8015,6 +8990,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -8031,9 +9008,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galaxy Brown",
     "product_type": "Filament",
+    "series": "PLA-Galaxy",
     "sku": "PLA-GalaxyBrown",
-    "title": "PLA-Galaxy - Galaxy Brown"
+    "title": "PLA-Galaxy - Galaxy Brown",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -8056,6 +9036,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -8072,9 +9054,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Blue-New",
-    "title": "PLA-Rapid - Blue"
+    "title": "PLA-Rapid - Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -8097,6 +9082,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -8113,9 +9100,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-Purple",
-    "title": "ASA - Purple"
+    "title": "ASA - Purple",
+    "updated_at": 1788423321089
   },
   {
     "RFID_Data": {
@@ -8138,6 +9128,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7BC96FFF",
@@ -8154,9 +9146,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Pine-Green",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-Frosted Pine-Green",
-    "title": "PETG-GF - Frosted Pine-Green"
+    "title": "PETG-GF - Frosted Pine-Green",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -8179,6 +9174,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -8195,9 +9192,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-SkyBlue",
-    "title": "PETG-ECO - Sky Blue"
+    "title": "PETG-ECO - Sky Blue",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -8220,6 +9220,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -8236,9 +9238,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Red",
-    "title": "95A-TPU - Red"
+    "title": "95A-TPU - Red",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -8261,6 +9266,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -8277,9 +9284,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-Black",
-    "title": "PLA-Regular - Black"
+    "title": "PLA-Regular - Black",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -8302,6 +9312,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -8318,9 +9330,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Brown",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Brown",
-    "title": "PETG-Matte - Matte Brown"
+    "title": "PETG-Matte - Matte Brown",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -8343,6 +9358,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F1C6A7FF",
@@ -8359,9 +9376,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Skin",
-    "title": "PETG-ECO - Skin"
+    "title": "PETG-ECO - Skin",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -8384,6 +9404,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -8400,9 +9422,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Black",
-    "title": "95A-TPU - Black"
+    "title": "95A-TPU - Black",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -8425,6 +9450,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFD500FF",
@@ -8441,9 +9468,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Carter Yellow",
     "product_type": "Filament",
+    "series": "PC-GF",
     "sku": "PC-GF-Carter Yellow",
-    "title": "PC-GF - Carter Yellow"
+    "title": "PC-GF - Carter Yellow",
+    "updated_at": 1788423146215
   },
   {
     "RFID_Data": {
@@ -8466,6 +9496,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -8482,9 +9514,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Light Blue",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Light Blue",
-    "title": "PETG-Matte - Matte Light Blue"
+    "title": "PETG-Matte - Matte Light Blue",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -8507,6 +9542,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -8523,9 +9560,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent Blue",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-TransBlue",
-    "title": "95A-TPU - Transparent Blue"
+    "title": "95A-TPU - Transparent Blue",
+    "updated_at": 1792799660484
   },
   {
     "RFID_Data": {
@@ -8548,6 +9588,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -8564,9 +9606,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Light Blue",
     "product_type": "Filament",
+    "series": "PLA-Matte",
     "sku": "PLA-Matte-LightBlue",
-    "title": "PLA-Matte - Matte Light Blue"
+    "title": "PLA-Matte - Matte Light Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -8589,6 +9634,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C8C8C8FF",
@@ -8605,9 +9652,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-LightGrey",
-    "title": "95A-TPU - Light Grey"
+    "title": "95A-TPU - Light Grey",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -8630,6 +9680,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -8646,9 +9698,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro-Purple",
-    "title": "ABS-Pro - Purple"
+    "title": "ABS-Pro - Purple",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -8671,6 +9726,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1E3A8AFF",
@@ -8687,9 +9744,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Dark Blue",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-Frosted Dark Blue",
-    "title": "PETG-GF - Frosted Dark Blue"
+    "title": "PETG-GF - Frosted Dark Blue",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -8712,6 +9772,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F1C6A7FF",
@@ -8728,9 +9790,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Skin",
-    "title": "95A-TPU - Skin"
+    "title": "95A-TPU - Skin",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -8753,6 +9818,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E8DCC5FF",
@@ -8769,9 +9836,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Beige",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-Frosted Beige",
-    "title": "PETG-GF - Frosted Beige"
+    "title": "PETG-GF - Frosted Beige",
+    "updated_at": 1788422721769
   },
   {
     "RFID_Data": {
@@ -8794,6 +9864,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D4AF37FF",
@@ -8810,9 +9882,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Gold",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-LightGold",
-    "title": "PLA-Silk - Light Gold"
+    "title": "PLA-Silk - Light Gold",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -8835,6 +9910,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2B36AFF",
@@ -8851,9 +9928,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Apricot",
     "product_type": "Filament",
+    "series": "PC-GF",
     "sku": "PC-GF-Apricot",
-    "title": "PC-GF - Apricot"
+    "title": "PC-GF - Apricot",
+    "updated_at": 1788423146215
   },
   {
     "RFID_Data": {
@@ -8876,6 +9956,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -8892,9 +9974,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Black",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Black",
-    "title": "PETG-Matte - Matte Black"
+    "title": "PETG-Matte - Matte Black",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -8917,6 +10002,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C8C8C8FF",
@@ -8933,9 +10020,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble Light Grey",
     "product_type": "Filament",
+    "series": "PETG-Marble",
     "sku": "PETG-Marble-LightGrey",
-    "title": "PETG-Marble - Marble Light Grey"
+    "title": "PETG-Marble - Marble Light Grey",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -8958,6 +10048,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5B3A29FF",
@@ -8974,9 +10066,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Coffee",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-Coffee",
-    "title": "PETG-ECO - Coffee"
+    "title": "PETG-ECO - Coffee",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -8999,6 +10094,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -9015,9 +10112,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galaxy Blue",
     "product_type": "Filament",
+    "series": "PLA-Galaxy",
     "sku": "PLA-GalaxyBlue",
-    "title": "PLA-Galaxy - Galaxy Blue"
+    "title": "PLA-Galaxy - Galaxy Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -9040,6 +10140,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFD500FF",
@@ -9056,9 +10158,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Fluorescent Yellow",
     "product_type": "Filament",
+    "series": "PETG-ECO",
     "sku": "PETG-ECO-FluorescentYellow",
-    "title": "PETG-ECO - Fluorescent Yellow"
+    "title": "PETG-ECO - Fluorescent Yellow",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -9081,6 +10186,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -9097,9 +10204,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Ivory White",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Ivory White",
-    "title": "PETG-Matte - Matte Ivory White"
+    "title": "PETG-Matte - Matte Ivory White",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -9122,6 +10232,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D4AF37FF",
@@ -9138,9 +10250,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sparkly Dark Gold",
     "product_type": "Filament",
+    "series": "PETG-Sparkly",
     "sku": "PETG-Sparkly-DarkGold",
-    "title": "PETG-Sparkly - Sparkly Dark Gold"
+    "title": "PETG-Sparkly - Sparkly Dark Gold",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -9163,6 +10278,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7B3F3FFF",
@@ -9179,9 +10296,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red Bean Colour",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Red Bean Colour-New",
-    "title": "PLA-Rapid - Red Bean Colour"
+    "title": "PLA-Rapid - Red Bean Colour",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -9204,6 +10324,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -9220,9 +10342,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Frosted Black",
     "product_type": "Filament",
+    "series": "PC-GF",
     "sku": "PC-GF-Black",
-    "title": "PC-GF - Frosted Black"
+    "title": "PC-GF - Frosted Black",
+    "updated_at": 1788423146215
   },
   {
     "RFID_Data": {
@@ -9245,6 +10370,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F2F2F2",
@@ -9261,9 +10388,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent Yellow",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Trans-Yellow",
-    "title": "95A-TPU - Transparent Yellow"
+    "title": "95A-TPU - Transparent Yellow",
+    "updated_at": 1792799819883
   },
   {
     "RFID_Data": {
@@ -9286,6 +10416,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7BC96FFF",
@@ -9302,9 +10434,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Mint Green",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Mint Green",
-    "title": "PETG-Matte - Matte Mint Green"
+    "title": "PETG-Matte - Matte Mint Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -9327,6 +10462,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#0B6E4FFF",
@@ -9343,9 +10480,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Dark Green",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedDarkGreen",
-    "title": "PETG-GF - Frosted Dark Green"
+    "title": "PETG-GF - Frosted Dark Green",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -9368,6 +10508,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7BC96FFF",
@@ -9384,9 +10526,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lemon Green",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Lemon Green-New",
-    "title": "PLA-Rapid - Lemon Green"
+    "title": "PLA-Rapid - Lemon Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -9409,6 +10554,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1E3A8AFF",
@@ -9425,9 +10572,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-RoyalBlue",
-    "title": "PLA-Regular - Royal Blue"
+    "title": "PLA-Regular - Royal Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -9450,6 +10600,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -9466,9 +10618,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-Black",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1788423321089
   },
   {
     "RFID_Data": {
@@ -9491,6 +10646,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -9507,9 +10664,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Marble Magic Blue",
     "product_type": "Filament",
+    "series": "PETG-Marble",
     "sku": "PETG-Marble-MagicBlue",
-    "title": "PETG-Marble - Marble Magic Blue"
+    "title": "PETG-Marble - Marble Magic Blue",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -9532,6 +10692,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#22A94CFF",
@@ -9548,9 +10710,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow Green",
     "product_type": "Filament",
+    "series": "PLA-Glow",
     "sku": "PLA-GlowGreen",
-    "title": "PLA-Glow - Glow Green"
+    "title": "PLA-Glow - Glow Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -9573,6 +10738,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -9589,9 +10756,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Cold White",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro-CoolWhite",
-    "title": "ABS-Pro - Cold White"
+    "title": "ABS-Pro - Cold White",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -9614,6 +10784,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D6006DFF",
@@ -9630,9 +10802,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sparkly Magenta",
     "product_type": "Filament",
+    "series": "PETG-Sparkly",
     "sku": "PETG-Sparkly-Magenta",
-    "title": "PETG-Sparkly - Sparkly Magenta"
+    "title": "PETG-Sparkly - Sparkly Magenta",
+    "updated_at": 1788422229208
   },
   {
     "RFID_Data": {
@@ -9655,6 +10830,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#808080FF",
@@ -9671,9 +10848,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Grey-New",
-    "title": "PLA-Rapid - Grey"
+    "title": "PLA-Rapid - Grey",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -9696,6 +10876,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#159E7AFF",
@@ -9712,9 +10894,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Galaxy Gemstone Green",
     "product_type": "Filament",
+    "series": "PETG-Galaxy",
     "sku": "PETG-Galaxy-GemstoneGreen",
-    "title": "PETG-Galaxy - Galaxy Gemstone Green"
+    "title": "PETG-Galaxy - Galaxy Gemstone Green",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -9737,6 +10922,8 @@
       "id_unit": 21,
       "measure": 700
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1A",
@@ -9753,9 +10940,12 @@
     "info3": false,
     "material": "PP-CF",
     "measure": "700 g",
+    "name": "Matte Black",
     "product_type": "Filament",
+    "series": "PP-CF",
     "sku": "PP-CF-MatteBlack",
-    "title": "PP-CF - Matte Black"
+    "title": "PP-CF - Matte Black",
+    "updated_at": 1792799943575
   },
   {
     "RFID_Data": {
@@ -9778,6 +10968,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#D6006DFF",
@@ -9794,9 +10986,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Galaxy Fuchsia",
     "product_type": "Filament",
+    "series": "PETG-Galaxy",
     "sku": "PETG-Galaxy-Fuchsia",
-    "title": "PETG-Galaxy - Galaxy Fuchsia"
+    "title": "PETG-Galaxy - Galaxy Fuchsia",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -9819,6 +11014,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -9835,9 +11032,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Frosted White",
     "product_type": "Filament",
+    "series": "PC-GF",
     "sku": "PC-GF-White",
-    "title": "PC-GF - Frosted White"
+    "title": "PC-GF - Frosted White",
+    "updated_at": 1788423146215
   },
   {
     "RFID_Data": {
@@ -9860,6 +11060,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -9876,9 +11078,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Light Blue-New",
-    "title": "PLA-Rapid - Light Blue"
+    "title": "PLA-Rapid - Light Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -9901,6 +11106,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5A5A5AFF",
@@ -9917,9 +11124,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Metallic Space Grey",
     "product_type": "Filament",
+    "series": "PLA-Metallic",
     "sku": "PLA-Metallic-SpaceGrey",
-    "title": "PLA-Metallic - Metallic Space Grey"
+    "title": "PLA-Metallic - Metallic Space Grey",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -9942,6 +11152,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#5A5A5A",
@@ -9958,9 +11170,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Metal Space Grey",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU- SpaceGrey",
-    "title": "95A-TPU - Metal Space Grey"
+    "title": "95A-TPU - Metal Space Grey",
+    "updated_at": 1792800051464
   },
   {
     "RFID_Data": {
@@ -9983,6 +11198,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6A2C91FF",
@@ -9999,9 +11216,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Galaxy Purple",
     "product_type": "Filament",
+    "series": "PLA-Galaxy",
     "sku": "PLA-GalaxyPurple",
-    "title": "PLA-Galaxy - Galaxy Purple"
+    "title": "PLA-Galaxy - Galaxy Purple",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -10024,6 +11244,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F5C400FF",
@@ -10040,9 +11262,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Yellow",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Yellow",
-    "title": "PETG-Matte - Matte Yellow"
+    "title": "PETG-Matte - Matte Yellow",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -10065,6 +11290,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#6B8E23FF",
@@ -10081,9 +11308,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-OliveGreen",
-    "title": "ASA - Olive Green"
+    "title": "ASA - Olive Green",
+    "updated_at": 1788423321089
   },
   {
     "RFID_Data": {
@@ -10106,6 +11336,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7BC96FFF",
@@ -10122,9 +11354,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apple Green",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-AppleGreen",
-    "title": "PLA-Regular - Apple Green"
+    "title": "PLA-Regular - Apple Green",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -10147,6 +11382,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7A00FF",
@@ -10163,9 +11400,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Orange",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedOrange",
-    "title": "PETG-GF - Frosted Orange"
+    "title": "PETG-GF - Frosted Orange",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -10188,6 +11428,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -10204,9 +11446,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PLA-Regular",
     "sku": "PLA-SkyBlue",
-    "title": "PLA-Regular - Sky Blue"
+    "title": "PLA-Regular - Sky Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -10229,6 +11474,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -10245,9 +11492,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-White",
-    "title": "95A-TPU - White"
+    "title": "95A-TPU - White",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -10270,6 +11520,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1A1A1AFF",
@@ -10286,9 +11538,12 @@
     "info3": false,
     "material": "PET-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PET-GF",
     "sku": "PET-GF-Black",
-    "title": "PET-GF - Black"
+    "title": "PET-GF - Black",
+    "updated_at": 1788425122095
   },
   {
     "RFID_Data": {
@@ -10311,6 +11566,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFFFFFFF",
@@ -10327,9 +11584,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "ASA-White",
-    "title": "ASA - White"
+    "title": "ASA - White",
+    "updated_at": 1788423321089
   },
   {
     "RFID_Data": {
@@ -10352,6 +11612,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#E30613FF",
@@ -10368,9 +11630,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS-Pro",
     "sku": "ABS-Pro-Red",
-    "title": "ABS-Pro - Red"
+    "title": "ABS-Pro - Red",
+    "updated_at": 1788422971726
   },
   {
     "RFID_Data": {
@@ -10393,6 +11658,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FFD500FF",
@@ -10409,9 +11676,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Carter Yellow",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-FrostedCarterYellow",
-    "title": "PETG-GF - Frosted Carter Yellow"
+    "title": "PETG-GF - Frosted Carter Yellow",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -10434,6 +11704,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0272DFF",
@@ -10450,9 +11722,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Scarlet Red",
     "product_type": "Filament",
+    "series": "PETG-Matte",
     "sku": "PETG-Matte-Scarlet Red",
-    "title": "PETG-Matte - Matte Scarlet Red"
+    "title": "PETG-Matte - Matte Scarlet Red",
+    "updated_at": 1788422229207
   },
   {
     "RFID_Data": {
@@ -10475,6 +11750,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -10491,9 +11768,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lavender Pink",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Lavender Pink-New",
-    "title": "PLA-Rapid - Lavender Pink"
+    "title": "PLA-Rapid - Lavender Pink",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -10516,6 +11796,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -10532,9 +11814,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Carbon Blue",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "PETG-CF-CarbonBlue",
-    "title": "PETG-CF - Carbon Blue"
+    "title": "PETG-CF - Carbon Blue",
+    "updated_at": 1788423503176
   },
   {
     "RFID_Data": {
@@ -10557,6 +11842,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#B5A642FF",
@@ -10573,9 +11860,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Metallic Brass",
     "product_type": "Filament",
+    "series": "PLA-Metallic",
     "sku": "PLA-Metallic-Brass",
-    "title": "PLA-Metallic - Metallic Brass"
+    "title": "PLA-Metallic - Metallic Brass",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -10598,6 +11888,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#7EC8E3FF",
@@ -10614,9 +11906,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Frosted Water Blue",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "PETG-GF-WaterBlue",
-    "title": "PETG-GF - Frosted Water Blue"
+    "title": "PETG-GF - Frosted Water Blue",
+    "updated_at": 1788422721770
   },
   {
     "RFID_Data": {
@@ -10639,6 +11934,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#F7A8C4FF",
@@ -10655,9 +11952,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Pale Pink",
     "product_type": "Filament",
+    "series": "95A-TPU",
     "sku": "95A-TPU-Pale Pink",
-    "title": "95A-TPU - Pale Pink"
+    "title": "95A-TPU - Pale Pink",
+    "updated_at": 1788422312018
   },
   {
     "RFID_Data": {
@@ -10680,6 +11980,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#B87333FF",
@@ -10696,9 +11998,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Copper",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-Copper",
-    "title": "PLA-Silk - Silk Copper"
+    "title": "PLA-Silk - Silk Copper",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -10721,6 +12026,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#FF7F00FF",
@@ -10737,9 +12044,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Orange",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Light Orange-New",
-    "title": "PLA-Rapid - Light Orange"
+    "title": "PLA-Rapid - Light Orange",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -10762,6 +12072,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C3B091FF",
@@ -10778,9 +12090,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Khaki",
     "product_type": "Filament",
+    "series": "PLA-Rapid",
     "sku": "PLA-Khaki-New",
-    "title": "PLA-Rapid - Khaki"
+    "title": "PLA-Rapid - Khaki",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -10803,6 +12118,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#1565C0FF",
@@ -10819,9 +12136,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Blue",
     "product_type": "Filament",
+    "series": "PLA-Silk",
     "sku": "PLA-Silk-TealBlue",
-    "title": "PLA-Silk - Silk Blue"
+    "title": "PLA-Silk - Silk Blue",
+    "updated_at": 1788422409523
   },
   {
     "RFID_Data": {
@@ -10844,6 +12164,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Tinmorry",
     "color": "#C0C0C0FF",
@@ -10860,8 +12182,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Metallic Silver",
     "product_type": "Filament",
+    "series": "PLA-Metallic",
     "sku": "PLA-Metallic-Silver",
-    "title": "PLA-Metallic - Metallic Silver"
+    "title": "PLA-Metallic - Metallic Silver",
+    "updated_at": 1788422409523
   }
 ]

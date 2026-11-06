@@ -26,6 +26,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FF40FFFF",
@@ -44,9 +46,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Pink / Blue / Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "HOBBYLOBBY-SIL-PINK-BLUE-GREEN",
-    "title": "PLA Silk - Pink / Blue / Green"
+    "title": "PLA Silk - Pink / Blue / Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -72,6 +77,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#000000",
@@ -89,9 +96,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black / Pink",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "2589752",
-    "title": "PLA Silk - Black / Pink"
+    "title": "PLA Silk - Black / Pink",
+    "updated_at": 1793201463403
   },
   {
     "RFID_Data": {
@@ -114,6 +124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#836C46FF",
@@ -130,9 +142,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Beaver",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "HOBBYLOBBY-WOO-BEAVER",
-    "title": "PLA Wood - Beaver"
+    "title": "PLA Wood - Beaver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -158,6 +173,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#DC3278FF",
@@ -175,9 +192,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red / Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "HOBBYLOBBY-SIL-RED-BLUE",
-    "title": "PLA Silk - Red / Blue"
+    "title": "PLA Silk - Red / Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -200,6 +220,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#000000",
@@ -216,9 +238,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "2645349",
-    "title": "PLA Matte - Black"
+    "title": "PLA Matte - Black",
+    "updated_at": 1793201484135
   },
   {
     "RFID_Data": {
@@ -241,6 +266,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#BF96AD",
@@ -257,9 +284,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "2645364",
-    "title": "PLA Matte - Pink"
+    "title": "PLA Matte - Pink",
+    "updated_at": 1793201498545
   },
   {
     "RFID_Data": {
@@ -282,6 +312,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#002D33",
@@ -298,9 +330,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Burnt Titanium",
     "product_type": "Filament",
+    "series": "PLA Sparkle",
     "sku": "2645422",
-    "title": "PLA Sparkle - Burnt Titanium"
+    "title": "PLA Sparkle - Burnt Titanium",
+    "updated_at": 1793201547849
   },
   {
     "RFID_Data": {
@@ -329,6 +364,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FFDE21",
@@ -347,9 +384,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Yellow / Pink / Blue / Purple",
     "product_type": "Filament",
+    "series": "PLA Silk Rainbow",
     "sku": "2645414",
-    "title": "PLA Silk Rainbow - Yellow / Pink / Blue / Purple"
+    "title": "PLA Silk Rainbow - Yellow / Pink / Blue / Purple",
+    "updated_at": 1793201540901
   },
   {
     "RFID_Data": {
@@ -372,6 +412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FFFF00",
@@ -388,9 +430,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2589661",
-    "title": "PLA Basic - Yellow"
+    "title": "PLA Basic - Yellow",
+    "updated_at": 1793201400934
   },
   {
     "RFID_Data": {
@@ -413,6 +458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FFFFFF",
@@ -429,9 +476,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA+ Pro",
     "sku": "2645406",
-    "title": "PLA+ Pro - White"
+    "title": "PLA+ Pro - White",
+    "updated_at": 1793201534391
   },
   {
     "RFID_Data": {
@@ -457,6 +507,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#DB1F79",
@@ -474,9 +526,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Pink / Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "2645430",
-    "title": "PLA Silk - Pink / Blue"
+    "title": "PLA Silk - Pink / Blue",
+    "updated_at": 1793201555239
   },
   {
     "RFID_Data": {
@@ -505,6 +560,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FFFACDFF",
@@ -524,9 +581,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Pastel Rainbow",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "HOBBYLOBBY-SIL-PASTEL-RAINBOW",
-    "title": "PLA Silk - Pastel Rainbow"
+    "title": "PLA Silk - Pastel Rainbow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -549,6 +609,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#00FF00",
@@ -565,9 +627,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Luminous Green",
     "product_type": "Filament",
+    "series": "PLA Glow",
     "sku": "2645372",
-    "title": "PLA Glow - Luminous Green"
+    "title": "PLA Glow - Luminous Green",
+    "updated_at": 1793201506188
   },
   {
     "RFID_Data": {
@@ -590,6 +655,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#AF0303FF",
@@ -606,9 +673,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fire Truck Red",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "HOBBYLOBBY-BAS-FIRE-TRUCK-RED",
-    "title": "PLA Basic - Fire Truck Red"
+    "title": "PLA Basic - Fire Truck Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -637,6 +707,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#DC3278",
@@ -655,9 +727,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red / Blue / Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "2645448",
-    "title": "PLA Silk - Red / Blue / Green"
+    "title": "PLA Silk - Red / Blue / Green",
+    "updated_at": 1793201561744
   },
   {
     "RFID_Data": {
@@ -680,6 +755,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#76767D",
@@ -696,9 +773,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "2645356",
-    "title": "PLA Matte - Gray"
+    "title": "PLA Matte - Gray",
+    "updated_at": 1793201491284
   },
   {
     "RFID_Data": {
@@ -721,6 +801,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#111111",
@@ -737,9 +819,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU",
     "sku": "2645380",
-    "title": "TPU - Black"
+    "title": "TPU - Black",
+    "updated_at": 1793201512652
   },
   {
     "RFID_Data": {
@@ -762,6 +847,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#01CD92",
@@ -778,9 +865,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2645471",
-    "title": "PLA Basic - Green"
+    "title": "PLA Basic - Green",
+    "updated_at": 1793201581614
   },
   {
     "RFID_Data": {
@@ -803,6 +893,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#000000",
@@ -819,9 +911,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2589638",
-    "title": "PLA Basic - Black"
+    "title": "PLA Basic - Black",
+    "updated_at": 1793201376408
   },
   {
     "RFID_Data": {
@@ -850,6 +945,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FF0000FF",
@@ -869,9 +966,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red Purple Green Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "HOBBYLOBBY-SIL-RED-PURPLE-GREEN-BLUE",
-    "title": "PLA Silk - Red Purple Green Blue"
+    "title": "PLA Silk - Red Purple Green Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -894,6 +994,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FF8800",
@@ -910,9 +1012,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2589687",
-    "title": "PLA Basic - Orange"
+    "title": "PLA Basic - Orange",
+    "updated_at": 1793201415146
   },
   {
     "RFID_Data": {
@@ -935,6 +1040,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#EAA1B0",
@@ -951,9 +1058,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2589695",
-    "title": "PLA Basic - Pink"
+    "title": "PLA Basic - Pink",
+    "updated_at": 1793201422548
   },
   {
     "RFID_Data": {
@@ -976,6 +1086,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#4A2775",
@@ -992,9 +1104,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2589679",
-    "title": "PLA Basic - Purple"
+    "title": "PLA Basic - Purple",
+    "updated_at": 1793201408363
   },
   {
     "RFID_Data": {
@@ -1020,6 +1135,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#D32F2F",
@@ -1037,9 +1154,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red / Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "2645455",
-    "title": "PLA Silk - Red / Gold"
+    "title": "PLA Silk - Red / Gold",
+    "updated_at": 1793201568103
   },
   {
     "RFID_Data": {
@@ -1062,6 +1182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#8B0A1AFF",
@@ -1078,9 +1200,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Cherry",
     "product_type": "Filament",
+    "series": "PLA+ High Speed",
     "sku": "HOBBYLOBBY-HS-CHERRY",
-    "title": "PLA+ High Speed - Cherry"
+    "title": "PLA+ High Speed - Cherry",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1103,6 +1228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#D6D6D6",
@@ -1119,9 +1246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Marble",
     "sku": "2589760",
-    "title": "PLA Marble - White"
+    "title": "PLA Marble - White",
+    "updated_at": 1793201470252
   },
   {
     "RFID_Data": {
@@ -1144,6 +1274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#0000FFFF",
@@ -1160,9 +1292,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA+ Pro",
     "sku": "HOBBYLOBBY-PRO-BLUE",
-    "title": "PLA+ Pro - Blue"
+    "title": "PLA+ Pro - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1191,6 +1326,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FF0000",
@@ -1209,9 +1346,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rainbow",
     "product_type": "Filament",
+    "series": "PLA Silk Rainbow",
     "sku": "2589737",
-    "title": "PLA Silk Rainbow - Rainbow"
+    "title": "PLA Silk Rainbow - Rainbow",
+    "updated_at": 1793201450259
   },
   {
     "RFID_Data": {
@@ -1234,6 +1374,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#000000",
@@ -1250,9 +1392,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA+ Pro",
     "sku": "2645398",
-    "title": "PLA+ Pro - Black"
+    "title": "PLA+ Pro - Black",
+    "updated_at": 1793201527718
   },
   {
     "RFID_Data": {
@@ -1275,6 +1420,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FFFFFF",
@@ -1291,9 +1438,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2589703",
-    "title": "PLA Basic - White"
+    "title": "PLA Basic - White",
+    "updated_at": 1793201429983
   },
   {
     "RFID_Data": {
@@ -1316,6 +1466,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#111111",
@@ -1332,9 +1484,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "2645331",
-    "title": "PLA Silk - Black"
+    "title": "PLA Silk - Black",
+    "updated_at": 1793201476883
   },
   {
     "RFID_Data": {
@@ -1357,6 +1512,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#3C39C6",
@@ -1373,9 +1530,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2589646",
-    "title": "PLA Basic - Blue"
+    "title": "PLA Basic - Blue",
+    "updated_at": 1793201387206
   },
   {
     "RFID_Data": {
@@ -1398,6 +1558,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#C9A074",
@@ -1414,9 +1576,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "2589729",
-    "title": "PLA Wood - Wood"
+    "title": "PLA Wood - Wood",
+    "updated_at": 1793201443552
   },
   {
     "RFID_Data": {
@@ -1439,6 +1604,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#D4AF37",
@@ -1455,9 +1622,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2645463",
-    "title": "PLA Basic - Gold"
+    "title": "PLA Basic - Gold",
+    "updated_at": 1793201574558
   },
   {
     "RFID_Data": {
@@ -1480,6 +1650,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#7E8081",
@@ -1496,9 +1668,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2589711",
-    "title": "PLA Basic - Gray"
+    "title": "PLA Basic - Gray",
+    "updated_at": 1793201436783
   },
   {
     "RFID_Data": {
@@ -1521,6 +1696,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FF0000",
@@ -1537,9 +1714,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "2589653",
-    "title": "PLA Basic - Red"
+    "title": "PLA Basic - Red",
+    "updated_at": 1793201394448
   },
   {
     "RFID_Data": {
@@ -1562,6 +1742,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#D8D8D8",
@@ -1578,9 +1760,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "2589745",
-    "title": "PLA Silk - Silver"
+    "title": "PLA Silk - Silver",
+    "updated_at": 1793201456825
   },
   {
     "RFID_Data": {
@@ -1606,6 +1791,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#000000",
@@ -1623,9 +1810,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Candy Black / Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "2645489",
-    "title": "PLA Silk - Candy Black / Silver"
+    "title": "PLA Silk - Candy Black / Silver",
+    "updated_at": 1793201590202
   },
   {
     "RFID_Data": {
@@ -1654,6 +1844,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Hobby Lobby",
     "color": "#FFFF00FF",
@@ -1672,8 +1864,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Summer Reverie",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "HOBBYLOBBY-BAS-SUMMER-REVERIE",
-    "title": "PLA Basic - Summer Reverie"
+    "title": "PLA Basic - Summer Reverie",
+    "updated_at": null
   }
 ]

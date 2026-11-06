@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8A030FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEGLD17511",
-    "title": "PETG - Gold"
+    "title": "PETG - Gold",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPPNK17511",
-    "title": "PLA - Pink"
+    "title": "PLA - Pink",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sparkle Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA020012",
-    "title": "PLA - Sparkle Purple"
+    "title": "PLA - Sparkle Purple",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8A030FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Royal Gold",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPDGO17511",
-    "title": "PLA - Royal Gold"
+    "title": "PLA - Royal Gold",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cheesewood",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110022",
-    "title": "Rock PLA - Cheesewood"
+    "title": "Rock PLA - Cheesewood",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102E",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Red",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMRE17511",
-    "title": "Matte PLA - Pastel Red"
+    "title": "Matte PLA - Pastel Red",
+    "updated_at": 1792797686590
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A2E1EFF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001119",
-    "title": "PLA+ - Chocolate"
+    "title": "PLA+ - Chocolate",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#5AAF3CFF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grass Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010021",
-    "title": "PETG - Grass Green"
+    "title": "PETG - Grass Green",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBPNK11-010175",
-    "title": "Super PLA+ - Pink"
+    "title": "Super PLA+ - Pink",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#EDE6D6FF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "OVS-VFSNAT11-010132",
-    "title": "ASA - Natural"
+    "title": "ASA - Natural",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001109",
-    "title": "PLA+ - Olive Green"
+    "title": "PLA+ - Olive Green",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -477,6 +532,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -496,9 +553,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue-Red",
     "product_type": "Filament",
+    "series": "Matte PLA Gradient",
     "sku": "VSA040004",
-    "title": "Matte PLA Gradient - Blue-Red"
+    "title": "Matte PLA Gradient - Blue-Red",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -521,6 +581,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#B05030FF",
@@ -537,9 +599,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Copper",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VSA070009",
-    "title": "PLA Professional - Copper"
+    "title": "PLA Professional - Copper",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -562,6 +627,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -578,9 +645,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBPPL17511",
-    "title": "PLA Professional - Purple"
+    "title": "PLA Professional - Purple",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -603,6 +673,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A4E54FF",
@@ -619,9 +691,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Space Gray",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010015",
-    "title": "PETG - Space Gray"
+    "title": "PETG - Space Gray",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -644,6 +719,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -660,9 +737,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sparkle Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFESPB17511",
-    "title": "PETG - Sparkle Blue"
+    "title": "PETG - Sparkle Blue",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -685,6 +765,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -701,9 +783,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "VFAWHT17511",
-    "title": "ABS - White"
+    "title": "ABS - White",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -726,6 +811,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C83F8A",
@@ -742,9 +829,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Neon Magenta",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030010",
-    "title": "High Speed TPU - Neon Magenta"
+    "title": "High Speed TPU - Neon Magenta",
+    "updated_at": 1792797745000
   },
   {
     "RFID_Data": {
@@ -773,6 +863,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -792,9 +884,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Chrome Gray",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030014",
-    "title": "Silk PLA Gradient - Silk Chrome Gray"
+    "title": "Silk PLA Gradient - Silk Chrome Gray",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -817,6 +912,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -833,9 +930,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Green",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090016",
-    "title": "Easy PLA - Easy Green"
+    "title": "Easy PLA - Easy Green",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -858,6 +958,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8342CFF",
@@ -874,9 +976,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fresh Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170034",
-    "title": "PLA - Fresh Red"
+    "title": "PLA - Fresh Red",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -899,6 +1004,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -915,9 +1022,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBLGR11-010166",
-    "title": "Super PLA+ - Light Gray"
+    "title": "Super PLA+ - Light Gray",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -940,6 +1050,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0",
@@ -956,9 +1068,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "OVS-VFFMWD11-010146",
-    "title": "Matte PLA - Wood"
+    "title": "Matte PLA - Wood",
+    "updated_at": 1792797783994
   },
   {
     "RFID_Data": {
@@ -981,6 +1096,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E07898",
@@ -997,9 +1114,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Pastel Rose",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030011",
-    "title": "High Speed TPU - Pastel Rose"
+    "title": "High Speed TPU - Pastel Rose",
+    "updated_at": 1792797784003
   },
   {
     "RFID_Data": {
@@ -1022,6 +1142,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -1038,9 +1160,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Starry Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFESBU17511",
-    "title": "PETG - Starry Blue"
+    "title": "PETG - Starry Blue",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -1063,6 +1188,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C83F8AFF",
@@ -1079,9 +1206,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010022",
-    "title": "PETG - Magenta"
+    "title": "PETG - Magenta",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -1104,6 +1234,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -1120,9 +1252,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001008",
-    "title": "PLA+ - Red"
+    "title": "PLA+ - Red",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -1145,6 +1280,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A4B2AFF",
@@ -1161,9 +1298,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPBRW11-010031",
-    "title": "PLA - Brown"
+    "title": "PLA - Brown",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -1186,6 +1326,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#8FC0E8FF",
@@ -1202,9 +1344,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBLBU11-010042",
-    "title": "PLA Professional - Light Blue"
+    "title": "PLA Professional - Light Blue",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -1227,6 +1372,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -1243,9 +1390,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPPPL17511",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -1268,6 +1418,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -1284,9 +1436,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "OVS-VFPWHE13-010110",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -1309,6 +1464,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#EDF0F2FF",
@@ -1325,9 +1482,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Cold White",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001122",
-    "title": "PLA+ - Cold White"
+    "title": "PLA+ - Cold White",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -1350,6 +1510,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842A",
@@ -1366,9 +1528,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VSD010006",
-    "title": "TPU 95A - Neon Orange"
+    "title": "TPU 95A - Neon Orange",
+    "updated_at": 1792797832166
   },
   {
     "RFID_Data": {
@@ -1391,6 +1556,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -1407,9 +1574,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010016",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -1432,6 +1602,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#5A6340FF",
@@ -1448,9 +1620,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010013",
-    "title": "PETG - Army Green"
+    "title": "PETG - Army Green",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -1473,6 +1648,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -1489,9 +1666,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mist Gray",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110007",
-    "title": "Rock PLA - Mist Gray"
+    "title": "Rock PLA - Mist Gray",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -1514,6 +1694,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -1530,9 +1712,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170033",
-    "title": "PLA - Pink"
+    "title": "PLA - Pink",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -1555,6 +1740,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -1571,9 +1758,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "OVS-VFSYLW11-010136",
-    "title": "ASA - Yellow"
+    "title": "ASA - Yellow",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -1596,6 +1786,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A4E54FF",
@@ -1612,9 +1804,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Space Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPSGR17511",
-    "title": "PLA - Space Gray"
+    "title": "PLA - Space Gray",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -1637,6 +1832,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A4B2AFF",
@@ -1653,9 +1850,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "OVS-VFSBRW11-010137",
-    "title": "ASA - Brown"
+    "title": "ASA - Brown",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -1678,6 +1878,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -1694,9 +1896,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Pink",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090027",
-    "title": "Easy PLA - Easy Pink"
+    "title": "Easy PLA - Easy Pink",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -1719,6 +1924,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03C",
@@ -1735,9 +1942,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Translucent Green",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030007",
-    "title": "High Speed TPU - Translucent Green"
+    "title": "High Speed TPU - Translucent Green",
+    "updated_at": 1792797853075
   },
   {
     "RFID_Data": {
@@ -1760,6 +1970,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -1776,9 +1988,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "VFAYLW11-010073",
-    "title": "ABS - Yellow"
+    "title": "ABS - Yellow",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -1801,6 +2016,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#6B8E23FF",
@@ -1817,9 +2034,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001002",
-    "title": "PLA+ - Olive Green"
+    "title": "PLA+ - Olive Green",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -1842,6 +2062,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -1858,9 +2080,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSTWHT17511",
-    "title": "High Speed TPU - White"
+    "title": "High Speed TPU - White",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -1883,6 +2108,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230",
@@ -1899,9 +2126,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow Yellow",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090004",
-    "title": "Easy PLA - Glow Yellow"
+    "title": "Easy PLA - Glow Yellow",
+    "updated_at": 1792844401383
   },
   {
     "RFID_Data": {
@@ -1924,6 +2154,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -1940,9 +2172,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Baby Pink",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VSA040008",
-    "title": "Matte PLA - Baby Pink"
+    "title": "Matte PLA - Baby Pink",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -1965,6 +2200,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A2E1EFF",
@@ -1981,9 +2218,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001076",
-    "title": "PLA+ - Chocolate"
+    "title": "PLA+ - Chocolate",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -2006,6 +2246,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -2022,9 +2264,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Shimmer Silver Green",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090006",
-    "title": "Easy PLA - Shimmer Silver Green"
+    "title": "Easy PLA - Shimmer Silver Green",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -2047,6 +2292,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -2063,9 +2310,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170029",
-    "title": "PLA - Green"
+    "title": "PLA - Green",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -2088,6 +2338,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -2104,9 +2356,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "VFSORG11-010083",
-    "title": "ASA - Orange"
+    "title": "ASA - Orange",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -2129,6 +2384,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#DDDDDD",
@@ -2145,9 +2402,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PC Professional",
     "sku": "OVS-VFDTRA11-010203",
-    "title": "PC Professional - Transparent"
+    "title": "PC Professional - Transparent",
+    "updated_at": 1792797902579
   },
   {
     "RFID_Data": {
@@ -2176,6 +2436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -2195,9 +2457,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Parakeet",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030010",
-    "title": "Silk PLA Gradient - Silk Parakeet"
+    "title": "Silk PLA Gradient - Silk Parakeet",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -2220,6 +2485,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -2236,9 +2503,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Black",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VFPBLK11-010090",
-    "title": "Easy PLA - Easy Black"
+    "title": "Easy PLA - Easy Black",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -2261,6 +2531,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -2277,9 +2549,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Digital Blue",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTETB17511",
-    "title": "TPU 95A - Digital Blue"
+    "title": "TPU 95A - Digital Blue",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -2302,6 +2577,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2E82AFF",
@@ -2318,9 +2595,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Highlight Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPHLY11-010036",
-    "title": "PLA - Highlight Yellow"
+    "title": "PLA - Highlight Yellow",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -2343,6 +2623,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -2359,9 +2641,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC Professional",
     "sku": "OVS-VFDBLK11-010199",
-    "title": "PC Professional - Black"
+    "title": "PC Professional - Black",
+    "updated_at": 1788321197766
   },
   {
     "RFID_Data": {
@@ -2384,6 +2669,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -2400,9 +2687,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPGRN17511",
-    "title": "PLA - Green"
+    "title": "PLA - Green",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -2425,6 +2715,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -2441,9 +2733,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Digital Blue",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VFPDBL11-010088",
-    "title": "Easy PLA - Easy Digital Blue"
+    "title": "Easy PLA - Easy Digital Blue",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -2466,6 +2761,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -2482,9 +2779,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Moonlight Silver",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VSA070011",
-    "title": "PLA Professional - Moonlight Silver"
+    "title": "PLA Professional - Moonlight Silver",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -2513,6 +2813,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -2532,9 +2834,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Tropical Jungle",
     "product_type": "Filament",
+    "series": "Rock PLA Gradient",
     "sku": "VSA110020",
-    "title": "Rock PLA Gradient - Tropical Jungle"
+    "title": "Rock PLA Gradient - Tropical Jungle",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -2557,6 +2862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842A",
@@ -2573,9 +2880,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow Orange",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090001",
-    "title": "Easy PLA - Glow Orange"
+    "title": "Easy PLA - Glow Orange",
+    "updated_at": 1792844415170
   },
   {
     "RFID_Data": {
@@ -2598,6 +2908,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -2614,9 +2926,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMGN17511",
-    "title": "Matte PLA - Green"
+    "title": "Matte PLA - Green",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -2639,6 +2954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -2655,9 +2972,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010019",
-    "title": "PETG - Purple"
+    "title": "PETG - Purple",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -2680,6 +3000,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -2696,9 +3018,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Jarrah",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110023",
-    "title": "Rock PLA - Jarrah"
+    "title": "Rock PLA - Jarrah",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -2721,6 +3046,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -2737,9 +3064,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PC Professional",
     "sku": "OVS-VFDBLE11-010202",
-    "title": "PC Professional - Blue"
+    "title": "PC Professional - Blue",
+    "updated_at": 1788321197766
   },
   {
     "RFID_Data": {
@@ -2762,6 +3092,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8A030FF",
@@ -2778,9 +3110,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Gold",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VSA030019",
-    "title": "Silk PLA - Light Gold"
+    "title": "Silk PLA - Light Gold",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -2803,6 +3138,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -2819,9 +3156,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "OVS-VFSPUR11-010123",
-    "title": "ABS - Purple"
+    "title": "ABS - Purple",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -2844,6 +3184,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#8FC0E8FF",
@@ -2860,9 +3202,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPLBU11-010026",
-    "title": "PLA - Light Blue"
+    "title": "PLA - Light Blue",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -2891,6 +3236,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -2910,9 +3257,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Blue-Yellow",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "OVS-VFPBLY11-010120",
-    "title": "Silk PLA Gradient - Silk Blue-Yellow"
+    "title": "Silk PLA Gradient - Silk Blue-Yellow",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -2935,6 +3285,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#5AAF3CFF",
@@ -2951,9 +3303,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grass Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEGGR11-010053",
-    "title": "PETG - Grass Green"
+    "title": "PETG - Grass Green",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -2976,6 +3331,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#5A6340FF",
@@ -2992,9 +3349,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "OVS-VFBAGN11-010163",
-    "title": "PLA Professional - Army Green"
+    "title": "PLA Professional - Army Green",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -3023,6 +3383,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -3042,9 +3404,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Northern Lights",
     "product_type": "Filament",
+    "series": "PLA Gradient",
     "sku": "VSA020013",
-    "title": "PLA Gradient - Northern Lights"
+    "title": "PLA Gradient - Northern Lights",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -3067,6 +3432,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -3083,9 +3450,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001011",
-    "title": "PLA+ - Purple"
+    "title": "PLA+ - Purple",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -3108,6 +3478,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -3124,9 +3496,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBRED11-010172",
-    "title": "Super PLA+ - Red"
+    "title": "Super PLA+ - Red",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -3149,6 +3524,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -3165,9 +3542,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBWTE17511",
-    "title": "PLA Professional - White"
+    "title": "PLA Professional - White",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -3190,6 +3570,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -3206,9 +3588,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001004",
-    "title": "PLA+ - Orange"
+    "title": "PLA+ - Orange",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -3231,6 +3616,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -3247,9 +3634,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Silver",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPSSV11-010067",
-    "title": "Silk PLA - Silk Silver"
+    "title": "Silk PLA - Silk Silver",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -3272,6 +3662,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -3288,9 +3680,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy White",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VFPWTE11-010091",
-    "title": "Easy PLA - Easy White"
+    "title": "Easy PLA - Easy White",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -3313,6 +3708,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -3329,9 +3726,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Red",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPSRE17511",
-    "title": "Silk PLA - Silk Red"
+    "title": "Silk PLA - Silk Red",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -3354,6 +3754,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -3370,9 +3772,12 @@
     "info3": false,
     "material": "PA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Easy Nylon",
     "sku": "VFNBLK17511",
-    "title": "Easy Nylon - Black"
+    "title": "Easy Nylon - Black",
+    "updated_at": 1788321334786
   },
   {
     "RFID_Data": {
@@ -3395,6 +3800,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03C",
@@ -3411,9 +3818,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Glow Green",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "VFAGGR11-010071",
-    "title": "ABS - Glow Green"
+    "title": "ABS - Glow Green",
+    "updated_at": 1792844428597
   },
   {
     "RFID_Data": {
@@ -3442,6 +3852,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -3461,9 +3873,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Gold-Silver",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "OVS-VFPGOS11-010113",
-    "title": "Silk PLA Gradient - Silk Gold-Silver"
+    "title": "Silk PLA Gradient - Silk Gold-Silver",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -3486,6 +3901,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -3502,9 +3919,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "VFSBLK11-010079",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -3527,6 +3947,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -3543,9 +3965,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Purple",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090021",
-    "title": "Easy PLA - Easy Purple"
+    "title": "Easy PLA - Easy Purple",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -3574,6 +3999,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -3593,9 +4020,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Purple Chrome",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030002",
-    "title": "Silk PLA Gradient - Silk Purple Chrome"
+    "title": "Silk PLA Gradient - Silk Purple Chrome",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -3618,6 +4048,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#EDE6D6",
@@ -3634,9 +4066,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Matte Natural",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTTRA11-010059",
-    "title": "TPU 95A - Matte Natural"
+    "title": "TPU 95A - Matte Natural",
+    "updated_at": 1792798053900
   },
   {
     "RFID_Data": {
@@ -3659,6 +4094,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A4B2AFF",
@@ -3675,9 +4112,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Brown",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMLB17511",
-    "title": "Matte PLA - Light Brown"
+    "title": "Matte PLA - Light Brown",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -3706,6 +4146,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -3725,9 +4167,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Golden Ember",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030011",
-    "title": "Silk PLA Gradient - Silk Golden Ember"
+    "title": "Silk PLA Gradient - Silk Golden Ember",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -3750,6 +4195,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A2E1EFF",
@@ -3766,9 +4213,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBCHO11-010048",
-    "title": "PLA Professional - Chocolate"
+    "title": "PLA Professional - Chocolate",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -3791,6 +4241,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0",
@@ -3807,9 +4259,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver Metal",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "OVS-VFBSMT11-010164",
-    "title": "PLA Professional - Silver Metal"
+    "title": "PLA Professional - Silver Metal",
+    "updated_at": 1792798071177
   },
   {
     "RFID_Data": {
@@ -3832,6 +4287,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -3848,9 +4305,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Red",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "VFADRE11-010078",
-    "title": "ABS - Dark Red"
+    "title": "ABS - Dark Red",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -3873,6 +4333,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -3889,9 +4351,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001114",
-    "title": "PLA+ - Blue"
+    "title": "PLA+ - Blue",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -3914,6 +4379,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -3930,9 +4397,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PC Professional",
     "sku": "OVS-VFDWTE11-010198",
-    "title": "PC Professional - White"
+    "title": "PC Professional - White",
+    "updated_at": 1788321197766
   },
   {
     "RFID_Data": {
@@ -3955,6 +4425,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#8FC0E8FF",
@@ -3971,9 +4443,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light blue",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFLBE17511",
-    "title": "Matte PLA - Light blue"
+    "title": "Matte PLA - Light blue",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -3996,6 +4471,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#EDE6D6FF",
@@ -4012,9 +4489,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "OVS-VFSNAT11-010121",
-    "title": "ABS - Natural"
+    "title": "ABS - Natural",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -4037,6 +4517,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -4053,9 +4535,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "VFABLK17511",
-    "title": "ABS - Black"
+    "title": "ABS - Black",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -4078,6 +4563,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -4094,9 +4581,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFPNK17511",
-    "title": "Matte PLA - Pink"
+    "title": "Matte PLA - Pink",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -4125,6 +4615,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -4144,9 +4636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Aurora Berry",
     "product_type": "Filament",
+    "series": "PLA Gradient",
     "sku": "VSA020008",
-    "title": "PLA Gradient - Aurora Berry"
+    "title": "PLA Gradient - Aurora Berry",
+    "updated_at": 1788320066275
   },
   {
     "RFID_Data": {
@@ -4169,6 +4664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -4185,9 +4682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170042",
-    "title": "PLA - Orange"
+    "title": "PLA - Orange",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -4210,6 +4710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#30C0B0FF",
@@ -4226,9 +4728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Turquoise",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VSA040011",
-    "title": "Matte PLA - Turquoise"
+    "title": "Matte PLA - Turquoise",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -4251,6 +4756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -4267,9 +4774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Marigold Yellow",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110012",
-    "title": "Rock PLA - Marigold Yellow"
+    "title": "Rock PLA - Marigold Yellow",
+    "updated_at": 1788320066276
   },
   {
     "RFID_Data": {
@@ -4292,6 +4802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A4B2AFF",
@@ -4308,9 +4820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170045",
-    "title": "PLA - Brown"
+    "title": "PLA - Brown",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -4333,6 +4848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#5AAF3CFF",
@@ -4349,9 +4866,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Grass Green",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSTGGN17511",
-    "title": "High Speed TPU - Grass Green"
+    "title": "High Speed TPU - Grass Green",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -4374,6 +4894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#B05030FF",
@@ -4390,9 +4912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Copper",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPSCP17511",
-    "title": "Silk PLA - Silk Copper"
+    "title": "Silk PLA - Silk Copper",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -4415,6 +4940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -4431,9 +4958,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEWTE17511",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -4462,6 +4992,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -4481,9 +5013,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Blue-Silver",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "OVS-VFPBLS11-010116",
-    "title": "Silk PLA Gradient - Silk Blue-Silver"
+    "title": "Silk PLA Gradient - Silk Blue-Silver",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -4506,6 +5041,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A4E54FF",
@@ -4522,9 +5059,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Space Gray",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBSGR17511",
-    "title": "PLA Professional - Space Gray"
+    "title": "PLA Professional - Space Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -4547,6 +5087,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A2E1EFF",
@@ -4563,9 +5105,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPCHO11-010032",
-    "title": "PLA - Chocolate"
+    "title": "PLA - Chocolate",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -4588,6 +5133,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -4604,9 +5151,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sparkle Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA020009",
-    "title": "PLA - Sparkle Black"
+    "title": "PLA - Sparkle Black",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -4629,6 +5179,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#EDF0F2FF",
@@ -4645,9 +5197,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cold White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA020004",
-    "title": "PLA - Cold White"
+    "title": "PLA - Cold White",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -4670,6 +5225,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -4686,9 +5243,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "VFSGRY11-010080",
-    "title": "ASA - Gray"
+    "title": "ASA - Gray",
+    "updated_at": 1788321089990
   },
   {
     "RFID_Data": {
@@ -4711,6 +5271,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -4727,9 +5289,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Butter Yellow",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VSA040007",
-    "title": "Matte PLA - Butter Yellow"
+    "title": "Matte PLA - Butter Yellow",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -4752,6 +5317,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -4768,9 +5335,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Champagne Frost",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA020022",
-    "title": "PLA - Champagne Frost"
+    "title": "PLA - Champagne Frost",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -4793,6 +5363,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -4809,9 +5381,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBWTE11-010165",
-    "title": "Super PLA+ - White"
+    "title": "Super PLA+ - White",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -4834,6 +5409,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#A87332FF",
@@ -4850,9 +5427,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Shimmer Bronze",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090007",
-    "title": "Easy PLA - Shimmer Bronze"
+    "title": "Easy PLA - Shimmer Bronze",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -4875,6 +5455,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -4891,9 +5473,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "OVS-VFTORG11-010153",
-    "title": "High Speed TPU - Orange"
+    "title": "High Speed TPU - Orange",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -4916,6 +5501,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -4932,9 +5519,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMBU17511",
-    "title": "Matte PLA - Blue"
+    "title": "Matte PLA - Blue",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -4957,6 +5547,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -4973,9 +5565,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Luminous Pink",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030012",
-    "title": "High Speed TPU - Luminous Pink"
+    "title": "High Speed TPU - Luminous Pink",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -4998,6 +5593,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#D8C9A8FF",
@@ -5014,9 +5611,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Beige",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090024",
-    "title": "Easy PLA - Easy Beige"
+    "title": "Easy PLA - Easy Beige",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5039,6 +5639,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8342CFF",
@@ -5055,9 +5657,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Fresh Red",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "OVS-VFPFRD11-010161",
-    "title": "Silk PLA - Silk Fresh Red"
+    "title": "Silk PLA - Silk Fresh Red",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -5080,6 +5685,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -5096,9 +5703,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPYLW17511",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5121,6 +5731,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -5137,9 +5749,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001010",
-    "title": "PLA+ - Pink"
+    "title": "PLA+ - Pink",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5162,6 +5777,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -5178,9 +5795,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Haze Gray",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110010",
-    "title": "Rock PLA - Haze Gray"
+    "title": "Rock PLA - Haze Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5203,6 +5823,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1A",
@@ -5219,9 +5841,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Matte Black",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTBLK17511",
-    "title": "TPU 95A - Matte Black"
+    "title": "TPU 95A - Matte Black",
+    "updated_at": 1792798224071
   },
   {
     "RFID_Data": {
@@ -5244,6 +5869,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#8A8D8AFF",
@@ -5260,9 +5887,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cement Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPCGR11-010070",
-    "title": "PLA - Cement Gray"
+    "title": "PLA - Cement Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5285,6 +5915,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -5301,9 +5933,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Rock White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFERWT17511",
-    "title": "PETG - Rock White"
+    "title": "PETG - Rock White",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -5326,6 +5961,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A4E54FF",
@@ -5342,9 +5979,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Space Gray",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001121",
-    "title": "PLA+ - Space Gray"
+    "title": "PLA+ - Space Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5367,6 +6007,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -5383,9 +6025,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170032",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5414,6 +6059,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -5433,9 +6080,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Glacier Flash",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030006",
-    "title": "Silk PLA Gradient - Silk Glacier Flash"
+    "title": "Silk PLA Gradient - Silk Glacier Flash",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -5458,6 +6108,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03C",
@@ -5474,9 +6126,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VSD010005",
-    "title": "TPU 95A - Neon Green"
+    "title": "TPU 95A - Neon Green",
+    "updated_at": 1792798265575
   },
   {
     "RFID_Data": {
@@ -5499,6 +6154,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A4E54FF",
@@ -5515,9 +6172,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Space Gray",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VFPSGR11-010086",
-    "title": "Easy PLA - Easy Space Gray"
+    "title": "Easy PLA - Easy Space Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5540,6 +6200,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -5556,9 +6218,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bamboo Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VSA040009",
-    "title": "Matte PLA - Bamboo Green"
+    "title": "Matte PLA - Bamboo Green",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -5581,6 +6246,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#6B8E23FF",
@@ -5597,9 +6264,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPOLI11-010023",
-    "title": "PLA - Olive Green"
+    "title": "PLA - Olive Green",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5622,6 +6292,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -5638,9 +6310,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010023",
-    "title": "PETG - Pink"
+    "title": "PETG - Pink",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -5663,6 +6338,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -5679,9 +6356,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPRED17511",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5704,6 +6384,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -5720,9 +6402,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Diamond Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "OVS-VFSDGR11-010140",
-    "title": "ASA - Diamond Green"
+    "title": "ASA - Diamond Green",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -5745,6 +6430,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -5761,9 +6448,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001015",
-    "title": "PLA+ - Black"
+    "title": "PLA+ - Black",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5786,6 +6476,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9E",
@@ -5802,9 +6494,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Translucent Purple",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030008",
-    "title": "High Speed TPU - Translucent Purple"
+    "title": "High Speed TPU - Translucent Purple",
+    "updated_at": 1792798353265
   },
   {
     "RFID_Data": {
@@ -5833,6 +6528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -5852,9 +6549,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rocket Pop",
     "product_type": "Filament",
+    "series": "PLA Gradient",
     "sku": "VSA020016",
-    "title": "PLA Gradient - Rocket Pop"
+    "title": "PLA Gradient - Rocket Pop",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5877,6 +6577,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03C",
@@ -5893,9 +6595,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFETGE17511",
-    "title": "PETG - Transparent Green"
+    "title": "PETG - Transparent Green",
+    "updated_at": 1792798358379
   },
   {
     "RFID_Data": {
@@ -5918,6 +6623,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -5934,9 +6641,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Rock White",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VFPRWT11-010089",
-    "title": "Easy PLA - Easy Rock White"
+    "title": "Easy PLA - Easy Rock White",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -5959,6 +6669,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8A030FF",
@@ -5975,9 +6687,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Gold",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPSGO17511",
-    "title": "Silk PLA - Silk Gold"
+    "title": "Silk PLA - Silk Gold",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -6000,6 +6715,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -6016,9 +6733,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSTBLK17511",
-    "title": "High Speed TPU - Black"
+    "title": "High Speed TPU - Black",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -6041,6 +6761,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -6057,9 +6779,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001123",
-    "title": "PLA+ - White"
+    "title": "PLA+ - White",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6082,6 +6807,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -6098,9 +6825,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Diamond Red",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "OVS-VFSDRE11-010139",
-    "title": "ASA - Diamond Red"
+    "title": "ASA - Diamond Red",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -6123,6 +6853,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -6139,9 +6871,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBORG17511",
-    "title": "PLA Professional - Orange"
+    "title": "PLA Professional - Orange",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6164,6 +6899,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8342CFF",
@@ -6180,9 +6917,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Fresh Red",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001116",
-    "title": "PLA+ - Fresh Red"
+    "title": "PLA+ - Fresh Red",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6205,6 +6945,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Neon",
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03C",
@@ -6221,9 +6963,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Neon green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPSLN17511",
-    "title": "Silk PLA - Silk Neon green"
+    "title": "Silk PLA - Silk Neon green",
+    "updated_at": 1792798908501
   },
   {
     "RFID_Data": {
@@ -6246,6 +6991,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#5AAF3CFF",
@@ -6262,9 +7009,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grass green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFGGR17511",
-    "title": "Matte PLA - Grass green"
+    "title": "Matte PLA - Grass green",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -6287,6 +7037,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -6303,9 +7055,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Luminous Orange",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030006",
-    "title": "High Speed TPU - Luminous Orange"
+    "title": "High Speed TPU - Luminous Orange",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -6328,6 +7083,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -6344,9 +7101,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "VFAGRY17511",
-    "title": "ABS - Gray"
+    "title": "ABS - Gray",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -6369,6 +7129,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A4B2AFF",
@@ -6385,9 +7147,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Light Brown",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBLBW11-010176",
-    "title": "Super PLA+ - Light Brown"
+    "title": "Super PLA+ - Light Brown",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6410,6 +7175,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -6426,9 +7193,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPLGR17511",
-    "title": "PLA - Light Gray"
+    "title": "PLA - Light Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6451,6 +7221,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2E82AFF",
@@ -6467,9 +7239,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Highlight Yellow",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VSA070001",
-    "title": "PLA Professional - Highlight Yellow"
+    "title": "PLA Professional - Highlight Yellow",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6492,6 +7267,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -6508,9 +7285,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light gray",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMLGR17511",
-    "title": "Matte PLA - Light gray"
+    "title": "Matte PLA - Light gray",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -6533,6 +7313,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#6B8E23FF",
@@ -6549,9 +7331,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBOLI11-010039",
-    "title": "PLA Professional - Olive Green"
+    "title": "PLA Professional - Olive Green",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6580,6 +7365,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -6599,9 +7386,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Tiger Eye",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030015",
-    "title": "Silk PLA Gradient - Silk Tiger Eye"
+    "title": "Silk PLA Gradient - Silk Tiger Eye",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -6624,6 +7414,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#6B8E23FF",
@@ -6640,9 +7432,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "OT1001054",
-    "title": "PLA - Olive Green"
+    "title": "PLA - Olive Green",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6665,6 +7460,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -6681,9 +7478,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMPP17511",
-    "title": "Matte PLA - Purple"
+    "title": "Matte PLA - Purple",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -6706,6 +7506,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -6722,9 +7524,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Yellow",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090025",
-    "title": "Easy PLA - Easy Yellow"
+    "title": "Easy PLA - Easy Yellow",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6753,6 +7558,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1E",
@@ -6772,9 +7579,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rainbow",
     "product_type": "Filament",
+    "series": "Matte PLA Gradient",
     "sku": "VSA110003",
-    "title": "Matte PLA Gradient - Rainbow"
+    "title": "Matte PLA Gradient - Rainbow",
+    "updated_at": 1792798979897
   },
   {
     "RFID_Data": {
@@ -6797,6 +7607,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E2E5AFF",
@@ -6813,9 +7625,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "OVS-VFFMNB11-010145",
-    "title": "Matte PLA - Navy Blue"
+    "title": "Matte PLA - Navy Blue",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -6838,6 +7653,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -6854,9 +7671,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001012",
-    "title": "PLA+ - Light Gray"
+    "title": "PLA+ - Light Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6879,6 +7699,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A4E54FF",
@@ -6895,9 +7717,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Space Gray",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001077",
-    "title": "PLA+ - Space Gray"
+    "title": "PLA+ - Space Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -6926,6 +7751,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -6945,9 +7772,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Green-Magenta",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "OVS-VFPGRM11-010119",
-    "title": "Silk PLA Gradient - Silk Green-Magenta"
+    "title": "Silk PLA Gradient - Silk Green-Magenta",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -6976,6 +7806,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -6995,9 +7827,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Red-Gold",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "OVS-VFPREG11-010115",
-    "title": "Silk PLA Gradient - Silk Red-Gold"
+    "title": "Silk PLA Gradient - Silk Red-Gold",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -7020,6 +7855,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -7036,9 +7873,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Sakura Pink",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBSKR11-010174",
-    "title": "Super PLA+ - Sakura Pink"
+    "title": "Super PLA+ - Sakura Pink",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7061,6 +7901,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -7077,9 +7919,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBBLA17511",
-    "title": "PLA Professional - Black"
+    "title": "PLA Professional - Black",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7108,6 +7953,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -7127,9 +7974,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wetland Green",
     "product_type": "Filament",
+    "series": "Rock PLA Gradient",
     "sku": "VSA110013",
-    "title": "Rock PLA Gradient - Wetland Green"
+    "title": "Rock PLA Gradient - Wetland Green",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7152,6 +8002,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -7168,9 +8020,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010011",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -7193,6 +8048,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#6B8E23FF",
@@ -7209,9 +8066,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "OVS-VFSOGR11-010133",
-    "title": "ASA - Olive Green"
+    "title": "ASA - Olive Green",
+    "updated_at": 1788321089990
   },
   {
     "RFID_Data": {
@@ -7234,6 +8094,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -7250,9 +8112,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001111",
-    "title": "PLA+ - Orange"
+    "title": "PLA+ - Orange",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7275,6 +8140,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -7291,9 +8158,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Yolk Yellow",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090018",
-    "title": "Easy PLA - Easy Yolk Yellow"
+    "title": "Easy PLA - Easy Yolk Yellow",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7316,6 +8186,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F5F5F5FF",
@@ -7332,9 +8204,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPWTE17511",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7363,6 +8238,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -7382,9 +8259,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Periwinkle",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030016",
-    "title": "Silk PLA Gradient - Silk Periwinkle"
+    "title": "Silk PLA Gradient - Silk Periwinkle",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -7407,6 +8287,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -7423,9 +8305,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Gray",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPSGA17511",
-    "title": "Silk PLA - Silk Gray"
+    "title": "Silk PLA - Silk Gray",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -7448,6 +8333,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -7464,9 +8351,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "VFABLE17511",
-    "title": "ABS - Blue"
+    "title": "ABS - Blue",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -7489,6 +8379,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102E",
@@ -7505,9 +8397,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFETRD17511",
-    "title": "PETG - Transparent Red"
+    "title": "PETG - Transparent Red",
+    "updated_at": 1792799050977
   },
   {
     "RFID_Data": {
@@ -7536,6 +8431,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -7555,9 +8452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Vaporwave",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030004",
-    "title": "Silk PLA Gradient - Silk Vaporwave"
+    "title": "Silk PLA Gradient - Silk Vaporwave",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -7580,6 +8480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -7596,9 +8498,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMYLW17511",
-    "title": "Matte PLA - Yellow"
+    "title": "Matte PLA - Yellow",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -7621,6 +8526,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -7637,9 +8544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "OVS-VFPBLK12-010107",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7662,6 +8572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -7678,9 +8590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VSA040013",
-    "title": "Matte PLA - Red"
+    "title": "Matte PLA - Red",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -7703,6 +8618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -7719,9 +8636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMLG11-010009",
-    "title": "Matte PLA - Light Green"
+    "title": "Matte PLA - Light Green",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -7744,6 +8664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -7760,9 +8682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Muted Gray",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110009",
-    "title": "Rock PLA - Muted Gray"
+    "title": "Rock PLA - Muted Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7785,6 +8710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#6A7A90FF",
@@ -7801,9 +8728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPGBU11-010034",
-    "title": "PLA - Gray Blue"
+    "title": "PLA - Gray Blue",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7832,6 +8762,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -7851,9 +8783,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Tequila Sunrise",
     "product_type": "Filament",
+    "series": "PLA Gradient",
     "sku": "VSA020014",
-    "title": "PLA Gradient - Tequila Sunrise"
+    "title": "PLA Gradient - Tequila Sunrise",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7876,6 +8811,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -7892,9 +8829,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "2000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030002",
-    "title": "High Speed TPU - Black"
+    "title": "High Speed TPU - Black",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -7917,6 +8857,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -7933,9 +8875,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Moonlight Gray",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110008",
-    "title": "Rock PLA - Moonlight Gray"
+    "title": "Rock PLA - Moonlight Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -7964,6 +8909,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -7983,9 +8930,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange-Red",
     "product_type": "Filament",
+    "series": "Matte PLA Gradient",
     "sku": "VSA040002",
-    "title": "Matte PLA Gradient - Orange-Red"
+    "title": "Matte PLA Gradient - Orange-Red",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -8008,6 +8958,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0",
@@ -8024,9 +8976,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Walnut Wood",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110024",
-    "title": "Rock PLA - Walnut Wood"
+    "title": "Rock PLA - Walnut Wood",
+    "updated_at": 1792799125680
   },
   {
     "RFID_Data": {
@@ -8049,6 +9004,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0",
@@ -8065,9 +9022,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFETBL17511",
-    "title": "PETG - Transparent Blue"
+    "title": "PETG - Transparent Blue",
+    "updated_at": 1792799127301
   },
   {
     "RFID_Data": {
@@ -8090,6 +9050,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A4E54FF",
@@ -8106,9 +9068,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Space Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170044",
-    "title": "PLA - Space Gray"
+    "title": "PLA - Space Gray",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -8134,6 +9099,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -8151,9 +9118,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black-White",
     "product_type": "Filament",
+    "series": "Matte PLA Dual Colors",
     "sku": "VSA040001",
-    "title": "Matte PLA Dual Colors - Black-White"
+    "title": "Matte PLA Dual Colors - Black-White",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -8176,6 +9146,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -8192,9 +9164,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPORG17511",
-    "title": "PLA - Orange"
+    "title": "PLA - Orange",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -8217,6 +9192,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -8233,9 +9210,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VSD010007",
-    "title": "TPU 95A - Light Green"
+    "title": "TPU 95A - Light Green",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -8258,6 +9238,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -8274,9 +9256,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTPPL17511",
-    "title": "TPU 95A - Purple"
+    "title": "TPU 95A - Purple",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -8305,6 +9290,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -8324,9 +9311,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Magenta-Gold",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "OVS-VFPMAG11-010117",
-    "title": "Silk PLA Gradient - Silk Magenta-Gold"
+    "title": "Silk PLA Gradient - Silk Magenta-Gold",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -8349,6 +9339,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -8365,9 +9357,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPBLK17511",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -8396,6 +9391,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -8415,9 +9412,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink Lake",
     "product_type": "Filament",
+    "series": "Rock PLA Gradient",
     "sku": "VSA110019",
-    "title": "Rock PLA Gradient - Pink Lake"
+    "title": "Rock PLA Gradient - Pink Lake",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -8440,6 +9440,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -8456,9 +9458,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBORG11-010168",
-    "title": "Super PLA+ - Orange"
+    "title": "Super PLA+ - Orange",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -8487,6 +9492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -8506,9 +9513,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Desert Bluff",
     "product_type": "Filament",
+    "series": "Rock PLA Gradient",
     "sku": "VSA110017",
-    "title": "Rock PLA Gradient - Desert Bluff"
+    "title": "Rock PLA Gradient - Desert Bluff",
+    "updated_at": 1788319836172
   },
   {
     "RFID_Data": {
@@ -8531,6 +9541,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#8FC0E8FF",
@@ -8547,9 +9559,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170036",
-    "title": "PLA - Light Blue"
+    "title": "PLA - Light Blue",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -8572,6 +9587,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -8588,9 +9605,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Slate Gray",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "VFASGR11-010075",
-    "title": "ABS - Slate Gray"
+    "title": "ABS - Slate Gray",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -8613,6 +9633,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#6A7A90FF",
@@ -8629,9 +9651,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Gray Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001003",
-    "title": "PLA+ - Gray Blue"
+    "title": "PLA+ - Gray Blue",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -8654,6 +9679,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -8670,9 +9697,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170043",
-    "title": "PLA - Light Gray"
+    "title": "PLA - Light Gray",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -8695,6 +9725,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A4B2AFF",
@@ -8711,9 +9743,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010002",
-    "title": "PETG - Brown"
+    "title": "PETG - Brown",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -8736,6 +9771,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -8752,9 +9789,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEPPL17511",
-    "title": "PETG - Purple"
+    "title": "PETG - Purple",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -8783,6 +9823,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1E",
@@ -8802,9 +9844,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sunset Rainbow",
     "product_type": "Filament",
+    "series": "PLA Professional Gradient",
     "sku": "VSA070002",
-    "title": "PLA Professional Gradient - Sunset Rainbow"
+    "title": "PLA Professional Gradient - Sunset Rainbow",
+    "updated_at": 1792799223284
   },
   {
     "RFID_Data": {
@@ -8833,6 +9878,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -8852,9 +9899,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Avocado",
     "product_type": "Filament",
+    "series": "PLA Gradient",
     "sku": "VSA020015",
-    "title": "PLA Gradient - Avocado"
+    "title": "PLA Gradient - Avocado",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -8877,6 +9927,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842A",
@@ -8893,9 +9945,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Matte Orange",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTORG17511",
-    "title": "TPU 95A - Matte Orange"
+    "title": "TPU 95A - Matte Orange",
+    "updated_at": 1792799246506
   },
   {
     "RFID_Data": {
@@ -8924,6 +9979,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -8943,9 +10000,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Caramel",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030013",
-    "title": "Silk PLA Gradient - Silk Caramel"
+    "title": "Silk PLA Gradient - Silk Caramel",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -8968,6 +10028,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -8984,9 +10046,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001118",
-    "title": "PLA+ - Purple"
+    "title": "PLA+ - Purple",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9015,6 +10080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -9034,9 +10101,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sedona Red",
     "product_type": "Filament",
+    "series": "Rock PLA Gradient",
     "sku": "VSA110015",
-    "title": "Rock PLA Gradient - Sedona Red"
+    "title": "Rock PLA Gradient - Sedona Red",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9059,6 +10129,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102E",
@@ -9075,9 +10147,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Neon Red",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VSD010004",
-    "title": "TPU 95A - Neon Red"
+    "title": "TPU 95A - Neon Red",
+    "updated_at": 1792799282517
   },
   {
     "RFID_Data": {
@@ -9100,6 +10175,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -9116,9 +10193,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPBLE17511",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9141,6 +10221,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -9157,9 +10239,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001115",
-    "title": "PLA+ - Red"
+    "title": "PLA+ - Red",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9182,6 +10267,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -9198,9 +10285,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010009",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -9223,6 +10313,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -9239,9 +10331,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Purple",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPPL11-010003",
-    "title": "Silk PLA - Silk Purple"
+    "title": "Silk PLA - Silk Purple",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -9264,6 +10359,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -9280,9 +10377,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brick Red",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFBRE11-010061",
-    "title": "Matte PLA - Brick Red"
+    "title": "Matte PLA - Brick Red",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -9305,6 +10405,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A4E54",
@@ -9321,9 +10423,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Matte Space Gray",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTSPG17511",
-    "title": "TPU 95A - Matte Space Gray"
+    "title": "TPU 95A - Matte Space Gray",
+    "updated_at": 1792799311388
   },
   {
     "RFID_Data": {
@@ -9346,6 +10451,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -9362,9 +10469,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA020017",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9387,6 +10497,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -9403,9 +10515,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001113",
-    "title": "PLA+ - Green"
+    "title": "PLA+ - Green",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9428,6 +10543,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8342CFF",
@@ -9444,9 +10561,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fresh red",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBFRE11-010040",
-    "title": "PLA Professional - Fresh red"
+    "title": "PLA Professional - Fresh red",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9469,6 +10589,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -9485,9 +10607,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFELGR17511",
-    "title": "PETG - Light Gray"
+    "title": "PETG - Light Gray",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -9510,6 +10635,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0",
@@ -9526,9 +10653,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Metallic Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA020010",
-    "title": "PLA - Metallic Gray"
+    "title": "PLA - Metallic Gray",
+    "updated_at": 1792799344577
   },
   {
     "RFID_Data": {
@@ -9551,6 +10681,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -9567,9 +10699,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMWT17511",
-    "title": "Matte PLA - White"
+    "title": "Matte PLA - White",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -9592,6 +10727,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -9608,9 +10745,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010012",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -9633,6 +10773,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842A",
@@ -9649,9 +10791,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Translucent Orange",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030009",
-    "title": "High Speed TPU - Translucent Orange"
+    "title": "High Speed TPU - Translucent Orange",
+    "updated_at": 1792799367701
   },
   {
     "RFID_Data": {
@@ -9674,6 +10819,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -9690,9 +10837,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEPNK17511",
-    "title": "PETG - Pink"
+    "title": "PETG - Pink",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -9715,6 +10865,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -9731,9 +10883,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "OVS-VFTGRY11-010155",
-    "title": "High Speed TPU - Gray"
+    "title": "High Speed TPU - Gray",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -9756,6 +10911,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -9772,9 +10929,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Luminous Blue",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030004",
-    "title": "High Speed TPU - Luminous Blue"
+    "title": "High Speed TPU - Luminous Blue",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -9797,6 +10957,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -9813,9 +10975,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "OVS-VFPBLK13-010109",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9838,6 +11003,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -9854,9 +11021,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBRED17511",
-    "title": "PLA Professional - Red"
+    "title": "PLA Professional - Red",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9879,6 +11049,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -9895,9 +11067,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170030",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -9920,6 +11095,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -9936,9 +11113,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "OVS-VFSGRN11-010122",
-    "title": "ABS - Green"
+    "title": "ABS - Green",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -9961,6 +11141,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -9977,9 +11159,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170028",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -10002,6 +11187,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -10018,9 +11205,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Bright Pink",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTBPN11-010060",
-    "title": "TPU 95A - Bright Pink"
+    "title": "TPU 95A - Bright Pink",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -10049,6 +11239,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -10068,9 +11260,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Alpine Forest",
     "product_type": "Filament",
+    "series": "Rock PLA Gradient",
     "sku": "VSA110016",
-    "title": "Rock PLA Gradient - Alpine Forest"
+    "title": "Rock PLA Gradient - Alpine Forest",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -10093,6 +11288,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -10109,9 +11306,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBGRN11-010169",
-    "title": "Super PLA+ - Green"
+    "title": "Super PLA+ - Green",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -10140,6 +11340,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -10159,9 +11361,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Tropic",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030005",
-    "title": "Silk PLA Gradient - Silk Tropic"
+    "title": "Silk PLA Gradient - Silk Tropic",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -10190,6 +11395,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -10209,9 +11416,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue-Yellow",
     "product_type": "Filament",
+    "series": "Matte PLA Gradient",
     "sku": "VSA040003",
-    "title": "Matte PLA Gradient - Light Blue-Yellow"
+    "title": "Matte PLA Gradient - Light Blue-Yellow",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -10234,6 +11444,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#EDE6D6FF",
@@ -10250,9 +11462,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Natural",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090014",
-    "title": "Easy PLA - Easy Natural"
+    "title": "Easy PLA - Easy Natural",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -10275,6 +11490,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102E",
@@ -10291,9 +11508,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Translucent Red",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "OVS-VFTTRD11-010152",
-    "title": "High Speed TPU - Translucent Red"
+    "title": "High Speed TPU - Translucent Red",
+    "updated_at": 1792799464663
   },
   {
     "RFID_Data": {
@@ -10316,6 +11536,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -10332,9 +11554,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Champagne",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VSA070012",
-    "title": "PLA Professional - Champagne"
+    "title": "PLA Professional - Champagne",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -10357,6 +11582,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8E8E8FF",
@@ -10373,9 +11600,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSTCLR17511",
-    "title": "High Speed TPU - Clear"
+    "title": "High Speed TPU - Clear",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -10404,6 +11634,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -10423,9 +11655,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Punch Pink",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030009",
-    "title": "Silk PLA Gradient - Silk Punch Pink"
+    "title": "Silk PLA Gradient - Silk Punch Pink",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -10448,6 +11683,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -10464,9 +11701,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEBLE17511",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -10489,6 +11729,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -10505,9 +11747,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTRED17511",
-    "title": "TPU 95A - Red"
+    "title": "TPU 95A - Red",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -10530,6 +11775,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#5A6340FF",
@@ -10546,9 +11793,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEAGN17511",
-    "title": "PETG - Army Green"
+    "title": "PETG - Army Green",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -10571,6 +11821,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -10587,9 +11839,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk White",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPSWE17511",
-    "title": "Silk PLA - Silk White"
+    "title": "Silk PLA - Silk White",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -10612,6 +11867,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -10628,9 +11885,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "VFSBLU11-010081",
-    "title": "ASA - Blue"
+    "title": "ASA - Blue",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -10653,6 +11913,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -10669,9 +11931,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Diamond Orange",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "OVS-VFSDOR11-010129",
-    "title": "ABS - Diamond Orange"
+    "title": "ABS - Diamond Orange",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -10694,6 +11959,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102E",
@@ -10710,9 +11977,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow Red",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090002",
-    "title": "Easy PLA - Glow Red"
+    "title": "Easy PLA - Glow Red",
+    "updated_at": 1792844560284
   },
   {
     "RFID_Data": {
@@ -10735,6 +12005,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -10751,9 +12023,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Cobalt Blue",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090022",
-    "title": "Easy PLA - Easy Cobalt Blue"
+    "title": "Easy PLA - Easy Cobalt Blue",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -10776,6 +12051,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -10792,9 +12069,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fossil Rock",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110001",
-    "title": "Rock PLA - Fossil Rock"
+    "title": "Rock PLA - Fossil Rock",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -10817,6 +12097,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -10833,9 +12115,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001117",
-    "title": "PLA+ - Pink"
+    "title": "PLA+ - Pink",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -10858,6 +12143,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -10874,9 +12161,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Caramel",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090017",
-    "title": "Easy PLA - Easy Caramel"
+    "title": "Easy PLA - Easy Caramel",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -10905,6 +12195,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -10924,9 +12216,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Lettuce Tomato",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030007",
-    "title": "Silk PLA Gradient - Silk Lettuce Tomato"
+    "title": "Silk PLA Gradient - Silk Lettuce Tomato",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -10949,6 +12244,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -10965,9 +12262,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "OVS-VFSGRN11-010135",
-    "title": "ASA - Green"
+    "title": "ASA - Green",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -10990,6 +12290,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -11006,9 +12308,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Shimmer Purple",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090008",
-    "title": "Easy PLA - Shimmer Purple"
+    "title": "Easy PLA - Shimmer Purple",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11037,6 +12342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1E",
@@ -11056,9 +12363,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Candy Rainbow",
     "product_type": "Filament",
+    "series": "Matte PLA Gradient",
     "sku": "VSA040006",
-    "title": "Matte PLA Gradient - Candy Rainbow"
+    "title": "Matte PLA Gradient - Candy Rainbow",
+    "updated_at": 1792799575885
   },
   {
     "RFID_Data": {
@@ -11081,6 +12391,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -11097,9 +12409,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010010",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -11122,6 +12437,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -11138,9 +12455,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBPUR11-010170",
-    "title": "Super PLA+ - Purple"
+    "title": "Super PLA+ - Purple",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11163,6 +12483,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -11179,9 +12501,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "2000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VSD010003",
-    "title": "TPU 95A - Black"
+    "title": "TPU 95A - Black",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -11210,6 +12535,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -11229,9 +12556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Purple-Gold",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "OVS-VFPPUG11-010114",
-    "title": "Silk PLA Gradient - Silk Purple-Gold"
+    "title": "Silk PLA Gradient - Silk Purple-Gold",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -11254,6 +12584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -11270,9 +12602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sedimentary Rock",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110002",
-    "title": "Rock PLA - Sedimentary Rock"
+    "title": "Rock PLA - Sedimentary Rock",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11301,6 +12636,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1E",
@@ -11320,9 +12657,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rainbow",
     "product_type": "Filament",
+    "series": "PLA Gradient",
     "sku": "VSA020003",
-    "title": "PLA Gradient - Rainbow"
+    "title": "PLA Gradient - Rainbow",
+    "updated_at": 1792799615206
   },
   {
     "RFID_Data": {
@@ -11345,6 +12685,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -11361,9 +12703,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Christmas Prism",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA020023",
-    "title": "PLA - Christmas Prism"
+    "title": "PLA - Christmas Prism",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11386,6 +12731,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -11402,9 +12749,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Luminous Green",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030005",
-    "title": "High Speed TPU - Luminous Green"
+    "title": "High Speed TPU - Luminous Green",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -11427,6 +12777,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -11443,9 +12795,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010014",
-    "title": "PETG - Light Gray"
+    "title": "PETG - Light Gray",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -11468,6 +12823,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A2E1EFF",
@@ -11484,9 +12841,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMCC17511",
-    "title": "Matte PLA - Chocolate"
+    "title": "Matte PLA - Chocolate",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -11509,6 +12869,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -11525,9 +12887,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Diamond Purple",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "OVS-VFSDPU11-010130",
-    "title": "ABS - Diamond Purple"
+    "title": "ABS - Diamond Purple",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -11550,6 +12915,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -11566,9 +12933,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001112",
-    "title": "PLA+ - Yellow"
+    "title": "PLA+ - Yellow",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11591,6 +12961,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -11607,9 +12979,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBYEL11-010167",
-    "title": "Super PLA+ - Yellow"
+    "title": "Super PLA+ - Yellow",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11632,6 +13007,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#5A6340FF",
@@ -11648,9 +13025,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "OVS-VFFMAG11-010143",
-    "title": "Matte PLA - Army Green"
+    "title": "Matte PLA - Army Green",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -11673,6 +13053,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -11689,9 +13071,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001120",
-    "title": "PLA+ - Light Gray"
+    "title": "PLA+ - Light Gray",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11714,6 +13099,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A2E1EFF",
@@ -11730,9 +13117,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170031",
-    "title": "PLA - Chocolate"
+    "title": "PLA - Chocolate",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11755,6 +13145,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230",
@@ -11771,9 +13163,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030013",
-    "title": "High Speed TPU - Neon Yellow"
+    "title": "High Speed TPU - Neon Yellow",
+    "updated_at": 1792799663100
   },
   {
     "RFID_Data": {
@@ -11796,6 +13191,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -11812,9 +13209,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001014",
-    "title": "PLA+ - White"
+    "title": "PLA+ - White",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11837,6 +13237,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8A030FF",
@@ -11853,9 +13255,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Royal Gold",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VSA070003",
-    "title": "PLA Professional - Royal Gold"
+    "title": "PLA Professional - Royal Gold",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11884,6 +13289,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -11903,9 +13310,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Evergreen Bronze",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030012",
-    "title": "Silk PLA Gradient - Silk Evergreen Bronze"
+    "title": "Silk PLA Gradient - Silk Evergreen Bronze",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -11928,6 +13338,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8342CFF",
@@ -11944,9 +13356,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Fresh Red",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001009",
-    "title": "PLA+ - Fresh Red"
+    "title": "PLA+ - Fresh Red",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -11969,6 +13384,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A3F9EFF",
@@ -11985,9 +13402,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170048",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12016,6 +13436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -12035,9 +13457,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Barrier Reef",
     "product_type": "Filament",
+    "series": "Rock PLA Gradient",
     "sku": "VSA110014",
-    "title": "Rock PLA Gradient - Barrier Reef"
+    "title": "Rock PLA Gradient - Barrier Reef",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12060,6 +13485,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#6A7A90FF",
@@ -12076,9 +13503,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170047",
-    "title": "PLA - Gray Blue"
+    "title": "PLA - Gray Blue",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12101,6 +13531,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#6A7A90FF",
@@ -12117,9 +13549,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray Blue",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBGBU11-010050",
-    "title": "PLA Professional - Gray Blue"
+    "title": "PLA Professional - Gray Blue",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12142,6 +13577,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#4A4E54FF",
@@ -12158,9 +13595,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Space Gray",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFESGR17511",
-    "title": "PETG - Space Gray"
+    "title": "PETG - Space Gray",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -12183,6 +13623,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -12199,9 +13641,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTBLE17511",
-    "title": "TPU 95A - Blue"
+    "title": "TPU 95A - Blue",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -12230,6 +13675,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -12249,9 +13696,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Painted Hills",
     "product_type": "Filament",
+    "series": "Rock PLA Gradient",
     "sku": "VSA110018",
-    "title": "Rock PLA Gradient - Painted Hills"
+    "title": "Rock PLA Gradient - Painted Hills",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12274,6 +13724,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -12290,9 +13742,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001007",
-    "title": "PLA+ - Blue"
+    "title": "PLA+ - Blue",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12315,6 +13770,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -12331,9 +13788,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "2000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010006",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -12356,6 +13816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -12372,9 +13834,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMBK17511",
-    "title": "Matte PLA - Black"
+    "title": "Matte PLA - Black",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -12397,6 +13862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -12413,9 +13880,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Shimmer Dark Green",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090005",
-    "title": "Easy PLA - Shimmer Dark Green"
+    "title": "Easy PLA - Shimmer Dark Green",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12438,6 +13908,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#EDF0F2FF",
@@ -12454,9 +13926,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Cold White",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001013",
-    "title": "PLA+ - Cold White"
+    "title": "PLA+ - Cold White",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12479,6 +13954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -12495,9 +13972,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White Oak",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110021",
-    "title": "Rock PLA - White Oak"
+    "title": "Rock PLA - White Oak",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12520,6 +14000,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -12536,9 +14018,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEORG17511",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -12561,6 +14046,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -12577,9 +14064,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001124",
-    "title": "PLA+ - Black"
+    "title": "PLA+ - Black",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12602,6 +14092,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -12618,9 +14110,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBGRN17511",
-    "title": "PLA Professional - Green"
+    "title": "PLA Professional - Green",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12643,6 +14138,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2",
@@ -12659,9 +14156,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Matte White",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTWTE17511",
-    "title": "TPU 95A - Matte White"
+    "title": "TPU 95A - Matte White",
+    "updated_at": 1792799780167
   },
   {
     "RFID_Data": {
@@ -12684,6 +14184,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -12700,9 +14202,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001006",
-    "title": "PLA+ - Green"
+    "title": "PLA+ - Green",
+    "updated_at": 1788319750555
   },
   {
     "RFID_Data": {
@@ -12731,6 +14236,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -12750,9 +14257,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Lime Surge",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030003",
-    "title": "Silk PLA Gradient - Silk Lime Surge"
+    "title": "Silk PLA Gradient - Silk Lime Surge",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -12775,6 +14285,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0",
@@ -12791,9 +14303,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Matte Gray",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTGRY11-010058",
-    "title": "TPU 95A - Matte Gray"
+    "title": "TPU 95A - Matte Gray",
+    "updated_at": 1792799791163
   },
   {
     "RFID_Data": {
@@ -12816,6 +14331,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -12832,9 +14349,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBPNK17511",
-    "title": "PLA Professional - Pink"
+    "title": "PLA Professional - Pink",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -12857,6 +14377,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -12873,9 +14395,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "VFSRED11-010082",
-    "title": "ASA - Red"
+    "title": "ASA - Red",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -12898,6 +14423,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -12914,9 +14441,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rock White",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VFFRWT17511",
-    "title": "Rock PLA - Rock White"
+    "title": "Rock PLA - Rock White",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -12939,6 +14469,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#EDF0F2FF",
@@ -12955,9 +14487,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cold White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170035",
-    "title": "PLA - Cold White"
+    "title": "PLA - Cold White",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -12980,6 +14515,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -12996,9 +14533,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Digital Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEELB17511",
-    "title": "PETG - Digital Blue"
+    "title": "PETG - Digital Blue",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -13021,6 +14561,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -13037,9 +14579,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lilac",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VSA040010",
-    "title": "Matte PLA - Lilac"
+    "title": "Matte PLA - Lilac",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -13062,6 +14607,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E88AB0FF",
@@ -13078,9 +14625,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "OVS-VFTPNK11-010154",
-    "title": "High Speed TPU - Pink"
+    "title": "High Speed TPU - Pink",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -13103,6 +14653,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -13119,9 +14671,12 @@
     "info3": false,
     "material": "PA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "Easy Nylon",
     "sku": "VFNGRY17511",
-    "title": "Easy Nylon - Gray"
+    "title": "Easy Nylon - Gray",
+    "updated_at": 1788321334786
   },
   {
     "RFID_Data": {
@@ -13144,6 +14699,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -13160,9 +14717,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEYLW17511",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -13185,6 +14745,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -13201,9 +14763,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBBLE17511",
-    "title": "PLA Professional - Dark Blue"
+    "title": "PLA Professional - Dark Blue",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -13226,6 +14791,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -13242,9 +14809,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lemon Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA020011",
-    "title": "PLA - Lemon Yellow"
+    "title": "PLA - Lemon Yellow",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -13267,6 +14837,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -13283,9 +14855,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPSEE17511",
-    "title": "Silk PLA - Silk Green"
+    "title": "Silk PLA - Silk Green",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -13308,6 +14883,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230",
@@ -13324,9 +14901,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Matte Yellow",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "OVS-VFTYLW11-010157",
-    "title": "TPU 95A - Matte Yellow"
+    "title": "TPU 95A - Matte Yellow",
+    "updated_at": 1792798877310
   },
   {
     "RFID_Data": {
@@ -13349,6 +14929,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -13365,9 +14947,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBYLW17511",
-    "title": "PLA Professional - Yellow"
+    "title": "PLA Professional - Yellow",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -13390,6 +14975,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -13406,9 +14993,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010018",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -13431,6 +15021,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -13447,9 +15039,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBLGR11-010043",
-    "title": "PLA Professional - Light Green"
+    "title": "PLA Professional - Light Green",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -13472,6 +15067,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -13488,9 +15085,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Diamond Blue",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "OVS-VFSDBL11-010138",
-    "title": "ASA - Diamond Blue"
+    "title": "ASA - Diamond Blue",
+    "updated_at": 1788321089991
   },
   {
     "RFID_Data": {
@@ -13519,6 +15119,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -13538,9 +15140,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Copper Shore",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "VSA030008",
-    "title": "Silk PLA Gradient - Silk Copper Shore"
+    "title": "Silk PLA Gradient - Silk Copper Shore",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -13563,6 +15168,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8C0A0FF",
@@ -13579,9 +15186,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFSKI11-010056",
-    "title": "Matte PLA - Skin"
+    "title": "Matte PLA - Skin",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -13604,6 +15214,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -13620,9 +15232,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Pumpkin Orange",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090026",
-    "title": "Easy PLA - Easy Pumpkin Orange"
+    "title": "Easy PLA - Easy Pumpkin Orange",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -13645,6 +15260,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -13661,9 +15278,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Slate Gray",
     "product_type": "Filament",
+    "series": "Rock PLA",
     "sku": "VSA110011",
-    "title": "Rock PLA - Slate Gray"
+    "title": "Rock PLA - Slate Gray",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -13686,6 +15306,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#D8C9A8FF",
@@ -13702,9 +15324,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VSA040012",
-    "title": "Matte PLA - Beige"
+    "title": "Matte PLA - Beige",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -13727,6 +15352,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -13743,9 +15370,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Blue",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "VFPSBE17511",
-    "title": "Silk PLA - Silk Blue"
+    "title": "Silk PLA - Silk Blue",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -13768,6 +15398,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0",
@@ -13784,9 +15416,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Translucent Blue",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "OVS-VFTTBL11-010156",
-    "title": "High Speed TPU - Translucent Blue"
+    "title": "High Speed TPU - Translucent Blue",
+    "updated_at": 1792799993994
   },
   {
     "RFID_Data": {
@@ -13809,6 +15444,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C83F8AFF",
@@ -13825,9 +15462,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Magenta",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090020",
-    "title": "Easy PLA - Easy Magenta"
+    "title": "Easy PLA - Easy Magenta",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -13850,6 +15490,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -13866,9 +15508,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wine",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VSA070004",
-    "title": "PLA Professional - Wine"
+    "title": "PLA Professional - Wine",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -13897,6 +15542,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Stone",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1E",
@@ -13916,9 +15563,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rock Rainbow",
     "product_type": "Filament",
+    "series": "Rock PLA Gradient",
     "sku": "VSA110006",
-    "title": "Rock PLA Gradient - Rock Rainbow"
+    "title": "Rock PLA Gradient - Rock Rainbow",
+    "updated_at": 1792800027170
   },
   {
     "RFID_Data": {
@@ -13941,6 +15591,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C83F8AFF",
@@ -13957,9 +15609,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEMGT17511",
-    "title": "PETG - Magenta"
+    "title": "PETG - Magenta",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -13982,6 +15637,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -13998,9 +15655,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Carbon Fiber Black",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFCBLK17511",
-    "title": "Matte PLA - Carbon Fiber Black"
+    "title": "Matte PLA - Carbon Fiber Black",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -14023,6 +15683,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -14039,9 +15701,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Diamond Gray",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "OVS-VFSDGR11-010131",
-    "title": "ABS - Diamond Gray"
+    "title": "ABS - Diamond Gray",
+    "updated_at": 1788320980074
   },
   {
     "RFID_Data": {
@@ -14064,6 +15729,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -14080,9 +15747,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "VFFMOR17511",
-    "title": "Matte PLA - Orange"
+    "title": "Matte PLA - Orange",
+    "updated_at": 1788320740277
   },
   {
     "RFID_Data": {
@@ -14105,6 +15775,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -14121,9 +15793,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow White (Green in Dark)",
     "product_type": "Filament",
+    "series": "Glow PLA",
     "sku": "VFPGFLG17511",
-    "title": "Glow PLA - Glow White (Green in Dark)"
+    "title": "Glow PLA - Glow White (Green in Dark)",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14146,6 +15821,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -14162,9 +15839,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Luminous Electric Indigo",
     "product_type": "Filament",
+    "series": "High Speed TPU",
     "sku": "VSD030014",
-    "title": "High Speed TPU - Luminous Electric Indigo"
+    "title": "High Speed TPU - Luminous Electric Indigo",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -14187,6 +15867,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -14203,9 +15885,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VSA170041",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14228,6 +15913,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#9199A0FF",
@@ -14244,9 +15931,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Gray Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001110",
-    "title": "PLA+ - Gray Blue"
+    "title": "PLA+ - Gray Blue",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14269,6 +15959,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#A87332FF",
@@ -14285,9 +15977,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VSA070010",
-    "title": "PLA Professional - Bronze"
+    "title": "PLA Professional - Bronze",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14310,6 +16005,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0",
@@ -14326,9 +16023,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow Blue",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090003",
-    "title": "Easy PLA - Glow Blue"
+    "title": "Easy PLA - Glow Blue",
+    "updated_at": 1792844624674
   },
   {
     "RFID_Data": {
@@ -14351,6 +16051,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -14367,9 +16069,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEBLK17511",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -14392,6 +16097,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1A1A1AFF",
@@ -14408,9 +16115,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBBLK11-010173",
-    "title": "Super PLA+ - Black"
+    "title": "Super PLA+ - Black",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14433,6 +16143,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8842AFF",
@@ -14449,9 +16161,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Orange",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VSA090015",
-    "title": "Easy PLA - Easy Orange"
+    "title": "Easy PLA - Easy Orange",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14474,6 +16189,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -14490,9 +16207,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VFTGRN17511",
-    "title": "TPU 95A - Green"
+    "title": "TPU 95A - Green",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -14515,6 +16235,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -14531,9 +16253,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Easy Red",
     "product_type": "Filament",
+    "series": "Easy PLA",
     "sku": "VFPRED11-010087",
-    "title": "Easy PLA - Easy Red"
+    "title": "Easy PLA - Easy Red",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14556,6 +16281,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A4B2AFF",
@@ -14572,9 +16299,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "VSD010002",
-    "title": "TPU 95A - Brown"
+    "title": "TPU 95A - Brown",
+    "updated_at": 1788320204570
   },
   {
     "RFID_Data": {
@@ -14597,6 +16327,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -14613,9 +16345,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010020",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -14644,6 +16379,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -14663,9 +16400,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Green-Silver",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "OVS-VFPGRS11-010118",
-    "title": "Silk PLA Gradient - Silk Green-Silver"
+    "title": "Silk PLA Gradient - Silk Green-Silver",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -14688,6 +16428,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0",
@@ -14704,9 +16446,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Matte Digital Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VSB010017",
-    "title": "PETG - Matte Digital Blue"
+    "title": "PETG - Matte Digital Blue",
+    "updated_at": 1792800150070
   },
   {
     "RFID_Data": {
@@ -14729,6 +16474,8 @@
       "id_unit": 21,
       "measure": 2000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -14745,9 +16492,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "OVS-VFPWHE12-010108",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14770,6 +16520,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2F2F2FF",
@@ -14786,9 +16538,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "VFSWTE17511",
-    "title": "ASA - White"
+    "title": "ASA - White",
+    "updated_at": 1788321089990
   },
   {
     "RFID_Data": {
@@ -14811,6 +16566,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#3CA03CFF",
@@ -14827,9 +16584,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFEGRN17511",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1788320611775
   },
   {
     "RFID_Data": {
@@ -14852,6 +16612,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -14868,9 +16630,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Digital Blue",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBETB17511",
-    "title": "PLA Professional - Digital Blue"
+    "title": "PLA Professional - Digital Blue",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14893,6 +16658,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#DDDDDD",
@@ -14909,9 +16676,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFECLR17511",
-    "title": "PETG - Transparent"
+    "title": "PETG - Transparent",
+    "updated_at": 1792800159788
   },
   {
     "RFID_Data": {
@@ -14934,6 +16704,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#1E56A0FF",
@@ -14950,9 +16722,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "Super PLA+",
     "sku": "OVS-VFBDBU11-010171",
-    "title": "Super PLA+ - Dark Blue"
+    "title": "Super PLA+ - Dark Blue",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -14975,6 +16750,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#F2C230FF",
@@ -14991,9 +16768,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "OT1001005",
-    "title": "PLA+ - Yellow"
+    "title": "PLA+ - Yellow",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -15016,6 +16796,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#E8342CFF",
@@ -15032,9 +16814,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Fresh Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "VFPFRE11-010024",
-    "title": "PLA - Fresh Red"
+    "title": "PLA - Fresh Red",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -15057,6 +16842,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#7A4B2AFF",
@@ -15073,9 +16860,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBBRW11-010047",
-    "title": "PLA Professional - Brown"
+    "title": "PLA Professional - Brown",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -15098,6 +16888,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C0C0C0FF",
@@ -15114,9 +16906,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Gray",
     "product_type": "Filament",
+    "series": "PLA Professional",
     "sku": "VFBLGR17511",
-    "title": "PLA Professional - Light Gray"
+    "title": "PLA Professional - Light Gray",
+    "updated_at": 1788320866378
   },
   {
     "RFID_Data": {
@@ -15145,6 +16940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C41E1EFF",
@@ -15164,9 +16961,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silk Green-Blue",
     "product_type": "Filament",
+    "series": "Silk PLA Gradient",
     "sku": "OVS-VFPGRB11-010112",
-    "title": "Silk PLA Gradient - Silk Green-Blue"
+    "title": "Silk PLA Gradient - Silk Green-Blue",
+    "updated_at": 1788320474068
   },
   {
     "RFID_Data": {
@@ -15189,6 +16989,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Overture",
     "color": "#C8102EFF",
@@ -15205,8 +17007,11 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "VFERED17511",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1788320611775
   }
 ]

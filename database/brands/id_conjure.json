@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFFF00FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Plus",
     "sku": "FAA001000378",
-    "title": "PLA Plus - Yellow"
+    "title": "PLA Plus - Yellow",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFFFFFFF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Rainbow 7",
     "product_type": "Filament",
+    "series": "PLA Silk Rainbow",
     "sku": "FAA001000597",
-    "title": "PLA Silk Rainbow - Rainbow 7"
+    "title": "PLA Silk Rainbow - Rainbow 7",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Conjure",
     "color": "#61B420FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Rainbow 1",
     "product_type": "Filament",
+    "series": "PLA Silk Rainbow",
     "sku": "FAA001000502",
-    "title": "PLA Silk Rainbow - Rainbow 1"
+    "title": "PLA Silk Rainbow - Rainbow 1",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFFFFFFF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Rainbow 6",
     "product_type": "Filament",
+    "series": "PLA Silk Rainbow",
     "sku": "FAA001000594",
-    "title": "PLA Silk Rainbow - Rainbow 6"
+    "title": "PLA Silk Rainbow - Rainbow 6",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFFF00FF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "High Speed PLA Plus",
     "sku": "FAA001000369*3",
-    "title": "High Speed PLA Plus - Yellow"
+    "title": "High Speed PLA Plus - Yellow",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -231,6 +256,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#D81F26",
@@ -249,9 +276,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Red Yellow Blue",
     "product_type": "Filament",
+    "series": "PLA Silk Tri-Color",
     "sku": "FAA001000539",
-    "title": "PLA Silk Tri-Color - Red Yellow Blue"
+    "title": "PLA Silk Tri-Color - Red Yellow Blue",
+    "updated_at": 1792796362064
   },
   {
     "RFID_Data": {
@@ -274,6 +304,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#FF0000FF",
@@ -290,9 +322,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Plus",
     "sku": "FAA001000376",
-    "title": "PLA Plus - Red"
+    "title": "PLA Plus - Red",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -318,6 +353,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#000000",
@@ -335,9 +372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Black Purple",
     "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
     "sku": "FAA001000498",
-    "title": "PLA Silk Dual Color - Black Purple"
+    "title": "PLA Silk Dual Color - Black Purple",
+    "updated_at": 1792796361084
   },
   {
     "RFID_Data": {
@@ -360,6 +400,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFA500FF",
@@ -376,9 +418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "High Speed PLA Plus",
     "sku": "FAA001000368*3",
-    "title": "High Speed PLA Plus - Orange"
+    "title": "High Speed PLA Plus - Orange",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -404,6 +449,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#1E5BD8",
@@ -421,9 +468,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Blue Red",
     "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
     "sku": "FAA001000658",
-    "title": "PLA Silk Dual Color - Blue Red"
+    "title": "PLA Silk Dual Color - Blue Red",
+    "updated_at": 1792796360684
   },
   {
     "RFID_Data": {
@@ -449,6 +499,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#000000",
@@ -466,9 +518,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Black Red",
     "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
     "sku": "FAA001000499",
-    "title": "PLA Silk Dual Color - Black Red"
+    "title": "PLA Silk Dual Color - Black Red",
+    "updated_at": 1792796367458
   },
   {
     "RFID_Data": {
@@ -497,6 +552,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#7B2CBF",
@@ -515,9 +572,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Purple Orange Blue",
     "product_type": "Filament",
+    "series": "PLA Silk Tri-Color",
     "sku": "FAA001000542",
-    "title": "PLA Silk Tri-Color - Purple Orange Blue"
+    "title": "PLA Silk Tri-Color - Purple Orange Blue",
+    "updated_at": 1792796369499
   },
   {
     "RFID_Data": {
@@ -540,6 +600,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#FF0000FF",
@@ -556,9 +618,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "High Speed PLA Plus",
     "sku": "FAA001000367*3",
-    "title": "High Speed PLA Plus - Red"
+    "title": "High Speed PLA Plus - Red",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -584,6 +649,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#000000",
@@ -601,9 +668,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Black Gold",
     "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
     "sku": "FAA001000497",
-    "title": "PLA Silk Dual Color - Black Gold"
+    "title": "PLA Silk Dual Color - Black Gold",
+    "updated_at": 1792796301264
   },
   {
     "RFID_Data": {
@@ -626,6 +696,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#C0C0C0FF",
@@ -642,9 +714,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Plus",
     "sku": "FAA001000379",
-    "title": "PLA Plus - Silver"
+    "title": "PLA Plus - Silver",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -673,6 +748,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#D81F26",
@@ -691,9 +768,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Red Gold Purple",
     "product_type": "Filament",
+    "series": "PLA Silk Tri-Color",
     "sku": "FAA001000538",
-    "title": "PLA Silk Tri-Color - Red Gold Purple"
+    "title": "PLA Silk Tri-Color - Red Gold Purple",
+    "updated_at": 1792796375670
   },
   {
     "RFID_Data": {
@@ -716,6 +796,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFA500FF",
@@ -732,9 +814,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Plus",
     "sku": "FAA001000377",
-    "title": "PLA Plus - Orange"
+    "title": "PLA Plus - Orange",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -757,6 +842,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#808080FF",
@@ -773,9 +860,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "High Speed PLA Plus",
     "sku": "FAA001000366*3",
-    "title": "High Speed PLA Plus - Grey"
+    "title": "High Speed PLA Plus - Grey",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -804,6 +894,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#1FA64A",
@@ -822,9 +914,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Green Gold Orange",
     "product_type": "Filament",
+    "series": "PLA Silk Tri-Color",
     "sku": "FAA001000541",
-    "title": "PLA Silk Tri-Color - Green Gold Orange"
+    "title": "PLA Silk Tri-Color - Green Gold Orange",
+    "updated_at": 1792796379162
   },
   {
     "RFID_Data": {
@@ -847,6 +942,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#000000FF",
@@ -863,9 +960,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High Speed PLA Plus",
     "sku": "FAA001000364*3",
-    "title": "High Speed PLA Plus - Black"
+    "title": "High Speed PLA Plus - Black",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -888,6 +988,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#008000FF",
@@ -904,9 +1006,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "High Speed PLA Plus",
     "sku": "FAA001000372*3",
-    "title": "High Speed PLA Plus - Green"
+    "title": "High Speed PLA Plus - Green",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -935,6 +1040,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#D81F26",
@@ -953,9 +1060,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Red Gold Blue",
     "product_type": "Filament",
+    "series": "PLA Silk Tri-Color",
     "sku": "FAA001000660",
-    "title": "PLA Silk Tri-Color - Red Gold Blue"
+    "title": "PLA Silk Tri-Color - Red Gold Blue",
+    "updated_at": 1792796384775
   },
   {
     "RFID_Data": {
@@ -978,6 +1088,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Matt",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFFFFFFF",
@@ -994,9 +1106,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Rainbow 2",
     "product_type": "Filament",
+    "series": "Matte Rainbow PLA",
     "sku": "FAA001000599",
-    "title": "Matte Rainbow PLA - Rainbow 2"
+    "title": "Matte Rainbow PLA - Rainbow 2",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1019,6 +1134,8 @@
       "id_unit": 21,
       "measure": 800
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFD700FF",
@@ -1035,9 +1152,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "800 g",
+    "name": "Gold Purple Green Blue",
     "product_type": "Filament",
+    "series": "Chameleon PLA",
     "sku": "FAA001000430",
-    "title": "Chameleon PLA - Gold Purple Green Blue"
+    "title": "Chameleon PLA - Gold Purple Green Blue",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1060,6 +1180,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#C0C0C0FF",
@@ -1076,9 +1198,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "High Speed PLA Plus",
     "sku": "FAA001000370*3",
-    "title": "High Speed PLA Plus - Silver"
+    "title": "High Speed PLA Plus - Silver",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1101,6 +1226,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#008000FF",
@@ -1117,9 +1244,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Plus",
     "sku": "FAA001000381",
-    "title": "PLA Plus - Green"
+    "title": "PLA Plus - Green",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1148,6 +1278,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#000000",
@@ -1166,9 +1298,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Black Blue Purple",
     "product_type": "Filament",
+    "series": "PLA Silk Tri-Color",
     "sku": "FAA001000540",
-    "title": "PLA Silk Tri-Color - Black Blue Purple"
+    "title": "PLA Silk Tri-Color - Black Blue Purple",
+    "updated_at": 1792796306385
   },
   {
     "RFID_Data": {
@@ -1191,6 +1326,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFFFFFFF",
@@ -1207,9 +1344,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Rainbow 5",
     "product_type": "Filament",
+    "series": "PLA Silk Rainbow",
     "sku": "FAA001000592",
-    "title": "PLA Silk Rainbow - Rainbow 5"
+    "title": "PLA Silk Rainbow - Rainbow 5",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1232,6 +1372,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#0000FFFF",
@@ -1248,9 +1390,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Plus",
     "sku": "FAA001000380",
-    "title": "PLA Plus - Blue"
+    "title": "PLA Plus - Blue",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1273,6 +1418,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#808080FF",
@@ -1289,9 +1436,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Plus",
     "sku": "FAA001000375",
-    "title": "PLA Plus - Grey"
+    "title": "PLA Plus - Grey",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1314,6 +1464,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#0000FFFF",
@@ -1330,9 +1482,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue Purple",
     "product_type": "Filament",
+    "series": "Chameleon PLA",
     "sku": "FAA001000397",
-    "title": "Chameleon PLA - Blue Purple"
+    "title": "Chameleon PLA - Blue Purple",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1355,6 +1510,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Matt",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Conjure",
     "color": "#DDD5C0FF",
@@ -1371,9 +1528,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Rainbow 1",
     "product_type": "Filament",
+    "series": "Matte Rainbow PLA",
     "sku": "FAA001000503",
-    "title": "Matte Rainbow PLA - Rainbow 1"
+    "title": "Matte Rainbow PLA - Rainbow 1",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1399,6 +1559,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#000000",
@@ -1416,9 +1578,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Black Green",
     "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
     "sku": "FAA001000500",
-    "title": "PLA Silk Dual Color - Black Green"
+    "title": "PLA Silk Dual Color - Black Green",
+    "updated_at": 1792796396404
   },
   {
     "RFID_Data": {
@@ -1441,6 +1606,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFFFFFFF",
@@ -1457,9 +1624,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Rainbow 4",
     "product_type": "Filament",
+    "series": "PLA Silk Rainbow",
     "sku": "FAA001000590",
-    "title": "PLA Silk Rainbow - Rainbow 4"
+    "title": "PLA Silk Rainbow - Rainbow 4",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1482,6 +1652,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#000000FF",
@@ -1498,9 +1670,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Plus",
     "sku": "FAA001000373",
-    "title": "PLA Plus - Black"
+    "title": "PLA Plus - Black",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1523,6 +1698,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#0000FFFF",
@@ -1539,9 +1716,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "High Speed PLA Plus",
     "sku": "FAA001000371*3",
-    "title": "High Speed PLA Plus - Blue"
+    "title": "High Speed PLA Plus - Blue",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1567,6 +1747,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#1E5BD8",
@@ -1584,9 +1766,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Blue Green",
     "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
     "sku": "FAA001000501",
-    "title": "PLA Silk Dual Color - Blue Green"
+    "title": "PLA Silk Dual Color - Blue Green",
+    "updated_at": 1792796399859
   },
   {
     "RFID_Data": {
@@ -1615,6 +1800,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#D81F26",
@@ -1633,9 +1820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Red Blue Green",
     "product_type": "Filament",
+    "series": "PLA Silk Tri-Color",
     "sku": "FAA001000537",
-    "title": "PLA Silk Tri-Color - Red Blue Green"
+    "title": "PLA Silk Tri-Color - Red Blue Green",
+    "updated_at": 1792796406081
   },
   {
     "RFID_Data": {
@@ -1658,6 +1848,8 @@
       "id_unit": 21,
       "measure": 3000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFFFFFFF",
@@ -1674,9 +1866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "3000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "High Speed PLA Plus",
     "sku": "FAA001000365*3",
-    "title": "High Speed PLA Plus - White"
+    "title": "High Speed PLA Plus - White",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1702,6 +1897,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#FF69B4",
@@ -1719,9 +1916,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Pink Blue",
     "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
     "sku": "FAA001000555",
-    "title": "PLA Silk Dual Color - Pink Blue"
+    "title": "PLA Silk Dual Color - Pink Blue",
+    "updated_at": 1792796417397
   },
   {
     "RFID_Data": {
@@ -1744,6 +1944,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Conjure",
     "color": "#FFFFFFFF",
@@ -1760,9 +1962,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Plus",
     "sku": "FAA001000374",
-    "title": "PLA Plus - White"
+    "title": "PLA Plus - White",
+    "updated_at": 1788477188579
   },
   {
     "RFID_Data": {
@@ -1788,6 +1993,8 @@
       "id_unit": 21,
       "measure": 1300
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "Conjure",
     "color": "#E0245E",
@@ -1805,8 +2012,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1300 g",
+    "name": "Rose Red Sky Blue",
     "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
     "sku": "FAA001000543",
-    "title": "PLA Silk Dual Color - Rose Red Sky Blue"
+    "title": "PLA Silk Dual Color - Rose Red Sky Blue",
+    "updated_at": 1792796420697
   }
 ]

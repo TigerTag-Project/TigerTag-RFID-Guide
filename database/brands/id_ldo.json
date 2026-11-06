@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#111111",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "LDO-ASA-CF-BL",
-    "title": "ASA-CF - Black"
+    "title": "ASA-CF - Black",
+    "updated_at": 1793175635567
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#B89A4A",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Turtle Gold",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-TURTLE-GOLD",
-    "title": "ABS - Turtle Gold"
+    "title": "ABS - Turtle Gold",
+    "updated_at": 1793175785959
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#F5F5F5",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-WHITE",
-    "title": "ABS - White"
+    "title": "ABS - White",
+    "updated_at": 1793175800201
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#FF7A1A",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "LDO-ASA-OE",
-    "title": "ASA - Orange"
+    "title": "ASA - Orange",
+    "updated_at": 1793175735695
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#111111",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-BLACK",
-    "title": "ABS - Black"
+    "title": "ABS - Black",
+    "updated_at": 1793175641690
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#111111",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LDO-PLA-BLACK",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1793175648969
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#5B3E8F",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Monolith Purple",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-MONOLITH-PURPLE",
-    "title": "ABS - Monolith Purple"
+    "title": "ABS - Monolith Purple",
+    "updated_at": 1793175712080
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#9A9CA0",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Stardust Grey",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-STARDUST-GREY",
-    "title": "ABS - Stardust Grey"
+    "title": "ABS - Stardust Grey",
+    "updated_at": 1793175772364
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#39FF14",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-NEON-GREEN",
-    "title": "ABS - Neon Green"
+    "title": "ABS - Neon Green",
+    "updated_at": 1793175717677
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#C8E63C",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Lemon Lime",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-LEMON-LIME",
-    "title": "ABS - Lemon Lime"
+    "title": "ABS - Lemon Lime",
+    "updated_at": 1793175699694
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#7EC8F0",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-LIGHT-BLUE",
-    "title": "ABS - Light Blue"
+    "title": "ABS - Light Blue",
+    "updated_at": 1793175706513
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#1E6FD9",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "LDO Blue",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-LDO-BLUE",
-    "title": "ABS - LDO Blue"
+    "title": "ABS - LDO Blue",
+    "updated_at": 1793175686591
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#C45A8F",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Plum Pink",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-PLUM-PINK",
-    "title": "ABS - Plum Pink"
+    "title": "ABS - Plum Pink",
+    "updated_at": 1793175741604
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#111111",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "LDO-ASA-BL",
-    "title": "ASA - Black"
+    "title": "ASA - Black",
+    "updated_at": 1793175612548
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#7A7D80",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Smoke Grey",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-SMOKE-GREY",
-    "title": "ABS - Smoke Grey"
+    "title": "ABS - Smoke Grey",
+    "updated_at": 1793175765475
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#2E6FD0",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LDO-PLA-BLUE",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1793175655021
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#F5F5F5",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LDO-PLA-WHITE",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1793175793858
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#C9A24B",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Larch Gold",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-LARCH-GOLD",
-    "title": "ABS - Larch Gold"
+    "title": "ABS - Larch Gold",
+    "updated_at": 1793175692867
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#6B7A3A",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "LDO-ASA-OG",
-    "title": "ASA - Olive Green"
+    "title": "ASA - Olive Green",
+    "updated_at": 1793175723659
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#D32F2F",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-RED",
-    "title": "ABS - Red"
+    "title": "ABS - Red",
+    "updated_at": 1793175759659
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#6E7074",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA-CF",
     "sku": "LDO-ASA-CF-GY",
-    "title": "ASA-CF - Grey"
+    "title": "ASA-CF - Grey",
+    "updated_at": 1793175673773
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#4A6F8F",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Steel Wave Blue",
     "product_type": "Filament",
+    "series": "ASA",
     "sku": "LDO-ASA-SWB",
-    "title": "ASA - Steel Wave Blue"
+    "title": "ASA - Steel Wave Blue",
+    "updated_at": 1793175778190
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#1F4E8C",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Industry Blue",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-INDUSTRY-BLUE",
-    "title": "ABS - Industry Blue"
+    "title": "ABS - Industry Blue",
+    "updated_at": 1793175680010
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#7B3FA0",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "LDO-PLA-PURPLE",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1793175754091
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#2E7D4F",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Glitter Turtle Green",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-GLITTER-TURTLE-GREEN",
-    "title": "ABS - Glitter Turtle Green"
+    "title": "ABS - Glitter Turtle Green",
+    "updated_at": 1793175667464
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#FF7A1A",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-ORANGE",
-    "title": "ABS - Orange"
+    "title": "ABS - Orange",
+    "updated_at": 1793175729655
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#0F5C5C",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Teal",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-DARK-TEAL",
-    "title": "ABS - Dark Teal"
+    "title": "ABS - Dark Teal",
+    "updated_at": 1793175661578
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "LDO",
     "color": "#7B3FA0",
@@ -1143,8 +1280,11 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "LDO-ABS-PURPLE",
-    "title": "ABS - Purple"
+    "title": "ABS - Purple",
+    "updated_at": 1793175748058
   }
 ]

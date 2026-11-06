@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F06292",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007388",
-    "title": "mattePLA 3DJake - Pink"
+    "title": "mattePLA 3DJake - Pink",
+    "updated_at": 1793374601065
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B3D4F0",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Blue",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-PASTBLUE-1000-175",
-    "title": "ecoPLA 3DJake - Pastel Blue"
+    "title": "ecoPLA 3DJake - Pastel Blue",
+    "updated_at": 1793374822503
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-DARKGREY-0750-175",
-    "title": "TPU A95 3DJake - Dark Grey"
+    "title": "TPU A95 3DJake - Dark Grey",
+    "updated_at": 1793372444843
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-DARKGREY-1000-175",
-    "title": "ecoPLA 3DJake - Dark Grey"
+    "title": "ecoPLA 3DJake - Dark Grey",
+    "updated_at": 1793372449333
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#5BB8E8",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-SKYBLUE-1000-175",
-    "title": "ecoPLA 3DJake - Sky Blue"
+    "title": "ecoPLA 3DJake - Sky Blue",
+    "updated_at": 1793372606507
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Transparent Red",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-TRRED-1000-175",
-    "title": "PCTG 3DJake - Transparent Red"
+    "title": "PCTG 3DJake - Transparent Red",
+    "updated_at": 1793372257810
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B08D57",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006961",
-    "title": "ABS 3DJake - Bronze"
+    "title": "ABS 3DJake - Bronze",
+    "updated_at": 1793371935043
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#BDBDBD",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-LIGHTGREY-0750-175",
-    "title": "TPU A95 3DJake - Light Grey"
+    "title": "TPU A95 3DJake - Light Grey",
+    "updated_at": 1793374503332
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#BDBDBD",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-LIGHTGREY-0750-175",
-    "title": "niceBIO 3DJake - Light Grey"
+    "title": "niceBIO 3DJake - Light Grey",
+    "updated_at": 1793374530810
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1E5BC6",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ecoPLA Sparkling 3DJake",
     "sku": "CB-9010707004660",
-    "title": "ecoPLA Sparkling 3DJake - Blue"
+    "title": "ecoPLA Sparkling 3DJake - Blue",
+    "updated_at": 1793371762616
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Matt",
     "barcode": null,
     "brand": "3DJake",
     "color": "#FF6A00",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008286",
-    "title": "easyPETG Matte 3DJake - Neon Orange"
+    "title": "easyPETG Matte 3DJake - Neon Orange",
+    "updated_at": 1793375058202
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-DARKGREY-1000-175",
-    "title": "ASA 3DJake - Dark Grey"
+    "title": "ASA 3DJake - Dark Grey",
+    "updated_at": 1793372423504
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D6457A",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Frozen Raspberry",
     "product_type": "Filament",
+    "series": "magicPLA 3DJake",
     "sku": "CB-9010707004776",
-    "title": "magicPLA 3DJake - Frozen Raspberry"
+    "title": "magicPLA 3DJake - Frozen Raspberry",
+    "updated_at": 1793372721583
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#6D4C41",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008217",
-    "title": "easyPETG Matte 3DJake - Brown"
+    "title": "easyPETG Matte 3DJake - Brown",
+    "updated_at": 1793371991884
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F8BBD0",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Pastel Pink",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707007043",
-    "title": "ABS 3DJake - Pastel Pink"
+    "title": "ABS 3DJake - Pastel Pink",
+    "updated_at": 1793374756016
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111FF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ecoPLA CF 3DJake",
     "sku": "CLP-9010707009313",
-    "title": "ecoPLA CF 3DJake - Black"
+    "title": "ecoPLA CF 3DJake - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "easyPETG CF 3DJake",
     "sku": "CLP-9010707009375",
-    "title": "easyPETG CF 3DJake - Dark Blue"
+    "title": "easyPETG CF 3DJake - Dark Blue",
+    "updated_at": 1793372321385
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1B5E20",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-DGREEN-1000-175",
-    "title": "PCTG 3DJake - Dark Green"
+    "title": "PCTG 3DJake - Dark Green",
+    "updated_at": 1793372397024
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FF2FA0",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Neon Pink",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-9010707009481",
-    "title": "ASA 3DJake - Neon Pink"
+    "title": "ASA 3DJake - Neon Pink",
+    "updated_at": 1793375079321
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F06292",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006350",
-    "title": "easyPETG 3DJake - Pink"
+    "title": "easyPETG 3DJake - Pink",
+    "updated_at": 1793374596708
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-9010707001508",
-    "title": "PCTG 3DJake - Yellow"
+    "title": "PCTG 3DJake - Yellow",
+    "updated_at": 1793371793911
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F57C00",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007289",
-    "title": "mattePLA 3DJake - Orange"
+    "title": "mattePLA 3DJake - Orange",
+    "updated_at": 1793374921706
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-RED-0750-175",
-    "title": "niceBIO 3DJake - Red"
+    "title": "niceBIO 3DJake - Red",
+    "updated_at": 1793373969486
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#A8E0C8",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mint Blush",
     "product_type": "Filament",
+    "series": "magicPLA 3DJake",
     "sku": "CB-9010707004745",
-    "title": "magicPLA 3DJake - Mint Blush"
+    "title": "magicPLA 3DJake - Mint Blush",
+    "updated_at": 1793374787985
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F57C00",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-ORANGE-0750-175",
-    "title": "niceBIO 3DJake - Orange"
+    "title": "niceBIO 3DJake - Orange",
+    "updated_at": 1793374943095
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006152",
-    "title": "easyPETG 3DJake - Dark Blue"
+    "title": "easyPETG 3DJake - Dark Blue",
+    "updated_at": 1793372339903
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-DARKGREY-0750-175",
-    "title": "niceBIO 3DJake - Dark Grey"
+    "title": "niceBIO 3DJake - Dark Grey",
+    "updated_at": 1793372451697
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004905",
-    "title": "ecoPLA Silk 3DJake - Silver"
+    "title": "ecoPLA Silk 3DJake - Silver",
+    "updated_at": 1793372676058
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F06292",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-PINK-1000-175",
-    "title": "ecoPLA 3DJake - Pink"
+    "title": "ecoPLA 3DJake - Pink",
+    "updated_at": 1793374626598
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-DARKBLUE-1000-175",
-    "title": "ecoPLA 3DJake - Dark Blue"
+    "title": "ecoPLA 3DJake - Dark Blue",
+    "updated_at": 1793372330425
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-9010707001546",
-    "title": "TPU A95 3DJake - Yellow"
+    "title": "TPU A95 3DJake - Yellow",
+    "updated_at": 1793371758036
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006664",
-    "title": "ABS 3DJake - Dark Blue"
+    "title": "ABS 3DJake - Dark Blue",
+    "updated_at": 1793372311596
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F2F2F2",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-WHITE-0750-175",
-    "title": "TPU A95 3DJake - White"
+    "title": "TPU A95 3DJake - White",
+    "updated_at": 1793371854300
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D4AF37",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "ecoPLA Sparkling 3DJake",
     "sku": "CB-9010707004691",
-    "title": "ecoPLA Sparkling 3DJake - Gold"
+    "title": "ecoPLA Sparkling 3DJake - Gold",
+    "updated_at": 1793373037694
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006077",
-    "title": "easyPETG 3DJake - Black"
+    "title": "easyPETG 3DJake - Black",
+    "updated_at": 1793371576010
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7FB8E6",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007203",
-    "title": "mattePLA 3DJake - Light Blue"
+    "title": "mattePLA 3DJake - Light Blue",
+    "updated_at": 1793374325455
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8BC34A",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006237",
-    "title": "easyPETG 3DJake - Light Green"
+    "title": "easyPETG 3DJake - Light Green",
+    "updated_at": 1793374462615
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007081",
-    "title": "mattePLA 3DJake - Black"
+    "title": "mattePLA 3DJake - Black",
+    "updated_at": 1793371560141
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#6D4C41",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007364",
-    "title": "mattePLA 3DJake - Brown"
+    "title": "mattePLA 3DJake - Brown",
+    "updated_at": 1793371981015
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8BC34A",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-LIGHTGREEN-0750-175",
-    "title": "niceBIO 3DJake - Light Green"
+    "title": "niceBIO 3DJake - Light Green",
+    "updated_at": 1793374436320
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F2F2F2",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-WHITE-0750-175",
-    "title": "niceBIO 3DJake - White"
+    "title": "niceBIO 3DJake - White",
+    "updated_at": 1793371860712
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#EEF2F4",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-TRANSPARENT-1000-175",
-    "title": "ecoPLA 3DJake - Transparent"
+    "title": "ecoPLA 3DJake - Transparent",
+    "updated_at": 1793372333845
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1B5E20",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-9010707001461",
-    "title": "ASA 3DJake - Dark Green"
+    "title": "ASA 3DJake - Dark Green",
+    "updated_at": 1793372393748
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1E5BC6",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Transparent Blue",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-TRBLUE-1000-175",
-    "title": "PCTG 3DJake - Transparent Blue"
+    "title": "PCTG 3DJake - Transparent Blue",
+    "updated_at": 1793372320323
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007166",
-    "title": "mattePLA 3DJake - Dark Grey"
+    "title": "mattePLA 3DJake - Dark Grey",
+    "updated_at": 1793372427897
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-YELLOW-1000-175",
-    "title": "ecoPLA 3DJake - Yellow"
+    "title": "ecoPLA 3DJake - Yellow",
+    "updated_at": 1793371770392
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#2E9E4F",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Transparent Green",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-TRGREEN-1000-175",
-    "title": "PCTG 3DJake - Transparent Green"
+    "title": "PCTG 3DJake - Transparent Green",
+    "updated_at": 1793372299429
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F57C00",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008309",
-    "title": "easyPETG Matte 3DJake - Orange"
+    "title": "easyPETG Matte 3DJake - Orange",
+    "updated_at": 1793374954901
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "3DJake",
     "color": "#B3D4F0",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Blue",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007463",
-    "title": "mattePLA 3DJake - Pastel Blue"
+    "title": "mattePLA 3DJake - Pastel Blue",
+    "updated_at": 1793374820514
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B87333",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Copper",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CLA-9010707004981",
-    "title": "ecoPLA Silk 3DJake - Copper"
+    "title": "ecoPLA Silk 3DJake - Copper",
+    "updated_at": 1793372209483
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#E6FF00",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006862",
-    "title": "ABS 3DJake - Neon Yellow"
+    "title": "ABS 3DJake - Neon Yellow",
+    "updated_at": 1793375118103
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F57C00",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-ORANGE-1000-175",
-    "title": "ecoPLA 3DJake - Orange"
+    "title": "ecoPLA 3DJake - Orange",
+    "updated_at": 1793374972789
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#EC008C",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "CMYK Magenta",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLP-9010707007555",
-    "title": "ecoPLA 3DJake - CMYK Magenta"
+    "title": "ecoPLA 3DJake - CMYK Magenta",
+    "updated_at": 1793372042595
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7FB8E6",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-LBLUE-1000-175",
-    "title": "PCTG 3DJake - Light Blue"
+    "title": "PCTG 3DJake - Light Blue",
+    "updated_at": 1793374318088
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#E6FF00",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-NEONYELLOW-1000-175",
-    "title": "ecoPLA 3DJake - Neon Yellow"
+    "title": "ecoPLA 3DJake - Neon Yellow",
+    "updated_at": 1793375118107
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#4E342E",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Dark Brown",
     "product_type": "Filament",
+    "series": "ecoPLA Wood 3DJake",
     "sku": "CB-9010707004943",
-    "title": "ecoPLA Wood 3DJake - Dark Brown"
+    "title": "ecoPLA Wood 3DJake - Dark Brown",
+    "updated_at": 1793372350406
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#6D4C41",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006909",
-    "title": "ABS 3DJake - Brown"
+    "title": "ABS 3DJake - Brown",
+    "updated_at": 1793371980387
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006626",
-    "title": "ABS 3DJake - Black"
+    "title": "ABS 3DJake - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8BC34A",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006787",
-    "title": "ABS 3DJake - Light Green"
+    "title": "ABS 3DJake - Light Green",
+    "updated_at": 1793374376283
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#2E9E4F",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004882",
-    "title": "ecoPLA Silk 3DJake - Green"
+    "title": "ecoPLA Silk 3DJake - Green",
+    "updated_at": 1793373707510
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008248",
-    "title": "easyPETG Matte 3DJake - Dark Grey"
+    "title": "easyPETG Matte 3DJake - Dark Grey",
+    "updated_at": 1793372437399
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F06292",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008347",
-    "title": "easyPETG Matte 3DJake - Pink"
+    "title": "easyPETG Matte 3DJake - Pink",
+    "updated_at": 1793374604525
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7FB8E6",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006749",
-    "title": "ABS 3DJake - Light Blue"
+    "title": "ABS 3DJake - Light Blue",
+    "updated_at": 1793374312696
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#BDBDBD",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-LIGHTGREY-1000-175",
-    "title": "ASA 3DJake - Light Grey"
+    "title": "ASA 3DJake - Light Grey",
+    "updated_at": 1793374518317
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7FB8E6",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-LIGHTBLUE-1000-175",
-    "title": "ASA 3DJake - Light Blue"
+    "title": "ASA 3DJake - Light Blue",
+    "updated_at": 1793374327324
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B08D57",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008200",
-    "title": "easyPETG Matte 3DJake - Bronze"
+    "title": "easyPETG Matte 3DJake - Bronze",
+    "updated_at": 1793371111607
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006725",
-    "title": "ABS 3DJake - Red"
+    "title": "ABS 3DJake - Red",
+    "updated_at": 1793373986022
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Matt",
     "barcode": null,
     "brand": "3DJake",
     "color": "#E6FF00",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007326",
-    "title": "mattePLA 3DJake - Neon Yellow"
+    "title": "mattePLA 3DJake - Neon Yellow",
+    "updated_at": 1793375100220
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F8BBD0",
@@ -2824,9 +3166,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Pink",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-PASTPINK-1000-175",
-    "title": "ecoPLA 3DJake - Pastel Pink"
+    "title": "ecoPLA 3DJake - Pastel Pink",
+    "updated_at": 1793374737621
   },
   {
     "RFID_Data": {
@@ -2849,6 +3194,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -2865,9 +3212,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007227",
-    "title": "mattePLA 3DJake - Yellow"
+    "title": "mattePLA 3DJake - Yellow",
+    "updated_at": 1793371739984
   },
   {
     "RFID_Data": {
@@ -2890,6 +3240,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "3DJake",
     "color": "#B3D4F0",
@@ -2906,9 +3258,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pastel Blue",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008316",
-    "title": "easyPETG Matte 3DJake - Pastel Blue"
+    "title": "easyPETG Matte 3DJake - Pastel Blue",
+    "updated_at": 1793374832991
   },
   {
     "RFID_Data": {
@@ -2931,6 +3286,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8E44AD",
@@ -2947,9 +3304,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Violet",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-9010707001423",
-    "title": "ASA 3DJake - Violet"
+    "title": "ASA 3DJake - Violet",
+    "updated_at": 1793372114897
   },
   {
     "RFID_Data": {
@@ -2972,6 +3332,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -2988,9 +3350,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-SILVER-1000-175",
-    "title": "PCTG 3DJake - Silver"
+    "title": "PCTG 3DJake - Silver",
+    "updated_at": 1793372723287
   },
   {
     "RFID_Data": {
@@ -3013,6 +3378,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -3029,9 +3396,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-RED-1000-175",
-    "title": "PCTG 3DJake - Red"
+    "title": "PCTG 3DJake - Red",
+    "updated_at": 1793373982917
   },
   {
     "RFID_Data": {
@@ -3054,6 +3424,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -3070,9 +3442,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006527",
-    "title": "easyPETG 3DJake - Yellow"
+    "title": "easyPETG 3DJake - Yellow",
+    "updated_at": 1793371736800
   },
   {
     "RFID_Data": {
@@ -3095,6 +3470,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B3D4F0",
@@ -3111,9 +3488,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Pastel Blue",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707007005",
-    "title": "ABS 3DJake - Pastel Blue"
+    "title": "ABS 3DJake - Pastel Blue",
+    "updated_at": 1793374822100
   },
   {
     "RFID_Data": {
@@ -3136,6 +3516,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7FB8E6",
@@ -3152,9 +3534,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-LIGHTBLUE-0750-175",
-    "title": "niceBIO 3DJake - Light Blue"
+    "title": "niceBIO 3DJake - Light Blue",
+    "updated_at": 1793374313950
   },
   {
     "RFID_Data": {
@@ -3177,6 +3562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#EEF2F4",
@@ -3193,9 +3580,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006466",
-    "title": "easyPETG 3DJake - Transparent"
+    "title": "easyPETG 3DJake - Transparent",
+    "updated_at": 1793372335802
   },
   {
     "RFID_Data": {
@@ -3218,6 +3608,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FF6A00",
@@ -3234,9 +3626,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-NEONORANGE-1000-175",
-    "title": "ecoPLA 3DJake - Neon Orange"
+    "title": "ecoPLA 3DJake - Neon Orange",
+    "updated_at": 1793375058703
   },
   {
     "RFID_Data": {
@@ -3259,6 +3654,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#EEF2F4",
@@ -3275,9 +3672,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-TRANSPARENT-0750-175",
-    "title": "TPU A95 3DJake - Transparent"
+    "title": "TPU A95 3DJake - Transparent",
+    "updated_at": 1793372346297
   },
   {
     "RFID_Data": {
@@ -3300,6 +3700,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#2E9E4F",
@@ -3316,9 +3718,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Green",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006589",
-    "title": "easyPETG 3DJake - Transparent Green"
+    "title": "easyPETG 3DJake - Transparent Green",
+    "updated_at": 1793372296223
   },
   {
     "RFID_Data": {
@@ -3341,6 +3746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Matt",
     "barcode": null,
     "brand": "3DJake",
     "color": "#39FF14",
@@ -3357,9 +3764,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007401",
-    "title": "mattePLA 3DJake - Neon Green"
+    "title": "mattePLA 3DJake - Neon Green",
+    "updated_at": 1793374997236
   },
   {
     "RFID_Data": {
@@ -3382,6 +3792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7B3FA0",
@@ -3398,9 +3810,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-PURPLE-1000-175",
-    "title": "ecoPLA 3DJake - Purple"
+    "title": "ecoPLA 3DJake - Purple",
+    "updated_at": 1793374341527
   },
   {
     "RFID_Data": {
@@ -3423,6 +3838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#808080",
@@ -3439,9 +3856,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ecoPLA Sparkling 3DJake",
     "sku": "CB-9010707004684",
-    "title": "ecoPLA Sparkling 3DJake - Grey"
+    "title": "ecoPLA Sparkling 3DJake - Grey",
+    "updated_at": 1793373931504
   },
   {
     "RFID_Data": {
@@ -3464,6 +3884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F8BBD0",
@@ -3480,9 +3902,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pastel Pink",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006343",
-    "title": "easyPETG 3DJake - Pastel Pink"
+    "title": "easyPETG 3DJake - Pastel Pink",
+    "updated_at": 1793374739699
   },
   {
     "RFID_Data": {
@@ -3505,6 +3930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7B3FA0",
@@ -3521,9 +3948,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004936",
-    "title": "ecoPLA Silk 3DJake - Purple"
+    "title": "ecoPLA Silk 3DJake - Purple",
+    "updated_at": 1793374380310
   },
   {
     "RFID_Data": {
@@ -3546,6 +3976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -3562,9 +3994,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006190",
-    "title": "easyPETG 3DJake - Dark Grey"
+    "title": "easyPETG 3DJake - Dark Grey",
+    "updated_at": 1793372442787
   },
   {
     "RFID_Data": {
@@ -3587,6 +4022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -3603,9 +4040,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "ecoPLA CF 3DJake",
     "sku": "CLP-9010707009320",
-    "title": "ecoPLA CF 3DJake - Dark Grey"
+    "title": "ecoPLA CF 3DJake - Dark Grey",
+    "updated_at": 1793372424229
   },
   {
     "RFID_Data": {
@@ -3628,6 +4068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#39FF14",
@@ -3644,9 +4086,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-NEONGREEN-1000-175",
-    "title": "ecoPLA 3DJake - Neon Green"
+    "title": "ecoPLA 3DJake - Neon Green",
+    "updated_at": 1793375006912
   },
   {
     "RFID_Data": {
@@ -3669,6 +4114,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -3685,9 +4132,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ecoPLA Sparkling 3DJake",
     "sku": "CB-9010707004653",
-    "title": "ecoPLA Sparkling 3DJake - Silver"
+    "title": "ecoPLA Sparkling 3DJake - Silver",
+    "updated_at": 1793372680019
   },
   {
     "RFID_Data": {
@@ -3710,6 +4160,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8BC34A",
@@ -3726,9 +4178,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-LIGHTGREEN-0750-175",
-    "title": "TPU A95 3DJake - Light Green"
+    "title": "TPU A95 3DJake - Light Green",
+    "updated_at": 1793374398015
   },
   {
     "RFID_Data": {
@@ -3751,6 +4206,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#BDBDBD",
@@ -3767,9 +4224,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007265",
-    "title": "mattePLA 3DJake - Light Grey"
+    "title": "mattePLA 3DJake - Light Grey",
+    "updated_at": 1793374487604
   },
   {
     "RFID_Data": {
@@ -3792,6 +4252,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#5BB8E8",
@@ -3808,9 +4270,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008385",
-    "title": "easyPETG Matte 3DJake - Sky Blue"
+    "title": "easyPETG Matte 3DJake - Sky Blue",
+    "updated_at": 1793372612693
   },
   {
     "RFID_Data": {
@@ -3833,6 +4298,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "3DJake",
     "color": "#B9E4C9",
@@ -3849,9 +4316,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008323",
-    "title": "easyPETG Matte 3DJake - Pastel Green"
+    "title": "easyPETG Matte 3DJake - Pastel Green",
+    "updated_at": 1793374801219
   },
   {
     "RFID_Data": {
@@ -3874,6 +4344,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -3890,9 +4362,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-DARKBLUE-1000-175",
-    "title": "ASA 3DJake - Dark Blue"
+    "title": "ASA 3DJake - Dark Blue",
+    "updated_at": 1793372310715
   },
   {
     "RFID_Data": {
@@ -3915,6 +4390,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B5D334",
@@ -3931,9 +4408,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lemon Grass",
     "product_type": "Filament",
+    "series": "magicPLA 3DJake",
     "sku": "CB-9010707004783",
-    "title": "magicPLA 3DJake - Lemon Grass"
+    "title": "magicPLA 3DJake - Lemon Grass",
+    "updated_at": 1793374285618
   },
   {
     "RFID_Data": {
@@ -3956,6 +4436,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8BC34A",
@@ -3972,9 +4454,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007241",
-    "title": "mattePLA 3DJake - Light Green"
+    "title": "mattePLA 3DJake - Light Green",
+    "updated_at": 1793374436289
   },
   {
     "RFID_Data": {
@@ -3997,6 +4482,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#E6FF00",
@@ -4013,9 +4500,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006299",
-    "title": "easyPETG 3DJake - Neon Yellow"
+    "title": "easyPETG 3DJake - Neon Yellow",
+    "updated_at": 1793375111096
   },
   {
     "RFID_Data": {
@@ -4038,6 +4528,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F2F2F2",
@@ -4054,9 +4546,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-WHITE-1000-175",
-    "title": "PCTG 3DJake - White"
+    "title": "PCTG 3DJake - White",
+    "updated_at": 1793371843125
   },
   {
     "RFID_Data": {
@@ -4079,6 +4574,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -4095,9 +4592,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "ASA CF 3DJake",
     "sku": "CLP-9010707009412",
-    "title": "ASA CF 3DJake - Dark Blue"
+    "title": "ASA CF 3DJake - Dark Blue",
+    "updated_at": 1793372346207
   },
   {
     "RFID_Data": {
@@ -4120,6 +4620,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111FF",
@@ -4136,9 +4638,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "easyPETG CF 3DJake",
     "sku": "CLP-9010707009351",
-    "title": "easyPETG CF 3DJake - Black"
+    "title": "easyPETG CF 3DJake - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4161,6 +4666,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B9E4C9",
@@ -4177,9 +4684,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006336",
-    "title": "easyPETG 3DJake - Pastel Green"
+    "title": "easyPETG 3DJake - Pastel Green",
+    "updated_at": 1793374796690
   },
   {
     "RFID_Data": {
@@ -4202,6 +4712,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -4218,9 +4730,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-9010707001386",
-    "title": "ASA 3DJake - Yellow"
+    "title": "ASA 3DJake - Yellow",
+    "updated_at": 1793371737095
   },
   {
     "RFID_Data": {
@@ -4243,6 +4758,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F2F2F2",
@@ -4259,9 +4776,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006640",
-    "title": "ABS 3DJake - White"
+    "title": "ABS 3DJake - White",
+    "updated_at": 1793371839495
   },
   {
     "RFID_Data": {
@@ -4284,6 +4804,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -4300,9 +4822,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-SILVER-1000-175",
-    "title": "ASA 3DJake - Silver"
+    "title": "ASA 3DJake - Silver",
+    "updated_at": 1793372693918
   },
   {
     "RFID_Data": {
@@ -4325,6 +4850,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111FF",
@@ -4341,9 +4868,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-BLACK-1000-175",
-    "title": "ecoPLA 3DJake - Black"
+    "title": "ecoPLA 3DJake - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4366,6 +4896,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -4382,9 +4914,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-DARKBLUE-0750-175",
-    "title": "niceBIO 3DJake - Dark Blue"
+    "title": "niceBIO 3DJake - Dark Blue",
+    "updated_at": 1793372349416
   },
   {
     "RFID_Data": {
@@ -4407,6 +4942,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FFED00",
@@ -4423,9 +4960,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "CMYK Yellow",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLP-9010707007562",
-    "title": "ecoPLA 3DJake - CMYK Yellow"
+    "title": "ecoPLA 3DJake - CMYK Yellow",
+    "updated_at": 1793372043023
   },
   {
     "RFID_Data": {
@@ -4448,6 +4988,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7B3FA0",
@@ -4464,9 +5006,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ecoPLA Sparkling 3DJake",
     "sku": "CB-9010707004707",
-    "title": "ecoPLA Sparkling 3DJake - Purple"
+    "title": "ecoPLA Sparkling 3DJake - Purple",
+    "updated_at": 1793374375989
   },
   {
     "RFID_Data": {
@@ -4489,6 +5034,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#39FF14",
@@ -4505,9 +5052,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006275",
-    "title": "easyPETG 3DJake - Neon Green"
+    "title": "easyPETG 3DJake - Neon Green",
+    "updated_at": 1793375009695
   },
   {
     "RFID_Data": {
@@ -4530,6 +5080,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F57C00",
@@ -4546,9 +5098,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-ORANGE-1000-175",
-    "title": "ASA 3DJake - Orange"
+    "title": "ASA 3DJake - Orange",
+    "updated_at": 1793374935728
   },
   {
     "RFID_Data": {
@@ -4571,6 +5126,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D4AF37",
@@ -4587,9 +5144,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004899",
-    "title": "ecoPLA Silk 3DJake - Gold"
+    "title": "ecoPLA Silk 3DJake - Gold",
+    "updated_at": 1793372977801
   },
   {
     "RFID_Data": {
@@ -4612,6 +5172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1B5E20",
@@ -4628,9 +5190,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008231",
-    "title": "easyPETG Matte 3DJake - Dark Green"
+    "title": "easyPETG Matte 3DJake - Dark Green",
+    "updated_at": 1793372414013
   },
   {
     "RFID_Data": {
@@ -4653,6 +5218,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1B5E20",
@@ -4669,9 +5236,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007302",
-    "title": "mattePLA 3DJake - Dark Green"
+    "title": "mattePLA 3DJake - Dark Green",
+    "updated_at": 1793372396086
   },
   {
     "RFID_Data": {
@@ -4694,6 +5264,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F2F2F2",
@@ -4710,9 +5282,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008392",
-    "title": "easyPETG Matte 3DJake - White"
+    "title": "easyPETG Matte 3DJake - White",
+    "updated_at": 1793371869206
   },
   {
     "RFID_Data": {
@@ -4735,6 +5310,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F57C00",
@@ -4751,9 +5328,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-ORANGE-0750-175",
-    "title": "TPU A95 3DJake - Orange"
+    "title": "TPU A95 3DJake - Orange",
+    "updated_at": 1793374945601
   },
   {
     "RFID_Data": {
@@ -4776,6 +5356,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -4792,9 +5374,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007128",
-    "title": "mattePLA 3DJake - Dark Blue"
+    "title": "mattePLA 3DJake - Dark Blue",
+    "updated_at": 1793372323521
   },
   {
     "RFID_Data": {
@@ -4817,6 +5402,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#2E9E4F",
@@ -4833,9 +5420,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ecoPLA Sparkling 3DJake",
     "sku": "CB-9010707004677",
-    "title": "ecoPLA Sparkling 3DJake - Green"
+    "title": "ecoPLA Sparkling 3DJake - Green",
+    "updated_at": 1793373704696
   },
   {
     "RFID_Data": {
@@ -4858,6 +5448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Matt",
     "barcode": null,
     "brand": "3DJake",
     "color": "#FF6A00",
@@ -4874,9 +5466,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007487",
-    "title": "mattePLA 3DJake - Neon Orange"
+    "title": "mattePLA 3DJake - Neon Orange",
+    "updated_at": 1793375058719
   },
   {
     "RFID_Data": {
@@ -4899,6 +5494,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -4915,9 +5512,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007180",
-    "title": "mattePLA 3DJake - Red"
+    "title": "mattePLA 3DJake - Red",
+    "updated_at": 1793373948586
   },
   {
     "RFID_Data": {
@@ -4940,6 +5540,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#DFF5C8",
@@ -4956,9 +5558,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Glow",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006213",
-    "title": "easyPETG 3DJake - Glow"
+    "title": "easyPETG 3DJake - Glow",
+    "updated_at": 1793372797713
   },
   {
     "RFID_Data": {
@@ -4981,6 +5586,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -4997,9 +5604,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Yellow",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006565",
-    "title": "easyPETG 3DJake - Transparent Yellow"
+    "title": "easyPETG 3DJake - Transparent Yellow",
+    "updated_at": 1793372226933
   },
   {
     "RFID_Data": {
@@ -5022,6 +5632,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1B5E20",
@@ -5038,9 +5650,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-9010707001560",
-    "title": "TPU A95 3DJake - Dark Green"
+    "title": "TPU A95 3DJake - Dark Green",
+    "updated_at": 1793372410628
   },
   {
     "RFID_Data": {
@@ -5063,6 +5678,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8BC34A",
@@ -5079,9 +5696,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-LIGHTGREEN-1000-175",
-    "title": "ecoPLA 3DJake - Light Green"
+    "title": "ecoPLA 3DJake - Light Green",
+    "updated_at": 1793374378225
   },
   {
     "RFID_Data": {
@@ -5104,6 +5724,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#A1887F",
@@ -5120,9 +5742,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Light Brown",
     "product_type": "Filament",
+    "series": "ecoPLA Wood 3DJake",
     "sku": "CB-9010707004950",
-    "title": "ecoPLA Wood 3DJake - Light Brown"
+    "title": "ecoPLA Wood 3DJake - Light Brown",
+    "updated_at": 1793374340019
   },
   {
     "RFID_Data": {
@@ -5145,6 +5770,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -5161,9 +5788,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006688",
-    "title": "ABS 3DJake - Silver"
+    "title": "ABS 3DJake - Silver",
+    "updated_at": 1793372682382
   },
   {
     "RFID_Data": {
@@ -5186,6 +5816,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -5202,9 +5834,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-SILVER-0750-175",
-    "title": "niceBIO 3DJake - Silver"
+    "title": "niceBIO 3DJake - Silver",
+    "updated_at": 1793372732591
   },
   {
     "RFID_Data": {
@@ -5227,6 +5862,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -5243,9 +5880,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "easyPETG CF 3DJake",
     "sku": "CLP-9010707009382",
-    "title": "easyPETG CF 3DJake - Red"
+    "title": "easyPETG CF 3DJake - Red",
+    "updated_at": 1793373945625
   },
   {
     "RFID_Data": {
@@ -5268,6 +5908,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7B3FA0",
@@ -5284,9 +5926,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006367",
-    "title": "easyPETG 3DJake - Purple"
+    "title": "easyPETG 3DJake - Purple",
+    "updated_at": 1793374346141
   },
   {
     "RFID_Data": {
@@ -5309,6 +5954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FF6A00",
@@ -5325,9 +5972,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707007029",
-    "title": "ABS 3DJake - Neon Orange"
+    "title": "ABS 3DJake - Neon Orange",
+    "updated_at": 1793375052129
   },
   {
     "RFID_Data": {
@@ -5350,6 +6000,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -5366,9 +6018,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006381",
-    "title": "easyPETG 3DJake - Red"
+    "title": "easyPETG 3DJake - Red",
+    "updated_at": 1793373959007
   },
   {
     "RFID_Data": {
@@ -5391,6 +6046,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F57C00",
@@ -5407,9 +6064,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006305",
-    "title": "easyPETG 3DJake - Orange"
+    "title": "easyPETG 3DJake - Orange",
+    "updated_at": 1793374917287
   },
   {
     "RFID_Data": {
@@ -5432,6 +6092,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -5448,9 +6110,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006404",
-    "title": "easyPETG 3DJake - Silver"
+    "title": "easyPETG 3DJake - Silver",
+    "updated_at": 1793372688827
   },
   {
     "RFID_Data": {
@@ -5473,6 +6138,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -5489,9 +6156,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "ASA CF 3DJake",
     "sku": "CLP-9010707009405",
-    "title": "ASA CF 3DJake - Dark Grey"
+    "title": "ASA CF 3DJake - Dark Grey",
+    "updated_at": 1793372418604
   },
   {
     "RFID_Data": {
@@ -5514,6 +6184,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#EEF2F4",
@@ -5530,9 +6202,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-TR-1000-175",
-    "title": "PCTG 3DJake - Transparent"
+    "title": "PCTG 3DJake - Transparent",
+    "updated_at": 1793372336682
   },
   {
     "RFID_Data": {
@@ -5555,6 +6230,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Matt",
     "barcode": null,
     "brand": "3DJake",
     "color": "#E6FF00",
@@ -5571,9 +6248,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Yellow",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008293",
-    "title": "easyPETG Matte 3DJake - Neon Yellow"
+    "title": "easyPETG Matte 3DJake - Neon Yellow",
+    "updated_at": 1793375111113
   },
   {
     "RFID_Data": {
@@ -5596,6 +6276,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111FF",
@@ -5612,9 +6294,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-BLACK-1000-175",
-    "title": "ASA 3DJake - Black"
+    "title": "ASA 3DJake - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5637,6 +6322,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -5653,9 +6340,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006763",
-    "title": "ABS 3DJake - Yellow"
+    "title": "ABS 3DJake - Yellow",
+    "updated_at": 1793371747414
   },
   {
     "RFID_Data": {
@@ -5678,6 +6368,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1E5BC6",
@@ -5694,9 +6386,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Blue",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006602",
-    "title": "easyPETG 3DJake - Transparent Blue"
+    "title": "easyPETG 3DJake - Transparent Blue",
+    "updated_at": 1793372317882
   },
   {
     "RFID_Data": {
@@ -5719,6 +6414,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1B5E20",
@@ -5735,9 +6432,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006848",
-    "title": "ABS 3DJake - Dark Green"
+    "title": "ABS 3DJake - Dark Green",
+    "updated_at": 1793372408309
   },
   {
     "RFID_Data": {
@@ -5760,6 +6460,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -5776,9 +6478,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-SILVER-0750-175",
-    "title": "TPU A95 3DJake - Silver"
+    "title": "TPU A95 3DJake - Silver",
+    "updated_at": 1793372683997
   },
   {
     "RFID_Data": {
@@ -5801,6 +6506,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#BDBDBD",
@@ -5817,9 +6524,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006251",
-    "title": "easyPETG 3DJake - Light Grey"
+    "title": "easyPETG 3DJake - Light Grey",
+    "updated_at": 1793374496615
   },
   {
     "RFID_Data": {
@@ -5842,6 +6552,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7FB8E6",
@@ -5858,9 +6570,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-LIGHTBLUE-0750-175",
-    "title": "TPU A95 3DJake - Light Blue"
+    "title": "TPU A95 3DJake - Light Blue",
+    "updated_at": 1793374304935
   },
   {
     "RFID_Data": {
@@ -5883,6 +6598,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F57C00",
@@ -5899,9 +6616,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006824",
-    "title": "ABS 3DJake - Orange"
+    "title": "ABS 3DJake - Orange",
+    "updated_at": 1793374914090
   },
   {
     "RFID_Data": {
@@ -5924,6 +6644,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -5940,9 +6662,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008378",
-    "title": "easyPETG Matte 3DJake - Silver"
+    "title": "easyPETG Matte 3DJake - Silver",
+    "updated_at": 1793372720205
   },
   {
     "RFID_Data": {
@@ -5965,6 +6690,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111FF",
@@ -5981,9 +6708,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004929",
-    "title": "ecoPLA Silk 3DJake - Black"
+    "title": "ecoPLA Silk 3DJake - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6006,6 +6736,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#DFF5C8",
@@ -6022,9 +6754,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-GLOW-1000-175",
-    "title": "ecoPLA 3DJake - Glow"
+    "title": "ecoPLA 3DJake - Glow",
+    "updated_at": 1793372799698
   },
   {
     "RFID_Data": {
@@ -6047,6 +6782,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -6063,9 +6800,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-RED-1000-175",
-    "title": "ASA 3DJake - Red"
+    "title": "ASA 3DJake - Red",
+    "updated_at": 1793373968686
   },
   {
     "RFID_Data": {
@@ -6088,6 +6828,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F2F2F2",
@@ -6104,9 +6846,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007104",
-    "title": "mattePLA 3DJake - White"
+    "title": "mattePLA 3DJake - White",
+    "updated_at": 1793371851830
   },
   {
     "RFID_Data": {
@@ -6129,6 +6874,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B08D57",
@@ -6145,9 +6892,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006114",
-    "title": "easyPETG 3DJake - Bronze"
+    "title": "easyPETG 3DJake - Bronze",
+    "updated_at": 1793371933211
   },
   {
     "RFID_Data": {
@@ -6176,6 +6926,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "3DJake",
     "color": "#FF3B30",
@@ -6194,9 +6946,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rainbow Candyshop",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004974",
-    "title": "ecoPLA Silk 3DJake - Rainbow Candyshop"
+    "title": "ecoPLA Silk 3DJake - Rainbow Candyshop",
+    "updated_at": 1793374249289
   },
   {
     "RFID_Data": {
@@ -6219,6 +6974,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -6235,9 +6992,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-SILVER-1000-175",
-    "title": "ecoPLA 3DJake - Silver"
+    "title": "ecoPLA 3DJake - Silver",
+    "updated_at": 1793372697104
   },
   {
     "RFID_Data": {
@@ -6260,6 +7020,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B08D57",
@@ -6276,9 +7038,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-BRONZE-1000-175",
-    "title": "ecoPLA 3DJake - Bronze"
+    "title": "ecoPLA 3DJake - Bronze",
+    "updated_at": 1793371936494
   },
   {
     "RFID_Data": {
@@ -6301,6 +7066,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1AA6B7",
@@ -6317,9 +7084,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Tropical Sea",
     "product_type": "Filament",
+    "series": "magicPLA 3DJake",
     "sku": "CB-9010707004738",
-    "title": "magicPLA 3DJake - Tropical Sea"
+    "title": "magicPLA 3DJake - Tropical Sea",
+    "updated_at": 1793372200530
   },
   {
     "RFID_Data": {
@@ -6342,6 +7112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8BC34A",
@@ -6358,9 +7130,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-LGREEN-1000-175",
-    "title": "PCTG 3DJake - Light Green"
+    "title": "PCTG 3DJake - Light Green",
+    "updated_at": 1793374375084
   },
   {
     "RFID_Data": {
@@ -6383,6 +7158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#BDBDBD",
@@ -6399,9 +7176,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006800",
-    "title": "ABS 3DJake - Light Grey"
+    "title": "ABS 3DJake - Light Grey",
+    "updated_at": 1793374518313
   },
   {
     "RFID_Data": {
@@ -6424,6 +7204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8BC34A",
@@ -6440,9 +7222,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008255",
-    "title": "easyPETG Matte 3DJake - Light Green"
+    "title": "easyPETG Matte 3DJake - Light Green",
+    "updated_at": 1793374368022
   },
   {
     "RFID_Data": {
@@ -6465,6 +7250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -6481,9 +7268,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008361",
-    "title": "easyPETG Matte 3DJake - Red"
+    "title": "easyPETG Matte 3DJake - Red",
+    "updated_at": 1793374001126
   },
   {
     "RFID_Data": {
@@ -6506,6 +7296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C0C0C0",
@@ -6522,9 +7314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007142",
-    "title": "mattePLA 3DJake - Silver"
+    "title": "mattePLA 3DJake - Silver",
+    "updated_at": 1793372720799
   },
   {
     "RFID_Data": {
@@ -6547,6 +7342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8BC34A",
@@ -6563,9 +7360,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Light Green",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-LIGHTGREEN-1000-175",
-    "title": "ASA 3DJake - Light Green"
+    "title": "ASA 3DJake - Light Green",
+    "updated_at": 1793374383500
   },
   {
     "RFID_Data": {
@@ -6588,6 +7388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B3D4F0",
@@ -6604,9 +7406,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pastel Blue",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006329",
-    "title": "easyPETG 3DJake - Pastel Blue"
+    "title": "easyPETG 3DJake - Pastel Blue",
+    "updated_at": 1793374831906
   },
   {
     "RFID_Data": {
@@ -6629,6 +7434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1B5E20",
@@ -6645,9 +7452,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006176",
-    "title": "easyPETG 3DJake - Dark Green"
+    "title": "easyPETG 3DJake - Dark Green",
+    "updated_at": 1793372405510
   },
   {
     "RFID_Data": {
@@ -6670,6 +7480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -6686,9 +7498,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ecoPLA CF 3DJake",
     "sku": "CLP-9010707009344",
-    "title": "ecoPLA CF 3DJake - Red"
+    "title": "ecoPLA CF 3DJake - Red",
+    "updated_at": 1793373935414
   },
   {
     "RFID_Data": {
@@ -6711,6 +7526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -6727,9 +7544,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008408",
-    "title": "easyPETG Matte 3DJake - Yellow"
+    "title": "easyPETG Matte 3DJake - Yellow",
+    "updated_at": 1793371782029
   },
   {
     "RFID_Data": {
@@ -6752,6 +7572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F2F2F2",
@@ -6768,9 +7590,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA 3DJake",
     "sku": "CLP-ASA-WHITE-1000-175",
-    "title": "ASA 3DJake - White"
+    "title": "ASA 3DJake - White",
+    "updated_at": 1793371847203
   },
   {
     "RFID_Data": {
@@ -6793,6 +7618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -6809,9 +7636,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008224",
-    "title": "easyPETG Matte 3DJake - Dark Blue"
+    "title": "easyPETG Matte 3DJake - Dark Blue",
+    "updated_at": 1793372333796
   },
   {
     "RFID_Data": {
@@ -6834,6 +7664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#6D4C41",
@@ -6850,9 +7682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-BROWN-1000-175",
-    "title": "ecoPLA 3DJake - Brown"
+    "title": "ecoPLA 3DJake - Brown",
+    "updated_at": 1793371959518
   },
   {
     "RFID_Data": {
@@ -6875,6 +7710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111",
@@ -6891,9 +7728,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008194",
-    "title": "easyPETG Matte 3DJake - Black"
+    "title": "easyPETG Matte 3DJake - Black",
+    "updated_at": 1793371517891
   },
   {
     "RFID_Data": {
@@ -6916,6 +7756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FF6A00",
@@ -6932,9 +7774,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Orange",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006282",
-    "title": "easyPETG 3DJake - Neon Orange"
+    "title": "easyPETG 3DJake - Neon Orange",
+    "updated_at": 1793375066316
   },
   {
     "RFID_Data": {
@@ -6957,6 +7802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B9E4C9",
@@ -6973,9 +7820,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707007067",
-    "title": "ABS 3DJake - Pastel Green"
+    "title": "ABS 3DJake - Pastel Green",
+    "updated_at": 1793374795297
   },
   {
     "RFID_Data": {
@@ -6998,6 +7848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C9A227",
@@ -7014,9 +7866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Golden Alloy",
     "product_type": "Filament",
+    "series": "magicPLA 3DJake",
     "sku": "CB-9010707004752",
-    "title": "magicPLA 3DJake - Golden Alloy"
+    "title": "magicPLA 3DJake - Golden Alloy",
+    "updated_at": 1793373186408
   },
   {
     "RFID_Data": {
@@ -7039,6 +7894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -7055,9 +7912,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006701",
-    "title": "ABS 3DJake - Dark Grey"
+    "title": "ABS 3DJake - Dark Grey",
+    "updated_at": 1793372433121
   },
   {
     "RFID_Data": {
@@ -7080,6 +7940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7B3FA0",
@@ -7096,9 +7958,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-9010707001584",
-    "title": "TPU A95 3DJake - Purple"
+    "title": "TPU A95 3DJake - Purple",
+    "updated_at": 1793374366220
   },
   {
     "RFID_Data": {
@@ -7121,6 +7986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -7137,9 +8004,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-DARKBLUE-0750-175",
-    "title": "TPU A95 3DJake - Dark Blue"
+    "title": "TPU A95 3DJake - Dark Blue",
+    "updated_at": 1793372321698
   },
   {
     "RFID_Data": {
@@ -7162,6 +8032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -7178,9 +8050,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA CF 3DJake",
     "sku": "CLP-9010707009429",
-    "title": "ASA CF 3DJake - Red"
+    "title": "ASA CF 3DJake - Red",
+    "updated_at": 1793373980027
   },
   {
     "RFID_Data": {
@@ -7203,6 +8078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": "Matt",
     "barcode": null,
     "brand": "3DJake",
     "color": "#39FF14",
@@ -7219,9 +8096,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008279",
-    "title": "easyPETG Matte 3DJake - Neon Green"
+    "title": "easyPETG Matte 3DJake - Neon Green",
+    "updated_at": 1793375006611
   },
   {
     "RFID_Data": {
@@ -7244,6 +8124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#BDBDBD",
@@ -7260,9 +8142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-LIGHTGREY-1000-175",
-    "title": "ecoPLA 3DJake - Light Grey"
+    "title": "ecoPLA 3DJake - Light Grey",
+    "updated_at": 1793374506787
   },
   {
     "RFID_Data": {
@@ -7285,6 +8170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -7301,9 +8188,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-RED-0750-175",
-    "title": "TPU A95 3DJake - Red"
+    "title": "TPU A95 3DJake - Red",
+    "updated_at": 1793373994721
   },
   {
     "RFID_Data": {
@@ -7326,6 +8216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -7342,9 +8234,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Transparent Yellow",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-TRYELLOW-1000-175",
-    "title": "PCTG 3DJake - Transparent Yellow"
+    "title": "PCTG 3DJake - Transparent Yellow",
+    "updated_at": 1793372218420
   },
   {
     "RFID_Data": {
@@ -7367,6 +8262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#C2185B",
@@ -7383,9 +8280,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Raspberry",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004868",
-    "title": "ecoPLA Silk 3DJake - Raspberry"
+    "title": "ecoPLA Silk 3DJake - Raspberry",
+    "updated_at": 1793374171520
   },
   {
     "RFID_Data": {
@@ -7408,6 +8308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "3DJake",
     "color": "#F8BBD0",
@@ -7424,9 +8326,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pastel Pink",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008330",
-    "title": "easyPETG Matte 3DJake - Pastel Pink"
+    "title": "easyPETG Matte 3DJake - Pastel Pink",
+    "updated_at": 1793374746000
   },
   {
     "RFID_Data": {
@@ -7449,6 +8354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#FDD835",
@@ -7465,9 +8372,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004912",
-    "title": "ecoPLA Silk 3DJake - Yellow"
+    "title": "ecoPLA Silk 3DJake - Yellow",
+    "updated_at": 1793371793824
   },
   {
     "RFID_Data": {
@@ -7490,6 +8400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#BDBDBD",
@@ -7506,9 +8418,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008262",
-    "title": "easyPETG Matte 3DJake - Light Grey"
+    "title": "easyPETG Matte 3DJake - Light Grey",
+    "updated_at": 1793374493230
   },
   {
     "RFID_Data": {
@@ -7531,6 +8446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111FF",
@@ -7547,9 +8464,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-BLACK-1000-175",
-    "title": "PCTG 3DJake - Black"
+    "title": "PCTG 3DJake - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7572,6 +8492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F06292",
@@ -7588,9 +8510,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006923",
-    "title": "ABS 3DJake - Pink"
+    "title": "ABS 3DJake - Pink",
+    "updated_at": 1793374618818
   },
   {
     "RFID_Data": {
@@ -7613,6 +8538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -7629,9 +8556,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Red",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006541",
-    "title": "easyPETG 3DJake - Transparent Red"
+    "title": "easyPETG 3DJake - Transparent Red",
+    "updated_at": 1793372255699
   },
   {
     "RFID_Data": {
@@ -7660,6 +8590,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Silk",
     "barcode": null,
     "brand": "3DJake",
     "color": "#FF4FA3",
@@ -7678,9 +8610,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rainbow Lollipop",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004967",
-    "title": "ecoPLA Silk 3DJake - Rainbow Lollipop"
+    "title": "ecoPLA Silk 3DJake - Rainbow Lollipop",
+    "updated_at": 1793374237584
   },
   {
     "RFID_Data": {
@@ -7703,6 +8638,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -7719,9 +8656,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-RED-1000-175",
-    "title": "ecoPLA 3DJake - Red"
+    "title": "ecoPLA 3DJake - Red",
+    "updated_at": 1793373930513
   },
   {
     "RFID_Data": {
@@ -7744,6 +8684,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "3DJake",
     "color": "#F8BBD0",
@@ -7760,9 +8702,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Pink",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007500",
-    "title": "mattePLA 3DJake - Pastel Pink"
+    "title": "mattePLA 3DJake - Pastel Pink",
+    "updated_at": 1793374748498
   },
   {
     "RFID_Data": {
@@ -7785,6 +8730,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7B3FA0",
@@ -7801,9 +8748,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "easyPETG Matte 3DJake",
     "sku": "CLP-9010707008354",
-    "title": "easyPETG Matte 3DJake - Purple"
+    "title": "easyPETG Matte 3DJake - Purple",
+    "updated_at": 1793374344697
   },
   {
     "RFID_Data": {
@@ -7826,6 +8776,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7B3FA0",
@@ -7842,9 +8794,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006985",
-    "title": "ABS 3DJake - Purple"
+    "title": "ABS 3DJake - Purple",
+    "updated_at": 1793374353408
   },
   {
     "RFID_Data": {
@@ -7867,6 +8822,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7B3FA0",
@@ -7883,9 +8840,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007449",
-    "title": "mattePLA 3DJake - Purple"
+    "title": "mattePLA 3DJake - Purple",
+    "updated_at": 1793374356084
   },
   {
     "RFID_Data": {
@@ -7908,6 +8868,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1E5BC6",
@@ -7924,9 +8886,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ecoPLA Silk 3DJake",
     "sku": "CB-9010707004875",
-    "title": "ecoPLA Silk 3DJake - Blue"
+    "title": "ecoPLA Silk 3DJake - Blue",
+    "updated_at": 1793371818207
   },
   {
     "RFID_Data": {
@@ -7949,6 +8914,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#7B3FA0",
@@ -7965,9 +8932,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-9010707001522",
-    "title": "PCTG 3DJake - Purple"
+    "title": "PCTG 3DJake - Purple",
+    "updated_at": 1793374363621
   },
   {
     "RFID_Data": {
@@ -7990,6 +8960,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B08D57",
@@ -8006,9 +8978,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007425",
-    "title": "mattePLA 3DJake - Bronze"
+    "title": "mattePLA 3DJake - Bronze",
+    "updated_at": 1793371927336
   },
   {
     "RFID_Data": {
@@ -8031,6 +9006,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#6D4C41",
@@ -8047,9 +9024,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006138",
-    "title": "easyPETG 3DJake - Brown"
+    "title": "easyPETG 3DJake - Brown",
+    "updated_at": 1793371970912
   },
   {
     "RFID_Data": {
@@ -8072,6 +9052,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#5BB8E8",
@@ -8088,9 +9070,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006442",
-    "title": "easyPETG 3DJake - Sky Blue"
+    "title": "easyPETG 3DJake - Sky Blue",
+    "updated_at": 1793372615490
   },
   {
     "RFID_Data": {
@@ -8113,6 +9098,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "3DJake",
     "color": "#B9E4C9",
@@ -8129,9 +9116,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "mattePLA 3DJake",
     "sku": "CLP-9010707007524",
-    "title": "mattePLA 3DJake - Pastel Green"
+    "title": "mattePLA 3DJake - Pastel Green",
+    "updated_at": 1793374790225
   },
   {
     "RFID_Data": {
@@ -8154,6 +9144,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#555555",
@@ -8170,9 +9162,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Dark Grey",
     "product_type": "Filament",
+    "series": "easyPETG CF 3DJake",
     "sku": "CLP-9010707009368",
-    "title": "easyPETG CF 3DJake - Dark Grey"
+    "title": "easyPETG CF 3DJake - Dark Grey",
+    "updated_at": 1793372433213
   },
   {
     "RFID_Data": {
@@ -8195,6 +9190,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F7B6D2",
@@ -8211,9 +9208,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cotton Candy",
     "product_type": "Filament",
+    "series": "magicPLA 3DJake",
     "sku": "CB-9010707004769",
-    "title": "magicPLA 3DJake - Cotton Candy"
+    "title": "magicPLA 3DJake - Cotton Candy",
+    "updated_at": 1793372241896
   },
   {
     "RFID_Data": {
@@ -8236,6 +9236,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#2C3E7A",
@@ -8252,9 +9254,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Arabian Nights",
     "product_type": "Filament",
+    "series": "magicPLA 3DJake",
     "sku": "CB-9010707004790",
-    "title": "magicPLA 3DJake - Arabian Nights"
+    "title": "magicPLA 3DJake - Arabian Nights",
+    "updated_at": 1793371329618
   },
   {
     "RFID_Data": {
@@ -8277,6 +9282,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -8293,9 +9300,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "PCTG 3DJake",
     "sku": "CLP-PCTG-DBLUE-1000-175",
-    "title": "PCTG 3DJake - Dark Blue"
+    "title": "PCTG 3DJake - Dark Blue",
+    "updated_at": 1793372313384
   },
   {
     "RFID_Data": {
@@ -8318,6 +9328,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#39FF14",
@@ -8334,9 +9346,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Neon Green",
     "product_type": "Filament",
+    "series": "ABS 3DJake",
     "sku": "CLP-9010707006947",
-    "title": "ABS 3DJake - Neon Green"
+    "title": "ABS 3DJake - Neon Green",
+    "updated_at": 1793374999123
   },
   {
     "RFID_Data": {
@@ -8359,6 +9374,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F2F2F2",
@@ -8375,9 +9392,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-WHITE-1000-175",
-    "title": "ecoPLA 3DJake - White"
+    "title": "ecoPLA 3DJake - White",
+    "updated_at": 1793371881018
   },
   {
     "RFID_Data": {
@@ -8400,6 +9420,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111FF",
@@ -8416,9 +9438,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "niceBIO 3DJake",
     "sku": "CLP-NICEBIO-BLACK-0750-175",
-    "title": "niceBIO 3DJake - Black"
+    "title": "niceBIO 3DJake - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8441,6 +9466,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#B9E4C9",
@@ -8457,9 +9484,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-PASTGREEN-1000-175",
-    "title": "ecoPLA 3DJake - Pastel Green"
+    "title": "ecoPLA 3DJake - Pastel Green",
+    "updated_at": 1793374783922
   },
   {
     "RFID_Data": {
@@ -8482,6 +9512,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#D32F2F",
@@ -8498,9 +9530,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ecoPLA Sparkling 3DJake",
     "sku": "CB-9010707004714",
-    "title": "ecoPLA Sparkling 3DJake - Red"
+    "title": "ecoPLA Sparkling 3DJake - Red",
+    "updated_at": 1793373948595
   },
   {
     "RFID_Data": {
@@ -8523,6 +9558,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#F2F2F2",
@@ -8539,9 +9576,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "easyPETG 3DJake",
     "sku": "CLP-9010707006480",
-    "title": "easyPETG 3DJake - White"
+    "title": "easyPETG 3DJake - White",
+    "updated_at": 1793371864910
   },
   {
     "RFID_Data": {
@@ -8564,6 +9604,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1B5E20",
@@ -8580,9 +9622,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-DARKGREEN-1000-175",
-    "title": "ecoPLA 3DJake - Dark Green"
+    "title": "ecoPLA 3DJake - Dark Green",
+    "updated_at": 1793372400415
   },
   {
     "RFID_Data": {
@@ -8605,6 +9650,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#1A3A7A",
@@ -8621,9 +9668,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "ecoPLA CF 3DJake",
     "sku": "CLP-9010707009337",
-    "title": "ecoPLA CF 3DJake - Dark Blue"
+    "title": "ecoPLA CF 3DJake - Dark Blue",
+    "updated_at": 1793372335308
   },
   {
     "RFID_Data": {
@@ -8646,6 +9696,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111",
@@ -8662,9 +9714,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA CF 3DJake",
     "sku": "CLP-9010707009399",
-    "title": "ASA CF 3DJake - Black"
+    "title": "ASA CF 3DJake - Black",
+    "updated_at": 1793371511929
   },
   {
     "RFID_Data": {
@@ -8687,6 +9742,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#8E44AD",
@@ -8703,9 +9760,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple Delirium",
     "product_type": "Filament",
+    "series": "magicPLA 3DJake",
     "sku": "CB-9010707004721",
-    "title": "magicPLA 3DJake - Purple Delirium"
+    "title": "magicPLA 3DJake - Purple Delirium",
+    "updated_at": 1793374319788
   },
   {
     "RFID_Data": {
@@ -8728,6 +9788,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#00AEEF",
@@ -8744,9 +9806,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "CMYK Cyan",
     "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
     "sku": "CLP-9010707007548",
-    "title": "ecoPLA 3DJake - CMYK Cyan"
+    "title": "ecoPLA 3DJake - CMYK Cyan",
+    "updated_at": 1793372035913
   },
   {
     "RFID_Data": {
@@ -8769,6 +9834,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DJake",
     "color": "#111111FF",
@@ -8785,8 +9852,11 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU A95 3DJake",
     "sku": "CLP-TPUA95-BLACK-0750-175",
-    "title": "TPU A95 3DJake - Black"
+    "title": "TPU A95 3DJake - Black",
+    "updated_at": null
   }
 ]

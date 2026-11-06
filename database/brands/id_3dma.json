@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#005F8CFF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ocean Blue",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-OCEANBLUE",
-    "title": "Core PLA - Ocean Blue"
+    "title": "Core PLA - Ocean Blue",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -64,6 +69,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "3DMA",
     "color": "#D4AF37FF",
@@ -81,9 +88,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold/Silver",
     "product_type": "Filament",
+    "series": "Dual-Silk PLA",
     "sku": "3DMA-DSPLA-GOLDSILVER",
-    "title": "Dual-Silk PLA - Gold/Silver"
+    "title": "Dual-Silk PLA - Gold/Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -106,6 +116,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FFFFFFFF",
@@ -122,9 +134,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-WHITE",
-    "title": "Core PLA - White"
+    "title": "Core PLA - White",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -147,6 +162,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#0FA968FF",
@@ -163,9 +180,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Emerald Green",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-EMERALDGREEN",
-    "title": "Silk PLA - Emerald Green"
+    "title": "Silk PLA - Emerald Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -194,6 +214,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1AFF",
@@ -212,9 +234,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black/Red/Gold",
     "product_type": "Filament",
+    "series": "Tri-Silk PLA",
     "sku": "3DMA-TSPLA-BLACKREDGOLD",
-    "title": "Tri-Silk PLA - Black/Red/Gold"
+    "title": "Tri-Silk PLA - Black/Red/Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -237,6 +262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5F5F0FF",
@@ -253,9 +280,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Arctic White",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-ARCTICWHITE",
-    "title": "Silk PLA - Arctic White"
+    "title": "Silk PLA - Arctic White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -278,6 +308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#808080FF",
@@ -294,9 +326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-GREY",
-    "title": "Core PLA - Grey"
+    "title": "Core PLA - Grey",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -319,6 +354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5F5F5FF",
@@ -335,9 +372,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Ultra PETG High Flow",
     "sku": "3DMA-UPETGHF-WHITE",
-    "title": "Ultra PETG High Flow - White"
+    "title": "Ultra PETG High Flow - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -360,6 +400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#0D0D0DFF",
@@ -376,9 +418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Glitter PLA",
     "sku": "3DMA-GPLA-BLACK",
-    "title": "Glitter PLA - Black"
+    "title": "Glitter PLA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -401,6 +446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1C1C1CFF",
@@ -417,9 +464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sesame Black",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-SESAMEBLACK",
-    "title": "Matte PLA - Sesame Black"
+    "title": "Matte PLA - Sesame Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -442,6 +492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1AFF",
@@ -458,9 +510,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Obsidian Black",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-OBSIDIANBLACK",
-    "title": "Silk PLA - Obsidian Black"
+    "title": "Silk PLA - Obsidian Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -483,6 +538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FC8EACFF",
@@ -499,9 +556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Flamingo Pink",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-FLAMINGOPINK",
-    "title": "Core PLA - Flamingo Pink"
+    "title": "Core PLA - Flamingo Pink",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -524,6 +584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#4A3222FF",
@@ -540,9 +602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Espresso Brown",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-ESPRESSOBROWN",
-    "title": "Matte PLA - Espresso Brown"
+    "title": "Matte PLA - Espresso Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -565,6 +630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#A5D8E6FF",
@@ -581,9 +648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ice Blue",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-ICEBLUE",
-    "title": "Core PLA - Ice Blue"
+    "title": "Core PLA - Ice Blue",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -606,6 +676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#228B22FF",
@@ -622,9 +694,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Matte PETG",
     "sku": "3DMA-MPETG-GREEN",
-    "title": "Matte PETG - Green"
+    "title": "Matte PETG - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -647,6 +722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#B87333FF",
@@ -663,9 +740,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Burnished Copper",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-BURNISHEDCOPPER",
-    "title": "Silk PLA - Burnished Copper"
+    "title": "Silk PLA - Burnished Copper",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -688,6 +768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#5C7A8AFF",
@@ -704,9 +786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Titanium Blue",
     "product_type": "Filament",
+    "series": "Alloy PLA",
     "sku": "3DMA-APLA-TITANIUMBLUE",
-    "title": "Alloy PLA - Titanium Blue"
+    "title": "Alloy PLA - Titanium Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -729,6 +814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#C41E3AFF",
@@ -745,9 +832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cherry Red",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-CHERRYRED",
-    "title": "Matte PLA - Cherry Red"
+    "title": "Matte PLA - Cherry Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -770,6 +860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FFFFFFFF",
@@ -786,9 +878,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Ultra PLA+ High Flow",
     "sku": "3DMA-UPLAHF-WHITE",
-    "title": "Ultra PLA+ High Flow - White"
+    "title": "Ultra PLA+ High Flow - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -811,6 +906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#556B4FFF",
@@ -827,9 +924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Heritage Green",
     "product_type": "Filament",
+    "series": "Alloy PLA",
     "sku": "3DMA-APLA-HERITAGEGREEN",
-    "title": "Alloy PLA - Heritage Green"
+    "title": "Alloy PLA - Heritage Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -852,6 +952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#808080FF",
@@ -868,9 +970,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Ultra PETG High Flow",
     "sku": "3DMA-UPETGHF-GREY",
-    "title": "Ultra PETG High Flow - Grey"
+    "title": "Ultra PETG High Flow - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -893,6 +998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#D4AF37FF",
@@ -909,9 +1016,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Imperial Gold",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-IMPERIALGOLD",
-    "title": "Silk PLA - Imperial Gold"
+    "title": "Silk PLA - Imperial Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -934,6 +1044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#808080FF",
@@ -950,9 +1062,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Ultra PLA+ High Flow",
     "sku": "3DMA-UPLAHF-GREY",
-    "title": "Ultra PLA+ High Flow - Grey"
+    "title": "Ultra PLA+ High Flow - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -975,6 +1090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1A",
@@ -991,9 +1108,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Ultra PETG High Flow",
     "sku": "3DMA-UPETGHF-BLACK",
-    "title": "Ultra PETG High Flow - Black"
+    "title": "Ultra PETG High Flow - Black",
+    "updated_at": 1790762197673
   },
   {
     "RFID_Data": {
@@ -1016,6 +1136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#808080FF",
@@ -1032,9 +1154,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Ultra TPU-95A High Flow",
     "sku": "3DMA-UTPU95AHF-GREY",
-    "title": "Ultra TPU-95A High Flow - Grey"
+    "title": "Ultra TPU-95A High Flow - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1057,6 +1182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#2266CCFF",
@@ -1073,9 +1200,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Matte PETG",
     "sku": "3DMA-MPETG-BLUE",
-    "title": "Matte PETG - Blue"
+    "title": "Matte PETG - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1098,6 +1228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5C518FF",
@@ -1114,9 +1246,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Matte PETG",
     "sku": "3DMA-MPETG-YELLOW",
-    "title": "Matte PETG - Yellow"
+    "title": "Matte PETG - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1139,6 +1274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#0F52BAFF",
@@ -1155,9 +1292,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Sapphire Blue",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-SAPPHIREBLUE",
-    "title": "Silk PLA - Sapphire Blue"
+    "title": "Silk PLA - Sapphire Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1180,6 +1320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#D32F2FFF",
@@ -1196,9 +1338,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Matte PETG",
     "sku": "3DMA-MPETG-RED",
-    "title": "Matte PETG - Red"
+    "title": "Matte PETG - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1221,6 +1366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1AFF",
@@ -1237,9 +1384,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-CF",
     "sku": "3DMA-PLA-CF",
-    "title": "PLA-CF - Black"
+    "title": "PLA-CF - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1262,6 +1412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#008000FF",
@@ -1278,9 +1430,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Ultra PLA+ High Flow",
     "sku": "3DMA-UPLAHF-GREEN",
-    "title": "Ultra PLA+ High Flow - Green"
+    "title": "Ultra PLA+ High Flow - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1303,6 +1458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1A",
@@ -1319,9 +1476,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-GF",
     "sku": "3DMA-GF-PETG",
-    "title": "PETG-GF - Black"
+    "title": "PETG-GF - Black",
+    "updated_at": 1790762383066
   },
   {
     "RFID_Data": {
@@ -1344,6 +1504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1A",
@@ -1360,9 +1522,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "3DMA-PETG-CF",
-    "title": "PETG-CF - Black"
+    "title": "PETG-CF - Black",
+    "updated_at": 1790774455156
   },
   {
     "RFID_Data": {
@@ -1385,6 +1550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#2B3A67FF",
@@ -1401,9 +1568,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Indigo Blue",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-INDIGOBLUE",
-    "title": "Matte PLA - Indigo Blue"
+    "title": "Matte PLA - Indigo Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1426,6 +1596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1AFF",
@@ -1442,9 +1614,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Core ASA",
     "sku": "3DMA-CASA-BLACK",
-    "title": "Core ASA - Black"
+    "title": "Core ASA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1467,6 +1642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FFA500FF",
@@ -1483,9 +1660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-ORANGE",
-    "title": "Core PLA - Orange"
+    "title": "Core PLA - Orange",
+    "updated_at": 1790463545642
   },
   {
     "RFID_Data": {
@@ -1508,6 +1688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FFC0CBFF",
@@ -1524,9 +1706,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-PINK",
-    "title": "Core PLA - Pink"
+    "title": "Core PLA - Pink",
+    "updated_at": 1790463545642
   },
   {
     "RFID_Data": {
@@ -1549,6 +1734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5F5F5FF",
@@ -1565,9 +1752,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Ultra ABS High Flow",
     "sku": "3DMA-UABSHF-WHITE",
-    "title": "Ultra ABS High Flow - White"
+    "title": "Ultra ABS High Flow - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1590,6 +1780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#800080FF",
@@ -1606,9 +1798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-PURPLE",
-    "title": "Core PLA - Purple"
+    "title": "Core PLA - Purple",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -1634,6 +1829,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "3DMA",
     "color": "#C62828FF",
@@ -1651,9 +1848,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Blue",
     "product_type": "Filament",
+    "series": "Dual-Silk PLA",
     "sku": "3DMA-DSPLA-REDBLUE",
-    "title": "Dual-Silk PLA - Red/Blue"
+    "title": "Dual-Silk PLA - Red/Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1676,6 +1876,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#E8871EFF",
@@ -1692,9 +1894,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Amber Orange",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-AMBERORANGE",
-    "title": "Silk PLA - Amber Orange"
+    "title": "Silk PLA - Amber Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1717,6 +1922,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FFFFFF33",
@@ -1733,9 +1940,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "Ultra PETG High Flow",
     "sku": "3DMA-UPETGHF-CLEAR",
-    "title": "Ultra PETG High Flow - Clear"
+    "title": "Ultra PETG High Flow - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1758,6 +1968,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#C19A6BFF",
@@ -1774,9 +1986,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Desert Brown",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-DESERTBROWN",
-    "title": "Core PLA - Desert Brown"
+    "title": "Core PLA - Desert Brown",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -1799,6 +2014,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#D32F2FFF",
@@ -1815,9 +2032,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Ultra ABS High Flow",
     "sku": "3DMA-UABSHF-RED",
-    "title": "Ultra ABS High Flow - Red"
+    "title": "Ultra ABS High Flow - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1840,6 +2060,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#E8871EFF",
@@ -1856,9 +2078,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Ultra TPU-95A High Flow",
     "sku": "3DMA-UTPU95AHF-ORANGE",
-    "title": "Ultra TPU-95A High Flow - Orange"
+    "title": "Ultra TPU-95A High Flow - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1881,6 +2106,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#E8871EFF",
@@ -1897,9 +2124,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Matte PETG",
     "sku": "3DMA-MPETG-ORANGE",
-    "title": "Matte PETG - Orange"
+    "title": "Matte PETG - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1922,6 +2152,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#228B22FF",
@@ -1938,9 +2170,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Ultra ABS High Flow",
     "sku": "3DMA-UABSHF-GREEN",
-    "title": "Ultra ABS High Flow - Green"
+    "title": "Ultra ABS High Flow - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1963,6 +2198,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#00A896FF",
@@ -1979,9 +2216,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lagoon Green",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-LAGOONGREEN",
-    "title": "Core PLA - Lagoon Green"
+    "title": "Core PLA - Lagoon Green",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -2004,6 +2244,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#228B22FF",
@@ -2020,9 +2262,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Ultra TPU-95A High Flow",
     "sku": "3DMA-UTPU95AHF-GREEN",
-    "title": "Ultra TPU-95A High Flow - Green"
+    "title": "Ultra TPU-95A High Flow - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2045,6 +2290,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#2266CCFF",
@@ -2061,9 +2308,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Ultra ABS High Flow",
     "sku": "3DMA-UABSHF-BLUE",
-    "title": "Ultra ABS High Flow - Blue"
+    "title": "Ultra ABS High Flow - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2086,6 +2336,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#D4E8A8FF",
@@ -2102,9 +2354,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow Green",
     "product_type": "Filament",
+    "series": "Luminous PLA",
     "sku": "3DMA-LPLA-GLOWGREEN",
-    "title": "Luminous PLA - Glow Green"
+    "title": "Luminous PLA - Glow Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2127,6 +2382,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#3B2E23FF",
@@ -2143,9 +2400,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Ironbark",
     "product_type": "Filament",
+    "series": "Wood-Filled PLA",
     "sku": "3DMA-WFPLA-IRONBARK",
-    "title": "Wood-Filled PLA - Ironbark"
+    "title": "Wood-Filled PLA - Ironbark",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2168,6 +2428,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F4B8C4FF",
@@ -2184,9 +2446,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blossom Pink",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-BLOSSOMPINK",
-    "title": "Matte PLA - Blossom Pink"
+    "title": "Matte PLA - Blossom Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2209,6 +2474,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#C4C4C4FF",
@@ -2225,9 +2492,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Brilliant Silver",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-BRILLIANTSILVER",
-    "title": "Silk PLA - Brilliant Silver"
+    "title": "Silk PLA - Brilliant Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2250,6 +2520,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1AFF",
@@ -2266,9 +2538,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Matte PETG",
     "sku": "3DMA-MPETG-BLACK",
-    "title": "Matte PETG - Black"
+    "title": "Matte PETG - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2291,6 +2566,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5F5F5FF",
@@ -2307,9 +2584,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Core ASA",
     "sku": "3DMA-CASA-WHITE",
-    "title": "Core ASA - White"
+    "title": "Core ASA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2332,6 +2612,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5C6D6FF",
@@ -2348,9 +2630,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow Pink",
     "product_type": "Filament",
+    "series": "Luminous PLA",
     "sku": "3DMA-LPLA-GLOWPINK",
-    "title": "Luminous PLA - Glow Pink"
+    "title": "Luminous PLA - Glow Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2373,6 +2658,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1AFF",
@@ -2389,9 +2676,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS-CF",
     "sku": "3DMA-ABS-CF",
-    "title": "ABS-CF - Black"
+    "title": "ABS-CF - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2414,6 +2704,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1AFF",
@@ -2430,9 +2722,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Ultra ABS High Flow",
     "sku": "3DMA-UABSHF-BLACK",
-    "title": "Ultra ABS High Flow - Black"
+    "title": "Ultra ABS High Flow - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2455,6 +2750,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F0EEE6FF",
@@ -2471,9 +2768,12 @@
     "info3": false,
     "material": "PLA Marble",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Marble PLA",
     "sku": "3DMA-MBLPLA-WHITE",
-    "title": "Marble PLA - White"
+    "title": "Marble PLA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2496,6 +2796,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#A8CFE0FF",
@@ -2512,9 +2814,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glacier Blue",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-GLACIERBLUE",
-    "title": "Matte PLA - Glacier Blue"
+    "title": "Matte PLA - Glacier Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2537,6 +2842,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FF0000FF",
@@ -2553,9 +2860,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-RED",
-    "title": "Core PLA - Red"
+    "title": "Core PLA - Red",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -2578,6 +2888,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5F5F5FF",
@@ -2594,9 +2906,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Ultra TPU-95A High Flow",
     "sku": "3DMA-UTPU95AHF-WHITE",
-    "title": "Ultra TPU-95A High Flow - White"
+    "title": "Ultra TPU-95A High Flow - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2619,6 +2934,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#0000FFFF",
@@ -2635,9 +2952,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Ultra PLA+ High Flow",
     "sku": "3DMA-UPLAHF-BLUE",
-    "title": "Ultra PLA+ High Flow - Blue"
+    "title": "Ultra PLA+ High Flow - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2660,6 +2980,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#8B4226FF",
@@ -2676,9 +2998,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Redgum",
     "product_type": "Filament",
+    "series": "Wood-Filled PLA",
     "sku": "3DMA-WFPLA-REDGUM",
-    "title": "Wood-Filled PLA - Redgum"
+    "title": "Wood-Filled PLA - Redgum",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2701,6 +3026,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#B5C93CFF",
@@ -2717,9 +3044,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lemongrass Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-LEMONGRASSGREEN",
-    "title": "Matte PLA - Lemongrass Green"
+    "title": "Matte PLA - Lemongrass Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2742,6 +3072,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#D2B48CFF",
@@ -2758,9 +3090,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Tassie Oak",
     "product_type": "Filament",
+    "series": "Wood-Filled PLA",
     "sku": "3DMA-WFPLA-TASSIEOAK",
-    "title": "Wood-Filled PLA - Tassie Oak"
+    "title": "Wood-Filled PLA - Tassie Oak",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2783,6 +3118,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F4B6C2FF",
@@ -2799,9 +3136,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blush Pink",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-BLUSHPINK",
-    "title": "Silk PLA - Blush Pink"
+    "title": "Silk PLA - Blush Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2824,6 +3164,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5F5F5FF",
@@ -2840,9 +3182,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Polar White",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-POLARWHITE",
-    "title": "Matte PLA - Polar White"
+    "title": "Matte PLA - Polar White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2865,6 +3210,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#2266CCFF",
@@ -2881,9 +3228,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Ultra PETG High Flow",
     "sku": "3DMA-UPETGHF-BLUE",
-    "title": "Ultra PETG High Flow - Blue"
+    "title": "Ultra PETG High Flow - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2906,6 +3256,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#000000FF",
@@ -2922,9 +3274,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-BLACK",
-    "title": "Core PLA - Black"
+    "title": "Core PLA - Black",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -2947,6 +3302,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1B5E33FF",
@@ -2963,9 +3320,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Glitter PLA",
     "sku": "3DMA-GPLA-GREEN",
-    "title": "Glitter PLA - Green"
+    "title": "Glitter PLA - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2994,6 +3354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "3DMA",
     "color": "#F4C2D7FF",
@@ -3013,9 +3375,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gelato Swirl",
     "product_type": "Filament",
+    "series": "Rainbow-Silk PLA",
     "sku": "3DMA-RSPLA-GELATOSWIRL",
-    "title": "Rainbow-Silk PLA - Gelato Swirl"
+    "title": "Rainbow-Silk PLA - Gelato Swirl",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3038,6 +3403,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#B08D57",
@@ -3054,9 +3421,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Antique Gold",
     "product_type": "Filament",
+    "series": "Alloy PLA",
     "sku": "3DMA-APLA-ANTIQUEGOLD",
-    "title": "Alloy PLA - Antique Gold"
+    "title": "Alloy PLA - Antique Gold",
+    "updated_at": 1790761173750
   },
   {
     "RFID_Data": {
@@ -3079,6 +3449,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#DC143CFF",
@@ -3095,9 +3467,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crimson Red",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-CRIMSONRED",
-    "title": "Core PLA - Crimson Red"
+    "title": "Core PLA - Crimson Red",
+    "updated_at": 1790463545642
   },
   {
     "RFID_Data": {
@@ -3120,6 +3495,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F4B8C4FF",
@@ -3136,9 +3513,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "Matte PETG",
     "sku": "3DMA-MPETG-PINK",
-    "title": "Matte PETG - Pink"
+    "title": "Matte PETG - Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3161,6 +3541,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5F5DCFF",
@@ -3177,9 +3559,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-BEIGE",
-    "title": "Core PLA - Beige"
+    "title": "Core PLA - Beige",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -3202,6 +3587,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5C518FF",
@@ -3218,9 +3605,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wattle Yellow",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-WATTLEYELLOW",
-    "title": "Matte PLA - Wattle Yellow"
+    "title": "Matte PLA - Wattle Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3249,6 +3639,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3DMA",
     "color": "#228B22FF",
@@ -3267,9 +3659,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Green/Blue/Rose",
     "product_type": "Filament",
+    "series": "Tri-Silk PLA",
     "sku": "3DMA-TSPLA-GREENBLUEROSE",
-    "title": "Tri-Silk PLA - Green/Blue/Rose"
+    "title": "Tri-Silk PLA - Green/Blue/Rose",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3292,6 +3687,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#39FF14FF",
@@ -3308,9 +3705,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Nitro Green",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-NITROGREEN",
-    "title": "Core PLA - Nitro Green"
+    "title": "Core PLA - Nitro Green",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -3333,6 +3733,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FF0000FF",
@@ -3349,9 +3751,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Ultra PLA+ High Flow",
     "sku": "3DMA-UPLAHF-RED",
-    "title": "Ultra PLA+ High Flow - Red"
+    "title": "Ultra PLA+ High Flow - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3374,6 +3779,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1A1A1AFF",
@@ -3390,9 +3797,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Ultra TPU-95A High Flow",
     "sku": "3DMA-UTPU95AHF-BLACK",
-    "title": "Ultra TPU-95A High Flow - Black"
+    "title": "Ultra TPU-95A High Flow - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3415,6 +3825,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#9B9B93FF",
@@ -3431,9 +3843,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pebble Grey",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-PEBBLEGREY",
-    "title": "Matte PLA - Pebble Grey"
+    "title": "Matte PLA - Pebble Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3456,6 +3871,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#000000FF",
@@ -3472,9 +3889,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Ultra PLA+ High Flow",
     "sku": "3DMA-UPLAHF-BLACK",
-    "title": "Ultra PLA+ High Flow - Black"
+    "title": "Ultra PLA+ High Flow - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3497,6 +3917,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#964B00FF",
@@ -3513,9 +3935,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-BROWN",
-    "title": "Core PLA - Brown"
+    "title": "Core PLA - Brown",
+    "updated_at": 1790463545642
   },
   {
     "RFID_Data": {
@@ -3538,6 +3963,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#7BA88AFF",
@@ -3554,9 +3981,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Eucalyptus Green",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-EUCALYPTUSGREEN",
-    "title": "Matte PLA - Eucalyptus Green"
+    "title": "Matte PLA - Eucalyptus Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3579,6 +4009,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#D32F2FFF",
@@ -3595,9 +4027,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Ultra PETG High Flow",
     "sku": "3DMA-UPETGHF-RED",
-    "title": "Ultra PETG High Flow - Red"
+    "title": "Ultra PETG High Flow - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3620,6 +4055,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5F5F5FF",
@@ -3636,9 +4073,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Matte PETG",
     "sku": "3DMA-MPETG-WHITE",
-    "title": "Matte PETG - White"
+    "title": "Matte PETG - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3661,6 +4101,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FFFFFF33",
@@ -3677,9 +4119,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "Ultra PLA+ High Flow",
     "sku": "3DMA-UPLAHF-CLEAR",
-    "title": "Ultra PLA+ High Flow - Clear"
+    "title": "Ultra PLA+ High Flow - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3702,6 +4147,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FFFFFF33",
@@ -3718,9 +4165,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "Ultra TPU-95A High Flow",
     "sku": "3DMA-UTPU95AHF-CLEAR",
-    "title": "Ultra TPU-95A High Flow - Clear"
+    "title": "Ultra TPU-95A High Flow - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3743,6 +4193,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#008000FF",
@@ -3759,9 +4211,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-GREEN",
-    "title": "Core PLA - Green"
+    "title": "Core PLA - Green",
+    "updated_at": 1790463545642
   },
   {
     "RFID_Data": {
@@ -3790,6 +4245,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "3DMA",
     "color": "#D84A2FFF",
@@ -3809,9 +4266,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Tutti Frutti",
     "product_type": "Filament",
+    "series": "Rainbow-Silk PLA",
     "sku": "3DMA-RSPLA-TUTTIFRUTTI",
-    "title": "Rainbow-Silk PLA - Tutti Frutti"
+    "title": "Rainbow-Silk PLA - Tutti Frutti",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3834,6 +4294,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#808080FF",
@@ -3850,9 +4312,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Ultra ABS High Flow",
     "sku": "3DMA-UABSHF-GREY",
-    "title": "Ultra ABS High Flow - Grey"
+    "title": "Ultra ABS High Flow - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3875,6 +4340,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#9B59B699",
@@ -3891,9 +4358,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Translucent PLA+",
     "sku": "3DMA-TPLA+-PURPLE",
-    "title": "Translucent PLA+ - Purple"
+    "title": "Translucent PLA+ - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3916,6 +4386,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#D9C7A3",
@@ -3932,9 +4404,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Biscotti Beige",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-BISCOTTIBEIGE",
-    "title": "Matte PLA - Biscotti Beige"
+    "title": "Matte PLA - Biscotti Beige",
+    "updated_at": 1790761416435
   },
   {
     "RFID_Data": {
@@ -3957,6 +4432,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#4A90D9FF",
@@ -3973,9 +4450,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Coastal Blue",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-COASTALBLUE",
-    "title": "Core PLA - Coastal Blue"
+    "title": "Core PLA - Coastal Blue",
+    "updated_at": 1790463545641
   },
   {
     "RFID_Data": {
@@ -3998,6 +4478,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#FFFF00FF",
@@ -4014,9 +4496,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Core PLA",
     "sku": "3DMA-CPLA-YELLOW",
-    "title": "Core PLA - Yellow"
+    "title": "Core PLA - Yellow",
+    "updated_at": 1790463545642
   },
   {
     "RFID_Data": {
@@ -4039,6 +4524,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#228B22FF",
@@ -4055,9 +4542,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Ultra PETG High Flow",
     "sku": "3DMA-UPETGHF-GREEN",
-    "title": "Ultra PETG High Flow - Green"
+    "title": "Ultra PETG High Flow - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4080,6 +4570,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#808080FF",
@@ -4096,9 +4588,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Matte PETG",
     "sku": "3DMA-MPETG-GREY",
-    "title": "Matte PETG - Grey"
+    "title": "Matte PETG - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4121,6 +4616,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#2266CCFF",
@@ -4137,9 +4634,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Ultra TPU-95A High Flow",
     "sku": "3DMA-UTPU95AHF-BLUE",
-    "title": "Ultra TPU-95A High Flow - Blue"
+    "title": "Ultra TPU-95A High Flow - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4162,6 +4662,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#4B0082FF",
@@ -4178,9 +4680,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Glitter PLA",
     "sku": "3DMA-GPLA-PURPLE",
-    "title": "Glitter PLA - Purple"
+    "title": "Glitter PLA - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4203,6 +4708,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#4A2C6BFF",
@@ -4219,9 +4726,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cosmic Purple",
     "product_type": "Filament",
+    "series": "Nebula PLA",
     "sku": "3DMA-NPLA-COSMICPURPLE",
-    "title": "Nebula PLA - Cosmic Purple"
+    "title": "Nebula PLA - Cosmic Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4244,6 +4754,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#4CAF5099",
@@ -4260,9 +4772,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Translucent PLA+",
     "sku": "3DMA-TPLA+-GREEN",
-    "title": "Translucent PLA+ - Green"
+    "title": "Translucent PLA+ - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4285,6 +4800,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#F5C518FF",
@@ -4301,9 +4818,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Ultra TPU-95A High Flow",
     "sku": "3DMA-UTPU95AHF-YELLOW",
-    "title": "Ultra TPU-95A High Flow - Yellow"
+    "title": "Ultra TPU-95A High Flow - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4326,6 +4846,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#D32F2FFF",
@@ -4342,9 +4864,12 @@
     "info3": false,
     "material": "TPU High Speed",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Ultra TPU-95A High Flow",
     "sku": "3DMA-UTPU95AHF-RED",
-    "title": "Ultra TPU-95A High Flow - Red"
+    "title": "Ultra TPU-95A High Flow - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4367,6 +4892,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#8E7CC3FF",
@@ -4383,9 +4910,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wisteria Purple",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-WISTERIAPURPLE",
-    "title": "Matte PLA - Wisteria Purple"
+    "title": "Matte PLA - Wisteria Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4408,6 +4938,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#1E3F73FF",
@@ -4424,9 +4956,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Celestial Blue",
     "product_type": "Filament",
+    "series": "Nebula PLA",
     "sku": "3DMA-NPLA-CELESTIALBLUE",
-    "title": "Nebula PLA - Celestial Blue"
+    "title": "Nebula PLA - Celestial Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4449,6 +4984,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#3B7DD899",
@@ -4465,9 +5002,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Translucent PLA+",
     "sku": "3DMA-TPLA+-BLUE",
-    "title": "Translucent PLA+ - Blue"
+    "title": "Translucent PLA+ - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4490,6 +5030,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#9966CCFF",
@@ -4506,9 +5048,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Amethyst Purple",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "3DMA-SPLA-AMETHYSTPURPLE",
-    "title": "Silk PLA - Amethyst Purple"
+    "title": "Silk PLA - Amethyst Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4531,6 +5076,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3DMA",
     "color": "#E8871EFF",
@@ -4547,8 +5094,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sunburst Orange",
     "product_type": "Filament",
+    "series": "Matte PLA",
     "sku": "3DMA-MPLA-SUNBURSTORANGE",
-    "title": "Matte PLA - Sunburst Orange"
+    "title": "Matte PLA - Sunburst Orange",
+    "updated_at": null
   }
 ]

@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#000000FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sesame Black",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "ALIZ-PLAMT-005",
-    "title": "PLA Matte - Sesame Black"
+    "title": "PLA Matte - Sesame Black",
+    "updated_at": 1790615911621
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#B88F3FFF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Amber Gold",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-001",
-    "title": "PETG Metal - Amber Gold"
+    "title": "PETG Metal - Amber Gold",
+    "updated_at": 1790607364461
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#6B8C7AFF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pine Lake Green",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-009",
-    "title": "PETG Metal - Pine Lake Green"
+    "title": "PETG Metal - Pine Lake Green",
+    "updated_at": 1790615890204
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#C02C38",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-018",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1792081027831
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#5C2223",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Wine Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-023",
-    "title": "PETG - Wine Red"
+    "title": "PETG - Wine Red",
+    "updated_at": 1792080993109
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#8A4F9EFF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Titanium Twilight Purple",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-011",
-    "title": "PETG Metal - Titanium Twilight Purple"
+    "title": "PETG Metal - Titanium Twilight Purple",
+    "updated_at": 1790615934573
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#D0207F",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "ALIZ-PLA-002",
-    "title": "PLA - Magenta"
+    "title": "PLA - Magenta",
+    "updated_at": 1792081290410
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#4B5320",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-001",
-    "title": "PETG - Army Green"
+    "title": "PETG - Army Green",
+    "updated_at": 1792081275547
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#57C3C2",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Turquoise",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-020",
-    "title": "PETG - Turquoise"
+    "title": "PETG - Turquoise",
+    "updated_at": 1792081027823
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#D2B42CFF",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "ALIZ-PETGTR-008",
-    "title": "PETG Translucent - Yellow"
+    "title": "PETG Translucent - Yellow",
+    "updated_at": 1790615956029
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#BE7E4AFF",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Tea",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "ALIZ-PETGTR-007",
-    "title": "PETG Translucent - Tea"
+    "title": "PETG Translucent - Tea",
+    "updated_at": 1790615911621
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#FFFFFF",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Milky White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-014",
-    "title": "PETG - Milky White"
+    "title": "PETG - Milky White",
+    "updated_at": 1792081033637
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#000000FF",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG-CF",
     "sku": "ALIZ-PETGCF-001",
-    "title": "PETG-CF - Black"
+    "title": "PETG-CF - Black",
+    "updated_at": 1790607364461
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#B8955F",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Brass",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-003",
-    "title": "PETG Metal - Brass"
+    "title": "PETG Metal - Brass",
+    "updated_at": 1790693051054
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#4B8F8CFF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "ALIZ-PETGTR-003",
-    "title": "PETG Translucent - Cyan"
+    "title": "PETG Translucent - Cyan",
+    "updated_at": 1790615757004
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#DE952EFF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Durian Yellow",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "ALIZ-PLAMT-001",
-    "title": "PLA Matte - Durian Yellow"
+    "title": "PLA Matte - Durian Yellow",
+    "updated_at": 1790607364461
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#7A7A7A",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Glitter Silver",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-009",
-    "title": "PETG - Glitter Silver"
+    "title": "PETG - Glitter Silver",
+    "updated_at": 1792797956101
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#000000",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA PRO",
     "sku": "ALIZ-PLAPRO-001",
-    "title": "PLA PRO - Black"
+    "title": "PLA PRO - Black",
+    "updated_at": 1790692634611
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#000000FF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA6",
     "sku": "ALIZ-PA6-001",
-    "title": "PA6 - Black"
+    "title": "PA6 - Black",
+    "updated_at": 1790607364461
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#C2C2C2",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cool Gray",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-007",
-    "title": "PETG - Cool Gray"
+    "title": "PETG - Cool Gray",
+    "updated_at": 1792081250841
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#CE9873FF",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Multi-Color",
     "product_type": "Filament",
+    "series": "PLA PRO Multicolor",
     "sku": "ALIZ-PLAPROMC-001",
-    "title": "PLA PRO Multicolor - Multi-Color"
+    "title": "PLA PRO Multicolor - Multi-Color",
+    "updated_at": 1790615879557
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#FFFFFF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-022",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1792081262434
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#43B244FF",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "ALIZ-PETGTR-004",
-    "title": "PETG Translucent - Green"
+    "title": "PETG Translucent - Green",
+    "updated_at": 1790615819957
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#2486B9",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-004",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1792080910047
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#BDCCB2FF",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Morandi Green",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "ALIZ-PLAMT-004",
-    "title": "PLA Matte - Morandi Green"
+    "title": "PLA Matte - Morandi Green",
+    "updated_at": 1790615852443
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#D9885FFF",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Titanium Orange",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-010",
-    "title": "PETG Metal - Titanium Orange"
+    "title": "PETG Metal - Titanium Orange",
+    "updated_at": 1790615934573
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#B36A4A",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Copper Red",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-006",
-    "title": "PETG Metal - Copper Red"
+    "title": "PETG Metal - Copper Red",
+    "updated_at": 1790697387578
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#253D24",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blackish green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-003",
-    "title": "PETG - Blackish green"
+    "title": "PETG - Blackish green",
+    "updated_at": 1792080909263
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#3170A7",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Lake Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-011",
-    "title": "PETG - Lake Blue"
+    "title": "PETG - Lake Blue",
+    "updated_at": 1792080931527
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#F7DE98",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-012",
-    "title": "PETG - Light Yellow"
+    "title": "PETG - Light Yellow",
+    "updated_at": 1792081104260
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#B8BEC3FF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Metallic Silver",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-008",
-    "title": "PETG Metal - Metallic Silver"
+    "title": "PETG Metal - Metallic Silver",
+    "updated_at": 1790615841357
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#232323",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Nickel Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-015",
-    "title": "PETG - Nickel Black"
+    "title": "PETG - Nickel Black",
+    "updated_at": 1792080942010
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#555550",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black Nickel",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-002",
-    "title": "PETG Metal - Black Nickel"
+    "title": "PETG Metal - Black Nickel",
+    "updated_at": 1790692715478
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#80766EFF",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "ALIZ-PETGTR-001",
-    "title": "PETG Translucent - Black"
+    "title": "PETG Translucent - Black",
+    "updated_at": 1790612086537
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#8B614D",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-005",
-    "title": "PETG - Brown"
+    "title": "PETG - Brown",
+    "updated_at": 1792081274749
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#8A4B9C",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Violet",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-021",
-    "title": "PETG - Violet"
+    "title": "PETG - Violet",
+    "updated_at": 1792081109307
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#7B3F00FF",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "ALIZ-PLA-001",
-    "title": "PLA - Chocolate"
+    "title": "PLA - Chocolate",
+    "updated_at": 1790607364461
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#FFFFFFFF",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Milky White",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "ALIZ-PLAMT-003",
-    "title": "PLA Matte - Milky White"
+    "title": "PLA Matte - Milky White",
+    "updated_at": 1790615852443
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#C1651AFF",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "ALIZ-PETGTR-005",
-    "title": "PETG Translucent - Orange"
+    "title": "PETG Translucent - Orange",
+    "updated_at": 1790615879557
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "Aliz",
     "color": "#D0B277",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "ALIZ-PLAMT-006",
-    "title": "PLA Matte - Wood"
+    "title": "PLA Matte - Wood",
+    "updated_at": 1792799285694
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#E52A00",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-016",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1792081109826
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#8A4B9CFF",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "ALIZ-PETGTR-006",
-    "title": "PETG Translucent - Purple"
+    "title": "PETG Translucent - Purple",
+    "updated_at": 1790615901487
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#000000FF",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ALIZ-PETGM-001",
-    "title": "PETG Matte - Black"
+    "title": "PETG Matte - Black",
+    "updated_at": 1790612086537
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#5C3719",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Coffee",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-006",
-    "title": "PETG - Coffee"
+    "title": "PETG - Coffee",
+    "updated_at": 1792080877622
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#C8202F",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA PRO",
     "sku": "ALIZ-PLAPRO-005",
-    "title": "PLA PRO - Red"
+    "title": "PLA PRO - Red",
+    "updated_at": 1792081286323
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#000000",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-002",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1790692524696
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#2486B9",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Translucent",
     "sku": "ALIZ-PETGTR-002",
-    "title": "PETG Translucent - Blue"
+    "title": "PETG Translucent - Blue",
+    "updated_at": 1790692997058
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#D4B886",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Champagne Gold",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-005",
-    "title": "PETG Metal - Champagne Gold"
+    "title": "PETG Metal - Champagne Gold",
+    "updated_at": 1790693293671
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#87CEEBFF",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "ALIZ-PLA-003",
-    "title": "PLA - Sky Blue"
+    "title": "PLA - Sky Blue",
+    "updated_at": 1790607364461
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": "Glitter",
     "barcode": null,
     "brand": "Aliz",
     "color": "#B8BEC3",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Glitter Silver",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-007",
-    "title": "PETG Metal - Glitter Silver"
+    "title": "PETG Metal - Glitter Silver",
+    "updated_at": 1792799692866
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#1F5FBF",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA PRO",
     "sku": "ALIZ-PLAPRO-002",
-    "title": "PLA PRO - Blue"
+    "title": "PLA PRO - Blue",
+    "updated_at": 1792081285208
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#D7D3C8FF",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grass Gray",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "ALIZ-PLAMT-002",
-    "title": "PLA Matte - Grass Gray"
+    "title": "PLA Matte - Grass Gray",
+    "updated_at": 1790615819957
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#FED71A",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-024",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1792081114812
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#5B6B3A",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Military Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-013",
-    "title": "PETG - Military Green"
+    "title": "PETG - Military Green",
+    "updated_at": 1792081280006
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#7A8C99",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cambrian Rock Gray-Blue",
     "product_type": "Filament",
+    "series": "PETG Metal",
     "sku": "ALIZ-PETGME-004",
-    "title": "PETG Metal - Cambrian Rock Gray-Blue"
+    "title": "PETG Metal - Cambrian Rock Gray-Blue",
+    "updated_at": 1790693201071
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#6B6B6BFF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA PRO",
     "sku": "ALIZ-PLAPRO-004",
-    "title": "PLA PRO - Grey"
+    "title": "PLA PRO - Grey",
+    "updated_at": 1790615830815
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#3B5F3A",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-008",
-    "title": "PETG - Dark Green"
+    "title": "PETG - Dark Green",
+    "updated_at": 1792081114855
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#183CF2FF",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lake Blue",
     "product_type": "Filament",
+    "series": "PLA PRO Matte",
     "sku": "ALIZ-PLAPROMT-001",
-    "title": "PLA PRO Matte - Lake Blue"
+    "title": "PLA PRO Matte - Lake Blue",
+    "updated_at": 1790615830815
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#43B244",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-010",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1792081143313
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#E0C8D1",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-017",
-    "title": "PETG - Pink"
+    "title": "PETG - Pink",
+    "updated_at": 1792080957914
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#004225",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "British Racing Green",
     "product_type": "Filament",
+    "series": "PLA PRO",
     "sku": "ALIZ-PLAPRO-003",
-    "title": "PLA PRO - British Racing Green"
+    "title": "PLA PRO - British Racing Green",
+    "updated_at": 1792081281032
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Aliz",
     "color": "#D9CBB8",
@@ -2537,8 +2844,11 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "ALIZ-PETG-019",
-    "title": "PETG - Skin"
+    "title": "PETG - Skin",
+    "updated_at": 1792080963513
   }
 ]

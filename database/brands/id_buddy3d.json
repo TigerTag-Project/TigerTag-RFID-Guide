@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#7FC8A9",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Pearl",
     "sku": "BUD-PLP-GREEN-1000",
-    "title": "PLA Pearl - Green"
+    "title": "PLA Pearl - Green",
+    "updated_at": 1792254964879
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Lithophane",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#F5F5F5",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA+ Lithophane",
     "sku": "BUD-PLL-WHITE-1000",
-    "title": "PLA+ Lithophane - White"
+    "title": "PLA+ Lithophane - White",
+    "updated_at": 1792255082384
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#F5F5F5",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "BUD-PLA-WHITE-1000",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1792254900065
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#E8DFC8",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "BUD-ABS-NATURA-750",
-    "title": "ABS - Natural"
+    "title": "ABS - Natural",
+    "updated_at": 1792255153140
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#5C3A2D",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "477C",
     "product_type": "Filament",
+    "series": "PLA+ Skin Tone",
     "sku": "BUD-PLT-477C-1000",
-    "title": "PLA+ Skin Tone - 477C"
+    "title": "PLA+ Skin Tone - 477C",
+    "updated_at": 1792255083284
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#2E9E47",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ABS",
     "sku": "BUD-ABS-GREEN-750",
-    "title": "ABS - Green"
+    "title": "ABS - Green",
+    "updated_at": 1792255187369
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#1E5B3A",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "PLA Glitter",
     "sku": "BUD-PLG-DARKGR-1000",
-    "title": "PLA Glitter - Dark Green"
+    "title": "PLA Glitter - Dark Green",
+    "updated_at": 1792254981267
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#7A4B3A",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "478C",
     "product_type": "Filament",
+    "series": "PLA+ Skin Tone",
     "sku": "BUD-PLT-478C-1000",
-    "title": "PLA+ Skin Tone - 478C"
+    "title": "PLA+ Skin Tone - 478C",
+    "updated_at": 1792255088974
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#C8102E",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "BUD-PLA-RED-1000",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1792254877256
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#B3122B",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Glitter",
     "sku": "BUD-PLG-RED-1000",
-    "title": "PLA Glitter - Red"
+    "title": "PLA Glitter - Red",
+    "updated_at": 1792254904760
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#A87B5F",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "479C",
     "product_type": "Filament",
+    "series": "PLA+ Skin Tone",
     "sku": "BUD-PLT-479C-1000",
-    "title": "PLA+ Skin Tone - 479C"
+    "title": "PLA+ Skin Tone - 479C",
+    "updated_at": 1792255157987
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#A8D8F0",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ice Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "BUD-PLS-ICEBLU-1000",
-    "title": "PLA Silk - Ice Blue"
+    "title": "PLA Silk - Ice Blue",
+    "updated_at": 1792255069634
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#1A1A1A",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS FR",
     "sku": "BUD-ABF-BLACK-750",
-    "title": "ABS FR - Black"
+    "title": "ABS FR - Black",
+    "updated_at": 1792255187269
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#7FA8D9",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Pearl",
     "sku": "BUD-PLP-BLUE-1000",
-    "title": "PLA Pearl - Blue"
+    "title": "PLA Pearl - Blue",
+    "updated_at": 1792254996969
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#6A3FA0",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ultra Violet",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "BUD-PLS-ULTRAV-1000",
-    "title": "PLA Silk - Ultra Violet"
+    "title": "PLA Silk - Ultra Violet",
+    "updated_at": 1792255058940
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#1A1A1AFF",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "BUD-PLA-BLK-1000",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 750
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#E8DFC8",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "750 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS FR",
     "sku": "BUD-ABF-NATURA-750",
-    "title": "ABS FR - Natural"
+    "title": "ABS FR - Natural",
+    "updated_at": 1792255177771
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#D9C7A3",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "BUD-PLA-BEIGE-1000",
-    "title": "PLA - Beige"
+    "title": "PLA - Beige",
+    "updated_at": 1792254898234
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#B8923A",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "BUD-PLS-DARKGO-1000",
-    "title": "PLA Silk - Dark Gold"
+    "title": "PLA Silk - Dark Gold",
+    "updated_at": 1792254984665
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#1F4FBF",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "BUD-PLA-BLUE-1000",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1792254892042
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Buddy3D",
     "color": "#E8A0B4",
@@ -856,8 +958,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rose",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "BUD-PLS-ROSE-1000",
-    "title": "PLA Silk - Rose"
+    "title": "PLA Silk - Rose",
+    "updated_at": 1792254989674
   }
 ]

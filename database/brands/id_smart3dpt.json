@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFD400",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-YEL",
-    "title": "PLA - Yellow"
+    "title": "PLA - Yellow",
+    "updated_at": 1792157629507
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#1B4F4F",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Petroleum",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-PET",
-    "title": "PLA - Petroleum"
+    "title": "PLA - Petroleum",
+    "updated_at": 1792157587303
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FF7A00",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Energy Orange",
     "product_type": "Filament",
+    "series": "PLA ENERGY",
     "sku": "S3D-PLA-ENR-ORG",
-    "title": "PLA ENERGY - Energy Orange"
+    "title": "PLA ENERGY - Energy Orange",
+    "updated_at": 1792157516104
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#C9A227",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Old Gold",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-OLD-GLD",
-    "title": "PLA - Old Gold"
+    "title": "PLA - Old Gold",
+    "updated_at": 1792157560386
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#F1C6A7",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-SKN",
-    "title": "PLA - Skin"
+    "title": "PLA - Skin",
+    "updated_at": 1792157601809
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFF3B0",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Yellow",
     "product_type": "Filament",
+    "series": "PLA Pastel",
     "sku": "S3D-PLA-PST-YEL",
-    "title": "PLA Pastel - Pastel Yellow"
+    "title": "PLA Pastel - Pastel Yellow",
+    "updated_at": 1792157587295
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#000000",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "S3D-PET-BLK",
-    "title": "PETG - Black"
+    "title": "PETG - Black",
+    "updated_at": 1792157475117
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFA72626",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crystal Orange",
     "product_type": "Filament",
+    "series": "PLA CRYSTAL",
     "sku": "S3D-PLA-CRY-ORG",
-    "title": "PLA CRYSTAL - Crystal Orange"
+    "title": "PLA CRYSTAL - Crystal Orange",
+    "updated_at": 1792157494931
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFFFFF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-WHT",
-    "title": "PLA - White"
+    "title": "PLA - White",
+    "updated_at": 1792157615324
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#D2B48C",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood Tan",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "S3D-PLA-WOD-TAN",
-    "title": "PLA Wood - Wood Tan"
+    "title": "PLA Wood - Wood Tan",
+    "updated_at": 1792157619123
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#D4AF37",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cosmic Gold",
     "product_type": "Filament",
+    "series": "PLA COSMIC",
     "sku": "S3D-PLA-CMC-GLD",
-    "title": "PLA COSMIC - Cosmic Gold"
+    "title": "PLA COSMIC - Cosmic Gold",
+    "updated_at": 1792157489119
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#9B9B9B",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-GRY",
-    "title": "PLA - Gray"
+    "title": "PLA - Gray",
+    "updated_at": 1792157521095
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#A0E7E5",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Aqua",
     "product_type": "Filament",
+    "series": "PLA Pastel",
     "sku": "S3D-PLA-PST-AQA",
-    "title": "PLA Pastel - Pastel Aqua"
+    "title": "PLA Pastel - Pastel Aqua",
+    "updated_at": 1792157568424
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#9575CD26",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crystal Violet",
     "product_type": "Filament",
+    "series": "PLA CRYSTAL",
     "sku": "S3D-PLA-CRY-VIO",
-    "title": "PLA CRYSTAL - Crystal Violet"
+    "title": "PLA CRYSTAL - Crystal Violet",
+    "updated_at": 1792157506487
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#6D071A",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Burgundy",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-BRG",
-    "title": "PLA - Burgundy"
+    "title": "PLA - Burgundy",
+    "updated_at": 1792157482407
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#2E8B7A",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ocean Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-OCN-GRE",
-    "title": "PLA - Ocean Green"
+    "title": "PLA - Ocean Green",
+    "updated_at": 1792157563478
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#0B0B0B",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cosmic Black",
     "product_type": "Filament",
+    "series": "PLA COSMIC",
     "sku": "S3D-PLA-CMC-BLK",
-    "title": "PLA COSMIC - Cosmic Black"
+    "title": "PLA COSMIC - Cosmic Black",
+    "updated_at": 1792157480931
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FADADD",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Light Pink",
     "product_type": "Filament",
+    "series": "PLA Pastel",
     "sku": "S3D-PLA-PST-LGT-PNK",
-    "title": "PLA Pastel - Pastel Light Pink"
+    "title": "PLA Pastel - Pastel Light Pink",
+    "updated_at": 1792157572622
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#E5393526",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crystal Red",
     "product_type": "Filament",
+    "series": "PLA CRYSTAL",
     "sku": "S3D-PLA-CRY-RED",
-    "title": "PLA CRYSTAL - Crystal Red"
+    "title": "PLA CRYSTAL - Crystal Red",
+    "updated_at": 1792157503806
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#808080",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "S3D-PET-GRA",
-    "title": "PETG - Gray"
+    "title": "PETG - Gray",
+    "updated_at": 1792157521425
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFCC80",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Mango",
     "product_type": "Filament",
+    "series": "PLA Pastel",
     "sku": "S3D-PLA-PST-MNG",
-    "title": "PLA Pastel - Pastel Mango"
+    "title": "PLA Pastel - Pastel Mango",
+    "updated_at": 1792157580214
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#6B4423",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-BRW",
-    "title": "PLA - Brown"
+    "title": "PLA - Brown",
+    "updated_at": 1792157477505
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#0057B8",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "S3D-PET-BLU",
-    "title": "PETG - Blue"
+    "title": "PETG - Blue",
+    "updated_at": 1792157470115
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#C86B4A",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Terracotta",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-TRC",
-    "title": "PLA - Terracotta"
+    "title": "PLA - Terracotta",
+    "updated_at": 1792157612614
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#C8102E",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Red",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "S3D-PLA-MAT-RED",
-    "title": "PLA Matte - Matte Red"
+    "title": "PLA Matte - Matte Red",
+    "updated_at": 1792157552188
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#7B2D8E",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-PRP",
-    "title": "PLA - Purple"
+    "title": "PLA - Purple",
+    "updated_at": 1792157593883
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#39B54A",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Energy Green",
     "product_type": "Filament",
+    "series": "PLA ENERGY",
     "sku": "S3D-PLA-ENR-GRE",
-    "title": "PLA ENERGY - Energy Green"
+    "title": "PLA ENERGY - Energy Green",
+    "updated_at": 1792157514250
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#E30613",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-RED",
-    "title": "PLA - Red"
+    "title": "PLA - Red",
+    "updated_at": 1792157600610
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#B4E1B4",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "PLA Pastel",
     "sku": "S3D-PLA-PST-GRE",
-    "title": "PLA Pastel - Pastel Green"
+    "title": "PLA Pastel - Pastel Green",
+    "updated_at": 1792157571102
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Neon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFE800",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Energy Yellow",
     "product_type": "Filament",
+    "series": "PLA ENERGY",
     "sku": "S3D-PLA-ENR-YEL",
-    "title": "PLA ENERGY - Energy Yellow"
+    "title": "PLA ENERGY - Energy Yellow",
+    "updated_at": 1792157513178
   },
   {
     "RFID_Data": {
@@ -1253,6 +1403,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#808080",
@@ -1270,9 +1422,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Transition",
     "product_type": "Filament",
+    "series": "PLA Transition",
     "sku": "S3D-PLA-TRS",
-    "title": "PLA Transition - Transition"
+    "title": "PLA Transition - Transition",
+    "updated_at": 1792157609701
   },
   {
     "RFID_Data": {
@@ -1295,6 +1450,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#F5C518",
@@ -1311,9 +1468,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Yellow",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "S3D-PLA-MAT-YEL",
-    "title": "PLA Matte - Matte Yellow"
+    "title": "PLA Matte - Matte Yellow",
+    "updated_at": 1792157556521
   },
   {
     "RFID_Data": {
@@ -1336,6 +1496,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#C0C0C0",
@@ -1352,9 +1514,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cosmic Silver",
     "product_type": "Filament",
+    "series": "PLA COSMIC",
     "sku": "S3D-PLA-CMC-SLV",
-    "title": "PLA COSMIC - Cosmic Silver"
+    "title": "PLA COSMIC - Cosmic Silver",
+    "updated_at": 1792157488307
   },
   {
     "RFID_Data": {
@@ -1377,6 +1542,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#64B5F626",
@@ -1393,9 +1560,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crystal Blue",
     "product_type": "Filament",
+    "series": "PLA CRYSTAL",
     "sku": "S3D-PLA-CRY-BLU",
-    "title": "PLA CRYSTAL - Crystal Blue"
+    "title": "PLA CRYSTAL - Crystal Blue",
+    "updated_at": 1792157493414
   },
   {
     "RFID_Data": {
@@ -1418,6 +1588,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFF17626",
@@ -1434,9 +1606,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crystal Yellow",
     "product_type": "Filament",
+    "series": "PLA CRYSTAL",
     "sku": "S3D-PLA-CRY-YEL",
-    "title": "PLA CRYSTAL - Crystal Yellow"
+    "title": "PLA CRYSTAL - Crystal Yellow",
+    "updated_at": 1792157505081
   },
   {
     "RFID_Data": {
@@ -1459,6 +1634,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#B5D8F7",
@@ -1475,9 +1652,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Blue",
     "product_type": "Filament",
+    "series": "PLA Pastel",
     "sku": "S3D-PLA-PST-BLU",
-    "title": "PLA Pastel - Pastel Blue"
+    "title": "PLA Pastel - Pastel Blue",
+    "updated_at": 1792157577590
   },
   {
     "RFID_Data": {
@@ -1500,6 +1680,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#2E8B57",
@@ -1516,9 +1698,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-GRE",
-    "title": "PLA - Green"
+    "title": "PLA - Green",
+    "updated_at": 1792157529921
   },
   {
     "RFID_Data": {
@@ -1541,6 +1726,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#C0C0C0",
@@ -1557,9 +1744,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-SLV",
-    "title": "PLA - Silver"
+    "title": "PLA - Silver",
+    "updated_at": 1792157601823
   },
   {
     "RFID_Data": {
@@ -1582,6 +1772,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#D0021B",
@@ -1598,9 +1790,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "S3D-PET-RED",
-    "title": "PETG - Red"
+    "title": "PETG - Red",
+    "updated_at": 1792157595701
   },
   {
     "RFID_Data": {
@@ -1623,6 +1818,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#B0AFA8",
@@ -1639,9 +1836,12 @@
     "info3": false,
     "material": "PLA Marble",
     "measure": "1000 g",
+    "name": "Marble",
     "product_type": "Filament",
+    "series": "PLA Marble",
     "sku": "S3D-PLA-MRB",
-    "title": "PLA Marble - Marble"
+    "title": "PLA Marble - Marble",
+    "updated_at": 1792157538799
   },
   {
     "RFID_Data": {
@@ -1664,6 +1864,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#66BB6A26",
@@ -1680,9 +1882,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crystal Green",
     "product_type": "Filament",
+    "series": "PLA CRYSTAL",
     "sku": "S3D-PLA-CRY-GRE",
-    "title": "PLA CRYSTAL - Crystal Green"
+    "title": "PLA CRYSTAL - Crystal Green",
+    "updated_at": 1792157498722
   },
   {
     "RFID_Data": {
@@ -1705,6 +1910,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#0066CC",
@@ -1721,9 +1928,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-BLU",
-    "title": "PLA - Blue"
+    "title": "PLA - Blue",
+    "updated_at": 1792157470106
   },
   {
     "RFID_Data": {
@@ -1746,6 +1956,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#F8C8DC",
@@ -1762,9 +1974,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Pink",
     "product_type": "Filament",
+    "series": "PLA Pastel",
     "sku": "S3D-PLA-PST-PNK",
-    "title": "PLA Pastel - Pastel Pink"
+    "title": "PLA Pastel - Pastel Pink",
+    "updated_at": 1792157587196
   },
   {
     "RFID_Data": {
@@ -1787,6 +2002,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#1A1A1A",
@@ -1803,9 +2020,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Black",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "S3D-PLA-MAT-BLK",
-    "title": "PLA Matte - Matte Black"
+    "title": "PLA Matte - Matte Black",
+    "updated_at": 1792157539406
   },
   {
     "RFID_Data": {
@@ -1828,6 +2048,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFFFFF",
@@ -1844,9 +2066,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "S3D-PET-WHT",
-    "title": "PETG - White"
+    "title": "PETG - White",
+    "updated_at": 1792157613905
   },
   {
     "RFID_Data": {
@@ -1869,6 +2094,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFFFFF",
@@ -1885,9 +2112,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte White",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "S3D-PLA-MAT-WHT",
-    "title": "PLA Matte - Matte White"
+    "title": "PLA Matte - Matte White",
+    "updated_at": 1792157546104
   },
   {
     "RFID_Data": {
@@ -1910,6 +2140,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#4B5320",
@@ -1926,9 +2158,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Army",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-ARM",
-    "title": "PLA - Army"
+    "title": "PLA - Army",
+    "updated_at": 1792157463802
   },
   {
     "RFID_Data": {
@@ -1951,6 +2186,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#E8DCC5",
@@ -1967,9 +2204,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-BGE",
-    "title": "PLA - Beige"
+    "title": "PLA - Beige",
+    "updated_at": 1792157464208
   },
   {
     "RFID_Data": {
@@ -1992,6 +2232,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#D4AF37",
@@ -2008,9 +2250,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-GLD",
-    "title": "PLA - Gold"
+    "title": "PLA - Gold",
+    "updated_at": 1792157519636
   },
   {
     "RFID_Data": {
@@ -2033,6 +2278,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#1F4E96",
@@ -2049,9 +2296,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Blue",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "S3D-PLA-MAT-BLU",
-    "title": "PLA Matte - Matte Blue"
+    "title": "PLA Matte - Matte Blue",
+    "updated_at": 1792157539615
   },
   {
     "RFID_Data": {
@@ -2074,6 +2324,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#808080",
@@ -2090,9 +2342,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Gray",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "S3D-PLA-MAT-GRY",
-    "title": "PLA Matte - Matte Gray"
+    "title": "PLA Matte - Matte Gray",
+    "updated_at": 1792157552201
   },
   {
     "RFID_Data": {
@@ -2115,6 +2370,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#2E8B57",
@@ -2131,9 +2388,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "S3D-PET-GRE",
-    "title": "PETG - Green"
+    "title": "PETG - Green",
+    "updated_at": 1792157532191
   },
   {
     "RFID_Data": {
@@ -2156,6 +2416,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pastel",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#D8BFD8",
@@ -2172,9 +2434,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Light Purple",
     "product_type": "Filament",
+    "series": "PLA Pastel",
     "sku": "S3D-PLA-PST-LGT-PRP",
-    "title": "PLA Pastel - Pastel Light Purple"
+    "title": "PLA Pastel - Pastel Light Purple",
+    "updated_at": 1792157580221
   },
   {
     "RFID_Data": {
@@ -2197,6 +2462,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#5C3A21",
@@ -2213,9 +2480,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Wood Walnut",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "S3D-PLA-WOD-WLN",
-    "title": "PLA Wood - Wood Walnut"
+    "title": "PLA Wood - Wood Walnut",
+    "updated_at": 1792157624678
   },
   {
     "RFID_Data": {
@@ -2238,6 +2508,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#6A0DAD",
@@ -2254,9 +2526,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cosmic Purple",
     "product_type": "Filament",
+    "series": "PLA COSMIC",
     "sku": "S3D-PLA-CMC-PRP",
-    "title": "PLA COSMIC - Cosmic Purple"
+    "title": "PLA COSMIC - Cosmic Purple",
+    "updated_at": 1792157487094
   },
   {
     "RFID_Data": {
@@ -2279,6 +2554,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FFD400",
@@ -2295,9 +2572,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "S3D-PET-YEL",
-    "title": "PETG - Yellow"
+    "title": "PETG - Yellow",
+    "updated_at": 1792157621701
   },
   {
     "RFID_Data": {
@@ -2320,6 +2600,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FAFAFA",
@@ -2336,9 +2618,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Snow White",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-SNW-WHT",
-    "title": "PLA - Snow White"
+    "title": "PLA - Snow White",
+    "updated_at": 1792157607105
   },
   {
     "RFID_Data": {
@@ -2361,6 +2646,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FF7F00",
@@ -2377,9 +2664,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG",
     "sku": "S3D-PET-ORG",
-    "title": "PETG - Orange"
+    "title": "PETG - Orange",
+    "updated_at": 1792157562925
   },
   {
     "RFID_Data": {
@@ -2402,6 +2692,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#FF69B4",
@@ -2418,9 +2710,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-PNK",
-    "title": "PLA - Pink"
+    "title": "PLA - Pink",
+    "updated_at": 1792157593194
   },
   {
     "RFID_Data": {
@@ -2443,6 +2738,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#000000",
@@ -2459,9 +2756,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-BLK",
-    "title": "PLA - Black"
+    "title": "PLA - Black",
+    "updated_at": 1792157463805
   },
   {
     "RFID_Data": {
@@ -2484,6 +2784,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Smart3DPT",
     "color": "#C2185B",
@@ -2500,8 +2802,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Magenta",
     "product_type": "Filament",
+    "series": "PLA",
     "sku": "S3D-PLA-S-MGT",
-    "title": "PLA - Magenta"
+    "title": "PLA - Magenta",
+    "updated_at": 1792157532308
   }
 ]

@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#474747",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG Premium",
     "sku": "FORSHAPE-PETGPREMIUM-001",
-    "title": "PETG Premium - Grey"
+    "title": "PETG Premium - Grey",
+    "updated_at": 1793402284862
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#D8CA89",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Economy",
     "sku": "FS-PLA-ECONOMY-GOLD",
-    "title": "PLA Economy - Gold"
+    "title": "PLA Economy - Gold",
+    "updated_at": 1793402284850
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#1E5BC6",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Silk Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-ECOPLASILK-BLUE",
-    "title": "PLA Silk - ecoPLA Silk Blue"
+    "title": "PLA Silk - ecoPLA Silk Blue",
+    "updated_at": 1793404112201
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Noir",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-NOIR",
-    "title": "PLA Basic - Noir"
+    "title": "PLA Basic - Noir",
+    "updated_at": 1793402284867
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-WHITE",
-    "title": "PLA Basic - White"
+    "title": "PLA Basic - White",
+    "updated_at": 1793402295483
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FAFAFA",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blanc",
     "product_type": "Filament",
+    "series": "PETG Premium",
     "sku": "FORSHAPE-PETGPREMIUM-001",
-    "title": "PETG Premium - Blanc"
+    "title": "PETG Premium - Blanc",
+    "updated_at": 1793402295945
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#F7D117",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Yellow",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-ECOPLA-YELLOW",
-    "title": "PLA Basic - ecoPLA Yellow"
+    "title": "PLA Basic - ecoPLA Yellow",
+    "updated_at": 1793403854385
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "eco PLA White",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-ECOWHITE",
-    "title": "PLA Basic - eco PLA White"
+    "title": "PLA Basic - eco PLA White",
+    "updated_at": 1793402294647
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#1E5BC6",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "ecoABS Blue",
     "product_type": "Filament",
+    "series": "ABS ECO",
     "sku": "FS-ECOABS-BLUE",
-    "title": "ABS ECO - ecoABS Blue"
+    "title": "ABS ECO - ecoABS Blue",
+    "updated_at": 1793404445678
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#168BF2",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Light Blue",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPROPREM-LIGHTBLUE",
-    "title": "PLA PRO Premium - ecoPLA Light Blue"
+    "title": "PLA PRO Premium - ecoPLA Light Blue",
+    "updated_at": 1793402301984
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ Black",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-BLACK",
-    "title": "PLA+ High-Speed - High-Speed PLA+ Black"
+    "title": "PLA+ High-Speed - High-Speed PLA+ Black",
+    "updated_at": 1793403816768
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#00818A",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Grass Green",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-ECOGRASSGREEN",
-    "title": "PLA Basic - ecoPLA Grass Green"
+    "title": "PLA Basic - ecoPLA Grass Green",
+    "updated_at": 1793402304463
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#1E5BC6",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ Blue",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-BLUE",
-    "title": "PLA+ High-Speed - High-Speed PLA+ Blue"
+    "title": "PLA+ High-Speed - High-Speed PLA+ Blue",
+    "updated_at": 1793403785451
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "HF PETG Black",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "FS-HFPETG-BLACK",
-    "title": "PETG HF - HF PETG Black"
+    "title": "PETG HF - HF PETG Black",
+    "updated_at": 1793403672249
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "HF PETG White",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "FS-HFPETG-WHITE",
-    "title": "PETG HF - HF PETG White"
+    "title": "PETG HF - HF PETG White",
+    "updated_at": 1793403733444
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#00F03D",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "EcoPLA Green",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-ECOGREEN",
-    "title": "PLA Basic - EcoPLA Green"
+    "title": "PLA Basic - EcoPLA Green",
+    "updated_at": 1793402302951
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#2E9E4F",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ Green",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-GREEN",
-    "title": "PLA+ High-Speed - High-Speed PLA+ Green"
+    "title": "PLA+ High-Speed - High-Speed PLA+ Green",
+    "updated_at": 1793404866530
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#8A8D8F",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA Grey",
     "product_type": "Filament",
+    "series": "PLA High-Speed",
     "sku": "FS-HIGHSPEEDPLA-GREY",
-    "title": "PLA High-Speed - High-Speed PLA Grey"
+    "title": "PLA High-Speed - High-Speed PLA Grey",
+    "updated_at": 1793404719645
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "ecoASA White",
     "product_type": "Filament",
+    "series": "ASA ECO",
     "sku": "FS-ECOASA-WHITE",
-    "title": "ASA ECO - ecoASA White"
+    "title": "ASA ECO - ecoASA White",
+    "updated_at": 1793404540046
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C51111",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "ecoPETG Red",
     "product_type": "Filament",
+    "series": "PETG ECO",
     "sku": "FS-ECOPETG-RED",
-    "title": "PETG ECO - ecoPETG Red"
+    "title": "PETG ECO - ecoPETG Red",
+    "updated_at": 1793404236535
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "ecoPETG-CF Black",
     "product_type": "Filament",
+    "series": "PETG CF ECO",
     "sku": "FS-ECOPETGCF-BLACK",
-    "title": "PETG CF ECO - ecoPETG-CF Black"
+    "title": "PETG CF ECO - ecoPETG-CF Black",
+    "updated_at": 1793404735177
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "5000 g",
+    "name": "ecoPLA White 5kg",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-ECOPLA-WHITE-5000G",
-    "title": "PLA Basic - ecoPLA White 5kg"
+    "title": "PLA Basic - ecoPLA White 5kg",
+    "updated_at": 1793404634368
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#F28C28",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Matte Orange",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "FS-ECOPLAMATTE-ORANGE",
-    "title": "PLA Matte - ecoPLA Matte Orange"
+    "title": "PLA Matte - ecoPLA Matte Orange",
+    "updated_at": 1793404080460
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#F28C28",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Orange",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-ECOPLA-ORANGE",
-    "title": "PLA Basic - ecoPLA Orange"
+    "title": "PLA Basic - ecoPLA Orange",
+    "updated_at": 1793403871004
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#8A8D8F",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "ecoPETG Grey",
     "product_type": "Filament",
+    "series": "PETG ECO",
     "sku": "FS-ECOPETG-GREY",
-    "title": "PETG ECO - ecoPETG Grey"
+    "title": "PETG ECO - ecoPETG Grey",
+    "updated_at": 1793404221379
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#F6A21E",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Sunny Orange",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-ECOPLA-SUNNYORANGE",
-    "title": "PLA Basic - ecoPLA Sunny Orange"
+    "title": "PLA Basic - ecoPLA Sunny Orange",
+    "updated_at": 1793403891681
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#008000",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Grass Green",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPROPREM-GRASSGREEN",
-    "title": "PLA PRO Premium - ecoPLA Grass Green"
+    "title": "PLA PRO Premium - ecoPLA Grass Green",
+    "updated_at": 1793402308261
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA White",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPROPREM-WHITE",
-    "title": "PLA PRO Premium - ecoPLA White"
+    "title": "PLA PRO Premium - ecoPLA White",
+    "updated_at": 1793402309249
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#4CAF50",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ Grass Green",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-GRASSGREEN",
-    "title": "PLA+ High-Speed - High-Speed PLA+ Grass Green"
+    "title": "PLA+ High-Speed - High-Speed PLA+ Grass Green",
+    "updated_at": 1793403748854
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-BLACK",
-    "title": "PLA Basic - Black"
+    "title": "PLA Basic - Black",
+    "updated_at": 1793402310887
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#2743CF",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Bleu",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-BLEU",
-    "title": "PLA Basic - Bleu"
+    "title": "PLA Basic - Bleu",
+    "updated_at": 1793402315281
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "ecoASA Black",
     "product_type": "Filament",
+    "series": "ASA ECO",
     "sku": "FS-ECOASA-BLACK",
-    "title": "ASA ECO - ecoASA Black"
+    "title": "ASA ECO - ecoASA Black",
+    "updated_at": 1793404512582
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Matte White",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "FS-ECOPLAMATTE-WHITE",
-    "title": "PLA Matte - ecoPLA Matte White"
+    "title": "PLA Matte - ecoPLA Matte White",
+    "updated_at": 1793403940672
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#0445DC",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Bleu",
     "product_type": "Filament",
+    "series": "PETG Premium",
     "sku": "FORSHAPE-PETGPREMIUM-001",
-    "title": "PETG Premium - Bleu"
+    "title": "PETG Premium - Bleu",
+    "updated_at": 1793402316500
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "ecoTPU 95A White",
     "product_type": "Filament",
+    "series": "TPU 95A ECO",
     "sku": "FS-ECOTPU95A-WHITE",
-    "title": "TPU 95A ECO - ecoTPU 95A White"
+    "title": "TPU 95A ECO - ecoTPU 95A White",
+    "updated_at": 1793404569954
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C51111",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ Red",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-RED",
-    "title": "PLA+ High-Speed - High-Speed PLA+ Red"
+    "title": "PLA+ High-Speed - High-Speed PLA+ Red",
+    "updated_at": 1793403801196
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#1E5BC6",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "PLA+ Blue",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPLUS-BLUE",
-    "title": "PLA PRO Premium - PLA+ Blue"
+    "title": "PLA PRO Premium - PLA+ Blue",
+    "updated_at": 1793404767247
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#0077CC",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Blue Gray",
     "product_type": "Filament",
+    "series": "PLA PRO Basic",
     "sku": "FS-PLAPRO-BLUEGRAY",
-    "title": "PLA PRO Basic - ecoPLA Blue Gray"
+    "title": "PLA PRO Basic - ecoPLA Blue Gray",
+    "updated_at": 1793402317482
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Black",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPROPREM-BLACK",
-    "title": "PLA PRO Premium - ecoPLA Black"
+    "title": "PLA PRO Premium - ecoPLA Black",
+    "updated_at": 1793402323184
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ White",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-WHITE",
-    "title": "PLA+ High-Speed - High-Speed PLA+ White"
+    "title": "PLA+ High-Speed - High-Speed PLA+ White",
+    "updated_at": 1793404882758
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#804040",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Café",
     "product_type": "Filament",
+    "series": "PLA ECO",
     "sku": "FS-PLA-ECO-CAFE",
-    "title": "PLA ECO - Café"
+    "title": "PLA ECO - Café",
+    "updated_at": 1793402324275
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C0C0C0",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ Silver",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-SILVER",
-    "title": "PLA+ High-Speed - High-Speed PLA+ Silver"
+    "title": "PLA+ High-Speed - High-Speed PLA+ Silver",
+    "updated_at": 1793404816949
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "ecoPETG Black",
     "product_type": "Filament",
+    "series": "PETG ECO",
     "sku": "FS-ECOPETG-BLACK",
-    "title": "PETG ECO - ecoPETG Black"
+    "title": "PETG ECO - ecoPETG Black",
+    "updated_at": 1793404206099
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFF00",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Yellow",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPROPREM-YELLOW",
-    "title": "PLA PRO Premium - ecoPLA Yellow"
+    "title": "PLA PRO Premium - ecoPLA Yellow",
+    "updated_at": 1793402324330
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C51111",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "ecoABS Red",
     "product_type": "Filament",
+    "series": "ABS ECO",
     "sku": "FS-ECOABS-RED",
-    "title": "ABS ECO - ecoABS Red"
+    "title": "ABS ECO - ecoABS Red",
+    "updated_at": 1793404403936
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 2300
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "2300 g",
+    "name": "PLA+ Snow White 2.3kg",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPLUS-SNOWWHITE-2300G",
-    "title": "PLA PRO Premium - PLA+ Snow White 2.3kg"
+    "title": "PLA PRO Premium - PLA+ Snow White 2.3kg",
+    "updated_at": 1793404913556
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#F28C28",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Silk Orange",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-ECOPLASILK-ORANGE",
-    "title": "PLA Silk - ecoPLA Silk Orange"
+    "title": "PLA Silk - ecoPLA Silk Orange",
+    "updated_at": 1793403656489
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "ecoTPU 95A Black",
     "product_type": "Filament",
+    "series": "TPU 95A ECO",
     "sku": "FS-ECOTPU95A-BLACK",
-    "title": "TPU 95A ECO - ecoTPU 95A Black"
+    "title": "TPU 95A ECO - ecoTPU 95A Black",
+    "updated_at": 1793404554983
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#F28C28",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ Orange",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-ORANGE",
-    "title": "PLA+ High-Speed - High-Speed PLA+ Orange"
+    "title": "PLA+ High-Speed - High-Speed PLA+ Orange",
+    "updated_at": 1793404834208
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#696969",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Mat Grey",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "FS-PLA-MATTE-GREY",
-    "title": "PLA Matte - ecoPLA Mat Grey"
+    "title": "PLA Matte - ecoPLA Mat Grey",
+    "updated_at": 1793402331182
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#2D221F",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Coffee",
     "product_type": "Filament",
+    "series": "PETG ECO",
     "sku": "FORSHAPE-PETGECO-002",
-    "title": "PETG ECO - Coffee"
+    "title": "PETG ECO - Coffee",
+    "updated_at": 1793402332940
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C0C0C0",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA silk argent",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-PLA-SILK-ARGENT",
-    "title": "PLA Silk - ecoPLA silk argent"
+    "title": "PLA Silk - ecoPLA silk argent",
+    "updated_at": 1793402332953
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blanc",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-BLANC",
-    "title": "PLA Basic - Blanc"
+    "title": "PLA Basic - Blanc",
+    "updated_at": 1793402340073
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#F7D117",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ Yellow",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-YELLOW",
-    "title": "PLA+ High-Speed - High-Speed PLA+ Yellow"
+    "title": "PLA+ High-Speed - High-Speed PLA+ Yellow",
+    "updated_at": 1793404898069
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#8A8D8F",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "ecoTPU 95A Gray",
     "product_type": "Filament",
+    "series": "TPU 95A ECO",
     "sku": "FS-ECOTPU95A-GRAY",
-    "title": "TPU 95A ECO - ecoTPU 95A Gray"
+    "title": "TPU 95A ECO - ecoTPU 95A Gray",
+    "updated_at": 1793404588101
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG ECO",
     "sku": "FORSHAPE-PETGECO-003",
-    "title": "PETG ECO - White"
+    "title": "PETG ECO - White",
+    "updated_at": 1793402341558
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#5B3A29",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Chocolate",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-ECOPLA-CHOCOLATE",
-    "title": "PLA Basic - ecoPLA Chocolate"
+    "title": "PLA Basic - ecoPLA Chocolate",
+    "updated_at": 1793403922493
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#8A8D8F",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "ecoABS Grey",
     "product_type": "Filament",
+    "series": "ABS ECO",
     "sku": "FS-ECOABS-GREY",
-    "title": "ABS ECO - ecoABS Grey"
+    "title": "ABS ECO - ecoABS Grey",
+    "updated_at": 1793404362784
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#2E9E4F",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "PETG Green",
     "product_type": "Filament",
+    "series": "PETG Premium",
     "sku": "FS-PETG-GREEN",
-    "title": "PETG Premium - PETG Green"
+    "title": "PETG Premium - PETG Green",
+    "updated_at": 1793404798834
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#7FB5E6",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Matte Light Blue",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "FS-ECOPLAMATTE-LIGHTBLUE",
-    "title": "PLA Matte - ecoPLA Matte Light Blue"
+    "title": "PLA Matte - ecoPLA Matte Light Blue",
+    "updated_at": 1793404018292
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Noir",
     "product_type": "Filament",
+    "series": "PETG Premium",
     "sku": "FORSHAPE-PETGPREMIUM-001",
-    "title": "PETG Premium - Noir"
+    "title": "PETG Premium - Noir",
+    "updated_at": 1793402341871
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FF052B",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cherry Red",
     "product_type": "Filament",
+    "series": "PETG ECO",
     "sku": "FORSHAPE-PETGECO-001",
-    "title": "PETG ECO - Cherry Red"
+    "title": "PETG ECO - Cherry Red",
+    "updated_at": 1793402348470
   },
   {
     "RFID_Data": {
@@ -2568,6 +2878,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#E53935",
@@ -2586,9 +2898,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Rainbow",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-ECOPLARAINBOW-RAINBOW",
-    "title": "PLA Basic - ecoPLA Rainbow"
+    "title": "PLA Basic - ecoPLA Rainbow",
+    "updated_at": 1793404164371
   },
   {
     "RFID_Data": {
@@ -2611,6 +2926,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#1E5BC6",
@@ -2627,9 +2944,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "ecoTPU 95A Blue",
     "product_type": "Filament",
+    "series": "TPU 95A ECO",
     "sku": "FS-ECOTPU95A-BLUE",
-    "title": "TPU 95A ECO - ecoTPU 95A Blue"
+    "title": "TPU 95A ECO - ecoTPU 95A Blue",
+    "updated_at": 1793404619168
   },
   {
     "RFID_Data": {
@@ -2652,6 +2972,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#AC7239",
@@ -2668,9 +2990,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Coffee",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-ECOCOFFEE",
-    "title": "PLA Basic - ecoPLA Coffee"
+    "title": "PLA Basic - ecoPLA Coffee",
+    "updated_at": 1793402350337
   },
   {
     "RFID_Data": {
@@ -2693,6 +3018,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -2709,9 +3036,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "ecoABS White",
     "product_type": "Filament",
+    "series": "ABS ECO",
     "sku": "FS-ECOABS-WHITE",
-    "title": "ABS ECO - ecoABS White"
+    "title": "ABS ECO - ecoABS White",
+    "updated_at": 1793404321898
   },
   {
     "RFID_Data": {
@@ -2734,6 +3064,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#8A8D8F",
@@ -2750,9 +3082,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA+ Grey",
     "product_type": "Filament",
+    "series": "PLA+ High-Speed",
     "sku": "FS-HIGHSPEEDPLAPLUS-GREY",
-    "title": "PLA+ High-Speed - High-Speed PLA+ Grey"
+    "title": "PLA+ High-Speed - High-Speed PLA+ Grey",
+    "updated_at": 1793404850491
   },
   {
     "RFID_Data": {
@@ -2775,6 +3110,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#2E9E4F",
@@ -2791,9 +3128,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Matte Green",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "FS-ECOPLAMATTE-GREEN",
-    "title": "PLA Matte - ecoPLA Matte Green"
+    "title": "PLA Matte - ecoPLA Matte Green",
+    "updated_at": 1793404033998
   },
   {
     "RFID_Data": {
@@ -2816,6 +3156,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#808080",
@@ -2832,9 +3174,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Gris",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-ECOGRIS",
-    "title": "PLA Basic - ecoPLA Gris"
+    "title": "PLA Basic - ecoPLA Gris",
+    "updated_at": 1793402349670
   },
   {
     "RFID_Data": {
@@ -2857,6 +3202,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#1E5BC6",
@@ -2873,9 +3220,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Matte Blue",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "FS-ECOPLAMATTE-BLUE",
-    "title": "PLA Matte - ecoPLA Matte Blue"
+    "title": "PLA Matte - ecoPLA Matte Blue",
+    "updated_at": 1793404048890
   },
   {
     "RFID_Data": {
@@ -2898,6 +3248,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#F78040",
@@ -2914,9 +3266,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Orange",
     "product_type": "Filament",
+    "series": "PLA PRO Basic",
     "sku": "FS-PLAPRO-ORANGE",
-    "title": "PLA PRO Basic - ecoPLA Orange"
+    "title": "PLA PRO Basic - ecoPLA Orange",
+    "updated_at": 1793402356098
   },
   {
     "RFID_Data": {
@@ -2939,6 +3294,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C51111",
@@ -2955,9 +3312,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "ecoTPU 95A Red",
     "product_type": "Filament",
+    "series": "TPU 95A ECO",
     "sku": "FS-ECOTPU95A-RED",
-    "title": "TPU 95A ECO - ecoTPU 95A Red"
+    "title": "TPU 95A ECO - ecoTPU 95A Red",
+    "updated_at": 1793404603381
   },
   {
     "RFID_Data": {
@@ -2980,6 +3340,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#E6E6E6",
@@ -2996,9 +3358,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Marble",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-ECOPLAMARBLE-MARBLE",
-    "title": "PLA Basic - ecoPLA Marble"
+    "title": "PLA Basic - ecoPLA Marble",
+    "updated_at": 1793404147274
   },
   {
     "RFID_Data": {
@@ -3021,6 +3386,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#B04646",
@@ -3037,9 +3404,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA silk Laiton",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-PLA-SILK-LAITON",
-    "title": "PLA Silk - ecoPLA silk Laiton"
+    "title": "PLA Silk - ecoPLA silk Laiton",
+    "updated_at": 1793402356976
   },
   {
     "RFID_Data": {
@@ -3062,6 +3432,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -3078,9 +3450,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "ecoPLA-CF Black",
     "product_type": "Filament",
+    "series": "PLA CF ECO",
     "sku": "FS-ECOPLACF-BLACK",
-    "title": "PLA CF ECO - ecoPLA-CF Black"
+    "title": "PLA CF ECO - ecoPLA-CF Black",
+    "updated_at": 1793404750990
   },
   {
     "RFID_Data": {
@@ -3103,6 +3478,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#1E5BC6",
@@ -3119,9 +3496,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "ecoPETG Blue",
     "product_type": "Filament",
+    "series": "PETG ECO",
     "sku": "FS-ECOPETG-BLUE",
-    "title": "PETG ECO - ecoPETG Blue"
+    "title": "PETG ECO - ecoPETG Blue",
+    "updated_at": 1793404251802
   },
   {
     "RFID_Data": {
@@ -3144,6 +3524,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -3160,9 +3542,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Noir",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-ECONOIR",
-    "title": "PLA Basic - ecoPLA Noir"
+    "title": "PLA Basic - ecoPLA Noir",
+    "updated_at": 1793402357234
   },
   {
     "RFID_Data": {
@@ -3185,6 +3570,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#0AB291",
@@ -3201,9 +3588,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Green",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPROPREM-GREEN",
-    "title": "PLA PRO Premium - ecoPLA Green"
+    "title": "PLA PRO Premium - ecoPLA Green",
+    "updated_at": 1793402363831
   },
   {
     "RFID_Data": {
@@ -3226,6 +3616,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#1E5BC6",
@@ -3242,9 +3634,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "HF PETG Blue",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "FS-HFPETG-BLUE",
-    "title": "PETG HF - HF PETG Blue"
+    "title": "PETG HF - HF PETG Blue",
+    "updated_at": 1793403702399
   },
   {
     "RFID_Data": {
@@ -3267,6 +3662,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -3283,9 +3680,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "ecoABS Black",
     "product_type": "Filament",
+    "series": "ABS ECO",
     "sku": "FS-ECOABS-BLACK",
-    "title": "ABS ECO - ecoABS Black"
+    "title": "ABS ECO - ecoABS Black",
+    "updated_at": 1793404293633
   },
   {
     "RFID_Data": {
@@ -3308,6 +3708,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -3324,9 +3726,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Matte Black",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "FS-ECOPLAMATTE-BLACK",
-    "title": "PLA Matte - ecoPLA Matte Black"
+    "title": "PLA Matte - ecoPLA Matte Black",
+    "updated_at": 1793404064632
   },
   {
     "RFID_Data": {
@@ -3349,6 +3754,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C51111",
@@ -3365,9 +3772,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "EcoPLA Mat Red",
     "product_type": "Filament",
+    "series": "PLA Matte",
     "sku": "FS-PLA-MATTE-RED",
-    "title": "PLA Matte - EcoPLA Mat Red"
+    "title": "PLA Matte - EcoPLA Mat Red",
+    "updated_at": 1793402364975
   },
   {
     "RFID_Data": {
@@ -3390,6 +3800,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FF0000",
@@ -3406,9 +3818,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-PLA-BASIC-RED",
-    "title": "PLA Basic - Red"
+    "title": "PLA Basic - Red",
+    "updated_at": 1793402365076
   },
   {
     "RFID_Data": {
@@ -3431,6 +3846,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#F2F2F2",
@@ -3447,9 +3864,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "ecoPETG Transparent",
     "product_type": "Filament",
+    "series": "PETG ECO",
     "sku": "FS-ECOPETG-TRANSPARENT",
-    "title": "PETG ECO - ecoPETG Transparent"
+    "title": "PETG ECO - ecoPETG Transparent",
+    "updated_at": 1793404267299
   },
   {
     "RFID_Data": {
@@ -3472,6 +3892,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -3488,9 +3910,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "PETG Premium",
     "sku": "FORSHAPE-PETGPREMIUM-001",
-    "title": "PETG Premium - Transparent"
+    "title": "PETG Premium - Transparent",
+    "updated_at": 1793402371532
   },
   {
     "RFID_Data": {
@@ -3513,6 +3938,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C64524",
@@ -3529,9 +3956,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Orange Red",
     "product_type": "Filament",
+    "series": "PLA PRO Basic",
     "sku": "FS-PLAPRO-ORANGERED",
-    "title": "PLA PRO Basic - ecoPLA Orange Red"
+    "title": "PLA PRO Basic - ecoPLA Orange Red",
+    "updated_at": 1793402372345
   },
   {
     "RFID_Data": {
@@ -3554,6 +3984,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#8A8D8F",
@@ -3570,9 +4002,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "HF PETG Grey",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "FS-HFPETG-GREY",
-    "title": "PETG HF - HF PETG Grey"
+    "title": "PETG HF - HF PETG Grey",
+    "updated_at": 1793403687444
   },
   {
     "RFID_Data": {
@@ -3595,6 +4030,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#B1B5B5",
@@ -3611,9 +4048,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Grey",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPROPREM-GREY",
-    "title": "PLA PRO Premium - ecoPLA Grey"
+    "title": "PLA PRO Premium - ecoPLA Grey",
+    "updated_at": 1793402373531
   },
   {
     "RFID_Data": {
@@ -3636,6 +4076,8 @@
       "id_unit": 21,
       "measure": 5000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -3652,9 +4094,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "5000 g",
+    "name": "ecoPLA Black 5kg",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-ECOPLA-BLACK-5000G",
-    "title": "PLA Basic - ecoPLA Black 5kg"
+    "title": "PLA Basic - ecoPLA Black 5kg",
+    "updated_at": 1793404928481
   },
   {
     "RFID_Data": {
@@ -3677,6 +4122,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -3693,9 +4140,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA silk White",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-PLA-SILK-WHITE",
-    "title": "PLA Silk - ecoPLA silk White"
+    "title": "PLA Silk - ecoPLA silk White",
+    "updated_at": 1793402387661
   },
   {
     "RFID_Data": {
@@ -3718,6 +4168,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#B87333",
@@ -3734,9 +4186,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Silk Copper",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-ECOPLASILK-COPPER",
-    "title": "PLA Silk - ecoPLA Silk Copper"
+    "title": "PLA Silk - ecoPLA Silk Copper",
+    "updated_at": 1793404131542
   },
   {
     "RFID_Data": {
@@ -3759,6 +4214,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C51111",
@@ -3775,9 +4232,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Silk Red",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-ECOPLASILK-RED",
-    "title": "PLA Silk - ecoPLA Silk Red"
+    "title": "PLA Silk - ecoPLA Silk Red",
+    "updated_at": 1793403640976
   },
   {
     "RFID_Data": {
@@ -3800,6 +4260,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFF00",
@@ -3816,9 +4278,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Jaune",
     "product_type": "Filament",
+    "series": "PETG Premium",
     "sku": "FORSHAPE-PETGPREMIUM-001",
-    "title": "PETG Premium - Jaune"
+    "title": "PETG Premium - Jaune",
+    "updated_at": 1793402402139
   },
   {
     "RFID_Data": {
@@ -3841,6 +4306,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FFFFFF",
@@ -3857,9 +4324,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA White",
     "product_type": "Filament",
+    "series": "PLA High-Speed",
     "sku": "FS-HIGHSPEEDPLA-WHITE",
-    "title": "PLA High-Speed - High-Speed PLA White"
+    "title": "PLA High-Speed - High-Speed PLA White",
+    "updated_at": 1793404648890
   },
   {
     "RFID_Data": {
@@ -3882,6 +4352,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -3898,9 +4370,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Silk Black",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-ECOPLASILK-BLACK",
-    "title": "PLA Silk - ecoPLA Silk Black"
+    "title": "PLA Silk - ecoPLA Silk Black",
+    "updated_at": 1793404096166
   },
   {
     "RFID_Data": {
@@ -3923,6 +4398,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#FF0000",
@@ -3939,9 +4416,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Red",
     "product_type": "Filament",
+    "series": "PLA PRO Basic",
     "sku": "FS-PLAPRO-RED",
-    "title": "PLA PRO Basic - ecoPLA Red"
+    "title": "PLA PRO Basic - ecoPLA Red",
+    "updated_at": 1793402402051
   },
   {
     "RFID_Data": {
@@ -3964,6 +4444,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C51111",
@@ -3980,9 +4462,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "PETG Red",
     "product_type": "Filament",
+    "series": "PETG Premium",
     "sku": "FS-PETG-RED",
-    "title": "PETG Premium - PETG Red"
+    "title": "PETG Premium - PETG Red",
+    "updated_at": 1793404782246
   },
   {
     "RFID_Data": {
@@ -4005,6 +4490,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#000000",
@@ -4021,9 +4508,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "High-Speed PLA Black",
     "product_type": "Filament",
+    "series": "PLA High-Speed",
     "sku": "FS-HIGHSPEEDPLA-BLACK",
-    "title": "PLA High-Speed - High-Speed PLA Black"
+    "title": "PLA High-Speed - High-Speed PLA Black",
+    "updated_at": 1793404663592
   },
   {
     "RFID_Data": {
@@ -4046,6 +4536,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#A1122B",
@@ -4062,9 +4554,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Cherry Red",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "FS-ECOPLA-CHERRYRED",
-    "title": "PLA Basic - ecoPLA Cherry Red"
+    "title": "PLA Basic - ecoPLA Cherry Red",
+    "updated_at": 1793403907266
   },
   {
     "RFID_Data": {
@@ -4087,6 +4582,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C51111",
@@ -4103,9 +4600,12 @@
     "info3": false,
     "material": "PETG HF",
     "measure": "1000 g",
+    "name": "HF PETG Red",
     "product_type": "Filament",
+    "series": "PETG HF",
     "sku": "FS-HFPETG-RED",
-    "title": "PETG HF - HF PETG Red"
+    "title": "PETG HF - HF PETG Red",
+    "updated_at": 1793403717943
   },
   {
     "RFID_Data": {
@@ -4128,6 +4628,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "None",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#C0C0C0",
@@ -4144,9 +4646,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA Silver",
     "product_type": "Filament",
+    "series": "PLA PRO Premium",
     "sku": "FS-PLAPROPREM-SILVER",
-    "title": "PLA PRO Premium - ecoPLA Silver"
+    "title": "PLA PRO Premium - ecoPLA Silver",
+    "updated_at": 1793402430674
   },
   {
     "RFID_Data": {
@@ -4169,6 +4674,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#1E5BC6",
@@ -4185,9 +4692,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "PLA Silk Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-PLASILK-BLUE",
-    "title": "PLA Silk - PLA Silk Blue"
+    "title": "PLA Silk - PLA Silk Blue",
+    "updated_at": 1793403833201
   },
   {
     "RFID_Data": {
@@ -4210,6 +4720,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#D4AF37",
@@ -4226,9 +4738,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "ecoPLA silk Or",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "FS-PLA-SILK-OR",
-    "title": "PLA Silk - ecoPLA silk Or"
+    "title": "PLA Silk - ecoPLA silk Or",
+    "updated_at": 1793402430751
   },
   {
     "RFID_Data": {
@@ -4251,6 +4766,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "Forshape",
     "color": "#858585",
@@ -4267,8 +4784,11 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Argent",
     "product_type": "Filament",
+    "series": "PETG Premium",
     "sku": "FORSHAPE-PETGPREMIUM-001",
-    "title": "PETG Premium - Argent"
+    "title": "PETG Premium - Argent",
+    "updated_at": 1793402430759
   }
 ]

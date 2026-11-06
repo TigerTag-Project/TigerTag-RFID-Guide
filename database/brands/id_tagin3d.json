@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "PF3D00463",
     "brand": "TAGin3D",
     "color": "#000000FF",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU Force 20GF+10CF",
     "sku": "TAA3838",
-    "title": "TPU Force 20GF+10CF - Black"
+    "title": "TPU Force 20GF+10CF - Black",
+    "updated_at": 1788485272447
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "64171671",
     "brand": "TAGin3D",
     "color": "#FFFFFFFF",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Antibacterial PLA",
     "sku": "TAFT1835",
-    "title": "Antibacterial PLA - White"
+    "title": "Antibacterial PLA - White",
+    "updated_at": 1788484973577
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "PF3D00091",
     "brand": "TAGin3D",
     "color": "#000000FF",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Carbon",
     "sku": "TAFT3068",
-    "title": "PLA Carbon - Black"
+    "title": "PLA Carbon - Black",
+    "updated_at": 1788484973577
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "57554570",
     "brand": "TAGin3D",
     "color": "#000000FF",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Nylon TECHForce 20GF/10CF",
     "sku": "TAA1660",
-    "title": "Nylon TECHForce 20GF/10CF - Black"
+    "title": "Nylon TECHForce 20GF/10CF - Black",
+    "updated_at": 1788484826180
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "92431511",
     "brand": "TAGin3D",
     "color": "#FFFFFFFF",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "FilAcetate",
     "sku": "TAFT1836",
-    "title": "FilAcetate - White"
+    "title": "FilAcetate - White",
+    "updated_at": 1788484656969
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "101000001125",
     "brand": "TAGin3D",
     "color": "#FFFFFFFF",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "SOLUBLEPs (HIPS)",
     "sku": "TAFT0372",
-    "title": "SOLUBLEPs (HIPS) - White"
+    "title": "SOLUBLEPs (HIPS) - White",
+    "updated_at": 1788485429247
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "15651991",
     "brand": "TAGin3D",
     "color": "#000000FF",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Carbon",
     "sku": "TAFT3070",
-    "title": "PETG Carbon - Black"
+    "title": "PETG Carbon - Black",
+    "updated_at": 1788485123500
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "PF3D00187",
     "brand": "TAGin3D",
     "color": "#000000FF",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETGForce 20GF/10CF",
     "sku": "TAA1659",
-    "title": "PETGForce 20GF/10CF - Black"
+    "title": "PETGForce 20GF/10CF - Black",
+    "updated_at": 1788485123500
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": "81858967",
     "brand": "TAGin3D",
     "color": "#000000FF",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "Biopolymer",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "FilAcetate",
     "sku": "TAFT1838",
-    "title": "FilAcetate - Black"
+    "title": "FilAcetate - Black",
+    "updated_at": 1788484656969
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": "6117527",
     "brand": "TAGin3D",
     "color": "#000000FF",
@@ -405,8 +452,11 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS Carbon",
     "sku": "TAFT3069",
-    "title": "ABS Carbon - Black"
+    "title": "ABS Carbon - Black",
+    "updated_at": 1788484973577
   }
 ]

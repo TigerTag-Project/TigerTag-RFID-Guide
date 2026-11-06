@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#92914E",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Bronze",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-BRONZE-1.75-1000",
-    "title": "PLA Silk - Bronze"
+    "title": "PLA Silk - Bronze",
+    "updated_at": 1792063398565
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5DEB3",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "ASA-GF",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ASA Glass Fiber",
     "sku": "ISM-ASAGF-NATURAL-1.75-1000",
-    "title": "ASA Glass Fiber - Natural"
+    "title": "ASA Glass Fiber - Natural",
+    "updated_at": 1792063568611
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS Carbon Fiber",
     "sku": "ISM-ABSCF-BLACK-1.75-1000",
-    "title": "ABS Carbon Fiber - Black"
+    "title": "ABS Carbon Fiber - Black",
+    "updated_at": 1792063313676
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFA500",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG Solid Color",
     "sku": "ISM-PETG-ORANGE-1.75-1000",
-    "title": "PETG Solid Color - Orange"
+    "title": "PETG Solid Color - Orange",
+    "updated_at": 1792068323921
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#38322E",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Chocolate",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-CHOCOLATE-1.75-1000",
-    "title": "PLA i6 Matte - Chocolate"
+    "title": "PLA i6 Matte - Chocolate",
+    "updated_at": 1792063406899
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#CB4239",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ruby Red",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-RUBYRED-1.75-1000",
-    "title": "PLA i6 Matte - Ruby Red"
+    "title": "PLA i6 Matte - Ruby Red",
+    "updated_at": 1792063972763
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "ISM-TPU95A-BLACK-1.75-1000",
-    "title": "TPU 95A - Black"
+    "title": "TPU 95A - Black",
+    "updated_at": 1792063335902
   },
   {
     "RFID_Data": {
@@ -310,6 +345,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#80008033",
@@ -327,9 +364,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple-White",
     "product_type": "Filament",
+    "series": "PETG Translucent Gradient",
     "sku": "ISM-PETGTLGRAD-PURPLEWHITE-1.75-1000",
-    "title": "PETG Translucent Gradient - Purple-White"
+    "title": "PETG Translucent Gradient - Purple-White",
+    "updated_at": 1792797696290
   },
   {
     "RFID_Data": {
@@ -352,6 +392,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#DC9E8A",
@@ -368,9 +410,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rose Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-ROSE-GOLD-1.75-1000",
-    "title": "PLA Silk - Rose Gold"
+    "title": "PLA Silk - Rose Gold",
+    "updated_at": 1793373727134
   },
   {
     "RFID_Data": {
@@ -393,6 +438,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFBF00",
@@ -409,9 +456,12 @@
     "info3": false,
     "material": "PPSU",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PPSU",
     "sku": "ISM-PPSU-NATURAL-1.75-1000",
-    "title": "PPSU - Natural"
+    "title": "PPSU - Natural",
+    "updated_at": 1792063550088
   },
   {
     "RFID_Data": {
@@ -437,6 +487,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#377BAB",
@@ -454,9 +506,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue-Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-BLUE-GREEN-1.75-1000",
-    "title": "PLA Silk - Blue-Green"
+    "title": "PLA Silk - Blue-Green",
+    "updated_at": 1792063372963
   },
   {
     "RFID_Data": {
@@ -479,6 +534,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -495,9 +552,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "ISM-BASIC-WHITE-1.75-1000",
-    "title": "PLA Basic - White"
+    "title": "PLA Basic - White",
+    "updated_at": 1792063996416
   },
   {
     "RFID_Data": {
@@ -520,6 +580,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFA500",
@@ -536,9 +598,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-ORANGE-1.75-1000",
-    "title": "PLA i7+ Solid Color - Orange"
+    "title": "PLA i7+ Solid Color - Orange",
+    "updated_at": 1792068395926
   },
   {
     "RFID_Data": {
@@ -561,6 +626,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#ADD8E633",
@@ -577,9 +644,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light-Blue",
     "product_type": "Filament",
+    "series": "PETG Clear Glitter",
     "sku": "ISM-PETGCLGLIT-LIGHTBLUE-1.75-1000",
-    "title": "PETG Clear Glitter - Light-Blue"
+    "title": "PETG Clear Glitter - Light-Blue",
+    "updated_at": 1792068272118
   },
   {
     "RFID_Data": {
@@ -602,6 +672,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#787775",
@@ -618,9 +690,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Nardo Grey",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-NARDOGRAY-1.75-1000",
-    "title": "PLA i6 Matte - Nardo Grey"
+    "title": "PLA i6 Matte - Nardo Grey",
+    "updated_at": 1792077640009
   },
   {
     "RFID_Data": {
@@ -643,6 +718,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -659,9 +736,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA6 Carbon Fiber",
     "sku": "ISM-PA6CF-BLACK-1.75-1000",
-    "title": "PA6 Carbon Fiber - Black"
+    "title": "PA6 Carbon Fiber - Black",
+    "updated_at": 1792063294994
   },
   {
     "RFID_Data": {
@@ -684,6 +764,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F0F8FF",
@@ -700,9 +782,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White-Blue",
     "product_type": "Filament",
+    "series": "PLA UV Light Color Change",
     "sku": "ISM-PLAUV-WHITEBLUE-1.75-1000",
-    "title": "PLA UV Light Color Change - White-Blue"
+    "title": "PLA UV Light Color Change - White-Blue",
+    "updated_at": 1792064003713
   },
   {
     "RFID_Data": {
@@ -725,6 +810,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFF00",
@@ -741,9 +828,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "ABS Solid Color",
     "sku": "ISM-ABS-YELLOW-1.75-1000",
-    "title": "ABS Solid Color - Yellow"
+    "title": "ABS Solid Color - Yellow",
+    "updated_at": 1792068210944
   },
   {
     "RFID_Data": {
@@ -766,6 +856,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FF0000",
@@ -782,9 +874,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-RED-1.75-1000",
-    "title": "PLA i7+ Solid Color - Red"
+    "title": "PLA i7+ Solid Color - Red",
+    "updated_at": 1792068400314
   },
   {
     "RFID_Data": {
@@ -807,6 +902,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#D8BFD833",
@@ -823,9 +920,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Purple",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-LIGHTPURPLE-1.75-1000",
-    "title": "PETG Transparent - Light Purple"
+    "title": "PETG Transparent - Light Purple",
+    "updated_at": 1792068367251
   },
   {
     "RFID_Data": {
@@ -854,6 +954,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF33",
@@ -872,9 +974,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue-White-Orange",
     "product_type": "Filament",
+    "series": "PETG Translucent Gradient",
     "sku": "ISM-PETGTLGRAD-BLUEWHITEORANGE-1.75-1000",
-    "title": "PETG Translucent Gradient - Blue-White-Orange"
+    "title": "PETG Translucent Gradient - Blue-White-Orange",
+    "updated_at": 1792797774873
   },
   {
     "RFID_Data": {
@@ -900,6 +1005,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFA500",
@@ -917,9 +1024,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange-Yellow",
     "product_type": "Filament",
+    "series": "PLA+ Gradient",
     "sku": "ISM-PLAPLUSGRAD-ORANGEYELLOW-1.75-1000",
-    "title": "PLA+ Gradient - Orange-Yellow"
+    "title": "PLA+ Gradient - Orange-Yellow",
+    "updated_at": 1792063586196
   },
   {
     "RFID_Data": {
@@ -945,6 +1055,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF",
@@ -962,9 +1074,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue-Red",
     "product_type": "Filament",
+    "series": "PLA+ Chameleon",
     "sku": "ISM-PLAPLUSCHAM-BLUERED-1.75-1000",
-    "title": "PLA+ Chameleon - Blue-Red"
+    "title": "PLA+ Chameleon - Blue-Red",
+    "updated_at": 1792063437571
   },
   {
     "RFID_Data": {
@@ -987,6 +1102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F15A22",
@@ -1003,9 +1120,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-ORANGE-1.75-1000",
-    "title": "PETG Matte - Orange"
+    "title": "PETG Matte - Orange",
+    "updated_at": 1792068308536
   },
   {
     "RFID_Data": {
@@ -1031,6 +1151,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF",
@@ -1048,9 +1170,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue-Purple",
     "product_type": "Filament",
+    "series": "PLA+ Gradient",
     "sku": "ISM-PLAPLUSGRAD-BLUEPURPLE-1.75-1000",
-    "title": "PLA+ Gradient - Blue-Purple"
+    "title": "PLA+ Gradient - Blue-Purple",
+    "updated_at": 1792063373074
   },
   {
     "RFID_Data": {
@@ -1073,6 +1198,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F03C3C",
@@ -1089,9 +1216,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "ISM-BASIC-RED-1.75-1000",
-    "title": "PLA Basic - Red"
+    "title": "PLA Basic - Red",
+    "updated_at": 1792063921250
   },
   {
     "RFID_Data": {
@@ -1114,6 +1244,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#AAAAAA",
@@ -1130,9 +1262,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "ISM-BASIC-GREY-1.75-1000",
-    "title": "PLA Basic - Grey"
+    "title": "PLA Basic - Grey",
+    "updated_at": 1792063455190
   },
   {
     "RFID_Data": {
@@ -1155,6 +1290,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#454547",
@@ -1171,9 +1308,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Charcoal Black",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-CHARCOALBLACK-1.75-1000",
-    "title": "PLA i6 Matte - Charcoal Black"
+    "title": "PLA i6 Matte - Charcoal Black",
+    "updated_at": 1792063404401
   },
   {
     "RFID_Data": {
@@ -1196,6 +1336,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#C4A48433",
@@ -1212,9 +1354,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Brown",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-LIGHTBROWN-1.75-1000",
-    "title": "PETG Transparent - Light Brown"
+    "title": "PETG Transparent - Light Brown",
+    "updated_at": 1792068363924
   },
   {
     "RFID_Data": {
@@ -1237,6 +1382,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -1253,9 +1400,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG Solid Color",
     "sku": "ISM-PETG-GREY-1.75-1000",
-    "title": "PETG Solid Color - Grey"
+    "title": "PETG Solid Color - Grey",
+    "updated_at": 1792068280547
   },
   {
     "RFID_Data": {
@@ -1281,6 +1431,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -1298,9 +1450,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black-Gold",
     "product_type": "Filament",
+    "series": "PLA Marble",
     "sku": "ISM-PLAMARBLE-BLACKGOLD-1.75-1000",
-    "title": "PLA Marble - Black-Gold"
+    "title": "PLA Marble - Black-Gold",
+    "updated_at": 1792063346982
   },
   {
     "RFID_Data": {
@@ -1323,6 +1478,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5DC3C",
@@ -1339,9 +1496,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Sunlight Yellow",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-SUNLIGHT-YELLOW-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - Sunlight Yellow"
+    "title": "High Speed PLA+ i6 Solid Color - Sunlight Yellow",
+    "updated_at": 1792068251119
   },
   {
     "RFID_Data": {
@@ -1364,6 +1524,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#7C8142",
@@ -1380,9 +1542,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-OLIVEGREEN-1.75-1000",
-    "title": "PETG Matte - Olive Green"
+    "title": "PETG Matte - Olive Green",
+    "updated_at": 1792068308533
   },
   {
     "RFID_Data": {
@@ -1411,6 +1576,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#80008033",
@@ -1430,9 +1597,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Rainbow 02",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-RAINBOW02-1.75-1000",
-    "title": "PETG Transparent - Rainbow 02"
+    "title": "PETG Transparent - Rainbow 02",
+    "updated_at": 1792797886371
   },
   {
     "RFID_Data": {
@@ -1455,6 +1625,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5F5DC",
@@ -1471,9 +1643,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PLA Glass Fiber",
     "sku": "ISM-PLAGF-NATURAL-1.75-1000",
-    "title": "PLA Glass Fiber - Natural"
+    "title": "PLA Glass Fiber - Natural",
+    "updated_at": 1792063576907
   },
   {
     "RFID_Data": {
@@ -1496,6 +1671,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#8A2BE2",
@@ -1512,9 +1689,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple-Green",
     "product_type": "Filament",
+    "series": "PLA UV Light Color Change",
     "sku": "ISM-PLAUV-PURPLEGREEN-1.75-1000",
-    "title": "PLA UV Light Color Change - Purple-Green"
+    "title": "PLA UV Light Color Change - Purple-Green",
+    "updated_at": 1792063893861
   },
   {
     "RFID_Data": {
@@ -1543,6 +1723,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFB6C1",
@@ -1561,9 +1743,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Pastel",
     "product_type": "Filament",
+    "series": "PLA+ Rainbow",
     "sku": "ISM-PLAPLUSRAINBOW-PASTEL-1.75-1000",
-    "title": "PLA+ Rainbow - Pastel"
+    "title": "PLA+ Rainbow - Pastel",
+    "updated_at": 1792797905902
   },
   {
     "RFID_Data": {
@@ -1586,6 +1771,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -1602,9 +1789,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-GRAY-1.75-1000",
-    "title": "PETG Matte - Grey"
+    "title": "PETG Matte - Grey",
+    "updated_at": 1792077639952
   },
   {
     "RFID_Data": {
@@ -1627,6 +1817,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -1643,9 +1835,12 @@
     "info3": false,
     "material": "PC-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PC Carbon Fiber",
     "sku": "ISM-PCCF-GREY-1.75-1000",
-    "title": "PC Carbon Fiber - Grey"
+    "title": "PC Carbon Fiber - Grey",
+    "updated_at": 1792063471709
   },
   {
     "RFID_Data": {
@@ -1668,6 +1863,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#1C1C1C",
@@ -1684,9 +1881,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Glass Fiber",
     "sku": "ISM-PETGGF-BLACK-1.75-1000",
-    "title": "PETG Glass Fiber - Black"
+    "title": "PETG Glass Fiber - Black",
+    "updated_at": 1792063330301
   },
   {
     "RFID_Data": {
@@ -1712,6 +1912,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#9FBF59",
@@ -1729,9 +1931,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold-Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-GOLD-GREEN-1.75-1000",
-    "title": "PLA Silk - Gold-Green"
+    "title": "PLA Silk - Gold-Green",
+    "updated_at": 1792063439467
   },
   {
     "RFID_Data": {
@@ -1754,6 +1959,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#32AA28",
@@ -1770,9 +1977,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "ISM-BASIC-GREEN-1.75-1000",
-    "title": "PLA Basic - Green"
+    "title": "PLA Basic - Green",
+    "updated_at": 1792063442375
   },
   {
     "RFID_Data": {
@@ -1795,6 +2005,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#416992",
@@ -1811,9 +2023,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Marine Blue",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-MARINEBLUE-1.75-1000",
-    "title": "PLA i6 Matte - Marine Blue"
+    "title": "PLA i6 Matte - Marine Blue",
+    "updated_at": 1792063523981
   },
   {
     "RFID_Data": {
@@ -1836,6 +2051,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5F5DC33",
@@ -1852,9 +2069,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Nature",
     "product_type": "Filament",
+    "series": "PETG Marble",
     "sku": "ISM-PETGMARBLE-NATURE-1.75-1000",
-    "title": "PETG Marble - Nature"
+    "title": "PETG Marble - Nature",
+    "updated_at": 1792068284336
   },
   {
     "RFID_Data": {
@@ -1877,6 +2097,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FF0000",
@@ -1893,9 +2115,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-RED-1.75-1000",
-    "title": "ASA Solid Color - Red"
+    "title": "ASA Solid Color - Red",
+    "updated_at": 1792068227525
   },
   {
     "RFID_Data": {
@@ -1918,6 +2143,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -1934,9 +2161,12 @@
     "info3": false,
     "material": "PAHT-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PAHT Carbon Fiber",
     "sku": "ISM-PAHTCF-BLACK-1.75-1000",
-    "title": "PAHT Carbon Fiber - Black"
+    "title": "PAHT Carbon Fiber - Black",
+    "updated_at": 1792063302103
   },
   {
     "RFID_Data": {
@@ -1959,6 +2189,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#008000",
@@ -1975,9 +2207,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-GREEN-1.75-1000",
-    "title": "ASA Solid Color - Green"
+    "title": "ASA Solid Color - Green",
+    "updated_at": 1792068219919
   },
   {
     "RFID_Data": {
@@ -2000,6 +2235,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF33",
@@ -2016,9 +2253,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-BLUE-1.75-1000",
-    "title": "PETG Transparent - Blue"
+    "title": "PETG Transparent - Blue",
+    "updated_at": 1792068344162
   },
   {
     "RFID_Data": {
@@ -2041,6 +2281,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -2057,9 +2299,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "TPU 85A",
     "sku": "ISM-TPU85A-BLACK-1.75-1000",
-    "title": "TPU 85A - Black"
+    "title": "TPU 85A - Black",
+    "updated_at": 1792063299395
   },
   {
     "RFID_Data": {
@@ -2085,6 +2330,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFC0CB33",
@@ -2102,9 +2349,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink-White",
     "product_type": "Filament",
+    "series": "PETG Translucent Gradient",
     "sku": "ISM-PETGTLGRAD-PINKWHITE-1.75-1000",
-    "title": "PETG Translucent Gradient - Pink-White"
+    "title": "PETG Translucent Gradient - Pink-White",
+    "updated_at": 1792797962775
   },
   {
     "RFID_Data": {
@@ -2130,6 +2380,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#AF9948",
@@ -2147,9 +2399,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold-Black",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-GOLD-BLACK-1.75-1000",
-    "title": "PLA Silk - Gold-Black"
+    "title": "PLA Silk - Gold-Black",
+    "updated_at": 1792063426000
   },
   {
     "RFID_Data": {
@@ -2172,6 +2427,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#B5C26E",
@@ -2188,9 +2445,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-OLIVE-GREEN-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - Olive Green"
+    "title": "High Speed PLA+ i6 Solid Color - Olive Green",
+    "updated_at": 1792068246909
   },
   {
     "RFID_Data": {
@@ -2213,6 +2473,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -2229,9 +2491,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PDS Opaque",
     "sku": "ISM-PDSOP-BLACK-1.75-1000",
-    "title": "PDS Opaque - Black"
+    "title": "PDS Opaque - Black",
+    "updated_at": 1792063306980
   },
   {
     "RFID_Data": {
@@ -2254,6 +2519,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#964B00",
@@ -2270,9 +2537,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-BROWN-1.75-1000",
-    "title": "PLA i7+ Solid Color - Brown"
+    "title": "PLA i7+ Solid Color - Brown",
+    "updated_at": 1792068392662
   },
   {
     "RFID_Data": {
@@ -2298,6 +2568,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#1A1A1A",
@@ -2315,9 +2587,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black-Purple",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-BLACK-PURPLE-1.75-1000",
-    "title": "PLA Silk - Black-Purple"
+    "title": "PLA Silk - Black-Purple",
+    "updated_at": 1792063345200
   },
   {
     "RFID_Data": {
@@ -2340,6 +2615,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5F5F5",
@@ -2356,9 +2633,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PLA Transparent",
     "sku": "ISM-PLA-TRANSPARENT-CLEAR-1.75-1000",
-    "title": "PLA Transparent - Clear"
+    "title": "PLA Transparent - Clear",
+    "updated_at": 1792063413968
   },
   {
     "RFID_Data": {
@@ -2381,6 +2661,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#915C49",
@@ -2397,9 +2679,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brick Red",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-BRICKRED-1.75-1000",
-    "title": "PLA i6 Matte - Brick Red"
+    "title": "PLA i6 Matte - Brick Red",
+    "updated_at": 1792063393476
   },
   {
     "RFID_Data": {
@@ -2422,6 +2707,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -2438,9 +2725,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ABS Carbon Fiber",
     "sku": "ISM-ABSCF-GREY-1.75-1000",
-    "title": "ABS Carbon Fiber - Grey"
+    "title": "ABS Carbon Fiber - Grey",
+    "updated_at": 1792063448001
   },
   {
     "RFID_Data": {
@@ -2463,6 +2753,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -2479,9 +2771,12 @@
     "info3": false,
     "material": "PP",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PP Filament",
     "sku": "ISM-PP-BLACK-1.75-1000",
-    "title": "PP Filament - Black"
+    "title": "PP Filament - Black",
+    "updated_at": 1792063321306
   },
   {
     "RFID_Data": {
@@ -2507,6 +2802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#935563",
@@ -2524,9 +2821,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red-Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-RED-GREEN-1.75-1000",
-    "title": "PLA Silk - Red-Green"
+    "title": "PLA Silk - Red-Green",
+    "updated_at": 1792063942736
   },
   {
     "RFID_Data": {
@@ -2555,6 +2855,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFF0033",
@@ -2573,9 +2875,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow-Red-Black",
     "product_type": "Filament",
+    "series": "PETG Transparent Gradient",
     "sku": "ISM-PETGTRGRAD-YELLOWREDBLACK-1.75-1000",
-    "title": "PETG Transparent Gradient - Yellow-Red-Black"
+    "title": "PETG Transparent Gradient - Yellow-Red-Black",
+    "updated_at": 1792798037304
   },
   {
     "RFID_Data": {
@@ -2598,6 +2903,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#D2691E",
@@ -2614,9 +2921,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "ISM-PEI-NATURAL-1.75-1000",
-    "title": "PEI - Natural"
+    "title": "PEI - Natural",
+    "updated_at": 1792063530871
   },
   {
     "RFID_Data": {
@@ -2639,6 +2949,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#A75C35",
@@ -2655,9 +2967,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red Bronze",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-RED-BRONZE-1.75-1000",
-    "title": "PLA Silk - Red Bronze"
+    "title": "PLA Silk - Red Bronze",
+    "updated_at": 1792063925149
   },
   {
     "RFID_Data": {
@@ -2683,6 +2998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#A05976",
@@ -2700,9 +3017,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red-Purple",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-RED-PURPLE-1.75-1000",
-    "title": "PLA Silk - Red-Purple"
+    "title": "PLA Silk - Red-Purple",
+    "updated_at": 1792063942759
   },
   {
     "RFID_Data": {
@@ -2728,6 +3048,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#AF9948",
@@ -2745,9 +3067,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold-Red",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-GOLD-RED-1.75-1000",
-    "title": "PLA Silk - Gold-Red"
+    "title": "PLA Silk - Gold-Red",
+    "updated_at": 1792063434861
   },
   {
     "RFID_Data": {
@@ -2770,6 +3095,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -2786,9 +3113,12 @@
     "info3": false,
     "material": "PEI-1010",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PEI",
     "sku": "ISM-PEI-BLACK-1.75-1000",
-    "title": "PEI - Black"
+    "title": "PEI - Black",
+    "updated_at": 1792063324259
   },
   {
     "RFID_Data": {
@@ -2811,6 +3141,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -2827,9 +3159,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Solid Color",
     "sku": "ISM-PETG-BLACK-1.75-1000",
-    "title": "PETG Solid Color - Black"
+    "title": "PETG Solid Color - Black",
+    "updated_at": 1792068264231
   },
   {
     "RFID_Data": {
@@ -2855,6 +3190,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF33",
@@ -2872,9 +3209,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue-Purple",
     "product_type": "Filament",
+    "series": "PETG Clear Glitter",
     "sku": "ISM-PETGCLGLIT-BLUEPURPLE-1.75-1000",
-    "title": "PETG Clear Glitter - Blue-Purple"
+    "title": "PETG Clear Glitter - Blue-Purple",
+    "updated_at": 1792068266745
   },
   {
     "RFID_Data": {
@@ -2897,6 +3237,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -2913,9 +3255,12 @@
     "info3": false,
     "material": "PP-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PP Carbon Fiber",
     "sku": "ISM-PPCF-BLACK-1.75-1000",
-    "title": "PP Carbon Fiber - Black"
+    "title": "PP Carbon Fiber - Black",
+    "updated_at": 1792063318387
   },
   {
     "RFID_Data": {
@@ -2938,6 +3283,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -2954,9 +3301,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS Solid Color",
     "sku": "ISM-ABS-BLACK-1.75-1000",
-    "title": "ABS Solid Color - Black"
+    "title": "ABS Solid Color - Black",
+    "updated_at": 1792068195710
   },
   {
     "RFID_Data": {
@@ -2979,6 +3329,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF",
@@ -2995,9 +3347,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Colorful Carbon Fiber",
     "sku": "ISM-PETGCOLORCF-BLUE-1.75-1000",
-    "title": "PETG Colorful Carbon Fiber - Blue"
+    "title": "PETG Colorful Carbon Fiber - Blue",
+    "updated_at": 1792063357213
   },
   {
     "RFID_Data": {
@@ -3020,6 +3375,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#D7C048",
@@ -3036,9 +3393,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lemon Yellow",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-LEMONYELLOW-1.75-1000",
-    "title": "PLA i6 Matte - Lemon Yellow"
+    "title": "PLA i6 Matte - Lemon Yellow",
+    "updated_at": 1792063509685
   },
   {
     "RFID_Data": {
@@ -3061,6 +3421,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#CCFF0033",
@@ -3077,9 +3439,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Fluorescent Green",
     "product_type": "Filament",
+    "series": "PETG Clear Glitter",
     "sku": "ISM-PETGCLGLIT-FLUORESCENTGREEN-1.75-1000",
-    "title": "PETG Clear Glitter - Fluorescent Green"
+    "title": "PETG Clear Glitter - Fluorescent Green",
+    "updated_at": 1792068270422
   },
   {
     "RFID_Data": {
@@ -3102,6 +3467,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F0839E",
@@ -3118,9 +3485,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-PINK-1.75-1000",
-    "title": "PETG Matte - Pink"
+    "title": "PETG Matte - Pink",
+    "updated_at": 1792068312257
   },
   {
     "RFID_Data": {
@@ -3143,6 +3513,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FF0000",
@@ -3159,9 +3531,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "ABS Solid Color",
     "sku": "ISM-ABS-RED-1.75-1000",
-    "title": "ABS Solid Color - Red"
+    "title": "ABS Solid Color - Red",
+    "updated_at": 1792068207418
   },
   {
     "RFID_Data": {
@@ -3184,6 +3559,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#008000",
@@ -3200,9 +3577,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "ABS Solid Color",
     "sku": "ISM-ABS-GREEN-1.75-1000",
-    "title": "ABS Solid Color - Green"
+    "title": "ABS Solid Color - Green",
+    "updated_at": 1792068203123
   },
   {
     "RFID_Data": {
@@ -3225,6 +3605,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5DEB3",
@@ -3241,9 +3623,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "ABS Glass Fiber",
     "sku": "ISM-ABSGF-NATURAL-1.75-1000",
-    "title": "ABS Glass Fiber - Natural"
+    "title": "ABS Glass Fiber - Natural",
+    "updated_at": 1792063589992
   },
   {
     "RFID_Data": {
@@ -3266,6 +3651,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -3282,9 +3669,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-WHITE-1.75-1000",
-    "title": "PETG Matte - White"
+    "title": "PETG Matte - White",
+    "updated_at": 1792068316156
   },
   {
     "RFID_Data": {
@@ -3307,6 +3697,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F0C8A0",
@@ -3323,9 +3715,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-SKIN-1.75-1000",
-    "title": "PETG Matte - Skin"
+    "title": "PETG Matte - Skin",
+    "updated_at": 1792068316212
   },
   {
     "RFID_Data": {
@@ -3348,6 +3743,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5F5DC",
@@ -3364,9 +3761,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PETG Glass Fiber",
     "sku": "ISM-PETGGF-NATURAL-1.75-1000",
-    "title": "PETG Glass Fiber - Natural"
+    "title": "PETG Glass Fiber - Natural",
+    "updated_at": 1792063536968
   },
   {
     "RFID_Data": {
@@ -3395,6 +3795,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#3F5FE0",
@@ -3413,9 +3815,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Classic",
     "product_type": "Filament",
+    "series": "HS-PLA Rainbow",
     "sku": "ISM-HSPLA-RAINBOW-CLASSIC-1.75-1000",
-    "title": "HS-PLA Rainbow - Classic"
+    "title": "HS-PLA Rainbow - Classic",
+    "updated_at": 1792797291978
   },
   {
     "RFID_Data": {
@@ -3438,6 +3843,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#7C65A1",
@@ -3454,9 +3861,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lavender Purple",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-LAVENDERPURPLE-1.75-1000",
-    "title": "PLA i6 Matte - Lavender Purple"
+    "title": "PLA i6 Matte - Lavender Purple",
+    "updated_at": 1792063518264
   },
   {
     "RFID_Data": {
@@ -3479,6 +3889,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#C775C5",
@@ -3495,9 +3907,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-PURPLE-1.75-1000",
-    "title": "PLA Silk - Purple"
+    "title": "PLA Silk - Purple",
+    "updated_at": 1792063901535
   },
   {
     "RFID_Data": {
@@ -3526,6 +3941,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFF0033",
@@ -3544,9 +3961,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow-Purple-Blue",
     "product_type": "Filament",
+    "series": "PETG Transparent Gradient",
     "sku": "ISM-PETGTRGRAD-YELLOWPURPLEBLUE-1.75-1000",
-    "title": "PETG Transparent Gradient - Yellow-Purple-Blue"
+    "title": "PETG Transparent Gradient - Yellow-Purple-Blue",
+    "updated_at": 1792798176262
   },
   {
     "RFID_Data": {
@@ -3569,6 +3989,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#96727D",
@@ -3585,9 +4007,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sakura Pink",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-SAKURAPINK-1.75-1000",
-    "title": "PLA i6 Matte - Sakura Pink"
+    "title": "PLA i6 Matte - Sakura Pink",
+    "updated_at": 1792063964438
   },
   {
     "RFID_Data": {
@@ -3610,6 +4035,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -3626,9 +4053,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-WHITE-1.75-1000",
-    "title": "PLA i6 Matte - White"
+    "title": "PLA i6 Matte - White",
+    "updated_at": 1792063996622
   },
   {
     "RFID_Data": {
@@ -3651,6 +4081,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFB6C133",
@@ -3667,9 +4099,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Pink",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-LIGHTPINK-1.75-1000",
-    "title": "PETG Transparent - Light Pink"
+    "title": "PETG Transparent - Light Pink",
+    "updated_at": 1792068367255
   },
   {
     "RFID_Data": {
@@ -3692,6 +4127,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#BEAA6E",
@@ -3708,9 +4145,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Vera wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "ISM-WOOD-VERA-1.75-1000",
-    "title": "PLA Wood - Vera wood"
+    "title": "PLA Wood - Vera wood",
+    "updated_at": 1792063992826
   },
   {
     "RFID_Data": {
@@ -3736,6 +4176,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFF0033",
@@ -3753,9 +4195,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow-Green",
     "product_type": "Filament",
+    "series": "PETG Translucent Gradient",
     "sku": "ISM-PETGTLGRAD-YELLOWGREEN-1.75-1000",
-    "title": "PETG Translucent Gradient - Yellow-Green"
+    "title": "PETG Translucent Gradient - Yellow-Green",
+    "updated_at": 1792798230271
   },
   {
     "RFID_Data": {
@@ -3778,6 +4223,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -3794,9 +4241,12 @@
     "info3": false,
     "material": "PEEK",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PEEK",
     "sku": "ISM-PEEK-BLACK-1.75-1000",
-    "title": "PEEK - Black"
+    "title": "PEEK - Black",
+    "updated_at": 1792063316003
   },
   {
     "RFID_Data": {
@@ -3819,6 +4269,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#568AA2",
@@ -3835,9 +4287,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sky Blue",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-SKYBLUE-1.75-1000",
-    "title": "PLA i6 Matte - Sky Blue"
+    "title": "PLA i6 Matte - Sky Blue",
+    "updated_at": 1792063978053
   },
   {
     "RFID_Data": {
@@ -3866,6 +4321,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#D81F2633",
@@ -3885,9 +4342,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Rainbow",
     "product_type": "Filament",
+    "series": "PETG Clear Glitter",
     "sku": "ISM-PETGCLGLIT-RAINBOW-1.75-1000",
-    "title": "PETG Clear Glitter - Rainbow"
+    "title": "PETG Clear Glitter - Rainbow",
+    "updated_at": 1792798251576
   },
   {
     "RFID_Data": {
@@ -3910,6 +4370,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#C9A8E0",
@@ -3926,9 +4388,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Taro Purple",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-TARO-PURPLE-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - Taro Purple"
+    "title": "High Speed PLA+ i6 Solid Color - Taro Purple",
+    "updated_at": 1792068254941
   },
   {
     "RFID_Data": {
@@ -3951,6 +4416,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -3967,9 +4434,12 @@
     "info3": false,
     "material": "PC-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PC Carbon Fiber",
     "sku": "ISM-PCCF-BLACK-1.75-1000",
-    "title": "PC Carbon Fiber - Black"
+    "title": "PC Carbon Fiber - Black",
+    "updated_at": 1792063324205
   },
   {
     "RFID_Data": {
@@ -3992,6 +4462,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFA500",
@@ -4008,9 +4480,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-ORANGE-1.75-1000",
-    "title": "ASA Solid Color - Orange"
+    "title": "ASA Solid Color - Orange",
+    "updated_at": 1792068223536
   },
   {
     "RFID_Data": {
@@ -4033,6 +4508,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -4049,9 +4526,12 @@
     "info3": false,
     "material": "PPSU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PPSU",
     "sku": "ISM-PPSU-BLACK-1.75-1000",
-    "title": "PPSU - Black"
+    "title": "PPSU - Black",
+    "updated_at": 1792063327606
   },
   {
     "RFID_Data": {
@@ -4074,6 +4554,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -4090,9 +4572,12 @@
     "info3": false,
     "material": "PP-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PP Carbon Fiber",
     "sku": "ISM-PPCF-GREY-1.75-1000",
-    "title": "PP Carbon Fiber - Grey"
+    "title": "PP Carbon Fiber - Grey",
+    "updated_at": 1792063465619
   },
   {
     "RFID_Data": {
@@ -4115,6 +4600,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#6B4226",
@@ -4131,9 +4618,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-BROWN-1.75-1000",
-    "title": "PETG Matte - Brown"
+    "title": "PETG Matte - Brown",
+    "updated_at": 1792068299453
   },
   {
     "RFID_Data": {
@@ -4156,6 +4646,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#D2B48C",
@@ -4172,9 +4664,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-BEIGE-1.75-1000",
-    "title": "PLA i6 Matte - Beige"
+    "title": "PLA i6 Matte - Beige",
+    "updated_at": 1792063302680
   },
   {
     "RFID_Data": {
@@ -4203,6 +4698,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFF0033",
@@ -4221,9 +4718,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow-Green-Red",
     "product_type": "Filament",
+    "series": "PETG Transparent Gradient",
     "sku": "ISM-PETGTRGRAD-YELLOWGREENRED-1.75-1000",
-    "title": "PETG Transparent Gradient - Yellow-Green-Red"
+    "title": "PETG Transparent Gradient - Yellow-Green-Red",
+    "updated_at": 1792798312191
   },
   {
     "RFID_Data": {
@@ -4246,6 +4746,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -4262,9 +4764,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-BLACK-1.75-1000",
-    "title": "PLA i7+ Solid Color - Black"
+    "title": "PLA i7+ Solid Color - Black",
+    "updated_at": 1792068388240
   },
   {
     "RFID_Data": {
@@ -4287,6 +4792,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#A58B74",
@@ -4303,9 +4810,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-SKIN-1.75-1000",
-    "title": "PLA i6 Matte - Skin"
+    "title": "PLA i6 Matte - Skin",
+    "updated_at": 1792063975034
   },
   {
     "RFID_Data": {
@@ -4328,6 +4838,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -4344,9 +4856,12 @@
     "info3": false,
     "material": "ABS-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ABS Glass Fiber",
     "sku": "ISM-ABSGF-BLACK-1.75-1000",
-    "title": "ABS Glass Fiber - Black"
+    "title": "ABS Glass Fiber - Black",
+    "updated_at": 1792063376298
   },
   {
     "RFID_Data": {
@@ -4369,6 +4884,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#70809033",
@@ -4385,9 +4902,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Smoke Grey",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-SMOKEGREY-1.75-1000",
-    "title": "PETG Transparent - Smoke Grey"
+    "title": "PETG Transparent - Smoke Grey",
+    "updated_at": 1792068379616
   },
   {
     "RFID_Data": {
@@ -4410,6 +4930,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#87CEFA",
@@ -4426,9 +4948,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue-White",
     "product_type": "Filament",
+    "series": "PLA Temp Color Change",
     "sku": "ISM-PLATEMP-BLUEWHITE-1.75-1000",
-    "title": "PLA Temp Color Change - Blue-White"
+    "title": "PLA Temp Color Change - Blue-White",
+    "updated_at": 1792063384564
   },
   {
     "RFID_Data": {
@@ -4451,6 +4976,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFF00",
@@ -4467,9 +4994,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG Solid Color",
     "sku": "ISM-PETG-YELLOW-1.75-1000",
-    "title": "PETG Solid Color - Yellow"
+    "title": "PETG Solid Color - Yellow",
+    "updated_at": 1792068384544
   },
   {
     "RFID_Data": {
@@ -4492,6 +5022,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -4508,9 +5040,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-BLACK-1.75-1000",
-    "title": "PETG Matte - Black"
+    "title": "PETG Matte - Black",
+    "updated_at": 1792068287927
   },
   {
     "RFID_Data": {
@@ -4533,6 +5068,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#626F45",
@@ -4549,9 +5086,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-ARMYGREEN-1.75-1000",
-    "title": "PLA i6 Matte - Army Green"
+    "title": "PLA i6 Matte - Army Green",
+    "updated_at": 1792063300902
   },
   {
     "RFID_Data": {
@@ -4574,6 +5114,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#AA8C6E",
@@ -4590,9 +5132,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Multicolor wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "ISM-WOOD-MULTI-1.75-1000",
-    "title": "PLA Wood - Multicolor wood"
+    "title": "PLA Wood - Multicolor wood",
+    "updated_at": 1792063520911
   },
   {
     "RFID_Data": {
@@ -4618,6 +5163,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF33",
@@ -4635,9 +5182,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue-Purple",
     "product_type": "Filament",
+    "series": "PETG Translucent Gradient",
     "sku": "ISM-PETGTLGRAD-BLUEPURPLE-1.75-1000",
-    "title": "PETG Translucent Gradient - Blue-Purple"
+    "title": "PETG Translucent Gradient - Blue-Purple",
+    "updated_at": 1792798920868
   },
   {
     "RFID_Data": {
@@ -4660,6 +5210,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5F5F5",
@@ -4676,9 +5228,12 @@
     "info3": false,
     "material": "PP",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PP Filament",
     "sku": "ISM-PP-NATURAL-1.75-1000",
-    "title": "PP Filament - Natural"
+    "title": "PP Filament - Natural",
+    "updated_at": 1792063552173
   },
   {
     "RFID_Data": {
@@ -4701,6 +5256,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#E99B92",
@@ -4717,9 +5274,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-PINK-1.75-1000",
-    "title": "PLA Silk - Pink"
+    "title": "PLA Silk - Pink",
+    "updated_at": 1792063888412
   },
   {
     "RFID_Data": {
@@ -4742,6 +5302,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#B9A89D",
@@ -4758,9 +5320,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "White pine wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "ISM-WOOD-WHITEPINE-1.75-1000",
-    "title": "PLA Wood - White pine wood"
+    "title": "PLA Wood - White pine wood",
+    "updated_at": 1792064013345
   },
   {
     "RFID_Data": {
@@ -4783,6 +5348,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#4F8E7C",
@@ -4799,9 +5366,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Emerald Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-EMERALD-GREEN-1.75-1000",
-    "title": "PLA Silk - Emerald Green"
+    "title": "PLA Silk - Emerald Green",
+    "updated_at": 1792063420996
   },
   {
     "RFID_Data": {
@@ -4827,6 +5397,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#C9B82F",
@@ -4844,9 +5416,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Yellow-Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-YELLOW-BLUE-1.75-1000",
-    "title": "PLA Silk - Yellow-Blue"
+    "title": "PLA Silk - Yellow-Blue",
+    "updated_at": 1792064033241
   },
   {
     "RFID_Data": {
@@ -4872,6 +5447,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#D5596C",
@@ -4889,9 +5466,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rose Red-Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-ROSE-RED-GOLD-A-1.75-1000",
-    "title": "PLA Silk - Rose Red-Gold"
+    "title": "PLA Silk - Rose Red-Gold",
+    "updated_at": 1792063954509
   },
   {
     "RFID_Data": {
@@ -4914,6 +5494,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -4930,9 +5512,12 @@
     "info3": false,
     "material": "ASA-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA Glass Fiber",
     "sku": "ISM-ASAGF-BLACK-1.75-1000",
-    "title": "ASA Glass Fiber - Black"
+    "title": "ASA Glass Fiber - Black",
+    "updated_at": 1792063330308
   },
   {
     "RFID_Data": {
@@ -4955,6 +5540,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#B70306",
@@ -4971,9 +5558,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-RED-1.75-1000",
-    "title": "PLA Silk - Red"
+    "title": "PLA Silk - Red",
+    "updated_at": 1792063934431
   },
   {
     "RFID_Data": {
@@ -4999,6 +5589,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Rainbow",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#E63946",
@@ -5016,9 +5608,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Bright",
     "product_type": "Filament",
+    "series": "HS-PLA Matte Rainbow",
     "sku": "ISM-HSPLA-MATTERAINBOW-BRIGHT-1.75-1000",
-    "title": "HS-PLA Matte Rainbow - Bright"
+    "title": "HS-PLA Matte Rainbow - Bright",
+    "updated_at": 1792799023581
   },
   {
     "RFID_Data": {
@@ -5041,6 +5636,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#CC3D3F",
@@ -5057,9 +5654,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Clown Red",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-CLOWNRED-1.75-1000",
-    "title": "PLA i6 Matte - Clown Red"
+    "title": "PLA i6 Matte - Clown Red",
+    "updated_at": 1792063419406
   },
   {
     "RFID_Data": {
@@ -5082,6 +5682,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#5D4E46",
@@ -5098,9 +5700,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-BROWN-1.75-1000",
-    "title": "PLA i6 Matte - Brown"
+    "title": "PLA i6 Matte - Brown",
+    "updated_at": 1792063402777
   },
   {
     "RFID_Data": {
@@ -5123,6 +5728,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -5139,9 +5746,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-GREY-1.75-1000",
-    "title": "PLA i7+ Solid Color - Grey"
+    "title": "PLA i7+ Solid Color - Grey",
+    "updated_at": 1792068395933
   },
   {
     "RFID_Data": {
@@ -5164,6 +5774,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#BB9982",
@@ -5180,9 +5792,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Yellow pear wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "ISM-WOOD-YELLOWPEAR-1.75-1000",
-    "title": "PLA Wood - Yellow pear wood"
+    "title": "PLA Wood - Yellow pear wood",
+    "updated_at": 1792064017464
   },
   {
     "RFID_Data": {
@@ -5208,6 +5823,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -5225,9 +5842,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White-Grey",
     "product_type": "Filament",
+    "series": "ASA Marble",
     "sku": "ISM-ASAMARBLE-WHITEGREY-1.75-1000",
-    "title": "ASA Marble - White-Grey"
+    "title": "ASA Marble - White-Grey",
+    "updated_at": 1792064017424
   },
   {
     "RFID_Data": {
@@ -5250,6 +5870,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFC0CB",
@@ -5266,9 +5888,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-PINK-1.75-1000",
-    "title": "PLA i7+ Solid Color - Pink"
+    "title": "PLA i7+ Solid Color - Pink",
+    "updated_at": 1792068400328
   },
   {
     "RFID_Data": {
@@ -5291,6 +5916,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#856B50",
@@ -5307,9 +5934,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Latte Brown",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-LATTEBROWN-1.75-1000",
-    "title": "PLA i6 Matte - Latte Brown"
+    "title": "PLA i6 Matte - Latte Brown",
+    "updated_at": 1792063505266
   },
   {
     "RFID_Data": {
@@ -5332,6 +5962,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF",
@@ -5348,9 +5980,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-BLUE-1.75-1000",
-    "title": "PLA i7+ Solid Color - Blue"
+    "title": "PLA i7+ Solid Color - Blue",
+    "updated_at": 1792068388319
   },
   {
     "RFID_Data": {
@@ -5373,6 +6008,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F0D200",
@@ -5389,9 +6026,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "ISM-BASIC-YELLOW-1.75-1000",
-    "title": "PLA Basic - Yellow"
+    "title": "PLA Basic - Yellow",
+    "updated_at": 1792064020321
   },
   {
     "RFID_Data": {
@@ -5414,6 +6054,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F0F8FF",
@@ -5430,9 +6072,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PDS Translucent",
     "sku": "ISM-PDSTL-CLEAR-1.75-1000",
-    "title": "PDS Translucent - Clear"
+    "title": "PDS Translucent - Clear",
+    "updated_at": 1792063413588
   },
   {
     "RFID_Data": {
@@ -5455,6 +6100,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#ADD8E633",
@@ -5471,9 +6118,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-LIGHTBLUE-1.75-1000",
-    "title": "PETG Transparent - Light Blue"
+    "title": "PETG Transparent - Light Blue",
+    "updated_at": 1792068363932
   },
   {
     "RFID_Data": {
@@ -5496,6 +6146,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#D2B48C",
@@ -5512,9 +6164,12 @@
     "info3": false,
     "material": "PEEK",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PEEK",
     "sku": "ISM-PEEK-NATURAL-1.75-1000",
-    "title": "PEEK - Natural"
+    "title": "PEEK - Natural",
+    "updated_at": 1792063546007
   },
   {
     "RFID_Data": {
@@ -5537,6 +6192,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0078C8",
@@ -5553,9 +6210,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "ISM-BASIC-BLUE-1.75-1000",
-    "title": "PLA Basic - Blue"
+    "title": "PLA Basic - Blue",
+    "updated_at": 1792063365275
   },
   {
     "RFID_Data": {
@@ -5578,6 +6238,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FA783C",
@@ -5594,9 +6256,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "ISM-BASIC-ORANGE-1.75-1000",
-    "title": "PLA Basic - Orange"
+    "title": "PLA Basic - Orange",
+    "updated_at": 1792063584118
   },
   {
     "RFID_Data": {
@@ -5619,6 +6284,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#5C6940",
@@ -5635,9 +6302,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-ARMYGREEN-1.75-1000",
-    "title": "PETG Matte - Army Green"
+    "title": "PETG Matte - Army Green",
+    "updated_at": 1792068284328
   },
   {
     "RFID_Data": {
@@ -5663,6 +6333,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF33",
@@ -5680,9 +6352,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue-Orange",
     "product_type": "Filament",
+    "series": "PETG Transparent Gradient",
     "sku": "ISM-PETGTRGRAD-BLUEORANGE-1.75-1000",
-    "title": "PETG Transparent Gradient - Blue-Orange"
+    "title": "PETG Transparent Gradient - Blue-Orange",
+    "updated_at": 1792799117867
   },
   {
     "RFID_Data": {
@@ -5705,6 +6380,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -5721,9 +6398,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ABS Solid Color",
     "sku": "ISM-ABS-WHITE-1.75-1000",
-    "title": "ABS Solid Color - White"
+    "title": "ABS Solid Color - White",
+    "updated_at": 1792068209427
   },
   {
     "RFID_Data": {
@@ -5746,6 +6426,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#ADD8E6",
@@ -5762,9 +6444,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Clear Glitter",
     "sku": "ISM-PLACLGLIT-BLUE-1.75-1000",
-    "title": "PLA Clear Glitter - Blue"
+    "title": "PLA Clear Glitter - Blue",
+    "updated_at": 1792068234118
   },
   {
     "RFID_Data": {
@@ -5787,6 +6472,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#70809033",
@@ -5803,9 +6490,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Smoke Grey",
     "product_type": "Filament",
+    "series": "PETG Clear Glitter",
     "sku": "ISM-PETGCLGLIT-SMOKEGREY-1.75-1000",
-    "title": "PETG Clear Glitter - Smoke Grey"
+    "title": "PETG Clear Glitter - Smoke Grey",
+    "updated_at": 1792068275647
   },
   {
     "RFID_Data": {
@@ -5831,6 +6521,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#B06B75",
@@ -5848,9 +6540,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rose Red-Green",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-ROSE-RED-GREEN-1.75-1000",
-    "title": "PLA Silk - Rose Red-Green"
+    "title": "PLA Silk - Rose Red-Green",
+    "updated_at": 1792063958037
   },
   {
     "RFID_Data": {
@@ -5873,6 +6568,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#4FC3F7",
@@ -5889,9 +6586,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA Glow",
     "sku": "ISM-PLAGLOW-BLUE-1.75-1000",
-    "title": "PLA Glow - Blue"
+    "title": "PLA Glow - Blue",
+    "updated_at": 1792797296869
   },
   {
     "RFID_Data": {
@@ -5917,6 +6617,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#436AAF",
@@ -5934,9 +6636,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue-Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-BLUE-SILVER-1.75-1000",
-    "title": "PLA Silk - Blue-Silver"
+    "title": "PLA Silk - Blue-Silver",
+    "updated_at": 1792063380719
   },
   {
     "RFID_Data": {
@@ -5959,6 +6664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#E8384F",
@@ -5975,9 +6682,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Berry Red",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-BERRY-RED-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - Berry Red"
+    "title": "High Speed PLA+ i6 Solid Color - Berry Red",
+    "updated_at": 1792068239922
   },
   {
     "RFID_Data": {
@@ -6000,6 +6710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5821F",
@@ -6016,9 +6728,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Pumpkin Orange",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-PUMPKIN-ORANGE-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - Pumpkin Orange"
+    "title": "High Speed PLA+ i6 Solid Color - Pumpkin Orange",
+    "updated_at": 1792068248210
   },
   {
     "RFID_Data": {
@@ -6041,6 +6756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#A9A9A9",
@@ -6057,9 +6774,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Smoke Grey",
     "product_type": "Filament",
+    "series": "PLA Transparent",
     "sku": "ISM-PLA-TRANSPARENT-SMOKEGREY-1.75-1000",
-    "title": "PLA Transparent - Smoke Grey"
+    "title": "PLA Transparent - Smoke Grey",
+    "updated_at": 1792063991122
   },
   {
     "RFID_Data": {
@@ -6082,6 +6802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FF0000",
@@ -6098,9 +6820,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "TPU 85A",
     "sku": "ISM-TPU85A-RED-1.75-1000",
-    "title": "TPU 85A - Red"
+    "title": "TPU 85A - Red",
+    "updated_at": 1792063923343
   },
   {
     "RFID_Data": {
@@ -6123,6 +6848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#00C85333",
@@ -6139,9 +6866,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-GREEN-1.75-1000",
-    "title": "PETG Transparent - Green"
+    "title": "PETG Transparent - Green",
+    "updated_at": 1792068359740
   },
   {
     "RFID_Data": {
@@ -6164,6 +6894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#3A3A9E",
@@ -6180,9 +6912,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-BLUE-1.75-1000",
-    "title": "PETG Matte - Blue"
+    "title": "PETG Matte - Blue",
+    "updated_at": 1792068299516
   },
   {
     "RFID_Data": {
@@ -6205,6 +6940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F0BE6E",
@@ -6221,9 +6958,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Box wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "ISM-WOOD-BOX-1.75-1000",
-    "title": "PLA Wood - Box wood"
+    "title": "PLA Wood - Box wood",
+    "updated_at": 1792063400394
   },
   {
     "RFID_Data": {
@@ -6246,6 +6986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#AEEBC8",
@@ -6262,9 +7004,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Spring Green",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-SPRING-GREEN-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - Spring Green"
+    "title": "High Speed PLA+ i6 Solid Color - Spring Green",
+    "updated_at": 1792068248314
   },
   {
     "RFID_Data": {
@@ -6287,6 +7032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -6303,9 +7050,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-WHITE-1.75-1000",
-    "title": "PLA i7+ Solid Color - White"
+    "title": "PLA i7+ Solid Color - White",
+    "updated_at": 1792068403450
   },
   {
     "RFID_Data": {
@@ -6334,6 +7084,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#3F5FE0",
@@ -6352,9 +7104,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Classic",
     "product_type": "Filament",
+    "series": "PLA Rainbow",
     "sku": "ISM-PLARAINBOW-CLASSIC-1.75-1000",
-    "title": "PLA Rainbow - Classic"
+    "title": "PLA Rainbow - Classic",
+    "updated_at": 1792797296916
   },
   {
     "RFID_Data": {
@@ -6377,6 +7132,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -6393,9 +7150,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PA6 Carbon Fiber",
     "sku": "ISM-PA6CF-GREY-1.75-1000",
-    "title": "PA6 Carbon Fiber - Grey"
+    "title": "PA6 Carbon Fiber - Grey",
+    "updated_at": 1792063455060
   },
   {
     "RFID_Data": {
@@ -6418,6 +7178,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#9370DB",
@@ -6434,9 +7196,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple-Pink",
     "product_type": "Filament",
+    "series": "PLA Temp Color Change",
     "sku": "ISM-PLATEMP-PURPLEPINK-1.75-1000",
-    "title": "PLA Temp Color Change - Purple-Pink"
+    "title": "PLA Temp Color Change - Purple-Pink",
+    "updated_at": 1792063908431
   },
   {
     "RFID_Data": {
@@ -6459,6 +7224,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#BD8A84",
@@ -6475,9 +7242,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Red wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "ISM-WOOD-RED-1.75-1000",
-    "title": "PLA Wood - Red wood"
+    "title": "PLA Wood - Red wood",
+    "updated_at": 1792063940249
   },
   {
     "RFID_Data": {
@@ -6500,6 +7270,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#CCFF0033",
@@ -6516,9 +7288,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Fluorescent Green",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-FLUORESCENTGREEN-1.75-1000",
-    "title": "PETG Transparent - Fluorescent Green"
+    "title": "PETG Transparent - Fluorescent Green",
+    "updated_at": 1792068347716
   },
   {
     "RFID_Data": {
@@ -6544,6 +7319,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#A6559E",
@@ -6561,9 +7338,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rose Red-Blue",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-ROSE-RED-BLUE-1.75-1000",
-    "title": "PLA Silk - Rose Red-Blue"
+    "title": "PLA Silk - Rose Red-Blue",
+    "updated_at": 1792063960326
   },
   {
     "RFID_Data": {
@@ -6586,6 +7366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFC0CB",
@@ -6602,9 +7384,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-PINK-1.75-1000",
-    "title": "ASA Solid Color - Pink"
+    "title": "ASA Solid Color - Pink",
+    "updated_at": 1792068225452
   },
   {
     "RFID_Data": {
@@ -6627,6 +7412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFA50033",
@@ -6643,9 +7430,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-ORANGE-1.75-1000",
-    "title": "PETG Transparent - Orange"
+    "title": "PETG Transparent - Orange",
+    "updated_at": 1792068371243
   },
   {
     "RFID_Data": {
@@ -6668,6 +7458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -6684,9 +7476,12 @@
     "info3": false,
     "material": "PCL",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PCL",
     "sku": "ISM-PCL-WHITE-1.75-1000",
-    "title": "PCL - White"
+    "title": "PCL - White",
+    "updated_at": 1792064002354
   },
   {
     "RFID_Data": {
@@ -6715,6 +7510,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Matt",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#008000",
@@ -6733,9 +7530,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green-White-Purple",
     "product_type": "Filament",
+    "series": "PLA Matte Tri-Color",
     "sku": "ISM-PLAMATTETRI-GREENWHITEPURPLE-1.75-1000",
-    "title": "PLA Matte Tri-Color - Green-White-Purple"
+    "title": "PLA Matte Tri-Color - Green-White-Purple",
+    "updated_at": 1792799320607
   },
   {
     "RFID_Data": {
@@ -6764,6 +7564,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFB3BA",
@@ -6782,9 +7584,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel",
     "product_type": "Filament",
+    "series": "PLA Rainbow",
     "sku": "ISM-PLARAINBOW-PASTEL-1.75-1000",
-    "title": "PLA Rainbow - Pastel"
+    "title": "PLA Rainbow - Pastel",
+    "updated_at": 1792799324291
   },
   {
     "RFID_Data": {
@@ -6807,6 +7612,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F0DCC8",
@@ -6823,9 +7630,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "ISM-BASIC-SKIN-1.75-1000",
-    "title": "PLA Basic - Skin"
+    "title": "PLA Basic - Skin",
+    "updated_at": 1792063975055
   },
   {
     "RFID_Data": {
@@ -6848,6 +7658,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -6864,9 +7676,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-BLACK-1.75-1000",
-    "title": "ASA Solid Color - Black"
+    "title": "ASA Solid Color - Black",
+    "updated_at": 1792068214731
   },
   {
     "RFID_Data": {
@@ -6889,6 +7704,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FF0000",
@@ -6905,9 +7722,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG Colorful Carbon Fiber",
     "sku": "ISM-PETGCOLORCF-RED-1.75-1000",
-    "title": "PETG Colorful Carbon Fiber - Red"
+    "title": "PETG Colorful Carbon Fiber - Red",
+    "updated_at": 1792063916150
   },
   {
     "RFID_Data": {
@@ -6930,6 +7750,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -6946,9 +7768,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA Carbon Fiber",
     "sku": "ISM-ASACF-GREY-1.75-1000",
-    "title": "ASA Carbon Fiber - Grey"
+    "title": "ASA Carbon Fiber - Grey",
+    "updated_at": 1792063468489
   },
   {
     "RFID_Data": {
@@ -6971,6 +7796,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -6987,9 +7814,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-WHITE-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - White"
+    "title": "High Speed PLA+ i6 Solid Color - White",
+    "updated_at": 1792068256628
   },
   {
     "RFID_Data": {
@@ -7012,6 +7842,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#C0C0C0",
@@ -7028,9 +7860,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-SILVER-1.75-1000",
-    "title": "ASA Solid Color - Silver"
+    "title": "ASA Solid Color - Silver",
+    "updated_at": 1792068230251
   },
   {
     "RFID_Data": {
@@ -7056,6 +7891,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF33",
@@ -7073,9 +7910,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue-White",
     "product_type": "Filament",
+    "series": "PETG Translucent Gradient",
     "sku": "ISM-PETGTLGRAD-BLUEWHITE-1.75-1000",
-    "title": "PETG Translucent Gradient - Blue-White"
+    "title": "PETG Translucent Gradient - Blue-White",
+    "updated_at": 1792799374083
   },
   {
     "RFID_Data": {
@@ -7098,6 +7938,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#696969",
@@ -7114,9 +7956,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Smoke Grey",
     "product_type": "Filament",
+    "series": "PDS Translucent",
     "sku": "ISM-PDSTL-SMOKEGREY-1.75-1000",
-    "title": "PDS Translucent - Smoke Grey"
+    "title": "PDS Translucent - Smoke Grey",
+    "updated_at": 1792063980351
   },
   {
     "RFID_Data": {
@@ -7139,6 +7984,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFDBAC",
@@ -7155,9 +8002,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-SKIN-1.75-1000",
-    "title": "ASA Solid Color - Skin"
+    "title": "ASA Solid Color - Skin",
+    "updated_at": 1792068232420
   },
   {
     "RFID_Data": {
@@ -7180,6 +8030,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#C0C0C0",
@@ -7196,9 +8048,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-SILVER-1.75-1000",
-    "title": "PLA i7+ Solid Color - Silver"
+    "title": "PLA i7+ Solid Color - Silver",
+    "updated_at": 1792068403513
   },
   {
     "RFID_Data": {
@@ -7224,6 +8079,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -7241,9 +8098,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White-Grey",
     "product_type": "Filament",
+    "series": "PLA Marble",
     "sku": "ISM-PLAMARBLE-WHITEGREY-1.75-1000",
-    "title": "PLA Marble - White-Grey"
+    "title": "PLA Marble - White-Grey",
+    "updated_at": 1792064020144
   },
   {
     "RFID_Data": {
@@ -7266,6 +8126,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#EC6F35",
@@ -7282,9 +8144,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Halloween Orange",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-HALLOWEENORANGE-1.75-1000",
-    "title": "PLA i6 Matte - Halloween Orange"
+    "title": "PLA i6 Matte - Halloween Orange",
+    "updated_at": 1792063483199
   },
   {
     "RFID_Data": {
@@ -7307,6 +8172,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#80008033",
@@ -7323,9 +8190,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-PURPLE-1.75-1000",
-    "title": "PETG Transparent - Purple"
+    "title": "PETG Transparent - Purple",
+    "updated_at": 1792068371613
   },
   {
     "RFID_Data": {
@@ -7351,6 +8221,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Marble",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -7368,9 +8240,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black-Gold",
     "product_type": "Filament",
+    "series": "ASA Marble",
     "sku": "ISM-ASAMARBLE-BLACKGOLD-1.75-1000",
-    "title": "ASA Marble - Black-Gold"
+    "title": "ASA Marble - Black-Gold",
+    "updated_at": 1792063340575
   },
   {
     "RFID_Data": {
@@ -7396,6 +8271,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Pastel",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFB3D9",
@@ -7413,9 +8290,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Pastel",
     "product_type": "Filament",
+    "series": "HS-PLA Rainbow",
     "sku": "ISM-HSPLA-RAINBOW-PASTEL-1.75-1000",
-    "title": "HS-PLA Rainbow - Pastel"
+    "title": "HS-PLA Rainbow - Pastel",
+    "updated_at": 1792799477697
   },
   {
     "RFID_Data": {
@@ -7438,6 +8318,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FF0000",
@@ -7454,9 +8336,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG Solid Color",
     "sku": "ISM-PETG-RED-1.75-1000",
-    "title": "PETG Solid Color - Red"
+    "title": "PETG Solid Color - Red",
+    "updated_at": 1792068323930
   },
   {
     "RFID_Data": {
@@ -7479,6 +8364,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -7495,9 +8382,12 @@
     "info3": false,
     "material": "PAHT-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PAHT Carbon Fiber",
     "sku": "ISM-PAHTCF-GREY-1.75-1000",
-    "title": "PAHT Carbon Fiber - Grey"
+    "title": "PAHT Carbon Fiber - Grey",
+    "updated_at": 1792063472161
   },
   {
     "RFID_Data": {
@@ -7520,6 +8410,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FF000033",
@@ -7536,9 +8428,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-RED-1.75-1000",
-    "title": "PETG Transparent - Red"
+    "title": "PETG Transparent - Red",
+    "updated_at": 1792068379550
   },
   {
     "RFID_Data": {
@@ -7561,6 +8456,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -7577,9 +8474,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-BLACK-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - Black"
+    "title": "High Speed PLA+ i6 Solid Color - Black",
+    "updated_at": 1792068239931
   },
   {
     "RFID_Data": {
@@ -7605,6 +8505,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF33",
@@ -7622,9 +8524,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue-Green",
     "product_type": "Filament",
+    "series": "PETG Translucent Gradient",
     "sku": "ISM-PETGTLGRAD-BLUEGREEN-1.75-1000",
-    "title": "PETG Translucent Gradient - Blue-Green"
+    "title": "PETG Translucent Gradient - Blue-Green",
+    "updated_at": 1792799517504
   },
   {
     "RFID_Data": {
@@ -7647,6 +8552,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#EAC853",
@@ -7663,9 +8570,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-GOLD-1.75-1000",
-    "title": "PLA Silk - Gold"
+    "title": "PLA Silk - Gold",
+    "updated_at": 1792063423801
   },
   {
     "RFID_Data": {
@@ -7688,6 +8598,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#800080",
@@ -7704,9 +8616,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-PURPLE-1.75-1000",
-    "title": "ASA Solid Color - Purple"
+    "title": "ASA Solid Color - Purple",
+    "updated_at": 1792068226034
   },
   {
     "RFID_Data": {
@@ -7729,6 +8644,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": "Wood",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#9C6B3E",
@@ -7745,9 +8662,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Wood",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-WOOD-1.75-1000",
-    "title": "PETG Matte - Wood"
+    "title": "PETG Matte - Wood",
+    "updated_at": 1792799564586
   },
   {
     "RFID_Data": {
@@ -7770,6 +8690,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#1C1C1C",
@@ -7786,9 +8708,12 @@
     "info3": false,
     "material": "PA12-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PA12 Carbon Fiber",
     "sku": "ISM-PA12CF-BLACK-1.75-1000",
-    "title": "PA12 Carbon Fiber - Black"
+    "title": "PA12 Carbon Fiber - Black",
+    "updated_at": 1792063157103
   },
   {
     "RFID_Data": {
@@ -7811,6 +8736,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#008000",
@@ -7827,9 +8754,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-GREEN-1.75-1000",
-    "title": "PLA i7+ Solid Color - Green"
+    "title": "PLA i7+ Solid Color - Green",
+    "updated_at": 1792068392665
   },
   {
     "RFID_Data": {
@@ -7855,6 +8785,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF",
@@ -7872,9 +8804,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blue-Purple",
     "product_type": "Filament",
+    "series": "ASA Gradient",
     "sku": "ISM-ASAGRAD-BLUEPURPLE-1.75-1000",
-    "title": "ASA Gradient - Blue-Purple"
+    "title": "ASA Gradient - Blue-Purple",
+    "updated_at": 1792063369307
   },
   {
     "RFID_Data": {
@@ -7900,6 +8835,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#B4925B",
@@ -7917,9 +8854,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold-Purple",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-GOLD-PURPLE-1.75-1000",
-    "title": "PLA Silk - Gold-Purple"
+    "title": "PLA Silk - Gold-Purple",
+    "updated_at": 1792063430698
   },
   {
     "RFID_Data": {
@@ -7942,6 +8882,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#1C1C1C33",
@@ -7958,9 +8900,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG Carbon Fiber",
     "sku": "ISM-PETGCF-BLACK-1.75-1000",
-    "title": "PETG Carbon Fiber - Black"
+    "title": "PETG Carbon Fiber - Black",
+    "updated_at": 1792068412023
   },
   {
     "RFID_Data": {
@@ -7983,6 +8928,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#2B2B2B",
@@ -7999,9 +8946,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Ebony wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "ISM-WOOD-EBONY-1.75-1000",
-    "title": "PLA Wood - Ebony wood"
+    "title": "PLA Wood - Ebony wood",
+    "updated_at": 1792063429768
   },
   {
     "RFID_Data": {
@@ -8024,6 +8974,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#56AF6D",
@@ -8040,9 +8992,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grass Green",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-GRASSGREEN-1.75-1000",
-    "title": "PLA i6 Matte - Grass Green"
+    "title": "PLA i6 Matte - Grass Green",
+    "updated_at": 1792063441278
   },
   {
     "RFID_Data": {
@@ -8065,6 +9020,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#A9A9A9",
@@ -8081,9 +9038,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-GREY-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - Grey"
+    "title": "High Speed PLA+ i6 Solid Color - Grey",
+    "updated_at": 1792068244060
   },
   {
     "RFID_Data": {
@@ -8106,6 +9066,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -8122,9 +9084,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "ASA Carbon Fiber",
     "sku": "ISM-ASACF-BLACK-1.75-1000",
-    "title": "ASA Carbon Fiber - Black"
+    "title": "ASA Carbon Fiber - Black",
+    "updated_at": 1792063310286
   },
   {
     "RFID_Data": {
@@ -8147,6 +9112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -8163,9 +9130,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-GREY-1.75-1000",
-    "title": "ASA Solid Color - Grey"
+    "title": "ASA Solid Color - Grey",
+    "updated_at": 1792068220334
   },
   {
     "RFID_Data": {
@@ -8188,6 +9158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -8204,9 +9176,12 @@
     "info3": false,
     "material": "PA12-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PA12 Carbon Fiber",
     "sku": "ISM-PA12CF-GREY-1.75-1000",
-    "title": "PA12 Carbon Fiber - Grey"
+    "title": "PA12 Carbon Fiber - Grey",
+    "updated_at": 1792063471701
   },
   {
     "RFID_Data": {
@@ -8232,6 +9207,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#826ED2",
@@ -8249,9 +9226,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Purple-Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-PURPLE-SILVER-1.75-1000",
-    "title": "PLA Silk - Purple-Silver"
+    "title": "PLA Silk - Purple-Silver",
+    "updated_at": 1792063918030
   },
   {
     "RFID_Data": {
@@ -8274,6 +9254,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#AA5A50",
@@ -8290,9 +9272,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Rose wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "ISM-WOOD-ROSE-1.75-1000",
-    "title": "PLA Wood - Rose wood"
+    "title": "PLA Wood - Rose wood",
+    "updated_at": 1792063969035
   },
   {
     "RFID_Data": {
@@ -8315,6 +9300,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#99A82C",
@@ -8331,9 +9318,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apple Green",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-APPLEGREEN-1.75-1000",
-    "title": "PLA i6 Matte - Apple Green"
+    "title": "PLA i6 Matte - Apple Green",
+    "updated_at": 1792063287382
   },
   {
     "RFID_Data": {
@@ -8362,6 +9352,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "Matt",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FF0000",
@@ -8380,9 +9372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red-Yellow-Blue",
     "product_type": "Filament",
+    "series": "PLA Matte Tri-Color",
     "sku": "ISM-PLAMATTETRI-REDYELLOWBLUE-1.75-1000",
-    "title": "PLA Matte Tri-Color - Red-Yellow-Blue"
+    "title": "PLA Matte Tri-Color - Red-Yellow-Blue",
+    "updated_at": 1792799675809
   },
   {
     "RFID_Data": {
@@ -8405,6 +9400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#000000",
@@ -8421,9 +9418,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Basic",
     "sku": "ISM-BASIC-BLACK-1.75-1000",
-    "title": "PLA Basic - Black"
+    "title": "PLA Basic - Black",
+    "updated_at": 1792063306910
   },
   {
     "RFID_Data": {
@@ -8446,6 +9446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF",
@@ -8462,9 +9464,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-BLUE-1.75-1000",
-    "title": "ASA Solid Color - Blue"
+    "title": "ASA Solid Color - Blue",
+    "updated_at": 1792068216541
   },
   {
     "RFID_Data": {
@@ -8487,6 +9492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#978981",
@@ -8503,9 +9510,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Sandal wood",
     "product_type": "Filament",
+    "series": "PLA Wood",
     "sku": "ISM-WOOD-SANDAL-1.75-1000",
-    "title": "PLA Wood - Sandal wood"
+    "title": "PLA Wood - Sandal wood",
+    "updated_at": 1792063980549
   },
   {
     "RFID_Data": {
@@ -8528,6 +9538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -8544,9 +9556,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PDS Opaque",
     "sku": "ISM-PDSOP-WHITE-1.75-1000",
-    "title": "PDS Opaque - White"
+    "title": "PDS Opaque - White",
+    "updated_at": 1792064005663
   },
   {
     "RFID_Data": {
@@ -8569,6 +9584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#00FFFF33",
@@ -8585,9 +9602,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-CYAN-1.75-1000",
-    "title": "PETG Transparent - Cyan"
+    "title": "PETG Transparent - Cyan",
+    "updated_at": 1792068347650
   },
   {
     "RFID_Data": {
@@ -8610,6 +9630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#4B5320",
@@ -8626,9 +9648,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Army Green",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-ARMY-GREEN-1.75-1000",
-    "title": "ASA Solid Color - Army Green"
+    "title": "ASA Solid Color - Army Green",
+    "updated_at": 1792068210159
   },
   {
     "RFID_Data": {
@@ -8651,6 +9676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#808080",
@@ -8667,9 +9694,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA Carbon Fiber",
     "sku": "ISM-PLACF-GREY-1.75-1000",
-    "title": "PLA Carbon Fiber - Grey"
+    "title": "PLA Carbon Fiber - Grey",
+    "updated_at": 1792063461113
   },
   {
     "RFID_Data": {
@@ -8695,6 +9725,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#B971B1",
@@ -8712,9 +9744,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Pink-Purple",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-PINK-PURPLE-1.75-1000",
-    "title": "PLA Silk - Pink-Purple"
+    "title": "PLA Silk - Pink-Purple",
+    "updated_at": 1792063901530
   },
   {
     "RFID_Data": {
@@ -8737,6 +9772,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Clear",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F5F5F533",
@@ -8753,9 +9790,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Clear",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-TRANSPARENT-1.75-1000",
-    "title": "PETG Transparent - Clear"
+    "title": "PETG Transparent - Clear",
+    "updated_at": 1792068414835
   },
   {
     "RFID_Data": {
@@ -8778,6 +9818,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#DCCBA6",
@@ -8794,9 +9836,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-BEIGE-1.75-1000",
-    "title": "PETG Matte - Beige"
+    "title": "PETG Matte - Beige",
+    "updated_at": 1792068287930
   },
   {
     "RFID_Data": {
@@ -8819,6 +9864,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Fiber",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#1C1C1C",
@@ -8835,9 +9882,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Glass Fiber",
     "sku": "ISM-PLAGF-BLACK-1.75-1000",
-    "title": "PLA Glass Fiber - Black"
+    "title": "PLA Glass Fiber - Black",
+    "updated_at": 1792063396513
   },
   {
     "RFID_Data": {
@@ -8860,6 +9910,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#F9D616",
@@ -8876,9 +9928,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-YELLOW-1.75-1000",
-    "title": "PETG Matte - Yellow"
+    "title": "PETG Matte - Yellow",
+    "updated_at": 1792068319527
   },
   {
     "RFID_Data": {
@@ -8901,6 +9956,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#ADFF2F",
@@ -8917,9 +9974,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Glow",
     "sku": "ISM-PLAGLOW-GREEN-1.75-1000",
-    "title": "PLA Glow - Green"
+    "title": "PLA Glow - Green",
+    "updated_at": 1792063445073
   },
   {
     "RFID_Data": {
@@ -8945,6 +10005,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#00800033",
@@ -8962,9 +10024,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green-Purple",
     "product_type": "Filament",
+    "series": "PETG Translucent Gradient",
     "sku": "ISM-PETGTLGRAD-GREENPURPLE-1.75-1000",
-    "title": "PETG Translucent Gradient - Green-Purple"
+    "title": "PETG Translucent Gradient - Green-Purple",
+    "updated_at": 1792799849302
   },
   {
     "RFID_Data": {
@@ -8987,6 +10052,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFF00",
@@ -9003,9 +10070,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA i7+ Solid Color",
     "sku": "ISM-I7-YELLOW-1.75-1000",
-    "title": "PLA i7+ Solid Color - Yellow"
+    "title": "PLA i7+ Solid Color - Yellow",
+    "updated_at": 1792068407709
   },
   {
     "RFID_Data": {
@@ -9034,6 +10104,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFB3BA",
@@ -9052,9 +10124,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Pastel",
     "product_type": "Filament",
+    "series": "HS-PLA Matte Rainbow",
     "sku": "ISM-HSPLA-MATTERAINBOW-PASTEL-1.75-1000",
-    "title": "HS-PLA Matte Rainbow - Pastel"
+    "title": "HS-PLA Matte Rainbow - Pastel",
+    "updated_at": 1792068260446
   },
   {
     "RFID_Data": {
@@ -9080,6 +10155,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#5E5394",
@@ -9097,9 +10174,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue-Red",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-BLUE-RED-1.75-1000",
-    "title": "PLA Silk - Blue-Red"
+    "title": "PLA Silk - Blue-Red",
+    "updated_at": 1792063389411
   },
   {
     "RFID_Data": {
@@ -9122,6 +10202,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#964B00",
@@ -9138,9 +10220,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-BROWN-1.75-1000",
-    "title": "ASA Solid Color - Brown"
+    "title": "ASA Solid Color - Brown",
+    "updated_at": 1792068217252
   },
   {
     "RFID_Data": {
@@ -9166,6 +10251,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF33",
@@ -9183,9 +10270,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue-Purple",
     "product_type": "Filament",
+    "series": "PETG Transparent Gradient",
     "sku": "ISM-PETGTRGRAD-BLUEPURPLE-1.75-1000",
-    "title": "PETG Transparent Gradient - Blue-Purple"
+    "title": "PETG Transparent Gradient - Blue-Purple",
+    "updated_at": 1792799899698
   },
   {
     "RFID_Data": {
@@ -9211,6 +10301,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#AF9948",
@@ -9228,9 +10320,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold-Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-GOLD-SILVER-1.75-1000",
-    "title": "PLA Silk - Gold-Silver"
+    "title": "PLA Silk - Gold-Silver",
+    "updated_at": 1792063447884
   },
   {
     "RFID_Data": {
@@ -9256,6 +10351,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#58B7C5",
@@ -9273,9 +10370,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Lake Green-Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-LAKE-GREEN-SILVER-1.75-1000",
-    "title": "PLA Silk - Lake Green-Silver"
+    "title": "PLA Silk - Lake Green-Silver",
+    "updated_at": 1792063503294
   },
   {
     "RFID_Data": {
@@ -9301,6 +10401,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#800080",
@@ -9318,9 +10420,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Purple-Green",
     "product_type": "Filament",
+    "series": "PLA+ Chameleon",
     "sku": "ISM-PLAPLUSCHAM-PURPLEGREEN-1.75-1000",
-    "title": "PLA+ Chameleon - Purple-Green"
+    "title": "PLA+ Chameleon - Purple-Green",
+    "updated_at": 1792063953533
   },
   {
     "RFID_Data": {
@@ -9343,6 +10448,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -9359,9 +10466,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "ASA Solid Color",
     "sku": "ISM-ASA-WHITE-1.75-1000",
-    "title": "ASA Solid Color - White"
+    "title": "ASA Solid Color - White",
+    "updated_at": 1792068232540
   },
   {
     "RFID_Data": {
@@ -9390,6 +10500,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#3F5FE0",
@@ -9408,9 +10520,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Classic",
     "product_type": "Filament",
+    "series": "PLA+ Rainbow",
     "sku": "ISM-PLAPLUSRAINBOW-CLASSIC-1.75-1000",
-    "title": "PLA+ Rainbow - Classic"
+    "title": "PLA+ Rainbow - Classic",
+    "updated_at": 1792797298764
   },
   {
     "RFID_Data": {
@@ -9436,6 +10551,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#994D50",
@@ -9453,9 +10570,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black-Red",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-BLACK-RED-1.75-1000",
-    "title": "PLA Silk - Black-Red"
+    "title": "PLA Silk - Black-Red",
+    "updated_at": 1792063349476
   },
   {
     "RFID_Data": {
@@ -9478,6 +10598,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#CC2B2B",
@@ -9494,9 +10616,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-RED-1.75-1000",
-    "title": "PETG Matte - Red"
+    "title": "PETG Matte - Red",
+    "updated_at": 1792068312314
   },
   {
     "RFID_Data": {
@@ -9519,6 +10644,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF",
@@ -9535,9 +10662,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG Solid Color",
     "sku": "ISM-PETG-BLUE-1.75-1000",
-    "title": "PETG Solid Color - Blue"
+    "title": "PETG Solid Color - Blue",
+    "updated_at": 1792068266821
   },
   {
     "RFID_Data": {
@@ -9560,6 +10690,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#AC295C",
@@ -9576,9 +10708,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red Violet",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-REDVIOLET-1.75-1000",
-    "title": "PLA i6 Matte - Red Violet"
+    "title": "PLA i6 Matte - Red Violet",
+    "updated_at": 1792063927623
   },
   {
     "RFID_Data": {
@@ -9601,6 +10736,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFF0",
@@ -9617,9 +10754,12 @@
     "info3": false,
     "material": "PCL",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PCL",
     "sku": "ISM-PCL-NATURAL-1.75-1000",
-    "title": "PCL - Natural"
+    "title": "PCL - Natural",
+    "updated_at": 1792063565019
   },
   {
     "RFID_Data": {
@@ -9645,6 +10785,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Bicolor",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFC0CB33",
@@ -9662,9 +10804,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink-Yellow",
     "product_type": "Filament",
+    "series": "PETG Translucent Gradient",
     "sku": "ISM-PETGTLGRAD-PINKYELLOW-1.75-1000",
-    "title": "PETG Translucent Gradient - Pink-Yellow"
+    "title": "PETG Translucent Gradient - Pink-Yellow",
+    "updated_at": 1792800067879
   },
   {
     "RFID_Data": {
@@ -9687,6 +10832,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFD700",
@@ -9703,9 +10850,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "PLA Clear Glitter",
     "sku": "ISM-PLACLGLIT-GOLD-1.75-1000",
-    "title": "PLA Clear Glitter - Gold"
+    "title": "PLA Clear Glitter - Gold",
+    "updated_at": 1792068236947
   },
   {
     "RFID_Data": {
@@ -9728,6 +10878,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#0000FF",
@@ -9744,9 +10896,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "ABS Solid Color",
     "sku": "ISM-ABS-BLUE-1.75-1000",
-    "title": "ABS Solid Color - Blue"
+    "title": "ABS Solid Color - Blue",
+    "updated_at": 1792068202541
   },
   {
     "RFID_Data": {
@@ -9769,6 +10924,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#A8E6D5",
@@ -9785,9 +10942,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Elf Blue",
     "product_type": "Filament",
+    "series": "High Speed PLA+ i6 Solid Color",
     "sku": "ISM-PLAI6-ELF-BLUE-1.75-1000",
-    "title": "High Speed PLA+ i6 Solid Color - Elf Blue"
+    "title": "High Speed PLA+ i6 Solid Color - Elf Blue",
+    "updated_at": 1792068240240
   },
   {
     "RFID_Data": {
@@ -9810,6 +10970,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -9826,9 +10988,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "TPU 95A",
     "sku": "ISM-TPU95A-WHITE-1.75-1000",
-    "title": "TPU 95A - White"
+    "title": "TPU 95A - White",
+    "updated_at": 1792063997811
   },
   {
     "RFID_Data": {
@@ -9851,6 +11016,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FFFFFF",
@@ -9867,9 +11034,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG Solid Color",
     "sku": "ISM-PETG-WHITE-1.75-1000",
-    "title": "PETG Solid Color - White"
+    "title": "PETG Solid Color - White",
+    "updated_at": 1792068384537
   },
   {
     "RFID_Data": {
@@ -9892,6 +11062,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#1C1C1C",
@@ -9908,9 +11080,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA Carbon Fiber",
     "sku": "ISM-PLACF-BLACK-1.75-1000",
-    "title": "PLA Carbon Fiber - Black"
+    "title": "PLA Carbon Fiber - Black",
+    "updated_at": 1792063310360
   },
   {
     "RFID_Data": {
@@ -9933,6 +11108,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#C0C0C0",
@@ -9949,9 +11126,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-SILVER-1.75-1000",
-    "title": "PLA Silk - Silver"
+    "title": "PLA Silk - Silver",
+    "updated_at": 1792063970254
   },
   {
     "RFID_Data": {
@@ -9977,6 +11157,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#FF0000",
@@ -9994,9 +11176,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red-Orange",
     "product_type": "Filament",
+    "series": "ASA Gradient",
     "sku": "ISM-ASAGRAD-REDORANGE-1.75-1000",
-    "title": "ASA Gradient - Red-Orange"
+    "title": "ASA Gradient - Red-Orange",
+    "updated_at": 1792063938510
   },
   {
     "RFID_Data": {
@@ -10022,6 +11207,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#C03E55",
@@ -10039,9 +11226,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Rose Red-Gold 2",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-ROSE-RED-GOLD-B-1.75-1000",
-    "title": "PLA Silk - Rose Red-Gold 2"
+    "title": "PLA Silk - Rose Red-Gold 2",
+    "updated_at": 1792063964719
   },
   {
     "RFID_Data": {
@@ -10064,6 +11254,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#3A4459",
@@ -10080,9 +11272,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "PLA i6 Matte",
     "sku": "ISM-I6MATTE-NAVYBLUE-1.75-1000",
-    "title": "PLA i6 Matte - Navy Blue"
+    "title": "PLA i6 Matte - Navy Blue",
+    "updated_at": 1792063570561
   },
   {
     "RFID_Data": {
@@ -10105,6 +11300,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#008000",
@@ -10121,9 +11318,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PETG Solid Color",
     "sku": "ISM-PETG-GREEN-1.75-1000",
-    "title": "PETG Solid Color - Green"
+    "title": "PETG Solid Color - Green",
+    "updated_at": 1792068280531
   },
   {
     "RFID_Data": {
@@ -10152,6 +11352,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": "Translucent",
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#D81F2633",
@@ -10171,9 +11373,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Rainbow 01",
     "product_type": "Filament",
+    "series": "PETG Transparent",
     "sku": "ISM-PETGTR-RAINBOW01-1.75-1000",
-    "title": "PETG Transparent - Rainbow 01"
+    "title": "PETG Transparent - Rainbow 01",
+    "updated_at": 1792800195289
   },
   {
     "RFID_Data": {
@@ -10199,6 +11404,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#B25355",
@@ -10216,9 +11423,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red-Silver",
     "product_type": "Filament",
+    "series": "PLA Silk",
     "sku": "ISM-SILK-RED-SILVER-1.75-1000",
-    "title": "PLA Silk - Red-Silver"
+    "title": "PLA Silk - Red-Silver",
+    "updated_at": 1792063945740
   },
   {
     "RFID_Data": {
@@ -10241,6 +11451,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "iSANMATE",
     "color": "#28415C",
@@ -10257,8 +11469,11 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Navy Blue",
     "product_type": "Filament",
+    "series": "PETG Matte",
     "sku": "ISM-PETGMT-NAVYBLUE-1.75-1000",
-    "title": "PETG Matte - Navy Blue"
+    "title": "PETG Matte - Navy Blue",
+    "updated_at": 1792068303663
   }
 ]

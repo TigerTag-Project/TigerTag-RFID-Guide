@@ -26,6 +26,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -44,9 +46,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Green/Purple",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d911ea3",
-    "title": "Tri-Color Silk PLA - Red/Green/Purple"
+    "title": "Tri-Color Silk PLA - Red/Green/Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -69,6 +74,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -85,9 +92,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "2050ORANGE",
-    "title": "Canadian-made ASA - Orange"
+    "title": "Canadian-made ASA - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -110,6 +120,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -126,9 +138,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Baby Blue",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLABBLU1K",
-    "title": "Standard PLA - Baby Blue"
+    "title": "Standard PLA - Baby Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -151,6 +166,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -167,9 +184,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6e73107d-1",
-    "title": "Budget PLA - Black"
+    "title": "Budget PLA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -192,6 +212,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -208,9 +230,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Warm White",
     "product_type": "Filament",
+    "series": "Standard PLA Refill",
     "sku": "6983c5fbedd4b",
-    "title": "Standard PLA Refill - Warm White"
+    "title": "Standard PLA Refill - Warm White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -236,6 +261,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -253,9 +280,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Gold",
     "product_type": "Filament",
+    "series": "Dual-Color Silk PLA",
     "sku": "6983c5da0d94f",
-    "title": "Dual-Color Silk PLA - Red/Gold"
+    "title": "Dual-Color Silk PLA - Red/Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -278,6 +308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -294,9 +326,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Yellow",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLADYEL1K",
-    "title": "Standard PLA - Dark Yellow"
+    "title": "Standard PLA - Dark Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -319,6 +354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -335,9 +372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Transparent Blue",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLATBLU1K",
-    "title": "Standard PLA - Transparent Blue"
+    "title": "Standard PLA - Transparent Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -360,6 +400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -376,9 +418,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Industrial Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020INDBLUE",
-    "title": "PLA+ - Industrial Blue"
+    "title": "PLA+ - Industrial Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -401,6 +446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -417,9 +464,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030YELLOW",
-    "title": "PETG+ - Yellow"
+    "title": "PETG+ - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -442,6 +492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -458,9 +510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Standard PLA Refill",
     "sku": "6983c5fc486c3",
-    "title": "Standard PLA Refill - Blue"
+    "title": "Standard PLA Refill - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -483,6 +538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -499,9 +556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Standard Flexible PLA",
     "sku": "STDFSPLAGRY1K",
-    "title": "Standard Flexible PLA - Grey"
+    "title": "Standard Flexible PLA - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -524,6 +584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -540,9 +602,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Yellow",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGDYEL1K",
-    "title": "Standard PETG - Dark Yellow"
+    "title": "Standard PETG - Dark Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -565,6 +630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -581,9 +648,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "8770620000798",
-    "title": "Silk PLA - Red"
+    "title": "Silk PLA - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -606,6 +676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -622,9 +694,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard PC+",
     "sku": "STDPCPBLK1K",
-    "title": "Standard PC+ - Black"
+    "title": "Standard PC+ - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -647,6 +722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -663,9 +740,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Budget PLA Refill",
     "sku": "67bbc6e73107d-2",
-    "title": "Budget PLA Refill - Black"
+    "title": "Budget PLA Refill - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -688,6 +768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#C2188FFF",
@@ -704,9 +786,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Fuchsia",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "6a31e01591c99",
-    "title": "Matte PLA+ - Fuchsia"
+    "title": "Matte PLA+ - Fuchsia",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -729,6 +814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -745,9 +832,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGWHT1K",
-    "title": "Standard PETG - White"
+    "title": "Standard PETG - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -770,6 +860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8DCC0FF",
@@ -786,9 +878,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Flame Retardant ABS",
     "sku": "68fe8dbd2defb",
-    "title": "Flame Retardant ABS - Natural"
+    "title": "Flame Retardant ABS - Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -811,6 +906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -827,9 +924,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSGRN1K",
-    "title": "Standard ABS - Green"
+    "title": "Standard ABS - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -852,6 +952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -868,9 +970,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Military Green",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "67bbc6d23273c",
-    "title": "Standard PETG - Military Green"
+    "title": "Standard PETG - Military Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -893,6 +998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -909,9 +1016,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Budget PETG",
     "sku": "67bbc80fd2a0d",
-    "title": "Budget PETG - Red"
+    "title": "Budget PETG - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -934,6 +1044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -950,9 +1062,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "Standard TPU 90A",
     "sku": "STDTPUDGRN1K",
-    "title": "Standard TPU 90A - Dark Green"
+    "title": "Standard TPU 90A - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -975,6 +1090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -991,9 +1108,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Green",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "67bbc6e45792c",
-    "title": "Standard PLA - Matte Green"
+    "title": "Standard PLA - Matte Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1016,6 +1136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#6B4423FF",
@@ -1032,9 +1154,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLABRN1K",
-    "title": "Standard PLA - Brown"
+    "title": "Standard PLA - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1057,6 +1182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F06FAFFF",
@@ -1073,9 +1200,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6f3d22b8",
-    "title": "Budget PLA - Pink"
+    "title": "Budget PLA - Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1104,6 +1234,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -1122,9 +1254,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Gold/Purple",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d966afe",
-    "title": "Tri-Color Silk PLA - Red/Gold/Purple"
+    "title": "Tri-Color Silk PLA - Red/Gold/Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1147,6 +1282,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -1163,9 +1300,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6eed6f3b-1",
-    "title": "Budget PLA - Red"
+    "title": "Budget PLA - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1188,6 +1328,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -1204,9 +1346,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Standard TPU 90A",
     "sku": "STDTPUWHT1K",
-    "title": "Standard TPU 90A - White"
+    "title": "Standard TPU 90A - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1229,6 +1374,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -1245,9 +1392,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAYEL1K",
-    "title": "Standard PLA - Yellow"
+    "title": "Standard PLA - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1270,6 +1420,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -1286,9 +1438,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HIPS",
     "sku": "STDHIPSBLK1K",
-    "title": "HIPS - Black"
+    "title": "HIPS - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1311,6 +1466,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -1327,9 +1484,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "68fe8db825e75",
-    "title": "Silk PLA - Yellow"
+    "title": "Silk PLA - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1355,6 +1515,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F06FAFFF",
@@ -1372,9 +1534,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Pink/Gold",
     "product_type": "Filament",
+    "series": "Dual-Color Silk PLA",
     "sku": "6983c5e314526",
-    "title": "Dual-Color Silk PLA - Pink/Gold"
+    "title": "Dual-Color Silk PLA - Pink/Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1397,6 +1562,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B3FA0FF",
@@ -1413,9 +1580,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAPRP1K",
-    "title": "Standard PLA - Purple"
+    "title": "Standard PLA - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1444,6 +1614,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -1462,9 +1634,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Yellow/Blue",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d89ab0e",
-    "title": "Tri-Color Silk PLA - Red/Yellow/Blue"
+    "title": "Tri-Color Silk PLA - Red/Yellow/Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1487,6 +1662,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -1503,9 +1680,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Standard PETG-GF",
     "sku": "8770620000859",
-    "title": "Standard PETG-GF - White"
+    "title": "Standard PETG-GF - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1528,6 +1708,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -1544,9 +1726,12 @@
     "info3": false,
     "material": "HIPS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HIPS",
     "sku": "STDHIPSWHT1K",
-    "title": "HIPS - White"
+    "title": "HIPS - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1569,6 +1754,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#B8BCC2FF",
@@ -1585,9 +1772,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLASLV1K",
-    "title": "Standard PLA - Silver"
+    "title": "Standard PLA - Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1610,6 +1800,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D4AF37FF",
@@ -1626,9 +1818,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Golden",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAGLD1K",
-    "title": "Standard PLA - Golden"
+    "title": "Standard PLA - Golden",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1651,6 +1846,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F6C0A0FF",
@@ -1667,9 +1864,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Peach",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020PEACH",
-    "title": "PLA+ - Peach"
+    "title": "PLA+ - Peach",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1692,6 +1892,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -1708,9 +1910,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "RAL 7047 Tele Grey 4",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLATGRY1K",
-    "title": "Standard PLA - RAL 7047 Tele Grey 4"
+    "title": "Standard PLA - RAL 7047 Tele Grey 4",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1733,6 +1938,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -1749,9 +1956,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Standard PETG Refill",
     "sku": "6983c5fa9c7ed",
-    "title": "Standard PETG Refill - Red"
+    "title": "Standard PETG Refill - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1774,6 +1984,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#6B4423FF",
@@ -1790,9 +2002,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020BROWN",
-    "title": "PLA+ - Brown"
+    "title": "PLA+ - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1815,6 +2030,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -1831,9 +2048,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAGRN1K",
-    "title": "Standard PLA - Green"
+    "title": "Standard PLA - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1856,6 +2076,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -1872,9 +2094,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Yellow",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGTYEL1K",
-    "title": "Standard PETG - Transparent Yellow"
+    "title": "Standard PETG - Transparent Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1897,6 +2122,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -1913,9 +2140,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Standard PCTG",
     "sku": "STDPCTGRED1K",
-    "title": "Standard PCTG - Red"
+    "title": "Standard PCTG - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1938,6 +2168,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -1954,9 +2186,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Nylon PA6",
     "sku": "6a987dc9e534a",
-    "title": "Nylon PA6 - Black"
+    "title": "Nylon PA6 - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1979,6 +2214,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -1995,9 +2232,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLADBLU1K",
-    "title": "Standard PLA - Dark Blue"
+    "title": "Standard PLA - Dark Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2020,6 +2260,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -2036,9 +2278,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Orange",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGDORN1K",
-    "title": "Standard PETG - Dark Orange"
+    "title": "Standard PETG - Dark Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2061,6 +2306,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#9ADCE8FF",
@@ -2077,9 +2324,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dream Crystal",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "6983c5e4c1329",
-    "title": "Standard PLA - Dream Crystal"
+    "title": "Standard PLA - Dream Crystal",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2102,6 +2352,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Thermoreactif",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#C8A2E8FF",
@@ -2118,9 +2370,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "UV Light Changing",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAUVNP1K",
-    "title": "Standard PLA - UV Light Changing"
+    "title": "Standard PLA - UV Light Changing",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2143,6 +2398,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -2159,9 +2416,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Nylon PA6",
     "sku": "6a987dc9e56ba",
-    "title": "Nylon PA6 - White"
+    "title": "Nylon PA6 - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2184,6 +2444,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B3FA0FF",
@@ -2200,9 +2462,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGPRP1K",
-    "title": "Standard PETG - Purple"
+    "title": "Standard PETG - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2225,6 +2490,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2EBD3FF",
@@ -2241,9 +2508,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ivory",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAPIVR1K",
-    "title": "Standard PLA - Ivory"
+    "title": "Standard PLA - Ivory",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2266,6 +2536,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#5C3B2AFF",
@@ -2282,9 +2554,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Coffee",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6f3278b7",
-    "title": "Budget PLA - Coffee"
+    "title": "Budget PLA - Coffee",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2307,6 +2582,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#C8F060FF",
@@ -2323,9 +2600,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow in the Dark",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAGDBLU1K",
-    "title": "Standard PLA - Glow in the Dark"
+    "title": "Standard PLA - Glow in the Dark",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2348,6 +2628,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -2364,9 +2646,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLABLU1K",
-    "title": "Standard PLA - Blue"
+    "title": "Standard PLA - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2389,6 +2674,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F06FAFFF",
@@ -2405,9 +2692,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "Budget PETG",
     "sku": "6a31e03d2d6fe",
-    "title": "Budget PETG - Pink"
+    "title": "Budget PETG - Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2430,6 +2720,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B3FA0FF",
@@ -2446,9 +2738,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6f10c03a",
-    "title": "Budget PLA - Purple"
+    "title": "Budget PLA - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2471,6 +2766,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8344EFF",
@@ -2487,9 +2784,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Rainbow Macarons",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "6983c5e5a45f1",
-    "title": "Standard PLA - Matte Rainbow Macarons"
+    "title": "Standard PLA - Matte Rainbow Macarons",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2512,6 +2812,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -2528,9 +2830,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Fighter Jet Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "68fe8dca3c2dd-2",
-    "title": "PLA+ - Fighter Jet Blue"
+    "title": "PLA+ - Fighter Jet Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2553,6 +2858,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8F4F8FF",
@@ -2569,9 +2876,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGTRN1K",
-    "title": "Standard PETG - Transparent"
+    "title": "Standard PETG - Transparent",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2594,6 +2904,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -2610,9 +2922,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "68fe986d5f983",
-    "title": "Canadian-made ASA - White"
+    "title": "Canadian-made ASA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2635,6 +2950,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F06FAFFF",
@@ -2651,9 +2968,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Baby Pink",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLABPNK1K",
-    "title": "Standard PLA - Baby Pink"
+    "title": "Standard PLA - Baby Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2676,6 +2996,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -2692,9 +3014,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLABLK1K",
-    "title": "Standard PLA - Black"
+    "title": "Standard PLA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2717,6 +3042,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -2733,9 +3060,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard TPU 90A",
     "sku": "STDTPUBLK1K",
-    "title": "Standard TPU 90A - Black"
+    "title": "Standard TPU 90A - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2758,6 +3088,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A9A9AFF",
@@ -2774,9 +3106,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Teal",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020TEAL P",
-    "title": "PLA+ - Teal"
+    "title": "PLA+ - Teal",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2799,6 +3134,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -2815,9 +3152,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSWHT1K",
-    "title": "Standard ABS - White"
+    "title": "Standard ABS - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2840,6 +3180,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#C9A97AFF",
@@ -2856,9 +3198,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Sandstone",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020SNDSTONE",
-    "title": "PLA+ - Sandstone"
+    "title": "PLA+ - Sandstone",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2881,6 +3226,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B3FA0FF",
@@ -2897,9 +3244,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Purple",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGTPRP1K",
-    "title": "Standard PETG - Transparent Purple"
+    "title": "Standard PETG - Transparent Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2922,6 +3272,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8DCC0FF",
@@ -2938,9 +3290,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSNTR1K",
-    "title": "Standard ABS - Natural"
+    "title": "Standard ABS - Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2963,6 +3318,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -2979,9 +3336,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "67bbc4e0d8a40",
-    "title": "Matte PLA+ - Black"
+    "title": "Matte PLA+ - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3004,6 +3364,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -3020,9 +3382,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "HT PLA",
     "sku": "68fe986a70cfe",
-    "title": "HT PLA - Red"
+    "title": "HT PLA - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3045,6 +3410,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -3061,9 +3428,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGGRY1K",
-    "title": "Standard PETG - Grey"
+    "title": "Standard PETG - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3092,6 +3462,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -3110,9 +3482,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Green/Gold",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d90e9bb",
-    "title": "Tri-Color Silk PLA - Red/Green/Gold"
+    "title": "Tri-Color Silk PLA - Red/Green/Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3135,6 +3510,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8344EFF",
@@ -3151,9 +3528,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rainbow Candy",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "6983c5e496ad7",
-    "title": "Standard PLA - Rainbow Candy"
+    "title": "Standard PLA - Rainbow Candy",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3176,6 +3556,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -3192,9 +3574,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Medium Grey",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020GRY",
-    "title": "PLA+ - Medium Grey"
+    "title": "PLA+ - Medium Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3217,6 +3602,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#C2188FFF",
@@ -3233,9 +3620,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Fuchsia",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020Fuchsia-1",
-    "title": "PLA+ - Fuchsia"
+    "title": "PLA+ - Fuchsia",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3258,6 +3648,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -3274,9 +3666,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard PETG-GF",
     "sku": "68fe8db278333",
-    "title": "Standard PETG-GF - Black"
+    "title": "Standard PETG-GF - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3299,6 +3694,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -3315,9 +3712,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6f039c87",
-    "title": "Budget PLA - Yellow"
+    "title": "Budget PLA - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3340,6 +3740,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#5A5F66FF",
@@ -3356,9 +3758,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Gun Metal Grey",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "2027GUNGREY P",
-    "title": "Matte PLA+ - Gun Metal Grey"
+    "title": "Matte PLA+ - Gun Metal Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3381,6 +3786,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -3397,9 +3804,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Dark Orange",
     "product_type": "Filament",
+    "series": "Standard TPU 90A",
     "sku": "STDTPUDORN1K",
-    "title": "Standard TPU 90A - Dark Orange"
+    "title": "Standard TPU 90A - Dark Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3422,6 +3832,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#C8A27AFF",
@@ -3438,9 +3850,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Latte",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6f5724bd",
-    "title": "Budget PLA - Latte"
+    "title": "Budget PLA - Latte",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3463,6 +3878,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -3479,9 +3896,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "Budget PETG",
     "sku": "67bbc80fae0b4",
-    "title": "Budget PETG - Dark Green"
+    "title": "Budget PETG - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3504,6 +3924,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -3520,9 +3942,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6f00ebc6",
-    "title": "Budget PLA - Orange"
+    "title": "Budget PLA - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3545,6 +3970,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B5A44FF",
@@ -3561,9 +3988,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Mocha",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020MOCHA",
-    "title": "PLA+ - Mocha"
+    "title": "PLA+ - Mocha",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3586,6 +4016,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -3602,9 +4034,12 @@
     "info3": false,
     "material": "PA6",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Nylon PA6",
     "sku": "M3DNYL66GRY1K",
-    "title": "Nylon PA6 - Grey"
+    "title": "Nylon PA6 - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3627,6 +4062,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -3643,9 +4080,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6e8ef151",
-    "title": "Budget PLA - Light Blue"
+    "title": "Budget PLA - Light Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3668,6 +4108,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -3684,9 +4126,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Standard PETG Refill",
     "sku": "6983c5fa709fe",
-    "title": "Standard PETG Refill - Grey"
+    "title": "Standard PETG Refill - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3709,6 +4154,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -3725,9 +4172,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pure White",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAPUWHT1K",
-    "title": "Standard PLA - Pure White"
+    "title": "Standard PLA - Pure White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3750,6 +4200,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -3766,9 +4218,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Budget PETG",
     "sku": "67bbc809d7a5d",
-    "title": "Budget PETG - Black"
+    "title": "Budget PETG - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3791,6 +4246,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D4AF37FF",
@@ -3807,9 +4264,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Golden",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "68fe8db6d4743",
-    "title": "Silk PLA - Golden"
+    "title": "Silk PLA - Golden",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3832,6 +4292,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -3848,9 +4310,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HT PLA",
     "sku": "68fe9864851d8",
-    "title": "HT PLA - Black"
+    "title": "HT PLA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3873,6 +4338,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -3889,9 +4356,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Standard PC+",
     "sku": "STDPCPWHT1K",
-    "title": "Standard PC+ - White"
+    "title": "Standard PC+ - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3917,6 +4387,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -3934,9 +4406,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Blue",
     "product_type": "Filament",
+    "series": "Dual-Color Silk PLA",
     "sku": "6983c5e30377d",
-    "title": "Dual-Color Silk PLA - Red/Blue"
+    "title": "Dual-Color Silk PLA - Red/Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3965,6 +4440,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B3FA0FF",
@@ -3983,9 +4460,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Purple/Green/Gold",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d89d6ff",
-    "title": "Tri-Color Silk PLA - Purple/Green/Gold"
+    "title": "Tri-Color Silk PLA - Purple/Green/Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4008,6 +4488,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -4024,9 +4506,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "2050YELLOW",
-    "title": "Canadian-made ASA - Yellow"
+    "title": "Canadian-made ASA - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4049,6 +4534,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1A",
@@ -4065,9 +4552,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "68fe986ed44b8",
-    "title": "Canadian-made ASA - Black"
+    "title": "Canadian-made ASA - Black",
+    "updated_at": 1793807000409
   },
   {
     "RFID_Data": {
@@ -4090,6 +4580,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8344EFF",
@@ -4106,9 +4598,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Rainbow Jade",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "6983c5e4c1605",
-    "title": "Standard PLA - Rainbow Jade"
+    "title": "Standard PLA - Rainbow Jade",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4131,6 +4626,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -4147,9 +4644,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Green",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGGRN1K",
-    "title": "Standard PETG - Transparent Green"
+    "title": "Standard PETG - Transparent Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4172,6 +4672,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -4188,9 +4690,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte White",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDMPLAWHT1K",
-    "title": "Standard PLA - Matte White"
+    "title": "Standard PLA - Matte White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4213,6 +4718,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -4229,9 +4736,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAORN1K",
-    "title": "Standard PLA - Orange"
+    "title": "Standard PLA - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4254,6 +4764,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -4270,9 +4782,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Warm White",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAWWHT1K",
-    "title": "Standard PLA - Warm White"
+    "title": "Standard PLA - Warm White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4295,6 +4810,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2A2A2AFF",
@@ -4311,9 +4828,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Carbon Fiber",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSCF1K",
-    "title": "Standard ABS - Carbon Fiber"
+    "title": "Standard ABS - Carbon Fiber",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4336,6 +4856,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Wood",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#B08850FF",
@@ -4352,9 +4874,12 @@
     "info3": false,
     "material": "PLA Wood",
     "measure": "1000 g",
+    "name": "Natural Wood",
     "product_type": "Filament",
+    "series": "Wood PLA",
     "sku": "STDPLANWOD1K",
-    "title": "Wood PLA - Natural Wood"
+    "title": "Wood PLA - Natural Wood",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4377,6 +4902,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#98D8B8FF",
@@ -4393,9 +4920,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mint",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6ef6d1a7",
-    "title": "Budget PLA - Mint"
+    "title": "Budget PLA - Mint",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4418,6 +4948,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -4434,9 +4966,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "Standard PCTG",
     "sku": "STDPCTGDBLU1K",
-    "title": "Standard PCTG - Dark Blue"
+    "title": "Standard PCTG - Dark Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4459,6 +4994,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2A2A2A",
@@ -4475,9 +5012,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Carbon Fiber",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "6a31e0158f22b",
-    "title": "Canadian-made ASA - Carbon Fiber"
+    "title": "Canadian-made ASA - Carbon Fiber",
+    "updated_at": 1793806989021
   },
   {
     "RFID_Data": {
@@ -4500,6 +5040,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -4516,9 +5058,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030DKGREEN",
-    "title": "PETG+ - Dark Green"
+    "title": "PETG+ - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4541,6 +5086,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -4557,9 +5104,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Yellow",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSDYEL1K",
-    "title": "Standard ABS - Dark Yellow"
+    "title": "Standard ABS - Dark Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4582,6 +5132,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -4598,9 +5150,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "2027DKGREEN P",
-    "title": "Matte PLA+ - Dark Green"
+    "title": "Matte PLA+ - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4623,6 +5178,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -4639,9 +5196,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Fighter Jet Blue",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "6a31e015916d9",
-    "title": "Matte PLA+ - Fighter Jet Blue"
+    "title": "Matte PLA+ - Fighter Jet Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4664,6 +5224,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -4680,9 +5242,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Standard PC+",
     "sku": "STDPCPGRY1K",
-    "title": "Standard PC+ - Grey"
+    "title": "Standard PC+ - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4705,6 +5270,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -4721,9 +5288,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pastel Green",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAPSGRN1K",
-    "title": "Standard PLA - Pastel Green"
+    "title": "Standard PLA - Pastel Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4746,6 +5316,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -4762,9 +5334,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Sea Green (Atrovirens)",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGTSGRN1K",
-    "title": "Standard PETG - Transparent Sea Green (Atrovirens)"
+    "title": "Standard PETG - Transparent Sea Green (Atrovirens)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4790,6 +5365,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -4807,9 +5384,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Yellow/Green",
     "product_type": "Filament",
+    "series": "Dual-Color Silk PLA",
     "sku": "6983c5da059b7",
-    "title": "Dual-Color Silk PLA - Yellow/Green"
+    "title": "Dual-Color Silk PLA - Yellow/Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4832,6 +5412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#5A5F66FF",
@@ -4848,9 +5430,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Gun Metal Grey",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020GML",
-    "title": "PLA+ - Gun Metal Grey"
+    "title": "PLA+ - Gun Metal Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4873,6 +5458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -4889,9 +5476,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Standard PLA Refill",
     "sku": "6983c5fca33e9",
-    "title": "Standard PLA Refill - Red"
+    "title": "Standard PLA Refill - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4914,6 +5504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -4930,9 +5522,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020RED",
-    "title": "PLA+ - Red"
+    "title": "PLA+ - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4955,6 +5550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -4971,9 +5568,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Blue",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "67bbc6e39f5db",
-    "title": "Standard PLA - Matte Blue"
+    "title": "Standard PLA - Matte Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4996,6 +5596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8344E",
@@ -5012,9 +5614,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Rainbow Spring Tea",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "6983c5e50c1ea",
-    "title": "Standard PLA - Matte Rainbow Spring Tea"
+    "title": "Standard PLA - Matte Rainbow Spring Tea",
+    "updated_at": 1793807018201
   },
   {
     "RFID_Data": {
@@ -5037,6 +5642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -5053,9 +5660,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020BLU-1",
-    "title": "PLA+ - Blue"
+    "title": "PLA+ - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5078,6 +5688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -5094,9 +5706,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030BLUE-2",
-    "title": "PETG+ - Blue"
+    "title": "PETG+ - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5119,6 +5734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -5135,9 +5752,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearl Orange",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAPORN1K",
-    "title": "Standard PLA - Pearl Orange"
+    "title": "Standard PLA - Pearl Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5160,6 +5780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -5176,9 +5798,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Orange",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLADORN1K",
-    "title": "Standard PLA - Dark Orange"
+    "title": "Standard PLA - Dark Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5201,6 +5826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -5217,9 +5844,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Metallic Red",
     "product_type": "Filament",
+    "series": "Metallic PLA",
     "sku": "2020MRED",
-    "title": "Metallic PLA - Metallic Red"
+    "title": "Metallic PLA - Metallic Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5242,6 +5872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -5258,9 +5890,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Dark Yellow",
     "product_type": "Filament",
+    "series": "Standard TPU 90A",
     "sku": "STDTPUDYEL1K",
-    "title": "Standard TPU 90A - Dark Yellow"
+    "title": "Standard TPU 90A - Dark Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5283,6 +5918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -5299,9 +5936,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Olive Green",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6f2b76ee",
-    "title": "Budget PLA - Olive Green"
+    "title": "Budget PLA - Olive Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5324,6 +5964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -5340,9 +5982,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLADGRN1K",
-    "title": "Standard PLA - Dark Green"
+    "title": "Standard PLA - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5365,6 +6010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -5381,9 +6028,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Grass Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "68fe8dc970b6b-2",
-    "title": "PLA+ - Grass Green"
+    "title": "PLA+ - Grass Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5406,6 +6056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -5422,9 +6074,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Budget PETG",
     "sku": "67bbc80d3cfc4",
-    "title": "Budget PETG - Blue"
+    "title": "Budget PETG - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5450,6 +6105,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -5467,9 +6124,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue/White Jelly Gradient",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "6983c5e4a670c",
-    "title": "Standard PLA - Blue/White Jelly Gradient"
+    "title": "Standard PLA - Blue/White Jelly Gradient",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5492,6 +6152,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#8B3A2BFF",
@@ -5508,9 +6170,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red Brown",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLARBRN1K",
-    "title": "Standard PLA - Red Brown"
+    "title": "Standard PLA - Red Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5533,6 +6198,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -5549,9 +6216,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "2027BLUE P",
-    "title": "Matte PLA+ - Blue"
+    "title": "Matte PLA+ - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5574,6 +6244,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8F4F8FF",
@@ -5590,9 +6262,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Natural/Transparent",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "67bbc6cd51c4a",
-    "title": "PETG+ - Natural/Transparent"
+    "title": "PETG+ - Natural/Transparent",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5615,6 +6290,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F1C9A5FF",
@@ -5631,9 +6308,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Skin",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLASKN1K",
-    "title": "Standard PLA - Skin"
+    "title": "Standard PLA - Skin",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5656,6 +6336,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -5672,9 +6354,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Budget PLA Refill",
     "sku": "67bbc6eed6f3b-2",
-    "title": "Budget PLA Refill - Red"
+    "title": "Budget PLA Refill - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5700,6 +6385,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B3FA0FF",
@@ -5717,9 +6404,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Purple/Gold",
     "product_type": "Filament",
+    "series": "Dual-Color Silk PLA",
     "sku": "6983c5e3128f1",
-    "title": "Dual-Color Silk PLA - Purple/Gold"
+    "title": "Dual-Color Silk PLA - Purple/Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5742,6 +6432,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#5A5F66FF",
@@ -5758,9 +6450,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Gun Metal Grey",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "2050GUNGREY",
-    "title": "Canadian-made ASA - Gun Metal Grey"
+    "title": "Canadian-made ASA - Gun Metal Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5783,6 +6478,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Metal",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D4AF37",
@@ -5799,9 +6496,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gold",
     "product_type": "Filament",
+    "series": "Metallic PLA",
     "sku": "2020GGOLD",
-    "title": "Metallic PLA - Gold"
+    "title": "Metallic PLA - Gold",
+    "updated_at": 1793807006872
   },
   {
     "RFID_Data": {
@@ -5824,6 +6524,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#4AA8E8FF",
@@ -5840,9 +6542,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Crystal Gradient Cyan",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "6983c5e4b25a3",
-    "title": "Standard PLA - Crystal Gradient Cyan"
+    "title": "Standard PLA - Crystal Gradient Cyan",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5865,6 +6570,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8DCC0FF",
@@ -5881,9 +6588,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020NAT",
-    "title": "PLA+ - Natural"
+    "title": "PLA+ - Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5906,6 +6616,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -5922,9 +6634,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard PETG Refill",
     "sku": "6983c5f38a57d",
-    "title": "Standard PETG Refill - Black"
+    "title": "Standard PETG Refill - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5947,6 +6662,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -5963,9 +6680,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Budget PETG",
     "sku": "67bbc80ed63f7",
-    "title": "Budget PETG - Grey"
+    "title": "Budget PETG - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5988,6 +6708,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -6004,9 +6726,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HT PLA",
     "sku": "68fe986769e7c",
-    "title": "HT PLA - White"
+    "title": "HT PLA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6029,6 +6754,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -6045,9 +6772,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearl White",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAPWHT1K",
-    "title": "Standard PLA - Pearl White"
+    "title": "Standard PLA - Pearl White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6070,6 +6800,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -6086,9 +6818,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "67bbc4d3910ce",
-    "title": "PETG+ - Orange"
+    "title": "PETG+ - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6117,6 +6852,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -6135,9 +6872,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Yellow/Green",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d90db75",
-    "title": "Tri-Color Silk PLA - Red/Yellow/Green"
+    "title": "Tri-Color Silk PLA - Red/Yellow/Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6160,6 +6900,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2A2A2AFF",
@@ -6176,9 +6918,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Carbon Fiber",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030CPG P",
-    "title": "PETG+ - Carbon Fiber"
+    "title": "PETG+ - Carbon Fiber",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6201,6 +6946,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#B08850FF",
@@ -6217,9 +6964,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Driftwood",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020DRIFTWOOD",
-    "title": "PLA+ - Driftwood"
+    "title": "PLA+ - Driftwood",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6242,6 +6992,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -6258,9 +7010,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Budget PLA Refill",
     "sku": "67bbc6e88ee45",
-    "title": "Budget PLA Refill - Grey"
+    "title": "Budget PLA Refill - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6283,6 +7038,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#B8BCC2FF",
@@ -6299,9 +7056,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGSLV1K",
-    "title": "Standard PETG - Silver"
+    "title": "Standard PETG - Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6324,6 +7084,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -6340,9 +7102,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Standard ASA",
     "sku": "STDASAWHT1K",
-    "title": "Standard ASA - White"
+    "title": "Standard ASA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6365,6 +7130,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -6381,9 +7148,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Standard Flexible PLA",
     "sku": "STDSFPLAWHT1K",
-    "title": "Standard Flexible PLA - White"
+    "title": "Standard Flexible PLA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6406,6 +7176,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -6422,9 +7194,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Standard PLA Refill",
     "sku": "6983c5fc53903",
-    "title": "Standard PLA Refill - Green"
+    "title": "Standard PLA Refill - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6447,6 +7222,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -6463,9 +7240,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "HT PLA",
     "sku": "68fe986d6909a",
-    "title": "HT PLA - Yellow"
+    "title": "HT PLA - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6488,6 +7268,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2A2A2AFF",
@@ -6504,9 +7286,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Carbon Fiber (10%)",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGCF1K",
-    "title": "Standard PETG - Carbon Fiber (10%)"
+    "title": "Standard PETG - Carbon Fiber (10%)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6529,6 +7314,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -6545,9 +7332,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard PLA Refill",
     "sku": "6983c5fc0ef06",
-    "title": "Standard PLA Refill - Black"
+    "title": "Standard PLA Refill - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6570,6 +7360,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -6586,9 +7378,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "68fe986ee38f9",
-    "title": "Canadian-made ASA - Grey"
+    "title": "Canadian-made ASA - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6611,6 +7406,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -6627,9 +7424,12 @@
     "info3": false,
     "material": "PA6-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Nylon PA6-CF",
     "sku": "6a987dc9e59e2",
-    "title": "Nylon PA6-CF - Black"
+    "title": "Nylon PA6-CF - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6652,6 +7452,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -6668,9 +7470,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Standard PETG Refill",
     "sku": "6983c5fa12e22",
-    "title": "Standard PETG Refill - Blue"
+    "title": "Standard PETG Refill - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6693,6 +7498,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -6709,9 +7516,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSGRY1K",
-    "title": "Standard ABS - Grey"
+    "title": "Standard ABS - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6734,6 +7544,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#5C3B2AFF",
@@ -6750,9 +7562,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Coffee",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLACOF1K",
-    "title": "Standard PLA - Coffee"
+    "title": "Standard PLA - Coffee",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6775,6 +7590,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -6791,9 +7608,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Evergreen",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "68fe8dcb700bc",
-    "title": "PLA+ - Evergreen"
+    "title": "PLA+ - Evergreen",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6816,6 +7636,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -6832,9 +7654,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Standard TPU 90A",
     "sku": "STDTPUBLU1K",
-    "title": "Standard TPU 90A - Blue"
+    "title": "Standard TPU 90A - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6857,6 +7682,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -6873,9 +7700,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020ORANGE",
-    "title": "PLA+ - Orange"
+    "title": "PLA+ - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6898,6 +7728,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -6914,9 +7746,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Red",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "67bbc6e4554ae",
-    "title": "Standard PLA - Matte Red"
+    "title": "Standard PLA - Matte Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6939,6 +7774,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -6955,9 +7792,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030WHT",
-    "title": "PETG+ - White"
+    "title": "PETG+ - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6980,6 +7820,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -6996,9 +7838,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Basic PLA",
     "sku": "68fe98646b85d",
-    "title": "Basic PLA - White"
+    "title": "Basic PLA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7021,6 +7866,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -7037,9 +7884,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Light Grey",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "2050LGREY",
-    "title": "Canadian-made ASA - Light Grey"
+    "title": "Canadian-made ASA - Light Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7062,6 +7912,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8F4F8FF",
@@ -7078,9 +7930,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "Budget PETG",
     "sku": "67bbc8101448c",
-    "title": "Budget PETG - Transparent"
+    "title": "Budget PETG - Transparent",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7103,6 +7958,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -7119,9 +7976,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030BLACK P",
-    "title": "PETG+ - Black"
+    "title": "PETG+ - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7144,6 +8004,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -7160,9 +8022,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Standard TPU 90A",
     "sku": "STDTPURED1K",
-    "title": "Standard TPU 90A - Red"
+    "title": "Standard TPU 90A - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7185,6 +8050,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -7201,9 +8068,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020WHITE P",
-    "title": "PLA+ - White"
+    "title": "PLA+ - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7232,6 +8102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -7250,9 +8122,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Green/Blue",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d90d2b2",
-    "title": "Tri-Color Silk PLA - Red/Green/Blue"
+    "title": "Tri-Color Silk PLA - Red/Green/Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7275,6 +8150,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -7291,9 +8168,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Standard PCTG",
     "sku": "STDPCTGWHT1K",
-    "title": "Standard PCTG - White"
+    "title": "Standard PCTG - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7316,6 +8196,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glitter",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -7332,9 +8214,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glitter Blue",
     "product_type": "Filament",
+    "series": "Glitter PLA",
     "sku": "2020GBLUE",
-    "title": "Glitter PLA - Glitter Blue"
+    "title": "Glitter PLA - Glitter Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7357,6 +8242,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -7373,9 +8260,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSBLU1K",
-    "title": "Standard ABS - Blue"
+    "title": "Standard ABS - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7398,6 +8288,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6",
@@ -7414,9 +8306,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Cayman Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "68fe8dcbb8a6c-1",
-    "title": "PLA+ - Cayman Blue"
+    "title": "PLA+ - Cayman Blue",
+    "updated_at": 1793807004937
   },
   {
     "RFID_Data": {
@@ -7439,6 +8334,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -7455,9 +8352,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Ocean Blue",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "67bbc4d361b93",
-    "title": "PLA+ - Ocean Blue"
+    "title": "PLA+ - Ocean Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7480,6 +8380,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -7496,9 +8398,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard PCTG",
     "sku": "STDPCTGBLK1K",
-    "title": "Standard PCTG - Black"
+    "title": "Standard PCTG - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7521,6 +8426,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -7537,9 +8444,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "2050RED",
-    "title": "Canadian-made ASA - Red"
+    "title": "Canadian-made ASA - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7562,6 +8472,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8F4F8FF",
@@ -7578,9 +8490,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "Standard TPU 90A",
     "sku": "STDTPUTRN1K",
-    "title": "Standard TPU 90A - Transparent"
+    "title": "Standard TPU 90A - Transparent",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7603,6 +8518,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -7619,9 +8536,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "2027ORANGE P",
-    "title": "Matte PLA+ - Orange"
+    "title": "Matte PLA+ - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7644,6 +8564,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -7660,9 +8582,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "68fe8db67d4bc",
-    "title": "Silk PLA - Blue"
+    "title": "Silk PLA - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7685,6 +8610,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D4AF37FF",
@@ -7701,9 +8628,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Antique Gold",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "6a31e03d2d0b8",
-    "title": "Silk PLA - Antique Gold"
+    "title": "Silk PLA - Antique Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7726,6 +8656,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -7742,9 +8674,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Medium Grey",
     "product_type": "Filament",
+    "series": "HT PLA",
     "sku": "68fe986a6c038",
-    "title": "HT PLA - Medium Grey"
+    "title": "HT PLA - Medium Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7767,6 +8702,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -7783,9 +8720,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Military Green",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "67bbc6d36c5d1",
-    "title": "Standard PLA - Military Green"
+    "title": "Standard PLA - Military Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7808,6 +8748,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Rainbow",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#4AA8E8FF",
@@ -7824,9 +8766,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gradient",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAGRD1K",
-    "title": "Standard PLA - Gradient"
+    "title": "Standard PLA - Gradient",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7849,6 +8794,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -7865,9 +8812,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Budget PETG",
     "sku": "67bbc810cb9f0",
-    "title": "Budget PETG - Orange"
+    "title": "Budget PETG - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7890,6 +8840,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -7906,9 +8858,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "HT PLA",
     "sku": "STDHTPLABLK1K",
-    "title": "HT PLA - Black"
+    "title": "HT PLA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7931,6 +8886,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -7947,9 +8904,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSRED1K",
-    "title": "Standard ABS - Red"
+    "title": "Standard ABS - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7972,6 +8932,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -7988,9 +8950,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGDGRN1K",
-    "title": "Standard PETG - Dark Green"
+    "title": "Standard PETG - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8013,6 +8978,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -8029,9 +8996,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGRED1K",
-    "title": "Standard PETG - Red"
+    "title": "Standard PETG - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8054,6 +9024,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -8070,9 +9042,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Budget PLA Refill",
     "sku": "67bbc8099178e-2",
-    "title": "Budget PLA Refill - Green"
+    "title": "Budget PLA Refill - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8095,6 +9070,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -8111,9 +9088,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Fighter Jet Blue",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "6a31e0158e31d",
-    "title": "PETG+ - Fighter Jet Blue"
+    "title": "PETG+ - Fighter Jet Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8136,6 +9116,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -8152,9 +9134,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "HT PLA",
     "sku": "STDHTPLAWHT1K",
-    "title": "HT PLA - White"
+    "title": "HT PLA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8177,6 +9162,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -8193,9 +9180,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Medium Grey",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "2027MEDGREY P",
-    "title": "Matte PLA+ - Medium Grey"
+    "title": "Matte PLA+ - Medium Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8218,6 +9208,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -8234,9 +9226,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Flame Retardant ABS",
     "sku": "68fe8dbc9f773",
-    "title": "Flame Retardant ABS - Grey"
+    "title": "Flame Retardant ABS - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8265,6 +9260,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -8283,9 +9280,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Red/Blue/Gold",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d8a31e1",
-    "title": "Tri-Color Silk PLA - Red/Blue/Gold"
+    "title": "Tri-Color Silk PLA - Red/Blue/Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8308,6 +9308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8F4F8FF",
@@ -8324,9 +9326,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Transparent / Natural",
     "product_type": "Filament",
+    "series": "Standard PC+",
     "sku": "STDPCPTNTR1K",
-    "title": "Standard PC+ - Transparent / Natural"
+    "title": "Standard PC+ - Transparent / Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8349,6 +9354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -8365,9 +9372,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Red",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGTRED1K",
-    "title": "Standard PETG - Transparent Red"
+    "title": "Standard PETG - Transparent Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8390,6 +9400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -8406,9 +9418,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGBLU1K",
-    "title": "Standard PETG - Blue"
+    "title": "Standard PETG - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8431,6 +9446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F06FAFFF",
@@ -8447,9 +9464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAPNK1K",
-    "title": "Standard PLA - Pink"
+    "title": "Standard PLA - Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8472,6 +9492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -8488,9 +9510,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Evergreen",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "6a31e01590a20",
-    "title": "Matte PLA+ - Evergreen"
+    "title": "Matte PLA+ - Evergreen",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8513,6 +9538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080",
@@ -8529,9 +9556,12 @@
     "info3": false,
     "material": "PETG-GF",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Standard PETG-GF",
     "sku": "68fe8db376a05",
-    "title": "Standard PETG-GF - Grey"
+    "title": "Standard PETG-GF - Grey",
+    "updated_at": 1793807012063
   },
   {
     "RFID_Data": {
@@ -8554,6 +9584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -8570,9 +9602,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGBLK1K",
-    "title": "Standard PETG - Black"
+    "title": "Standard PETG - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8595,6 +9630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -8611,9 +9648,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6e88ee44",
-    "title": "Budget PLA - Grey"
+    "title": "Budget PLA - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8636,6 +9676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -8652,9 +9694,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6e821f15",
-    "title": "Budget PLA - White"
+    "title": "Budget PLA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8683,6 +9728,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B3FA0FF",
@@ -8701,9 +9748,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Purple/Yellow/Blue",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d9ed34b",
-    "title": "Tri-Color Silk PLA - Purple/Yellow/Blue"
+    "title": "Tri-Color Silk PLA - Purple/Yellow/Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8726,6 +9776,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4F",
@@ -8742,9 +9794,12 @@
     "info3": false,
     "material": "PCTG",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Standard PCTG",
     "sku": "STDPCTGGRN1K",
-    "title": "Standard PCTG - Green"
+    "title": "Standard PCTG - Green",
+    "updated_at": 1793807009327
   },
   {
     "RFID_Data": {
@@ -8767,6 +9822,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#30C5C0FF",
@@ -8783,9 +9840,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Aqua",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020AQU",
-    "title": "PLA+ - Aqua"
+    "title": "PLA+ - Aqua",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8808,6 +9868,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8F4F8FF",
@@ -8824,9 +9886,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSTRN1K",
-    "title": "Standard ABS - Transparent"
+    "title": "Standard ABS - Transparent",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8849,6 +9914,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2A2A2AFF",
@@ -8865,9 +9932,12 @@
     "info3": false,
     "material": "PC",
     "measure": "1000 g",
+    "name": "Carbon Fiber",
     "product_type": "Filament",
+    "series": "Standard PC+",
     "sku": "67bbc29504f07",
-    "title": "Standard PC+ - Carbon Fiber"
+    "title": "Standard PC+ - Carbon Fiber",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8896,6 +9966,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D4AF37FF",
@@ -8914,9 +9986,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Gold/Silver/Copper",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5d903243",
-    "title": "Tri-Color Silk PLA - Gold/Silver/Copper"
+    "title": "Tri-Color Silk PLA - Gold/Silver/Copper",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8939,6 +10014,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080",
@@ -8955,9 +10032,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Standard PLA Refill",
     "sku": "6983c5fc60dcc",
-    "title": "Standard PLA Refill - Grey"
+    "title": "Standard PLA Refill - Grey",
+    "updated_at": 1793807015229
   },
   {
     "RFID_Data": {
@@ -8980,6 +10060,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -8996,9 +10078,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSBLK1K",
-    "title": "Standard ABS - Black"
+    "title": "Standard ABS - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9021,6 +10106,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -9037,9 +10124,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "Canadian-made ASA",
     "sku": "2050BLUE",
-    "title": "Canadian-made ASA - Blue"
+    "title": "Canadian-made ASA - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9062,6 +10152,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8F4F8FF",
@@ -9078,9 +10170,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent",
     "product_type": "Filament",
+    "series": "Standard PETG Refill",
     "sku": "6983c5fa40a02",
-    "title": "Standard PETG Refill - Transparent"
+    "title": "Standard PETG Refill - Transparent",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9103,6 +10198,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#C8F060FF",
@@ -9119,9 +10216,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Glow in the Dark",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAGDGRN1K",
-    "title": "Standard PLA - Glow in the Dark"
+    "title": "Standard PLA - Glow in the Dark",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9147,6 +10247,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Bicolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -9164,9 +10266,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Blue/Green",
     "product_type": "Filament",
+    "series": "Dual-Color Silk PLA",
     "sku": "6983c5e34d5aa",
-    "title": "Dual-Color Silk PLA - Blue/Green"
+    "title": "Dual-Color Silk PLA - Blue/Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9189,6 +10294,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F7D116FF",
@@ -9205,9 +10312,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020YLW",
-    "title": "PLA+ - Yellow"
+    "title": "PLA+ - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9230,6 +10340,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -9246,9 +10358,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Transparent Blue",
     "product_type": "Filament",
+    "series": "Standard PETG",
     "sku": "STDPETGTBLU1K",
-    "title": "Standard PETG - Transparent Blue"
+    "title": "Standard PETG - Transparent Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9271,6 +10386,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -9287,9 +10404,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "68fe8db79a765",
-    "title": "Silk PLA - White"
+    "title": "Silk PLA - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9312,6 +10432,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -9328,9 +10450,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Ocean Blue",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "6a31e0159297a",
-    "title": "PETG+ - Ocean Blue"
+    "title": "PETG+ - Ocean Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9353,6 +10478,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -9369,9 +10496,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSDGRN1K",
-    "title": "Standard ABS - Dark Green"
+    "title": "Standard ABS - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9394,6 +10524,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -9410,9 +10542,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard Flexible PLA",
     "sku": "STDSFPLABLK1K",
-    "title": "Standard Flexible PLA - Black"
+    "title": "Standard Flexible PLA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9435,6 +10570,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -9451,9 +10588,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Standard ASA",
     "sku": "STDASABLK1K",
-    "title": "Standard ASA - Black"
+    "title": "Standard ASA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9476,6 +10616,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -9492,9 +10634,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Budget PLA Refill",
     "sku": "67bbc6e821f16",
-    "title": "Budget PLA Refill - White"
+    "title": "Budget PLA Refill - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9517,6 +10662,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#B8BCC2FF",
@@ -9533,9 +10680,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020SILVER P",
-    "title": "PLA+ - Silver"
+    "title": "PLA+ - Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9558,6 +10708,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#5A5F66FF",
@@ -9574,9 +10726,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Gun Metal Grey",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030BGML-2",
-    "title": "PETG+ - Gun Metal Grey"
+    "title": "PETG+ - Gun Metal Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9599,6 +10754,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -9615,9 +10772,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAGRY1K",
-    "title": "Standard PLA - Grey"
+    "title": "Standard PLA - Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9640,6 +10800,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -9656,9 +10818,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "Budget PLA Refill",
     "sku": "67bbc6eb0d2fc-2",
-    "title": "Budget PLA Refill - Dark Blue"
+    "title": "Budget PLA Refill - Dark Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9681,6 +10846,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -9697,9 +10864,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "67bbc270638c6",
-    "title": "PLA+ - Black"
+    "title": "PLA+ - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9722,6 +10892,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -9738,9 +10910,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Black",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "67bbc6e247f73",
-    "title": "Standard PLA - Matte Black"
+    "title": "Standard PLA - Matte Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9763,6 +10938,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Pearl",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D4AF37FF",
@@ -9779,9 +10956,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pearl Golden",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLAPGLD1K",
-    "title": "Standard PLA - Pearl Golden"
+    "title": "Standard PLA - Pearl Golden",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9804,6 +10984,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -9820,9 +11002,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "2027WHITE P",
-    "title": "Matte PLA+ - White"
+    "title": "Matte PLA+ - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9845,6 +11030,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -9861,9 +11048,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Medium Grey",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030GRY",
-    "title": "PETG+ - Medium Grey"
+    "title": "PETG+ - Medium Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9886,6 +11076,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -9902,9 +11094,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Light Blue",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLALBLU1K",
-    "title": "Standard PLA - Light Blue"
+    "title": "Standard PLA - Light Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9927,6 +11122,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2A2A2AFF",
@@ -9943,9 +11140,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Carbon Fiber",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLACF1K",
-    "title": "Standard PLA - Carbon Fiber"
+    "title": "Standard PLA - Carbon Fiber",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9968,6 +11168,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -9984,9 +11186,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Dark Blue",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc6eb0d2fc-1",
-    "title": "Budget PLA - Dark Blue"
+    "title": "Budget PLA - Dark Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10009,6 +11214,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -10025,9 +11232,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "2027RED P",
-    "title": "Matte PLA+ - Red"
+    "title": "Matte PLA+ - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10050,6 +11260,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B3FA0FF",
@@ -10066,9 +11278,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030PUR P",
-    "title": "PETG+ - Purple"
+    "title": "PETG+ - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10091,6 +11306,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -10107,9 +11324,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Matte Grey",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "67bbc6e24e7d8",
-    "title": "Standard PLA - Matte Grey"
+    "title": "Standard PLA - Matte Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10132,6 +11352,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -10148,9 +11370,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Cayman Blue",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "3DPC-CAYMAN-BLUE-CANADIAN-MADE-PE",
-    "title": "PETG+ - Cayman Blue"
+    "title": "PETG+ - Cayman Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10173,6 +11398,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Matt",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -10189,9 +11416,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Ocean Blue",
     "product_type": "Filament",
+    "series": "Matte PLA+",
     "sku": "6a31e01592385",
-    "title": "Matte PLA+ - Ocean Blue"
+    "title": "Matte PLA+ - Ocean Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10214,6 +11444,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -10230,9 +11462,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Silk PLA",
     "sku": "68fe8db39fad4",
-    "title": "Silk PLA - Black"
+    "title": "Silk PLA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10255,6 +11490,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1A",
@@ -10271,9 +11508,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Flame Retardant ABS",
     "sku": "68fe8dbb48ed8",
-    "title": "Flame Retardant ABS - Black"
+    "title": "Flame Retardant ABS - Black",
+    "updated_at": 1793807002973
   },
   {
     "RFID_Data": {
@@ -10296,6 +11536,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -10312,9 +11554,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "Basic PLA",
     "sku": "68fe9864611f8",
-    "title": "Basic PLA - Black"
+    "title": "Basic PLA - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10337,6 +11582,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#E8DCC0FF",
@@ -10353,9 +11600,12 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Natural",
     "product_type": "Filament",
+    "series": "Standard ASA",
     "sku": "STDASANTR1K",
-    "title": "Standard ASA - Natural"
+    "title": "Standard ASA - Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10378,6 +11628,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#7B3FA0FF",
@@ -10394,9 +11646,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Royal Purple",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "67bbc4e00fd4a",
-    "title": "PLA+ - Royal Purple"
+    "title": "PLA+ - Royal Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10419,6 +11674,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1E5BC6FF",
@@ -10435,9 +11692,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "HT PLA",
     "sku": "68fe98676b74b",
-    "title": "HT PLA - Blue"
+    "title": "HT PLA - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10460,6 +11720,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#C8102EFF",
@@ -10476,9 +11738,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "China Red",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLACRED1K",
-    "title": "Standard PLA - China Red"
+    "title": "Standard PLA - China Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10501,6 +11766,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -10517,9 +11784,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Budget PETG",
     "sku": "67bbc8125ec88",
-    "title": "Budget PETG - White"
+    "title": "Budget PETG - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10542,6 +11812,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -10558,9 +11830,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PETG+",
     "sku": "2030RED",
-    "title": "PETG+ - Red"
+    "title": "PETG+ - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10583,6 +11858,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#B08850FF",
@@ -10599,9 +11876,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Natural Wood Fill",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "67bbc27ba089e",
-    "title": "PLA+ - Natural Wood Fill"
+    "title": "PLA+ - Natural Wood Fill",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10624,6 +11904,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F2F2F2FF",
@@ -10640,9 +11922,12 @@
     "info3": false,
     "material": "PETG",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "Standard PETG Refill",
     "sku": "6983c5fc0f33e",
-    "title": "Standard PETG Refill - White"
+    "title": "Standard PETG Refill - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10665,6 +11950,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -10681,9 +11968,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "Budget PLA",
     "sku": "67bbc8099178e-1",
-    "title": "Budget PLA - Green"
+    "title": "Budget PLA - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10706,6 +11996,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#2E9E4FFF",
@@ -10722,9 +12014,12 @@
     "info3": false,
     "material": "PLA+",
     "measure": "1000 g",
+    "name": "Dark Green",
     "product_type": "Filament",
+    "series": "PLA+",
     "sku": "2020GRN",
-    "title": "PLA+ - Dark Green"
+    "title": "PLA+ - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10747,6 +12042,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#D32F2FFF",
@@ -10763,9 +12060,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "Standard PLA",
     "sku": "STDPLARED1K",
-    "title": "Standard PLA - Red"
+    "title": "Standard PLA - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10788,6 +12088,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#F28C1EFF",
@@ -10804,9 +12106,12 @@
     "info3": false,
     "material": "ABS",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "Standard ABS",
     "sku": "STDABSORN1K",
-    "title": "Standard ABS - Orange"
+    "title": "Standard ABS - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10835,6 +12140,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "Tricolor",
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#1A1A1AFF",
@@ -10853,9 +12160,12 @@
     "info3": false,
     "material": "PLA Silk",
     "measure": "1000 g",
+    "name": "Black/Gold/Purple",
     "product_type": "Filament",
+    "series": "Tri-Color Silk PLA",
     "sku": "6983c5e5da23e",
-    "title": "Tri-Color Silk PLA - Black/Gold/Purple"
+    "title": "Tri-Color Silk PLA - Black/Gold/Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10878,6 +12188,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": null,
     "barcode": null,
     "brand": "3D Printing Canada",
     "color": "#808080FF",
@@ -10894,8 +12206,11 @@
     "info3": false,
     "material": "ASA",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "Standard ASA",
     "sku": "STDASAGRY1K",
-    "title": "Standard ASA - Grey"
+    "title": "Standard ASA - Grey",
+    "updated_at": null
   }
 ]

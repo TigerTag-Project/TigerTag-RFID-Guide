@@ -20,6 +20,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1A1A1A",
@@ -36,9 +38,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPETG-BLACK",
-    "title": "CarbonCore25 - Black"
+    "title": "CarbonCore25 - Black",
+    "updated_at": 1792139573269
   },
   {
     "RFID_Data": {
@@ -61,6 +66,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2E9E5B",
@@ -77,9 +84,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA Aura Silk",
     "sku": "BIQU-AURA-GREEN",
-    "title": "PLA Aura Silk - Green"
+    "title": "PLA Aura Silk - Green",
+    "updated_at": 1792138467034
   },
   {
     "RFID_Data": {
@@ -102,6 +112,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F28C28",
@@ -118,9 +130,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-ORANGE",
-    "title": "PLA GO - Orange"
+    "title": "PLA GO - Orange",
+    "updated_at": 1792138347861
   },
   {
     "RFID_Data": {
@@ -143,6 +158,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#C0272D",
@@ -159,9 +176,12 @@
     "info3": false,
     "material": "PA-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPA-RED",
-    "title": "CarbonCore25 - Red"
+    "title": "CarbonCore25 - Red",
+    "updated_at": 1792139766260
   },
   {
     "RFID_Data": {
@@ -184,6 +204,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#E8EEF0",
@@ -200,9 +222,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Iceland Spar",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "BIQU-TRANS-ICELANDSPAR",
-    "title": "PLA Translucent - Iceland Spar"
+    "title": "PLA Translucent - Iceland Spar",
+    "updated_at": 1792139190752
   },
   {
     "RFID_Data": {
@@ -225,6 +250,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#7A9A3A",
@@ -241,9 +268,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-GREEN",
-    "title": "PLA GO - Green"
+    "title": "PLA GO - Green",
+    "updated_at": 1792138183849
   },
   {
     "RFID_Data": {
@@ -266,6 +296,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2F2F2",
@@ -282,9 +314,12 @@
     "info3": false,
     "material": "PA-CF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPA-WHITE",
-    "title": "CarbonCore25 - White"
+    "title": "CarbonCore25 - White",
+    "updated_at": 1792139808186
   },
   {
     "RFID_Data": {
@@ -307,6 +342,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2D23C",
@@ -323,9 +360,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-YELLOW",
-    "title": "PLA GO - Yellow"
+    "title": "PLA GO - Yellow",
+    "updated_at": 1792138259852
   },
   {
     "RFID_Data": {
@@ -348,6 +388,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2A5FB0",
@@ -364,9 +406,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCABS-BLUE",
-    "title": "CarbonCore25 - Blue"
+    "title": "CarbonCore25 - Blue",
+    "updated_at": 1792139479843
   },
   {
     "RFID_Data": {
@@ -389,6 +434,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2A5FB0",
@@ -405,9 +452,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "MorPhlex",
     "sku": "BIQU-MORPH-BLUE",
-    "title": "MorPhlex - Blue"
+    "title": "MorPhlex - Blue",
+    "updated_at": 1792139081948
   },
   {
     "RFID_Data": {
@@ -430,6 +480,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#7A4FA8",
@@ -446,9 +498,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "MorPhlex",
     "sku": "BIQU-MORPH-PURPLE",
-    "title": "MorPhlex - Purple"
+    "title": "MorPhlex - Purple",
+    "updated_at": 1792139025832
   },
   {
     "RFID_Data": {
@@ -471,6 +526,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#8C8C8C",
@@ -487,9 +544,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-GRAY",
-    "title": "PLA GO - Gray"
+    "title": "PLA GO - Gray",
+    "updated_at": 1792138190536
   },
   {
     "RFID_Data": {
@@ -512,6 +572,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#7A4FA8",
@@ -528,9 +590,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Purple",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-PURPLE",
-    "title": "PLA GO - Purple"
+    "title": "PLA GO - Purple",
+    "updated_at": 1792138407153
   },
   {
     "RFID_Data": {
@@ -553,6 +618,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2A5FB0",
@@ -569,9 +636,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-BLUE",
-    "title": "PLA GO - Blue"
+    "title": "PLA GO - Blue",
+    "updated_at": 1792138271748
   },
   {
     "RFID_Data": {
@@ -594,6 +664,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1A1A1A",
@@ -610,9 +682,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA HS",
     "sku": "BIQU-HS-BLACK",
-    "title": "PLA HS - Black"
+    "title": "PLA HS - Black",
+    "updated_at": 1792138678463
   },
   {
     "RFID_Data": {
@@ -635,6 +710,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#A8D8EA",
@@ -651,9 +728,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Ice Blue",
     "product_type": "Filament",
+    "series": "PLA Aura Silk",
     "sku": "BIQU-AURA-ICEBLUE",
-    "title": "PLA Aura Silk - Ice Blue"
+    "title": "PLA Aura Silk - Ice Blue",
+    "updated_at": 1792138519870
   },
   {
     "RFID_Data": {
@@ -676,6 +756,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1A1A1A",
@@ -692,9 +774,12 @@
     "info3": false,
     "material": "PA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPA-BLACK",
-    "title": "CarbonCore25 - Black"
+    "title": "CarbonCore25 - Black",
+    "updated_at": 1792139684341
   },
   {
     "RFID_Data": {
@@ -717,6 +802,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#C0272D",
@@ -733,9 +820,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPLA-RED",
-    "title": "CarbonCore25 - Red"
+    "title": "CarbonCore25 - Red",
+    "updated_at": 1792139378936
   },
   {
     "RFID_Data": {
@@ -758,6 +848,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2D23C",
@@ -774,9 +866,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "PLA-HR",
     "sku": "BIQU-HR-YELLOW",
-    "title": "PLA-HR - Yellow"
+    "title": "PLA-HR - Yellow",
+    "updated_at": 1792138829761
   },
   {
     "RFID_Data": {
@@ -799,6 +894,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2A5FB0",
@@ -815,9 +912,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCASA-BLUE",
-    "title": "CarbonCore25 - Blue"
+    "title": "CarbonCore25 - Blue",
+    "updated_at": 1792139849342
   },
   {
     "RFID_Data": {
@@ -840,6 +940,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#6B4A2F",
@@ -856,9 +958,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Brown",
     "product_type": "Filament",
+    "series": "PLA-HR",
     "sku": "BIQU-HR-BROWN",
-    "title": "PLA-HR - Brown"
+    "title": "PLA-HR - Brown",
+    "updated_at": 1792138831262
   },
   {
     "RFID_Data": {
@@ -881,6 +986,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1A1A1A",
@@ -897,9 +1004,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "MorPhlex",
     "sku": "BIQU-MORPH-BLACK",
-    "title": "MorPhlex - Black"
+    "title": "MorPhlex - Black",
+    "updated_at": 1792138990970
   },
   {
     "RFID_Data": {
@@ -922,6 +1032,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2F2F2",
@@ -938,9 +1050,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA Aura Silk",
     "sku": "BIQU-AURA-WHITE",
-    "title": "PLA Aura Silk - White"
+    "title": "PLA Aura Silk - White",
+    "updated_at": 1792138430240
   },
   {
     "RFID_Data": {
@@ -963,6 +1078,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#8C8C8C",
@@ -979,9 +1096,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Gray",
     "product_type": "Filament",
+    "series": "MorPhlex",
     "sku": "BIQU-MORPH-GRAY",
-    "title": "MorPhlex - Gray"
+    "title": "MorPhlex - Gray",
+    "updated_at": 1792139153278
   },
   {
     "RFID_Data": {
@@ -1004,6 +1124,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2D23C",
@@ -1020,9 +1142,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCASA-YELLOW",
-    "title": "CarbonCore25 - Yellow"
+    "title": "CarbonCore25 - Yellow",
+    "updated_at": 1792139946576
   },
   {
     "RFID_Data": {
@@ -1045,6 +1170,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2E9E5B",
@@ -1061,9 +1188,12 @@
     "info3": false,
     "material": "PA-CF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPA-GREEN",
-    "title": "CarbonCore25 - Green"
+    "title": "CarbonCore25 - Green",
+    "updated_at": 1792139727868
   },
   {
     "RFID_Data": {
@@ -1086,6 +1216,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2D23C",
@@ -1102,9 +1234,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Yellow Orange White",
     "product_type": "Filament",
+    "series": "PLA-HR",
     "sku": "BIQU-HR-YELLOWORANGEWHITE",
-    "title": "PLA-HR - Yellow Orange White"
+    "title": "PLA-HR - Yellow Orange White",
+    "updated_at": 1792138912363
   },
   {
     "RFID_Data": {
@@ -1127,6 +1262,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#B8D4E8",
@@ -1143,9 +1280,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Mist Blue",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "BIQU-TRANS-MISTBLUE",
-    "title": "PLA Translucent - Mist Blue"
+    "title": "PLA Translucent - Mist Blue",
+    "updated_at": 1792139220220
   },
   {
     "RFID_Data": {
@@ -1168,6 +1308,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#C0272D",
@@ -1184,9 +1326,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCASA-RED",
-    "title": "CarbonCore25 - Red"
+    "title": "CarbonCore25 - Red",
+    "updated_at": 1792139880131
   },
   {
     "RFID_Data": {
@@ -1209,6 +1354,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#C0272D",
@@ -1225,9 +1372,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red Purple White",
     "product_type": "Filament",
+    "series": "PLA-HR",
     "sku": "BIQU-HR-REDPURPLEWHITE",
-    "title": "PLA-HR - Red Purple White"
+    "title": "PLA-HR - Red Purple White",
+    "updated_at": 1792138924267
   },
   {
     "RFID_Data": {
@@ -1250,6 +1400,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#C0272D",
@@ -1266,9 +1418,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "MorPhlex",
     "sku": "BIQU-MORPH-RED",
-    "title": "MorPhlex - Red"
+    "title": "MorPhlex - Red",
+    "updated_at": 1792139122869
   },
   {
     "RFID_Data": {
@@ -1291,6 +1446,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2C6D8",
@@ -1307,9 +1464,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Sakura Pink",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "BIQU-TRANS-SAKURAPINK",
-    "title": "PLA Translucent - Sakura Pink"
+    "title": "PLA Translucent - Sakura Pink",
+    "updated_at": 1792139235273
   },
   {
     "RFID_Data": {
@@ -1332,6 +1492,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1A1A1AFF",
@@ -1348,9 +1510,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-BLACK",
-    "title": "PLA GO - Black"
+    "title": "PLA GO - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1373,6 +1538,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Tricolor",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2A5FB0",
@@ -1389,9 +1556,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue Orange White",
     "product_type": "Filament",
+    "series": "PLA-HR",
     "sku": "BIQU-HR-BLUEORANGEWHITE",
-    "title": "PLA-HR - Blue Orange White"
+    "title": "PLA-HR - Blue Orange White",
+    "updated_at": 1792138860249
   },
   {
     "RFID_Data": {
@@ -1414,6 +1584,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2F2F2",
@@ -1430,9 +1602,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-WHITE",
-    "title": "PLA GO - White"
+    "title": "PLA GO - White",
+    "updated_at": 1792138268666
   },
   {
     "RFID_Data": {
@@ -1455,6 +1630,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2A5FB0",
@@ -1471,9 +1648,12 @@
     "info3": false,
     "material": "PA-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPA-BLUE",
-    "title": "CarbonCore25 - Blue"
+    "title": "CarbonCore25 - Blue",
+    "updated_at": 1792139748655
   },
   {
     "RFID_Data": {
@@ -1496,6 +1676,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2A5FB0",
@@ -1512,9 +1694,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPETG-BLUE",
-    "title": "CarbonCore25 - Blue"
+    "title": "CarbonCore25 - Blue",
+    "updated_at": 1792139621557
   },
   {
     "RFID_Data": {
@@ -1537,6 +1722,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F28C28",
@@ -1553,9 +1740,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "MorPhlex",
     "sku": "BIQU-MORPH-ORANGE",
-    "title": "MorPhlex - Orange"
+    "title": "MorPhlex - Orange",
+    "updated_at": 1792139001334
   },
   {
     "RFID_Data": {
@@ -1578,6 +1768,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#C0C0C0",
@@ -1594,9 +1786,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Silver",
     "product_type": "Filament",
+    "series": "PLA Aura Silk",
     "sku": "BIQU-AURA-SILVER",
-    "title": "PLA Aura Silk - Silver"
+    "title": "PLA Aura Silk - Silver",
+    "updated_at": 1792138544865
   },
   {
     "RFID_Data": {
@@ -1619,6 +1814,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2F2F2",
@@ -1635,9 +1832,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPETG-WHITE",
-    "title": "CarbonCore25 - White"
+    "title": "CarbonCore25 - White",
+    "updated_at": 1792139680429
   },
   {
     "RFID_Data": {
@@ -1660,6 +1860,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2F2F2",
@@ -1676,9 +1878,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCASA-WHITE",
-    "title": "CarbonCore25 - White"
+    "title": "CarbonCore25 - White",
+    "updated_at": 1792139920177
   },
   {
     "RFID_Data": {
@@ -1701,6 +1906,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#E58FB5",
@@ -1717,9 +1924,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA Aura Silk",
     "sku": "BIQU-AURA-PINK",
-    "title": "PLA Aura Silk - Pink"
+    "title": "PLA Aura Silk - Pink",
+    "updated_at": 1792138606661
   },
   {
     "RFID_Data": {
@@ -1742,6 +1952,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#C0272D",
@@ -1758,9 +1970,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCABS-RED",
-    "title": "CarbonCore25 - Red"
+    "title": "CarbonCore25 - Red",
+    "updated_at": 1792139508569
   },
   {
     "RFID_Data": {
@@ -1783,6 +1998,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Translucent",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#6EA8E0",
@@ -1799,9 +2016,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Alpine Blue",
     "product_type": "Filament",
+    "series": "PLA Translucent",
     "sku": "BIQU-TRANS-ALPINEBLUE",
-    "title": "PLA Translucent - Alpine Blue"
+    "title": "PLA Translucent - Alpine Blue",
+    "updated_at": 1792139265031
   },
   {
     "RFID_Data": {
@@ -1824,6 +2044,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2A5FB0",
@@ -1840,9 +2062,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "PLA-HR",
     "sku": "BIQU-HR-BLUE",
-    "title": "PLA-HR - Blue"
+    "title": "PLA-HR - Blue",
+    "updated_at": 1792138761821
   },
   {
     "RFID_Data": {
@@ -1865,6 +2090,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2D23C",
@@ -1881,9 +2108,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Yellow",
     "product_type": "Filament",
+    "series": "MorPhlex",
     "sku": "BIQU-MORPH-YELLOW",
-    "title": "MorPhlex - Yellow"
+    "title": "MorPhlex - Yellow",
+    "updated_at": 1792139144737
   },
   {
     "RFID_Data": {
@@ -1906,6 +2136,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F0A878",
@@ -1922,9 +2154,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Apricot",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-APRICOT",
-    "title": "PLA GO - Apricot"
+    "title": "PLA GO - Apricot",
+    "updated_at": 1792138331179
   },
   {
     "RFID_Data": {
@@ -1947,6 +2182,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2D86B",
@@ -1963,9 +2200,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cheese Yellow",
     "product_type": "Filament",
+    "series": "PLA Aura Silk",
     "sku": "BIQU-AURA-CHEESEYELLOW",
-    "title": "PLA Aura Silk - Cheese Yellow"
+    "title": "PLA Aura Silk - Cheese Yellow",
+    "updated_at": 1792138493536
   },
   {
     "RFID_Data": {
@@ -1988,6 +2228,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2CB5D8",
@@ -2004,9 +2246,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Cyan",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-CYAN",
-    "title": "PLA GO - Cyan"
+    "title": "PLA GO - Cyan",
+    "updated_at": 1792138346768
   },
   {
     "RFID_Data": {
@@ -2029,6 +2274,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2E9E5B",
@@ -2045,9 +2292,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPLA-GREEN",
-    "title": "CarbonCore25 - Green"
+    "title": "CarbonCore25 - Green",
+    "updated_at": 1792139308054
   },
   {
     "RFID_Data": {
@@ -2070,6 +2320,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1A1A1A",
@@ -2086,9 +2338,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "PLA-HR",
     "sku": "BIQU-HR-BLACK",
-    "title": "PLA-HR - Black"
+    "title": "PLA-HR - Black",
+    "updated_at": 1792138787563
   },
   {
     "RFID_Data": {
@@ -2111,6 +2366,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2F2F2",
@@ -2127,9 +2384,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA HS",
     "sku": "BIQU-HS-WHITE",
-    "title": "PLA HS - White"
+    "title": "PLA HS - White",
+    "updated_at": 1792138631432
   },
   {
     "RFID_Data": {
@@ -2152,6 +2412,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Silk",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#B79CE0",
@@ -2168,9 +2430,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Lavender Purple",
     "product_type": "Filament",
+    "series": "PLA Aura Silk",
     "sku": "BIQU-AURA-LAVENDERPURPLE",
-    "title": "PLA Aura Silk - Lavender Purple"
+    "title": "PLA Aura Silk - Lavender Purple",
+    "updated_at": 1792138578073
   },
   {
     "RFID_Data": {
@@ -2193,6 +2458,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#D8C8A8",
@@ -2209,9 +2476,12 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Beige",
     "product_type": "Filament",
+    "series": "MorPhlex",
     "sku": "BIQU-MORPH-BEIGE",
-    "title": "MorPhlex - Beige"
+    "title": "MorPhlex - Beige",
+    "updated_at": 1792138935941
   },
   {
     "RFID_Data": {
@@ -2234,6 +2504,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1A1A1A",
@@ -2250,9 +2522,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPLA-BLACK",
-    "title": "CarbonCore25 - Black"
+    "title": "CarbonCore25 - Black",
+    "updated_at": 1792139308760
   },
   {
     "RFID_Data": {
@@ -2275,6 +2550,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2A5FB0",
@@ -2291,9 +2568,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "Blue",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPLA-BLUE",
-    "title": "CarbonCore25 - Blue"
+    "title": "CarbonCore25 - Blue",
+    "updated_at": 1792139352941
   },
   {
     "RFID_Data": {
@@ -2316,6 +2596,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#8C8C8C",
@@ -2332,9 +2614,12 @@
     "info3": false,
     "material": "PLA High Speed",
     "measure": "1000 g",
+    "name": "Grey",
     "product_type": "Filament",
+    "series": "PLA HS",
     "sku": "BIQU-HS-GREY",
-    "title": "PLA HS - Grey"
+    "title": "PLA HS - Grey",
+    "updated_at": 1792138668451
   },
   {
     "RFID_Data": {
@@ -2357,6 +2642,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2F2F2",
@@ -2373,9 +2660,12 @@
     "info3": false,
     "material": "PLA-CF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPLA-WHITE",
-    "title": "CarbonCore25 - White"
+    "title": "CarbonCore25 - White",
+    "updated_at": 1792139404071
   },
   {
     "RFID_Data": {
@@ -2398,6 +2688,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2F2F2",
@@ -2414,9 +2706,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCABS-WHITE",
-    "title": "CarbonCore25 - White"
+    "title": "CarbonCore25 - White",
+    "updated_at": 1792139537426
   },
   {
     "RFID_Data": {
@@ -2439,6 +2734,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1A1A1A",
@@ -2455,9 +2752,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCABS-BLACK",
-    "title": "CarbonCore25 - Black"
+    "title": "CarbonCore25 - Black",
+    "updated_at": 1792139425363
   },
   {
     "RFID_Data": {
@@ -2480,6 +2780,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2E9E5B",
@@ -2496,9 +2798,12 @@
     "info3": false,
     "material": "ABS-CF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCABS-GREEN",
-    "title": "CarbonCore25 - Green"
+    "title": "CarbonCore25 - Green",
+    "updated_at": 1792139464246
   },
   {
     "RFID_Data": {
@@ -2521,6 +2826,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#2E9E5B",
@@ -2537,9 +2844,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Green",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPETG-GREEN",
-    "title": "CarbonCore25 - Green"
+    "title": "CarbonCore25 - Green",
+    "updated_at": 1792139588766
   },
   {
     "RFID_Data": {
@@ -2562,6 +2872,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F28C28",
@@ -2578,9 +2890,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Orange",
     "product_type": "Filament",
+    "series": "PLA-HR",
     "sku": "BIQU-HR-ORANGE",
-    "title": "PLA-HR - Orange"
+    "title": "PLA-HR - Orange",
+    "updated_at": 1792138750627
   },
   {
     "RFID_Data": {
@@ -2603,6 +2918,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#C0272D",
@@ -2619,9 +2936,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-RED",
-    "title": "PLA GO - Red"
+    "title": "PLA GO - Red",
+    "updated_at": 1792138197241
   },
   {
     "RFID_Data": {
@@ -2644,6 +2964,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#F2F2F2",
@@ -2660,9 +2982,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "White",
     "product_type": "Filament",
+    "series": "PLA-HR",
     "sku": "BIQU-HR-WHITE",
-    "title": "PLA-HR - White"
+    "title": "PLA-HR - White",
+    "updated_at": 1792138704359
   },
   {
     "RFID_Data": {
@@ -2685,6 +3010,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#E58FB5",
@@ -2701,9 +3028,12 @@
     "info3": false,
     "material": "PLA",
     "measure": "1000 g",
+    "name": "Pink",
     "product_type": "Filament",
+    "series": "PLA GO",
     "sku": "BIQU-GO-PINK",
-    "title": "PLA GO - Pink"
+    "title": "PLA GO - Pink",
+    "updated_at": 1792138395457
   },
   {
     "RFID_Data": {
@@ -2726,6 +3056,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1A1A1A",
@@ -2742,9 +3074,12 @@
     "info3": false,
     "material": "ASA-CF",
     "measure": "1000 g",
+    "name": "Black",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCASA-BLACK",
-    "title": "CarbonCore25 - Black"
+    "title": "CarbonCore25 - Black",
+    "updated_at": 1792139824243
   },
   {
     "RFID_Data": {
@@ -2767,6 +3102,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Carbon",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#C0272D",
@@ -2783,9 +3120,12 @@
     "info3": false,
     "material": "PETG-CF",
     "measure": "1000 g",
+    "name": "Red",
     "product_type": "Filament",
+    "series": "CarbonCore25",
     "sku": "BIQU-CCPETG-RED",
-    "title": "CarbonCore25 - Red"
+    "title": "CarbonCore25 - Red",
+    "updated_at": 1792139649051
   },
   {
     "RFID_Data": {
@@ -2808,6 +3148,8 @@
       "id_unit": 21,
       "measure": 1000
     },
+    "aspect1": "Basic",
+    "aspect2": "None",
     "barcode": null,
     "brand": "Biqu",
     "color": "#1F3C88",
@@ -2824,8 +3166,11 @@
     "info3": false,
     "material": "TPU",
     "measure": "1000 g",
+    "name": "Royal Blue",
     "product_type": "Filament",
+    "series": "MorPhlex",
     "sku": "BIQU-MORPH-ROYALBLUE",
-    "title": "MorPhlex - Royal Blue"
+    "title": "MorPhlex - Royal Blue",
+    "updated_at": 1792139072219
   }
 ]
