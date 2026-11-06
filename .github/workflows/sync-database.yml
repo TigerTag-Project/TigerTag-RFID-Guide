@@ -42,6 +42,7 @@ jobs:
         run: python database/split_catalog.py
 
       - name: Commit and push if changes
+        id: commit
         run: |
           if [[ -z "$(git status --porcelain database/)" ]]; then
             echo "No dataset changes — nothing to commit."
@@ -62,6 +63,7 @@ jobs:
           fi
           git commit -m "Auto-sync database: ${changed}"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
       # Tell the site the snapshot may have moved, so a new product shows up on
       # tigersystem.io within minutes instead of at its next hourly regeneration.
@@ -74,3 +76,23 @@ jobs:
         run: |
           curl --silent --show-error --max-time 60 -X POST \
             https://tigersystem.io/api/catalog/refresh || echo "Hub not reachable — it will catch up on its hourly check."
+
+      # tigersystem.io keeps a mirror of this database as static files (its
+      # /database/ fallback endpoint and the playground's data), refreshed when
+      # the site is built. So when this run really changed the data — a new
+      # brand, a corrected product — rebuild the site at once through its Vercel
+      # Deploy Hook. A rebuild only rebuilds what is already on the site's main
+      # branch: no unreleased code goes live. Skipped when nothing changed, and
+      # when the HUB_DEPLOY_HOOK secret is not set.
+      - name: Rebuild tigersystem.io when the data changed
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          HUB_DEPLOY_HOOK: ${{ secrets.HUB_DEPLOY_HOOK }}
+        run: |
+          if [[ -z "$HUB_DEPLOY_HOOK" ]]; then
+            echo "HUB_DEPLOY_HOOK is not set — the mirror refreshes at the site's next build."
+            exit 0
+          fi
+          curl --silent --show-error --fail --max-time 60 -X POST "$HUB_DEPLOY_HOOK" > /dev/null \
+            && echo "tigersystem.io rebuild requested." \
+            || echo "Deploy hook did not answer — the mirror refreshes at the site's next build."
