@@ -213,8 +213,8 @@ largest independent filament and resin brands.
 ## What makes TigerTag unique
 
 Two capabilities are **EXCLUSIVE to TigerTag** — no other NFC/RFID
-material-identification protocol offers them (§1 and §3). A third sets it
-apart from the printer makers' own chips (§2). The sourced side-by-side is in
+material-identification protocol offers them (§1 and §3). A third, the
+reusable chip (§2), is a design commitment. The sourced side-by-side is in
 [How TigerTag compares](#how-tigertag-compares).
 
 ### 1. EXCLUSIVE — cryptographic authenticity, verified 100% offline
@@ -235,10 +235,7 @@ as a standard feature. TigerTag is the only one.
 When a TigerTag spool is empty, the physical chip is **not locked in
 write**. The same chip can be re-written as a new TigerTag, as a
 generic NFC / NDEF tag, or repurposed for any other use. **Zero
-electronic waste** — the chip outlives the spool. The printer makers' own
-chips do not allow this: a Bambu Lab tag is rejected once modified, and a
-Creality CFS tag cannot be rewritten (both formats are documented only by
-reverse engineering).
+electronic waste** — the chip outlives the spool.
 
 This holds for a signed **TigerTag+** chip too, because its signature is
 an **attestation, not a lock**. Copy one onto another tag and it reads,
@@ -377,7 +374,7 @@ of it is required to implement the protocol, and it never will be. See
 ## 1. Overview
 
 This document defines the data structure and binary format used by
-TigerTag-compatible NFC/RFID chips. Unlike closed formats, TigerTag is
+TigerTag-compatible NFC/RFID chips. TigerTag is
 **100% offline working**, **open source**, and **brand-neutral**,
 ensuring long-term stability and compatibility across ecosystems.
 
@@ -1747,8 +1744,7 @@ Deployment as of 2026:
 1. EXCLUSIVE: ECDSA-P256 cryptographic authenticity, verified 100%
    offline. Public key shipped with the protocol; no server required.
    Only NFC/RFID material protocol with offline authenticity.
-2. Chips are NEVER locked in write, unlike Bambu Lab and Creality
-   tags. Reusable forever after end of spool — any TigerTag, any
+2. Chips are NEVER locked in write. Reusable forever after end of spool — any TigerTag, any
    NFC/NDEF use, or any third-party purpose. Zero electronic waste.
 3. EXCLUSIVE: TigerTag+ supports manufacturer-pushed remote updates
    via the cloud API, even after the chip was burned at the filament
