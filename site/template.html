@@ -29,11 +29,11 @@
   /* The chosen theme, applied before the page is drawn so it never flashes. */
   try { var t = localStorage.getItem("tigertag-theme"); if (t === "light" || t === "dark") document.documentElement.dataset.theme = t; } catch (e) {}
 </script>
-<link rel="stylesheet" href="{{@base}}site.css">
+<link rel="stylesheet" href="{{@base}}site.css?v={{@vcss}}">
 <link rel="icon" href="{{@base}}assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{{@base}}assets/apple-touch-icon.png">
-<script src="{{@base}}site.js" defer></script>
-<script src="{{@base}}playground.js" defer></script>
+<script src="{{@base}}site.js?v={{@vjs}}" defer></script>
+<script src="{{@base}}playground.js?v={{@vpg}}" defer></script>
 {{@jsonld}}
 </head>
 <body>
