@@ -24,10 +24,11 @@ dependency the commercial plan rests on.
 
 ## 2. Applicant — DECIDE FIRST, everything else follows
 
-The documents in this repo are written in the name of **"TigerTag Corp"** (33 mentions across 7
-files). The real legal entity behind the project is **3D FRANCE**. These cannot both be right.
+The documents in this repo are written in the name of **"TigerSystem"** (formerly "TigerTag
+Corp", renamed on 2026-11-06). The real legal entity behind the project is **3D FRANCE**. These
+cannot both be right.
 
-| | 3D FRANCE | "TigerTag Corp" |
+| | 3D FRANCE | "TigerSystem" |
 |---|---|---|
 | Exists as a registered entity | **Yes** — SIREN 820444305, est. 2016 | **Unverified — likely not** |
 | Used for the Azure code-signing identity | Yes | No |
@@ -49,7 +50,7 @@ Domains:   tigertag.io, tigersystem.io
 Applicant: Benoit Michaut
 ```
 
-Once decided, the same string must be corrected across the 7 files that say "TigerTag Corp"
+Once decided, the same string must be corrected across the 7 files that say "TigerSystem"
 (`TRADEMARK.md`, `CERTIFICATION.md`, `LICENSING.md`, `LICENSE_COMMERCIAL.md`, `README.md`,
 `SECURITY.md`, `CONTRIBUTING.md`) and in the `©` line.
 

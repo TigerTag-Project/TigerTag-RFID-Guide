@@ -69,7 +69,7 @@ field type, **this repository wins** — see
 
 ## Implementation grant
 
-> TigerTag Corp grants an irrevocable, worldwide, royalty-free right to
+> TigerSystem grants an irrevocable, worldwide, royalty-free right to
 > implement this specification in any product or software, open source
 > or proprietary, without restriction and without further permission.
 
@@ -225,7 +225,7 @@ reusable chip (§2), is a design commitment. The sourced side-by-side is in
 
 Every TigerTag+ chip written by a **TigerTag+ Certified** brand is
 signed using **ECDSA-P256** over `SHA-256(UID + block 4 + block 5)`,
-under a private key held by TigerTag Corp. The public key is shipped inside the protocol (see
+under a private key held by TigerSystem. The public key is shipped inside the protocol (see
 [`database/id_version.json`](database/id_version.json)), so any reader
 — a phone, a slicer, a custom firmware, an air-gapped workshop PC —
 can verify authenticity **without any network connection, without any
@@ -1622,7 +1622,7 @@ this page grants any right to those marks.
 
 ## 8. Licensing & trademark usage
 
-TigerTag™ is a registered trademark of TigerTag Corp.
+TigerTag™ is a registered trademark of TigerSystem.
 
 **There is no dual-licensing model, and there is no distinction between
 commercial and non-commercial use of the protocol.** Anyone may implement
@@ -1647,11 +1647,11 @@ to implement the protocol:
 
 1. **The TigerTag™ and TigerTag+™ marks.** A trademark matter, not a
    licensing one. See [`TRADEMARK.md`](TRADEMARK.md).
-2. **TigerTag+ signature issuance.** TigerTag Corp holds the ECDSA-P256
+2. **TigerTag+ signature issuance.** TigerSystem holds the ECDSA-P256
    private key. Anyone may *verify* a signature offline, free, forever —
    the public keys are published in
    [`database/id_version.json`](database/id_version.json) and are public
-   domain. Only TigerTag Corp can *issue* one.
+   domain. Only TigerSystem can *issue* one.
 3. **Official product-ID allocation.** As with a GS1 company prefix, the
    identity space is administered, not licensed.
 
@@ -1663,7 +1663,7 @@ and 3M adhesive included — together with TigerTag+ signatures,
 product-ID allocation, production tooling, and certified partner status,
 should read [`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md).
 
-TigerTag Corp acts as a central purchasing party here, aggregating demand
+TigerSystem acts as a central purchasing party here, aggregating demand
 so that individual brands need not source, print, and assemble media
 themselves. Revenue from this funds the specification, the reference
 database, the public API, and the official tools — all of which remain

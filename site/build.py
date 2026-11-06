@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 # TigerTag NFC (RFID-compatible) Guide
-# Copyright (c) 2025-2026 TigerTag Corp.
+# Copyright (c) 2025-2026 TigerSystem.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -191,7 +191,7 @@ def render(template, lang, words, dicts, site_url, product, dates):
             "acceptedAnswer": {"@type": "Answer", "text": words[f"faq{i}_a"]}} for i in range(1, 8)]
     page_date, catalogue_date = dates
     jsonld = [
-        {"@context": "https://schema.org", "@type": "Organization", "@id": ORG_ID, "name": "TigerTag Corp",
+        {"@context": "https://schema.org", "@type": "Organization", "@id": ORG_ID, "name": "TigerSystem",
          "url": "https://tigersystem.io", "logo": site_url + "assets/apple-touch-icon.png",
          "sameAs": ["https://github.com/TigerTag-Project", "https://wiki.tigersystem.io",
                     "https://tigertag-project.github.io/TigerTag-RFID-Guide/"]},
@@ -216,7 +216,7 @@ def render(template, lang, words, dicts, site_url, product, dates):
         "license": "https://creativecommons.org/publicdomain/zero/1.0/",
         "isAccessibleForFree": True,
         "dateModified": catalogue_date,
-        "creator": {"@type": "Organization", "name": "TigerTag Corp", "url": "https://tigersystem.io"},
+        "creator": {"@type": "Organization", "name": "TigerSystem", "url": "https://tigersystem.io"},
         "distribution": [
             {"@type": "DataDownload", "encodingFormat": "application/json",
              "contentUrl": "https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/id_catalog.json"},

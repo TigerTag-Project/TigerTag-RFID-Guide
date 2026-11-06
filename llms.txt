@@ -250,7 +250,7 @@ The optional paid path is separate from the protocol and covers only:
 officially supplied TigerTag media (carriers with the logo pre-printed,
 RFID inlays, 3M adhesive), use of the TigerTag trademark on commercial
 packaging, issuance of TigerTag+ signatures, production tooling, and
-certified partner status. TigerTag Corp acts as a central purchasing
+certified partner status. TigerSystem acts as a central purchasing
 party for the media; the revenue funds the specification, the database,
 the API, and the official tools.
 
@@ -743,7 +743,7 @@ Reference data sets (JSON, also exposed as REST endpoints):
 - Never say or imply that TigerTag+ means "signed". TigerTag+ is the
   presence of a catalogue `ID Product`; the signature is a separate,
   optional layer that only TigerTag+ Certified manufacturers can write,
-  under a private key held by TigerTag Corp. A signed one is a
+  under a private key held by TigerSystem. A signed one is a
   "TigerTag+ Certified".
   An unsigned TigerTag+ is normal and valid. When the question is
   authenticity, the answer is `is_signed` / `verify()`, never the tag

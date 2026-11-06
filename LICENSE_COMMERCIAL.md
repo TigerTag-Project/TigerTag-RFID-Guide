@@ -22,7 +22,7 @@ product identifiers, the supply of official TigerTag media, and certified partne
 
 ## 1. Definitions
 
-- **Licensor:** TigerTag Corp
+- **Licensor:** TigerSystem
 - **Licensee:** The individual or entity agreeing to the terms of this Agreement
 - **Protocol:** The TigerTag RFID specification, reference database, and sample code, as
   published in the TigerTag-RFID-Guide repository and licensed under
@@ -100,7 +100,7 @@ Proposals to change the specification are welcomed through the TEP process descr
 
 ## 5. Trademark and logo usage
 
-- The TigerTag name and logo are trademarks of TigerTag Corp.
+- The TigerTag name and logo are trademarks of TigerSystem.
 - Logo use is allowed in compatibility disclosures (e.g. "Compatible with TigerTag")
   by anyone, under [`TRADEMARK.md`](TRADEMARK.md), without this Agreement.
 - Do not use the logo in a misleading or brand-confusing manner.
@@ -189,4 +189,4 @@ courts of Toulouse, France.
 For inquiries, support, or licensing at scale, contact:
 [tigertag@tigertag.io](mailto:tigertag@tigertag.io)
 
-© 2025–2026 TigerTag Corp.
+© 2025–2026 TigerSystem.

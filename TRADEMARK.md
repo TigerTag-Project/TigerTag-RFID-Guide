@@ -29,7 +29,7 @@ and ship, including commercially, with no royalties and no permission.
 
 The trademark governs the **names and the brand** — it ensures that a product called
 "TigerTag", or bearing the TigerTag logo as a mark of authenticity, comes from or is
-authorized by TigerTag Corp.
+authorized by TigerSystem.
 
 You can have full rights to the protocol and still be bound by trademark rules on the
 name. This is standard practice in open standards and open source (Arduino, OpenWrt,
@@ -45,7 +45,7 @@ Prusa Research, GS1, Bluetooth SIG).
 
 ### "TigerTag"
 
-**"TigerTag"** is a trademark of TigerTag Corp.
+**"TigerTag"** is a trademark of TigerSystem.
 
 > **Registration status.** TigerTag is claimed as an unregistered ("common law") mark and is
 > written **TigerTag™**, never TigerTag®. No application has been filed at INPI, EUIPO or the
@@ -69,7 +69,7 @@ company, domain, or product brand without explicit written authorization.
 
 ### "TigerTag+"
 
-**"TigerTag+"** is a trademark of TigerTag Corp and denotes a tag whose identity carries
+**"TigerTag+"** is a trademark of TigerSystem and denotes a tag whose identity carries
 a **product ID from the official catalogue**, together with optional enrichment metadata
 held cloud-side.
 
@@ -81,7 +81,7 @@ legitimate.
 
 A TigerTag+ that **additionally** carries a valid ECDSA-P256 signature is a
 **"TigerTag+ Certified"**. That signature is written by a manufacturer holding TigerTag+
-certification, which is what the signing tools come with. **TigerTag Corp holds the private
+certification, which is what the signing tools come with. **TigerSystem holds the private
 key**, so no one else can issue a valid signature — which is the whole reason verification
 means anything.
 
@@ -139,7 +139,7 @@ permission. This is the descriptive (nominative) use that trademark law tolerate
 
 ### 2. Product use — written authorization required
 
-You **may not**, without a written trademark licence from TigerTag Corp:
+You **may not**, without a written trademark licence from TigerSystem:
 
 - print, emboss, engrave, laser-mark, encode as artwork or otherwise reproduce the TigerTag
   **logo or name** — "TigerTag", "TigerTag+", "TigerTag+ Certified", or any variant,
@@ -284,4 +284,4 @@ to put our mark on your product and tell a buyer it is genuine.
 Open an issue, or reach us on [Discord](https://discord.gg/3Qv5TSqnJH).
 For trademark authorization requests: [tigertag@tigertag.io](mailto:tigertag@tigertag.io).
 
-© 2025–2026 TigerTag Corp.
+© 2025–2026 TigerSystem.

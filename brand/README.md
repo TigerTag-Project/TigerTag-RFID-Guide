@@ -1,13 +1,13 @@
 # TigerTag brand assets
 
-## © 2025–2026 TigerTag Corp. All rights reserved.
+## © 2025–2026 TigerSystem. All rights reserved.
 
 **The contents of this directory are NOT covered by the licences in
 [`../LICENSING.md`](../LICENSING.md).**
 
 The specification is CC-BY-4.0. The reference database is CC0. The sample code is
 Apache-2.0. **The logo, wordmark, banner, and icons in this directory are none of those.**
-They are proprietary artwork and registered trademarks of TigerTag Corp, and no copyright
+They are proprietary artwork and registered trademarks of TigerSystem, and no copyright
 licence to them is granted by any file in this repository.
 
 This is intentional and it is how open standards work. The protocol is free so that anyone
@@ -38,7 +38,7 @@ writes TigerTag chips (a reader, a printer, software): *"Compatible with TigerTa
 - Use "TigerTag" in your product, company, or domain name.
 - Imply affiliation, certification, endorsement, or partner status you do not have.
 - Present your product as "TigerTag+ Certified" unless its tags carry a valid signature
-  issued by TigerTag Corp. ("TigerTag+" on its own means the tag carries an official
+  issued by TigerSystem. ("TigerTag+" on its own means the tag carries an official
   catalogue product id — that is not a claim about origin, and it is not restricted here.)
 
 Full terms: [`../TRADEMARK.md`](../TRADEMARK.md).

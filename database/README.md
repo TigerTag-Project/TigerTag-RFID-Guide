@@ -211,6 +211,6 @@ reports what would change and writes nothing.
 version. They are meant to be embedded in readers so that TigerTag+ verification works with
 no network access.
 
-The corresponding private key is held solely by TigerTag Corp. If you ever find a private
+The corresponding private key is held solely by TigerSystem. If you ever find a private
 key in this repository, treat it as a critical vulnerability and report it privately —
 see [`../SECURITY.md`](../SECURITY.md).
