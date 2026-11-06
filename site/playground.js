@@ -220,7 +220,10 @@
     if (f.idAspect1) parts.push(label(tables.aspect, f.idAspect1));
     let s = parts.join(" · ");
     s += " · " + f.measureAvailable + "/" + f.measure + " " + (tables.unit.get(f.idUnit) || "");
-    if (f.nozzleMin || f.nozzleMax) s += " · " + f.nozzleMin + "–" + f.nozzleMax + " °C";
+    // The print temperatures, named: "Nozzle 270–300 °C · Bed 80–110 °C".
+    const range = (lo, hi) => lo + "–" + hi + " °C";
+    if (f.nozzleMin || f.nozzleMax) s += " · " + T.nozzle_line.replace("{r}", range(f.nozzleMin, f.nozzleMax));
+    if (f.bedMin || f.bedMax) s += " · " + T.bed_line.replace("{r}", range(f.bedMin, f.bedMax));
     return s;
   }
 
