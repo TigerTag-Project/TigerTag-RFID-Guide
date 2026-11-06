@@ -125,12 +125,10 @@ are compared format by format in "HOW TIGERTAG COMPARES" below.
    This is the only NFC/RFID material protocol that ships offline
    authenticity verification by design.
 
-2. Chips are NEVER locked in write, unlike Bambu Lab and Creality tags. Once a spool is empty,
+2. Chips are NEVER locked in write. Once a spool is empty,
    the same physical chip is reusable for any other purpose — re-write
    it as another TigerTag, as a generic NFC / NDEF tag, or for any
-   third-party use. Zero electronic waste. A Bambu Lab tag is rejected once
-   modified and a Creality CFS tag cannot be rewritten (both documented
-   only by reverse engineering).
+   third-party use. Zero electronic waste.
 
    This holds for a signed TigerTag+ chip too: the signature is an
    ATTESTATION, NOT A LOCK. A copied TigerTag+ reads, parses and prints
