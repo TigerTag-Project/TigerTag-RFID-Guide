@@ -332,3 +332,10 @@ footer.foot .links { justify-content: center; }
 .refills-row img { width: 19%; height: auto; }
 .refills-carrier img { width: 48%; height: auto; }
 @media (max-width: 999px) { .refills { grid-template-columns: 1fr; } }
+/* Pill tags: the aspects, then Refill (catalogue info1). */
+.pg-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+.pg-tags:empty { display: none; }
+.pg-tag { font-style: normal; font-size: .72rem; font-weight: 600; line-height: 1; padding: 3px 7px; border-radius: 999px;
+  border: 1px solid var(--line); color: var(--muted); background: var(--bg); }
+.pg-tag--refill { color: var(--accent); border-color: currentColor; }
+select:disabled { opacity: .75; cursor: not-allowed; }

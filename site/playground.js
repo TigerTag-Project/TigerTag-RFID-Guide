@@ -271,7 +271,31 @@
      colorBg() in Tiger Studio Manager (renderer/inventory.js, swatch convention
      v1.2, TigerSystem-Docs material-swatch.md). Keyed on aspect ids, never labels. */
   const RAMP_ANGLE = "135deg", SPLIT_BLEND = 20;
-  const ASPECT_ID = { TRICOLOR: 24, RAINBOW: 145, BICOLOR: 252 };
+  const ASPECT_ID = { TRICOLOR: 24, RAINBOW: 145, BICOLOR: 252, BASIC: 104 };
+  const NO_ASPECT = new Set([0, 255]); // "-" and "None"
+  const SECOND_ONLY = new Set([ASPECT_ID.BICOLOR, ASPECT_ID.TRICOLOR]);
+  let aspectList = [];
+  /* Aspect 2 never offers the aspect already chosen as Aspect 1; if it held
+     that one, it falls back to "-". */
+  function fillAspect2() {
+    const a1 = Number($("#pg-c-aspect1").value), sel = $("#pg-c-aspect2");
+    const keep = Number(sel.value) || 0;
+    const list = aspectList.filter((a) => a.id !== a1);
+    const value = list.some((a) => a.id === keep) ? keep : 0;
+    sel.innerHTML = list.map((a) => opt(a.id, a.label, a.id === value)).join("");
+  }
+  /* The aspects set how many colours the tag holds: the largest color_count
+     of the two (Bicolor 2, Tricolor and Rainbow 3, otherwise 1). */
+  function aspectColors() {
+    const count = (id) => (aspectList.find((a) => a.id === id) || {}).color_count || 0;
+    const n = Math.max(1, count(Number($("#pg-c-aspect1").value)), count(Number($("#pg-c-aspect2").value)));
+    $("#pg-c-ncolors").value = String(Math.min(3, n));
+  }
+  function onAspects(e) {
+    if (e.target.id === "pg-c-aspect1") fillAspect2();
+    aspectColors();
+    syncSearchable();
+  }
   const pieSplit = (colors) => {
     if (colors.length <= 3) {
       const seg = 100 / colors.length, h = SPLIT_BLEND / 2;
@@ -423,8 +447,14 @@
     const byName = (a, b) => (a.name || a.label).localeCompare(b.name || b.label);
     $("#pg-c-brand").innerHTML = brands.slice().sort(byName).map((b) => opt(b.id, b.name)).join("");
     $("#pg-c-material").innerHTML = materials.map((m) => opt(m.id, m.label)).join("");
-    $("#pg-c-aspect1").innerHTML = aspects.map((a) => opt(a.id, a.label)).join("");
-    $("#pg-c-aspect2").innerHTML = aspects.map((a) => opt(a.id, a.label)).join("");
+    // Aspect 1 is mandatory: no "-" / "None" in its list, and Basic (the most
+    // common aspect of the catalogue) is preselected. Bicolor and Tricolor are
+    // second aspects only; Aspect 2's list is drawn by fillAspect2().
+    aspectList = aspects;
+    $("#pg-c-aspect1").innerHTML = aspects.filter((a) => !NO_ASPECT.has(a.id) && !SECOND_ONLY.has(a.id))
+      .map((a) => opt(a.id, a.label, a.id === ASPECT_ID.BASIC)).join("");
+    fillAspect2();
+    aspectColors();
     $("#pg-c-type").innerHTML = types.map((a) => opt(a.id, a.label)).join("");
     $("#pg-c-diameter").innerHTML = diams.map((a) => opt(a.id, a.label + " mm")).join("");
     $("#pg-c-unit").innerHTML = units.map((a) => opt(a.id, a.label)).join("");
@@ -468,7 +498,7 @@
     $("#pg-cat-list").innerHTML = hits.slice(0, 60).map((p) =>
       `<li><button type="button" data-k="${products.indexOf(p)}"><span class="pg-thumb" style="--spool-bg:${escapeHtml(colorBg(entryRow(p)))}"${p.img_src ? ` data-zoom="${escapeHtml(cdnImg(p.img_src, ZOOM_PX))}"` : ""}>`
       + (p.img_src ? `<img src="${escapeHtml(cdnImg(p.img_src, 56))}" alt="" width="56" height="56" loading="lazy" decoding="async">` : "")
-      + `</span><span class="pg-ptxt"><b>${escapeHtml(p.title)}</b><small>${escapeHtml([p.brand, p.material, p.measure].filter(Boolean).join(" · "))}</small></span></button></li>`).join("")
+      + `</span><span class="pg-ptxt"><b>${escapeHtml(p.title)}</b><small>${escapeHtml([p.brand, p.material, p.measure].filter(Boolean).join(" · "))}</small>${pillTags([p.aspect1, p.aspect2], p.info1 === true)}</span></button></li>`).join("")
       + (hits.length > 60 ? `<li class="pg-muted">${T.more.replace("{n}", hits.length - 60)}</li>` : "")
       + (!hits.length ? `<li class="pg-muted">${T.no_match}</li>` : "");
   }
@@ -490,6 +520,13 @@
       : (String(bg).match(/rgb\((\d+),\s*(\d+),\s*(\d+)/) || []).slice(1, 4).map(Number);
     if (rgb.length < 3) return false;
     return (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) / 255 < 0.5;
+  }
+  /* The pill's tags: the product's aspects, then Refill when the catalogue
+     flags it (info1). Always rendered, empty when there is nothing to show. */
+  function pillTags(aspects, refill) {
+    const tags = aspects.filter((a) => a && a !== "-" && a !== "None").map((a) => `<i class="pg-tag">${escapeHtml(a)}</i>`);
+    if (refill) tags.push(`<i class="pg-tag pg-tag--refill">${escapeHtml(T.refill)}</i>`);
+    return `<span class="pg-tags">${tags.join("")}</span>`;
   }
   function renderHead(f) {
     const head = $(".pg-head"), frame = head.querySelector(".pg-thumb");
@@ -514,6 +551,7 @@
     const aspects = [f.idAspect1, f.idAspect2].filter(Boolean).map((id) => tables.aspect.get(id)).filter((x) => x && x !== "-");
     head.querySelector(".pg-pill-name").textContent = entry ? entry.title : [label(tables.material, f.idMaterial)].concat(aspects).join(" ");
     head.querySelector(".pg-pill-sub").textContent = [label(tables.brand, f.idBrand), label(tables.material, f.idMaterial), f.measure + " " + unit].join(" · ");
+    head.querySelector(".pg-pill-tags").outerHTML = pillTags(aspects, !!(entry && entry.info1 === true)).replace('class="pg-tags"', 'class="pg-tags pg-pill-tags"');
     head.querySelector(".pg-pmeta").textContent = entry ? [entry.sku, entry.barcode].filter(Boolean).join(" · ") : "";
   }
 
@@ -625,6 +663,7 @@
       const b = e.target.closest("button[data-k]"); if (b) showProduct(products[Number(b.dataset.k)]);
     });
     $("#pg-c-msg").addEventListener("input", fitMessage);
+    ["#pg-c-aspect1", "#pg-c-aspect2"].forEach((id) => $(id).addEventListener("change", onAspects));
     root.querySelectorAll(".pg-panel[data-mode=custom] input, .pg-panel[data-mode=custom] select").forEach((el) =>
       el.addEventListener(el.id === "pg-c-material" ? "change" : "input", el.id === "pg-c-material" ? onMaterial : () => { current = readCustom(); render(); }));
     $("#pg-twin").addEventListener("change", onCommon);
