@@ -5,6 +5,11 @@ on:
     # Every 6 hours. Adjust the cron if you want a different cadence.
     - cron: '0 */6 * * *'
   workflow_dispatch:
+    inputs:
+      rebuild_hub:
+        description: Rebuild tigersystem.io even if the data did not change
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -82,10 +87,11 @@ jobs:
       # the site is built. So when this run really changed the data — a new
       # brand, a corrected product — rebuild the site at once through its Vercel
       # Deploy Hook. A rebuild only rebuilds what is already on the site's main
-      # branch: no unreleased code goes live. Skipped when nothing changed, and
-      # when the HUB_DEPLOY_HOOK secret is not set.
+      # branch: no unreleased code goes live. Skipped when nothing changed (unless
+      # a manual run asks for it with rebuild_hub), and when the HUB_DEPLOY_HOOK
+      # secret is not set.
       - name: Rebuild tigersystem.io when the data changed
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.changed == 'true' || inputs.rebuild_hub
         env:
           HUB_DEPLOY_HOOK: ${{ secrets.HUB_DEPLOY_HOOK }}
         run: |
