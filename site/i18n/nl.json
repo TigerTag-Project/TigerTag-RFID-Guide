@@ -248,5 +248,13 @@
   "pj_x_msg": "Vrije tekst van maximaal 28 bytes, in UTF-8.",
   "pj_x_sig": "Handtekening: alleen geschreven door een gecertificeerde fabrikant, over de UID van de chip en pagina's 4 en 5, en offline gecontroleerd.",
   "pj_filter": "Filteren…",
-  "pj_no_option": "Geen resultaten"
+  "pj_no_option": "Geen resultaten",
+  "comm_stellio": "Desktopbibliotheek voor 3D-printbestanden; leest je TigerTag-inventaris, alleen-lezen, om te tonen wat je spoelen kunnen printen.",
+  "comm_spooly": "Platform voor filamentinventaris (web, iOS, Android, Home Assistant, OrcaSlicer) dat spoelen herkent met TigerTag.",
+  "pg_series": "Serie",
+  "pj_all_series": "Alle series",
+  "refill_title": "Ook navullingen",
+  "refill_text": "Geen plastic spoel, en toch een TigerTag op elke rol, in elke kleur. De TigerTag Refill-drager heeft aan elk uiteinde een chip.",
+  "refill_alt": "Filamentnavullingen in vijf kleuren, elk met een TigerTag-badge",
+  "refill_carrier_alt": "TigerTag Refill-drager, voor- en achterkant: een strip met een chiphouder aan elk uiteinde"
 }

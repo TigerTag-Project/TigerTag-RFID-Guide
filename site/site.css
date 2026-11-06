@@ -310,3 +310,25 @@ footer.foot .links { justify-content: center; }
   .pg-bytes { grid-template-columns: 1fr; grid-template-rows: none; grid-auto-flow: row; }
   .pg-head { flex-direction: column; align-items: flex-start; }
 }
+
+/* Product rows and the selected product as Tiger Studio Manager's list pills:
+   the spool colour fills the left edge of the card, top to bottom, and the
+   photo sits smaller inside it. */
+.pg-list { border: 0; display: grid; gap: 6px; padding: 2px; }
+.pg-list li { list-style: none; }
+.pg-list button { padding: 0 12px 0 0; border: 1px solid var(--line); border-radius: 12px; background: var(--bg); overflow: hidden; min-height: 64px; }
+.pg-list button:hover { border-color: var(--accent); }
+.pg-list .pg-thumb, .pg-pill .pg-thumb { align-self: stretch; width: 64px; border-radius: 0; display: grid; place-items: center; }
+.pg-list .pg-thumb img { width: 48px; height: 48px; border: 0; border-radius: 8px; background: #fff; }
+.pg-pill { padding: 0 14px 0 0; overflow: hidden; min-height: 80px; }
+.pg-pill .pg-thumb { width: 80px; }
+.pg-pill .pg-thumb img.pg-pill-photo { width: 60px; height: 60px; border: 0; border-radius: 9px; background: #fff; }
+.pg-pill .pg-pill-color { width: 100%; height: 100%; border-radius: 0; }
+.pg-pill .pg-pill-color img { width: 30%; }
+/* Refills: the coils, then the TigerTag refill carrier front and back. */
+.refills { margin-top: 16px; display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.6fr) minmax(0, .9fr); gap: 20px; align-items: center; }
+.refills h3 { margin-top: 0; }
+.refills figure { margin: 0; display: flex; gap: 6px; align-items: end; justify-content: center; }
+.refills-row img { width: 19%; height: auto; }
+.refills-carrier img { width: 48%; height: auto; }
+@media (max-width: 999px) { .refills { grid-template-columns: 1fr; } }

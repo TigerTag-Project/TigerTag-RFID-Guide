@@ -106,6 +106,7 @@
 
         <div class="pg-panel" data-mode="catalogue">
           <label class="pg-f"><span>{{pg_brand}}</span><select id="pg-cat-brand"></select></label>
+          <label class="pg-f"><span>{{pg_series}}</span><select id="pg-cat-series"></select></label>
           <label class="pg-f"><span>{{pg_search}}</span><input id="pg-cat-search" type="search" autocomplete="off"></label>
           <ul id="pg-cat-list" class="pg-list"></ul>
         </div>
@@ -278,6 +279,20 @@
         <figcaption>{{brands_shipping}}</figcaption>
       </figure>
     </div>
+    <div class="card refills">
+      <div class="refills-txt"><h3>{{refill_title}}</h3><p>{{refill_text}}</p></div>
+      <figure class="refills-row">
+        <img src="{{@base}}assets/Refill_Black.png" alt="" width="400" height="400" loading="lazy">
+        <img src="{{@base}}assets/Refill_Gold.png" alt="" width="400" height="400" loading="lazy">
+        <img src="{{@base}}assets/Refill_Purple.png" alt="" width="400" height="400" loading="lazy">
+        <img src="{{@base}}assets/Refill_Yellow.png" alt="" width="400" height="400" loading="lazy">
+        <img src="{{@base}}assets/Refill_Green.png" alt="{{refill_alt}}" width="400" height="400" loading="lazy">
+      </figure>
+      <figure class="refills-carrier">
+        <img src="{{@base}}assets/TigerTag_Refill_Front.png" alt="" width="500" height="500" loading="lazy">
+        <img src="{{@base}}assets/TigerTag_Refill_Back.png" alt="{{refill_carrier_alt}}" width="500" height="500" loading="lazy">
+      </figure>
+    </div>
   </section>
 
   <section id="ecosystem" class="wrap">
@@ -313,6 +328,8 @@
       <li><a href="https://github.com/OpenCentauri/cosmos">COSMOS</a><span>{{comm_cosmos}}</span></li>
       <li><a href="https://github.com/Kenny3231/TigerTag">Home Assistant</a><span>{{comm_ha}}</span></li>
       <li><a href="https://www.bambutagger.de">BambuTagger</a><span>{{comm_bambutagger}}</span></li>
+      <li><a href="https://spoolytracker.com/">Spooly Tracker</a><span>{{comm_spooly}}</span></li>
+      <li><a href="https://github.com/stellio-app/stellio">Stellio</a><span>{{comm_stellio}}</span></li>
     </ul>
   </section>
 

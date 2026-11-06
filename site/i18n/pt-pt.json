@@ -248,5 +248,13 @@
   "pj_x_msg": "Um texto livre de até 28 bytes, em UTF-8.",
   "pj_x_sig": "Assinatura: gravada apenas por um fabricante certificado, sobre o UID do chip e as páginas 4 e 5, e verificada offline.",
   "pj_filter": "Filtrar…",
-  "pj_no_option": "Nenhum resultado"
+  "pj_no_option": "Nenhum resultado",
+  "comm_stellio": "Biblioteca de ambiente de trabalho para ficheiros de impressão 3D; lê o seu inventário TigerTag, apenas leitura, para mostrar o que as suas bobinas podem imprimir.",
+  "comm_spooly": "Plataforma de inventário de filamentos (web, iOS, Android, Home Assistant, OrcaSlicer) cuja identificação de bobinas assenta em TigerTag.",
+  "pg_series": "Série",
+  "pj_all_series": "Todas as séries",
+  "refill_title": "As recargas também",
+  "refill_text": "Sem bobina de plástico e, mesmo assim, um TigerTag em cada rolo, seja qual for a cor. O suporte TigerTag Refill tem um chip em cada extremidade.",
+  "refill_alt": "Recargas de filamento em cinco cores, cada uma com um selo TigerTag",
+  "refill_carrier_alt": "Suporte TigerTag Refill, frente e verso: uma tira com um alojamento de chip em cada extremidade"
 }

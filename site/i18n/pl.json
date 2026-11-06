@@ -248,5 +248,13 @@
   "pj_x_msg": "Dowolny tekst do 28 bajtów, w UTF-8.",
   "pj_x_sig": "Podpis: zapisywany wyłącznie przez certyfikowanego producenta, obejmuje UID chipa oraz strony 4 i 5, weryfikowany offline.",
   "pj_filter": "Filtruj…",
-  "pj_no_option": "Brak wyników"
+  "pj_no_option": "Brak wyników",
+  "comm_stellio": "Biblioteka plików druku 3D na komputer; odczytuje Twój inwentarz TigerTag (tylko do odczytu), by pokazać, co mogą wydrukować Twoje szpule.",
+  "comm_spooly": "Platforma inwentaryzacji filamentów (web, iOS, Android, Home Assistant, OrcaSlicer), która rozpoznaje szpule dzięki TigerTag.",
+  "pg_series": "Seria",
+  "pj_all_series": "Wszystkie serie",
+  "refill_title": "Także wkłady uzupełniające",
+  "refill_text": "Bez plastikowej szpuli, a mimo to TigerTag na każdym zwoju, w każdym kolorze. Uchwyt TigerTag Refill ma chip na każdym końcu.",
+  "refill_alt": "Wkłady filamentu w pięciu kolorach, każdy z odznaką TigerTag",
+  "refill_carrier_alt": "Uchwyt TigerTag Refill, przód i tył: pasek z gniazdem na chip na każdym końcu"
 }

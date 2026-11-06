@@ -248,5 +248,13 @@
   "pj_x_msg": "最多 28 字节的自由文本，采用 UTF-8 编码。",
   "pj_x_sig": "签名：仅由认证厂商写入，覆盖芯片 UID 以及第 4、5 页，可离线验证。",
   "pj_filter": "筛选…",
-  "pj_no_option": "无匹配项"
+  "pj_no_option": "无匹配项",
+  "comm_stellio": "3D 打印文件的桌面资料库；只读读取你的 TigerTag 库存，显示你的线材能打印什么。",
+  "comm_spooly": "线材库存平台（网页、iOS、Android、Home Assistant、OrcaSlicer），其线材卷识别基于 TigerTag。",
+  "pg_series": "系列",
+  "pj_all_series": "全部系列",
+  "refill_title": "补充装也一样",
+  "refill_text": "没有塑料线盘，每一卷补充装依然带有 TigerTag，无论什么颜色。TigerTag 补充装支架两端各有一枚芯片。",
+  "refill_alt": "五种颜色的线材补充装，每卷都带有 TigerTag 标志",
+  "refill_carrier_alt": "TigerTag 补充装支架正反面：两端各有一个芯片槽的条带"
 }
