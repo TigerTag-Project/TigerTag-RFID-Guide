@@ -346,3 +346,7 @@ footer.foot .links { justify-content: center; }
 .pg-refill--sm { top: 3px; left: 3px; width: 15px; height: 15px; padding: 0; justify-content: center; border-width: 1px; }
 .pg-refill--sm svg { width: 9px; height: 9px; }
 select:disabled { opacity: .75; cursor: not-allowed; }
+/* The photo fills its colour frame with a 5px rim, as in Tiger Studio Manager's
+   catalogue rows (.cpk-row .cv-thumb--fill): a thin coloured edge, not a mat. */
+.pg-list .pg-thumb img, .pg-pill .pg-thumb img.pg-pill-photo { position: absolute; top: 5px; left: 5px;
+  width: calc(100% - 10px); height: calc(100% - 10px); border-radius: 8px; object-fit: cover; }
