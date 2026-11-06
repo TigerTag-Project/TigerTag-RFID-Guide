@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="104" viewBox="0 0 480 104" role="img" aria-label="Visit the TigerTag protocol site">
+  <title>Visit the TigerTag protocol site</title>
+  <defs>
+    <linearGradient id="tsFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff8a2b"/>
+      <stop offset="0.55" stop-color="#ff7a18"/>
+      <stop offset="1" stop-color="#e6352b"/>
+    </linearGradient>
+    <linearGradient id="tsGloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="476" height="100" rx="50" fill="url(#tsFill)"/>
+  <rect x="2" y="2" width="476" height="50" rx="50" fill="url(#tsGloss)"/>
+  <rect x="2.5" y="2.5" width="475" height="99" rx="49.5" fill="none" stroke="#ffffff" stroke-opacity="0.30"/>
+
+  <!-- A globe: the site, in eleven languages. -->
+  <g transform="translate(44 32)" fill="none" stroke="#ffffff" stroke-width="3.2"
+     stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="20" cy="20" r="18.4"/>
+    <path d="M1.6 20h36.8M20 1.6c5.2 5 7.8 11.2 7.8 18.4S25.2 33.4 20 38.4M20 1.6c-5.2 5-7.8 11.2-7.8 18.4S14.8 33.4 20 38.4"/>
+  </g>
+
+  <text x="106" y="45" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="24" font-weight="700" fill="#ffffff" letter-spacing="-0.3">Visit the protocol site</text>
+  <text x="106" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="14.5" font-weight="500" fill="#ffffff" fill-opacity="0.88">Playground, spec, catalogue — 11 languages</text>
+
+  <path d="M434 40 l12 12 l-12 12" fill="none" stroke="#ffffff" stroke-width="3.4"
+        stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.9"/>
+</svg>
