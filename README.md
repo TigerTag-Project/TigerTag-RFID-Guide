@@ -9,7 +9,11 @@
 
 <h1 align="center">TigerTag NFC (RFID-compatible) — open source protocol for material identification</h1>
 
-<h3 align="center"><a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/">Visit the TigerTag protocol site</a></h3>
+<p align="center">
+  <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/">
+    <img src="assets/site-button.svg" alt="Visit the TigerTag protocol site" width="420">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/">English</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/fr/">Français</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/de/">Deutsch</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/es/">Español</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/it/">Italiano</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/zh/">中文</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/pt/">Português (BR)</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/pt-pt/">Português (PT)</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/pl/">Polski</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/ru/">Русский</a> · <a href="https://tigertag-project.github.io/TigerTag-RFID-Guide/nl/">Nederlands</a>
