@@ -353,3 +353,5 @@ select:disabled { opacity: .75; cursor: not-allowed; }
 .pg-pill { position: relative; }
 .pg-pill > .pg-refill { top: 8px; left: auto; right: 8px; }
 .pg-pill.has-refill .pg-ptxt { padding-right: 64px; }
+.pg-refill, .pg-refill b { color: #fff; }
+.pg-refill svg { stroke: #fff; }
