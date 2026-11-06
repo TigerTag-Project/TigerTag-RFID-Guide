@@ -94,7 +94,7 @@ body:
           required: true
         - label: This change does **not weaken the TigerTag+ signature** or its verification.
           required: true
-        - label: This change can be implemented by **anyone, without permission from TigerTag Corp**.
+        - label: This change can be implemented by **anyone, without permission from TigerSystem**.
           required: true
         - label: This change does **not duplicate** information already on the chip or derivable from the public API.
           required: true

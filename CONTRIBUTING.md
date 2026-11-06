@@ -104,7 +104,7 @@ There is no fixed timeline. Chip-layout changes are slow by nature and that is c
 - Changes that break field-deployed readers without a version bump
 - Fields that duplicate information already derivable from the chip or the public API
 - Anything that makes an implementation depend on a network round-trip
-- Anything that requires permission from TigerTag Corp to implement
+- Anything that requires permission from TigerSystem to implement
 
 ---
 

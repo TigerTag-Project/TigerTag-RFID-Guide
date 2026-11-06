@@ -97,7 +97,7 @@ the partner agreement** ([`LICENSE_COMMERCIAL.md`](LICENSE_COMMERCIAL.md)).
 
 ### 1. Apply
 
-Contact TigerTag Corp and sign the partner agreement. It covers the trademark licence, signature
+Contact TigerSystem and sign the partner agreement. It covers the trademark licence, signature
 issuance, product-ID allocation and certified partner status.
 
 ### 2. Conformance statement
@@ -113,7 +113,7 @@ Physical samples are tested against the conformance suite. The audit verifies th
 1. **The chip is written correctly** — byte-exact against the specification, on every sample.
 2. **The catalogue data is accurate** — what the product page says matches what the spool actually is,
    and you have a process to keep it correct after shipping.
-3. **Signed tags carry valid signatures**, issued by TigerTag Corp — in the TigerTag+
+3. **Signed tags carry valid signatures**, issued by TigerSystem — in the TigerTag+
    Certified scope. An unsigned TigerTag+ is conformant and is not a finding.
 4. **The logo and name appear only where the chip actually is** — on the chip, the product and its packaging, nowhere else.
 5. **The tag survives the product** — placement, adhesion and readability through the spool's life,
@@ -125,7 +125,7 @@ You sign it. It states that production units match the audited samples.
 
 ### 5. Issuance
 
-On a pass, TigerTag Corp grants:
+On a pass, TigerSystem grants:
 
 - the **trademark licence** — the right to apply the TigerTag logo and name to that product line;
 - **TigerTag+ signature issuance** for your products, in the TigerTag+ Certified scope;
@@ -140,7 +140,7 @@ certified Zigbee and Matter products: a mark that only *may* appear tells the bu
 
 ### 6. Surveillance
 
-Certification is not a one-time event. TigerTag Corp samples the market periodically and re-audits on:
+Certification is not a one-time event. TigerSystem samples the market periodically and re-audits on:
 
 - a new specification version,
 - a change to your writing process, tag supplier or chip type,
@@ -149,11 +149,11 @@ Certification is not a one-time event. TigerTag Corp samples the market periodic
 
 ### 7. Revocation
 
-Certification can be withdrawn. When it is, TigerTag Corp **stops issuing signatures**, delists the
+Certification can be withdrawn. When it is, TigerSystem **stops issuing signatures**, delists the
 partner from the registry, and terminates the trademark licence.
 
 That first consequence is the one that matters, and it is why the programme has teeth: the TigerTag+
-signature is issued under a private key held by TigerTag Corp. It cannot be forged, and it cannot be
+signature is issued under a private key held by TigerSystem. It cannot be forged, and it cannot be
 issued by anyone else. **Revocation is technically real, not merely contractual.**
 
 ---
@@ -196,7 +196,7 @@ verification without trust.
 
 ## Independence
 
-Today the audit is performed by TigerTag Corp. As the number of partners grows, TigerTag Corp intends
+Today the audit is performed by TigerSystem. As the number of partners grows, TigerSystem intends
 to authorize independent test laboratories, as the Connectivity Standards Alliance does. We say this
 plainly rather than imply an independence we do not yet have.
 

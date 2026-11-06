@@ -9,7 +9,7 @@ If you only read one paragraph, read the next one.
 
 ## Implementation grant
 
-> TigerTag Corp grants an irrevocable, worldwide, royalty-free right to implement
+> TigerSystem grants an irrevocable, worldwide, royalty-free right to implement
 > this specification in any product or software, open source or proprietary,
 > without restriction and without further permission.
 
@@ -57,7 +57,7 @@ to a compiled dataset independently of copyright, so CC0 is used here to waive t
 explicitly. We would still enjoy a credit. You do not owe us one.
 
 **You want to translate the specification, quote it in a book, or teach from it.**
-CC-BY-4.0. Attribute TigerTag Corp and you are done.
+CC-BY-4.0. Attribute TigerSystem and you are done.
 
 **You want to call your product "TigerTag" or put our logo on your box.**
 That is the one thing that is not free, and it is a trademark matter, not a licensing
@@ -73,10 +73,10 @@ Three things sit outside every licence on this page:
    See [`TRADEMARK.md`](TRADEMARK.md). Note that CC-BY-4.0 §2(b)(2) expressly
    does not license trademark rights, and neither do we.
 
-2. **The TigerTag+ signature.** TigerTag Corp holds the ECDSA-P256 private key. Anyone
+2. **The TigerTag+ signature.** TigerSystem holds the ECDSA-P256 private key. Anyone
    may *verify* a signature offline — the public keys are published in
    [`database/id_version.json`](database/id_version.json) and are CC0. Nobody but
-   TigerTag Corp can *issue* one. That is a property of key custody, not of a licence,
+   TigerSystem can *issue* one. That is a property of key custody, not of a licence,
    and it is what makes a validly signed tag provably originate from TigerTag.
 
 3. **Product-ID allocation in the official catalogue.** Like a GS1 company prefix, an
@@ -137,4 +137,4 @@ SPDX-License-Identifier: CC-BY-4.0 AND CC0-1.0 AND Apache-2.0
 
 Licensing questions: [tigertag@tigertag.io](mailto:tigertag@tigertag.io)
 
-© 2025–2026 TigerTag Corp.
+© 2025–2026 TigerSystem.

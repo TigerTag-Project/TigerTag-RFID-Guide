@@ -2,7 +2,7 @@
 
 TigerTag's authenticity guarantee rests on a single cryptographic claim:
 
-> A tag carrying a valid TigerTag+ signature can only have been signed by TigerTag Corp,
+> A tag carrying a valid TigerTag+ signature can only have been signed by TigerSystem,
 > and any reader can verify this offline, with no network access.
 
 Anything that weakens that claim is a security vulnerability, and we want to hear about it
@@ -53,7 +53,7 @@ paid bounty programme.
 Especially anything touching the signature or key handling:
 
 - **Signature forgery** — producing a tag that verifies against a published public key
-  without TigerTag Corp's private key
+  without TigerSystem's private key
 - **Signature bypass** — causing a reader that follows the specification to present an
   unsigned or invalidly signed tag as **origin-verified**: as a `TigerTag+ Certified`, or
   as anything a user would read as proof of provenance. Accepting an unsigned tag as a
@@ -95,7 +95,7 @@ Especially anything touching the signature or key handling:
 
 ## Key handling
 
-- The TigerTag+ **private key is held solely by TigerTag Corp** and is never distributed,
+- The TigerTag+ **private key is held solely by TigerSystem** and is never distributed,
   never present in this repository, and never present in any shipped tool or SDK.
 - The corresponding **public keys are published** in
   [`database/id_version.json`](database/id_version.json), one per tag format version, in PEM

@@ -34,7 +34,7 @@ than it buys rank.
    3D printing, resin, open standard) — natural sentences, no keyword lists.
    `seo_check.py` warns past 60 / 160 and fails past 70 / 200 or on a duplicate
    across languages (an untranslated page).
-5. **Structured data mirrors the page.** `Organization` (TigerTag Corp, `sameAs` to
+5. **Structured data mirrors the page.** `Organization` (TigerSystem, `sameAs` to
    the GitHub organisation, the wiki and the site), `WebSite`, `TechArticle`
    (with `dateModified`), `FAQPage`, `Dataset` (the CC0 catalogue and tables, with
    `dateModified` from the catalogue's own stamp) and `SoftwareSourceCode` (the two
