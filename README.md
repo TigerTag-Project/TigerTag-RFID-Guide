@@ -301,6 +301,8 @@ reverse-engineering work linked below.
 | Signature verifiable offline | ✅ ECDSA-P256, public key published | — | — | — | RSA-2048, public key not published | — |
 | Chip rewritable | ✅ | ✅ | ✅ | ✅ | — (rejected once modified) | — |
 | Open offline product catalogue | ✅ **20,348 products** | ✅ 15,874 packages | — | — | — | — |
+| Chip corrections after the factory | ✅ one open, standardised API for every brand; the SDKs diff and patch the chip, signature kept valid | optional `data_url` to an API each maker builds and hosts itself; no common format, SDK or update workflow | — | — | — | — |
+| Where the data comes from | one public registry, one format for every brand; origin proven by the signature on TigerTag+ Certified chips | the chip, or a per-maker URL nothing checks | the chip | the chip | the chip | the chip |
 
 What the table shows:
 
@@ -313,6 +315,11 @@ What the table shows:
 - **Boosted by the catalogue, offline.** A TigerTag+ product id resolves against
   the bundled public catalogue — 20,348 products with name, series, SKU,
   barcode, photo and refill flag — with no network, no account.
+- **Predictable updates.** A brand corrects a product once, on the open API shared
+  by every brand; any reader patches the chips already sold with the SDKs'
+  `diff_api()` / `patch_from_api()`. OpenTag3D's `data_url` points to an API
+  each maker writes and hosts itself, with no common format and no update
+  workflow.
 - **Not the most fields on the chip.** OpenPrintTag carries more colours (6) and
   fields TigerTag does not (GTIN, length). What no other format combines is a
   complete record, an offline-verifiable signature and an open catalogue of
