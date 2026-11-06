@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "4c71879db7468115a929efee0cbf2488d7e399941c236d6cc07b216e1aae0f20",
-  "products": 20436,
+  "sourceSha256": "70a9170a9bdb5c747d35e558533617fbb9b21af2778df44c3c5252099d7f3b4e",
+  "products": 20444,
   "unassigned": 3,
   "brands": [
     {
@@ -161,9 +161,9 @@
       "id_brand": 35123,
       "brand": "Bambu Lab",
       "file": "id_bambu_lab.json",
-      "entries": 393,
-      "bytes": 406445,
-      "sha256": "969bed6d7d18fa770b62dc1c74e3ca8c89603064d1bfacd8a197cea7d489f8a1"
+      "entries": 401,
+      "bytes": 414587,
+      "sha256": "ceb2040a12b0f3d18b9fab2544e53334ad627d95368aef5a2c670aef2f7c171b"
     },
     {
       "id_brand": 55869,
