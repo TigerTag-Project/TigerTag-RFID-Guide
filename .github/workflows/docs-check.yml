@@ -54,3 +54,13 @@ jobs:
 
       - name: Check links and facts
         run: python tools/docs_check.py
+
+      # The protocol site: every language built, then checked for what search
+      # and answer engines need (titles, hreflang, JSON-LD, alt text…) — the
+      # rule is .agents/rules/seo-geo.md. A PR that breaks it fails here,
+      # before it reaches the deploy.
+      - name: Build and check the protocol site (SEO / GEO)
+        run: |
+          python site/build.py --check
+          python site/build.py --out _site
+          python site/seo_check.py _site
