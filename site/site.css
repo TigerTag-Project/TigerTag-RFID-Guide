@@ -332,10 +332,26 @@ footer.foot .links { justify-content: center; }
 .refills-row img { width: 19%; height: auto; }
 .refills-carrier img { width: 48%; height: auto; }
 @media (max-width: 999px) { .refills { grid-template-columns: 1fr; } }
-/* Pill tags: the aspects, then Refill (catalogue info1). */
-.pg-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+/* Under the sub line: the aspects, as text. */
+.pg-tags { display: block; color: var(--muted); font-size: .8rem; margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .pg-tags:empty { display: none; }
-.pg-tag { font-style: normal; font-size: .72rem; font-weight: 600; line-height: 1; padding: 3px 7px; border-radius: 999px;
-  border: 1px solid var(--line); color: var(--muted); background: var(--bg); }
-.pg-tag--refill { color: var(--accent); border-color: currentColor; }
+/* Refill, as Tiger Studio Manager badges it: green; icon and word top right of
+   the selected product's pill, the icon alone top left of the list thumbnails. */
+.pg-thumb { position: relative; }
+.pg-refill { position: absolute; top: 5px; left: 5px; z-index: 2; display: inline-flex; align-items: center; gap: 3px;
+  height: 20px; padding: 0 7px 0 5px; border-radius: 999px; color: #fff; pointer-events: none;
+  background: linear-gradient(135deg, #16a34a, #1aaf6c); border: 1.5px solid rgba(255,255,255,.85); box-shadow: 0 1px 4px rgba(0,0,0,.25); }
+.pg-refill svg { width: 12px; height: 12px; flex: none; }
+.pg-refill b { font-size: 10.5px; font-weight: 800; letter-spacing: .02em; line-height: 1; }
+.pg-refill--sm { top: 3px; left: 3px; width: 15px; height: 15px; padding: 0; justify-content: center; border-width: 1px; }
+.pg-refill--sm svg { width: 9px; height: 9px; }
 select:disabled { opacity: .75; cursor: not-allowed; }
+/* The photo fills its colour frame with a 5px rim, as in Tiger Studio Manager's
+   catalogue rows (.cpk-row .cv-thumb--fill): a thin coloured edge, not a mat. */
+.pg-list .pg-thumb img, .pg-pill .pg-thumb img.pg-pill-photo { position: absolute; top: 5px; left: 5px;
+  width: calc(100% - 10px); height: calc(100% - 10px); border-radius: 8px; object-fit: cover; }
+.pg-pill { position: relative; }
+.pg-pill > .pg-refill { top: 8px; left: auto; right: 8px; }
+.pg-pill.has-refill .pg-ptxt { padding-right: 64px; }
+.pg-refill, .pg-refill b { color: #fff; }
+.pg-refill svg { stroke: #fff; }

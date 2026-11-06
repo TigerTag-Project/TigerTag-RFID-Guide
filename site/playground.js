@@ -498,7 +498,8 @@
     $("#pg-cat-list").innerHTML = hits.slice(0, 60).map((p) =>
       `<li><button type="button" data-k="${products.indexOf(p)}"><span class="pg-thumb" style="--spool-bg:${escapeHtml(colorBg(entryRow(p)))}"${p.img_src ? ` data-zoom="${escapeHtml(cdnImg(p.img_src, ZOOM_PX))}"` : ""}>`
       + (p.img_src ? `<img src="${escapeHtml(cdnImg(p.img_src, 56))}" alt="" width="56" height="56" loading="lazy" decoding="async">` : "")
-      + `</span><span class="pg-ptxt"><b>${escapeHtml(p.title)}</b><small>${escapeHtml([p.brand, p.material, p.measure].filter(Boolean).join(" · "))}</small>${pillTags([p.aspect1, p.aspect2], p.info1 === true)}</span></button></li>`).join("")
+      + (p.info1 === true ? refillBadge(true) : "")
+      + `</span><span class="pg-ptxt"><b>${escapeHtml(p.title)}</b><small>${escapeHtml([p.brand, p.material, p.measure].filter(Boolean).join(" · "))}</small>${pillTags([p.aspect1, p.aspect2])}</span></button></li>`).join("")
       + (hits.length > 60 ? `<li class="pg-muted">${T.more.replace("{n}", hits.length - 60)}</li>` : "")
       + (!hits.length ? `<li class="pg-muted">${T.no_match}</li>` : "");
   }
@@ -521,12 +522,20 @@
     if (rgb.length < 3) return false;
     return (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) / 255 < 0.5;
   }
-  /* The pill's tags: the product's aspects, then Refill when the catalogue
-     flags it (info1). Always rendered, empty when there is nothing to show. */
-  function pillTags(aspects, refill) {
-    const tags = aspects.filter((a) => a && a !== "-" && a !== "None").map((a) => `<i class="pg-tag">${escapeHtml(a)}</i>`);
-    if (refill) tags.push(`<i class="pg-tag pg-tag--refill">${escapeHtml(T.refill)}</i>`);
-    return `<span class="pg-tags">${tags.join("")}</span>`;
+  /* Under the pill's sub line: "Aspect: Basic Bicolor" in plain text. Always
+     rendered, empty when the product has no aspect to show. */
+  function pillTags(aspects) {
+    const names = aspects.filter((a) => a && a !== "-" && a !== "None");
+    const line = names.length ? escapeHtml(T.aspect_line.replace("{a}", names.join(" "))) : "";
+    return `<span class="pg-tags">${line}</span>`;
+  }
+  /* Refill (catalogue info1), as Tiger Studio Manager badges it: green, the
+     recycle icon and the word top right of the selected product's pill, the
+     icon alone top left of a list thumbnail. */
+  const RECYCLE_SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 19H4.815a1.83 1.83 0 0 1-1.57-.881 1.785 1.785 0 0 1-.004-1.784L7.196 9.5"/><path d="M11 19h8.203a1.83 1.83 0 0 0 1.556-.89 1.784 1.784 0 0 0 0-1.775l-1.226-2.12"/><path d="m14 16-3 3 3 3"/><path d="M8.293 13.596 7.196 9.5 3.1 10.598"/><path d="m9.344 5.811 1.093-1.892A1.83 1.83 0 0 1 11.985 3a1.784 1.784 0 0 1 1.546.888l3.943 6.843"/><path d="m13.378 9.633 4.096 1.098 1.097-4.096"/></svg>';
+  function refillBadge(compact) {
+    return `<span class="pg-refill${compact ? " pg-refill--sm" : ""}" title="${escapeHtml(T.refill)}" role="img" aria-label="${escapeHtml(T.refill)}">`
+      + RECYCLE_SVG + (compact ? "" : "<b>Refill</b>") + "</span>";
   }
   function renderHead(f) {
     const head = $(".pg-head"), frame = head.querySelector(".pg-thumb");
@@ -551,7 +560,12 @@
     const aspects = [f.idAspect1, f.idAspect2].filter(Boolean).map((id) => tables.aspect.get(id)).filter((x) => x && x !== "-");
     head.querySelector(".pg-pill-name").textContent = entry ? entry.title : [label(tables.material, f.idMaterial)].concat(aspects).join(" ");
     head.querySelector(".pg-pill-sub").textContent = [label(tables.brand, f.idBrand), label(tables.material, f.idMaterial), f.measure + " " + unit].join(" · ");
-    head.querySelector(".pg-pill-tags").outerHTML = pillTags(aspects, !!(entry && entry.info1 === true)).replace('class="pg-tags"', 'class="pg-tags pg-pill-tags"');
+    head.querySelector(".pg-pill-tags").outerHTML = pillTags(aspects).replace('class="pg-tags"', 'class="pg-tags pg-pill-tags"');
+    // Refill with its word, top right of the selected product's pill.
+    const pill = head.querySelector(".pg-pill"), refill = !!(entry && entry.info1 === true);
+    pill.querySelectorAll(".pg-refill").forEach((x) => x.remove());
+    pill.classList.toggle("has-refill", refill);
+    if (refill) pill.insertAdjacentHTML("beforeend", refillBadge(false));
     head.querySelector(".pg-pmeta").textContent = entry ? [entry.sku, entry.barcode].filter(Boolean).join(" · ") : "";
   }
 
