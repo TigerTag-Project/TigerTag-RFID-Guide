@@ -48,6 +48,10 @@ SITE_URL = "https://tigertag-project.github.io/TigerTag-RFID-Guide/"
 # The eleven languages of the Tiger Touch site, in the same order. `pt` (Brazil)
 # and `pt-pt` (Portugal) are separate dictionaries on purpose.
 LANGS = ["en", "fr", "de", "es", "it", "zh", "pt", "pt-pt", "pl", "ru", "nl"]
+
+# The share picture: tigersystem.io draws this page's card in each language,
+# with the same renderer as its own pages, so the site keeps no picture of its own.
+SHARE_CARD = "https://tigersystem.io/{lang}/tigertag/opengraph-image"
 HTML_LANG = {"zh": "zh-Hans", "pt": "pt-BR", "pt-pt": "pt-PT"}
 OG_LOCALE = {"en": "en_US", "fr": "fr_FR", "de": "de_DE", "es": "es_ES", "it": "it_IT",
              "zh": "zh_CN", "pt": "pt_BR", "pt-pt": "pt_PT", "pl": "pl_PL", "ru": "ru_RU", "nl": "nl_NL"}
@@ -201,7 +205,7 @@ def render(template, lang, words, dicts, site_url, product, dates):
         {"@context": "https://schema.org", "@type": "TechArticle", "headline": words["meta_title"],
          "description": words["meta_description"],
          "about": "TigerTag NFC protocol for 3D-printing materials", "inLanguage": HTML_LANG.get(lang, lang),
-         "url": url, "image": site_url + "assets/og.jpg", "dateModified": page_date,
+         "url": url, "image": SHARE_CARD.format(lang=lang), "dateModified": page_date,
          "license": "https://creativecommons.org/licenses/by/4.0/",
          "isBasedOn": "https://github.com/TigerTag-Project/TigerTag-RFID-Guide",
          "author": {"@id": ORG_ID}, "publisher": {"@id": ORG_ID}},
@@ -237,6 +241,7 @@ def render(template, lang, words, dicts, site_url, product, dates):
 
     special = {
         "@lang": lang,
+        "@ogimage": SHARE_CARD.format(lang=lang),
         "@htmllang": HTML_LANG.get(lang, lang),
         "@oglocale": OG_LOCALE[lang],
         "@oglocalealt": "\n".join(f'<meta property="og:locale:alternate" content="{OG_LOCALE[l]}">' for l in LANGS if l != lang),
@@ -294,9 +299,6 @@ def build(out, site_url):
     # Pictures made for the site itself (site/assets/), next to the README's.
     for extra in sorted((HERE / "assets").glob("*")):
         shutil.copy2(extra, out / "assets" / extra.name)
-    og = HERE / "og.jpg"
-    if og.exists():
-        shutil.copy2(og, out / "assets" / "og.jpg")
     # The machine-readable description of the protocol, at the site root too.
     shutil.copy2(REPO / "llms.txt", out / "llms.txt")
 

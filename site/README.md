@@ -19,7 +19,6 @@ built by [`build.py`](build.py) and published by
 | [`site.css`](site.css), [`site.js`](site.js) | The look (dark by default, light on request) and the theme / language buttons. Each page loads them, and `playground.js`, with `?v=` and a hash of the file's content, so a new version is never hidden by a browser cache. |
 | [`playground.js`](playground.js) | The playground: build a chip from the catalogue or by hand (custom mode), or decode one, and see every byte. Its encoder is the JavaScript SDK's, byte for byte (`TigerTag.fromCatalogEntry` / `create` / `toBytes`); its words are the `pj_*` keys, its labels the `pg_*` keys. The codec is exposed as `window.TigerTagPlayground` in the browser console. |
 | [`assets/`](assets/) | Pictures made for the site. The others come from `Images/` and `brand/`, so the site shows the same pictures as the README. |
-| [`og.jpg`](og.jpg) | The picture shown when the site is shared (1200 × 630). |
 
 The build also publishes, under `data/`, the reference tables the playground reads
 (`id_brand`, `id_material`, `id_aspect`, `id_type`, `id_diameter`, `id_measure_unit`) and
