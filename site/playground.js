@@ -208,7 +208,6 @@
     $(".pg-fields tbody").innerHTML = rows.join("");
 
     // The chip's own colours, painted with the same convention as the catalogue list.
-    $(".pg-spool").style.background = current.entry ? colorBg(entryRow(current.entry)) : colorBg(chipRow(current));
     renderHead(current);
     syncSearchable();
     $(".pg-summary").textContent = summary(current);
@@ -344,7 +343,7 @@
   }
   if (window.matchMedia("(hover: hover)").matches) {
     document.addEventListener("mouseover", (e) => {
-      const wrap = e.target.closest && e.target.closest(".pg-thumb[data-zoom]");
+      const wrap = e.target.closest && e.target.closest(".pg-thumb[data-zoom], .pg-sc-img[data-zoom]");
       if (wrap === zoomFor) return;
       hideZoom();
       if (!wrap) return;
@@ -463,24 +462,50 @@
     render();
   }
 
-  /* The card above the byte grid: the catalogue product (photo in its colour
-     frame, name, material, quantity, SKU, barcode) and the chip's one-line
-     summary; a chip with no catalogue product shows its colour swatch instead. */
+  /* The card above the byte grid, drawn as Tiger Studio Manager's filament card
+     (_gridCardInnerHTML / .spool-card): a square of the spool's colour with the
+     TigerTag logo as a watermark (white on a dark colour, contoured on a light
+     one), the product photo laid over it, then name, brand · material, the
+     remaining weight and its fill bar. A custom or decoded chip gets the same
+     card without the photo. Next to it: the catalogue details and the summary. */
+  const LOGO_LIGHT = "assets/logo-tigertag-white.svg", LOGO_DARK = "assets/logo-tigertag-black.svg";
+  function isColorDark(bg) {
+    const m = String(bg).match(/#([0-9a-fA-F]{6})/) || null;
+    const rgb = m ? [0, 2, 4].map((i) => parseInt(m[1].slice(i, i + 2), 16))
+      : (String(bg).match(/rgb\((\d+),\s*(\d+),\s*(\d+)/) || []).slice(1, 4).map(Number);
+    if (rgb.length < 3) return false;
+    return (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) / 255 < 0.5;
+  }
+  function fillBarColor(pct) { return pct < 20 ? "#F44336" : pct < 50 ? "#FF9800" : "#4CAF50"; }
   function renderHead(f) {
-    const head = $(".pg-head"), frame = head.querySelector(".pg-thumb"), img = frame.querySelector("img");
+    const head = $(".pg-head"), tile = head.querySelector(".pg-sc-img");
+    const logo = tile.querySelector(".pg-sc-logo"), photo = tile.querySelector(".pg-sc-photo");
     const entry = f.entry;
-    const photo = !!(entry && entry.img_src);
-    frame.hidden = !photo;
-    head.querySelector(".pg-spool").hidden = photo;
-    if (photo) {
-      const src = cdnImg(entry.img_src, 96);
-      if (img.getAttribute("src") !== src) img.src = src;
-      img.alt = entry.title || "";
-      frame.style.setProperty("--spool-bg", colorBg(entryRow(entry)));
-      frame.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX);
+    const bg = entry ? colorBg(entryRow(entry)) : colorBg(chipRow(f));
+    tile.style.background = bg;
+    tile.style.setProperty("--spool-bg", bg);
+    const base = root.dataset.data.replace(/data\/$/, "");
+    const logoSrc = base + (isColorDark(bg) ? LOGO_LIGHT : LOGO_DARK);
+    if (logo.getAttribute("src") !== logoSrc) logo.src = logoSrc;
+    if (entry && entry.img_src) {
+      const src = cdnImg(entry.img_src, 256);
+      if (photo.getAttribute("src") !== src) photo.src = src;
+      photo.alt = entry.title || "";
+      photo.hidden = false;
+      tile.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX);
     } else {
-      delete frame.dataset.zoom;
+      photo.hidden = true; photo.removeAttribute("src");
+      delete tile.dataset.zoom;
     }
+    const unit = tables.unit.get(f.idUnit) || "";
+    const aspects = [f.idAspect1, f.idAspect2].filter(Boolean).map((id) => tables.aspect.get(id)).filter((a) => a && a !== "-");
+    head.querySelector(".pg-sc-name").textContent = entry ? entry.title : ([label(tables.material, f.idMaterial)].concat(aspects).join(" "));
+    head.querySelector(".pg-sc-sub").textContent = `${label(tables.brand, f.idBrand)} · ${label(tables.material, f.idMaterial)}`;
+    head.querySelector(".pg-sc-weight").textContent = f.measureAvailable + " " + unit;
+    head.querySelector(".pg-sc-tier").textContent = typeName(f.idTigertag);
+    const pct = f.measure ? Math.max(0, Math.min(100, Math.round(f.measureAvailable * 100 / f.measure))) : 0;
+    const bar = head.querySelector(".pg-sc-bar span");
+    bar.style.width = pct + "%"; bar.style.background = fillBarColor(pct);
     head.querySelector(".pg-ptitle").textContent = entry ? `${entry.brand} · ${entry.title}` : "";
     head.querySelector(".pg-pmeta").textContent = entry ? [entry.material, entry.measure, entry.sku, entry.barcode].filter(Boolean).join(" · ") : "";
   }
