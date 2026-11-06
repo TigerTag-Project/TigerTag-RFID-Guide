@@ -108,10 +108,10 @@ behind — handy in CI.
 Unlike the tables, the catalogue has no key in `all/last_update`, so there is no
 server timestamp to compare and every run downloads it in full (20 000+ products,
 five pages, ~18 MB in November 2026). That is why the byte-comparison above matters:
-the download is unconditional, the *write* is not. `last_update.json` stays the
-API's own payload; the script would only add a `products` key from the products'
-`updated_at`, which the API does not return today. The catalogue's change date is
-therefore in `manifest.json`.
+the download is unconditional, the *write* is not. `last_update.json` is the
+API's own payload plus a `products` key: the newest `updated_at` of the products
+(epoch ms), so it means the same thing as its neighbours. Each file's change date
+is also in `manifest.json`.
 
 ### The manifest
 

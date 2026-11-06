@@ -51,6 +51,11 @@ jobs:
       - name: Build the site
         run: python site/build.py --out _site
 
+      # Search / answer-engine essentials (.agents/rules/seo-geo.md): no deploy
+      # with a broken hreflang set, a missing title or invalid JSON-LD.
+      - name: Check the site for search and answer engines
+        run: python site/seo_check.py _site
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -98,6 +98,34 @@ def script_json(value):
     return json.dumps(value, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 
 
+# Crawlers of search and answer engines, welcomed by name in robots.txt: the
+# protocol is meant to be read, cited and understood by them (see
+# .agents/rules/seo-geo.md). Listing them is an explicit opt-in, not a ranking trick.
+AI_AGENTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User",
+             "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot-Extended", "CCBot",
+             "Amazonbot", "Bytespider", "Meta-ExternalAgent", "cohere-ai", "DuckAssistBot", "MistralAI-User"]
+
+ORG_ID = "https://tigersystem.io/#organization"
+
+
+def site_dates():
+    """(page modified, catalogue modified) as ISO dates, from git and the catalogue's own stamp."""
+    import subprocess
+    from datetime import datetime, timezone
+    try:
+        page = subprocess.run(["git", "log", "-1", "--format=%cI", "--", "site", "README.md", "llms.txt"],
+                              cwd=REPO, capture_output=True, text=True, check=True).stdout.strip()[:10]
+    except (OSError, subprocess.CalledProcessError):
+        page = ""
+    page = page or datetime.now(timezone.utc).date().isoformat()
+    try:
+        stamp = json.loads((REPO / "database/last_update.json").read_text(encoding="utf-8")).get("products")
+        catalogue = datetime.fromtimestamp(stamp / 1000, timezone.utc).date().isoformat() if stamp else page
+    except (OSError, ValueError, TypeError):
+        catalogue = page
+    return page, catalogue
+
+
 PLACEHOLDER = re.compile(r"\{\{([a-z0-9_@]+)\}\}")
 
 
@@ -140,7 +168,7 @@ def pages_grid():
     return "\n".join(cells)
 
 
-def render(template, lang, words, dicts, site_url, product):
+def render(template, lang, words, dicts, site_url, product, dates):
     base = "" if lang == "en" else "../"
     url = site_url + page_path(lang)
 
@@ -155,15 +183,22 @@ def render(template, lang, words, dicts, site_url, product):
 
     faq = [{"@type": "Question", "name": words[f"faq{i}_q"],
             "acceptedAnswer": {"@type": "Answer", "text": words[f"faq{i}_a"]}} for i in range(1, 8)]
+    page_date, catalogue_date = dates
     jsonld = [
+        {"@context": "https://schema.org", "@type": "Organization", "@id": ORG_ID, "name": "TigerTag Corp",
+         "url": "https://tigersystem.io", "logo": site_url + "assets/apple-touch-icon.png",
+         "sameAs": ["https://github.com/TigerTag-Project", "https://wiki.tigersystem.io",
+                    "https://tigertag-project.github.io/TigerTag-RFID-Guide/"]},
         {"@context": "https://schema.org", "@type": "WebSite", "name": "TigerTag", "url": url,
-         "inLanguage": HTML_LANG.get(lang, lang), "description": words["meta_description"]},
+         "inLanguage": HTML_LANG.get(lang, lang), "description": words["meta_description"],
+         "publisher": {"@id": ORG_ID}},
         {"@context": "https://schema.org", "@type": "TechArticle", "headline": words["meta_title"],
+         "description": words["meta_description"],
          "about": "TigerTag NFC protocol for 3D-printing materials", "inLanguage": HTML_LANG.get(lang, lang),
-         "url": url, "image": site_url + "assets/og.jpg",
+         "url": url, "image": site_url + "assets/og.jpg", "dateModified": page_date,
          "license": "https://creativecommons.org/licenses/by/4.0/",
          "isBasedOn": "https://github.com/TigerTag-Project/TigerTag-RFID-Guide",
-         "publisher": {"@type": "Organization", "name": "TigerTag Corp", "url": "https://tigersystem.io"}},
+         "author": {"@id": ORG_ID}, "publisher": {"@id": ORG_ID}},
         {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": HTML_LANG.get(lang, lang), "mainEntity": faq},
     ]
     jsonld.append({
@@ -174,6 +209,7 @@ def render(template, lang, words, dicts, site_url, product):
         "url": "https://github.com/TigerTag-Project/TigerTag-RFID-Guide/tree/main/database",
         "license": "https://creativecommons.org/publicdomain/zero/1.0/",
         "isAccessibleForFree": True,
+        "dateModified": catalogue_date,
         "creator": {"@type": "Organization", "name": "TigerTag Corp", "url": "https://tigersystem.io"},
         "distribution": [
             {"@type": "DataDownload", "encodingFormat": "application/json",
@@ -182,6 +218,13 @@ def render(template, lang, words, dicts, site_url, product):
              "contentUrl": "https://raw.githubusercontent.com/TigerTag-Project/TigerTag-RFID-Guide/main/database/brands/index.json"},
         ],
     })
+    for name, repo_url, language in [("TigerTag SDK for JavaScript", "https://github.com/TigerTag-Project/TigerTag-SDK-JS", "JavaScript"),
+                                     ("TigerTag SDK for Python", "https://github.com/TigerTag-Project/TigerTag-SDK-Python", "Python")]:
+        jsonld.append({"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": name,
+                       "codeRepository": repo_url, "programmingLanguage": language,
+                       "license": "https://www.apache.org/licenses/LICENSE-2.0",
+                       "description": "Read, verify, create and patch TigerTag NFC chips; offline, identical bytes in both SDKs.",
+                       "author": {"@id": ORG_ID}})
     # `</` never appears inside a <script> block.
     jsonld_html = "\n".join('<script type="application/ld+json">' + json.dumps(j, ensure_ascii=False).replace("</", "<\\/") + "</script>"
                             for j in jsonld)
@@ -190,6 +233,7 @@ def render(template, lang, words, dicts, site_url, product):
         "@lang": lang,
         "@htmllang": HTML_LANG.get(lang, lang),
         "@oglocale": OG_LOCALE[lang],
+        "@oglocalealt": "\n".join(f'<meta property="og:locale:alternate" content="{OG_LOCALE[l]}">' for l in LANGS if l != lang),
         "@url": url,
         "@siteurl": site_url,
         "@base": base,
@@ -216,6 +260,7 @@ def build(out, site_url):
     dicts = load_dictionaries()
     template = (HERE / "template.html").read_text(encoding="utf-8")
     product = default_product()
+    dates = site_dates()
     if out.exists():
         shutil.rmtree(out)
     (out / "assets").mkdir(parents=True)
@@ -223,7 +268,7 @@ def build(out, site_url):
     for lang in LANGS:
         target = out / page_path(lang) / "index.html"
         target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_text(render(template, lang, dicts[lang], dicts, site_url, product), encoding="utf-8")
+        target.write_text(render(template, lang, dicts[lang], dicts, site_url, product, dates), encoding="utf-8")
 
     # The reference tables and the per-brand catalogue, for the playground.
     (out / "data" / "brands").mkdir(parents=True)
@@ -245,15 +290,19 @@ def build(out, site_url):
     shutil.copy2(REPO / "llms.txt", out / "llms.txt")
 
     urls = "\n".join(
-        "  <url><loc>{}</loc>{}</url>".format(
-            site_url + page_path(lang),
+        "  <url><loc>{}</loc><lastmod>{}</lastmod>{}</url>".format(
+            site_url + page_path(lang), dates[0],
             "".join(f'<xhtml:link rel="alternate" hreflang="{HTML_LANG.get(l, l)}" href="{site_url}{page_path(l)}"/>' for l in LANGS))
         for lang in LANGS)
     (out / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n'
         f"{urls}\n</urlset>\n", encoding="utf-8")
-    (out / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {site_url}sitemap.xml\n", encoding="utf-8")
+    robots = ["User-agent: *", "Allow: /", ""]
+    for agent in AI_AGENTS:
+        robots += [f"User-agent: {agent}", "Allow: /", ""]
+    robots += [f"Sitemap: {site_url}sitemap.xml"]
+    (out / "robots.txt").write_text("\n".join(robots) + "\n", encoding="utf-8")
     (out / ".nojekyll").write_text("", encoding="utf-8")
     print(f"built {len(LANGS)} languages into {out}")
 

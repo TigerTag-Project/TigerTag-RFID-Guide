@@ -39,6 +39,12 @@ redeploys the site, so the playground always shows the current catalogue.
   python3 site/build.py --only en   # English only, while translations are pending
   ```
 
+- **Search and answer engines**: `python3 site/build.py --out _site && python3 site/seo_check.py _site`
+  checks every page (title and description length, one `h1`, canonical and `hreflang`,
+  sharing cards, `alt` text, JSON-LD types and the FAQ they mirror, in-page links,
+  sitemap, robots, `llms.txt`). It runs on every PR and before every deploy; the rule
+  behind it is [`.agents/rules/seo-geo.md`](../.agents/rules/seo-geo.md).
+
 The English page is the root (`/`), every other language has its own folder (`/fr/`,
 `/zh/`…): each page is complete in its language for readers, search engines and AI
 assistants, and the pages point to each other with `hreflang`. A language chosen in the

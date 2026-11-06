@@ -10,6 +10,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="TigerTag">
 <meta property="og:locale" content="{{@oglocale}}">
+{{@oglocalealt}}
 <meta property="og:url" content="{{@url}}">
 <meta property="og:title" content="{{og_title}}">
 <meta property="og:description" content="{{og_description}}">
@@ -22,6 +23,8 @@
 <meta name="twitter:description" content="{{og_description}}">
 <meta name="twitter:image" content="{{@siteurl}}assets/og.jpg">
 <meta name="theme-color" content="#14161a">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<link rel="alternate" type="text/plain" href="{{@base}}llms.txt" title="llms.txt">
 <script>
   /* The chosen theme, applied before the page is drawn so it never flashes. */
   try { var t = localStorage.getItem("tigertag-theme"); if (t === "light" || t === "dark") document.documentElement.dataset.theme = t; } catch (e) {}
@@ -303,19 +306,19 @@
     </figure>
     <div class="eco">
       <article class="card wide">
-        <img src="{{@base}}assets/TigerStudio_Pod.webp" alt="" width="640" height="452" loading="lazy">
+        <img src="{{@base}}assets/TigerStudio_Pod.webp" alt="{{eco_studio_title}}" width="640" height="452" loading="lazy">
         <div><h3>{{eco_studio_title}}</h3><p>{{eco_studio_text}}</p>
         <p class="links"><a class="btn small primary" href="https://github.com/TigerTag-Project/TigerTag-Studio-Manager/releases/latest">{{eco_download}}</a><a class="btn small" href="https://github.com/TigerTag-Project/TigerTag-Studio-Manager">{{repo}}</a></p></div>
       </article>
       <article class="card wide">
-        <img src="{{@base}}assets/TigerTag_RFID_Connect_Apps.png" alt="" width="640" height="225" loading="lazy">
+        <img src="{{@base}}assets/TigerTag_RFID_Connect_Apps.png" alt="{{eco_connect_title}}" width="640" height="225" loading="lazy">
         <div><h3>{{eco_connect_title}}</h3><p>{{eco_connect_text}}</p>
         <p class="links"><a class="btn small primary" href="https://apps.apple.com/app/tigertag-rfid-connect/id6745437963">{{eco_appstore}}</a><a class="btn small primary" href="https://play.google.com/store/apps/details?id=com.tigertag.connect">{{eco_play}}</a></p></div>
       </article>
-      <article class="card dev"><img src="{{@base}}assets/TigerPOD_Mini.webp" alt="" width="450" height="665" loading="lazy"><h3>{{eco_pod_title}}</h3><p>{{eco_pod_text}}</p><a class="more" href="https://github.com/TigerTag-Project/TigerPOD">{{repo}}</a></article>
-      <article class="card dev"><img src="{{@base}}assets/TigerScale_V3.png" alt="" width="300" height="300" loading="lazy"><h3>{{eco_scale_title}}</h3><p>{{eco_scale_text}}</p><a class="more" href="https://github.com/TigerTag-Project/Tiger-Scale-V3">{{repo}}</a></article>
-      <article class="card dev"><img src="{{@base}}assets/TigerSpool.png" alt="" width="225" height="300" loading="lazy"><h3>{{eco_spool_title}}</h3><p>{{eco_spool_text}}</p><a class="more" href="https://github.com/TigerTag-Project/TigerSpool-RFID">{{repo}}</a></article>
-      <article class="card dev"><img src="{{@base}}assets/TigerTouch.png" alt="" width="410" height="300" loading="lazy"><h3>{{eco_touch_title}}</h3><p>{{eco_touch_text}}</p><p class="links"><a class="more" href="https://tigertag-project.github.io/Tiger-Touch/">{{eco_install}}</a><a class="more" href="https://github.com/TigerTag-Project/Tiger-Touch">{{repo}}</a></p></article>
+      <article class="card dev"><img src="{{@base}}assets/TigerPOD_Mini.webp" alt="{{eco_pod_title}}" width="450" height="665" loading="lazy"><h3>{{eco_pod_title}}</h3><p>{{eco_pod_text}}</p><a class="more" href="https://github.com/TigerTag-Project/TigerPOD">{{repo}}</a></article>
+      <article class="card dev"><img src="{{@base}}assets/TigerScale_V3.png" alt="{{eco_scale_title}}" width="300" height="300" loading="lazy"><h3>{{eco_scale_title}}</h3><p>{{eco_scale_text}}</p><a class="more" href="https://github.com/TigerTag-Project/Tiger-Scale-V3">{{repo}}</a></article>
+      <article class="card dev"><img src="{{@base}}assets/TigerSpool.png" alt="{{eco_spool_title}}" width="225" height="300" loading="lazy"><h3>{{eco_spool_title}}</h3><p>{{eco_spool_text}}</p><a class="more" href="https://github.com/TigerTag-Project/TigerSpool-RFID">{{repo}}</a></article>
+      <article class="card dev"><img src="{{@base}}assets/TigerTouch.png" alt="{{eco_touch_title}}" width="410" height="300" loading="lazy"><h3>{{eco_touch_title}}</h3><p>{{eco_touch_text}}</p><p class="links"><a class="more" href="https://tigertag-project.github.io/Tiger-Touch/">{{eco_install}}</a><a class="more" href="https://github.com/TigerTag-Project/Tiger-Touch">{{repo}}</a></p></article>
       <article class="card dev"><h3>{{eco_hub_title}}</h3><p>{{eco_hub_text}}</p><a class="more" href="https://tigersystem.io">{{eco_visit}}</a></article>
       <article class="card dev"><h3>{{eco_wiki_title}}</h3><p>{{eco_wiki_text}}</p><a class="more" href="https://wiki.tigersystem.io">{{eco_read}}</a></article>
     </div>
