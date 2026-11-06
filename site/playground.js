@@ -208,7 +208,6 @@
     $(".pg-fields tbody").innerHTML = rows.join("");
 
     // The chip's own colours, painted with the same convention as the catalogue list.
-    $(".pg-spool").style.background = current.entry ? colorBg(entryRow(current.entry)) : colorBg(chipRow(current));
     renderHead(current);
     syncSearchable();
     $(".pg-summary").textContent = summary(current);
@@ -463,26 +462,44 @@
     render();
   }
 
-  /* The card above the byte grid: the catalogue product (photo in its colour
-     frame, name, material, quantity, SKU, barcode) and the chip's one-line
-     summary; a chip with no catalogue product shows its colour swatch instead. */
+  /* The card above the byte grid, as a pill of Tiger Studio Manager's lists: the
+     product photo in its spool-colour frame (hover zoom), the name, then
+     brand · material · quantity. A custom or decoded chip gets the same pill
+     with Studio's no-photo thumbnail: the colour square and the TigerTag logo
+     (white on a dark colour, contoured on a light one). Under it: SKU, barcode
+     and the chip's one-line summary. */
+  const LOGO_LIGHT = "assets/logo-tigertag-white.svg", LOGO_DARK = "assets/logo-tigertag-black.svg";
+  function isColorDark(bg) {
+    const m = String(bg).match(/#([0-9a-fA-F]{6})/);
+    const rgb = m ? [0, 2, 4].map((i) => parseInt(m[1].slice(i, i + 2), 16))
+      : (String(bg).match(/rgb\((\d+),\s*(\d+),\s*(\d+)/) || []).slice(1, 4).map(Number);
+    if (rgb.length < 3) return false;
+    return (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) / 255 < 0.5;
+  }
   function renderHead(f) {
-    const head = $(".pg-head"), frame = head.querySelector(".pg-thumb"), img = frame.querySelector("img");
+    const head = $(".pg-head"), frame = head.querySelector(".pg-thumb");
+    const photo = frame.querySelector(".pg-pill-photo"), swatch = frame.querySelector(".pg-pill-color"), logo = frame.querySelector(".pg-pill-logo");
     const entry = f.entry;
-    const photo = !!(entry && entry.img_src);
-    frame.hidden = !photo;
-    head.querySelector(".pg-spool").hidden = photo;
-    if (photo) {
-      const src = cdnImg(entry.img_src, 96);
-      if (img.getAttribute("src") !== src) img.src = src;
-      img.alt = entry.title || "";
-      frame.style.setProperty("--spool-bg", colorBg(entryRow(entry)));
+    const bg = entry ? colorBg(entryRow(entry)) : colorBg(chipRow(f));
+    frame.style.setProperty("--spool-bg", bg);
+    const hasPhoto = !!(entry && entry.img_src);
+    photo.hidden = !hasPhoto; swatch.hidden = hasPhoto;
+    if (hasPhoto) {
+      const src = cdnImg(entry.img_src, 64);
+      if (photo.getAttribute("src") !== src) photo.src = src;
+      photo.alt = entry.title || "";
       frame.dataset.zoom = cdnImg(entry.img_src, ZOOM_PX);
     } else {
       delete frame.dataset.zoom;
+      swatch.style.background = bg;
+      const src = root.dataset.data.replace(/data\/$/, "") + (isColorDark(bg) ? LOGO_LIGHT : LOGO_DARK);
+      if (logo.getAttribute("src") !== src) logo.src = src;
     }
-    head.querySelector(".pg-ptitle").textContent = entry ? `${entry.brand} · ${entry.title}` : "";
-    head.querySelector(".pg-pmeta").textContent = entry ? [entry.material, entry.measure, entry.sku, entry.barcode].filter(Boolean).join(" · ") : "";
+    const unit = tables.unit.get(f.idUnit) || "";
+    const aspects = [f.idAspect1, f.idAspect2].filter(Boolean).map((id) => tables.aspect.get(id)).filter((x) => x && x !== "-");
+    head.querySelector(".pg-pill-name").textContent = entry ? entry.title : [label(tables.material, f.idMaterial)].concat(aspects).join(" ");
+    head.querySelector(".pg-pill-sub").textContent = [label(tables.brand, f.idBrand), label(tables.material, f.idMaterial), f.measure + " " + unit].join(" · ");
+    head.querySelector(".pg-pmeta").textContent = entry ? [entry.sku, entry.barcode].filter(Boolean).join(" · ") : "";
   }
 
   /* ── Custom tab ────────────────────────────────────────────────────────── */

@@ -225,8 +225,7 @@ footer.foot .links { justify-content: center; }
 .pg-thumb { flex: none; display: inline-flex; border-radius: 10px; overflow: hidden; background: var(--spool-bg, var(--line)); }
 .pg-thumb img { display: block; width: 56px; height: 56px; object-fit: cover; box-sizing: border-box;
   border: 4px solid transparent; border-radius: 10px; background: #fff; background-clip: padding-box; }
-.pg-thumb--head img { width: 96px; height: 96px; border-width: 5px; }
-.pg-thumb[hidden], .pg-spool[hidden] { display: none; }
+.pg-thumb[hidden] { display: none; }
 /* The hover preview: one element on the page, so the list's scroll box never clips it. */
 .pg-zoom { position: fixed; z-index: 50; pointer-events: none; padding: 6px; border-radius: 16px;
   background: var(--spool-bg, var(--card)); box-shadow: 0 18px 40px -10px rgba(0, 0, 0, .55), 0 0 0 1px var(--line);
@@ -247,10 +246,18 @@ footer.foot .links { justify-content: center; }
 .pg-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
 .pg-filebtn { cursor: pointer; }
 .pg-out { display: grid; gap: 16px; }
-.pg-head { display: flex; gap: 18px; align-items: center; }
+.pg-head { display: flex; gap: 18px; align-items: center; flex-wrap: wrap; }
+/* A pill of Tiger Studio Manager's lists: photo in its colour frame, name, sub line. */
+.pg-pill { flex: none; width: min(420px, 100%); display: flex; gap: 12px; align-items: center; padding: 8px 14px 8px 8px;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 14px; }
+.pg-thumb--pill img.pg-pill-photo { width: 64px; height: 64px; }
+.pg-pill-photo[hidden], .pg-pill-color[hidden] { display: none; }
+/* No photo: Studio's colour square with the logo watermark top right. */
+.pg-pill-color { width: 64px; height: 64px; border-radius: 10px; display: flex; align-items: flex-start; justify-content: flex-end; }
+.pg-pill-color img { width: 42%; height: auto; margin: 8%; border: 0; border-radius: 0; background: none; object-fit: contain; }
+.pg-pill .pg-ptxt b { font-size: 1rem; }
+.pg-pill .pg-ptxt small { font-size: .85rem; }
 .pg-summary { margin: 0; color: var(--text); font-weight: 600; }
-.pg-spool { flex: none; width: 92px; height: 92px; border-radius: 50%; position: relative; box-shadow: inset 0 0 0 6px rgba(0,0,0,.18); }
-.pg-spool::after { content: ""; position: absolute; inset: 30px; border-radius: 50%; background: var(--card); box-shadow: 0 0 0 4px var(--line); }
 .pg-bytes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: repeat(18, auto); grid-auto-flow: column; gap: 4px 14px; margin: 10px 0 6px; }
 .pg-row { display: grid; grid-template-columns: 26px repeat(4, minmax(0, 1fr)); gap: 3px; align-items: center; }
 .pg-page { font: 600 .68rem ui-monospace, Menlo, monospace; color: var(--muted); }
@@ -301,4 +308,5 @@ footer.foot .links { justify-content: center; }
   .joinbtn { align-self: stretch; text-align: center; }
   .langbtn span { display: none; }
   .pg-bytes { grid-template-columns: 1fr; grid-template-rows: none; grid-auto-flow: row; }
+  .pg-head { flex-direction: column; align-items: flex-start; }
 }
