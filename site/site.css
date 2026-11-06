@@ -355,3 +355,5 @@ select:disabled { opacity: .75; cursor: not-allowed; }
 .pg-pill.has-refill .pg-ptxt { padding-right: 64px; }
 .pg-refill, .pg-refill b { color: #fff; }
 .pg-refill svg { stroke: #fff; }
+/* A card that spans the whole row, under the grid of three. */
+.card--wide { grid-column: 1 / -1; }

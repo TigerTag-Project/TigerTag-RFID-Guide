@@ -151,7 +151,7 @@ largest independent filament and resin brands.
 | Chips deployed in production          | **2,500,000+** worldwide                                                        |
 | Filament & resin brands shipping it   | **eSun, Rosa3D, Sunlu, R3D, Landu, [Lotactree](https://www.lotactree.com/), JamgHe, Smart3DPT, [Filforme](https://www.filforme.com/)** — and others |
 | Printers / slicers with integration   | **Snapmaker, Bambu Lab, FlashForge, Elegoo, Creality, Anycubic** — more coming  |
-| Native HueForge integration           | ✅ Transmission Distance stored on the chip (only NFC/RFID protocol that does this) |
+| Native HueForge integration           | ✅ Transmission Distance stored on the chip, measured and written by TD1s      |
 | Native TD1s by Ajax support           | ✅ Only NFC/RFID material protocol read & written by TD1s                      |
 | Offline cryptographic authenticity    | ✅ ECDSA-P256, verified without any server                                     |
 | Chip reusable after end of spool      | ✅ Never locked in write — re-use for any NFC/NDEF purpose                     |
@@ -212,8 +212,10 @@ largest independent filament and resin brands.
 
 ## What makes TigerTag unique
 
-Three capabilities are **EXCLUSIVE to TigerTag** — no other NFC/RFID
-material-identification protocol offers them.
+Two capabilities are **EXCLUSIVE to TigerTag** — no other NFC/RFID
+material-identification protocol offers them (§1 and §3). A third sets it
+apart from the printer makers' own chips (§2). The sourced side-by-side is in
+[How TigerTag compares](#how-tigertag-compares).
 
 ### 1. EXCLUSIVE — cryptographic authenticity, verified 100% offline
 
@@ -228,13 +230,15 @@ cloud round-trip, without any vendor server**.
 No other NFC/RFID material protocol ships offline authenticity verification
 as a standard feature. TigerTag is the only one.
 
-### 2. EXCLUSIVE — chip never write-locked, reusable forever
+### 2. Chip never write-locked, reusable forever
 
 When a TigerTag spool is empty, the physical chip is **not locked in
 write**. The same chip can be re-written as a new TigerTag, as a
 generic NFC / NDEF tag, or repurposed for any other use. **Zero
-electronic waste** — the chip outlives the spool. Every other major
-NFC/RFID material protocol locks the chip permanently at end of life.
+electronic waste** — the chip outlives the spool. The printer makers' own
+chips do not allow this: a Bambu Lab tag is rejected once modified, and a
+Creality CFS tag cannot be rewritten (both formats are documented only by
+reverse engineering).
 
 This holds for a signed **TigerTag+** chip too, because its signature is
 an **attestation, not a lock**. Copy one onto another tag and it reads,
@@ -269,12 +273,66 @@ Authenticity is bound to identity; identity does not change. Settings
 are allowed to. No other NFC/RFID material protocol supports
 manufacturer-pushed remote updates.
 
-Two more **EXCLUSIVE** integrations are worth calling out:
+One more **EXCLUSIVE** integration is worth calling out, and one native
+field:
 
-- **HueForge** reads Transmission Distance straight from the chip
-  (no manual entry).
 - **TD1s by Ajax**, the open-source filament manager, natively reads
   and writes TigerTag.
+- **HueForge** Transmission Distance is stored on the chip, so it needs no
+  manual entry. OpenPrintTag and OpenTag3D also have a TD field.
+
+## How TigerTag compares
+
+The six NFC/RFID formats used on filament spools today, side by side, on 6
+November 2026. Every figure comes from the format's own specification or,
+for Bambu Lab and Creality (no official specification), from the public
+reverse-engineering work linked below.
+
+| | **TigerTag** | [OpenPrintTag][opt] | [OpenTag3D][ot3d] | [OpenSpool][osp] | Bambu Lab ([reverse-engineered][bbl]) | Creality CFS ([reverse-engineered][cfs]) |
+|---|---|---|---|---|---|---|
+| Chip | NTAG213 / NTAG215 | NFC-V, ICODE SLIX2 (320 B) | NTAG215 / NTAG216 | NTAG215 / NTAG216 | MIFARE Classic 1K | MIFARE Classic 1K |
+| Bytes for one full record | **80** (+ 64 B signature) | 176 (248 B on the tag) | 224 | 126 (JSON) | not documented (1 KB chip) | 48 |
+| Colours, max | 3 | 6 | 4 | 1 | 2 | 1 |
+| Nozzle and bed min / max | ✅ | ✅ | ✅ | nozzle only | nozzle; one bed value | — |
+| Drying temperature and time | ✅ | ✅ | ✅ | — | ✅ | — |
+| Remaining quantity on the chip | ✅ | ✅ | — | — | — | — |
+| HueForge TD | ✅ | ✅ | ✅ | — | — | — |
+| Free text message | 28 B | — | — | — | — | — |
+| Signature verifiable offline | ✅ ECDSA-P256, public key published | — | — | — | RSA-2048, public key not published | — |
+| Chip rewritable | ✅ | ✅ | ✅ | ✅ | — (rejected once modified) | — |
+| Open offline product catalogue | ✅ **20,348 products** | ✅ 15,874 packages | — | — | — | — |
+
+What the table shows:
+
+- **Most compact complete record.** TigerTag stores a full print record —
+  temperatures, drying, quantities, colours, TD — in 80 bytes, against 176 for
+  OpenPrintTag and 224 for OpenTag3D. The two smaller records carry far less:
+  Creality's 48 bytes hold no temperature, and OpenSpool's 126 bytes hold seven
+  fields. It is also the only format here that fits an NTAG213, signature
+  included.
+- **Boosted by the catalogue, offline.** A TigerTag+ product id resolves against
+  the bundled public catalogue — 20,348 products with name, series, SKU,
+  barcode, photo and refill flag — with no network, no account.
+- **Not the most fields on the chip.** OpenPrintTag carries more colours (6) and
+  fields TigerTag does not (GTIN, length). What no other format combines is a
+  complete record, an offline-verifiable signature and an open catalogue of
+  20,000+ products on one NTAG213.
+
+[opt]: https://github.com/OpenPrintTag/openprinttag-specification/blob/HEAD/data/main_fields.yaml
+[ot3d]: https://github.com/GooborgStudios/OpenTag3D/blob/main/spec.md
+[osp]: https://github.com/spuder/OpenSpool/blob/main/docs/rfid.md
+[bbl]: https://github.com/Bambu-Research-Group/RFID-Tag-Guide/blob/main/BambuLabRfid.md
+[cfs]: https://github.com/DnG-Crafts/K2-RFID
+
+Sizes: OpenPrintTag from its reference test vector
+([`01_info.yaml`](https://github.com/OpenPrintTag/openprinttag-specification/blob/HEAD/tests/encode_decode/01_info.yaml));
+OpenTag3D from its memory map
+([`spec.json`](https://github.com/GooborgStudios/OpenTag3D/blob/main/_data/spec.json));
+OpenSpool from its documented example; Creality from the
+[K2-RFID](https://github.com/DnG-Crafts/K2-RFID) reverse-engineering notes.
+OpenPrintTag's catalogue count is the one stated by the
+[openprinttag-database](https://github.com/OpenPrintTag/openprinttag-database)
+README. Corrections are welcome as an issue.
 
 ---
 
@@ -846,9 +904,8 @@ see [section 2.11](#211-tag-index--tag-count).
 ## 2.10 Transmission Distance (TD) — HueForge value
 
 In the TigerTag format, the field `TD` is reserved to store the
-**HueForge Transmission Distance Value**. TigerTag is the only NFC/RFID
-material-identification protocol that stores this value natively on
-the chip — HueForge reads it without any manual entry.
+**HueForge Transmission Distance Value**, stored natively on the chip so
+it needs no manual entry; a TD1s measures it and writes it to the chip.
 
 **Purpose:**
 - Defines how light passes through or is attenuated by the material in HueForge's simulation.
@@ -1679,13 +1736,13 @@ Deployment as of 2026:
   the chip), TD1s by Ajax (TD measurement hardware), Home Assistant
   (community), OpenRFID (community).
 
-## EXCLUSIVE DIFFERENTIATORS
+## DIFFERENTIATORS
 1. EXCLUSIVE: ECDSA-P256 cryptographic authenticity, verified 100%
    offline. Public key shipped with the protocol; no server required.
    Only NFC/RFID material protocol with offline authenticity.
-2. EXCLUSIVE: chips are NEVER locked in write. Reusable forever
-   after end of spool — any TigerTag, any NFC/NDEF use, or any
-   third-party purpose. Zero electronic waste.
+2. Chips are NEVER locked in write, unlike Bambu Lab and Creality
+   tags. Reusable forever after end of spool — any TigerTag, any
+   NFC/NDEF use, or any third-party purpose. Zero electronic waste.
 3. EXCLUSIVE: TigerTag+ supports manufacturer-pushed remote updates
    via the cloud API, even after the chip was burned at the filament
    factory. Brands publish corrected settings; a compatible reader
@@ -1693,12 +1750,18 @@ Deployment as of 2026:
    signature covers only uid+id_tigertag+id_product, so corrected
    settings leave authenticity intact. No product recall. Only NFC/RFID
    material protocol with this capability.
-4. EXCLUSIVE: native HueForge integration — Transmission Distance
-   stored on the chip at offset +44 (page 0x0F, u16 BE, value × 10).
-   Only NFC/RFID protocol with this native field.
+4. HueForge Transmission Distance stored on the chip at offset +44
+   (page 0x0F, u16 BE, value × 10), read and written by TD1s.
 5. EXCLUSIVE: native TD1s by Ajax support — TigerTag is the only
    NFC/RFID material protocol read and written by the TD1s open-source
    filament manager.
+6. Most compact complete record: 80 bytes carry material, brand, type,
+   2 aspects, 3 colours, initial and remaining quantity, nozzle and bed
+   min/max, drying temperature and time, HueForge TD and a 28-byte
+   message (OpenPrintTag: 176 B, OpenTag3D: 224 B). The only format of
+   the comparison that fits an NTAG213, signature included.
+7. Largest open offline catalogue: 20,348 products (November 2026),
+   resolved from the chip's product id with no network.
 
 ## PYTHON SDK
 pip install tigertag           — zero-dependency offline core
