@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "565bca535be32e410f413074ea3f47deea262e116388487867061213d8537ff7",
-  "products": 20348,
+  "sourceSha256": "4c71879db7468115a929efee0cbf2488d7e399941c236d6cc07b216e1aae0f20",
+  "products": 20436,
   "unassigned": 3,
   "brands": [
     {
@@ -186,8 +186,8 @@
       "brand": "CaiLab",
       "file": "id_cailab.json",
       "entries": 187,
-      "bytes": 191471,
-      "sha256": "e00bf77f8123810810a088e7b3d09bc9bee189342f6959b3711f4487c30ac68c"
+      "bytes": 198512,
+      "sha256": "2d77073e46a852f3f414b35a9e95c7cdaad10d37fc4e9255046d2c3f4beff801"
     },
     {
       "id_brand": 56789,
@@ -212,6 +212,14 @@
       "entries": 42,
       "bytes": 44893,
       "sha256": "2b06fbfe34e5315418da5940b00064eff32531e926b53f4032064706f4b6fca9"
+    },
+    {
+      "id_brand": 24147,
+      "brand": "Cookiecad",
+      "file": "id_cookiecad.json",
+      "entries": 88,
+      "bytes": 94432,
+      "sha256": "8a67f0f92fd447a2f59cae7a087b9a5977279c8ee6b6be9b9b4c866aa032e687"
     },
     {
       "id_brand": 63757,

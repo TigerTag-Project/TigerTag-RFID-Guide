@@ -140,9 +140,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 213,
-      "color_g": 240,
-      "color_r": 255,
+      "color_b": 168,
+      "color_g": 230,
+      "color_r": 174,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -162,10 +162,10 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FFF0D5FF",
+    "color": "#AEE6A8",
     "color_info": {
       "colors": [
-        "#FFF0D5FF"
+        "#AEE6A8"
       ],
       "type": "mono"
     },
@@ -181,7 +181,7 @@
     "series": "Pastel Shin",
     "sku": "BS7478",
     "title": "Pastel Shin - Cream Green",
-    "updated_at": 1788434398278
+    "updated_at": 1793953968539
   },
   {
     "RFID_Data": {
@@ -232,9 +232,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 245,
-      "color_g": 238,
-      "color_r": 220,
+      "color_b": 232,
+      "color_b2": 210,
+      "color_b3": 221,
+      "color_g": 165,
+      "color_g2": 213,
+      "color_g3": 227,
+      "color_r": 233,
+      "color_r2": 246,
+      "color_r3": 168,
       "data1": 56,
       "data2": 220,
       "data3": 270,
@@ -254,12 +260,15 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#DCEEF5FF",
+    "color": "#E9A5E8",
     "color_info": {
       "colors": [
-        "#DCEEF5FF"
+        "#E9A5E8",
+        "#F6D5D2",
+        "#A8E3DD",
+        "#8FB4F2"
       ],
-      "type": "mono"
+      "type": "gradient"
     },
     "id": 54257772,
     "img_src": "https://cdn.tigertag.io/img?id=54257772&v=1",
@@ -273,7 +282,7 @@
     "series": "PETG Rainbow Shift",
     "sku": "GRB002",
     "title": "PETG Rainbow Shift - Ice Cream",
-    "updated_at": 1788434626908
+    "updated_at": 1793953974626
   },
   {
     "RFID_Data": {
@@ -416,9 +425,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 61,
+      "color_b": 87,
+      "color_b2": 55,
+      "color_b3": 43,
       "color_g": 139,
+      "color_g2": 175,
+      "color_g3": 57,
       "color_r": 46,
+      "color_r2": 212,
+      "color_r3": 192,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -438,10 +453,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2E8B3DFF",
+    "color": "#2E8B57",
     "color_info": {
       "colors": [
-        "#2E8B3DFF"
+        "#2E8B57",
+        "#D4AF37",
+        "#C0392B"
       ],
       "type": "multi"
     },
@@ -457,17 +474,20 @@
     "series": "PLA Chameleon",
     "sku": "Z013",
     "title": "PLA Chameleon - Green&Gold&Red Z013",
-    "updated_at": 1788434398278
+    "updated_at": 1793953676893
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 58,
+      "color_b2": 122,
+      "color_b3": 160,
+      "color_g": 165,
+      "color_g2": 186,
+      "color_g3": 127,
+      "color_r": 243,
+      "color_r2": 93,
+      "color_r3": 240,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -487,11 +507,13 @@
     "aspect2": "Silk",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#F3A53A",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#F3A53A",
+        "#5DBA7A",
+        "#F07FA0",
+        "#C9B5DD"
       ],
       "type": "gradient"
     },
@@ -507,7 +529,7 @@
     "series": "Rainbow shift PLA",
     "sku": "RB002",
     "title": "Rainbow shift PLA - Silk Rainbow Shift RB002",
-    "updated_at": 1792797732691
+    "updated_at": 1793954052460
   },
   {
     "RFID_Data": {
@@ -788,9 +810,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 24,
-      "color_g": 197,
+      "color_b": 39,
+      "color_b2": 87,
+      "color_b3": 197,
+      "color_g": 211,
+      "color_g2": 139,
+      "color_g3": 87,
       "color_r": 245,
+      "color_r2": 46,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -810,10 +838,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#F5C518FF",
+    "color": "#F5D327",
     "color_info": {
       "colors": [
-        "#F5C518FF"
+        "#F5D327",
+        "#2E8B57",
+        "#2457C5"
       ],
       "type": "multi"
     },
@@ -829,14 +859,17 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN008",
     "title": "Multicolor PLA Silk - YELLOW&GREEN&BLUE SAN008",
-    "updated_at": 1788434398278
+    "updated_at": 1793953705022
   },
   {
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 192,
       "color_g": 87,
+      "color_g2": 192,
       "color_r": 36,
+      "color_r2": 192,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -856,10 +889,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#C0C0C0"
       ],
       "type": "multi"
     },
@@ -875,14 +909,17 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP012",
     "title": "Multicolor PLA Silk - Blue&Silver SP012",
-    "updated_at": 1788434398278
+    "updated_at": 1793953654697
   },
   {
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 26,
       "color_g": 87,
+      "color_g2": 26,
       "color_r": 36,
+      "color_r2": 26,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -902,10 +939,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#1A1A1A"
       ],
       "type": "multi"
     },
@@ -921,17 +959,20 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP023",
     "title": "Multicolor PLA Silk - Blue&Black SP023",
-    "updated_at": 1788434398278
+    "updated_at": 1793953643784
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 74,
+      "color_b2": 137,
+      "color_b3": 164,
+      "color_g": 226,
+      "color_g2": 211,
+      "color_g3": 201,
+      "color_r": 201,
+      "color_r2": 123,
+      "color_r3": 79,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -951,11 +992,12 @@
     "aspect2": "Matt",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#C9E24A",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#C9E24A",
+        "#7BD389",
+        "#4FC9A4"
       ],
       "type": "gradient"
     },
@@ -971,7 +1013,7 @@
     "series": "Rainbow shift PLA",
     "sku": "RB009",
     "title": "Rainbow shift PLA - Matte Rainbow Shift RB009",
-    "updated_at": 1792797834097
+    "updated_at": 1793954046936
   },
   {
     "RFID_Data": {
@@ -1114,9 +1156,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 40,
-      "color_g": 40,
-      "color_r": 198,
+      "color_b": 43,
+      "color_b2": 39,
+      "color_b3": 87,
+      "color_g": 57,
+      "color_g2": 211,
+      "color_g3": 139,
+      "color_r": 192,
+      "color_r2": 245,
+      "color_r3": 46,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -1136,10 +1184,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#C62828FF",
+    "color": "#C0392B",
     "color_info": {
       "colors": [
-        "#C62828FF"
+        "#C0392B",
+        "#F5D327",
+        "#2E8B57"
       ],
       "type": "multi"
     },
@@ -1155,7 +1205,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN002",
     "title": "Multicolor PLA Silk - RED&YELLOW&GREEN SAN002",
-    "updated_at": 1788434398278
+    "updated_at": 1793953694498
   },
   {
     "RFID_Data": {
@@ -1252,9 +1302,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_g": 59,
-      "color_r": 255,
+      "color_b": 145,
+      "color_b2": 192,
+      "color_b3": 46,
+      "color_g": 44,
+      "color_g2": 42,
+      "color_g3": 138,
+      "color_r": 106,
+      "color_r2": 42,
+      "color_r3": 30,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -1274,12 +1330,15 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30FF",
+    "color": "#6A2C91",
     "color_info": {
       "colors": [
-        "#FF3B30FF"
+        "#6A2C91",
+        "#2A2AC0",
+        "#1E8A2E",
+        "#E6C619"
       ],
-      "type": "gradient"
+      "type": "multi"
     },
     "id": 540722652,
     "img_src": "https://cdn.tigertag.io/img?id=540722652&v=1",
@@ -1293,7 +1352,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SS003",
     "title": "Multicolor PLA Silk - Four Primary Colors SS003",
-    "updated_at": 1788434398278
+    "updated_at": 1793954097497
   },
   {
     "RFID_Data": {
@@ -1344,9 +1403,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 200,
-      "color_g": 211,
-      "color_r": 167,
+      "color_b": 196,
+      "color_g": 224,
+      "color_r": 143,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -1366,10 +1425,10 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#A7D3C8FF",
+    "color": "#8FE0C4",
     "color_info": {
       "colors": [
-        "#A7D3C8FF"
+        "#8FE0C4"
       ],
       "type": "mono"
     },
@@ -1385,7 +1444,7 @@
     "series": "Ethereal Dawn",
     "sku": "SP026",
     "title": "Ethereal Dawn - Spring Rain",
-    "updated_at": 1788434398278
+    "updated_at": 1793953986283
   },
   {
     "RFID_Data": {
@@ -1575,8 +1634,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 160,
+      "color_b2": 197,
+      "color_b3": 55,
       "color_g": 63,
+      "color_g2": 87,
+      "color_g3": 175,
       "color_r": 123,
+      "color_r2": 36,
+      "color_r3": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -1596,10 +1661,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#7B3FA0FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#7B3FA0FF"
+        "#7B3FA0",
+        "#2457C5",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -1615,7 +1682,7 @@
     "series": "PLA Chameleon",
     "sku": "Z011",
     "title": "PLA Chameleon - Purple&Blue&Gold",
-    "updated_at": 1788434398278
+    "updated_at": 1793953687607
   },
   {
     "RFID_Data": {
@@ -1712,9 +1779,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 160,
-      "color_g": 138,
-      "color_r": 227,
+      "color_b": 143,
+      "color_b2": 224,
+      "color_g": 120,
+      "color_g2": 143,
+      "color_r": 232,
+      "color_r2": 47,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -1734,10 +1804,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#E38AA0FF",
+    "color": "#E8788F",
     "color_info": {
       "colors": [
-        "#E38AA0FF"
+        "#E8788F",
+        "#2F8FE0"
       ],
       "type": "multi"
     },
@@ -1753,14 +1824,14 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP010",
     "title": "Multicolor PLA Silk - Rose&Azure SP010",
-    "updated_at": 1788434398278
+    "updated_at": 1793953700605
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 160,
-      "color_g": 63,
-      "color_r": 123,
+      "color_b": 200,
+      "color_g": 116,
+      "color_r": 168,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -1780,10 +1851,10 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#7B3FA0FF",
+    "color": "#A874C8",
     "color_info": {
       "colors": [
-        "#7B3FA0FF"
+        "#A874C8"
       ],
       "type": "mono"
     },
@@ -1799,14 +1870,17 @@
     "series": "Ethereal Dawn",
     "sku": "SP025",
     "title": "Ethereal Dawn - Moonlight Purple",
-    "updated_at": 1788434398278
+    "updated_at": 1793953979508
   },
   {
     "RFID_Data": {
       "color_a": 255,
       "color_b": 160,
+      "color_b2": 55,
       "color_g": 63,
+      "color_g2": 175,
       "color_r": 123,
+      "color_r2": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -1826,10 +1900,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#7B3FA0FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#7B3FA0FF"
+        "#7B3FA0",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -1845,7 +1920,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP013",
     "title": "Multicolor PLA Silk - Purple&Gold SP013",
-    "updated_at": 1788434398278
+    "updated_at": 1793953688735
   },
   {
     "RFID_Data": {
@@ -2172,9 +2247,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 194,
-      "color_g": 154,
-      "color_r": 244,
+      "color_b": 170,
+      "color_b2": 55,
+      "color_g": 110,
+      "color_g2": 175,
+      "color_r": 240,
+      "color_r2": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -2194,10 +2272,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#F49AC2FF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#F49AC2FF"
+        "#F06EAA",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -2213,17 +2292,20 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP009",
     "title": "Multicolor PLA Silk - Pink&Gold SP009",
-    "updated_at": 1788434398278
+    "updated_at": 1793953683256
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 90,
+      "color_b2": 160,
+      "color_b3": 138,
+      "color_g": 161,
+      "color_g2": 138,
+      "color_g3": 64,
+      "color_r": 243,
+      "color_r2": 240,
+      "color_r3": 224,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -2243,11 +2325,12 @@
     "aspect2": "Matt",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#F3A15A",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#F3A15A",
+        "#F08AA0",
+        "#E0408A"
       ],
       "type": "gradient"
     },
@@ -2263,7 +2346,7 @@
     "series": "Rainbow shift PLA",
     "sku": "RB007",
     "title": "Rainbow shift PLA - Matte Rainbow Shift RB007",
-    "updated_at": 1792798136269
+    "updated_at": 1793954042781
   },
   {
     "RFID_Data": {
@@ -2407,8 +2490,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 51,
       "color_g": 87,
+      "color_g2": 115,
       "color_r": 36,
+      "color_r2": 184,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -2428,10 +2514,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#B87333"
       ],
       "type": "multi"
     },
@@ -2447,17 +2534,20 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP024",
     "title": "Multicolor PLA Silk - Blue&Copper SP024",
-    "updated_at": 1788434398278
+    "updated_at": 1793953644866
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 79,
+      "color_b2": 58,
+      "color_b3": 74,
+      "color_g": 56,
+      "color_g2": 138,
+      "color_g3": 208,
+      "color_r": 229,
+      "color_r2": 245,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -2477,11 +2567,12 @@
     "aspect2": "Matt",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#E5384F",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#E5384F",
+        "#F58A3A",
+        "#F5D04A"
       ],
       "type": "gradient"
     },
@@ -2497,7 +2588,7 @@
     "series": "Rainbow shift PLA",
     "sku": "RB010",
     "title": "Rainbow shift PLA - Matte Rainbow Shift RB010",
-    "updated_at": 1792798172669
+    "updated_at": 1793954048902
   },
   {
     "RFID_Data": {
@@ -2549,8 +2640,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 160,
+      "color_b3": 55,
       "color_g": 87,
+      "color_g2": 63,
+      "color_g3": 175,
       "color_r": 36,
+      "color_r2": 123,
+      "color_r3": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -2570,10 +2667,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#7B3FA0",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -2589,7 +2688,7 @@
     "series": "PLA Chameleon",
     "sku": "Z010",
     "title": "PLA Chameleon - Blue&Purple&Gold",
-    "updated_at": 1788434398278
+    "updated_at": 1793953652012
   },
   {
     "RFID_Data": {
@@ -2962,12 +3061,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 154,
+      "color_b2": 193,
+      "color_b3": 181,
+      "color_g": 167,
+      "color_g2": 95,
+      "color_g3": 63,
+      "color_r": 47,
+      "color_r2": 74,
+      "color_r3": 142,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -2987,11 +3089,14 @@
     "aspect2": "Matt",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#2FA79A",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#2FA79A",
+        "#4A5FC1",
+        "#8E3FB5",
+        "#D63A9B",
+        "#F5A623"
       ],
       "type": "gradient"
     },
@@ -3007,14 +3112,20 @@
     "series": "Rainbow shift PLA",
     "sku": "RB003",
     "title": "Rainbow shift PLA - Matte Rainbow Shift RB003",
-    "updated_at": 1792798279882
+    "updated_at": 1793954041079
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_g": 59,
-      "color_r": 255,
+      "color_b": 122,
+      "color_b2": 160,
+      "color_b3": 201,
+      "color_g": 226,
+      "color_g2": 219,
+      "color_g3": 201,
+      "color_r": 246,
+      "color_r2": 142,
+      "color_r3": 125,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -3034,10 +3145,14 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30FF",
+    "color": "#F6E27A",
     "color_info": {
       "colors": [
-        "#FF3B30FF"
+        "#F6E27A",
+        "#8EDBA0",
+        "#7DC9C9",
+        "#C9B5E6",
+        "#F4A9C4"
       ],
       "type": "gradient"
     },
@@ -3053,7 +3168,7 @@
     "series": "Rainbow shift PLA",
     "sku": "RB011",
     "title": "Rainbow shift PLA - PLA Rainbow Shift RB011",
-    "updated_at": 1788434398278
+    "updated_at": 1793953982367
   },
   {
     "RFID_Data": {
@@ -3242,9 +3357,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 40,
-      "color_g": 40,
-      "color_r": 198,
+      "color_b": 43,
+      "color_b2": 55,
+      "color_b3": 160,
+      "color_g": 57,
+      "color_g2": 175,
+      "color_g3": 63,
+      "color_r": 192,
+      "color_r2": 212,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -3264,10 +3385,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#C62828FF",
+    "color": "#C0392B",
     "color_info": {
       "colors": [
-        "#C62828FF"
+        "#C0392B",
+        "#D4AF37",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
@@ -3283,7 +3406,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN012",
     "title": "Multicolor PLA Silk - RED&GOLD&PURPLE SAN012",
-    "updated_at": 1788434398278
+    "updated_at": 1793953691225
   },
   {
     "RFID_Data": {
@@ -3334,12 +3457,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 181,
+      "color_b2": 168,
+      "color_b3": 217,
+      "color_g": 75,
+      "color_g2": 91,
+      "color_g3": 181,
+      "color_r": 108,
+      "color_r2": 199,
+      "color_r3": 227,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -3359,11 +3485,12 @@
     "aspect2": "Silk",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#6C4BB5",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#6C4BB5",
+        "#C75BA8",
+        "#E3B5D9"
       ],
       "type": "gradient"
     },
@@ -3379,7 +3506,7 @@
     "series": "Rainbow shift PLA",
     "sku": "RB006",
     "title": "Rainbow shift PLA - Silk Rainbow RB006",
-    "updated_at": 1792798344283
+    "updated_at": 1793954080833
   },
   {
     "RFID_Data": {
@@ -3523,8 +3650,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 87,
+      "color_b3": 55,
       "color_g": 87,
+      "color_g2": 139,
+      "color_g3": 175,
       "color_r": 36,
+      "color_r2": 46,
+      "color_r3": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -3544,10 +3677,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#2E8B57",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -3563,14 +3698,17 @@
     "series": "PLA Chameleon",
     "sku": "Z007",
     "title": "PLA Chameleon - Blue&Green&Gold Z007",
-    "updated_at": 1788434398278
+    "updated_at": 1793953650345
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 194,
-      "color_g": 154,
-      "color_r": 244,
+      "color_b": 170,
+      "color_b2": 200,
+      "color_g": 110,
+      "color_g2": 162,
+      "color_r": 240,
+      "color_r2": 200,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -3590,10 +3728,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#F49AC2FF",
+    "color": "#F06EAA",
     "color_info": {
       "colors": [
-        "#F49AC2FF"
+        "#F06EAA",
+        "#C8A2C8"
       ],
       "type": "multi"
     },
@@ -3609,7 +3748,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP011",
     "title": "Multicolor PLA Silk - Pink&Lilac SP011",
-    "updated_at": 1788434398278
+    "updated_at": 1793953684470
   },
   {
     "RFID_Data": {
@@ -3752,12 +3891,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 58,
+      "color_b2": 160,
+      "color_b3": 181,
+      "color_g": 165,
+      "color_g2": 167,
+      "color_g3": 102,
+      "color_r": 243,
+      "color_r2": 63,
+      "color_r3": 63,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -3777,11 +3919,14 @@
     "aspect2": "Silk",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#F3A53A",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#F3A53A",
+        "#3FA7A0",
+        "#3F66B5",
+        "#7A4BA8",
+        "#E88AB5"
       ],
       "type": "gradient"
     },
@@ -3797,7 +3942,7 @@
     "series": "Rainbow shift PLA",
     "sku": "RB004",
     "title": "Rainbow shift PLA - Silk Rainbow Shift RB004",
-    "updated_at": 1792798943204
+    "updated_at": 1793954054498
   },
   {
     "RFID_Data": {
@@ -3987,8 +4132,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 51,
+      "color_b2": 160,
+      "color_b3": 87,
       "color_g": 115,
+      "color_g2": 63,
+      "color_g3": 139,
       "color_r": 184,
+      "color_r2": 123,
+      "color_r3": 46,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4008,10 +4159,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#B87333FF",
+    "color": "#B87333",
     "color_info": {
       "colors": [
-        "#B87333FF"
+        "#B87333",
+        "#7B3FA0",
+        "#2E8B57"
       ],
       "type": "multi"
     },
@@ -4027,14 +4180,14 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN010",
     "title": "Multicolor PLA Silk - COPPER&PURPLE&GREEN SAN010",
-    "updated_at": 1788434398278
+    "updated_at": 1793953656166
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 213,
-      "color_g": 240,
-      "color_r": 255,
+      "color_b": 154,
+      "color_g": 228,
+      "color_r": 251,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4054,10 +4207,10 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FFF0D5FF",
+    "color": "#FBE49A",
     "color_info": {
       "colors": [
-        "#FFF0D5FF"
+        "#FBE49A"
       ],
       "type": "mono"
     },
@@ -4073,7 +4226,7 @@
     "series": "Pastel Shin",
     "sku": "BS2001",
     "title": "Pastel Shin - Cream Yellow",
-    "updated_at": 1788434398278
+    "updated_at": 1793953972913
   },
   {
     "RFID_Data": {
@@ -4124,9 +4277,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 61,
+      "color_b": 87,
+      "color_b2": 55,
+      "color_b3": 160,
       "color_g": 139,
+      "color_g2": 175,
+      "color_g3": 63,
       "color_r": 46,
+      "color_r2": 212,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4146,10 +4305,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2E8B3DFF",
+    "color": "#2E8B57",
     "color_info": {
       "colors": [
-        "#2E8B3DFF"
+        "#2E8B57",
+        "#D4AF37",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
@@ -4165,7 +4326,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN004",
     "title": "Multicolor PLA Silk - GREEN&GOLD&PURPLE SAN004",
-    "updated_at": 1788434398278
+    "updated_at": 1793953660219
   },
   {
     "RFID_Data": {
@@ -4216,9 +4377,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 61,
+      "color_b": 87,
+      "color_b2": 55,
+      "color_b3": 26,
       "color_g": 139,
+      "color_g2": 175,
+      "color_g3": 26,
       "color_r": 46,
+      "color_r2": 212,
+      "color_r3": 26,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4238,10 +4405,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2E8B3DFF",
+    "color": "#2E8B57",
     "color_info": {
       "colors": [
-        "#2E8B3DFF"
+        "#2E8B57",
+        "#D4AF37",
+        "#1A1A1A"
       ],
       "type": "multi"
     },
@@ -4257,17 +4426,20 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN014",
     "title": "Multicolor PLA Silk - GREEN&GOLD&BLACK SAN014",
-    "updated_at": 1788434398278
+    "updated_at": 1793953658488
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 107,
+      "color_b2": 181,
+      "color_b3": 194,
+      "color_g": 179,
+      "color_g2": 156,
+      "color_g3": 88,
+      "color_r": 47,
+      "color_r2": 60,
+      "color_r3": 122,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4287,11 +4459,13 @@
     "aspect2": "Silk",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#2FB36B",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#2FB36B",
+        "#3C9CB5",
+        "#7A58C2",
+        "#E86FA8"
       ],
       "type": "gradient"
     },
@@ -4307,7 +4481,7 @@
     "series": "Rainbow shift PLA",
     "sku": "RB005",
     "title": "Rainbow shift PLA - Silk Rainbow Shift RB005",
-    "updated_at": 1792799079884
+    "updated_at": 1793954056601
   },
   {
     "RFID_Data": {
@@ -4404,9 +4578,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 176,
-      "color_g": 196,
-      "color_r": 64,
+      "color_b": 200,
+      "color_b2": 128,
+      "color_b3": 0,
+      "color_g": 213,
+      "color_g2": 128,
+      "color_g3": 191,
+      "color_r": 48,
+      "color_r2": 0,
+      "color_r3": 255,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4426,10 +4606,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#40C4B0FF",
+    "color": "#30D5C8",
     "color_info": {
       "colors": [
-        "#40C4B0FF"
+        "#30D5C8",
+        "#008080",
+        "#FFBF00"
       ],
       "type": "multi"
     },
@@ -4445,7 +4627,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN011",
     "title": "Multicolor PLA Silk - TURQUOISE&TEAL&AMBER SAN011",
-    "updated_at": 1788434398278
+    "updated_at": 1793953703981
   },
   {
     "RFID_Data": {
@@ -4543,8 +4725,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 55,
       "color_g": 26,
+      "color_g2": 175,
       "color_r": 26,
+      "color_r2": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4564,10 +4749,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -4583,7 +4769,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP008",
     "title": "Multicolor PLA Silk - Black&Gold SP008",
-    "updated_at": 1788434398278
+    "updated_at": 1793953638350
   },
   {
     "RFID_Data": {
@@ -4635,8 +4821,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 55,
+      "color_b2": 227,
       "color_g": 175,
+      "color_g2": 163,
       "color_r": 212,
+      "color_r2": 185,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4656,10 +4845,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#D4AF37FF",
+    "color": "#D4AF37",
     "color_info": {
       "colors": [
-        "#D4AF37FF"
+        "#D4AF37",
+        "#B9A3E3"
       ],
       "type": "multi"
     },
@@ -4675,14 +4865,17 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP022",
     "title": "Multicolor PLA Silk - Gold&Lavender SP022",
-    "updated_at": 1788434398278
+    "updated_at": 1793953663154
   },
   {
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 160,
       "color_g": 26,
+      "color_g2": 63,
       "color_r": 26,
+      "color_r2": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4702,10 +4895,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
@@ -4721,7 +4915,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP016",
     "title": "Multicolor PLA Silk - Black&Purple SP016",
-    "updated_at": 1788434398278
+    "updated_at": 1793953640609
   },
   {
     "RFID_Data": {
@@ -4864,9 +5058,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 40,
-      "color_g": 40,
-      "color_r": 198,
+      "color_b": 43,
+      "color_b2": 55,
+      "color_g": 57,
+      "color_g2": 175,
+      "color_r": 192,
+      "color_r2": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4886,10 +5083,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#C62828FF",
+    "color": "#C0392B",
     "color_info": {
       "colors": [
-        "#C62828FF"
+        "#C0392B",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -4905,14 +5103,20 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP014",
     "title": "Multicolor PLA Silk - Red&Gold SP014",
-    "updated_at": 1788434398278
+    "updated_at": 1793953698051
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 136,
-      "color_g": 136,
-      "color_r": 136,
+      "color_b": 216,
+      "color_b2": 136,
+      "color_b3": 168,
+      "color_g": 191,
+      "color_g2": 175,
+      "color_g3": 45,
+      "color_r": 216,
+      "color_r2": 156,
+      "color_r3": 111,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -4932,10 +5136,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#888888FF",
+    "color": "#D8BFD8",
     "color_info": {
       "colors": [
-        "#888888FF"
+        "#D8BFD8",
+        "#9CAF88",
+        "#6F2DA8"
       ],
       "type": "multi"
     },
@@ -4951,7 +5157,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN005",
     "title": "Multicolor PLA Silk - TRISTLE&SAGE&GRAPE SAN005",
-    "updated_at": 1788434398278
+    "updated_at": 1793953706446
   },
   {
     "RFID_Data": {
@@ -5049,8 +5255,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 87,
       "color_g": 26,
+      "color_g2": 139,
       "color_r": 26,
+      "color_r2": 46,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -5070,10 +5279,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#2E8B57"
       ],
       "type": "multi"
     },
@@ -5089,7 +5299,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP015",
     "title": "Multicolor PLA Silk - Black&Green SP015",
-    "updated_at": 1788434398278
+    "updated_at": 1793953639456
   },
   {
     "RFID_Data": {
@@ -5186,12 +5396,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 242,
+      "color_b2": 196,
+      "color_b3": 87,
+      "color_g": 242,
+      "color_g2": 169,
+      "color_g3": 217,
+      "color_r": 242,
+      "color_r2": 244,
+      "color_r3": 126,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -5211,11 +5424,13 @@
     "aspect2": "Rainbow",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#F2F2F2",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#F2F2F2",
+        "#F4A9C4",
+        "#7ED957",
+        "#8FB4F2"
       ],
       "type": "gradient"
     },
@@ -5231,7 +5446,7 @@
     "series": "PLA Glow in The Dark",
     "sku": "YRB001",
     "title": "PLA Glow in The Dark - Glow Rainbow YRB001",
-    "updated_at": 1792799273192
+    "updated_at": 1793954059253
   },
   {
     "RFID_Data": {
@@ -5328,9 +5543,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 40,
-      "color_g": 40,
-      "color_r": 198,
+      "color_b": 43,
+      "color_b2": 160,
+      "color_b3": 197,
+      "color_g": 57,
+      "color_g2": 63,
+      "color_g3": 87,
+      "color_r": 192,
+      "color_r2": 123,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -5350,10 +5571,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#C62828FF",
+    "color": "#C0392B",
     "color_info": {
       "colors": [
-        "#C62828FF"
+        "#C0392B",
+        "#7B3FA0",
+        "#2457C5"
       ],
       "type": "multi"
     },
@@ -5369,7 +5592,7 @@
     "series": "PLA Chameleon",
     "sku": "Z008",
     "title": "PLA Chameleon - Red&Purple&Blue",
-    "updated_at": 1788434398278
+    "updated_at": 1793953699512
   },
   {
     "RFID_Data": {
@@ -5466,12 +5689,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_b2": 0,
-      "color_g": 59,
-      "color_g2": 0,
-      "color_r": 255,
-      "color_r2": 0,
+      "color_b": 224,
+      "color_b2": 196,
+      "color_b3": 50,
+      "color_g": 164,
+      "color_g2": 163,
+      "color_g3": 42,
+      "color_r": 169,
+      "color_r2": 79,
+      "color_r3": 30,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -5491,11 +5717,12 @@
     "aspect2": "Matt",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30",
+    "color": "#A9A4E0",
     "color_info": {
       "colors": [
-        "#FF3B30",
-        "#000000"
+        "#A9A4E0",
+        "#4FA3C4",
+        "#1E2A32"
       ],
       "type": "gradient"
     },
@@ -5511,14 +5738,20 @@
     "series": "Rainbow shift PLA",
     "sku": "RB008",
     "title": "Rainbow shift PLA - Matte Rainbow Shift RB008",
-    "updated_at": 1792799317985
+    "updated_at": 1793954044649
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 48,
-      "color_g": 59,
-      "color_r": 255,
+      "color_b": 216,
+      "color_b2": 160,
+      "color_b3": 160,
+      "color_g": 169,
+      "color_g2": 217,
+      "color_g3": 230,
+      "color_r": 244,
+      "color_r2": 247,
+      "color_r3": 200,
       "data1": 56,
       "data2": 220,
       "data3": 270,
@@ -5538,10 +5771,13 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FF3B30FF",
+    "color": "#F4A9D8",
     "color_info": {
       "colors": [
-        "#FF3B30FF"
+        "#F4A9D8",
+        "#F7D9A0",
+        "#C8E6A0",
+        "#DCD6E8"
       ],
       "type": "gradient"
     },
@@ -5557,7 +5793,7 @@
     "series": "PETG Rainbow Shift",
     "sku": "GRB001",
     "title": "PETG Rainbow Shift - Rainbow Candy",
-    "updated_at": 1788434626908
+    "updated_at": 1793953984469
   },
   {
     "RFID_Data": {
@@ -5838,9 +6074,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 40,
-      "color_g": 40,
-      "color_r": 198,
+      "color_b": 43,
+      "color_b2": 87,
+      "color_b3": 197,
+      "color_g": 57,
+      "color_g2": 139,
+      "color_g3": 87,
+      "color_r": 192,
+      "color_r2": 46,
+      "color_r3": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -5860,10 +6102,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#C62828FF",
+    "color": "#C0392B",
     "color_info": {
       "colors": [
-        "#C62828FF"
+        "#C0392B",
+        "#2E8B57",
+        "#2457C5"
       ],
       "type": "multi"
     },
@@ -5879,14 +6123,20 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN003",
     "title": "Multicolor PLA Silk - RED&GREEN&BLUE SAN003",
-    "updated_at": 1788434398278
+    "updated_at": 1793953693235
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 61,
+      "color_b": 87,
+      "color_b2": 43,
+      "color_b3": 160,
       "color_g": 139,
+      "color_g2": 57,
+      "color_g3": 63,
       "color_r": 46,
+      "color_r2": 192,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -5906,10 +6156,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2E8B3DFF",
+    "color": "#2E8B57",
     "color_info": {
       "colors": [
-        "#2E8B3DFF"
+        "#2E8B57",
+        "#C0392B",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
@@ -5925,14 +6177,17 @@
     "series": "PLA Chameleon",
     "sku": "Z006",
     "title": "PLA Chameleon - Green&Red&Purple",
-    "updated_at": 1788434398278
+    "updated_at": 1793953677979
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 61,
+      "color_b": 87,
+      "color_b2": 55,
       "color_g": 139,
+      "color_g2": 175,
       "color_r": 46,
+      "color_r2": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -5952,10 +6207,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2E8B3DFF",
+    "color": "#2E8B57",
     "color_info": {
       "colors": [
-        "#2E8B3DFF"
+        "#2E8B57",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -5971,14 +6227,20 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP004",
     "title": "Multicolor PLA Silk - Green&Gold SP004",
-    "updated_at": 1788434398278
+    "updated_at": 1793953665874
   },
   {
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 160,
+      "color_b3": 55,
       "color_g": 26,
+      "color_g2": 63,
+      "color_g3": 175,
       "color_r": 26,
+      "color_r2": 123,
+      "color_r3": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -5998,10 +6260,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#7B3FA0",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -6017,7 +6281,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN015",
     "title": "Multicolor PLA Silk - BLACK&PURPLE&GOLD SAN015",
-    "updated_at": 1788434398278
+    "updated_at": 1793953636856
   },
   {
     "RFID_Data": {
@@ -6252,9 +6516,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 40,
-      "color_g": 40,
-      "color_r": 198,
+      "color_b": 43,
+      "color_b2": 26,
+      "color_g": 57,
+      "color_g2": 26,
+      "color_r": 192,
+      "color_r2": 26,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -6274,10 +6541,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#C62828FF",
+    "color": "#C0392B",
     "color_info": {
       "colors": [
-        "#C62828FF"
+        "#C0392B",
+        "#1A1A1A"
       ],
       "type": "multi"
     },
@@ -6293,7 +6561,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP001",
     "title": "Multicolor PLA Silk - Red&Black SP001",
-    "updated_at": 1788434398278
+    "updated_at": 1793953695594
   },
   {
     "RFID_Data": {
@@ -6344,9 +6612,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 30,
-      "color_g": 183,
+      "color_b": 60,
+      "color_b2": 58,
+      "color_b3": 90,
+      "color_g": 154,
+      "color_g2": 177,
+      "color_g3": 221,
       "color_r": 243,
+      "color_r2": 93,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -6366,12 +6640,14 @@
     "aspect2": "Matt",
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#F3B71E",
+    "color": "#F39A3C",
     "color_info": {
       "colors": [
-        "#F3B71E"
+        "#F39A3C",
+        "#5DB13A",
+        "#F5DD5A"
       ],
-      "type": "mono"
+      "type": "gradient"
     },
     "id": 2927194853,
     "img_src": "https://cdn.tigertag.io/img?id=2927194853&v=1",
@@ -6385,7 +6661,7 @@
     "series": "Rainbow shift PLA",
     "sku": "RB001",
     "title": "Rainbow shift PLA - Matte Sunflower RB001",
-    "updated_at": 1792799483410
+    "updated_at": 1793953977484
   },
   {
     "RFID_Data": {
@@ -6482,9 +6758,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 202,
-      "color_g": 201,
-      "color_r": 199,
+      "color_b": 192,
+      "color_b2": 55,
+      "color_g": 192,
+      "color_g2": 175,
+      "color_r": 192,
+      "color_r2": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -6504,10 +6783,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#C7C9CAFF",
+    "color": "#C0C0C0",
     "color_info": {
       "colors": [
-        "#C7C9CAFF"
+        "#C0C0C0",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -6523,7 +6803,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP007",
     "title": "Multicolor PLA Silk - Silver&Gold SP007",
-    "updated_at": 1788434398278
+    "updated_at": 1793953701894
   },
   {
     "RFID_Data": {
@@ -6621,8 +6901,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 87,
       "color_g": 87,
+      "color_g2": 139,
       "color_r": 36,
+      "color_r2": 46,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -6642,10 +6925,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#2E8B57"
       ],
       "type": "multi"
     },
@@ -6661,7 +6945,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP003",
     "title": "Multicolor PLA Silk - Blue&Green SP003",
-    "updated_at": 1788434398278
+    "updated_at": 1793953648598
   },
   {
     "RFID_Data": {
@@ -6758,9 +7042,9 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 213,
-      "color_g": 240,
-      "color_r": 255,
+      "color_b": 234,
+      "color_g": 227,
+      "color_r": 181,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -6780,10 +7064,10 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FFF0D5FF",
+    "color": "#B5E3EA",
     "color_info": {
       "colors": [
-        "#FFF0D5FF"
+        "#B5E3EA"
       ],
       "type": "mono"
     },
@@ -6799,7 +7083,7 @@
     "series": "Pastel Shin",
     "sku": "BS290",
     "title": "Pastel Shin - Cream Blue",
-    "updated_at": 1788434398278
+    "updated_at": 1793953966799
   },
   {
     "RFID_Data": {
@@ -7034,9 +7318,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 159,
-      "color_g": 36,
-      "color_r": 214,
+      "color_b": 138,
+      "color_b2": 55,
+      "color_g": 24,
+      "color_g2": 175,
+      "color_r": 194,
+      "color_r2": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -7056,10 +7343,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#D6249FFF",
+    "color": "#C2188A",
     "color_info": {
       "colors": [
-        "#D6249FFF"
+        "#C2188A",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -7075,7 +7363,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP002",
     "title": "Multicolor PLA Silk - Magenta&Gold SP002",
-    "updated_at": 1788434398278
+    "updated_at": 1793953679325
   },
   {
     "RFID_Data": {
@@ -7357,8 +7645,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 197,
+      "color_b2": 55,
       "color_g": 87,
+      "color_g2": 175,
       "color_r": 36,
+      "color_r2": 212,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -7378,10 +7669,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2457C5FF",
+    "color": "#2457C5",
     "color_info": {
       "colors": [
-        "#2457C5FF"
+        "#2457C5",
+        "#D4AF37"
       ],
       "type": "multi"
     },
@@ -7397,7 +7689,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP006",
     "title": "Multicolor PLA Silk - Blue&Gold SP006",
-    "updated_at": 1788434398278
+    "updated_at": 1793953646233
   },
   {
     "RFID_Data": {
@@ -7587,8 +7879,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 160,
+      "color_b2": 197,
       "color_g": 63,
+      "color_g2": 87,
       "color_r": 123,
+      "color_r2": 36,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -7608,10 +7903,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#7B3FA0FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#7B3FA0FF"
+        "#7B3FA0",
+        "#2457C5"
       ],
       "type": "multi"
     },
@@ -7627,7 +7923,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP005",
     "title": "Multicolor PLA Silk - Purple&Blue SP005",
-    "updated_at": 1788434398278
+    "updated_at": 1793953686211
   },
   {
     "RFID_Data": {
@@ -7816,9 +8112,12 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 159,
-      "color_g": 36,
-      "color_r": 214,
+      "color_b": 138,
+      "color_b2": 87,
+      "color_g": 24,
+      "color_g2": 139,
+      "color_r": 194,
+      "color_r2": 46,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -7838,10 +8137,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#D6249FFF",
+    "color": "#C2188A",
     "color_info": {
       "colors": [
-        "#D6249FFF"
+        "#C2188A",
+        "#2E8B57"
       ],
       "type": "multi"
     },
@@ -7857,14 +8157,20 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP019",
     "title": "Multicolor PLA Silk - Magenta&Green SP019",
-    "updated_at": 1788434398278
+    "updated_at": 1793953680918
   },
   {
     "RFID_Data": {
       "color_a": 255,
       "color_b": 55,
+      "color_b2": 192,
+      "color_b3": 51,
       "color_g": 175,
+      "color_g2": 192,
+      "color_g3": 115,
       "color_r": 212,
+      "color_r2": 192,
+      "color_r3": 184,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -7884,10 +8190,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#D4AF37FF",
+    "color": "#D4AF37",
     "color_info": {
       "colors": [
-        "#D4AF37FF"
+        "#D4AF37",
+        "#C0C0C0",
+        "#B87333"
       ],
       "type": "multi"
     },
@@ -7903,7 +8211,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN007",
     "title": "Multicolor PLA Silk - GOLD&SILVER&COPPER SAN007",
-    "updated_at": 1788434398278
+    "updated_at": 1793953657320
   },
   {
     "RFID_Data": {
@@ -8000,9 +8308,15 @@
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 61,
+      "color_b": 87,
+      "color_b2": 43,
+      "color_b3": 160,
       "color_g": 139,
+      "color_g2": 57,
+      "color_g3": 63,
       "color_r": 46,
+      "color_r2": 192,
+      "color_r3": 123,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -8022,10 +8336,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#2E8B3DFF",
+    "color": "#2E8B57",
     "color_info": {
       "colors": [
-        "#2E8B3DFF"
+        "#2E8B57",
+        "#C0392B",
+        "#7B3FA0"
       ],
       "type": "multi"
     },
@@ -8041,7 +8357,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN013",
     "title": "Multicolor PLA Silk - GREEN&RED&PURPLE SAN013",
-    "updated_at": 1788434398278
+    "updated_at": 1793953661564
   },
   {
     "RFID_Data": {
@@ -8231,8 +8547,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 26,
+      "color_b2": 192,
       "color_g": 26,
+      "color_g2": 192,
       "color_r": 26,
+      "color_r2": 192,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -8252,10 +8571,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#1A1A1AFF",
+    "color": "#1A1A1A",
     "color_info": {
       "colors": [
-        "#1A1A1AFF"
+        "#1A1A1A",
+        "#C0C0C0"
       ],
       "type": "multi"
     },
@@ -8271,7 +8591,7 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP017",
     "title": "Multicolor PLA Silk - Black&Silver SP017",
-    "updated_at": 1788434398278
+    "updated_at": 1793953642552
   },
   {
     "RFID_Data": {
@@ -8461,8 +8781,14 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 160,
+      "color_b2": 197,
+      "color_b3": 39,
       "color_g": 63,
+      "color_g2": 87,
+      "color_g3": 211,
       "color_r": 123,
+      "color_r2": 36,
+      "color_r3": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -8482,10 +8808,12 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#7B3FA0FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#7B3FA0FF"
+        "#7B3FA0",
+        "#2457C5",
+        "#F5D327"
       ],
       "type": "multi"
     },
@@ -8501,14 +8829,14 @@
     "series": "Multicolor PLA Silk",
     "sku": "SAN001",
     "title": "Multicolor PLA Silk - PURPLE&BLUE&YELLOW SAN001",
-    "updated_at": 1788434398278
+    "updated_at": 1793953682022
   },
   {
     "RFID_Data": {
       "color_a": 255,
-      "color_b": 213,
-      "color_g": 240,
-      "color_r": 255,
+      "color_b": 226,
+      "color_g": 214,
+      "color_r": 245,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -8528,10 +8856,10 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#FFF0D5FF",
+    "color": "#F5D6E2",
     "color_info": {
       "colors": [
-        "#FFF0D5FF"
+        "#F5D6E2"
       ],
       "type": "mono"
     },
@@ -8547,7 +8875,7 @@
     "series": "Pastel Shin",
     "sku": "BS3568",
     "title": "Pastel Shin - Cream Pink",
-    "updated_at": 1788434398278
+    "updated_at": 1793953971248
   },
   {
     "RFID_Data": {
@@ -8599,8 +8927,11 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 160,
+      "color_b2": 87,
       "color_g": 63,
+      "color_g2": 139,
       "color_r": 123,
+      "color_r2": 46,
       "data1": 56,
       "data2": 190,
       "data3": 240,
@@ -8620,10 +8951,11 @@
     "aspect2": null,
     "barcode": null,
     "brand": "CaiLab",
-    "color": "#7B3FA0FF",
+    "color": "#7B3FA0",
     "color_info": {
       "colors": [
-        "#7B3FA0FF"
+        "#7B3FA0",
+        "#2E8B57"
       ],
       "type": "multi"
     },
@@ -8639,6 +8971,6 @@
     "series": "Multicolor PLA Silk",
     "sku": "SP018",
     "title": "Multicolor PLA Silk - Purple&Green SP018",
-    "updated_at": 1788434398278
+    "updated_at": 1793953689996
   }
 ]
