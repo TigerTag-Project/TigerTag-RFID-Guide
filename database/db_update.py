@@ -70,6 +70,9 @@ DATASETS = {
     "filament_materials": ("material/get/all",           "id_material.json"),
     "aspects":            ("aspect/get/all",             "id_aspect.json"),
     "measure_units":      ("measure_unit/get/all",       "id_measure_unit.json"),
+    # Container models (empty spools, bottles): tare weight, label per language, CDN picture.
+    # Edited in the Manager's « Admin › Containers » (TigerTag-Manager#126).
+    "containers":         ("container/get/all",          "id_container.json"),
 }
 
 TARGET_FOLDER = os.path.dirname(os.path.abspath(__file__))
