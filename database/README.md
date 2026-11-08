@@ -52,6 +52,7 @@ The same data is available, always current, with no key and no login:
 | `id_type.json` | Product type identifiers |
 | `id_diameter.json` | Filament diameter identifiers |
 | `id_measure_unit.json` | Measurement unit identifiers |
+| `id_container.json` | Container models — the empty spools and bottles apps subtract as tare: `id` (the key a spool stores as `container_id`), brand, `label` and `labels` per language, `type` (masterspool, plastic, cardboard, customizable, refill), `product_type`, `container_weight` in grams, `img` (CDN picture, versioned), `active` |
 | `id_catalog.json` | **The full TigerTag+ product catalogue** — named like its `id_*.json` neighbours because that is what it is: the ids — every referenced product with its brand, series, name, material, aspects, colour, SKU, barcode, capacity, image, chip fields (`RFID_Data`), flags and last change date |
 | `last_update.json` | Sync timestamps, as served by the API's `all/last_update` |
 | `manifest.json` | Every table above with its sha256, size, entry count and last change date. See [The manifest](#the-manifest) |

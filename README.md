@@ -692,6 +692,7 @@ format, for the brand you need only (a few hundred kilobytes instead of
 - `filament_materials` → `id_material.json`
 - `aspects` → `id_aspect.json`
 - `measure_units` → `id_measure_unit.json`
+- `containers` → `id_container.json`
 
 **Reference implementations:** ready-to-run Python scripts implementing the smart-diff sync described above are available in [`Sample code/`](Sample%20code/):
 
