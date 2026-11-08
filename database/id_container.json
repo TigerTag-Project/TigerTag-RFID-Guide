@@ -1,0 +1,914 @@
+[
+  {
+    "id": "3dxtech_plastic_black",
+    "brandId": 39652,
+    "brand": "3DXTech",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 258,
+    "img": "https://cdn.tigertag.io/img?type=container&id=3dxtech_plastic_black&size=medium&v=1794104809",
+    "img_version": 1794104809,
+    "active": true,
+    "updated_at": 1794106432172
+  },
+  {
+    "id": "aceaddity_carton",
+    "brandId": 46010,
+    "brand": "AceAddity",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 157,
+    "img": "https://cdn.tigertag.io/img?type=container&id=aceaddity_carton&size=medium&v=1794104813",
+    "img_version": 1794104813,
+    "active": true,
+    "updated_at": 1794104813449
+  },
+  {
+    "id": "amazon_basic_black",
+    "brandId": 32587,
+    "brand": "Amazon",
+    "label": "Basic Black",
+    "labels": {
+      "en": "Basic Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 234,
+    "img": "https://cdn.tigertag.io/img?type=container&id=amazon_basic_black&size=medium&v=1794104816",
+    "img_version": 1794104816,
+    "active": true,
+    "updated_at": 1794104816422
+  },
+  {
+    "id": "amolen_clear",
+    "brandId": 9798,
+    "brand": "AMOLEN",
+    "label": "Clear",
+    "labels": {
+      "en": "Clear"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 150,
+    "img": "https://cdn.tigertag.io/img?type=container&id=amolen_clear&size=medium&v=1794104824",
+    "img_version": 1794104824,
+    "active": true,
+    "updated_at": 1794104825681
+  },
+  {
+    "id": "anycubic_black",
+    "brandId": 15962,
+    "brand": "Anycubic",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 129,
+    "img": "https://cdn.tigertag.io/img?type=container&id=anycubic_black&size=medium&v=1794104829",
+    "img_version": 1794104829,
+    "active": true,
+    "updated_at": 1794104829881
+  },
+  {
+    "id": "anycubic_masterspool_black",
+    "brandId": 15962,
+    "brand": "Anycubic",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 218,
+    "img": "https://cdn.tigertag.io/img?type=container&id=anycubic_masterspool_black&size=medium&v=1794104833",
+    "img_version": 1794104833,
+    "active": true,
+    "updated_at": 1794104834164
+  },
+  {
+    "id": "arianeplast_black",
+    "brandId": 23181,
+    "brand": "ArianePlast",
+    "label": "Black, Blue, Grey",
+    "labels": {
+      "en": "Black, Blue, Grey"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 220,
+    "img": "https://cdn.tigertag.io/img?type=container&id=arianeplast_black&size=medium&v=1794104837",
+    "img_version": 1794104837,
+    "active": true,
+    "updated_at": 1794104837846
+  },
+  {
+    "id": "azurfilm_black",
+    "brandId": 58410,
+    "brand": "AzureFilm",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 217,
+    "img": "https://cdn.tigertag.io/img?type=container&id=azurfilm_black&size=medium&v=1794104840",
+    "img_version": 1794104840,
+    "active": true,
+    "updated_at": 1794104841441
+  },
+  {
+    "id": "azurfilm_transparent",
+    "brandId": 58410,
+    "brand": "AzureFilm",
+    "label": "Transparent",
+    "labels": {
+      "en": "Transparent"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 217,
+    "img": "https://cdn.tigertag.io/img?type=container&id=azurfilm_transparent&size=medium&v=1794104845",
+    "img_version": 1794104845,
+    "active": true,
+    "updated_at": 1794104845355
+  },
+  {
+    "id": "bambu_grey",
+    "brandId": 35123,
+    "brand": "Bambu Lab",
+    "label": "Grey",
+    "labels": {
+      "en": "Grey"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 249,
+    "img": "https://cdn.tigertag.io/img?type=container&id=bambu_grey&size=medium&v=1794104848",
+    "img_version": 1794104848,
+    "active": true,
+    "updated_at": 1794104848834
+  },
+  {
+    "id": "bambu_transp",
+    "brandId": 35123,
+    "brand": "Bambu Lab",
+    "label": "Transparent",
+    "labels": {
+      "en": "Transparent"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 256,
+    "img": "https://cdn.tigertag.io/img?type=container&id=bambu_transp&size=medium&v=1794104852",
+    "img_version": 1794104852,
+    "active": true,
+    "updated_at": 1794104852863
+  },
+  {
+    "id": "bambulab_ht",
+    "brandId": 35123,
+    "brand": "Bambu Lab",
+    "label": "HT",
+    "labels": {
+      "en": "HT"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 232,
+    "img": "https://cdn.tigertag.io/img?type=container&id=bambulab_ht&size=medium&v=1794104856",
+    "img_version": 1794104856,
+    "active": true,
+    "updated_at": 1794104856908
+  },
+  {
+    "id": "cc3d_black",
+    "brandId": 19265,
+    "brand": "CC3D",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 165,
+    "img": "https://cdn.tigertag.io/img?type=container&id=cc3d_black&size=medium&v=1794104860",
+    "img_version": 1794104860,
+    "active": true,
+    "updated_at": 1794104860971
+  },
+  {
+    "id": "creality_black",
+    "brandId": 26956,
+    "brand": "Creality",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 204,
+    "img": "https://cdn.tigertag.io/img?type=container&id=creality_black&size=medium&v=1794104864",
+    "img_version": 1794104864,
+    "active": true,
+    "updated_at": 1794104864505
+  },
+  {
+    "id": "creality_clear",
+    "brandId": 26956,
+    "brand": "Creality",
+    "label": "Clear",
+    "labels": {
+      "en": "Clear"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 165,
+    "img": "https://cdn.tigertag.io/img?type=container&id=creality_clear&size=medium&v=1794104867",
+    "img_version": 1794104867,
+    "active": true,
+    "updated_at": 1794104868069
+  },
+  {
+    "id": "custom_cardboard",
+    "brandId": 0,
+    "brand": "Generic",
+    "label": "Cardboard",
+    "labels": {
+      "en": "Cardboard"
+    },
+    "type": "customizable",
+    "product_type": "filament",
+    "container_weight": 165,
+    "img": "https://cdn.tigertag.io/img?type=container&id=custom_cardboard&size=medium&v=1794104870",
+    "img_version": 1794104870,
+    "active": true,
+    "updated_at": 1794104871255
+  },
+  {
+    "id": "custom_no_masterspool",
+    "brandId": 0,
+    "brand": "Generic",
+    "label": "Refill",
+    "labels": {
+      "en": "Refill"
+    },
+    "type": "refill",
+    "product_type": "filament",
+    "container_weight": 0,
+    "img": "https://cdn.tigertag.io/img?type=container&id=custom_no_masterspool&size=medium&v=1794104874",
+    "img_version": 1794104874,
+    "active": true,
+    "updated_at": 1794104874709
+  },
+  {
+    "id": "custom_plastic",
+    "brandId": 0,
+    "brand": "Generic",
+    "label": "Plastic",
+    "labels": {
+      "en": "Plastic"
+    },
+    "type": "customizable",
+    "product_type": "filament",
+    "container_weight": 200,
+    "img": "https://cdn.tigertag.io/img?type=container&id=custom_plastic&size=medium&v=1794104878",
+    "img_version": 1794104878,
+    "active": true,
+    "updated_at": 1794104878393
+  },
+  {
+    "id": "deeplee_standard_carton",
+    "brandId": 33594,
+    "brand": "DEEPLEE",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 143,
+    "img": "https://cdn.tigertag.io/img?type=container&id=deeplee_standard_carton&size=medium&v=1794104882",
+    "img_version": 1794104882,
+    "active": true,
+    "updated_at": 1794104882970
+  },
+  {
+    "id": "elegoo_carton",
+    "brandId": 57632,
+    "brand": "ELEGOO",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 165,
+    "img": "https://cdn.tigertag.io/img?type=container&id=elegoo_carton&size=medium&v=1794104887",
+    "img_version": 1794104887,
+    "active": true,
+    "updated_at": 1794104887213
+  },
+  {
+    "id": "elegoo_masterspool_white",
+    "brandId": 57632,
+    "brand": "ELEGOO",
+    "label": "White",
+    "labels": {
+      "en": "White"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 232,
+    "img": "https://cdn.tigertag.io/img?type=container&id=elegoo_masterspool_white&size=medium&v=1794104890",
+    "img_version": 1794104890,
+    "active": true,
+    "updated_at": 1794104890840
+  },
+  {
+    "id": "eryone_black",
+    "brandId": 28940,
+    "brand": "Eryone",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 183,
+    "img": "https://cdn.tigertag.io/img?type=container&id=eryone_black&size=medium&v=1794104894",
+    "img_version": 1794104894,
+    "active": true,
+    "updated_at": 1794104894246
+  },
+  {
+    "id": "eryone_standard_carton",
+    "brandId": 28940,
+    "brand": "Eryone",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 154,
+    "img": "https://cdn.tigertag.io/img?type=container&id=eryone_standard_carton&size=medium&v=1794104897",
+    "img_version": 1794104897,
+    "active": true,
+    "updated_at": 1794104897942
+  },
+  {
+    "id": "esun_black",
+    "brandId": 47930,
+    "brand": "eSun",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 253,
+    "img": "https://cdn.tigertag.io/img?type=container&id=esun_black&size=medium&v=1794104901",
+    "img_version": 1794104901,
+    "active": true,
+    "updated_at": 1794104901813
+  },
+  {
+    "id": "esun_clear",
+    "brandId": 47930,
+    "brand": "eSun",
+    "label": "Clear",
+    "labels": {
+      "en": "Clear"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 205,
+    "img": "https://cdn.tigertag.io/img?type=container&id=esun_clear&size=medium&v=1794104905",
+    "img_version": 1794104905,
+    "active": true,
+    "updated_at": 1794104905961
+  },
+  {
+    "id": "esun_epla_carton",
+    "brandId": 47930,
+    "brand": "eSun",
+    "label": "Carton",
+    "labels": {
+      "en": "Carton"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 168,
+    "img": "https://cdn.tigertag.io/img?type=container&id=esun_epla_carton&size=medium&v=1794104910",
+    "img_version": 1794104910,
+    "active": true,
+    "updated_at": 1794104910342
+  },
+  {
+    "id": "esun_masterspool_2_0",
+    "brandId": 47930,
+    "brand": "eSun",
+    "label": "eSpool+ 2.0",
+    "labels": {
+      "en": "eSpool+ 2.0"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 210,
+    "img": "https://cdn.tigertag.io/img?type=container&id=esun_masterspool_2_0&size=medium&v=1794104915",
+    "img_version": 1794104915,
+    "active": true,
+    "updated_at": 1794104916214
+  },
+  {
+    "id": "esun_masterspool_black",
+    "brandId": 47930,
+    "brand": "eSun",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 225,
+    "img": "https://cdn.tigertag.io/img?type=container&id=esun_masterspool_black&size=medium&v=1794104919",
+    "img_version": 1794104919,
+    "active": true,
+    "updated_at": 1794104919993
+  },
+  {
+    "id": "extrudr_clear",
+    "brandId": 7674,
+    "brand": "Extrudr",
+    "label": "Clear",
+    "labels": {
+      "en": "Clear"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 241,
+    "img": "https://cdn.tigertag.io/img?type=container&id=extrudr_clear&size=medium&v=1794104923",
+    "img_version": 1794104923,
+    "active": true,
+    "updated_at": 1794104923628
+  },
+  {
+    "id": "fiberlogy_grey",
+    "brandId": 8182,
+    "brand": "Fiberlogy",
+    "label": "Light Grey",
+    "labels": {
+      "en": "Light Grey"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 292,
+    "img": "https://cdn.tigertag.io/img?type=container&id=fiberlogy_grey&size=medium&v=1794104927",
+    "img_version": 1794104927,
+    "active": true,
+    "updated_at": 1794104927290
+  },
+  {
+    "id": "flashforge_black",
+    "brandId": 63340,
+    "brand": "Flashforge",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 171,
+    "img": "https://cdn.tigertag.io/img?type=container&id=flashforge_black&size=medium&v=1794104930",
+    "img_version": 1794104930,
+    "active": true,
+    "updated_at": 1794104930725
+  },
+  {
+    "id": "formfutura_carton",
+    "brandId": 53043,
+    "brand": "FormFutura",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 165,
+    "img": "https://cdn.tigertag.io/img?type=container&id=formfutura_carton&size=medium&v=1794104933",
+    "img_version": 1794104933,
+    "active": true,
+    "updated_at": 1794104933822
+  },
+  {
+    "id": "forshape_black",
+    "brandId": 12498,
+    "brand": "Forshape",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 128,
+    "img": "https://cdn.tigertag.io/img?type=container&id=forshape_black&size=medium&v=1794104937",
+    "img_version": 1794104937,
+    "active": true,
+    "updated_at": 1794104937256
+  },
+  {
+    "id": "g3dpro_black",
+    "brandId": 50311,
+    "brand": "G3D Pro",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 232,
+    "img": "https://cdn.tigertag.io/img?type=container&id=g3dpro_black&size=medium&v=1794104939",
+    "img_version": 1794104939,
+    "active": true,
+    "updated_at": 1794104940119
+  },
+  {
+    "id": "geeetech_black",
+    "brandId": 52467,
+    "brand": "Geeetech",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 176,
+    "img": "https://cdn.tigertag.io/img?type=container&id=geeetech_black&size=medium&v=1794104942",
+    "img_version": 1794104942,
+    "active": true,
+    "updated_at": 1794104943119
+  },
+  {
+    "id": "giantarm_transparent",
+    "brandId": 49784,
+    "brand": "GIANTARM",
+    "label": "Transparent",
+    "labels": {
+      "en": "Transparent"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 180,
+    "img": "https://cdn.tigertag.io/img?type=container&id=giantarm_transparent&size=medium&v=1794104946",
+    "img_version": 1794104946,
+    "active": true,
+    "updated_at": 1794104947105
+  },
+  {
+    "id": "gst3d_anthracite",
+    "brandId": 8303,
+    "brand": "GST3D",
+    "label": "Anthracite",
+    "labels": {
+      "en": "Anthracite"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 205,
+    "img": "https://cdn.tigertag.io/img?type=container&id=gst3d_anthracite&size=medium&v=1794104950",
+    "img_version": 1794104950,
+    "active": true,
+    "updated_at": 1794104951063
+  },
+  {
+    "id": "inslogic_masterspool_black",
+    "brandId": 2049,
+    "brand": "Inslogic",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 232,
+    "img": "https://cdn.tigertag.io/img?type=container&id=inslogic_masterspool_black&size=medium&v=1794104955",
+    "img_version": 1794104955,
+    "active": true,
+    "updated_at": 1794104956062
+  },
+  {
+    "id": "jayo_plastic_black",
+    "brandId": 7812,
+    "brand": "Jayo",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 127,
+    "img": "https://cdn.tigertag.io/img?type=container&id=jayo_plastic_black&size=medium&v=1794104959",
+    "img_version": 1794104959,
+    "active": true,
+    "updated_at": 1794104960038
+  },
+  {
+    "id": "longer_black",
+    "brandId": 39382,
+    "brand": "Longer",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 180,
+    "img": "https://cdn.tigertag.io/img?type=container&id=longer_black&size=medium&v=1794104963",
+    "img_version": 1794104963,
+    "active": true,
+    "updated_at": 1794104964136
+  },
+  {
+    "id": "lotactree_masterspool_transparent",
+    "brandId": 38533,
+    "brand": "Lotactree",
+    "label": "Transparent",
+    "labels": {
+      "en": "Transparent"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 194,
+    "img": "https://cdn.tigertag.io/img?type=container&id=lotactree_masterspool_transparent&size=medium&v=1794104968",
+    "img_version": 1794104968,
+    "active": true,
+    "updated_at": 1794104968857
+  },
+  {
+    "id": "lotactree_masterspool_white",
+    "brandId": 38533,
+    "brand": "Lotactree",
+    "label": "White",
+    "labels": {
+      "en": "White"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 150,
+    "img": "https://cdn.tigertag.io/img?type=container&id=lotactree_masterspool_white&size=medium&v=1794104972",
+    "img_version": 1794104972,
+    "active": true,
+    "updated_at": 1794104972290
+  },
+  {
+    "id": "overture_carton",
+    "brandId": 46203,
+    "brand": "Overture",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 170,
+    "img": "https://cdn.tigertag.io/img?type=container&id=overture_carton&size=medium&v=1794104975",
+    "img_version": 1794104975,
+    "active": true,
+    "updated_at": 1794104975537
+  },
+  {
+    "id": "panchroma_cardboard",
+    "brandId": 45670,
+    "brand": "Panchroma",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 145,
+    "img": "https://cdn.tigertag.io/img?type=container&id=panchroma_cardboard&size=medium&v=1794104978",
+    "img_version": 1794104978,
+    "active": true,
+    "updated_at": 1794104978919
+  },
+  {
+    "id": "polymaker_cardboard",
+    "brandId": 50604,
+    "brand": "Polymaker",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 170,
+    "img": "https://cdn.tigertag.io/img?type=container&id=polymaker_cardboard&size=medium&v=1794104982",
+    "img_version": 1794104982,
+    "active": true,
+    "updated_at": 1794104982625
+  },
+  {
+    "id": "polymaker_panchroma_cardboard",
+    "brandId": 50604,
+    "brand": "Polymaker",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 145,
+    "img": "https://cdn.tigertag.io/img?type=container&id=polymaker_panchroma_cardboard&size=medium&v=1794104985",
+    "img_version": 1794104985,
+    "active": true,
+    "updated_at": 1794104985661
+  },
+  {
+    "id": "printomax3d_carton",
+    "brandId": 18629,
+    "brand": "PrintoMax 3D",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 139,
+    "img": "https://cdn.tigertag.io/img?type=container&id=printomax3d_carton&size=medium&v=1794104988",
+    "img_version": 1794104988,
+    "active": true,
+    "updated_at": 1794104989055
+  },
+  {
+    "id": "printomax3d_masterspool_grey",
+    "brandId": 18629,
+    "brand": "PrintoMax 3D",
+    "label": "Grey",
+    "labels": {
+      "en": "Grey"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 230,
+    "img": "https://cdn.tigertag.io/img?type=container&id=printomax3d_masterspool_grey&size=medium&v=1794104993",
+    "img_version": 1794104993,
+    "active": true,
+    "updated_at": 1794104993883
+  },
+  {
+    "id": "prusa_carton_core",
+    "brandId": 46392,
+    "brand": "Prusament",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 205,
+    "img": "https://cdn.tigertag.io/img?type=container&id=prusa_carton_core&size=medium&v=1794104997",
+    "img_version": 1794104997,
+    "active": true,
+    "updated_at": 1794104997308
+  },
+  {
+    "id": "r3d_grey",
+    "brandId": 48804,
+    "brand": "R3D",
+    "label": "Grey",
+    "labels": {
+      "en": "Grey"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 278,
+    "img": "https://cdn.tigertag.io/img?type=container&id=r3d_grey&size=medium&v=1794105001",
+    "img_version": 1794105001,
+    "active": true,
+    "updated_at": 1794105001279
+  },
+  {
+    "id": "rosa3d_masterspool_white",
+    "brandId": 19961,
+    "brand": "Rosa3D",
+    "label": "White",
+    "labels": {
+      "en": "White"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 250,
+    "img": "https://cdn.tigertag.io/img?type=container&id=rosa3d_masterspool_white&size=medium&v=1794105005",
+    "img_version": 1794105005,
+    "active": true,
+    "updated_at": 1794105005618
+  },
+  {
+    "id": "sovb3d_red",
+    "brandId": 8675,
+    "brand": "SOVB 3D",
+    "label": "Red",
+    "labels": {
+      "en": "Red"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 149,
+    "img": "https://cdn.tigertag.io/img?type=container&id=sovb3d_red&size=medium&v=1794105009",
+    "img_version": 1794105009,
+    "active": true,
+    "updated_at": 1794105009773
+  },
+  {
+    "id": "sunlu_black",
+    "brandId": 51857,
+    "brand": "Sunlu",
+    "label": "Black",
+    "labels": {
+      "en": "Black"
+    },
+    "type": "plastic",
+    "product_type": "filament",
+    "container_weight": 130,
+    "img": "https://cdn.tigertag.io/img?type=container&id=sunlu_black&size=medium&v=1794105012",
+    "img_version": 1794105012,
+    "active": true,
+    "updated_at": 1794105013110
+  },
+  {
+    "id": "sunlu_light_grey",
+    "brandId": 51857,
+    "brand": "Sunlu",
+    "label": "Light Grey V2",
+    "labels": {
+      "en": "Light Grey V2"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 219,
+    "img": "https://cdn.tigertag.io/img?type=container&id=sunlu_light_grey&size=medium&v=1794105016",
+    "img_version": 1794105016,
+    "active": true,
+    "updated_at": 1794105016418
+  },
+  {
+    "id": "sunlu_midnight_blue_v1",
+    "brandId": 51857,
+    "brand": "Sunlu",
+    "label": "Midnight Blue V2",
+    "labels": {
+      "en": "Midnight Blue V2"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 165,
+    "img": "https://cdn.tigertag.io/img?type=container&id=sunlu_midnight_blue_v1&size=medium&v=1794105020",
+    "img_version": 1794105020,
+    "active": true,
+    "updated_at": 1794105020489
+  },
+  {
+    "id": "sunlu_midnight_blue_v2",
+    "brandId": 51857,
+    "brand": "Sunlu",
+    "label": "Midnight Blue V3",
+    "labels": {
+      "en": "Midnight Blue V3"
+    },
+    "type": "masterspool",
+    "product_type": "filament",
+    "container_weight": 219,
+    "img": "https://cdn.tigertag.io/img?type=container&id=sunlu_midnight_blue_v2&size=medium&v=1794105023",
+    "img_version": 1794105023,
+    "active": true,
+    "updated_at": 1794105023894
+  },
+  {
+    "id": "wanhao_carton",
+    "brandId": 47560,
+    "brand": "Wanhao",
+    "label": "Standard",
+    "labels": {
+      "en": "Standard"
+    },
+    "type": "cardboard",
+    "product_type": "filament",
+    "container_weight": 142,
+    "img": "https://cdn.tigertag.io/img?type=container&id=wanhao_carton&size=medium&v=1794105027",
+    "img_version": 1794105027,
+    "active": true,
+    "updated_at": 1794105028092
+  }
+]
