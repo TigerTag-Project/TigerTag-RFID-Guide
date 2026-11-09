@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "6d4f525fcc7eba3b2f019b66abc9cdaec05692901fc996c3a2b1b42a9c2a3cd9",
-  "products": 20464,
+  "sourceSha256": "fb07419e479eebc3558aad7afcbc8dd972c4ff5a1cc0a2210955df5dc741d9de",
+  "products": 20886,
   "unassigned": 3,
   "brands": [
     {
@@ -20,6 +20,14 @@
       "entries": 162,
       "bytes": 168050,
       "sha256": "99360a83b780efd2a16f9231e27d497571b18cbaf2189038eae74f5a0bd484fd"
+    },
+    {
+      "id_brand": 39851,
+      "brand": "3DFILS",
+      "file": "id_3dfils.json",
+      "entries": 181,
+      "bytes": 176395,
+      "sha256": "b8ea1cb01ea134454023ce7f3f5d8a1caa78bc1d3ce4fe7a1578c36d4b4ed9d0"
     },
     {
       "id_brand": 50187,
@@ -262,6 +270,14 @@
       "sha256": "85e2c11b77612541cb30d5caaf9ff6df2dd05ee25a73c3daa3454c892eaab121"
     },
     {
+      "id_brand": 21492,
+      "brand": "Eolas Prints",
+      "file": "id_eolas_prints.json",
+      "entries": 239,
+      "bytes": 232248,
+      "sha256": "74971320f91740910559145827ad34f9a541ca097a52b23821df77a7256d3c2d"
+    },
+    {
       "id_brand": 53146,
       "brand": "EPAX",
       "file": "id_epax.json",
@@ -346,8 +362,8 @@
       "brand": "Filforme",
       "file": "id_filforme.json",
       "entries": 73,
-      "bytes": 74568,
-      "sha256": "e8dd268a26c261e2566a6861dd5b0485e2af75a59086a077d659e514b1c0f0d9"
+      "bytes": 74618,
+      "sha256": "0bb721816405b3cdcfdc08b872d68eca658ff7acc78ae088350b3fc83164162c"
     },
     {
       "id_brand": 7980,
@@ -809,9 +825,9 @@
       "id_brand": 51857,
       "brand": "Sunlu",
       "file": "id_sunlu.json",
-      "entries": 552,
-      "bytes": 567580,
-      "sha256": "d7b48dc47a571dd41ade204ea4565463da3215e8f3be42f1648eab5b717e7d91"
+      "entries": 554,
+      "bytes": 569506,
+      "sha256": "97069463b21c04db99ee25427ca40dc4cb4edc37266442ca9f062ec604a31125"
     },
     {
       "id_brand": 28055,

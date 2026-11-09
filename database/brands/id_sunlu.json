@@ -4746,6 +4746,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 76,
+      "color_g": 117,
+      "color_r": 104,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#68754CFF",
+    "color_info": {
+      "colors": [
+        "#68754CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 765786242,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Olive Green",
+    "product_type": "Filament",
+    "series": "PETG 2.0",
+    "sku": "SL-PETG2.0-OG-1KG",
+    "title": "PETG 2.0 - Olive Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 7,
       "color_g": 14,
       "color_r": 29,
@@ -23272,6 +23318,52 @@
     "sku": "SL-PLAMT-CC-1KG",
     "title": "PLA Meta - Chocolate",
     "updated_at": 1788311487587
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 179,
+      "color_g": 40,
+      "color_r": 28,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 65,
+      "data5": 6,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#1C28B3FF",
+    "color_info": {
+      "colors": [
+        "#1C28B3FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3849365189,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Klein Blue",
+    "product_type": "Filament",
+    "series": "PETG 2.0",
+    "sku": "SL-PETG2.0-KB-1KG",
+    "title": "PETG 2.0 - Klein Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
