@@ -510,8 +510,10 @@ no `ID TigerTag` value at all, because by definition nothing has been
 written to a chip.
 
 **So:** do not read a three-state progression out of the type table
-above, and do not expect `TigerTag Init` to appear on the wiki. Parsers
-and firmware care only about this axis — what the chip carries.
+above. The wiki explains `TigerTag Init` on the chip axis, as a chip
+with no record behind it
+([The record and the chip](https://wiki.tigersystem.io/concepts/universal-filament-identity/#the-record-and-the-chip)).
+Parsers and firmware care only about this axis — what the chip carries.
 
 > Backing up a chip in your account is a separate feature: it does not
 > make a chip a `TigerTag+`. The wiki and this repository use the same
