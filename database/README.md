@@ -119,6 +119,16 @@ Every product carries every key above. Some values may be `null` or empty:
 `info1`, `info2` and `info3` are booleans: three generic per-product attributes
 carried from the Manager (TigerTag-Project/TigerTag-Manager#35).
 
+**Packs.** A pack (a lot of several spools of one product) carries two more keys:
+`link_id_product`, the `id` of its unit product, and `pack_quantity`, how many
+units it holds. A chip always carries the unit product, so a pack's `RFID_Data`,
+`material`, `aspect1`, `aspect2`, `color`, `color_info`, `measure` and
+`info1`–`info3` are its unit's; its own `id`, `name`, `title`, `sku`, `barcode`
+and `img_src` stay its own. Look up a pack's SKU or barcode, then burn or read
+`RFID_Data` (or follow `link_id_product`). A pack whose unit product is not in
+the catalogue has `RFID_Data: null`. Other products do not carry these two keys
+(TigerTag-Project/TigerTag-Manager, Xano change 51).
+
 `brands/` is cut by `RFID_Data.id_brand`, so a product whose `RFID_Data` is
 `null` is in `id_catalog.json` but in no brand file; `brands/index.json` counts
 them.
