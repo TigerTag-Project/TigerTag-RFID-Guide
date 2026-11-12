@@ -43,7 +43,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0255",
     "title": "Matte PLA - Sunshine Yellow",
-    "updated_at": 1792193145949
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -135,7 +135,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0257",
     "title": "Matte PLA - Lavender Purple",
-    "updated_at": 1792193051874
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -227,7 +227,7 @@
     "series": "PETG Pro",
     "sku": "50.203.0205",
     "title": "PETG Pro - Grey",
-    "updated_at": 1792193044937
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -319,7 +319,7 @@
     "series": "PLA Pro",
     "sku": "50.203.0188",
     "title": "PLA Pro - Black",
-    "updated_at": 1792192872759
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -365,7 +365,7 @@
     "series": "PLA Marble",
     "sku": "GWCZ-EL-PLA-130",
     "title": "PLA Marble - Brick Red",
-    "updated_at": 1792188902881
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -411,7 +411,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-PP-101",
     "title": "PLA+ - Sky Blue",
-    "updated_at": 1792192002050
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -457,7 +457,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-3D-P03",
     "title": "PLA - Grey",
-    "updated_at": 1792192264875
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -503,7 +503,7 @@
     "series": "Rapid PLA+",
     "sku": "50.203.0121",
     "title": "Rapid PLA+ - Yellow",
-    "updated_at": 1792193192058
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -595,7 +595,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-PP-105",
     "title": "PLA+ - Pink",
-    "updated_at": 1792192104779
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -687,7 +687,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP01",
     "title": "PLA+ - Black",
-    "updated_at": 1792191841574
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -784,6 +784,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 89,
+      "color_g": 88,
+      "color_r": 84,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 57632,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "ELEGOO",
+    "color": "#545859FF",
+    "color_info": {
+      "colors": [
+        "#545859FF"
+      ],
+      "type": "mono"
+    },
+    "id": 303315347,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Deep Grey",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "EL-3DF-PBR1114",
+    "title": "PLA Basic - Deep Grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 5,
       "color_g": 67,
       "color_r": 102,
@@ -826,6 +872,52 @@
     "sku": "",
     "title": "Rapid PETG - Brown",
     "updated_at": 1792192965575
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 66,
+      "color_g": 79,
+      "color_r": 48,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 57632,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "ELEGOO",
+    "color": "#304F42FF",
+    "color_info": {
+      "colors": [
+        "#304F42FF"
+      ],
+      "type": "mono"
+    },
+    "id": 320269130,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Dark Green",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "EL-3DF-PBR1118",
+    "title": "PLA Basic - Dark Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -963,7 +1055,7 @@
     "series": "PLA Marble",
     "sku": "GWCZ-EL-PLA-131",
     "title": "PLA Marble - Cement Grey",
-    "updated_at": 1792188901523
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -1239,7 +1331,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0252",
     "title": "Matte PLA - Ruby Red",
-    "updated_at": 1792193120975
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -1285,7 +1377,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-3D-P08N",
     "title": "PLA - Orange",
-    "updated_at": 1792192348554
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -1423,7 +1515,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0758",
     "title": "PLA Basic - Cobalt Blue",
-    "updated_at": 1792191184230
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -1469,7 +1561,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0256",
     "title": "Matte PLA - Slate Grey",
-    "updated_at": 1792193139383
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -1607,7 +1699,7 @@
     "series": "Rapid PETG",
     "sku": "50.203.0218",
     "title": "Rapid PETG - Red",
-    "updated_at": 1792193112162
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -1883,7 +1975,7 @@
     "series": "Silk PLA",
     "sku": "50.203.0692",
     "title": "Silk PLA - Silver",
-    "updated_at": 1792193130081
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -1929,7 +2021,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0762",
     "title": "PLA Basic - Grey",
-    "updated_at": 1792191287413
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -2117,7 +2209,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0764",
     "title": "PLA Basic - Pink",
-    "updated_at": 1792191282993
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -2347,7 +2439,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0250",
     "title": "Matte PLA - Black",
-    "updated_at": 1792192850764
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -2623,7 +2715,7 @@
     "series": "ABS",
     "sku": "50.203.0641",
     "title": "ABS - Black",
-    "updated_at": 1792192873260
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -2949,7 +3041,7 @@
     "series": "ABS",
     "sku": "50.203.0643",
     "title": "ABS - Red",
-    "updated_at": 1792193109266
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -3137,7 +3229,7 @@
     "series": "PETG HF",
     "sku": "GWCZ-EL-3DF-PEH1089",
     "title": "PETG HF - Red",
-    "updated_at": 1792189929127
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -3459,7 +3551,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0766",
     "title": "PLA Basic - Green",
-    "updated_at": 1792191355317
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -3505,7 +3597,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0260",
     "title": "Matte PLA - Beige",
-    "updated_at": 1792192770679
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -3689,7 +3781,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-PLA-111",
     "title": "PLA - Brown",
-    "updated_at": 1792192500485
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -3735,7 +3827,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-PLA-112",
     "title": "PLA - Beige",
-    "updated_at": 1792192493249
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -3781,7 +3873,7 @@
     "series": "Rapid PETG",
     "sku": "50.203.0312",
     "title": "Rapid PETG - Space Grey",
-    "updated_at": 1792193149938
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -3827,7 +3919,7 @@
     "series": "TPU 95A",
     "sku": "50.203.0570",
     "title": "TPU 95A - Red",
-    "updated_at": 1792193106834
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -3874,6 +3966,52 @@
     "sku": "GWCZ-EL-3DF-PEG1163",
     "title": "PETG Glitter - Light Brown",
     "updated_at": 1792189751732
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 140,
+      "color_g": 0,
+      "color_r": 236,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 57632,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "ELEGOO",
+    "color": "#EC008CFF",
+    "color_info": {
+      "colors": [
+        "#EC008CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1480496740,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Magenta",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "EL-3DF-PBR1116",
+    "title": "PLA Basic - Magenta",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4016,6 +4154,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_g": 46,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 57632,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "ELEGOO",
+    "color": "#C02E2FFF",
+    "color_info": {
+      "colors": [
+        "#C02E2FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1495525252,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "name": "True Red",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "EL-PLA+-TRUERED-1000G",
+    "title": "PLA+ - True Red",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 178,
       "color_g": 223,
       "color_r": 240,
@@ -4149,7 +4333,7 @@
     "series": "TPU 95A",
     "sku": "50.203.0567",
     "title": "TPU 95A - Black",
-    "updated_at": 1792192891784
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -4195,7 +4379,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP08N",
     "title": "PLA+ - Orange",
-    "updated_at": 1792192020983
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -4333,7 +4517,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-PP-102",
     "title": "PLA+ - Sea Green",
-    "updated_at": 1792192019761
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -4379,7 +4563,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0261",
     "title": "Matte PLA - Mint Green",
-    "updated_at": 1792193061281
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -4517,7 +4701,7 @@
     "series": "Rapid PETG",
     "sku": "50.203.0220",
     "title": "Rapid PETG - Green",
-    "updated_at": 1792193024340
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -4563,7 +4747,7 @@
     "series": "Rapid PLA+",
     "sku": "50.203.0120",
     "title": "Rapid PLA+ - Orange",
-    "updated_at": 1792193075673
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -4659,7 +4843,7 @@
     "series": "Silk PLA",
     "sku": "50.203.0467",
     "title": "Silk PLA - Blue Green",
-    "updated_at": 1792192933939
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -4751,7 +4935,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0763",
     "title": "PLA Basic - Beige",
-    "updated_at": 1792191276177
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -4797,7 +4981,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-PLA-107",
     "title": "PLA - Space Grey",
-    "updated_at": 1792192440455
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -4893,7 +5077,7 @@
     "series": "ABS",
     "sku": "50.203.0642",
     "title": "ABS - White",
-    "updated_at": 1792193180367
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -5541,7 +5725,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0767",
     "title": "PLA Basic - Misty Blue",
-    "updated_at": 1792191356384
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -5863,7 +6047,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP07",
     "title": "PLA+ - Yellow",
-    "updated_at": 1792191929164
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -5909,7 +6093,7 @@
     "series": "ABS",
     "sku": "50.203.0645",
     "title": "ABS - Blue",
-    "updated_at": 1792192928136
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -6185,7 +6369,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-3D-P06",
     "title": "PLA - Red",
-    "updated_at": 1792192276973
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -6323,7 +6507,7 @@
     "series": "PETG Pro",
     "sku": "50.203.0200",
     "title": "PETG Pro - Burgundy Red",
-    "updated_at": 1792192977370
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -6369,7 +6553,7 @@
     "series": "PLA Metallic",
     "sku": "GWCZ-EL-3DF-P0742",
     "title": "PLA Metallic - Blue",
-    "updated_at": 1792190861785
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -6461,7 +6645,53 @@
     "series": "Rapid PLA+",
     "sku": "50.203.0116",
     "title": "Rapid PLA+ - Grey",
-    "updated_at": 1792193035938
+    "updated_at": 1794490742008
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 172,
+      "color_g": 215,
+      "color_r": 71,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 57632,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "ELEGOO",
+    "color": "#47D7ACFF",
+    "color_info": {
+      "colors": [
+        "#47D7ACFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2184988218,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Light Cyan",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "EL-3DF-PBR1115",
+    "title": "PLA Basic - Light Cyan",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6507,7 +6737,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-PLB0809",
     "title": "PLA Basic - Orange",
-    "updated_at": 1792191367778
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -6837,7 +7067,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-PP-106",
     "title": "PLA+ - Purple",
-    "updated_at": 1792192091983
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -6929,7 +7159,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP02",
     "title": "PLA+ - White",
-    "updated_at": 1792191850026
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -7113,7 +7343,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP05N",
     "title": "PLA+ - Dark Blue",
-    "updated_at": 1792191938646
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -7160,6 +7390,52 @@
     "sku": "50.203.0449",
     "title": "PETG Pro - Olive Green",
     "updated_at": 1792193072662
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 178,
+      "color_g": 219,
+      "color_r": 239,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 57632,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "ELEGOO",
+    "color": "#EFDBB2FF",
+    "color_info": {
+      "colors": [
+        "#EFDBB2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2464597427,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Cream Yellow",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "EL-3DF-PBR1117",
+    "title": "PLA Basic - Cream Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7343,7 +7619,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0756",
     "title": "PLA Basic - Hot Pink",
-    "updated_at": 1792191117203
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -7619,7 +7895,7 @@
     "series": "PLA Wood",
     "sku": "GWCZ-EL-PLA-124",
     "title": "PLA Wood - Wood filled",
-    "updated_at": 1792190696608
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -7665,7 +7941,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0759",
     "title": "PLA Basic - Apple Green",
-    "updated_at": 1792191201889
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -7757,7 +8033,7 @@
     "series": "Rapid PETG",
     "sku": "50.203.0221",
     "title": "Rapid PETG - Yellow",
-    "updated_at": 1792193203767
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -7941,7 +8217,7 @@
     "series": "PLA Glow",
     "sku": "GWCZ-EL-3DF-PLG0802",
     "title": "PLA Glow - Blue",
-    "updated_at": 1792190396095
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -8355,7 +8631,7 @@
     "series": "PETG Pro",
     "sku": "50.203.0198",
     "title": "PETG Pro - Black",
-    "updated_at": 1792192878155
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -8401,7 +8677,7 @@
     "series": "PLA Metallic",
     "sku": "GWCZ-EL-3DF-P0741",
     "title": "PLA Metallic - Bronze",
-    "updated_at": 1792190802822
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -8681,7 +8957,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-PP-103",
     "title": "PLA+ - Space Grey",
-    "updated_at": 1792192027438
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -8727,7 +9003,7 @@
     "series": "Rapid PETG",
     "sku": "50.203.0217",
     "title": "Rapid PETG - White",
-    "updated_at": 1792193174841
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -9145,7 +9421,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP03",
     "title": "PLA+ - Grey",
-    "updated_at": 1792191848778
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -9467,7 +9743,7 @@
     "series": "ASA",
     "sku": "GWCZ-EL-3DF-AS0709B",
     "title": "ASA - White",
-    "updated_at": 1792191767881
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -9559,7 +9835,7 @@
     "series": "PLA Metallic",
     "sku": "GWCZ-EL-3DF-P0740",
     "title": "PLA Metallic - Gold",
-    "updated_at": 1792190774010
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -9747,7 +10023,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-3D-P05N",
     "title": "PLA - Dark Blue",
-    "updated_at": 1792192270659
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -9885,7 +10161,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0753",
     "title": "PLA Basic - Cyan",
-    "updated_at": 1792191120395
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -10069,7 +10345,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0262",
     "title": "Matte PLA - Earth Brown",
-    "updated_at": 1792192983977
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -10161,7 +10437,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-PP-109",
     "title": "PLA+ - Brown",
-    "updated_at": 1792192175568
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -10253,7 +10529,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0251",
     "title": "Matte PLA - White",
-    "updated_at": 1792193190196
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -10483,7 +10759,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-PP-107",
     "title": "PLA+ - Beige",
-    "updated_at": 1792192099536
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -10621,7 +10897,7 @@
     "series": "ASA",
     "sku": "GWCZ-EL-3DF-AS0708B",
     "title": "ASA - Deep Black",
-    "updated_at": 1792191688566
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -10713,7 +10989,7 @@
     "series": "Galaxy",
     "sku": "50.203.0110",
     "title": "Galaxy - Black",
-    "updated_at": 1792192874066
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -10851,7 +11127,7 @@
     "series": "PLA+",
     "sku": "GWCZ-EL-3D-PP06",
     "title": "PLA+ - Red",
-    "updated_at": 1792191920277
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -11127,7 +11403,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-PLA-102",
     "title": "PLA - Pink",
-    "updated_at": 1792192343953
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -11495,7 +11771,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0258",
     "title": "Matte PLA - Sakura Pink",
-    "updated_at": 1792193124544
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -11541,7 +11817,7 @@
     "series": "PLA Basic",
     "sku": "GWCZ-EL-3DF-P0751",
     "title": "PLA Basic - Red",
-    "updated_at": 1792191036179
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -11587,7 +11863,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-PLA-106",
     "title": "PLA - Sea Green",
-    "updated_at": 1792192423146
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -11679,7 +11955,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-PLA-105",
     "title": "PLA - Sky Blue",
-    "updated_at": 1792192414475
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -11871,7 +12147,7 @@
     "series": "TPU 95A",
     "sku": "50.203.0568",
     "title": "TPU 95A - White",
-    "updated_at": 1792193166248
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -12105,7 +12381,7 @@
     "series": "PLA Sparkle",
     "sku": "GWCZ-EL-PLA-135",
     "title": "PLA Sparkle - Red",
-    "updated_at": 1792190951327
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -12197,7 +12473,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0254",
     "title": "Matte PLA - Teal Green",
-    "updated_at": 1792193145942
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -12473,7 +12749,7 @@
     "series": "PLA",
     "sku": "GWCZ-EL-3D-P04N",
     "title": "PLA - Neon Green",
-    "updated_at": 1792800152964
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -12519,7 +12795,7 @@
     "series": "Matte PLA",
     "sku": "50.203.0259",
     "title": "Matte PLA - Ice Blue",
-    "updated_at": 1792193047982
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -12616,6 +12892,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 212,
+      "color_g": 231,
+      "color_r": 238,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 35,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 57632,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "ELEGOO",
+    "color": "#EEE7D4FF",
+    "color_info": {
+      "colors": [
+        "#EEE7D4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4206942563,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "name": "Bone White",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "EL-3DF-PP1239",
+    "title": "PLA+ - Bone White",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -12657,7 +12979,7 @@
     "series": "Rapid PETG",
     "sku": "50.203.0216",
     "title": "Rapid PETG - Black",
-    "updated_at": 1792192880666
+    "updated_at": 1794490742008
   },
   {
     "RFID_Data": {
@@ -13029,6 +13351,6 @@
     "series": "Silk PLA",
     "sku": "50.203.0286",
     "title": "Silk PLA - Mint Green",
-    "updated_at": 1792193063775
+    "updated_at": 1794490742008
   }
 ]

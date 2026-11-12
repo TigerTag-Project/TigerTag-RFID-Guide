@@ -89,7 +89,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-LP-1KG-A",
     "title": "PLA - Lavender Purple",
-    "updated_at": 1788312549400
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -228,6 +228,52 @@
     "sku": "SL-PLA+-MN-1KG",
     "title": "PLA+ - Midnight",
     "updated_at": 1788313102517
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 135,
+      "color_g": 184,
+      "color_r": 222,
+      "data1": 56,
+      "data2": 195,
+      "data3": 220,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#DEB887FF",
+    "color_info": {
+      "colors": [
+        "#DEB887FF"
+      ],
+      "type": "mono"
+    },
+    "id": 50346305,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "name": "Burly Wood",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-PLA+-BURLYWOOD-1000G",
+    "title": "PLA+ - Burly Wood",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -549,7 +595,7 @@
     "series": "PLA Matte",
     "sku": "SL-N-PLAYG-CA-1KG-A",
     "title": "PLA Matte - Clay",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -1113,6 +1159,52 @@
   },
   {
     "RFID_Data": {
+      "color_a": 255,
+      "color_b": 29,
+      "color_g": 36,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#00241DFF",
+    "color_info": {
+      "colors": [
+        "#00241DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 126608949,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Earth Green",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "DLZ-EU-SL-PLA-EGN-1KG",
+    "title": "PLA - Earth Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
       "color_a": 128,
       "color_b": 122,
       "color_b2": 168,
@@ -1301,7 +1393,7 @@
     "series": "PETG",
     "sku": "SL-N-PETG-SK-1KG-A",
     "title": "PETG - Beige",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2321,7 +2413,7 @@
     "series": "PLA+",
     "sku": "SL-N-PLAP-GLD-1KG-A",
     "title": "PLA+ - Gold",
-    "updated_at": 1788506744256
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2367,7 +2459,7 @@
     "series": "Silk PLA",
     "sku": "SL-SILK-SV-1KG",
     "title": "Silk PLA - Silver",
-    "updated_at": 1788312399883
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2643,7 +2735,7 @@
     "series": "PETG",
     "sku": "SL-Y-PETG-CHER-1KG-A",
     "title": "PETG - Cherry Red",
-    "updated_at": 1788312988520
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2827,7 +2919,7 @@
     "series": "PLA Matte",
     "sku": "SL-N-PLAYG-BW-1KG-A",
     "title": "PLA Matte - Bone White",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2873,7 +2965,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-BW-1KG-A",
     "title": "PLA - Bone White",
-    "updated_at": 1788312549400
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -3011,7 +3103,7 @@
     "series": "PETG",
     "sku": "SL-Y-PETG-BK-1KG-A",
     "title": "PETG - Black",
-    "updated_at": 1788312988521
+    "updated_at": 1794474907533
   },
   {
     "RFID_Data": {
@@ -3333,7 +3425,7 @@
     "series": "PLA Matte",
     "sku": "SL-Y-PLAYG-GY-1KG-A",
     "title": "PLA Matte - Grey",
-    "updated_at": 1788311878715
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -3947,7 +4039,7 @@
     "series": "PETG",
     "sku": "SL-N-PETG-CY-1KG-A",
     "title": "PETG - Cyan",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -4457,7 +4549,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-CY-1KG-A",
     "title": "PLA - Cyan",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -4741,7 +4833,99 @@
     "series": "PLA+",
     "sku": "SL-N-PLAP-CHR-1KG-A",
     "title": "PLA+ - Cherry Red",
-    "updated_at": 1788506744254
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 41,
+      "color_g": 32,
+      "color_r": 206,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#CE2029FF",
+    "color_info": {
+      "colors": [
+        "#CE2029FF"
+      ],
+      "type": "mono"
+    },
+    "id": 737858569,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Fire Engine Red",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-PLA-FIREENGINERED-1000G",
+    "title": "PLA - Fire Engine Red",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 149,
+      "color_g": 186,
+      "color_r": 213,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#D5BA95FF",
+    "color_info": {
+      "colors": [
+        "#D5BA95FF"
+      ],
+      "type": "mono"
+    },
+    "id": 747948105,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Burly Wood",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-PLA-BURLYWOOD-1000G",
+    "title": "PLA - Burly Wood",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5017,7 +5201,7 @@
     "series": "PLA+",
     "sku": "SL-PLA+-CBN-1KG",
     "title": "PLA+ - Coffee Brown",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5453,6 +5637,52 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 87,
+      "color_g": 86,
+      "color_r": 83,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#535657FF",
+    "color_info": {
+      "colors": [
+        "#535657FF"
+      ],
+      "type": "mono"
+    },
+    "id": 844672027,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Dark Grey",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-PLA-DARKGREY-1000G",
+    "title": "PLA - Dark Grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 87,
       "color_g": 101,
       "color_r": 144,
       "data1": 56,
@@ -5677,7 +5907,7 @@
     "series": "Silk PLA",
     "sku": "SL-SILK-WT-1KG",
     "title": "Silk PLA - White",
-    "updated_at": 1788312399883
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6137,7 +6367,7 @@
     "series": "PLA Matte",
     "sku": "SL-N-PLAYG-OAK-1KG-A",
     "title": "PLA Matte - Oak",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6183,7 +6413,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-LMY-1KG-A",
     "title": "PLA - Lemon Yellow",
-    "updated_at": 1788312549399
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6280,6 +6510,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 78,
+      "color_g": 73,
+      "color_r": 69,
+      "data1": 56,
+      "data2": 230,
+      "data3": 240,
+      "data4": 60,
+      "data5": 8,
+      "data6": 60,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#45494EFF",
+    "color_info": {
+      "colors": [
+        "#45494EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 996231263,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Graphite",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-PETG-GRAPHITE-1000G",
+    "title": "PETG - Graphite",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 208,
       "color_g": 231,
       "color_r": 238,
@@ -6321,7 +6597,7 @@
     "series": "PLA+",
     "sku": "SL-PLA+-BWT-1KG",
     "title": "PLA+ - Bone White",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6413,7 +6689,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-GY-1KG-A",
     "title": "PLA - Grey",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6643,7 +6919,7 @@
     "series": "Silk PLA",
     "sku": "SL-SILK-BK-1KG",
     "title": "Silk PLA - Black",
-    "updated_at": 1788312399883
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6689,7 +6965,7 @@
     "series": "Silk PLA",
     "sku": "SL-SILK-PK-1KG",
     "title": "Silk PLA - Pink",
-    "updated_at": 1788312399883
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6873,7 +7149,7 @@
     "series": "PLA+",
     "sku": "SL-PLA+-CY-1KG",
     "title": "PLA+ - Cyan",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -7057,7 +7333,7 @@
     "series": "PLA+",
     "sku": "SL-PLA+-FS-1KG",
     "title": "PLA+ - Magenta",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -7387,7 +7663,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-GRG-1KG-A",
     "title": "PLA - Grass Green",
-    "updated_at": 1788312549400
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -7947,7 +8223,7 @@
     "series": "PLA+",
     "sku": "SL-Y-PLAP-CMW-1KG-A",
     "title": "PLA+ - Ceramic White",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8085,7 +8361,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-BW-1KG-A",
     "title": "PLA - Bone White",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8177,7 +8453,7 @@
     "series": "PETG",
     "sku": "SL-N-PETG-CBN-1KG-A",
     "title": "PETG - Coffee Brown",
-    "updated_at": 1788506744256
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8637,7 +8913,7 @@
     "series": "PETG",
     "sku": "SL-Y-PETG-CHOC-1KG-A",
     "title": "PETG - Chocolate",
-    "updated_at": 1788312988520
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8729,7 +9005,7 @@
     "series": "High Speed Matte PLA",
     "sku": "SL-HSMPLA-WT-1KG",
     "title": "High Speed Matte PLA - White",
-    "updated_at": 1788312266500
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9193,7 +9469,7 @@
     "series": "PETG",
     "sku": "SL-N-PETG-CHOC-1KG-A",
     "title": "PETG - Chocolate",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9607,7 +9883,7 @@
     "series": "PLA+",
     "sku": "SL-PLA+-GY-1KG",
     "title": "PLA+ - Grey",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9707,7 +9983,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-GY-1KG-A",
     "title": "PLA - Grey",
-    "updated_at": 1788312549399
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9891,7 +10167,7 @@
     "series": "PLA Matte",
     "sku": "SL-N-PLAYG-GN-1KG-A",
     "title": "PLA Matte - Green",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10167,7 +10443,7 @@
     "series": "PLA Matte",
     "sku": "SL-N-PLAYG-GY-1KG-A",
     "title": "PLA Matte - Grey",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10259,7 +10535,7 @@
     "series": "PLA+",
     "sku": "SL-Y-PLAP-GRG-1KG-A",
     "title": "PLA+ - Grass Green",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10539,7 +10815,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-CBN-1KG-A",
     "title": "PLA - Coffee Brown",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10999,7 +11275,53 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-CY-1KG-A",
     "title": "PLA - Cyan",
-    "updated_at": 1788312549400
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 45,
+      "color_g": 33,
+      "color_r": 27,
+      "data1": 56,
+      "data2": 195,
+      "data3": 220,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#1B212DFF",
+    "color_info": {
+      "colors": [
+        "#1B212DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1780464643,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "name": "Dark Night Black",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-PLA+-DARKNIGHTBLACK-1000G",
+    "title": "PLA+ - Dark Night Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -11229,7 +11551,7 @@
     "series": "PLA+",
     "sku": "SL-N-PLAP-CMW-1KG-A",
     "title": "PLA+ - Ceramic White",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11321,7 +11643,7 @@
     "series": "Silk PLA",
     "sku": "SL-SILK-RC-1KG",
     "title": "Silk PLA - Red Copper",
-    "updated_at": 1788312399883
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11559,7 +11881,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-MAG-1KG-A",
     "title": "PLA - Magenta",
-    "updated_at": 1788506744256
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11651,7 +11973,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-GN-1KG-A",
     "title": "PLA - Green",
-    "updated_at": 1788312549400
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11789,7 +12111,7 @@
     "series": "PETG",
     "sku": "SL-N-PETG-GN-1KG-A",
     "title": "PETG - Green",
-    "updated_at": 1788506744256
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -12265,6 +12587,52 @@
   },
   {
     "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 10,
+      "color_r": 4,
+      "data1": 56,
+      "data2": 230,
+      "data3": 240,
+      "data4": 60,
+      "data5": 8,
+      "data6": 60,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#040A00FF",
+    "color_info": {
+      "colors": [
+        "#040A00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1986482751,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Earth Green",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-PETG-EARTHGREEN-1000G",
+    "title": "PETG - Earth Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
       "color_a": 128,
       "color_b": 229,
       "color_g": 113,
@@ -12353,7 +12721,7 @@
     "series": "PLA+",
     "sku": "SL-PLA+-BK-1KG",
     "title": "PLA+ - Black",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -12583,7 +12951,7 @@
     "series": "PLA Matte",
     "sku": "SL-Y-PLAYG-BK-1KG-A",
     "title": "PLA Matte - Black",
-    "updated_at": 1788311878714
+    "updated_at": 1794474907533
   },
   {
     "RFID_Data": {
@@ -13285,6 +13653,52 @@
   },
   {
     "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 95,
+      "color_r": 44,
+      "data1": 56,
+      "data2": 230,
+      "data3": 240,
+      "data4": 60,
+      "data5": 8,
+      "data6": 60,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#2C5F34FF",
+    "color_info": {
+      "colors": [
+        "#2C5F34FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2188254673,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Army Green",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "SL-PETG-ARMYGREEN-1000G",
+    "title": "PETG - Army Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
       "color_a": 128,
       "color_b": 229,
       "color_g": 231,
@@ -13833,7 +14247,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-GLD-1KG-A",
     "title": "PLA - Gold",
-    "updated_at": 1788312549399
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13925,7 +14339,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-KB-1KG-A",
     "title": "PLA - Klein Blue",
-    "updated_at": 1788312549399
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13971,7 +14385,7 @@
     "series": "PLA+",
     "sku": "SL-Y-PLAP-CHR-1KG-A",
     "title": "PLA+ - Cherry Red",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -14017,7 +14431,7 @@
     "series": "High Speed Matte PLA",
     "sku": "SL-HSMPLA-SB-1KG",
     "title": "High Speed Matte PLA - Sky Blue",
-    "updated_at": 1788312266500
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -14619,7 +15033,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-LP-1KG-A",
     "title": "PLA - Lavender Purple",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -14849,7 +15263,7 @@
     "series": "PLA+",
     "sku": "SL-PLA+-GN-1KG",
     "title": "PLA+ - Green",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -15321,7 +15735,7 @@
     "series": "PLA+",
     "sku": "SL-PLA+-BL-1KG",
     "title": "PLA+ - Klein Blue",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -15597,7 +16011,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-SK-1KG-A",
     "title": "PLA - Beige",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -15689,7 +16103,7 @@
     "series": "PLA+",
     "sku": "SL-PLA+-PP-1KG",
     "title": "PLA+ - Lavender Purple",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -16011,7 +16425,7 @@
     "series": "High Speed Matte PLA",
     "sku": "SL-HSMPLA-BK-1KG",
     "title": "High Speed Matte PLA - Black",
-    "updated_at": 1788312266500
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -16897,7 +17311,7 @@
     "series": "PETG",
     "sku": "SL-Y-PETG-GY-1KG-A",
     "title": "PETG - Grey",
-    "updated_at": 1788312988521
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -16989,7 +17403,7 @@
     "series": "PLA Matte",
     "sku": "SL-Y-PLAYG-CA-1KG-A",
     "title": "PLA Matte - Clay",
-    "updated_at": 1788311878715
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -17219,7 +17633,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-GN-1KG-A",
     "title": "PLA - Green",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -17311,7 +17725,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-BK-1KG-A",
     "title": "PLA - Black",
-    "updated_at": 1788312549400
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -17641,7 +18055,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-BLG-1KG-A",
     "title": "PLA - Blue Grey",
-    "updated_at": 1788506744254
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -18105,7 +18519,7 @@
     "series": "PLA+",
     "sku": "SL-N-PLAP-GRG-1KG-A",
     "title": "PLA+ - Grass Green",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -18156,6 +18570,52 @@
     "sku": "SL-SILKDC-BK+WT-1KG",
     "title": "Silk PLA+ Dual-Color - Black White",
     "updated_at": 1788312399883
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 240,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 195,
+      "data3": 220,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#FFFFF0FF",
+    "color_info": {
+      "colors": [
+        "#FFFFF0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3005899824,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "name": "Ivory White",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "SL-PLA+-IVORYWHITE-1000G",
+    "title": "PLA+ - Ivory White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -18669,7 +19129,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-SK-1KG-A",
     "title": "PLA - Beige",
-    "updated_at": 1788312549400
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -18715,7 +19175,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-CHR-1KG-A",
     "title": "PLA - Cherry Red",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -18807,7 +19267,7 @@
     "series": "PETG",
     "sku": "SL-N-PETG-GY-1KG-A",
     "title": "PETG - Grey",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -18899,7 +19359,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-GLD-1KG-A",
     "title": "PLA - Gold",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -18945,7 +19405,7 @@
     "series": "Silk PLA",
     "sku": "SL-SILK-LG-1KG",
     "title": "Silk PLA - Light Gold",
-    "updated_at": 1788312399883
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -19417,7 +19877,7 @@
     "series": "PLA Matte",
     "sku": "SL-N-PLAYG-OG-1KG-A",
     "title": "PLA Matte - Olive Green",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -19563,7 +20023,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-GRG-1KG-A",
     "title": "PLA - Grass Green",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -19839,7 +20299,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-MAG-1KG-A",
     "title": "PLA - Magenta",
-    "updated_at": 1788312549399
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -21324,6 +21784,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 67,
+      "color_g": 101,
+      "color_r": 136,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 51857,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Sunlu",
+    "color": "#886543FF",
+    "color_info": {
+      "colors": [
+        "#886543FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3513442234,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Brown",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SL-PLA-BROWN-1000G",
+    "title": "PLA - Brown",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 232,
       "color_g": 242,
       "color_r": 246,
@@ -21841,7 +22347,7 @@
     "series": "PLA+",
     "sku": "SL-Y-PLAP-LMY-1KG-A",
     "title": "PLA+ - Lemon Yellow",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -22025,7 +22531,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-BK-1KG-A",
     "title": "PLA - Black",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -22581,7 +23087,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-LMY-1KG-A",
     "title": "PLA - Lemon Yellow",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -23455,7 +23961,7 @@
     "series": "PLA Matte",
     "sku": "SL-Y-PLAYG-GN-1KG-A",
     "title": "PLA Matte - Green",
-    "updated_at": 1788311878715
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -23547,7 +24053,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-CBN-1KG-A",
     "title": "PLA - Coffee Brown",
-    "updated_at": 1788312549400
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -23639,7 +24145,7 @@
     "series": "PLA+",
     "sku": "SL-N-PLAP-LMY-1KG-A",
     "title": "PLA+ - Lemon Yellow",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -24011,7 +24517,7 @@
     "series": "Silk PLA",
     "sku": "SL-SILK-OR-1KG",
     "title": "Silk PLA - Orange",
-    "updated_at": 1788312399883
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -24103,7 +24609,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-CHR-1KG-A",
     "title": "PLA - Cherry Red",
-    "updated_at": 1788312549400
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -24149,7 +24655,7 @@
     "series": "PETG",
     "sku": "SL-Y-PETG-GN-1KG-A",
     "title": "PETG - Green",
-    "updated_at": 1788312988521
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -24241,7 +24747,7 @@
     "series": "High Speed Matte PLA",
     "sku": "SL-HSMPLA-SO-1KG",
     "title": "High Speed Matte PLA - Sunny Orange",
-    "updated_at": 1788312266500
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -24333,7 +24839,7 @@
     "series": "PLA",
     "sku": "SL-N-PLA-KB-1KG-A",
     "title": "PLA - Klein Blue",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -24901,7 +25407,7 @@
     "series": "PLA",
     "sku": "SL-Y-PLA-BLG-1KG-A",
     "title": "PLA - Blue Grey",
-    "updated_at": 1788312549399
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -25319,7 +25825,7 @@
     "series": "PLA+",
     "sku": "SL-Y-PLAP-GLD-1KG-A",
     "title": "PLA+ - Gold",
-    "updated_at": 1788313102517
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -25365,7 +25871,7 @@
     "series": "PETG",
     "sku": "SL-N-PETG-CHER-1KG-A",
     "title": "PETG - Cherry Red",
-    "updated_at": 1788506744255
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -25549,7 +26055,7 @@
     "series": "PLA Matte",
     "sku": "SL-Y-PLAYG-OG-1KG-A",
     "title": "PLA Matte - Olive Green",
-    "updated_at": 1788311878714
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {

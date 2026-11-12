@@ -2,6 +2,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 31,
+      "color_g": 66,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#F6421FFF",
+    "color_info": {
+      "colors": [
+        "#F6421FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 7958701,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Redorange (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-REDORANGE-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Redorange (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -412,6 +458,52 @@
     "sku": "PLA-MIN-CONCRETE-175-085",
     "title": "PLA Mineral - Fiberlogy PLA Mineral Concrete (0.85kg)",
     "updated_at": 1788431146795
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 133,
+      "color_g": 133,
+      "color_r": 133,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#858585FF",
+    "color_info": {
+      "colors": [
+        "#858585FF"
+      ],
+      "type": "mono"
+    },
+    "id": 218897201,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Fiberlogy Easy PLA Gray (1kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "3S-PLA.E-GRAY-100-175",
+    "title": "Easy PLA - Fiberlogy Easy PLA Gray (1kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1014,6 +1106,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 399170982,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Red (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-RED-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Red (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -1194,6 +1332,52 @@
     "sku": "MPET-PLLILAC-175-085",
     "title": "PETG Matte - Fiberlogy PETG Matte Pllilac (0.85kg)",
     "updated_at": 1788431411563
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 40,
+      "color_g": 40,
+      "color_r": 40,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 90,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#282828FF",
+    "color_info": {
+      "colors": [
+        "#282828FF"
+      ],
+      "type": "mono"
+    },
+    "id": 467616894,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Fiberlogy Easy PETG Vertigo (1kg)",
+    "product_type": "Filament",
+    "series": "Easy PETG",
+    "sku": "3S-PETG.E-VERTIGO-100-175",
+    "title": "Easy PETG - Fiberlogy Easy PETG Vertigo (1kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1658,6 +1842,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 24,
+      "color_g": 190,
+      "color_r": 133,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 80,
+      "data5": 8,
+      "data6": 85,
+      "data7": 90,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#85BE18",
+    "color_info": {
+      "colors": [
+        "#85BE18"
+      ],
+      "type": "mono"
+    },
+    "id": 582620966,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "750 g",
+    "name": "Fiberlogy Easy ABS Lgreentr (0.75kg)",
+    "product_type": "Filament",
+    "series": "Easy ABS",
+    "sku": "EABS-LGREENTR-175-075",
+    "title": "Easy ABS - Fiberlogy Easy ABS Lgreentr (0.75kg)",
+    "updated_at": 1794503576636
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -1980,6 +2210,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 151,
+      "color_g": 197,
+      "color_r": 206,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#CEC597FF",
+    "color_info": {
+      "colors": [
+        "#CEC597FF"
+      ],
+      "type": "mono"
+    },
+    "id": 643063956,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Fiberlogy Easy PLA Beige (1kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "3S-PLA.E-BEIGE-100-175",
+    "title": "Easy PLA - Fiberlogy Easy PLA Beige (1kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 59,
       "color_g": 59,
       "color_r": 59,
@@ -2164,6 +2440,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 0,
+      "color_r": 251,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#FB00FFFF",
+    "color_info": {
+      "colors": [
+        "#FB00FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 711321159,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Fiberlogy Easy PLA Pink (1kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "3S-PLA.E-PINK-100-175",
+    "title": "Easy PLA - Fiberlogy Easy PLA Pink (1kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 109,
       "color_g": 78,
       "color_r": 75,
@@ -2210,6 +2532,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 170,
+      "color_g": 220,
+      "color_r": 228,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 60,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#E4DCAAFF",
+    "color_info": {
+      "colors": [
+        "#E4DCAAFF"
+      ],
+      "type": "mono"
+    },
+    "id": 791887653,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy PLA Matte Plyellow (0.85kg)",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "3S-PLA.MAT-PLYELLOW-085-175",
+    "title": "PLA Matte - Fiberlogy PLA Matte Plyellow (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 56,
       "color_g": 56,
       "color_r": 56,
@@ -2252,6 +2620,98 @@
     "sku": "F40-GRAPHITE-175-050",
     "title": "FiberFlex 40D - Fiberlogy FiberFlex 40D Graphite (0.5kg)",
     "updated_at": 1788431292106
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 66,
+      "color_g": 93,
+      "color_r": 60,
+      "data1": 56,
+      "data2": 255,
+      "data3": 270,
+      "data4": 80,
+      "data5": 4,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#3C5D42FF",
+    "color_info": {
+      "colors": [
+        "#3C5D42FF"
+      ],
+      "type": "mono"
+    },
+    "id": 867152751,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "750 g",
+    "name": "Fiberlogy ASA Olivegreen (0.75kg)",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "ASA-OLIVEGREEN-175-075",
+    "title": "ASA - Fiberlogy ASA Olivegreen (0.75kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 75,
+      "color_g": 86,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#1A564BFF",
+    "color_info": {
+      "colors": [
+        "#1A564BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 890953884,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Aliengreen (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-ALIENGREEN-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Aliengreen (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2436,6 +2896,52 @@
     "sku": "F40-NBLUE-175-050",
     "title": "FiberFlex 40D - Fiberlogy FiberFlex 40D Nblue (0.5kg)",
     "updated_at": 1788431292106
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 154,
+      "color_g": 175,
+      "color_r": 214,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 60,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#D6AF9AFF",
+    "color_info": {
+      "colors": [
+        "#D6AF9AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1040003651,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy PLA Matte Beige (0.85kg)",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "3S-PLA.MAT-BEIGE-085-175",
+    "title": "PLA Matte - Fiberlogy PLA Matte Beige (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2665,7 +3171,7 @@
     "series": "FiberFlex 30D",
     "sku": "F30-PINK-175-085",
     "title": "FiberFlex 30D - Fiberlogy FiberFlex 30D Pink (0.85kg)",
-    "updated_at": 1788431292106
+    "updated_at": 1794500229830
   },
   {
     "RFID_Data": {
@@ -2758,6 +3264,52 @@
     "sku": "MSILK-BRONZE-175-085",
     "title": "PLA FiberSilk - Fiberlogy PLA FiberSilk Bronze (0.85kg)",
     "updated_at": 1788431146795
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#0000FFFF",
+    "color_info": {
+      "colors": [
+        "#0000FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1198049678,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Blue (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-BLUE-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Blue (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3222,6 +3774,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 163,
+      "color_g": 154,
+      "color_r": 150,
+      "data1": 56,
+      "data2": 255,
+      "data3": 270,
+      "data4": 80,
+      "data5": 4,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#969AA3FF",
+    "color_info": {
+      "colors": [
+        "#969AA3FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1545342680,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Fiberlogy ASA Inox (1kg)",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "3S-ASA-INOX-100-175",
+    "title": "ASA - Fiberlogy ASA Inox (1kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 168,
       "color_g": 95,
       "color_r": 31,
@@ -3268,6 +3866,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 100,
+      "color_g": 125,
+      "color_r": 170,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 60,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#AA7D64FF",
+    "color_info": {
+      "colors": [
+        "#AA7D64FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1575950357,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy PLA Matte Skin2 (0.85kg)",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "MPLA-SKIN2-175-085",
+    "title": "PLA Matte - Fiberlogy PLA Matte Skin2 (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 56,
       "color_g": 56,
       "color_r": 56,
@@ -3310,6 +3954,52 @@
     "sku": "ABS-GRAPHITE-175-085",
     "title": "ABS - Fiberlogy ABS Graphite (0.85kg)",
     "updated_at": 1788431562089
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 209,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 255,
+      "data3": 270,
+      "data4": 80,
+      "data5": 4,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#FFD100FF",
+    "color_info": {
+      "colors": [
+        "#FFD100FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1583615150,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Fiberlogy ASA Yellow (1kg)",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "3S-ASA-YELLOW-100-175",
+    "title": "ASA - Fiberlogy ASA Yellow (1kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3494,6 +4184,52 @@
     "sku": "3S-BVOH-NATURAL-050-175",
     "title": "BVOH - Fiberlogy BVOH Natural (0.5kg)",
     "updated_at": 1788433286182
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 4,
+      "color_g": 255,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#00FF04FF",
+    "color_info": {
+      "colors": [
+        "#00FF04FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1653556548,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Green (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-GREEN-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Green (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3820,6 +4556,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 87,
+      "color_g": 219,
+      "color_r": 183,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 90,
+      "data7": 90,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#B7DB57FF",
+    "color_info": {
+      "colors": [
+        "#B7DB57FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1849654711,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "850 g",
+    "name": "Fiberlogy PETG Matte Liggreen (0.85kg)",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "3S-PETG.MAT-LIGGREEN-085-175",
+    "title": "PETG Matte - Fiberlogy PETG Matte Liggreen (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 46,
       "color_g": 30,
       "color_r": 196,
@@ -3862,6 +4644,52 @@
     "sku": "3S-PETG.E-RED-100-175",
     "title": "Easy PETG - Fiberlogy Easy PETG Red (1kg)",
     "updated_at": 1788431411563
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 176,
+      "color_g": 161,
+      "color_r": 54,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#36A1B0FF",
+    "color_info": {
+      "colors": [
+        "#36A1B0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1911093942,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Cyan (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-CYAN-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Cyan (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4000,6 +4828,98 @@
     "sku": "3S-ABS.PLUS-BLACK-250-175",
     "title": "ABS Plus - Fiberlogy ABS Plus Black (2.5kg)",
     "updated_at": 1788431562089
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 93,
+      "color_g": 96,
+      "color_r": 94,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#5E605DFF",
+    "color_info": {
+      "colors": [
+        "#5E605DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1977570210,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Granite (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-GRANITE-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Granite (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 228,
+      "color_g": 170,
+      "color_r": 205,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 60,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#CDAAE4FF",
+    "color_info": {
+      "colors": [
+        "#CDAAE4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2004103791,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy PLA Matte Pllilac (0.85kg)",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "MPLA-PLLILAC-175-085",
+    "title": "PLA Matte - Fiberlogy PLA Matte Pllilac (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4326,6 +5246,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_g": 27,
+      "color_r": 151,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#971B2FFF",
+    "color_info": {
+      "colors": [
+        "#971B2FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2160712464,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Fiberlogy Easy PLA Burgundy (1kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "3S-PLA.E-BURGUNDY-100-175",
+    "title": "Easy PLA - Fiberlogy Easy PLA Burgundy (1kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -4598,6 +5564,98 @@
     "sku": "F40-BEIGE-175-085",
     "title": "FiberFlex 40D - Fiberlogy FiberFlex 40D Beige (0.85kg)",
     "updated_at": 1788431292106
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 12,
+      "color_g": 35,
+      "color_r": 70,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#46230CFF",
+    "color_info": {
+      "colors": [
+        "#46230CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2257938999,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Brown (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-BROWN-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Brown (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 41,
+      "color_g": 41,
+      "color_r": 41,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#292929FF",
+    "color_info": {
+      "colors": [
+        "#292929FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2264243485,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Vertigo (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-VERTIGO-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Vertigo (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5104,6 +6162,52 @@
     "sku": "PEI-9085-NATURAL-175-050",
     "title": "PEI 9085 - Fiberlogy PEI 9085 Natural (0.5kg)",
     "updated_at": 1788432679094
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 28,
+      "color_g": 26,
+      "color_r": 23,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#171A1CFF",
+    "color_info": {
+      "colors": [
+        "#171A1CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2438400553,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Onyx (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-ONYX-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Onyx (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5844,6 +6948,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 222,
+      "color_g": 155,
+      "color_r": 191,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#BF9BDEFF",
+    "color_info": {
+      "colors": [
+        "#BF9BDEFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2822395742,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Fiberlogy Easy PLA Pllilac (1kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "3S-PLA.E-PLLILAC-100-175",
+    "title": "Easy PLA - Fiberlogy Easy PLA Pllilac (1kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -6396,6 +7546,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 102,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#FF6600FF",
+    "color_info": {
+      "colors": [
+        "#FF6600FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2955762504,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Orange (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-ORANGE-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Orange (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -6442,6 +7638,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 39,
+      "color_g": 106,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#FF6A27FF",
+    "color_info": {
+      "colors": [
+        "#FF6A27FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2987108043,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Fiberlogy Easy PLA Nnorange (1kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "3S-PLA.E-NNORANGE-100-175",
+    "title": "Easy PLA - Fiberlogy Easy PLA Nnorange (1kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 208,
       "color_g": 232,
       "color_r": 184,
@@ -6484,6 +7726,52 @@
     "sku": "3S-PLA.E-PLMINT-100-175",
     "title": "Easy PLA - Fiberlogy Easy PLA Plmint (1kg)",
     "updated_at": 1788431146795
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 41,
+      "color_g": 41,
+      "color_r": 41,
+      "data1": 56,
+      "data2": 255,
+      "data3": 270,
+      "data4": 80,
+      "data5": 4,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#292929FF",
+    "color_info": {
+      "colors": [
+        "#292929FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2999860222,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Fiberlogy ASA Vertigo (1kg)",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "3S-ASA-VERTIGO-100-175",
+    "title": "ASA - Fiberlogy ASA Vertigo (1kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6718,6 +8006,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 120,
+      "color_g": 0,
+      "color_r": 22,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#160078FF",
+    "color_info": {
+      "colors": [
+        "#160078FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3041398652,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Midnightsky (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-MIDNIGHTSKY-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Midnightsky (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 46,
       "color_g": 30,
       "color_r": 123,
@@ -6943,7 +8277,7 @@
     "series": "rPLA",
     "sku": "RPLA-ANTHRACITE-175-085",
     "title": "rPLA - Fiberlogy rPLA Anthracite (0.85kg)",
-    "updated_at": 1788431146795
+    "updated_at": 1794500229830
   },
   {
     "RFID_Data": {
@@ -7178,6 +8512,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 43,
+      "color_g": 68,
+      "color_r": 214,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 80,
+      "data5": 8,
+      "data6": 85,
+      "data7": 90,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#D6442B",
+    "color_info": {
+      "colors": [
+        "#D6442B"
+      ],
+      "type": "mono"
+    },
+    "id": 3116996111,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "750 g",
+    "name": "Fiberlogy Easy ABS Orangetr (0.75kg)",
+    "product_type": "Filament",
+    "series": "Easy ABS",
+    "sku": "3S-ABS.E-ORANGETR-075-175",
+    "title": "Easy ABS - Fiberlogy Easy ABS Orangetr (0.75kg)",
+    "updated_at": 1794503582964
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 59,
       "color_g": 59,
       "color_r": 59,
@@ -7224,6 +8604,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 128,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#000080FF",
+    "color_info": {
+      "colors": [
+        "#000080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3136664995,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Fiberlogy Easy PLA Nblue (1kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "3S-PLA.E-NAVBLUE-100-175",
+    "title": "Easy PLA - Fiberlogy Easy PLA Nblue (1kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 188,
+      "color_g": 188,
+      "color_r": 187,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 90,
+      "data7": 90,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#BBBCBCFF",
+    "color_info": {
+      "colors": [
+        "#BBBCBCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3167311662,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "850 g",
+    "name": "Fiberlogy PETG Matte Gray (0.85kg)",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "3S-PETG.MAT-GRAY-085-175",
+    "title": "PETG Matte - Fiberlogy PETG Matte Gray (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 174,
       "color_g": 79,
       "color_r": 125,
@@ -7266,6 +8738,52 @@
     "sku": "3S-PLA.E-PURPLE-100-175",
     "title": "Easy PLA - Fiberlogy Easy PLA Purple (1kg)",
     "updated_at": 1788431146795
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 53,
+      "color_g": 105,
+      "color_r": 96,
+      "data1": 56,
+      "data2": 255,
+      "data3": 270,
+      "data4": 80,
+      "data5": 4,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#606935FF",
+    "color_info": {
+      "colors": [
+        "#606935FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3174566235,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Fiberlogy ASA Matte Olivegreen (1kg)",
+    "product_type": "Filament",
+    "series": "ASA Matte",
+    "sku": "3S-ASA.MAT-OLIGREEN-100-175",
+    "title": "ASA Matte - Fiberlogy ASA Matte Olivegreen (1kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7910,6 +9428,52 @@
     "sku": "PLA-IM-GRAY-175-085",
     "title": "PLA Impact - Fiberlogy PLA Impact Gray (0.85kg)",
     "updated_at": 1788431146795
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 250,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 90,
+      "data7": 90,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3361635848,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "850 g",
+    "name": "Fiberlogy PETG Matte White (0.85kg)",
+    "product_type": "Filament",
+    "series": "PETG Matte",
+    "sku": "3S-PETG.MAT-WHITE-085-175",
+    "title": "PETG Matte - Fiberlogy PETG Matte White (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8650,6 +10214,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 60,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3747847323,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy PLA Matte Black (0.85kg)",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "3S-PLA.MAT-BLACK-085-175",
+    "title": "PLA Matte - Fiberlogy PLA Matte Black (0.85kg)",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 216,
       "color_g": 234,
       "color_r": 240,
@@ -8784,6 +10394,52 @@
     "sku": "3S-PETG.E-PLBLUE-100-175",
     "title": "Easy PETG - Fiberlogy Easy PETG Plblue (1kg)",
     "updated_at": 1788431411563
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 90,
+      "color_g": 86,
+      "color_r": 83,
+      "data1": 56,
+      "data2": 255,
+      "data3": 270,
+      "data4": 80,
+      "data5": 4,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#53565AFF",
+    "color_info": {
+      "colors": [
+        "#53565AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3808634242,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Fiberlogy ASA Matte Graphite (1kg)",
+    "product_type": "Filament",
+    "series": "ASA Matte",
+    "sku": "3S-ASA.MAT-GRAPHITE-100-175",
+    "title": "ASA Matte - Fiberlogy ASA Matte Graphite (1kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9060,6 +10716,52 @@
     "sku": "3S-ASA.MAT-GRAY-100-175",
     "title": "ASA Matte - Fiberlogy ASA Matte Gray (1kg)",
     "updated_at": 1788431687771
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 242,
+      "color_g": 249,
+      "color_r": 144,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 60,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#90F9F2FF",
+    "color_info": {
+      "colors": [
+        "#90F9F2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3974912368,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy PLA Matte Plmint (0.85kg)",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "3S-PLA.MAT-PLMINT-085-175",
+    "title": "PLA Matte - Fiberlogy PLA Matte Plmint (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9750,6 +11452,52 @@
     "sku": "3S-ASA.MAT-BLACK-100-175",
     "title": "ASA Matte - Fiberlogy ASA Matte Black (1kg)",
     "updated_at": 1788431687771
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 78,
+      "color_g": 253,
+      "color_r": 131,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 8182,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 850
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Fiberlogy",
+    "color": "#83FD4EFF",
+    "color_info": {
+      "colors": [
+        "#83FD4EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4169567826,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "850 g",
+    "name": "Fiberlogy Easy PLA Lgreen (0.85kg)",
+    "product_type": "Filament",
+    "series": "Easy PLA",
+    "sku": "EASY-LGREEN-175-085",
+    "title": "Easy PLA - Fiberlogy Easy PLA Lgreen (0.85kg)",
+    "updated_at": null
   },
   {
     "RFID_Data": {

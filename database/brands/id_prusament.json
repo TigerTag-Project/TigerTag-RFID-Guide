@@ -89,7 +89,7 @@
     "series": "PLA Blend",
     "sku": "PRM-PLA-PNK-1000",
     "title": "PLA Blend - Ms. Pink",
-    "updated_at": 1792248386659
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -135,7 +135,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-MARGRE-1000",
     "title": "PLA - Marble Grey",
-    "updated_at": 1792247036854
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -181,7 +181,7 @@
     "series": "ASA",
     "sku": "PRM-ASA-LIPRED-800",
     "title": "ASA - Lipstick Red",
-    "updated_at": 1792247114671
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -319,7 +319,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-CLE-1000",
     "title": "PETG - Clear",
-    "updated_at": 1792246120755
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -411,7 +411,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-ULTBLU-1000",
     "title": "PETG - Ultramarine Blue",
-    "updated_at": 1792246539547
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -503,7 +503,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-GALBLA-1000",
     "title": "PETG - Galaxy Black",
-    "updated_at": 1792246029641
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -549,7 +549,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-GALGRE-1000",
     "title": "PLA - Galaxy Green",
-    "updated_at": 1792246945072
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -687,7 +687,7 @@
     "series": "PLA Blend",
     "sku": "PRM-PLB-MYSIL-1000",
     "title": "PLA Blend - My Silverness",
-    "updated_at": 1792247266544
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -733,7 +733,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-GALBLA-1000",
     "title": "PLA - Galaxy Black",
-    "updated_at": 1792245854573
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -779,7 +779,7 @@
     "series": "PC Blend",
     "sku": "PRM-PCB-URBGRE-900",
     "title": "PC Blend - Urban Grey",
-    "updated_at": 1792246452879
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -825,7 +825,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-PRUORA-1000",
     "title": "PETG - Prusa Orange",
-    "updated_at": 1792246021140
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -871,7 +871,7 @@
     "series": "Premium PLA",
     "sku": "PRM-PPL-MYSBRO-1000",
     "title": "Premium PLA - Mystic Brown",
-    "updated_at": 1792245948054
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -917,7 +917,53 @@
     "series": "PLA",
     "sku": "PRM-PLA-GALPUR-1000",
     "title": "PLA - Galaxy Purple",
-    "updated_at": 1792245855695
+    "updated_at": 1794494116920
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 15,
+      "color_g": 59,
+      "color_r": 77,
+      "data1": 56,
+      "data2": 195,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#4D3B0FFF",
+    "color_info": {
+      "colors": [
+        "#4D3B0FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 601402106,
+    "img_src": null,
+    "info1": false,
+    "info2": true,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Algae",
+    "product_type": "Filament",
+    "series": "rPLA",
+    "sku": "PRM-RPLA-ALGAE-1000G",
+    "title": "rPLA - Algae",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1009,7 +1055,7 @@
     "series": "ASA",
     "sku": "PRM-ASA-JETBLA-800",
     "title": "ASA - Jet Black",
-    "updated_at": 1792245938488
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -1101,7 +1147,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-AZR-1000",
     "title": "PLA - Azure Blue",
-    "updated_at": 1792248367589
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -1285,7 +1331,7 @@
     "series": "PVB",
     "sku": "PRM-PVB-SMOBLA-500",
     "title": "PVB - Smoky Black",
-    "updated_at": 1792247655972
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -1377,7 +1423,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-JGG-1000",
     "title": "PETG - Jungle Green",
-    "updated_at": 1792248395442
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -1423,7 +1469,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-PISGRE-1000",
     "title": "PLA - Pistachio Green",
-    "updated_at": 1792247413599
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -1515,7 +1561,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-OCEBLU-1000",
     "title": "PETG - Ocean Blue",
-    "updated_at": 1792248210745
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -1561,7 +1607,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-PISGRE-1000",
     "title": "PETG - Pistachio Green",
-    "updated_at": 1792247468184
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -1704,6 +1750,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 207,
+      "color_g": 207,
+      "color_r": 207,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#CFCFCFFF",
+    "color_info": {
+      "colors": [
+        "#CFCFCFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1237218715,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Natural",
+    "product_type": "Filament",
+    "series": "PETG V0",
+    "sku": "PRM-PETG-V0-NATURAL-1000G",
+    "title": "PETG V0 - Natural",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 194,
       "color_r": 58,
@@ -1745,7 +1837,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-SGR-1000",
     "title": "PLA - Simply Green",
-    "updated_at": 1792248383148
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -1975,7 +2067,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-YELGOL-1000",
     "title": "PETG - Yellow Gold",
-    "updated_at": 1792247496679
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2067,7 +2159,7 @@
     "series": "PLA Blend",
     "sku": "PRM-PLB-PEAWHI-1000",
     "title": "PLA Blend - Pearl White",
-    "updated_at": 1792246617989
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2113,7 +2205,7 @@
     "series": "ASA",
     "sku": "PRM-ASA-SAPBLU-800",
     "title": "ASA - Sapphire Blue",
-    "updated_at": 1792247186054
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2159,7 +2251,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-NEOGRE-1000",
     "title": "PETG - Neon Green",
-    "updated_at": 1792247886657
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2251,7 +2343,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-ANTGRE-1000",
     "title": "PETG - Anthracite Grey",
-    "updated_at": 1792246113974
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2297,7 +2389,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-ARMGRE-1000",
     "title": "PLA - Army Green",
-    "updated_at": 1792247493435
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2343,7 +2435,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-JET-1000",
     "title": "PETG - Jet Black",
-    "updated_at": 1792248392451
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2619,7 +2711,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-GALSIL-1000",
     "title": "PLA - Galaxy Silver",
-    "updated_at": 1792246203387
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2757,7 +2849,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-PMS-1000",
     "title": "PLA - Pearl Mouse",
-    "updated_at": 1792844509705
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2849,7 +2941,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-SGW-1000",
     "title": "PETG - Signal White",
-    "updated_at": 1792248402551
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2895,7 +2987,7 @@
     "series": "ASA",
     "sku": "PRM-ASA-NAT-800",
     "title": "ASA - Natural",
-    "updated_at": 1792247908758
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -3125,7 +3217,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-URB-1000",
     "title": "PETG - Urban Grey",
-    "updated_at": 1792248404643
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -3355,7 +3447,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-JET-1000",
     "title": "PLA - Jet Black",
-    "updated_at": 1792248367766
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -3401,7 +3493,7 @@
     "series": "PLA Blend",
     "sku": "PRM-PLB-LIMGRE-1000",
     "title": "PLA Blend - Lime Green",
-    "updated_at": 1792247544583
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -3539,7 +3631,7 @@
     "series": "PLA Blend",
     "sku": "PRM-PLA-OMG-1000",
     "title": "PLA Blend - Oh My Gold",
-    "updated_at": 1792248386750
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -3677,7 +3769,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-CHABLU-1000",
     "title": "PETG - Chalky Blue",
-    "updated_at": 1792246517369
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -3866,6 +3958,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 206,
+      "color_g": 219,
+      "color_r": 225,
+      "data1": 56,
+      "data2": 195,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#E1DBCEFF",
+    "color_info": {
+      "colors": [
+        "#E1DBCEFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3191143969,
+    "img_src": null,
+    "info1": false,
+    "info2": true,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Risotto",
+    "product_type": "Filament",
+    "series": "rPLA",
+    "sku": "PRM-RPLA-RISOTTO-1000G",
+    "title": "rPLA - Risotto",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -3953,7 +4091,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-GENGRE-1000",
     "title": "PLA - Gentleman's Grey",
-    "updated_at": 1792247015459
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -3999,7 +4137,7 @@
     "series": "PLA Blend",
     "sku": "PRM-PLB-VIVLABRO-1000",
     "title": "PLA Blend - Viva La Bronze",
-    "updated_at": 1792245851464
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -4045,7 +4183,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-OPAGRE-1000",
     "title": "PLA - Opal Green",
-    "updated_at": 1792245860678
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -4091,7 +4229,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-GRAGRE-1000",
     "title": "PLA - Gravity Grey",
-    "updated_at": 1792246248836
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -4183,7 +4321,7 @@
     "series": "Premium PLA",
     "sku": "PRM-PPL-MYSGRE-1000",
     "title": "Premium PLA - Mystic Green",
-    "updated_at": 1792245941265
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -4275,7 +4413,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-TERLIG-1000",
     "title": "PETG - Terracotta Light",
-    "updated_at": 1792247489337
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -4321,7 +4459,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-PRIWHI-1000",
     "title": "PLA - Pristine White",
-    "updated_at": 1792247992075
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -4459,7 +4597,7 @@
     "series": "PETG",
     "sku": "PRM-PETG-CARRED-1000",
     "title": "PETG - Carmine Red",
-    "updated_at": 1792246537968
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -4689,7 +4827,7 @@
     "series": "ASA",
     "sku": "PRM-ASA-GALBLA-800",
     "title": "ASA - Galaxy Black",
-    "updated_at": 1792246015890
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -4832,6 +4970,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 1,
+      "color_g": 1,
+      "color_r": 66,
+      "data1": 56,
+      "data2": 195,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#420101FF",
+    "color_info": {
+      "colors": [
+        "#420101FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3671535700,
+    "img_src": null,
+    "info1": false,
+    "info2": true,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Wine",
+    "product_type": "Filament",
+    "series": "rPLA",
+    "sku": "PRM-RPLA-WINE-1000G",
+    "title": "rPLA - Wine",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 78,
       "color_g": 143,
       "color_r": 30,
@@ -4919,7 +5103,7 @@
     "series": "PLA Blend",
     "sku": "PRM-PLA-ROB-1000",
     "title": "PLA Blend - Royal Blue",
-    "updated_at": 1792248394058
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -5011,7 +5195,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-PYL-1000",
     "title": "PLA - Pineapple Yellow",
-    "updated_at": 1792248376351
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -5057,7 +5241,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-PRO-1000",
     "title": "PLA - Prusa Orange",
-    "updated_at": 1792248376442
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -5149,7 +5333,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-GALRED-1000",
     "title": "PLA - Galaxy Red",
-    "updated_at": 1792247344377
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -5195,7 +5379,53 @@
     "series": "PLA",
     "sku": "PRM-PLA-WHT-1000",
     "title": "PLA - Vanilla White",
-    "updated_at": 1792248384360
+    "updated_at": 1794494116920
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 35,
+      "color_g": 62,
+      "color_r": 104,
+      "data1": 56,
+      "data2": 195,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#683E23FF",
+    "color_info": {
+      "colors": [
+        "#683E23FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4020342643,
+    "img_src": null,
+    "info1": false,
+    "info2": true,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Corn",
+    "product_type": "Filament",
+    "series": "rPLA",
+    "sku": "PRM-RPLA-CORN-1000G",
+    "title": "rPLA - Corn",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5425,7 +5655,7 @@
     "series": "PLA",
     "sku": "PRM-PLA-LPS-1000",
     "title": "PLA - Lipstick Red",
-    "updated_at": 1792248374555
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -5471,6 +5701,6 @@
     "series": "PETG",
     "sku": "PRM-PETG-LPS-1000",
     "title": "PETG - Lipstick Red",
-    "updated_at": 1792248395458
+    "updated_at": 1794494116920
   }
 ]

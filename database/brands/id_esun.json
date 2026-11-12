@@ -48,6 +48,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 25614339,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PETG-Lite",
+    "sku": "PETG-Lite175B1KG-EU",
+    "title": "PETG-Lite - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 28,
       "color_g": 46,
       "color_r": 188,
@@ -227,7 +273,7 @@
     "series": "PLA+",
     "sku": "PLA+175C-W1R1",
     "title": "PLA+ - COLD WHITE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -273,7 +319,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-CO1P1",
     "title": "PLA+ with spool - CORAL ORANGE",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -457,7 +503,7 @@
     "series": "PLA-Silk",
     "sku": "PLA-SK175J1R1",
     "title": "PLA-Silk - GOLD",
-    "updated_at": 1788531630828
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -503,7 +549,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175Q-U1R1",
     "title": "PLA-Basic - LIGHT BLUE",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -596,6 +642,52 @@
     "sku": "PLA+175R1P1",
     "title": "PLA+ with spool - RED",
     "updated_at": 1788530909161
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 238,
+      "color_g": 225,
+      "color_r": 206,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Clear",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#CEE1EEFF",
+    "color_info": {
+      "colors": [
+        "#CEE1EEFF"
+      ],
+      "type": "mono"
+    },
+    "id": 97184114,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Clear",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-CLEAR-1000G",
+    "title": "ABS - Clear",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -825,7 +917,53 @@
     "series": "PLA-Twinkling",
     "sku": "ETW-BLUE",
     "title": "PLA-Twinkling - Blue",
-    "updated_at": 1792273464347
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 226,
+      "color_g": 234,
+      "color_r": 236,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#ECEAE2FF",
+    "color_info": {
+      "colors": [
+        "#ECEAE2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 139591790,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Cold White",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS-P175CW1A",
+    "title": "ABS+HS - Cold White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -917,7 +1055,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-MG1P1",
     "title": "PLA+ with spool - MINT GREEN",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -963,7 +1101,7 @@
     "series": "PETG",
     "sku": "PETG175W1R1",
     "title": "PETG - WHITE",
-    "updated_at": 1788531144202
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -1009,7 +1147,7 @@
     "series": "PETG",
     "sku": "PETG175S1R1",
     "title": "PETG - SILVER",
-    "updated_at": 1788531144202
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -1055,7 +1193,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175G1R1",
     "title": "PLA-Basic - GREEN",
-    "updated_at": 1788531027922
+    "updated_at": 1794474907533
   },
   {
     "RFID_Data": {
@@ -1193,7 +1331,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175Q-C1P1",
     "title": "PLA+ with spool - LIGHT BROWN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -1239,7 +1377,53 @@
     "series": "PLA+",
     "sku": "PLA+175C-W5B1",
     "title": "PLA+ - COLD WHITE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 178,
+      "color_g": 161,
+      "color_r": 234,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#EAA1B2FF",
+    "color_info": {
+      "colors": [
+        "#EAA1B2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 249177514,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "name": "Candy Pink",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "ESUN-PLA+-CANDYPINK-1000G",
+    "title": "PLA+ - Candy Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1331,7 +1515,53 @@
     "series": "PLA+",
     "sku": "PLA+175U1R1",
     "title": "PLA+ - BLUE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 226,
+      "color_g": 226,
+      "color_r": 225,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#E1E2E2FF",
+    "color_info": {
+      "colors": [
+        "#E1E2E2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 300561106,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS-P175W1A",
+    "title": "ABS+HS - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1469,7 +1699,7 @@
     "series": "PLA+",
     "sku": "PLA+175D-U1R1",
     "title": "PLA+ - DARK BLUE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -1561,7 +1791,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175P1P1",
     "title": "PLA+ with spool - PINK",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -1607,7 +1837,7 @@
     "series": "PLA-Silk",
     "sku": "PLA-SK175S1R1",
     "title": "PLA-Silk - SILVER",
-    "updated_at": 1788531630828
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -1653,7 +1883,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-V3B1",
     "title": "PLA+ - PEAK GREEN",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -1699,7 +1929,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175B1P1",
     "title": "PLA+ with spool - BLACK",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -1837,7 +2067,53 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-FR1R1",
     "title": "PLA+ with spool - FIRE ENGINE RED",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 33,
+      "color_g": 7,
+      "color_r": 176,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#B00721FF",
+    "color_info": {
+      "colors": [
+        "#B00721FF"
+      ],
+      "type": "mono"
+    },
+    "id": 471803369,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Solid Red",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175R1P1",
+    "title": "PETG+HS - Solid Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1975,7 +2251,7 @@
     "series": "PETG",
     "sku": "PETG175H1R1",
     "title": "PETG - GREY",
-    "updated_at": 1788531144202
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2164,6 +2440,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 51,
+      "color_g": 65,
+      "color_r": 95,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#5F4133FF",
+    "color_info": {
+      "colors": [
+        "#5F4133FF"
+      ],
+      "type": "mono"
+    },
+    "id": 508555194,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Cocoa Brown",
+    "product_type": "Filament",
+    "series": "PLA-Basic",
+    "sku": "ESUN-PLA-COCOABROWN-1000G",
+    "title": "PLA-Basic - Cocoa Brown",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 159,
       "color_g": 143,
       "color_r": 136,
@@ -2297,7 +2619,7 @@
     "series": "PLA+",
     "sku": "PLA+175Q-C1R1",
     "title": "PLA+ - LIGHT BROWN",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2435,7 +2757,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175C1R1",
     "title": "PLA+ with spool - BROWN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2481,7 +2803,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175Q-K1P1",
     "title": "PLA+ with spool - LIGHT KHAKI",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2527,7 +2849,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+CMYK175O-PP1P1",
     "title": "PLA+ with spool - MAGENTA",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2803,7 +3125,53 @@
     "series": "PLA+",
     "sku": "PLA+175O-PP1R1",
     "title": "PLA+ - MAGENTA",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 168,
+      "color_g": 31,
+      "color_r": 166,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#A61FA8FF",
+    "color_info": {
+      "colors": [
+        "#A61FA8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 580707024,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Violet",
+    "product_type": "Filament",
+    "series": "PLA-Basic",
+    "sku": "ESUN-PLA-VIOLET-1000G",
+    "title": "PLA-Basic - Violet",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2849,7 +3217,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-BW5B1",
     "title": "PLA+ - BONE WHITE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2895,7 +3263,7 @@
     "series": "PLA+",
     "sku": "PLA+175J1R1",
     "title": "PLA+ - GOLD",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -2987,7 +3355,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-JMG1R1",
     "title": "PLA+ - MUSTARD GREEN",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -3217,7 +3585,7 @@
     "series": "PLA+",
     "sku": "PLA+175O5B1",
     "title": "PLA+ - ORANGE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -3268,6 +3636,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 140,
+      "color_g": 123,
+      "color_r": 120,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#787B8CFF",
+    "color_info": {
+      "colors": [
+        "#787B8CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 687099569,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Solid Grey",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175H1P1",
+    "title": "PETG+HS - Solid Grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 57,
       "color_g": 106,
       "color_r": 255,
@@ -3309,7 +3723,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-CO1R1",
     "title": "PLA+ - CORAL ORANGE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -3355,7 +3769,7 @@
     "series": "PLA-Twinkling",
     "sku": "ETW-WARM-ORANGE",
     "title": "PLA-Twinkling - Warm Orange",
-    "updated_at": 1792273627652
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -3401,7 +3815,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175U1P1",
     "title": "PLA+ with spool - BLUE",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -3447,7 +3861,7 @@
     "series": "PLA+",
     "sku": "PLA+175O1R1",
     "title": "PLA+ - ORANGE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -3494,6 +3908,98 @@
     "sku": "PLA+CMYK175W1R1",
     "title": "PLA+CMYK - WHITE",
     "updated_at": 1788532851504
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 162,
+      "color_g": 90,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 65,
+      "data5": 2,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#005AA2FF",
+    "color_info": {
+      "colors": [
+        "#005AA2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 739161129,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175U1P1",
+    "title": "PETG+HS - Blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 101,
+      "color_r": 224,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#E06500FF",
+    "color_info": {
+      "colors": [
+        "#E06500FF"
+      ],
+      "type": "mono"
+    },
+    "id": 761901831,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-ORANGE-1000G",
+    "title": "ABS - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3677,7 +4183,99 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175O-BW1R1",
     "title": "PLA-Basic - BONE WHITE",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 103,
+      "color_g": 32,
+      "color_r": 91,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#5B2067FF",
+    "color_info": {
+      "colors": [
+        "#5B2067FF"
+      ],
+      "type": "mono"
+    },
+    "id": 831796095,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "ESUN-PETG-HS-TRANSPARENTPURPLE-1000G",
+    "title": "PETG+HS - Transparent Purple",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 214,
+      "color_g": 86,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#0056D6FF",
+    "color_info": {
+      "colors": [
+        "#0056D6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 841988802,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ABS175U1P1",
+    "title": "ABS - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3861,7 +4459,53 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175MW1R1",
     "title": "PLA-Matte - MILKY WHITE",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#0000FFFF",
+    "color_info": {
+      "colors": [
+        "#0000FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 901084583,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS-P175U1A",
+    "title": "ABS+HS - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3908,6 +4552,98 @@
     "sku": "PLA+175P-U1P1",
     "title": "PLA+ with spool - RGB BLUE",
     "updated_at": 1788530909161
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 927505500,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175W1P1",
+    "title": "PETG+HS - White",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 80,
+      "data5": 8,
+      "data6": 85,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 931398959,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "ABS-FR",
+    "sku": "ABS-FR175B1P1",
+    "title": "ABS-FR - Black",
+    "updated_at": 1794503353185
   },
   {
     "RFID_Data": {
@@ -3999,7 +4735,53 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175O-FR1R1",
     "title": "PLA-Basic - FIRE ENGINE RED",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 196,
+      "color_g": 105,
+      "color_r": 77,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": null,
+      "data5": null,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#4D69C4FF",
+    "color_info": {
+      "colors": [
+        "#4D69C4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 964572207,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "PLA-Clear",
+    "sku": "PLA-Clear175T-U1P1",
+    "title": "PLA-Clear - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4045,7 +4827,7 @@
     "series": "PLA+",
     "sku": "PLA+175U5B1",
     "title": "PLA+ - BLUE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -4092,6 +4874,52 @@
     "sku": "TPU-95A175T-G1P1",
     "title": "TPU-95A - TRANSLUCENT GREEN",
     "updated_at": 1792798034299
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 228,
+      "color_g": 243,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#F5F3E4FF",
+    "color_info": {
+      "colors": [
+        "#F5F3E4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 983553840,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Natural",
+    "product_type": "Filament",
+    "series": "ABS+",
+    "sku": "ABS+175N1KG",
+    "title": "ABS+ - Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4229,7 +5057,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175P1R1",
     "title": "PLA-Basic - PINK",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -4321,7 +5149,7 @@
     "series": "PLA+",
     "sku": "PLA+175Q-U1R1",
     "title": "PLA+ - LIGHT BLUE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -4505,7 +5333,7 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175O-OG1R1",
     "title": "PLA-Matte - OLIVE GREEN",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -4551,7 +5379,53 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-BG1P1",
     "title": "PLA+ with spool - BEIGE",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 270,
+      "data4": 55,
+      "data5": 4,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1113051307,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "750 g",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "TPU-LW",
+    "sku": "TPU-LW175W075KG",
+    "title": "TPU-LW - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4644,6 +5518,52 @@
     "sku": "HIPS175W1P1",
     "title": "HIPS - WHITE",
     "updated_at": 1788533629837
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 174,
+      "color_g": 239,
+      "color_r": 191,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 55,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#BFEFAE",
+    "color_info": {
+      "colors": [
+        "#BFEFAE"
+      ],
+      "type": "mono"
+    },
+    "id": 1123710129,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "PLA-Clear",
+    "sku": "PLA-Clear175T-G1P1",
+    "title": "PLA-Clear - Green",
+    "updated_at": 1794503367797
   },
   {
     "RFID_Data": {
@@ -4781,7 +5701,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-FR5B1",
     "title": "PLA+ - FIRE ENGINE RED",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5016,6 +5936,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 30,
+      "color_g": 30,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#1E1E1EFF",
+    "color_info": {
+      "colors": [
+        "#1E1E1EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1173094304,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "Dark Grey",
+    "product_type": "Filament",
+    "series": "PETG-CF",
+    "sku": "PETG-CF-175AH1A",
+    "title": "PETG-CF - Dark Grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 137,
       "color_g": 195,
       "color_r": 0,
@@ -5057,7 +6023,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-JG1R1",
     "title": "PLA+ - JADE GREEN",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5149,7 +6115,7 @@
     "series": "PETG",
     "sku": "PETG175B1R1",
     "title": "PETG - BLACK",
-    "updated_at": 1788531144202
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5195,7 +6161,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-V1R1",
     "title": "PLA+ with spool - PEAK GREEN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5333,7 +6299,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-HU1P1",
     "title": "PLA+ with spool - HAZE BLUE",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5425,7 +6391,7 @@
     "series": "PLA+",
     "sku": "PLA+175Z3B1",
     "title": "PLA+ - PURPLE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5517,7 +6483,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-OG3B1",
     "title": "PLA+ - OLIVE GREEN",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5609,7 +6575,7 @@
     "series": "PLA+",
     "sku": "PLA+175G3B1",
     "title": "PLA+ - GREEN",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5655,7 +6621,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175H1R1",
     "title": "PLA+ with spool - GREY",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5702,6 +6668,52 @@
     "sku": "PLA+175R3B1",
     "title": "PLA+ - RED",
     "updated_at": 1788530754354
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 105,
+      "color_g": 247,
+      "color_r": 238,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#EEF769FF",
+    "color_info": {
+      "colors": [
+        "#EEF769FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1351690506,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-YELLOW-1000G",
+    "title": "ABS - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5793,7 +6805,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O1P1",
     "title": "PLA+ with spool - ORANGE",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5885,7 +6897,99 @@
     "series": "PLA+",
     "sku": "PLA+175O-BG1R1",
     "title": "PLA+ - BEIGE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 34,
+      "color_g": 153,
+      "color_r": 185,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#B99922FF",
+    "color_info": {
+      "colors": [
+        "#B99922FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1426054455,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Gold",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-GOLD-1000G",
+    "title": "ABS - Gold",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 66,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#420000FF",
+    "color_info": {
+      "colors": [
+        "#420000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1427518139,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Brown",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-BROWN-1000G",
+    "title": "ABS - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5931,7 +7035,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-FR1P1",
     "title": "PLA+ with spool - FIRE ENGINE RED",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -5977,7 +7081,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-BW3B1",
     "title": "PLA+ - BONE WHITE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6023,7 +7127,7 @@
     "series": "PETG-Basic",
     "sku": "PETG-Basic175B1R1",
     "title": "PETG-Basic - BLACK",
-    "updated_at": 1788531844424
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6161,7 +7265,7 @@
     "series": "PETG-Basic",
     "sku": "PETG-Basic175H1R1",
     "title": "PETG-Basic - GREY",
-    "updated_at": 1788531844424
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6207,7 +7311,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175Y1R1",
     "title": "PLA-Basic - YELLOW",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6253,7 +7357,7 @@
     "series": "PLA+",
     "sku": "PLA+175B5B1",
     "title": "PLA+ - BLACK",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6345,7 +7449,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-OG1P1",
     "title": "PLA+ with spool - OLIVE GREEN",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6488,6 +7592,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 96,
+      "color_g": 39,
+      "color_r": 1,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#012760FF",
+    "color_info": {
+      "colors": [
+        "#012760FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1547697528,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "Deep Blue",
+    "product_type": "Filament",
+    "series": "PETG-CF",
+    "sku": "PETG-CF-175DU1A",
+    "title": "PETG-CF - Deep Blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 168,
       "color_g": 193,
       "color_r": 209,
@@ -6529,7 +7679,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-BW1R1",
     "title": "PLA+ - BONE WHITE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6575,7 +7725,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-BW1P1",
     "title": "PLA+ with spool - BONE WHITE",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6667,7 +7817,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-PF1R1",
     "title": "PLA+ - PEACH PINK",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -6759,7 +7909,53 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-MC1R1",
     "title": "PLA+ with spool - MATCHA GREEN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 0,
+      "color_r": 98,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#6200FFFF",
+    "color_info": {
+      "colors": [
+        "#6200FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1600398452,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Blue Purple",
+    "product_type": "Filament",
+    "series": "PLA-Basic",
+    "sku": "ESUN-PLA-BLUEPURPLE-1000G",
+    "title": "PLA-Basic - Blue Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -6851,7 +8047,53 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-ZA1R1",
     "title": "PLA+ with spool - LILAC",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1627404555,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ABS175W1P1",
+    "title": "ABS - White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7127,7 +8369,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-PG1R1",
     "title": "PLA+ with spool - PINE GREEN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -7219,7 +8461,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175S1R1",
     "title": "PLA-Basic - SILVER",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -7312,6 +8554,52 @@
     "sku": "PA175T1TZ1",
     "title": "PA - clear",
     "updated_at": 1792795725083
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 239,
+      "color_g": 238,
+      "color_r": 236,
+      "data1": 56,
+      "data2": 210,
+      "data3": 270,
+      "data4": 55,
+      "data5": 4,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#ECEEEFFF",
+    "color_info": {
+      "colors": [
+        "#ECEEEFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1750990441,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "750 g",
+    "name": "GREY",
+    "product_type": "Filament",
+    "series": "TPU-LW",
+    "sku": "TPU-LW175H075KG",
+    "title": "TPU-LW - GREY",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7503,7 +8791,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175R1R1",
     "title": "PLA-Basic - RED",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -7595,7 +8883,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-MG1R1",
     "title": "PLA+ with spool - MINT GREEN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -7784,6 +9072,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 161,
+      "color_g": 161,
+      "color_r": 161,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#A1A1A1FF",
+    "color_info": {
+      "colors": [
+        "#A1A1A1FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1935100775,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS175S1P1",
+    "title": "ABS+HS - Silver",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1942065099,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ABS175B1P1",
+    "title": "ABS - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 119,
       "color_g": 173,
       "color_r": 254,
@@ -7825,7 +9205,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-AP1R1",
     "title": "PLA+ - APRICOT",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -7871,7 +9251,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175H1P1",
     "title": "PLA+ with spool - GREY",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -7917,7 +9297,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175O-GZ1R1",
     "title": "PLA-Basic - GRAPE PURPLE",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8101,7 +9481,7 @@
     "series": "PLA+",
     "sku": "PLA+175B3B1",
     "title": "PLA+ - BLACK",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8147,7 +9527,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175Q-K1R1",
     "title": "PLA+ with spool - LIGHT KHAKI",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8290,6 +9670,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 214,
+      "color_g": 212,
+      "color_r": 209,
+      "data1": 56,
+      "data2": 250,
+      "data3": 265,
+      "data4": 60,
+      "data5": 8,
+      "data6": 65,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#D1D4D6FF",
+    "color_info": {
+      "colors": [
+        "#D1D4D6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2061169793,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Plain Silver",
+    "product_type": "Filament",
+    "series": "PETG-Basic",
+    "sku": "PETG-Basic175S1P1",
+    "title": "PETG-Basic - Plain Silver",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 33,
       "color_g": 30,
       "color_r": 31,
@@ -8377,7 +9803,7 @@
     "series": "PLA+",
     "sku": "PLA+175H3B1",
     "title": "PLA+ - GREY",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8423,7 +9849,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175Q-U1P1",
     "title": "PLA+ with spool - LIGHT BLUE",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8515,7 +9941,7 @@
     "series": "PLA+",
     "sku": "PLA+175D-U3B1",
     "title": "PLA+ - DARK BLUE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8561,7 +9987,7 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175Q-K1R1",
     "title": "PLA-Matte - LIGHT KHAKI",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -8842,6 +10268,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 64,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#004000FF",
+    "color_info": {
+      "colors": [
+        "#004000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2195856659,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "Dark Green",
+    "product_type": "Filament",
+    "series": "PETG-CF",
+    "sku": "PETG-CF-175MN1A",
+    "title": "PETG-CF - Dark Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 38,
       "color_g": 236,
       "color_r": 231,
@@ -8884,6 +10356,52 @@
     "sku": "ABS+175Y1P1",
     "title": "ABS+ - YELLOW",
     "updated_at": 1788531957810
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 77,
+      "color_g": 144,
+      "color_r": 253,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 55,
+      "data5": 4,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#FD904DFF",
+    "color_info": {
+      "colors": [
+        "#FD904DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2205314483,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Solid Orange",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175O1P1",
+    "title": "PETG+HS - Solid Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8975,7 +10493,7 @@
     "series": "PLA+",
     "sku": "PLA+175H5B1",
     "title": "PLA+ - GREY",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9021,7 +10539,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175C1P1",
     "title": "PLA+ with spool - BROWN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9160,6 +10678,52 @@
     "sku": "PLA-Basic175D-U1R1",
     "title": "PLA-Basic - DARK BLUE",
     "updated_at": 1788531027922
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 53,
+      "color_g": 45,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#D22D35FF",
+    "color_info": {
+      "colors": [
+        "#D22D35FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2248263871,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Fire Engine Red",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175O-FR1P1",
+    "title": "PETG+HS - Fire Engine Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9343,7 +10907,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-JG1P1",
     "title": "PLA+ with spool - JADE GREEN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9389,7 +10953,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-PG5B1",
     "title": "PLA+ - PINE GREEN",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9527,7 +11091,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-PG1P1",
     "title": "PLA+ with spool - PINE GREEN",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9574,6 +11138,52 @@
     "sku": "PLA-SK175O-IO1R1",
     "title": "PLA-Silk - ROSE GOLD",
     "updated_at": 1788531630828
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 63,
+      "color_g": 122,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#007A3FFF",
+    "color_info": {
+      "colors": [
+        "#007A3FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2314670340,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS-P175G1A",
+    "title": "ABS+HS - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9670,6 +11280,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2321008100,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS-P175B1A",
+    "title": "ABS+HS - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 58,
       "color_g": 38,
       "color_r": 0,
@@ -9711,7 +11367,7 @@
     "series": "PLA+",
     "sku": "PLA+175D-U5B1",
     "title": "PLA+ - DARK BLUE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9757,7 +11413,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-OG1R1",
     "title": "PLA+ with spool - OLIVE GREEN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9803,7 +11459,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175Z1P1",
     "title": "PLA+ with spool - PURPLE",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9895,7 +11551,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-BP1P1",
     "title": "PLA+ with spool - BABY PINK",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -9941,7 +11597,7 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175O-PF1R1",
     "title": "PLA-Matte - PEACH PINK",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10033,7 +11689,53 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175O-HG1R1",
     "title": "PLA-Basic - HOLLY GREEN",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 187,
+      "color_g": 197,
+      "color_r": 206,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#CEC5BBFF",
+    "color_info": {
+      "colors": [
+        "#CEC5BBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2407007234,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Natural",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-NATURAL-1000G",
+    "title": "ABS - Natural",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10084,6 +11786,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2415068733,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PETG-CF",
+    "sku": "PETG-CF175B1TZ1",
+    "title": "PETG-CF - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 120,
       "color_g": 7,
       "color_r": 80,
@@ -10125,7 +11873,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175Z1R1",
     "title": "PLA+ with spool - PURPLE",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10263,7 +12011,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175O-OG1R1",
     "title": "PLA-Basic - OLIVE GREEN",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10363,7 +12111,7 @@
     "series": "PLA+",
     "sku": "PLA+175Z5B1",
     "title": "PLA+ - PURPLE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10501,7 +12249,7 @@
     "series": "PLA+",
     "sku": "PLA+175U3B1",
     "title": "PLA+ - BLUE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10547,7 +12295,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175C-W1R1",
     "title": "PLA-Basic - COLD WHITE",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10823,7 +12571,7 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175D-H1R1",
     "title": "PLA-Matte - DARK GREY",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -10870,6 +12618,144 @@
     "sku": "PETG175T-PP1R1",
     "title": "PETG - TRANSLUCENT MAGENTA",
     "updated_at": 1792799284092
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2579393657,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175B1P1",
+    "title": "PETG+HS - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 162,
+      "color_g": 70,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#FF46A2FF",
+    "color_info": {
+      "colors": [
+        "#FF46A2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2581610668,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "name": "Hot Pink",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "ESUN-PLA+-HOTPINK-1000G",
+    "title": "PLA+ - Hot Pink",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 192,
+      "color_g": 192,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#C0C0C0FF",
+    "color_info": {
+      "colors": [
+        "#C0C0C0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2593112505,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Solid Silver",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175S1P1",
+    "title": "PETG+HS - Solid Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10961,7 +12847,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-AP1P1",
     "title": "PLA+ with spool - APRICOT",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11145,7 +13031,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-HG1R1",
     "title": "PLA+ - HOLLY GREEN",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11191,7 +13077,7 @@
     "series": "PLA+",
     "sku": "PLA+175Q-U5B1",
     "title": "PLA+ - LIGHT BLUE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11237,7 +13123,53 @@
     "series": "PLA+",
     "sku": "PLA+175O-AY1R1",
     "title": "PLA+ - ALMOND YELLOW",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 31,
+      "color_g": 12,
+      "color_r": 90,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#5A0C1FFF",
+    "color_info": {
+      "colors": [
+        "#5A0C1FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2649353469,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "Black Red",
+    "product_type": "Filament",
+    "series": "PETG-CF",
+    "sku": "PETG-CF-175HR1A",
+    "title": "PETG-CF - Black Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -11421,7 +13353,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-MC1P1",
     "title": "PLA+ with spool - MATCHA GREEN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11467,7 +13399,53 @@
     "series": "PLA-Rock",
     "sku": "PLA-Rock175O-SA1P1",
     "title": "PLA-Rock - SANDSTONE",
-    "updated_at": 1788532395805
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 70,
+      "color_g": 120,
+      "color_r": 238,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#EE7846FF",
+    "color_info": {
+      "colors": [
+        "#EE7846FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2687738133,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS-P175O1A",
+    "title": "ABS+HS - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -11513,7 +13491,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-BP1R1",
     "title": "PLA+ - BABY PINK",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11559,7 +13537,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175G1P1",
     "title": "PLA+ with spool - GREEN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11605,7 +13583,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175P1R1",
     "title": "PLA+ with spool - PINK",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11652,6 +13630,52 @@
     "sku": "PETG175T-O1R1",
     "title": "PETG - TRANSLUCENT ORANGE",
     "updated_at": 1792799371401
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 102,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#FF0066FF",
+    "color_info": {
+      "colors": [
+        "#FF0066FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2739311663,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Pink",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-PINK-1000G",
+    "title": "ABS - Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -11743,7 +13767,7 @@
     "series": "PETG",
     "sku": "PETG175Y1R1",
     "title": "PETG - YELLOW",
-    "updated_at": 1788531144202
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11835,7 +13859,7 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175B1R1",
     "title": "PLA-Matte - BLACK",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11881,7 +13905,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175W1R1",
     "title": "PLA-Basic - WHITE",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -11973,7 +13997,7 @@
     "series": "PLA+",
     "sku": "PLA+175G5B1",
     "title": "PLA+ - GREEN",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -12112,6 +14136,98 @@
     "sku": "PLA-Rock175O-LR1P1",
     "title": "PLA-Rock - LIMESTONE",
     "updated_at": 1788532395805
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 87,
+      "color_g": 36,
+      "color_r": 16,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#102457FF",
+    "color_info": {
+      "colors": [
+        "#102457FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2829316854,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Blue Gray",
+    "product_type": "Filament",
+    "series": "PLA-Basic",
+    "sku": "ESUN-PLA-BLUEGRAY-1000G",
+    "title": "PLA-Basic - Blue Gray",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2844191354,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ABS175R1P1",
+    "title": "ABS - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -12254,6 +14370,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 79,
+      "color_g": 79,
+      "color_r": 79,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#4F4F4FFF",
+    "color_info": {
+      "colors": [
+        "#4F4F4FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2923116891,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS-P175H1A",
+    "title": "ABS+HS - Grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 31,
       "color_g": 103,
       "color_r": 255,
@@ -12295,7 +14457,7 @@
     "series": "PLA+",
     "sku": "PLA+175O3B1",
     "title": "PLA+ - ORANGE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -12341,7 +14503,7 @@
     "series": "PETG-Basic",
     "sku": "PETG-Basic175W1R1",
     "title": "PETG-Basic - WHITE",
-    "updated_at": 1788531844425
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -12433,7 +14595,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175J1P1",
     "title": "PLA+ with spool - GOLD",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -12525,7 +14687,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-V5B1",
     "title": "PLA+ - PEAK GREEN",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -12576,6 +14738,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 165,
+      "color_g": 177,
+      "color_r": 231,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#E7B1A5FF",
+    "color_info": {
+      "colors": [
+        "#E7B1A5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3029382401,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Skin",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-SKIN-1000G",
+    "title": "ABS - Skin",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 151,
+      "color_g": 151,
+      "color_r": 151,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#979797FF",
+    "color_info": {
+      "colors": [
+        "#979797FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3029854188,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Solid Grey",
+    "product_type": "Filament",
+    "series": "PETG-Basic",
+    "sku": "PETG-Basic175H1P1",
+    "title": "PETG-Basic - Solid Grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 53,
       "color_g": 63,
       "color_r": 23,
@@ -12617,7 +14871,7 @@
     "series": "PLA+",
     "sku": "PLA+175G1R1",
     "title": "PLA+ - GREEN",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -12663,7 +14917,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-HG1P1",
     "title": "PLA+ with spool - HOLLY GREEN",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -12985,7 +15239,7 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175O-AY1R1",
     "title": "PLA-Matte - ALMOND YELLOW",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13077,7 +15331,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-ZA1P1",
     "title": "PLA+ with spool - LILAC",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13169,7 +15423,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-PG3B1",
     "title": "PLA+ - PINE GREEN",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13215,7 +15469,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-PP1P1",
     "title": "PLA+ with spool - MAGENTA",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13261,7 +15515,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175D-U1P1",
     "title": "PLA+ with spool - DARK BLUE",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13445,7 +15699,7 @@
     "series": "PLA+",
     "sku": "PLA+175B1R1",
     "title": "PLA+ - BLACK",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13491,7 +15745,7 @@
     "series": "PLA-Silk",
     "sku": "PLA-SK175U1R1",
     "title": "PLA-Silk - BLUE",
-    "updated_at": 1788531630828
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13583,7 +15837,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175B1R1",
     "title": "PLA-Basic - BLACK",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13813,7 +16067,7 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175O-MG1R1",
     "title": "PLA-Matte - MINT GREEN",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -13860,6 +16114,98 @@
     "sku": "PLA+175P-G1P1",
     "title": "PLA+ with spool - RGB GREEN",
     "updated_at": 1788530909161
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 270,
+      "data4": 55,
+      "data5": 4,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3351593132,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "750 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "TPU-LW",
+    "sku": "TPU-LW175B075KG",
+    "title": "TPU-LW - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 36,
+      "color_g": 0,
+      "color_r": 240,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#F00024FF",
+    "color_info": {
+      "colors": [
+        "#F00024FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3352436342,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Solid Red",
+    "product_type": "Filament",
+    "series": "PETG-Lite",
+    "sku": "PETG-Lite175SR1KG-EU",
+    "title": "PETG-Lite - Solid Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -13951,7 +16297,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-PF1P1",
     "title": "PLA+ with spool - PEACH PINK",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -14043,7 +16389,53 @@
     "series": "PETG-Basic",
     "sku": "PETG-Basic175S1R1",
     "title": "PETG-Basic - SILVER",
-    "updated_at": 1788531844424
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 177,
+      "color_g": 100,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#FF64B1FF",
+    "color_info": {
+      "colors": [
+        "#FF64B1FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3436748110,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Rose",
+    "product_type": "Filament",
+    "series": "PLA-Basic",
+    "sku": "ESUN-PLA-ROSE-1000G",
+    "title": "PLA-Basic - Rose",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -14135,7 +16527,7 @@
     "series": "ABS+",
     "sku": "ABS+175B1P1",
     "title": "ABS+ - BLACK",
-    "updated_at": 1788531957810
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -14319,7 +16711,7 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175O-ZA1R1",
     "title": "PLA-Matte - LILAC",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -14458,6 +16850,52 @@
     "sku": "PETG175G1R1",
     "title": "PETG - GREEN",
     "updated_at": 1788531144202
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 33,
+      "color_g": 40,
+      "color_r": 179,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#B32821FF",
+    "color_info": {
+      "colors": [
+        "#B32821FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3534129925,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS-P175R1A",
+    "title": "ABS+HS - Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -14687,7 +17125,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175C-W1P1",
     "title": "PLA+ with spool - COLD WHITE",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -14734,6 +17172,52 @@
     "sku": "PETG175T-Z1R1",
     "title": "PETG - TRANSLUCENT PURPLE",
     "updated_at": 1792799862064
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 44,
+      "color_g": 43,
+      "color_r": 43,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#2B2B2CFF",
+    "color_info": {
+      "colors": [
+        "#2B2B2CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3616423761,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "Dark gray carbon fiber",
+    "product_type": "Filament",
+    "series": "PETG-CF",
+    "sku": "PETG-CF-175AH1KG-EU",
+    "title": "PETG-CF - Dark gray carbon fiber",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -14917,7 +17401,7 @@
     "series": "ASA+",
     "sku": "ASA+175W-W1P1",
     "title": "ASA+ - WARM WHITE",
-    "updated_at": 1788532180626
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -15055,7 +17539,7 @@
     "series": "PLA+",
     "sku": "PLA+175O-HU1R1",
     "title": "PLA+ - HAZE BLUE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -15147,7 +17631,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-V1P1",
     "title": "PLA+ with spool - PEAK GREEN",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -15377,7 +17861,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175C1R1",
     "title": "PLA-Basic - BROWN",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -15699,7 +18183,99 @@
     "series": "PLA+",
     "sku": "PLA+175O-BU1R1",
     "title": "PLA+ - BABY BLUE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 36,
+      "color_r": 61,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#3D2400FF",
+    "color_info": {
+      "colors": [
+        "#3D2400FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3922285287,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "antique brass",
+    "product_type": "Filament",
+    "series": "PETG-CF",
+    "sku": "PETG-CF-175AB1A",
+    "title": "PETG-CF - antique brass",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3926228765,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Luminous",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-LUMINOUS-1000G",
+    "title": "ABS - Luminous",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -15883,7 +18459,7 @@
     "series": "PLA-Silk",
     "sku": "PLA-SK175Z1R1",
     "title": "PLA-Silk - PURPLE",
-    "updated_at": 1788531630828
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -15934,6 +18510,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 235,
+      "color_g": 242,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 46591,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#F5F2EBFF",
+    "color_info": {
+      "colors": [
+        "#F5F2EBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3971396920,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+",
+    "measure": "1000 g",
+    "name": "Light Beige",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "PLA+175Q-BG1P1",
+    "title": "PLA+ - Light Beige",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 254,
+      "color_g": 201,
+      "color_r": 217,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 55,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Clear",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#D9C9FE",
+    "color_info": {
+      "colors": [
+        "#D9C9FE"
+      ],
+      "type": "mono"
+    },
+    "id": 3971626413,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Clear",
+    "product_type": "Filament",
+    "series": "PLA-Clear",
+    "sku": "PLA-Clear175T1P1",
+    "title": "PLA-Clear - Clear",
+    "updated_at": 1794503360351
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 213,
       "color_g": 197,
       "color_r": 119,
@@ -15975,7 +18643,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-BU1P1",
     "title": "PLA+ with spool - BABY BLUE",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -16021,7 +18689,99 @@
     "series": "PLA+",
     "sku": "PLA+175O-FR3B1",
     "title": "PLA+ - FIRE ENGINE RED",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 94,
+      "color_g": 47,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#002F5EFF",
+    "color_info": {
+      "colors": [
+        "#002F5EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3987321611,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "deep blue",
+    "product_type": "Filament",
+    "series": "PLA-Basic",
+    "sku": "ESUN-PLA-DEEPBLUE-1000G",
+    "title": "PLA-Basic - deep blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 31,
+      "color_g": 33,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#A5211FFF",
+    "color_info": {
+      "colors": [
+        "#A5211FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3993344323,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Fire Engine Red",
+    "product_type": "Filament",
+    "series": "ABS+HS",
+    "sku": "ABS+HS-P175FR1A",
+    "title": "ABS+HS - Fire Engine Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -16067,7 +18827,53 @@
     "series": "PLA+",
     "sku": "PLA+175C-W3B1",
     "title": "PLA+ - COLD WHITE",
-    "updated_at": 1788530754354
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 15,
+      "color_g": 245,
+      "color_r": 241,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#F1F50FFF",
+    "color_info": {
+      "colors": [
+        "#F1F50FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4006406472,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Solid Yellow",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175Y1P1",
+    "title": "PETG+HS - Solid Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -16251,7 +19057,7 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-JMG1P1",
     "title": "PLA+ with spool - MUSTARD GREEN",
-    "updated_at": 1788530909161
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -16298,6 +19104,52 @@
     "sku": "PLA-UVCC175UV-F1P1",
     "title": "PLA-UV Color Change - UV CHANGE FUCHSIA",
     "updated_at": 1788532501037
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 46,
+      "color_g": 46,
+      "color_r": 46,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#2E2E2EFF",
+    "color_info": {
+      "colors": [
+        "#2E2E2EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4089171826,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Gray",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ABS175H1P1",
+    "title": "ABS - Gray",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -16389,7 +19241,53 @@
     "series": "PLA+ with spool",
     "sku": "PLA+175O-AY1P1",
     "title": "PLA+ with spool - ALMOND YELLOW",
-    "updated_at": 1788530909160
+    "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 89,
+      "color_g": 138,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#008A59FF",
+    "color_info": {
+      "colors": [
+        "#008A59FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4121823106,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "PETG+HS",
+    "sku": "PETG+HS175G1P1",
+    "title": "PETG+HS - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -16757,7 +19655,7 @@
     "series": "PLA-Matte",
     "sku": "PLA-MT175Q-U1R1",
     "title": "PLA-Matte - LIGHT BLUE",
-    "updated_at": 1788531268029
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -16803,7 +19701,7 @@
     "series": "PLA+",
     "sku": "PLA+175Q-U3B1",
     "title": "PLA+ - LIGHT BLUE",
-    "updated_at": 1788530754353
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -16854,6 +19752,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 112,
+      "color_g": 112,
+      "color_r": 112,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 8,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#707070FF",
+    "color_info": {
+      "colors": [
+        "#707070FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4220731383,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "D-Grey",
+    "product_type": "Filament",
+    "series": "ABS+",
+    "sku": "ESUN-ABS+-DGREY-1000G",
+    "title": "ABS+ - D-Grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 126,
+      "color_g": 66,
+      "color_r": 88,
+      "data1": 56,
+      "data2": 230,
+      "data3": 270,
+      "data4": 60,
+      "data5": 6,
+      "data6": 95,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 47930,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "eSun",
+    "color": "#58427EFF",
+    "color_info": {
+      "colors": [
+        "#58427EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4221587115,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Purple",
+    "product_type": "Filament",
+    "series": "ABS",
+    "sku": "ESUN-ABS-PURPLE-1000G",
+    "title": "ABS - Purple",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 188,
       "color_g": 163,
       "color_r": 248,
@@ -16895,7 +19885,7 @@
     "series": "PLA-Silk",
     "sku": "PLA-SK175P1R1",
     "title": "PLA-Silk - PINK",
-    "updated_at": 1788531630828
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -16941,7 +19931,7 @@
     "series": "PLA-Basic",
     "sku": "PLA-Basic175U1R1",
     "title": "PLA-Basic - BLUE",
-    "updated_at": 1788531027922
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {
@@ -16987,7 +19977,7 @@
     "series": "ABS+",
     "sku": "ABS+175O-FR1P1",
     "title": "ABS+ - FIRE ENGINE RED",
-    "updated_at": 1788531957810
+    "updated_at": 1794474460717
   },
   {
     "RFID_Data": {

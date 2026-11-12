@@ -140,6 +140,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 66,
+      "color_g": 62,
+      "color_r": 56,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400065",
+    "brand": "Extrudr",
+    "color": "#383E42FF",
+    "color_info": {
+      "colors": [
+        "#383E42FF"
+      ],
+      "type": "mono"
+    },
+    "id": 37201522,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "anthracite",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400065",
+    "title": "PLA HS - anthracite",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 183,
       "color_g": 87,
       "color_r": 0,
@@ -182,6 +228,98 @@
     "sku": "EXT-DURAPROABS-BLUE-175-2KG",
     "title": "DuraPro ABS - blue",
     "updated_at": 1788393285180
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 7,
+      "color_g": 23,
+      "color_r": 14,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400447",
+    "brand": "Extrudr",
+    "color": "#0E1707FF",
+    "color_info": {
+      "colors": [
+        "#0E1707FF"
+      ],
+      "type": "mono"
+    },
+    "id": 65148481,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "military dark green",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400447",
+    "title": "PLA HS - military dark green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 131,
+      "color_r": 54,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043194",
+    "brand": "Extrudr",
+    "color": "#368334FF",
+    "color_info": {
+      "colors": [
+        "#368334FF"
+      ],
+      "type": "mono"
+    },
+    "id": 70458580,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "emerald green",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043194",
+    "title": "PLA NX2 MATT - emerald green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -458,6 +596,52 @@
     "sku": "EXT-GREENTECPRO-NATURE-08",
     "title": "GreenTEC Pro - Nature",
     "updated_at": 1788392851204
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 42,
+      "color_g": 53,
+      "color_r": 39,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241041442",
+    "brand": "Extrudr",
+    "color": "#27352AFF",
+    "color_info": {
+      "colors": [
+        "#27352AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 108491004,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "military dark green",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241041442",
+    "title": "PLA NX2 MATT - military dark green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1428,6 +1612,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 6,
+      "color_g": 77,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400287",
+    "brand": "Extrudr",
+    "color": "#FF4D06FF",
+    "color_info": {
+      "colors": [
+        "#FF4D06FF"
+      ],
+      "type": "mono"
+    },
+    "id": 358601013,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "neon orange",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400287",
+    "title": "PLA HS - neon orange",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 192,
       "color_g": 192,
       "color_r": 192,
@@ -2256,6 +2486,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 60,
+      "color_g": 83,
+      "color_r": 80,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043255",
+    "brand": "Extrudr",
+    "color": "#50533CFF",
+    "color_info": {
+      "colors": [
+        "#50533CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 581889157,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "military green",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043255",
+    "title": "PLA NX2 MATT - military green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 180,
+      "color_g": 210,
+      "color_r": 156,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400454",
+    "brand": "Extrudr",
+    "color": "#9CD2B4FF",
+    "color_info": {
+      "colors": [
+        "#9CD2B4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 583733141,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "pastel green",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400454",
+    "title": "PLA HS - pastel green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 43,
       "color_g": 36,
       "color_r": 227,
@@ -2992,6 +3314,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 132,
+      "color_g": 176,
+      "color_r": 208,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043439",
+    "brand": "Extrudr",
+    "color": "#D0B084FF",
+    "color_info": {
+      "colors": [
+        "#D0B084FF"
+      ],
+      "type": "mono"
+    },
+    "id": 842712620,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "military beige",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043439",
+    "title": "PLA NX2 MATT - military beige",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 255,
       "color_r": 255,
@@ -3682,6 +4050,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 132,
+      "color_g": 176,
+      "color_r": 208,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400430",
+    "brand": "Extrudr",
+    "color": "#D0B084FF",
+    "color_info": {
+      "colors": [
+        "#D0B084FF"
+      ],
+      "type": "mono"
+    },
+    "id": 965975721,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "military beige",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400430",
+    "title": "PLA HS - military beige",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -3913,6 +4327,52 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": null,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043026",
+    "brand": "Extrudr",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1026325672,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "black",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043026",
+    "title": "PLA NX2 MATT - black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
       "color_g": 102,
       "color_r": 255,
       "data1": 221,
@@ -4092,6 +4552,52 @@
     "sku": "EXT-PETG-NEONGREEN-285-11KG-3270",
     "title": "PETG - neon green",
     "updated_at": 1792798074283
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 27,
+      "color_g": 181,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400270",
+    "brand": "Extrudr",
+    "color": "#00B51BFF",
+    "color_info": {
+      "colors": [
+        "#00B51BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1095686381,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "neon green",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400270",
+    "title": "PLA HS - neon green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4413,7 +4919,7 @@
     "series": "PLA Basic CMYK",
     "sku": "EXT-PLABASICCMYK-LITHOYELLOW-10",
     "title": "PLA Basic CMYK - lithoyellow",
-    "updated_at": 1788392851204
+    "updated_at": 1794500229830
   },
   {
     "RFID_Data": {
@@ -4597,7 +5103,53 @@
     "series": "PLA Basic CMYK",
     "sku": "EXT-PLABASICCMYK-LITHOMAGENTA-10",
     "title": "PLA Basic CMYK - lithomagenta",
-    "updated_at": 1788392851204
+    "updated_at": 1794500229830
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 228,
+      "color_g": 171,
+      "color_r": 58,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043231",
+    "brand": "Extrudr",
+    "color": "#3AABE4FF",
+    "color_info": {
+      "colors": [
+        "#3AABE4FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1250275839,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "light blue",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043231",
+    "title": "PLA NX2 MATT - light blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4832,6 +5384,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 168,
+      "color_g": 179,
+      "color_r": 183,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043040",
+    "brand": "Extrudr",
+    "color": "#B7B3A8FF",
+    "color_info": {
+      "colors": [
+        "#B7B3A8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1280119778,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "grey",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043040",
+    "title": "PLA NX2 MATT - grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 240,
       "color_g": 245,
       "color_r": 245,
@@ -5058,6 +5656,52 @@
     "sku": "EXT-PLABASIC-BLACK-285-10KG",
     "title": "PLA Basic - black",
     "updated_at": 1788392851204
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 122,
+      "color_g": 123,
+      "color_r": 121,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 8,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043057",
+    "brand": "Extrudr",
+    "color": "#797B7AFF",
+    "color_info": {
+      "colors": [
+        "#797B7AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1352808820,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "metallic",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043057",
+    "title": "PLA NX2 MATT - metallic",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5563,7 +6207,7 @@
     "series": "PETG",
     "sku": "EXT-PETG-NEONRED-175-10KG-5299",
     "title": "PETG - neon red",
-    "updated_at": 1792798214579
+    "updated_at": 1794500229830
   },
   {
     "RFID_Data": {
@@ -5609,7 +6253,7 @@
     "series": "PLA Basic CMYK",
     "sku": "EXT-PLABASICCMYK-LITHOWHITE-10",
     "title": "PLA Basic CMYK - lithowhite",
-    "updated_at": 1788392851204
+    "updated_at": 1794500229830
   },
   {
     "RFID_Data": {
@@ -5840,6 +6484,52 @@
     "sku": "EXT-PETG-ANTHRACITE-175-11KG-3066",
     "title": "PETG - anthracite",
     "updated_at": 1788392492307
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 33,
+      "color_g": 45,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400263",
+    "brand": "Extrudr",
+    "color": "#FF2D21FF",
+    "color_info": {
+      "colors": [
+        "#FF2D21FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1487293564,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "hellfire red",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400263",
+    "title": "PLA HS - hellfire red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7454,6 +8144,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 42,
+      "color_g": 69,
+      "color_r": 112,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043224",
+    "brand": "Extrudr",
+    "color": "#70452AFF",
+    "color_info": {
+      "colors": [
+        "#70452AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1861030452,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "brown",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043224",
+    "title": "PLA NX2 MATT - brown",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 43,
       "color_g": 36,
       "color_r": 227,
@@ -7725,6 +8461,52 @@
     "series": "BioFusion",
     "sku": "EXT-BIOFUSION-VENOMGREEN-175",
     "title": "BioFusion - Venom Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 238,
+      "color_g": 184,
+      "color_r": 139,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400461",
+    "brand": "Extrudr",
+    "color": "#8BB8EEFF",
+    "color_info": {
+      "colors": [
+        "#8BB8EEFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1943866630,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "pastel blue",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400461",
+    "title": "PLA HS - pastel blue",
     "updated_at": null
   },
   {
@@ -8419,6 +9201,52 @@
   },
   {
     "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400300",
+    "brand": "Extrudr",
+    "color": "#FFFF00FF",
+    "color_info": {
+      "colors": [
+        "#FFFF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2085215805,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "neon yellow",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400300",
+    "title": "PLA HS - neon yellow",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
       "color_a": 38,
       "color_b": 255,
       "color_g": 255,
@@ -8462,6 +9290,52 @@
     "sku": "EXT-FLEXMEDIUM-TRANSPARENT-285-075KG",
     "title": "FLEX Medium - transparent",
     "updated_at": 1792799067074
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 83,
+      "color_g": 49,
+      "color_r": 25,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043422",
+    "brand": "Extrudr",
+    "color": "#193153FF",
+    "color_info": {
+      "colors": [
+        "#193153FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2108267573,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "blue steel",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043422",
+    "title": "PLA NX2 MATT - blue steel",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -8829,7 +9703,7 @@
     "series": "PLA Basic CMYK",
     "sku": "EXT-PLABASICCMYK-LITHOCYAN-10",
     "title": "PLA Basic CMYK - lithocyan",
-    "updated_at": 1788392851204
+    "updated_at": 1794500229830
   },
   {
     "RFID_Data": {
@@ -10122,6 +10996,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043309",
+    "brand": "Extrudr",
+    "color": "#FFFF00FF",
+    "color_info": {
+      "colors": [
+        "#FFFF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2511386989,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "neon yellow",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043309",
+    "title": "PLA NX2 MATT - neon yellow",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -10490,6 +11410,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 66,
+      "color_g": 62,
+      "color_r": 56,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043064",
+    "brand": "Extrudr",
+    "color": "#383E42FF",
+    "color_info": {
+      "colors": [
+        "#383E42FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2639029368,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "anthracite",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043064",
+    "title": "PLA NX2 MATT - anthracite",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -10716,6 +11682,52 @@
     "sku": "EXT-PETG-TRANSPARENTGREEN-285-25KG-4321",
     "title": "PETG - transparent green",
     "updated_at": 1792799387076
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 33,
+      "color_g": 45,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043262",
+    "brand": "Extrudr",
+    "color": "#FF2D21FF",
+    "color_info": {
+      "colors": [
+        "#FF2D21FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2777102576,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "hellfire red",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043262",
+    "title": "PLA NX2 MATT - hellfire red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -11084,6 +12096,52 @@
     "sku": "EXT-PETG-METALLIC-175-11KG-3059",
     "title": "PETG - metallic",
     "updated_at": 1792799444089
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400027",
+    "brand": "Extrudr",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2853745051,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "black",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400027",
+    "title": "PLA HS - black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -12008,6 +13066,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 6,
+      "color_g": 77,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043286",
+    "brand": "Extrudr",
+    "color": "#FF4D06FF",
+    "color_info": {
+      "colors": [
+        "#FF4D06FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3074024144,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "neon orange",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043286",
+    "title": "PLA NX2 MATT - neon orange",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 49,
       "color_g": 49,
       "color_r": 255,
@@ -12049,7 +13153,7 @@
     "series": "PETG",
     "sku": "EXT-PETG-NEONRED-175-11KG-3295",
     "title": "PETG - neon red",
-    "updated_at": 1792799568905
+    "updated_at": 1794500229830
   },
   {
     "RFID_Data": {
@@ -12467,6 +13571,52 @@
   },
   {
     "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043149",
+    "brand": "Extrudr",
+    "color": "#0000FFFF",
+    "color_info": {
+      "colors": [
+        "#0000FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3229342102,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "navy blue",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043149",
+    "title": "PLA NX2 MATT - navy blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
       "color_a": 38,
       "color_b": 255,
       "color_g": 255,
@@ -12602,6 +13752,52 @@
     "sku": "EXT-DURAPROPA6GF-NEONGREEN-08KG",
     "title": "DuraPro PA6 GF - neon green",
     "updated_at": 1792799660570
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 125,
+      "color_g": 43,
+      "color_r": 72,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 60,
+      "data5": 6,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "9010241043415",
+    "brand": "Extrudr",
+    "color": "#482B7DFF",
+    "color_info": {
+      "colors": [
+        "#482B7DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3259872996,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "epic purple",
+    "product_type": "Filament",
+    "series": "PLA NX2 MATT",
+    "sku": "9010241043415",
+    "title": "PLA NX2 MATT - epic purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -12791,6 +13987,52 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 0,
+      "color_g": 204,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400164",
+    "brand": "Extrudr",
+    "color": "#FFCC00FF",
+    "color_info": {
+      "colors": [
+        "#FFCC00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3331200341,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "yellow",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400164",
+    "title": "PLA HS - yellow",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
       "color_g": 0,
       "color_r": 204,
       "data1": 56,
@@ -12832,6 +14074,52 @@
     "sku": "EXT-DURAPROABS-RED-175-075KG",
     "title": "DuraPro ABS - red",
     "updated_at": 1788393285180
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 143,
+      "color_g": 136,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400201",
+    "brand": "Extrudr",
+    "color": "#21888FFF",
+    "color_info": {
+      "colors": [
+        "#21888FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3342171258,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "turquoise",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400201",
+    "title": "PLA HS - turquoise",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -14763,7 +16051,7 @@
     "series": "PETG",
     "sku": "EXT-PETG-NEONRED-175-25KG-4292",
     "title": "PETG - neon red",
-    "updated_at": 1792799985482
+    "updated_at": 1794500229830
   },
   {
     "RFID_Data": {
@@ -15090,6 +16378,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 168,
+      "color_g": 168,
+      "color_r": 166,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400089",
+    "brand": "Extrudr",
+    "color": "#A6A8A8FF",
+    "color_info": {
+      "colors": [
+        "#A6A8A8FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3932542979,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "silver",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400089",
+    "title": "PLA HS - silver",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 51,
       "color_g": 49,
       "color_r": 41,
@@ -15132,6 +16466,52 @@
     "sku": "EXT-PCTG-ANTHRACITE-25",
     "title": "PCTG - Anthracite",
     "updated_at": 1786953151188
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 25,
+      "color_g": 32,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 210,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 20,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 7674,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010241400157",
+    "brand": "Extrudr",
+    "color": "#A52019FF",
+    "color_info": {
+      "colors": [
+        "#A52019FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3947720101,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "red",
+    "product_type": "Filament",
+    "series": "PLA HS",
+    "sku": "9010241400157",
+    "title": "PLA HS - red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -15545,7 +16925,7 @@
     "series": "PETG",
     "sku": "EXT-PETG-NEONRED-285-11KG-3294",
     "title": "PETG - neon red",
-    "updated_at": 1792800104292
+    "updated_at": 1794500229830
   },
   {
     "RFID_Data": {

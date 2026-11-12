@@ -503,7 +503,7 @@
     "series": "ASA",
     "sku": "DLZ-ASA Basic-1-175-Blue-BT",
     "title": "ASA - Blue",
-    "updated_at": 1788459479260
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -692,6 +692,144 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 255,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 220,
+      "data4": 50,
+      "data5": null,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#00FF00FF",
+    "color_info": {
+      "colors": [
+        "#00FF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 450848463,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "Luminous Green",
+    "product_type": "Filament",
+    "series": "HS PLA",
+    "sku": "HSPLA-1-LUG",
+    "title": "HS PLA - Luminous Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 231,
+      "color_g": 178,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 8345,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#F5B2E7FF",
+    "color_info": {
+      "colors": [
+        "#F5B2E7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 487088625,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+ Silk",
+    "measure": "1000 g",
+    "name": "Skin",
+    "product_type": "Filament",
+    "series": "PLA Silk+",
+    "sku": "SILK-1-SK",
+    "title": "PLA Silk+ - Skin",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 125,
+      "color_g": 88,
+      "color_r": 98,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 5,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#62587DFF",
+    "color_info": {
+      "colors": [
+        "#62587DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 507800353,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "HS PETG",
+    "sku": "HSPETG-1-TP",
+    "title": "HS PETG - Transparent Purple",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 59,
       "color_g": 59,
       "color_r": 122,
@@ -876,6 +1014,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 19,
+      "color_g": 83,
+      "color_r": 35,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 5,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#235313FF",
+    "color_info": {
+      "colors": [
+        "#235313FF"
+      ],
+      "type": "mono"
+    },
+    "id": 789026633,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "HS PETG",
+    "sku": "HSPETG-1-TG",
+    "title": "HS PETG - Transparent Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 170,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 5,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#FFAA00FF",
+    "color_info": {
+      "colors": [
+        "#FFAA00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 807560229,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Metallic Gold",
+    "product_type": "Filament",
+    "series": "HS PETG",
+    "sku": "HSPETG-1-MBG",
+    "title": "HS PETG - Metallic Gold",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 232,
       "color_g": 183,
       "color_r": 111,
@@ -968,6 +1198,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 149,
+      "color_g": 135,
+      "color_r": 198,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#C68795FF",
+    "color_info": {
+      "colors": [
+        "#C68795FF"
+      ],
+      "type": "mono"
+    },
+    "id": 903557722,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Pink",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "DLZ-PLA Basic-1-175-Pink(230C)-BT",
+    "title": "PLA Basic - Pink",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 197,
       "color_g": 87,
       "color_r": 36,
@@ -1010,6 +1286,98 @@
     "sku": "PLACF-1-SB",
     "title": "PLA-CF - Sailor Blue",
     "updated_at": 1788459793864
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 50,
+      "color_g": 70,
+      "color_r": 119,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#774632FF",
+    "color_info": {
+      "colors": [
+        "#774632FF"
+      ],
+      "type": "mono"
+    },
+    "id": 912897847,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Brown",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "DLZ-PLA Basic-1-175-Brown(7587)-BT",
+    "title": "PLA Basic - Brown",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 124,
+      "color_g": 24,
+      "color_r": 97,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#61187CFF",
+    "color_info": {
+      "colors": [
+        "#61187CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 955326491,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Purple",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "DLZ-PLA Basic-1-175-Purple(51-1-7C)-BT",
+    "title": "PLA Basic - Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1424,6 +1792,52 @@
     "sku": "DLZ-HS PLA-1-175-Oliver Green(7762C)-BT",
     "title": "HS PLA - Oliver Green",
     "updated_at": 1788459250960
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 188,
+      "color_g": 230,
+      "color_r": 92,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 65,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#5CE6BCFF",
+    "color_info": {
+      "colors": [
+        "#5CE6BCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1423364872,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "Luminous Blue",
+    "product_type": "Filament",
+    "series": "HS PLA",
+    "sku": "HSPLA-1-LUB",
+    "title": "HS PLA - Luminous Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1975,7 +2389,99 @@
     "series": "ASA",
     "sku": "DLZ-US-ASA Multicolor-1-175-Burnt Titanium-BT",
     "title": "ASA - Multicolor Burnt Titanium",
-    "updated_at": 1788459479260
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 143,
+      "color_g": 143,
+      "color_r": 143,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#8F8F8FFF",
+    "color_info": {
+      "colors": [
+        "#8F8F8FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1801556424,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Gray",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "PLA-1-GY",
+    "title": "PLA Basic - Gray",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 195,
+      "data3": 230,
+      "data4": 55,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 8345,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1808836832,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+ Silk",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA Silk+",
+    "sku": "SILK-1-BL",
+    "title": "PLA Silk+ - Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2068,6 +2574,52 @@
     "sku": "DLZ-HS PLA-1-175-Cyan-BT",
     "title": "HS PLA - Cyan",
     "updated_at": 1788459250961
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 101,
+      "color_r": 189,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 50,
+      "data5": 4,
+      "data6": 45,
+      "data7": 55,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#BD6500",
+    "color_info": {
+      "colors": [
+        "#BD6500"
+      ],
+      "type": "mono"
+    },
+    "id": 1938742298,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Summer Reverie",
+    "product_type": "Filament",
+    "series": "PLA Crystal",
+    "sku": "PLA-1-CTSR",
+    "title": "PLA Crystal - Summer Reverie",
+    "updated_at": 1794503566606
   },
   {
     "RFID_Data": {
@@ -2256,6 +2808,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 100,
+      "color_g": 133,
+      "color_r": 163,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#A38564FF",
+    "color_info": {
+      "colors": [
+        "#A38564FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2135233101,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Skin",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "DLZ-PLA Basic-1-175-Skin Color-BT",
+    "title": "PLA Basic - Skin",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 53,
       "color_g": 57,
       "color_r": 229,
@@ -2343,7 +2941,7 @@
     "series": "HS PLA",
     "sku": "DLZ-HS PLA-1-175-Natural-BT",
     "title": "HS PLA - Natural",
-    "updated_at": 1788459250961
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -2389,7 +2987,7 @@
     "series": "HS PETG",
     "sku": "HSPETG-1-METALLICRED",
     "title": "HS PETG - Red",
-    "updated_at": 1788459587373
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -2757,7 +3355,53 @@
     "series": "ASA",
     "sku": "DLZ-ASA Basic-1-175-Black-BT",
     "title": "ASA - Black",
-    "updated_at": 1788459479260
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 90,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#FF5A00FF",
+    "color_info": {
+      "colors": [
+        "#FF5A00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2357804594,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "PLA-1-OR",
+    "title": "PLA Basic - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3125,7 +3769,7 @@
     "series": "HS PLA",
     "sku": "DLZ-HS PLA-1-175-White-BT",
     "title": "HS PLA - White",
-    "updated_at": 1788459250961
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -3723,7 +4367,7 @@
     "series": "HS PLA",
     "sku": "HS PLA-1-175-Aurora Red",
     "title": "HS PLA - Aurora Red",
-    "updated_at": 1788459250960
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -3774,6 +4418,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2957112335,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "PLA-1-BK",
+    "title": "PLA Basic - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -3816,6 +4506,52 @@
     "sku": "DLZ-ASA Sparkle-1-175-Sparkle Black-BT",
     "title": "ASA - Sparkle Black",
     "updated_at": 1788459479260
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 22,
+      "color_g": 154,
+      "color_r": 79,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#4F9A16FF",
+    "color_info": {
+      "colors": [
+        "#4F9A16FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2990024062,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "PLA-1-GR",
+    "title": "PLA Basic - Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3999,7 +4735,7 @@
     "series": "PLA Multicolor",
     "sku": "DLZ-PLA Multicolor-1-175-Nebula Purple-BT",
     "title": "PLA Multicolor - Nebula Purple",
-    "updated_at": 1788459904779
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -4321,7 +5057,7 @@
     "series": "PLA Multicolor",
     "sku": "DLZ-PLA Multicolor-1-175-Burnt Titanium-BT",
     "title": "PLA Multicolor - Burnt Titanium",
-    "updated_at": 1788459904779
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -4414,6 +5150,52 @@
     "sku": "HSPETG-1-METALLICSILVER",
     "title": "HS PETG - Silver",
     "updated_at": 1788459587373
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 199,
+      "color_r": 254,
+      "data1": 56,
+      "data2": 220,
+      "data3": 260,
+      "data4": 60,
+      "data5": 5,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 7649,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#FEC700FF",
+    "color_info": {
+      "colors": [
+        "#FEC700FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3288754530,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HS",
+    "measure": "1000 g",
+    "name": "Transparent Yellow",
+    "product_type": "Filament",
+    "series": "HS PETG",
+    "sku": "HSPETG-1-TY",
+    "title": "HS PETG - Transparent Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4551,7 +5333,7 @@
     "series": "HS PLA",
     "sku": "DLZ-HS PLA-1-Ruby Red",
     "title": "HS PLA - Ruby Red",
-    "updated_at": 1788459250961
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -5062,6 +5844,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 233,
+      "color_r": 125,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 50,
+      "data5": 4,
+      "data6": 45,
+      "data7": 55,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#7DE9FF",
+    "color_info": {
+      "colors": [
+        "#7DE9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3514716841,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Mermaid Tears",
+    "product_type": "Filament",
+    "series": "PLA Crystal",
+    "sku": "PLAJB-1-MT",
+    "title": "PLA Crystal - Mermaid Tears",
+    "updated_at": 1794503560024
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 60,
       "color_g": 160,
       "color_r": 60,
@@ -5154,6 +5982,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 126,
+      "color_g": 121,
+      "color_r": 113,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 8345,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#71797EFF",
+    "color_info": {
+      "colors": [
+        "#71797EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3521471441,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA+ Silk",
+    "measure": "1000 g",
+    "name": "Metal Gray",
+    "product_type": "Filament",
+    "series": "PLA Silk+",
+    "sku": "SILK-1-METALGRAY",
+    "title": "PLA Silk+ - Metal Gray",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 221,
+      "color_g": 115,
+      "color_r": 158,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#9E73DDFF",
+    "color_info": {
+      "colors": [
+        "#9E73DDFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3527644322,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "Luminous Purple",
+    "product_type": "Filament",
+    "series": "HS PLA",
+    "sku": "HSPLA-1-LUP",
+    "title": "HS PLA - Luminous Purple",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 237,
       "color_g": 237,
       "color_r": 237,
@@ -5196,6 +6116,52 @@
     "sku": "HSPETG-1-TR",
     "title": "HS PETG - Transparent",
     "updated_at": 1792799832479
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 17,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 50,
+      "data5": null,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#0011FFFF",
+    "color_info": {
+      "colors": [
+        "#0011FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3573162441,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "Aurora Blue",
+    "product_type": "Filament",
+    "series": "HS PLA",
+    "sku": "HSPLA-1-AURORABLUE",
+    "title": "HS PLA - Aurora Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -5563,7 +6529,7 @@
     "series": "PLA-CF",
     "sku": "PLACF-1-VRG",
     "title": "PLA-CF - Volcanic Rock Gray",
-    "updated_at": 1788459793864
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -6070,5 +7036,51 @@
     "sku": "DLZ-PLA Multicolor-1-175-Rose Quartz-BT",
     "title": "PLA Multicolor - Rose Quartz",
     "updated_at": 1788459904779
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 241,
+      "color_g": 238,
+      "color_r": 234,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 55,
+      "data5": 8,
+      "data6": 25,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 63340,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Flashforge",
+    "color": "#EAEEF1FF",
+    "color_info": {
+      "colors": [
+        "#EAEEF1FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4265049205,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Natural",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "DLZ-PLA Basic-1-175-Natural-BT",
+    "title": "PLA Basic - Natural",
+    "updated_at": null
   }
 ]

@@ -89,7 +89,7 @@
     "series": "Standard PLA",
     "sku": "B0101030",
     "title": "Standard PLA - Agate Gray",
-    "updated_at": 1788314002420
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -723,7 +723,7 @@
     "series": "PLA+ Filament",
     "sku": "B0101052",
     "title": "PLA+ Filament - Gray",
-    "updated_at": 1788314002420
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -1385,6 +1385,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 55,
+      "data5": 4,
+      "data6": 55,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 28940,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Eryone",
+    "color": "#0000FFFF",
+    "color_info": {
+      "colors": [
+        "#0000FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 307787570,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Gradient Ocean",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "B0490001",
+    "title": "PLA Silk - Gradient Ocean",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 79,
       "color_b2": 160,
       "color_g": 125,
@@ -1756,7 +1802,7 @@
     "series": "TPU",
     "sku": "B0107020",
     "title": "TPU - Transparent Red",
-    "updated_at": 1788314909597
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2191,7 +2237,7 @@
     "series": "PLA+ High-Speed",
     "sku": "G0102009",
     "title": "PLA+ High-Speed - Magenta",
-    "updated_at": 1788313529326
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2629,7 +2675,7 @@
     "series": "Standard PLA",
     "sku": "B0101004",
     "title": "Standard PLA - Blue",
-    "updated_at": 1788314002420
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -2883,7 +2929,7 @@
     "series": "PLA Silk",
     "sku": "B0102003",
     "title": "PLA Silk - Copper",
-    "updated_at": 1788314419510
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -3952,7 +3998,7 @@
     "series": "Standard PLA",
     "sku": "B0101238",
     "title": "Standard PLA - Mango Yellow",
-    "updated_at": 1788314002420
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -5051,7 +5097,7 @@
     "series": "PLA Matte",
     "sku": "B0101035",
     "title": "PLA Matte - Olive Green",
-    "updated_at": 1788314002420
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -5837,7 +5883,7 @@
     "series": "PLA+ Filament",
     "sku": "B0101053",
     "title": "PLA+ Filament - Red",
-    "updated_at": 1788314141292
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -6029,7 +6075,7 @@
     "series": "Standard PLA",
     "sku": "B0101031",
     "title": "Standard PLA - Signal Gray",
-    "updated_at": 1788314141292
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -6611,7 +6657,7 @@
     "series": "PETG-CF",
     "sku": "B0123006",
     "title": "PETG-CF - Grass Green",
-    "updated_at": 1788315030706
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -7242,7 +7288,7 @@
     "series": "PLA Silk Dual-Color",
     "sku": "B0102269",
     "title": "PLA Silk Dual-Color - Blue & Purple",
-    "updated_at": 1788314419510
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -7585,6 +7631,52 @@
     "sku": "B0102433",
     "title": "PLA Silk - Pale Creamy Yellow",
     "updated_at": 1788314419510
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 75,
+      "data5": 18,
+      "data6": null,
+      "data7": 60,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 28940,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Clear",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Eryone",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1608491004,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "B0107068",
+    "title": "TPU 85A - Transparent Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -7968,7 +8060,7 @@
     "series": "Standard PLA",
     "sku": "B0101006",
     "title": "Standard PLA - Red",
-    "updated_at": 1788314141292
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -8156,7 +8248,7 @@
     "series": "PLA+ Filament",
     "sku": "B0101086",
     "title": "PLA+ Filament - Army Green",
-    "updated_at": 1788314141292
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -9728,7 +9820,7 @@
     "series": "PLA Matte",
     "sku": "B0101036",
     "title": "PLA Matte - Navy Blue",
-    "updated_at": 1788314141292
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -9775,6 +9867,52 @@
     "sku": "B0101060",
     "title": "Standard PLA - Chinese Red",
     "updated_at": 1788314141292
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 201,
+      "color_g": 201,
+      "color_r": 201,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 75,
+      "data5": 18,
+      "data6": null,
+      "data7": 60,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 28940,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Clear",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Eryone",
+    "color": "#C9C9C9FF",
+    "color_info": {
+      "colors": [
+        "#C9C9C9FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2178134649,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "TPU 85A",
+    "sku": "B0107067",
+    "title": "TPU 85A - Transparent",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10070,7 +10208,7 @@
     "series": "PLA+ High-Speed",
     "sku": "G0102005",
     "title": "PLA+ High-Speed - Green",
-    "updated_at": 1788313529326
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -11049,7 +11187,7 @@
     "series": "Standard PLA",
     "sku": "B0101241",
     "title": "Standard PLA - Rose Red",
-    "updated_at": 1788313758218
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -11387,7 +11525,7 @@
     "series": "PLA Silk",
     "sku": "B0102004",
     "title": "PLA Silk - Dark Green",
-    "updated_at": 1788314279098
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -11488,6 +11626,52 @@
     "sku": "B0104003",
     "title": "PLA Galaxy Sparkly Glitter - Purple",
     "updated_at": 1788313758218
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 55,
+      "data5": 4,
+      "data6": 55,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 28940,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Eryone",
+    "color": "#0000FFFF",
+    "color_info": {
+      "colors": [
+        "#0000FFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2520738033,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Gradient Glacier",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "B0490002",
+    "title": "PLA Silk - Gradient Glacier",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -12263,7 +12447,7 @@
     "series": "PLA Matte",
     "sku": "B0112051",
     "title": "PLA Matte - ARMY GREEN",
-    "updated_at": 1788313758217
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -12985,7 +13169,7 @@
     "series": "PLA Silk",
     "sku": "B0102001",
     "title": "PLA Silk - Gold",
-    "updated_at": 1788314279097
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -13749,7 +13933,7 @@
     "series": "PLA Matte",
     "sku": "B0101034",
     "title": "PLA Matte - Gray",
-    "updated_at": 1788313758218
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -14701,7 +14885,7 @@
     "series": "PETG-CF",
     "sku": "B0122008",
     "title": "PETG-CF - Dark Gray",
-    "updated_at": 1788315030706
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -16338,7 +16522,7 @@
     "series": "Standard PLA",
     "sku": "B0101010",
     "title": "Standard PLA - Yellow",
-    "updated_at": 1788314554502
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -17437,7 +17621,7 @@
     "series": "TPU",
     "sku": "B0107006",
     "title": "TPU - Transparent Red",
-    "updated_at": 1788314909597
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -18542,7 +18726,7 @@
     "series": "Standard PLA",
     "sku": "B0101063",
     "title": "Standard PLA - Skin",
-    "updated_at": 1788314554502
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -18926,7 +19110,7 @@
     "series": "PETG-CF",
     "sku": "B0122006",
     "title": "PETG-CF - Olive Green",
-    "updated_at": 1788315030706
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {
@@ -19606,7 +19790,7 @@
     "series": "Standard PLA",
     "sku": "B0101001",
     "title": "Standard PLA - Black",
-    "updated_at": 1788314554502
+    "updated_at": 1794494116920
   },
   {
     "RFID_Data": {

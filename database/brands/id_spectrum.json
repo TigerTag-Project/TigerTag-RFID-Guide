@@ -186,6 +186,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 167,
+      "color_g": 142,
+      "color_r": 125,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": null,
+      "data5": null,
+      "data6": 35,
+      "data7": 50,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": "5907138401240",
+    "brand": "Spectrum",
+    "color": "#7D8EA7FF",
+    "color_info": {
+      "colors": [
+        "#7D8EA7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 32649807,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "The Filament PLA CF",
+    "sku": "5907138401240",
+    "title": "The Filament PLA CF - Grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 34,
       "color_g": 34,
       "color_r": 204,
@@ -1566,6 +1612,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405191",
+    "brand": "Spectrum",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 299973537,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Midnight Black",
+    "product_type": "Filament",
+    "series": "The Filament PETG",
+    "sku": "5905991405191",
+    "title": "The Filament PETG - Midnight Black",
+    "updated_at": 1794503605454
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 79,
       "color_g": 158,
       "color_r": 46,
@@ -1658,6 +1750,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 23,
+      "color_g": 229,
+      "color_r": 252,
+      "data1": 56,
+      "data2": 190,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405405",
+    "brand": "Spectrum",
+    "color": "#FCE517FF",
+    "color_info": {
+      "colors": [
+        "#FCE517FF"
+      ],
+      "type": "mono"
+    },
+    "id": 337795941,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "Tuscany Yellow",
+    "product_type": "Filament",
+    "series": "The Filament PLA HS",
+    "sku": "5905991405405",
+    "title": "The Filament PLA HS - Tuscany Yellow",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 236,
       "color_g": 233,
       "color_r": 230,
@@ -1746,6 +1884,52 @@
     "sku": "5907138400717",
     "title": "SafeGuard PLA - Dark Blue",
     "updated_at": 1788399514833
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 65,
+      "color_g": 235,
+      "color_r": 124,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907138403718",
+    "brand": "Spectrum",
+    "color": "#7CEB41",
+    "color_info": {
+      "colors": [
+        "#7CEB41"
+      ],
+      "type": "mono"
+    },
+    "id": 369265483,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "The Filament PLA Lite",
+    "sku": "5907138403718",
+    "title": "The Filament PLA Lite - Green",
+    "updated_at": 1794503599159
   },
   {
     "RFID_Data": {
@@ -2532,6 +2716,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 59,
+      "color_g": 83,
+      "color_r": 78,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": null,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "5903175653291",
+    "brand": "Spectrum",
+    "color": "#4E533BFF",
+    "color_info": {
+      "colors": [
+        "#4E533BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 502308358,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Olive Green",
+    "product_type": "Filament",
+    "series": "PET-G MATT",
+    "sku": "5903175653291",
+    "title": "PET-G MATT - Olive Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 22,
       "color_g": 209,
       "color_r": 247,
@@ -2896,6 +3126,52 @@
     "sku": "5905991400868",
     "title": "PLA SILK Rainbow - Earth Blend",
     "updated_at": 1792797894472
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 20,
+      "color_g": 34,
+      "color_r": 62,
+      "data1": 56,
+      "data2": 185,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907138400397",
+    "brand": "Spectrum",
+    "color": "#3E2214FF",
+    "color_info": {
+      "colors": [
+        "#3E2214FF"
+      ],
+      "type": "mono"
+    },
+    "id": 541739244,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Bison Brown",
+    "product_type": "Filament",
+    "series": "The Filament PLA",
+    "sku": "5907138400397",
+    "title": "The Filament PLA - Bison Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -4551,6 +4827,52 @@
     "series": "PET-G HT",
     "sku": "67bbb9e47761c",
     "title": "PET-G HT - Pure White",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405382",
+    "brand": "Spectrum",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 851517362,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "Fire Red",
+    "product_type": "Filament",
+    "series": "The Filament PLA HS",
+    "sku": "5905991405382",
+    "title": "The Filament PLA HS - Fire Red",
     "updated_at": null
   },
   {
@@ -6396,6 +6718,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 176,
+      "color_g": 202,
+      "color_r": 215,
+      "data1": 56,
+      "data2": 215,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907138400380",
+    "brand": "Spectrum",
+    "color": "#D7CAB0FF",
+    "color_info": {
+      "colors": [
+        "#D7CAB0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1269297839,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Wood Ash",
+    "product_type": "Filament",
+    "series": "The Filament PLA",
+    "sku": "5907138400380",
+    "title": "The Filament PLA - Wood Ash",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 32,
       "color_g": 30,
       "color_r": 200,
@@ -7496,6 +7864,98 @@
     "sku": "5903175654045",
     "title": "PCTG Premium - Iron Grey",
     "updated_at": 1788400723574
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 216,
+      "color_g": 113,
+      "color_r": 28,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907138403695",
+    "brand": "Spectrum",
+    "color": "#1C71D8",
+    "color_info": {
+      "colors": [
+        "#1C71D8"
+      ],
+      "type": "mono"
+    },
+    "id": 1511195393,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "The Filament PLA Lite",
+    "sku": "5907138403695",
+    "title": "The Filament PLA Lite - Blue",
+    "updated_at": 1794503592719
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 47,
+      "color_g": 56,
+      "color_r": 81,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5903175653888",
+    "brand": "Spectrum",
+    "color": "#51382FFF",
+    "color_info": {
+      "colors": [
+        "#51382FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1530255663,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Chocolate Brown",
+    "product_type": "Filament",
+    "series": "PET-G Premium",
+    "sku": "5903175653888",
+    "title": "PET-G Premium - Chocolate Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -9018,6 +9478,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405207",
+    "brand": "Spectrum",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1857391149,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Snow White",
+    "product_type": "Filament",
+    "series": "The Filament PETG",
+    "sku": "5905991405207",
+    "title": "The Filament PETG - Snow White",
+    "updated_at": 1794503309423
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 200,
       "color_g": 200,
       "color_r": 200,
@@ -9428,6 +9934,98 @@
     "sku": "5903175650634",
     "title": "ABS GP450 - Pure Green",
     "updated_at": 1788400321417
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": 60,
+      "data5": 8,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405245",
+    "brand": "Spectrum",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1942093603,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Technical Red",
+    "product_type": "Filament",
+    "series": "The Filament PETG",
+    "sku": "5905991405245",
+    "title": "The Filament PETG - Technical Red",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 123,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405412",
+    "brand": "Spectrum",
+    "color": "#FF7B00FF",
+    "color_info": {
+      "colors": [
+        "#FF7B00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1945040109,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "Pure Orange",
+    "product_type": "Filament",
+    "series": "The Filament PLA HS",
+    "sku": "5905991405412",
+    "title": "The Filament PLA HS - Pure Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -10352,6 +10950,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 162,
+      "color_g": 181,
+      "color_r": 191,
+      "data1": 56,
+      "data2": 200,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5903175650078",
+    "brand": "Spectrum",
+    "color": "#BFB5A2FF",
+    "color_info": {
+      "colors": [
+        "#BFB5A2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2164576418,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Natural",
+    "product_type": "Filament",
+    "series": "ASA 275",
+    "sku": "5903175650078",
+    "title": "ASA 275 - Natural",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 184,
       "color_g": 86,
       "color_r": 36,
@@ -10807,6 +11451,52 @@
     "series": "PLA Glitter",
     "sku": "67bbb9fb04559",
     "title": "PLA Glitter - Stardust Blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 11,
+      "color_g": 84,
+      "color_r": 254,
+      "data1": 56,
+      "data2": 215,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405160",
+    "brand": "Spectrum",
+    "color": "#FE540BFF",
+    "color_info": {
+      "colors": [
+        "#FE540BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2260057027,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Machinery Orange",
+    "product_type": "Filament",
+    "series": "The Filament PLA",
+    "sku": "5905991405160",
+    "title": "The Filament PLA - Machinery Orange",
     "updated_at": null
   },
   {
@@ -11314,6 +12004,52 @@
     "sku": "5903175654052",
     "title": "PCTG Premium - Silver Steel",
     "updated_at": 1788400723574
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 215,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405085",
+    "brand": "Spectrum",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2406992265,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Traffic White",
+    "product_type": "Filament",
+    "series": "The Filament PLA",
+    "sku": "5905991405085",
+    "title": "The Filament PLA - Traffic White",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -12974,6 +13710,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 176,
+      "color_g": 165,
+      "color_r": 79,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5903175653918",
+    "brand": "Spectrum",
+    "color": "#4FA5B0FF",
+    "color_info": {
+      "colors": [
+        "#4FA5B0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2717274801,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Turquoise Blue",
+    "product_type": "Filament",
+    "series": "PET-G Premium",
+    "sku": "5903175653918",
+    "title": "PET-G Premium - Turquoise Blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 184,
       "color_g": 86,
       "color_r": 36,
@@ -14078,6 +14860,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 150,
+      "color_g": 150,
+      "color_r": 150,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405252",
+    "brand": "Spectrum",
+    "color": "#969696",
+    "color_info": {
+      "colors": [
+        "#969696"
+      ],
+      "type": "mono"
+    },
+    "id": 2965776489,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Silver Aluminium",
+    "product_type": "Filament",
+    "series": "The Filament PETG",
+    "sku": "5905991405252",
+    "title": "The Filament PETG - Silver Aluminium",
+    "updated_at": 1794503612404
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 242,
       "color_g": 242,
       "color_r": 242,
@@ -14810,6 +15638,52 @@
     "sku": "5903175658166",
     "title": "Smart ABS - Lion Orange",
     "updated_at": 1788400321417
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": null,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "5903175653239",
+    "brand": "Spectrum",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3183881329,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Deep Black",
+    "product_type": "Filament",
+    "series": "PET-G MATT",
+    "sku": "5903175653239",
+    "title": "PET-G MATT - Deep Black",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -16608,6 +17482,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 195,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907138403732",
+    "brand": "Spectrum",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3607619339,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "The Filament PLA Lite",
+    "sku": "5907138403732",
+    "title": "The Filament PLA Lite - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 145,
       "color_g": 141,
       "color_r": 138,
@@ -16787,6 +17707,52 @@
     "series": "PET CF15",
     "sku": "67bbc23b5bc69",
     "title": "PET CF15 - Carbon",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 173,
+      "color_g": 95,
+      "color_r": 242,
+      "data1": 56,
+      "data2": 215,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405177",
+    "brand": "Spectrum",
+    "color": "#F25FADFF",
+    "color_info": {
+      "colors": [
+        "#F25FADFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3630306130,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Strawberry Pink",
+    "product_type": "Filament",
+    "series": "The Filament PLA",
+    "sku": "5905991405177",
+    "title": "The Filament PLA - Strawberry Pink",
     "updated_at": null
   },
   {
@@ -17294,6 +18260,52 @@
     "sku": "5905991400066",
     "title": "PC 275 - Traffic White",
     "updated_at": 1788401140614
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 170,
+      "color_g": 168,
+      "color_r": 167,
+      "data1": 56,
+      "data2": 215,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405108",
+    "brand": "Spectrum",
+    "color": "#A7A8AAFF",
+    "color_info": {
+      "colors": [
+        "#A7A8AAFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3683635194,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Cloud Grey",
+    "product_type": "Filament",
+    "series": "The Filament PLA",
+    "sku": "5905991405108",
+    "title": "The Filament PLA - Cloud Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -19460,6 +20472,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 14,
+      "color_g": 160,
+      "color_r": 45,
+      "data1": 56,
+      "data2": 215,
+      "data3": 215,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 50,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405146",
+    "brand": "Spectrum",
+    "color": "#2DA00EFF",
+    "color_info": {
+      "colors": [
+        "#2DA00EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4088968672,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Circuit Green",
+    "product_type": "Filament",
+    "series": "The Filament PLA",
+    "sku": "5905991405146",
+    "title": "The Filament PLA - Circuit Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 61,
       "color_g": 57,
       "color_r": 54,
@@ -19874,6 +20932,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 220,
+      "color_g": 248,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 190,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 24629,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405399",
+    "brand": "Spectrum",
+    "color": "#A5F8DCFF",
+    "color_info": {
+      "colors": [
+        "#A5F8DCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4190778494,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA High Speed",
+    "measure": "1000 g",
+    "name": "Energy Green",
+    "product_type": "Filament",
+    "series": "The Filament PLA HS",
+    "sku": "5905991405399",
+    "title": "The Filament PLA HS - Energy Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 34,
       "color_g": 34,
       "color_r": 204,
@@ -19916,6 +21020,52 @@
     "sku": "5907138400502",
     "title": "PET-G Premium - Heart Red",
     "updated_at": 1788399920010
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 204,
+      "color_g": 204,
+      "color_r": 204,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 22652,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5905991405221",
+    "brand": "Spectrum",
+    "color": "#CCCCCCFF",
+    "color_info": {
+      "colors": [
+        "#CCCCCCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 4195556410,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Cloud Grey",
+    "product_type": "Filament",
+    "series": "The Filament PETG",
+    "sku": "5905991405221",
+    "title": "The Filament PETG - Cloud Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {

@@ -2,6 +2,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 191,
+      "color_g": 221,
+      "color_r": 253,
+      "data1": 56,
+      "data2": 250,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FDDDBFFF",
+    "color_info": {
+      "colors": [
+        "#FDDDBFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 12176652,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Skin",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG025Y-1CH",
+    "title": "PETG Basic - Skin",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 55,
       "color_g": 175,
       "color_r": 212,
@@ -44,6 +90,52 @@
     "sku": "YMX0028-D",
     "title": "PLA Silk - Golden",
     "updated_at": 1788472431032
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 129,
+      "color_g": 61,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FF3D81FF",
+    "color_info": {
+      "colors": [
+        "#FF3D81FF"
+      ],
+      "type": "mono"
+    },
+    "id": 28291985,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Magenta",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "KR-PLA-BASIC-MAGENTA-1000G",
+    "title": "PLA Basic - Magenta",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -186,6 +278,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 136,
+      "color_g": 164,
+      "color_r": 149,
+      "data1": 56,
+      "data2": 250,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#95A488FF",
+    "color_info": {
+      "colors": [
+        "#95A488FF"
+      ],
+      "type": "mono"
+    },
+    "id": 123102663,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Khaki",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG034Y-1CH",
+    "title": "PETG Basic - Khaki",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 130059924,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA Carbon Fiber",
+    "sku": "HC135",
+    "title": "PLA Carbon Fiber - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 17,
       "color_g": 127,
       "color_r": 255,
@@ -228,6 +412,190 @@
     "sku": "HC287",
     "title": "PLA+ - Orange",
     "updated_at": 1788472431032
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 27,
+      "color_g": 138,
+      "color_r": 218,
+      "data1": 56,
+      "data2": 180,
+      "data3": 210,
+      "data4": 45,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#DA8A1BFF",
+    "color_info": {
+      "colors": [
+        "#DA8A1BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 200875001,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "C0414",
+    "title": "PLA Matte - Orange",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 213,
+      "color_g": 242,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FFF2D5FF",
+    "color_info": {
+      "colors": [
+        "#FFF2D5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 259790130,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Light Apricot",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "KR-PLA010Y-1CH",
+    "title": "PLA Basic - Light Apricot",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 173,
+      "color_g": 169,
+      "color_r": 170,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#AAA9ADFF",
+    "color_info": {
+      "colors": [
+        "#AAA9ADFF"
+      ],
+      "type": "mono"
+    },
+    "id": 281192216,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Metallic Silver",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG022Y-1CH",
+    "title": "PETG Basic - Metallic Silver",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 61,
+      "color_r": 86,
+      "data1": 56,
+      "data2": 215,
+      "data3": 245,
+      "data4": 65,
+      "data5": 8,
+      "data6": 20,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#563D00FF",
+    "color_info": {
+      "colors": [
+        "#563D00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 285781953,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Brown",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG037Y-1CH",
+    "title": "PETG Basic - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -370,6 +738,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 9,
+      "color_g": 64,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 180,
+      "data3": 210,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#7B4009FF",
+    "color_info": {
+      "colors": [
+        "#7B4009FF"
+      ],
+      "type": "mono"
+    },
+    "id": 430395942,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Brown",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "C0416",
+    "title": "PLA Matte - Brown",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 156,
       "color_g": 78,
       "color_r": 31,
@@ -466,6 +880,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 491813791,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Red/Black",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "KR-Silk111Y-1CH",
+    "title": "PLA Silk Dual Color - Red/Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 240,
       "color_g": 245,
       "color_r": 245,
@@ -507,7 +967,7 @@
     "series": "ABS",
     "sku": "B0978",
     "title": "ABS - White",
-    "updated_at": 1788472691173
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -599,7 +1059,99 @@
     "series": "PETG Rapid",
     "sku": "HCGS017",
     "title": "PETG Rapid - Red",
-    "updated_at": 1788472997578
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 86,
+      "color_g": 88,
+      "color_r": 85,
+      "data1": 56,
+      "data2": 210,
+      "data3": 230,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#555856FF",
+    "color_info": {
+      "colors": [
+        "#555856FF"
+      ],
+      "type": "mono"
+    },
+    "id": 541958796,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "HCGS003-D",
+    "title": "PLA High Speed - Grey",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 91,
+      "color_g": 126,
+      "color_r": 164,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#A47E5BFF",
+    "color_info": {
+      "colors": [
+        "#A47E5BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 565637348,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Brown",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "NPLA003",
+    "title": "PLA Basic - Brown",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -650,6 +1202,190 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 27,
+      "color_g": 222,
+      "color_r": 188,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#BCDE1BFF",
+    "color_info": {
+      "colors": [
+        "#BCDE1BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 608487328,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Apple Green",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "KR-PLA018Y-1CH",
+    "title": "PLA Basic - Apple Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 40,
+      "data5": 8,
+      "data6": 60,
+      "data7": 65,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 629860940,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Black Blue Purple",
+    "product_type": "Filament",
+    "series": "PLA Silk Multicolor",
+    "sku": "HC127",
+    "title": "PLA Silk Multicolor - Black Blue Purple",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 122,
+      "color_g": 122,
+      "color_r": 122,
+      "data1": 56,
+      "data2": 180,
+      "data3": 200,
+      "data4": null,
+      "data5": null,
+      "data6": 55,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#7A7A7AFF",
+    "color_info": {
+      "colors": [
+        "#7A7A7AFF"
+      ],
+      "type": "mono"
+    },
+    "id": 703539759,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "KR-PLA110Y-1CH",
+    "title": "PLA+ - Silver",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 238,
+      "color_g": 94,
+      "color_r": 243,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 40,
+      "data5": 8,
+      "data6": 60,
+      "data7": 65,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#F35EEEFF",
+    "color_info": {
+      "colors": [
+        "#F35EEEFF"
+      ],
+      "type": "mono"
+    },
+    "id": 704279943,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Pink/Gold",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "KR-Silk109Y-1CH",
+    "title": "PLA Silk Dual Color - Pink/Gold",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 122,
       "color_r": 255,
@@ -691,7 +1427,7 @@
     "series": "PETG Rapid",
     "sku": "HCGS015",
     "title": "PETG Rapid - Orange",
-    "updated_at": 1788472997578
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -737,7 +1473,7 @@
     "series": "PETG Rapid",
     "sku": "HCGS018",
     "title": "PETG Rapid - Yellow",
-    "updated_at": 1788472997578
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -788,6 +1524,144 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 35,
+      "color_g": 229,
+      "color_r": 247,
+      "data1": 56,
+      "data2": 180,
+      "data3": 210,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#F7E523FF",
+    "color_info": {
+      "colors": [
+        "#F7E523FF"
+      ],
+      "type": "mono"
+    },
+    "id": 739605609,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Rainbow",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "C0380",
+    "title": "PLA Matte - Rainbow",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 235,
+      "color_g": 206,
+      "color_r": 135,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#87CEEBFF",
+    "color_info": {
+      "colors": [
+        "#87CEEBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 772849578,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "NPLA019",
+    "title": "PLA Basic - Sky Blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 149,
+      "color_g": 138,
+      "color_r": 130,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 40,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#828A95FF",
+    "color_info": {
+      "colors": [
+        "#828A95FF"
+      ],
+      "type": "mono"
+    },
+    "id": 784620787,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "KR-SILK004Y-1CH",
+    "title": "PLA Silk - Silver",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -830,6 +1704,52 @@
     "sku": "HC104",
     "title": "PLA+ - Black",
     "updated_at": 1788472431032
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 87,
+      "color_g": 213,
+      "color_r": 230,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#E6D557FF",
+    "color_info": {
+      "colors": [
+        "#E6D557FF"
+      ],
+      "type": "mono"
+    },
+    "id": 811616653,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Gold/Silver",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "KR-Silk105Y-1CH",
+    "title": "PLA Silk Dual Color - Gold/Silver",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -972,6 +1892,144 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 214,
+      "color_g": 239,
+      "color_r": 174,
+      "data1": 56,
+      "data2": 180,
+      "data3": 210,
+      "data4": 45,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#AEEFD6FF",
+    "color_info": {
+      "colors": [
+        "#AEEFD6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 862790376,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "C0459",
+    "title": "PLA Matte - Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 48,
+      "color_g": 185,
+      "color_r": 226,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#E2B930FF",
+    "color_info": {
+      "colors": [
+        "#E2B930FF"
+      ],
+      "type": "mono"
+    },
+    "id": 917481355,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "NPETG003",
+    "title": "PETG Basic - Yellow",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 104,
+      "color_g": 133,
+      "color_r": 149,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#958568FF",
+    "color_info": {
+      "colors": [
+        "#958568FF"
+      ],
+      "type": "mono"
+    },
+    "id": 933259232,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Wood",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "KR-PLA016Y-1CH",
+    "title": "PLA Basic - Wood",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 242,
       "color_g": 242,
       "color_r": 242,
@@ -1018,6 +2076,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1053486971,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "NPETG007",
+    "title": "PETG Basic - Transparent",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 44,
       "color_g": 52,
       "color_r": 208,
@@ -1059,7 +2163,7 @@
     "series": "PLA Basic",
     "sku": "HC010-D",
     "title": "PLA Basic - Red",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -1105,7 +2209,145 @@
     "series": "PLA Basic",
     "sku": "NPLA009-D",
     "title": "PLA Basic - Purple",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 44,
+      "color_g": 44,
+      "color_r": 237,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#ED2C2CFF",
+    "color_info": {
+      "colors": [
+        "#ED2C2CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1270563053,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "NPETG001",
+    "title": "PETG Basic - Red",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 121,
+      "color_g": 12,
+      "color_r": 103,
+      "data1": 56,
+      "data2": 250,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#670C79FF",
+    "color_info": {
+      "colors": [
+        "#670C79FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1274203231,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Purple",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG024Y-1CH",
+    "title": "PETG Basic - Purple",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 147,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FF9300FF",
+    "color_info": {
+      "colors": [
+        "#FF9300FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1284177364,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "NPETG017",
+    "title": "PETG Basic - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1151,7 +2393,99 @@
     "series": "PETG Basic",
     "sku": "C0034",
     "title": "PETG Basic - White",
-    "updated_at": 1788473134779
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1371346026,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "HCGS002-D",
+    "title": "PLA High Speed - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 160,
+      "color_g": 192,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#00C0A0FF",
+    "color_info": {
+      "colors": [
+        "#00C0A0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1372087362,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "KR-PLA017Y-1CH",
+    "title": "PLA Basic - Mint Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1243,7 +2577,7 @@
     "series": "PLA Basic",
     "sku": "NPLA007-D",
     "title": "PLA Basic - Green",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -1427,7 +2761,53 @@
     "series": "PETG Basic",
     "sku": "C0389",
     "title": "PETG Basic - Black",
-    "updated_at": 1788473134779
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 231,
+      "color_g": 132,
+      "color_r": 224,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#E084E7FF",
+    "color_info": {
+      "colors": [
+        "#E084E7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1516555416,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Sakura Pink",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "KR-PLA011Y-1CH",
+    "title": "PLA Basic - Sakura Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1473,7 +2853,99 @@
     "series": "PLA Basic",
     "sku": "YMX0020-D",
     "title": "PLA Basic - Silver",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 188,
+      "color_g": 178,
+      "color_r": 164,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#A4B2BCFF",
+    "color_info": {
+      "colors": [
+        "#A4B2BCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1528034729,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "NPETG008",
+    "title": "PETG Basic - Silver",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 155,
+      "color_g": 155,
+      "color_r": 199,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#C79B9B",
+    "color_info": {
+      "colors": [
+        "#C79B9B"
+      ],
+      "type": "mono"
+    },
+    "id": 1559385165,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Pink",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG005Y-1CH",
+    "title": "PETG Basic - Transparent Pink",
+    "updated_at": 1794503549132
   },
   {
     "RFID_Data": {
@@ -1574,6 +3046,144 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 136,
+      "color_g": 164,
+      "color_r": 2,
+      "data1": 56,
+      "data2": 250,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#02A488FF",
+    "color_info": {
+      "colors": [
+        "#02A488FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1716451908,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG001Y-1CH",
+    "title": "PETG Basic - Mint Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 115,
+      "color_g": 169,
+      "color_r": 25,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#19A973FF",
+    "color_info": {
+      "colors": [
+        "#19A973FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1775611080,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "NPETG018",
+    "title": "PETG Basic - Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 41,
+      "color_g": 80,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 40,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#C05029FF",
+    "color_info": {
+      "colors": [
+        "#C05029FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1783236028,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Copper",
+    "product_type": "Filament",
+    "series": "PLA Silk",
+    "sku": "KR-SILK005Y-1CH",
+    "title": "PLA Silk - Copper",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 43,
       "color_g": 90,
       "color_r": 139,
@@ -1615,7 +3225,53 @@
     "series": "PETG Rapid",
     "sku": "HCGS023",
     "title": "PETG Rapid - Brown",
-    "updated_at": 1788472997578
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 75,
+      "color_g": 219,
+      "color_r": 222,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 65,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#DEDB4BFF",
+    "color_info": {
+      "colors": [
+        "#DEDB4BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1816348816,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "C0417",
+    "title": "PLA Matte - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1661,7 +3317,7 @@
     "series": "PETG Rapid",
     "sku": "HCGS021",
     "title": "PETG Rapid - Green",
-    "updated_at": 1788472997578
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -1712,6 +3368,144 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 3,
+      "color_g": 50,
+      "color_r": 35,
+      "data1": 56,
+      "data2": 250,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#233203FF",
+    "color_info": {
+      "colors": [
+        "#233203FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1871028240,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Dark Green",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG014Y-1CH",
+    "title": "PETG Basic - Dark Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FFFF00FF",
+    "color_info": {
+      "colors": [
+        "#FFFF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2002608709,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Yellow/Green",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "KR-Silk106Y-1CH",
+    "title": "PLA Silk Dual Color - Yellow/Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2006844145,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PETG Carbon Fiber",
+    "sku": "KR-PETG902Y-1CH",
+    "title": "PETG Carbon Fiber - Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 128,
       "color_g": 128,
       "color_r": 128,
@@ -1753,7 +3547,99 @@
     "series": "PETG Rapid",
     "sku": "HCGS019",
     "title": "PETG Rapid - Gray",
-    "updated_at": 1788472997578
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 166,
+      "color_g": 218,
+      "color_r": 226,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#E2DAA6FF",
+    "color_info": {
+      "colors": [
+        "#E2DAA6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2094565756,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Gold",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "NPLA013",
+    "title": "PLA Basic - Gold",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2133435818,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Red Green Blue",
+    "product_type": "Filament",
+    "series": "PLA Silk Multicolor",
+    "sku": "KR-SILK202Y-1CH",
+    "title": "PLA Silk Multicolor - Red Green Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1845,7 +3731,53 @@
     "series": "PLA Basic",
     "sku": "HC008",
     "title": "PLA Basic - Orange",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 239,
+      "color_g": 196,
+      "color_r": 69,
+      "data1": 56,
+      "data2": 250,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#45C4EFFF",
+    "color_info": {
+      "colors": [
+        "#45C4EFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2255109208,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Sky Blue",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG013Y-1CH",
+    "title": "PETG Basic - Sky Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1988,6 +3920,144 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 132,
+      "color_g": 187,
+      "color_r": 237,
+      "data1": 56,
+      "data2": 180,
+      "data3": 210,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#EDBB84FF",
+    "color_info": {
+      "colors": [
+        "#EDBB84FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2721623925,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Skin",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "HC316",
+    "title": "PLA Matte - Skin",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FFFFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2731918838,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "PLA High Speed",
+    "sku": "HCGS001-D",
+    "title": "PLA High Speed - White",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 181,
+      "color_g": 83,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#2153B5FF",
+    "color_info": {
+      "colors": [
+        "#2153B5FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2742110368,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "NPETG019",
+    "title": "PETG Basic - Blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 44,
       "color_g": 52,
       "color_r": 208,
@@ -2029,7 +4099,7 @@
     "series": "PLA+",
     "sku": "HC107",
     "title": "PLA+ - Red",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -2121,7 +4191,7 @@
     "series": "PLA Basic",
     "sku": "NPLA004",
     "title": "PLA Basic - Gray",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -2214,6 +4284,52 @@
     "sku": "DLZ021-D-11",
     "title": "ABS - Pink",
     "updated_at": 1788472691173
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3005273281,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Red/Blue",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "KR-Silk104Y-1CH",
+    "title": "PLA Silk Dual Color - Red/Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2397,7 +4513,53 @@
     "series": "PLA Basic",
     "sku": "HC014",
     "title": "PLA Basic - Skin",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 82,
+      "color_g": 165,
+      "color_r": 240,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#F0A552FF",
+    "color_info": {
+      "colors": [
+        "#F0A552FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3128941989,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Gold/Purple",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "KR-Silk107Y-1CH",
+    "title": "PLA Silk Dual Color - Gold/Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2443,7 +4605,7 @@
     "series": "PLA Basic",
     "sku": "HC005-D",
     "title": "PLA Basic - Yellow",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -2489,7 +4651,99 @@
     "series": "PLA Silk",
     "sku": "KR-SILK-RED",
     "title": "PLA Silk - Red",
-    "updated_at": 1788472845567
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 38,
+      "color_g": 147,
+      "color_r": 2,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#029326",
+    "color_info": {
+      "colors": [
+        "#029326"
+      ],
+      "type": "mono"
+    },
+    "id": 3148634351,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG004Y-1CH",
+    "title": "PETG Basic - Transparent Green",
+    "updated_at": 1794503542416
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 214,
+      "color_g": 86,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#0056D6FF",
+    "color_info": {
+      "colors": [
+        "#0056D6FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3149326212,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "PLA+",
+    "sku": "KR-PLA104Y-1CH",
+    "title": "PLA+ - Blue",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2535,7 +4789,7 @@
     "series": "PLA Basic",
     "sku": "KR-PLA-TRANSPARENT",
     "title": "PLA Basic - Transparent",
-    "updated_at": 1792799621901
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -2627,7 +4881,7 @@
     "series": "PLA Basic",
     "sku": "C0114",
     "title": "PLA Basic - Black",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -2678,6 +4932,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 208,
+      "color_g": 224,
+      "color_r": 64,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#40E0D0FF",
+    "color_info": {
+      "colors": [
+        "#40E0D0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3343264074,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Turquoise Green",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "KR-PLA020Y-1CH",
+    "title": "PLA Basic - Turquoise Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 240,
       "color_g": 245,
       "color_r": 245,
@@ -2720,6 +5020,190 @@
     "sku": "YMX0188-D",
     "title": "Nylon PA - White",
     "updated_at": 1788473261248
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 176,
+      "color_g": 178,
+      "color_r": 226,
+      "data1": 56,
+      "data2": 250,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#E2B2B0FF",
+    "color_info": {
+      "colors": [
+        "#E2B2B0FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3410121400,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Pink",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "NPETG004",
+    "title": "PETG Basic - Pink",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#000000FF",
+    "color_info": {
+      "colors": [
+        "#000000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3474121071,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Green/Black",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "KR-Silk110Y-1CH",
+    "title": "PLA Silk Dual Color - Green/Black",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 193,
+      "color_g": 195,
+      "color_r": 200,
+      "data1": 56,
+      "data2": 250,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#C8C3C1FF",
+    "color_info": {
+      "colors": [
+        "#C8C3C1FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3646435133,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Light Apricot",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "KR-PETG006Y-1CH",
+    "title": "PETG Basic - Light Apricot",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 183,
+      "color_g": 54,
+      "color_r": 141,
+      "data1": 56,
+      "data2": 200,
+      "data3": 220,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 252,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Bicolor",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#8D36B7FF",
+    "color_info": {
+      "colors": [
+        "#8D36B7FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3686600144,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Blue/Purple",
+    "product_type": "Filament",
+    "series": "PLA Silk Dual Color",
+    "sku": "KR-Silk108Y-1CH",
+    "title": "PLA Silk Dual Color - Blue/Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2811,7 +5295,7 @@
     "series": "ABS",
     "sku": "B0977",
     "title": "ABS - Black",
-    "updated_at": 1788472691173
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -2857,7 +5341,99 @@
     "series": "PETG Basic",
     "sku": "C0391",
     "title": "PETG Basic - Gray",
-    "updated_at": 1788473134779
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 124,
+      "color_g": 66,
+      "color_r": 121,
+      "data1": 56,
+      "data2": 190,
+      "data3": 230,
+      "data4": 40,
+      "data5": 4,
+      "data6": 60,
+      "data7": 65,
+      "id_aspect1": 145,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 10602,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Rainbow",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#79427CFF",
+    "color_info": {
+      "colors": [
+        "#79427CFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3776264388,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA Silk",
+    "measure": "1000 g",
+    "name": "Rainbow Universe",
+    "product_type": "Filament",
+    "series": "PLA Silk Rainbow",
+    "sku": "B01891",
+    "title": "PLA Silk Rainbow - Rainbow Universe",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 39,
+      "color_g": 53,
+      "color_r": 78,
+      "data1": 56,
+      "data2": 250,
+      "data3": 250,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#4E3527FF",
+    "color_info": {
+      "colors": [
+        "#4E3527FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3820212864,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Metallic Copper",
+    "product_type": "Filament",
+    "series": "PETG Basic",
+    "sku": "NPETG009",
+    "title": "PETG Basic - Metallic Copper",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2903,7 +5479,7 @@
     "series": "PETG Rapid",
     "sku": "HCGS016",
     "title": "PETG Rapid - Black",
-    "updated_at": 1788472997578
+    "updated_at": 1794497507898
   },
   {
     "RFID_Data": {
@@ -2949,7 +5525,145 @@
     "series": "PLA Basic",
     "sku": "NPLA001",
     "title": "PLA Basic - White",
-    "updated_at": 1788472431032
+    "updated_at": 1794497507898
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 11,
+      "color_g": 11,
+      "color_r": 249,
+      "data1": 56,
+      "data2": 180,
+      "data3": 210,
+      "data4": 45,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#F90B0BFF",
+    "color_info": {
+      "colors": [
+        "#F90B0BFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3903103219,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "C0413",
+    "title": "PLA Matte - Red",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#00FFFFFF",
+    "color_info": {
+      "colors": [
+        "#00FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3917122604,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Cyan",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "KR-PLA019Y-1CH",
+    "title": "PLA Basic - Cyan",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 239,
+      "color_g": 205,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FFCDEFFF",
+    "color_info": {
+      "colors": [
+        "#FFCDEFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3920135406,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Light Pink",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "KR-PLA021Y-1CH",
+    "title": "PLA Basic - Light Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -2996,6 +5710,52 @@
     "sku": "B01394",
     "title": "TPU - Red 95A",
     "updated_at": 1788472557391
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 239,
+      "color_g": 236,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 190,
+      "data3": 210,
+      "data4": 45,
+      "data5": 8,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#FFECEFFF",
+    "color_info": {
+      "colors": [
+        "#FFECEFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3944931213,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Pink",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "NPLA016",
+    "title": "PLA Basic - Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -3092,6 +5852,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 152,
+      "color_g": 160,
+      "color_r": 39,
+      "data1": 56,
+      "data2": 180,
+      "data3": 210,
+      "data4": 45,
+      "data5": 4,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#27A098FF",
+    "color_info": {
+      "colors": [
+        "#27A098FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4002102911,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Grass Green",
+    "product_type": "Filament",
+    "series": "PLA Matte",
+    "sku": "C0415",
+    "title": "PLA Matte - Grass Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 212,
       "color_r": 255,
@@ -3180,6 +5986,52 @@
     "sku": "HC108",
     "title": "PLA+ - Grey",
     "updated_at": 1788472431032
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 80,
+      "color_g": 85,
+      "color_r": 85,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 45,
+      "data5": 6,
+      "data6": 50,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 28988,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "KINGROON",
+    "color": "#555550FF",
+    "color_info": {
+      "colors": [
+        "#555550FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4052483752,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Dark Grey",
+    "product_type": "Filament",
+    "series": "PLA Basic",
+    "sku": "NPLA018",
+    "title": "PLA Basic - Dark Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
