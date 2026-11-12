@@ -1207,6 +1207,7 @@ the project website is <https://tigersystem.io>.
 | **Tiger Scale** (previous generation)  | DIY smart scale (ESP32, ~30 € BoM)    | MIT, free                | https://github.com/TigerTag-Project/Tiger-Scale                                                         |
 | **TigerSpool**                         | Printer-slot writer (ESP32-S3, 2" touch) | MIT, free               | https://github.com/TigerTag-Project/TigerSpool-RFID                                                     |
 | **TigerTag Firebase Integration**      | Cloud backend integration             | CC-BY-4.0 docs / Apache-2.0 code, free | https://github.com/TigerTag-Project/TigerTag_Firebase_Integration                             |
+| **TigerQR Label**                      | QR label reference: qr.tigertag.io links, nine label formats, test vectors | CC-BY-4.0 docs / Apache-2.0 code, free | https://github.com/TigerTag-Project/TigerQR-Label                                   |
 | **TigerTag RFID Connect** (iOS)        | Mobile app                            | Free to use, proprietary | https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963                                        |
 | **TigerTag RFID Connect** (Android)    | Mobile app                            | Free to use, proprietary | https://play.google.com/store/apps/details?id=com.tigertag.connect                                      |
 | **Public API**                         | REST API                              | Free read access         | https://api.tigertag.io/api:tigertag                                                                    |
@@ -1474,6 +1475,23 @@ For protocol details, refer to the sections above or contact us for technical gu
 
 - 🧭 iOS App: https://apps.apple.com/fr/app/tigertag-rfid-connect/id6745437963
 - 🤖 Android App: https://play.google.com/store/apps/details?id=com.tigertag.connect
+
+### 5.8 TigerQR Label — the QR label of a spool
+
+Any spool, with or without a chip, can carry a **TigerQR**: a sticker whose
+QR code opens the right page on any phone, with no app. **TigerQR+** is the same label when it is linked
+to a product of the TigerTag+ catalogue, the same logic as TigerTag and
+TigerTag+. Tiger Studio Manager prints it in nine formats, from Slim 40 × 12
+to Wide 50 × 30 mm, QR only included.
+
+The public reference is its own repository,
+[TigerTag-Project/TigerQR-Label](https://github.com/TigerTag-Project/TigerQR-Label):
+the `qr.tigertag.io` link shapes and how they are read, the nine label
+formats and how a label is drawn, the test vectors and the reference code
+`qr.tigertag.io` runs (docs CC-BY-4.0, code Apache-2.0).
+
+- Reference site: https://tigertag-project.github.io/TigerQR-Label/
+- Try it, any catalogue filament in every format: https://tigersystem.io/en/playground-tigerqr
 
 ---
 
