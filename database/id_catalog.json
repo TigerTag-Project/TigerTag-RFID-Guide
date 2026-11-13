@@ -152820,6 +152820,54 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 246,
+      "color_g": 246,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907753139245",
+    "brand": "Rosa3D",
+    "color": "#F6F6F6",
+    "color_info": {
+      "colors": [
+        "#F6F6F6"
+      ],
+      "type": "mono"
+    },
+    "id": 645741532,
+    "img_src": null,
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "link_id_product": 3411728191,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "MEGAPACK 10x Winter White",
+    "pack_quantity": 10,
+    "product_type": "Filament",
+    "series": "PLA Starter",
+    "sku": "PWB-3D-F5107",
+    "title": "PLA Starter - MEGAPACK 10x Winter White",
+    "updated_at": 1794522788484
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 107,
       "color_b2": 176,
       "color_g": 107,
@@ -154346,6 +154394,54 @@
     "sku": "A05-D1-1.75-1000-spl",
     "title": "PLA Silk - Silver",
     "updated_at": 1793976559102
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907753138477",
+    "brand": "Rosa3D",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 653087208,
+    "img_src": "https://cdn.tigertag.io/img?id=653087208&v=1794522498",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "link_id_product": 2312989105,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "MEGAPACK White",
+    "pack_quantity": 10,
+    "product_type": "Filament",
+    "series": "OneFIL3D PETG",
+    "sku": "PWB-3D-F4902",
+    "title": "OneFIL3D PETG - MEGAPACK White",
+    "updated_at": 1794522524184
   },
   {
     "RFID_Data": {
@@ -434828,15 +434924,15 @@
     "aspect2": null,
     "barcode": "5907753137135",
     "brand": "Rosa3D",
-    "color": "#000000FF",
+    "color": "#000000",
     "color_info": {
       "colors": [
-        "#000000FF"
+        "#000000"
       ],
       "type": "mono"
     },
     "id": 1894285100,
-    "img_src": "https://cdn.tigertag.io/img?id=1894285100&v=2",
+    "img_src": "https://cdn.tigertag.io/img?id=1894285100&v=1794536624",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -434847,7 +434943,7 @@
     "series": "TPU 75D Automotive 15 GF",
     "sku": "PWB-3D-F4623",
     "title": "TPU 75D Automotive 15 GF - Black",
-    "updated_at": 1794434124112
+    "updated_at": 1794536620846
   },
   {
     "RFID_Data": {
@@ -533088,6 +533184,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Rosa3D",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2312989105,
+    "img_src": "https://cdn.tigertag.io/img?id=2312989105&v=1794522408",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "OneFIL3D PETG",
+    "sku": "PWB-3D-F4903",
+    "title": "OneFIL3D PETG - White",
+    "updated_at": 1794522404614
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 120,
       "color_g": 136,
       "color_r": 151,
@@ -587409,6 +587551,54 @@
     "sku": "KEX-K5ABSP-SPACEGRAY-285-5KG",
     "title": "THE K5 ABS P - Space Gray",
     "updated_at": 1788380570426
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 251,
+      "color_g": 251,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907753138156",
+    "brand": "Rosa3D",
+    "color": "#F5FBFBFF",
+    "color_info": {
+      "colors": [
+        "#F5FBFBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2562775988,
+    "img_src": "https://cdn.tigertag.io/img?id=2562775988&v=1794522762",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "link_id_product": 3447970396,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "MEGAPACK White",
+    "pack_quantity": 10,
+    "product_type": "Filament",
+    "series": "PET-G Standard HS",
+    "sku": "PWB-3D-F4823",
+    "title": "PET-G Standard HS - MEGAPACK White",
+    "updated_at": 1794522758333
   },
   {
     "RFID_Data": {
@@ -720515,6 +720705,54 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 40,
+      "color_g": 40,
+      "color_r": 40,
+      "data1": 56,
+      "data2": 230,
+      "data3": 250,
+      "data4": 50,
+      "data5": 4,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907753136695",
+    "brand": "Rosa3D",
+    "color": "#282828",
+    "color_info": {
+      "colors": [
+        "#282828"
+      ],
+      "type": "mono"
+    },
+    "id": 3118852424,
+    "img_src": "https://cdn.tigertag.io/img?id=3118852424&v=1794522817",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "link_id_product": 1925323920,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "MEGAPACK x12 Black",
+    "pack_quantity": 12,
+    "product_type": "Filament",
+    "series": "PLA Starter",
+    "sku": "PWB-3D-F4505",
+    "title": "PLA Starter - MEGAPACK x12 Black",
+    "updated_at": 1794522813811
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 234,
       "color_g": 236,
       "color_r": 240,
@@ -790622,6 +790860,54 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 5,
+      "color_g": 3,
+      "color_r": 2,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907753136855",
+    "brand": "Rosa3D",
+    "color": "#020305FF",
+    "color_info": {
+      "colors": [
+        "#020305FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3430887345,
+    "img_src": "https://cdn.tigertag.io/img?id=3430887345&v=1794522729",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "link_id_product": 1533101898,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "MEGAPACK Black",
+    "pack_quantity": 10,
+    "product_type": "Filament",
+    "series": "PET-G Standard HS",
+    "sku": "PWB-3D-F4552",
+    "title": "PET-G Standard HS - MEGAPACK Black",
+    "updated_at": 1794522724717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 195,
       "color_g": 229,
       "color_r": 243,
@@ -816343,6 +816629,52 @@
     "sku": "VFEELB17511",
     "title": "PETG - Digital Blue",
     "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Rosa3D",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 3538305175,
+    "img_src": "https://cdn.tigertag.io/img?id=3538305175&v=1794522377",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "OneFIL3D PETG",
+    "sku": "PWB-3D-F4897",
+    "title": "OneFIL3D PETG - Black",
+    "updated_at": 1794522372649
   },
   {
     "RFID_Data": {
@@ -858828,6 +859160,54 @@
     "sku": "PWB-3D-F4073",
     "title": "PCTG - Dark Blue",
     "updated_at": 1794434124112
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 19961,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "5907753138231",
+    "brand": "Rosa3D",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 3736356480,
+    "img_src": "https://cdn.tigertag.io/img?id=3736356480&v=1794522440",
+    "info1": true,
+    "info2": false,
+    "info3": false,
+    "link_id_product": 3538305175,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "MEGAPACK Black",
+    "pack_quantity": 10,
+    "product_type": "Filament",
+    "series": "OneFIL3D PETG",
+    "sku": "PWB-3D-F4854",
+    "title": "OneFIL3D PETG - MEGAPACK Black",
+    "updated_at": 1794522467473
   },
   {
     "RFID_Data": {
