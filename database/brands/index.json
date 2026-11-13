@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "ef0e913bd8063e9bcc324f154bfc975b94c755d9d55932c69ad7ac70309924f6",
-  "products": 21313,
+  "sourceSha256": "29c86b92f62d5b3fca8e34b3b363904d0fea3d741658fe37da6268894eda47a0",
+  "products": 21332,
   "unassigned": 3,
   "brands": [
     {
@@ -129,9 +129,9 @@
       "id_brand": 9798,
       "brand": "AMOLEN",
       "file": "id_amolen.json",
-      "entries": 253,
-      "bytes": 280545,
-      "sha256": "5135ade9148b9afa48f686bd54e8760af6789cabfd709763269a06f7a0fb5012"
+      "entries": 256,
+      "bytes": 283574,
+      "sha256": "28a3687b8111299ca7933325821ed6187d013226d7dee6533602d37579f1de17"
     },
     {
       "id_brand": 15962,
@@ -417,9 +417,9 @@
       "id_brand": 52467,
       "brand": "Geeetech",
       "file": "id_geeetech.json",
-      "entries": 152,
-      "bytes": 154953,
-      "sha256": "0a8302aa672d88b3dc94b15ce5fade662492bae05aae63e106b271cbe93e15f1"
+      "entries": 168,
+      "bytes": 170385,
+      "sha256": "e9efc72bfa6cfe3318127459d53ad2d319cb0ed10b4b738882277fc0e3526caf"
     },
     {
       "id_brand": 49784,
@@ -795,7 +795,7 @@
       "file": "id_sovol.json",
       "entries": 37,
       "bytes": 38554,
-      "sha256": "e7bc9dadeee6f3aea7e8ebfa038750051e8f1161604f4592321a59ff3c2baa32"
+      "sha256": "eeddac34f5ff352aea00e27ffe32509b71f13c7db2244b0695d390bf83634b33"
     },
     {
       "id_brand": 22652,
@@ -851,7 +851,7 @@
       "file": "id_tinmorry.json",
       "entries": 265,
       "bytes": 270912,
-      "sha256": "b9d23fb4875ee2f58102883f0806327c9d6e3ed74a990cfa1a35435b4367e165"
+      "sha256": "5a2822c54c76974213fbf8ef2897e04bbbd9f24af052c7a745904d9d073deb5d"
     },
     {
       "id_brand": 38953,

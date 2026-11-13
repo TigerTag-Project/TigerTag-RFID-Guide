@@ -32899,7 +32899,7 @@
     "series": "PLA-Regular",
     "sku": "PLA-Grey",
     "title": "PLA-Regular - Grey",
-    "updated_at": 1788422409523
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -33773,7 +33773,7 @@
     "series": "95A-TPU",
     "sku": "95A-TPU-Trans-Violet",
     "title": "95A-TPU - Transparent Violet",
-    "updated_at": 1792797715562
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -66338,7 +66338,7 @@
     "series": "PLA",
     "sku": "700-001-0426",
     "title": "PLA - Black",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -68003,6 +68003,52 @@
     "sku": "50.203.0117",
     "title": "Rapid PLA+ - Blue",
     "updated_at": 1792192928439
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 39,
+      "color_g": 155,
+      "color_r": 197,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Metal",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#C59B27FF",
+    "color_info": {
+      "colors": [
+        "#C59B27FF"
+      ],
+      "type": "mono"
+    },
+    "id": 289055403,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Gold",
+    "product_type": "Filament",
+    "series": "PETG Metal",
+    "sku": "700-001-2206",
+    "title": "PETG Metal - Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -77354,7 +77400,7 @@
     "series": "PLA-Regular",
     "sku": "PLA-Orange",
     "title": "PLA-Regular - Orange",
-    "updated_at": 1788422409523
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -85269,7 +85315,7 @@
     "series": "PLA",
     "sku": "700-001-1231",
     "title": "PLA - Water Blue",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -113002,6 +113048,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 31,
+      "color_g": 31,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#F61F1FFF",
+    "color_info": {
+      "colors": [
+        "#F61F1FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 482822104,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2145",
+    "title": "PETG - Transparent Red",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 218,
       "color_g": 219,
       "color_r": 127,
@@ -114903,7 +114995,7 @@
     "series": "PETG Transparent",
     "sku": "3DPETGTROR",
     "title": "PETG Transparent - Orange",
-    "updated_at": 1788425780719
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -119297,7 +119389,7 @@
     "series": "PETG",
     "sku": "700-001-1314",
     "title": "PETG - Yellow",
-    "updated_at": 1788440344502
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -120493,7 +120585,7 @@
     "series": "PLA Matte",
     "sku": "700-001-1447",
     "title": "PLA Matte - Olive Green",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -130684,6 +130776,52 @@
     "sku": "GWCZ-EL-3DF-P0758",
     "title": "PLA Basic - Cobalt Blue",
     "updated_at": 1794490742008
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 203,
+      "color_g": 192,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#FFC0CBFF",
+    "color_info": {
+      "colors": [
+        "#FFC0CBFF"
+      ],
+      "type": "mono"
+    },
+    "id": 552502480,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Pink",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2212",
+    "title": "PETG - Transparent Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -141724,7 +141862,7 @@
     "series": "PLA Silk Shiny Gradient",
     "sku": "3DN2BKRD",
     "title": "PLA Silk Shiny Gradient - Silk Black & Shiny Red Gold",
-    "updated_at": 1792326541871
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -147857,7 +147995,7 @@
     "series": "PLA",
     "sku": "700-001-0430",
     "title": "PLA - Orange",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -152913,7 +153051,7 @@
     "series": "PLA Marble",
     "sku": "3DPLASRK",
     "title": "PLA Marble - Sedimentary Rock",
-    "updated_at": 1792326495333
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -170081,7 +170219,7 @@
     "series": "PLA Matte",
     "sku": "700-001-1360",
     "title": "PLA Matte - Black",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -173870,6 +174008,52 @@
     "sku": "DLZ-JY-PLA+-OR-1.1kg-C",
     "title": "Standard PLA+ - Orange",
     "updated_at": 1788407092871
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 128,
+      "color_g": 128,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#808080FF",
+    "color_info": {
+      "colors": [
+        "#808080FF"
+      ],
+      "type": "mono"
+    },
+    "id": 728651320,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Grey",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2211",
+    "title": "PETG - Transparent Grey",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -261393,6 +261577,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 207,
+      "color_g": 77,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#A54DCFFF",
+    "color_info": {
+      "colors": [
+        "#A54DCFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1116071040,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2210",
+    "title": "PETG - Transparent Purple",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 32,
       "color_g": 32,
       "color_r": 224,
@@ -284949,7 +285179,7 @@
     "series": "PETG",
     "sku": "700-001-1309",
     "title": "PETG - Black",
-    "updated_at": 1788440344502
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -288386,7 +288616,7 @@
     "series": "PETG-ECO",
     "sku": "PETG-ECO-MeepleWhite",
     "title": "PETG-ECO - Meeple White",
-    "updated_at": 1788422229207
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -304673,7 +304903,7 @@
     "series": "PETG-ECO",
     "sku": "PETG-ECO-Apricot",
     "title": "PETG-ECO - Apricot",
-    "updated_at": 1788422229207
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -323591,6 +323821,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 77,
+      "color_g": 221,
+      "color_r": 250,
+      "data1": 56,
+      "data2": 195,
+      "data3": 230,
+      "data4": 45,
+      "data5": 4,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 92,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Silk",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#FADD4DFF",
+    "color_info": {
+      "colors": [
+        "#FADD4DFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1392622806,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Silk Bright Gold",
+    "product_type": "Filament",
+    "series": "PLA Silk Metal",
+    "sku": "700-001-2010",
+    "title": "PLA Silk Metal - Silk Bright Gold",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 183,
       "color_g": 243,
       "color_r": 111,
@@ -329278,6 +329554,52 @@
     "sku": "KEX-K9PCFR-BLACK-175-1KG",
     "title": "THE K9 PC FR - Black",
     "updated_at": 1788381558011
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 75,
+      "data5": 18,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#FFFF00FF",
+    "color_info": {
+      "colors": [
+        "#FFFF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1416345151,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "TPU",
+    "sku": "700-001-1842",
+    "title": "TPU - Yellow",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -338318,6 +338640,52 @@
     "sku": "VFERWT17511",
     "title": "PETG - Rock White",
     "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 94,
+      "color_g": 249,
+      "color_r": 16,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#10F95EFF",
+    "color_info": {
+      "colors": [
+        "#10F95EFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1455929534,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Emerald Green",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2213",
+    "title": "PETG - Transparent Emerald Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -353285,7 +353653,7 @@
     "series": "TPU",
     "sku": "700-001-1840",
     "title": "TPU - Red",
-    "updated_at": 1788440149623
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -367937,6 +368305,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 72,
+      "color_g": 100,
+      "color_r": 58,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#3A6448FF",
+    "color_info": {
+      "colors": [
+        "#3A6448FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1583069979,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Army Green",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2207",
+    "title": "PETG - Army Green",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 38,
       "color_b2": 0,
       "color_b3": 216,
@@ -377668,7 +378082,7 @@
     "series": "PLA Silk Metal",
     "sku": "700-001-1204",
     "title": "PLA Silk Metal - Silk black",
-    "updated_at": 1792798330487
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -382535,6 +382949,52 @@
     "sku": "FS-PLAPLUS-SNOWWHITE-2300G",
     "title": "PLA PRO Premium - PLA+ Snow White 2.3kg",
     "updated_at": 1793404913556
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 67,
+      "color_g": 110,
+      "color_r": 183,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Metal",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#B76E43FF",
+    "color_info": {
+      "colors": [
+        "#B76E43FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1650902241,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Rose Gold",
+    "product_type": "Filament",
+    "series": "PETG Metal",
+    "sku": "700-001-2042",
+    "title": "PETG Metal - Rose Gold",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -391343,7 +391803,7 @@
     "series": "ABS+",
     "sku": "700-001-1735",
     "title": "ABS+ - Apple Green",
-    "updated_at": 1788440551670
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -397673,7 +398133,7 @@
     "series": "PLA Matte",
     "sku": "700-001-1442",
     "title": "PLA Matte - Dark Grey",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -406207,6 +406667,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 47,
+      "color_g": 6,
+      "color_r": 1,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 30,
+      "data7": 65,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 9798,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 2000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AMOLEN",
+    "color": "#01062FFF",
+    "color_info": {
+      "colors": [
+        "#01062FFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1766144959,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "2000 g",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "PETG Transparent",
+    "sku": "#1-3DPETGLT-TRBL*2",
+    "title": "PETG Transparent - Transparent Blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 69,
       "color_g": 111,
       "color_r": 98,
@@ -411952,6 +412458,52 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 0,
+      "color_g": 138,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#FF8A00FF",
+    "color_info": {
+      "colors": [
+        "#FF8A00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 1791980215,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Orange",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2209",
+    "title": "PETG - Transparent Orange",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
       "color_g": 122,
       "color_r": 254,
       "data1": 56,
@@ -412682,7 +413234,7 @@
     "series": "PETG-CF",
     "sku": "PETG-CF-PeacockGreen",
     "title": "PETG-CF - Peacock Green",
-    "updated_at": 1788423503176
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -416482,7 +417034,7 @@
     "series": "PETG",
     "sku": "700-001-1742",
     "title": "PETG - Skin",
-    "updated_at": 1788440344502
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -516179,7 +516731,7 @@
     "series": "PETG-ECO",
     "sku": "PETG-ECO-TransRed",
     "title": "PETG-ECO - Transparent Red",
-    "updated_at": 1792799138592
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -560356,7 +560908,7 @@
     "series": "PLA Matte",
     "sku": "700-001-1446",
     "title": "PLA Matte - Navy Blue",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -583039,7 +583591,7 @@
     "series": "PLA Galaxy Sparkle",
     "sku": "3DSHINPB",
     "title": "PLA Galaxy Sparkle - Galaxy-Shiny Polarized Purple Blue",
-    "updated_at": 1792326155056
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -595442,7 +595994,7 @@
     "series": "PLA",
     "sku": "700-001-0434",
     "title": "PLA - Yellow",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -600233,6 +600785,52 @@
     "sku": "965129",
     "title": "Fiberon ASA-CF08 - Inland Fiberon ASA-CF08 Light Gray",
     "updated_at": 1793413160702
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 171,
+      "color_g": 216,
+      "color_r": 234,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#EAD8ABFF",
+    "color_info": {
+      "colors": [
+        "#EAD8ABFF"
+      ],
+      "type": "mono"
+    },
+    "id": 2617067822,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Beige",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2191",
+    "title": "PETG - Beige",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -612699,6 +613297,52 @@
     "sku": "KEX-K8TPU90A-SILVER-175-5KG",
     "title": "THE K8 TPU 90A - Silver",
     "updated_at": 1788380020924
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 30,
+      "data7": 65,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 9798,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AMOLEN",
+    "color": "#FF0000FF",
+    "color_info": {
+      "colors": [
+        "#FF0000FF"
+      ],
+      "type": "mono"
+    },
+    "id": 2669282595,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Watermelon Red",
+    "product_type": "Filament",
+    "series": "PETG Transparent",
+    "sku": "AM-PETG-TRANSPARENT-WATERMELONRED-1000G",
+    "title": "PETG Transparent - Transparent Watermelon Red",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -639220,7 +639864,7 @@
     "series": "PETG",
     "sku": "700-001-1310",
     "title": "PETG - White",
-    "updated_at": 1788440344502
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -642594,7 +643238,7 @@
     "series": "PLA Wood",
     "sku": "700-001-1601",
     "title": "PLA Wood - Wood Rose",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -685138,7 +685782,7 @@
     "series": "PETG",
     "sku": "700-001-1315",
     "title": "PETG - Green",
-    "updated_at": 1788440344502
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -721961,6 +722605,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 194,
+      "color_g": 101,
+      "color_r": 215,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Metal",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#D765C2FF",
+    "color_info": {
+      "colors": [
+        "#D765C2FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3125540483,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Pink",
+    "product_type": "Filament",
+    "series": "PETG Metal",
+    "sku": "700-001-2039",
+    "title": "PETG Metal - Pink",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 79,
       "color_g": 158,
       "color_r": 46,
@@ -733102,7 +733792,7 @@
     "series": "PLA",
     "sku": "3DWSVPLABK2KG-N",
     "title": "PLA - Black",
-    "updated_at": 1788481820042
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -742949,6 +743639,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 145,
+      "color_g": 145,
+      "color_r": 145,
+      "data1": 56,
+      "data2": 195,
+      "data3": 220,
+      "data4": 45,
+      "data5": 4,
+      "data6": 30,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#919191FF",
+    "color_info": {
+      "colors": [
+        "#919191FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3221430203,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Sparkly Silver",
+    "product_type": "Filament",
+    "series": "PLA Silk Metal",
+    "sku": "700-001-1236",
+    "title": "PLA Silk Metal - Sparkly Silver",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 26,
       "color_g": 26,
       "color_r": 26,
@@ -748274,7 +749010,7 @@
     "series": "PETG",
     "sku": "700-001-1313",
     "title": "PETG - Orange",
-    "updated_at": 1788440344502
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -748320,7 +749056,7 @@
     "series": "95A-TPU",
     "sku": "95A-TPU-Black",
     "title": "95A-TPU - Black",
-    "updated_at": 1788422312018
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -748416,7 +749152,7 @@
     "series": "PLA Silk Metal",
     "sku": "700-001-1216",
     "title": "PLA Silk Metal - Silk Gold",
-    "updated_at": 1792799654303
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -748922,7 +749658,7 @@
     "series": "PLA Silk Basic",
     "sku": "3DSKLOGRN",
     "title": "PLA Silk Basic - Silk Neon Green",
-    "updated_at": 1792799656782
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -751297,6 +752033,52 @@
     "sku": "YXP-pla-cotton-candy-rainbow",
     "title": "PLA Silk Rainbow - COTTON CANDY RAINBOW",
     "updated_at": 1793542301970
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 252,
+      "color_g": 33,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 65,
+      "data5": 7,
+      "data6": 30,
+      "data7": 65,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 9798,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 2000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AMOLEN",
+    "color": "#FF21FCFF",
+    "color_info": {
+      "colors": [
+        "#FF21FCFF"
+      ],
+      "type": "mono"
+    },
+    "id": 3255731900,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "2000 g",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PETG Transparent",
+    "sku": "#1-3DPETGLT-TRPP*2",
+    "title": "PETG Transparent - Transparent Purple",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -756108,7 +756890,7 @@
     "series": "PLA Wood",
     "sku": "3D-Walnut",
     "title": "PLA Wood - Walnut Wood",
-    "updated_at": 1788425405994
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -756338,7 +757120,7 @@
     "series": "PLA Matte",
     "sku": "700-001-1443",
     "title": "PLA Matte - Brown",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -792889,7 +793671,7 @@
     "series": "PLA Matte",
     "sku": "700-001-1361",
     "title": "PLA Matte - White",
-    "updated_at": 1788439953008
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -793951,7 +794733,7 @@
     "series": "PLA Wood",
     "sku": "3DYPWD",
     "title": "PLA Wood - Yellow Pearwood",
-    "updated_at": 1788425405994
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -833377,7 +834159,7 @@
     "series": "PLA Silk Metal",
     "sku": "700-001-1215",
     "title": "PLA Silk Metal - Copper",
-    "updated_at": 1792799862101
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -835057,7 +835839,7 @@
     "series": "TPU",
     "sku": "700-001-1855",
     "title": "TPU - Brown",
-    "updated_at": 1788440149623
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -845794,6 +846576,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 211,
+      "color_g": 91,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#005BD3FF",
+    "color_info": {
+      "colors": [
+        "#005BD3FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3669112331,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2146",
+    "title": "PETG - Transparent Blue",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 79,
       "color_g": 158,
       "color_r": 46,
@@ -851015,7 +851843,7 @@
     "series": "PETG",
     "sku": "700-001-1320",
     "title": "PETG - Grey",
-    "updated_at": 1788440344502
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -860469,7 +861297,7 @@
     "series": "PLA",
     "sku": "3DWSVPLAWH2KG-N",
     "title": "PLA - White",
-    "updated_at": 1788481820042
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -883130,7 +883958,7 @@
     "series": "TPU",
     "sku": "700-001-1148",
     "title": "TPU - Black",
-    "updated_at": 1788440149623
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -958452,7 +959280,7 @@
     "series": "PLA Wood",
     "sku": "3D-Wood",
     "title": "PLA Wood - Bamboo Wood",
-    "updated_at": 1792328733034
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
@@ -968365,6 +969193,52 @@
     "sku": "BIQU-MORPH-ROYALBLUE",
     "title": "MorPhlex - Royal Blue",
     "updated_at": 1792139072219
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 50,
+      "color_g": 95,
+      "color_r": 28,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 60,
+      "data5": 4,
+      "data6": 60,
+      "data7": 85,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52467,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Geeetech",
+    "color": "#1C5F32FF",
+    "color_info": {
+      "colors": [
+        "#1C5F32FF"
+      ],
+      "type": "mono"
+    },
+    "id": 4211746982,
+    "img_src": null,
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Olive Green",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "700-001-2150",
+    "title": "PETG - Olive Green",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -985783,7 +986657,7 @@
     "series": "PETG",
     "sku": "700-001-1312",
     "title": "PETG - Red",
-    "updated_at": 1788440344502
+    "updated_at": 1794564188248
   },
   {
     "RFID_Data": {
