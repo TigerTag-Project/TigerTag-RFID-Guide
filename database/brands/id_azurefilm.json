@@ -416,6 +416,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 104,
+      "color_g": 114,
+      "color_r": 122,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 123,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Wood",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#7A7268",
+    "color_info": {
+      "colors": [
+        "#7A7268"
+      ],
+      "type": "mono"
+    },
+    "id": 143276865,
+    "img_src": "https://cdn.tigertag.io/img?id=143276865&v=1794580132",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Grey Oak",
+    "product_type": "Filament",
+    "series": "PLA Wood LumberLay",
+    "sku": "FWR171-7001",
+    "title": "PLA Wood LumberLay - Grey Oak",
+    "updated_at": 1794580128639
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -646,6 +692,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 242,
+      "color_g": 62,
+      "color_r": 2,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#023EF2",
+    "color_info": {
+      "colors": [
+        "#023EF2"
+      ],
+      "type": "mono"
+    },
+    "id": 267483858,
+    "img_src": "https://cdn.tigertag.io/img?id=267483858&v=1794580385",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Blue",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Transparent",
+    "sku": "FG171-5015T",
+    "title": "PETG Hyper Speed Transparent - Transparent Blue",
+    "updated_at": 1794580381121
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 140,
       "color_g": 123,
       "color_r": 107,
@@ -688,6 +780,52 @@
     "sku": "AZR-PLA-REF-SHK-GRA",
     "title": "PLA Original - SHARK GREY",
     "updated_at": 1793538879640
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 148,
+      "color_r": 67,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#439400",
+    "color_info": {
+      "colors": [
+        "#439400"
+      ],
+      "type": "mono"
+    },
+    "id": 285192563,
+    "img_src": "https://cdn.tigertag.io/img?id=285192563&v=1794580551",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-6018",
+    "title": "ASA - Green",
+    "updated_at": 1794580548376
   },
   {
     "RFID_Data": {
@@ -826,6 +964,52 @@
     "sku": "AZR-PLA-REF-WHT",
     "title": "PLA Original - WHITE",
     "updated_at": 1793538886539
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 20,
+      "color_g": 12,
+      "color_r": 89,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#590C14",
+    "color_info": {
+      "colors": [
+        "#590C14"
+      ],
+      "type": "mono"
+    },
+    "id": 344882869,
+    "img_src": "https://cdn.tigertag.io/img?id=344882869&v=1794580297",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Raspberry Red",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed",
+    "sku": "FG171-3027",
+    "title": "PETG Hyper Speed - Raspberry Red",
+    "updated_at": 1794580293420
   },
   {
     "RFID_Data": {
@@ -1152,6 +1336,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 6,
+      "color_g": 16,
+      "color_r": 55,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#371006",
+    "color_info": {
+      "colors": [
+        "#371006"
+      ],
+      "type": "mono"
+    },
+    "id": 523873326,
+    "img_src": "https://cdn.tigertag.io/img?id=523873326&v=1794580327",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Espresso",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Skin",
+    "sku": "FG171-8017",
+    "title": "PETG Hyper Speed Skin - Espresso",
+    "updated_at": 1794580322338
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 94,
       "color_g": 214,
       "color_r": 164,
@@ -1194,6 +1424,98 @@
     "sku": "AZR-PLA-NEO-LME",
     "title": "PLA Neon - LIME",
     "updated_at": 1793537302527
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 123,
+      "color_g": 56,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#00387B",
+    "color_info": {
+      "colors": [
+        "#00387B"
+      ],
+      "type": "mono"
+    },
+    "id": 601020095,
+    "img_src": "https://cdn.tigertag.io/img?id=601020095&v=1794580522",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Dark Blue",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-5002",
+    "title": "ASA - Dark Blue",
+    "updated_at": 1794580518013
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 607886141,
+    "img_src": "https://cdn.tigertag.io/img?id=607886141&v=1794580648",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-9010",
+    "title": "ASA - White",
+    "updated_at": 1794580644809
   },
   {
     "RFID_Data": {
@@ -1520,6 +1842,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 2,
+      "color_g": 60,
+      "color_r": 1,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#013C02",
+    "color_info": {
+      "colors": [
+        "#013C02"
+      ],
+      "type": "mono"
+    },
+    "id": 682888818,
+    "img_src": "https://cdn.tigertag.io/img?id=682888818&v=1794580237",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Army Green",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed",
+    "sku": "FG171-6003",
+    "title": "PETG Hyper Speed - Army Green",
+    "updated_at": 1794580233458
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 17,
       "color_g": 17,
       "color_r": 17,
@@ -1562,6 +1930,52 @@
     "sku": "AZR-PLA-MAT-HS-REF-BLK",
     "title": "PLA Matte HS - BLACK",
     "updated_at": 1793538815343
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 122,
+      "color_g": 164,
+      "color_r": 216,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#D8A47A",
+    "color_info": {
+      "colors": [
+        "#D8A47A"
+      ],
+      "type": "mono"
+    },
+    "id": 749774526,
+    "img_src": "https://cdn.tigertag.io/img?id=749774526&v=1794580344",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Latte",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Skin",
+    "sku": "FG171-1000",
+    "title": "PETG Hyper Speed Skin - Latte",
+    "updated_at": 1794580337634
   },
   {
     "RFID_Data": {
@@ -1838,6 +2252,52 @@
     "sku": "AZR-PLA-SLK-REF-OLV-GRE",
     "title": "PLA Silk - OLIVE GREEN",
     "updated_at": 1793538800430
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 156,
+      "color_g": 216,
+      "color_r": 222,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 220,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#DED89C",
+    "color_info": {
+      "colors": [
+        "#DED89C"
+      ],
+      "type": "mono"
+    },
+    "id": 904299773,
+    "img_src": "https://cdn.tigertag.io/img?id=904299773&v=1794580442",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Banana Yellow",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Pastel",
+    "sku": "FG171-1016",
+    "title": "PETG Hyper Speed Pastel - Banana Yellow",
+    "updated_at": 1794580439030
   },
   {
     "RFID_Data": {
@@ -2348,6 +2808,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 228,
+      "color_g": 243,
+      "color_r": 216,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#D8F3E4",
+    "color_info": {
+      "colors": [
+        "#D8F3E4"
+      ],
+      "type": "mono"
+    },
+    "id": 1162042491,
+    "img_src": "https://cdn.tigertag.io/img?id=1162042491&v=1794580223",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Moon Light",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed",
+    "sku": "FG171-9011",
+    "title": "PETG Hyper Speed - Moon Light",
+    "updated_at": 1794580219615
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 158,
       "color_g": 158,
       "color_r": 158,
@@ -2536,6 +3042,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 237,
+      "color_g": 247,
+      "color_r": 248,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 4,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#F8F7ED",
+    "color_info": {
+      "colors": [
+        "#F8F7ED"
+      ],
+      "type": "mono"
+    },
+    "id": 1324544747,
+    "img_src": "https://cdn.tigertag.io/img?id=1324544747&v=1794580582",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Natural",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-0000",
+    "title": "ASA - Natural",
+    "updated_at": 1794580579250
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 242,
       "color_g": 242,
       "color_r": 242,
@@ -2628,6 +3180,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 70,
+      "data5": 8,
+      "data6": 80,
+      "data7": 80,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1404421371,
+    "img_src": "https://cdn.tigertag.io/img?id=1404421371&v=1794580210",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "Onyx Black",
+    "product_type": "Filament",
+    "series": "PETG CF",
+    "sku": "FGC171-9005",
+    "title": "PETG CF - Onyx Black",
+    "updated_at": 1794580205604
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 55,
       "color_g": 175,
       "color_r": 212,
@@ -2716,6 +3314,52 @@
     "sku": "AZR-PLA-SLK-REF-LLA",
     "title": "PLA Silk - LILA",
     "updated_at": 1793538793214
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 235,
+      "data3": 255,
+      "data4": 70,
+      "data5": 8,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1449257961,
+    "img_src": "https://cdn.tigertag.io/img?id=1449257961&v=1794580692",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "ASA Prime",
+    "sku": "FSW171-9003",
+    "title": "ASA Prime - White",
+    "updated_at": 1794580688515
   },
   {
     "RFID_Data": {
@@ -2900,6 +3544,144 @@
     "sku": "AZR-PLA-LUM-LTE-YEL",
     "title": "PLA Lumos - UV LIGHT YELLOW",
     "updated_at": 1793537230928
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 195,
+      "color_g": 161,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 70,
+      "data5": 8,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 220,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#E8A1C3",
+    "color_info": {
+      "colors": [
+        "#E8A1C3"
+      ],
+      "type": "mono"
+    },
+    "id": 1596494663,
+    "img_src": "https://cdn.tigertag.io/img?id=1596494663&v=1794580181",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Ice Cream Pink",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Pastel",
+    "sku": "FG171-3015",
+    "title": "PETG Hyper Speed Pastel - Ice Cream Pink",
+    "updated_at": 1794580177211
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 218,
+      "color_g": 226,
+      "color_r": 222,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 21,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Clear",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#DEE2DA",
+    "color_info": {
+      "colors": [
+        "#DEE2DA"
+      ],
+      "type": "mono"
+    },
+    "id": 1610093342,
+    "img_src": "https://cdn.tigertag.io/img?id=1610093342&v=1794580149",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "PLA Transparent",
+    "sku": "FP171-0000",
+    "title": "PLA Transparent - Transparent",
+    "updated_at": 1794580146159
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 148,
+      "color_g": 236,
+      "color_r": 111,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#6FEC94",
+    "color_info": {
+      "colors": [
+        "#6FEC94"
+      ],
+      "type": "mono"
+    },
+    "id": 1614417652,
+    "img_src": "https://cdn.tigertag.io/img?id=1614417652&v=1794580493",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Green",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Transparent",
+    "sku": "FG171-6018T",
+    "title": "PETG Hyper Speed Transparent - Transparent Green",
+    "updated_at": 1794580489107
   },
   {
     "RFID_Data": {
@@ -3089,6 +3871,98 @@
     "RFID_Data": {
       "color_a": 255,
       "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000"
+      ],
+      "type": "mono"
+    },
+    "id": 1681023285,
+    "img_src": "https://cdn.tigertag.io/img?id=1681023285&v=1794580611",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-3020",
+    "title": "ASA - Red",
+    "updated_at": 1794580607950
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 1702443282,
+    "img_src": "https://cdn.tigertag.io/img?id=1702443282&v=1794580707",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "ABS Plus",
+    "sku": "FAP171-9005",
+    "title": "ABS Plus - Black",
+    "updated_at": 1794580703351
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
       "color_g": 124,
       "color_r": 245,
       "data1": 56,
@@ -3176,6 +4050,52 @@
     "sku": "AZR-PLA-REF-CHP",
     "title": "PLA Original - CHAMPAGNE",
     "updated_at": 1793538841447
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 89,
+      "color_g": 243,
+      "color_r": 232,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#E8F359",
+    "color_info": {
+      "colors": [
+        "#E8F359"
+      ],
+      "type": "mono"
+    },
+    "id": 1747155992,
+    "img_src": "https://cdn.tigertag.io/img?id=1747155992&v=1794580414",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Yellow",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Transparent",
+    "sku": "FG171-1021T",
+    "title": "PETG Hyper Speed Transparent - Transparent Yellow",
+    "updated_at": 1794580410650
   },
   {
     "RFID_Data": {
@@ -3406,6 +4326,144 @@
     "sku": "FGR171-6019",
     "title": "PETG Hyper Speed - LIGHT GREEN",
     "updated_at": 1788478427773
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 231,
+      "color_g": 128,
+      "color_r": 50,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#3280E7",
+    "color_info": {
+      "colors": [
+        "#3280E7"
+      ],
+      "type": "mono"
+    },
+    "id": 1994964492,
+    "img_src": "https://cdn.tigertag.io/img?id=1994964492&v=1794580506",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-5015",
+    "title": "ASA - Blue",
+    "updated_at": 1794580503340
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 184,
+      "color_g": 184,
+      "color_r": 184,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#B8B8B8",
+    "color_info": {
+      "colors": [
+        "#B8B8B8"
+      ],
+      "type": "mono"
+    },
+    "id": 2045052256,
+    "img_src": "https://cdn.tigertag.io/img?id=2045052256&v=1794580282",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Light Grey",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed",
+    "sku": "FG171-7035",
+    "title": "PETG Hyper Speed - Light Grey",
+    "updated_at": 1794580278858
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 250,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000"
+      ],
+      "type": "mono"
+    },
+    "id": 2050056257,
+    "img_src": "https://cdn.tigertag.io/img?id=2050056257&v=1794579799",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "ABS Plus",
+    "sku": "FAP171-3020",
+    "title": "ABS Plus - Red",
+    "updated_at": 1794579795222
   },
   {
     "RFID_Data": {
@@ -3732,6 +4790,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 192,
+      "color_g": 192,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 235,
+      "data3": 255,
+      "data4": 70,
+      "data5": 8,
+      "data6": 80,
+      "data7": 100,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#C0C0C0",
+    "color_info": {
+      "colors": [
+        "#C0C0C0"
+      ],
+      "type": "mono"
+    },
+    "id": 2176323134,
+    "img_src": "https://cdn.tigertag.io/img?id=2176323134&v=1794580677",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "ASA Prime",
+    "sku": "FSW171-9006",
+    "title": "ASA Prime - Silver",
+    "updated_at": 1794580674051
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 233,
       "color_g": 245,
       "color_r": 232,
@@ -3870,6 +4974,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 80,
+      "color_g": 70,
+      "color_r": 83,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#534650",
+    "color_info": {
+      "colors": [
+        "#534650"
+      ],
+      "type": "mono"
+    },
+    "id": 2211272345,
+    "img_src": "https://cdn.tigertag.io/img?id=2211272345&v=1794580311",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Cappuccino",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Skin",
+    "sku": "FG171-8016",
+    "title": "PETG Hyper Speed Skin - Cappuccino",
+    "updated_at": 1794580308439
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 33,
       "color_g": 64,
       "color_r": 245,
@@ -3958,6 +5108,52 @@
     "sku": "FGR171-5015",
     "title": "PETG Hyper Speed - BLUE",
     "updated_at": 1788478427773
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 239,
+      "color_g": 255,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#00FFEF",
+    "color_info": {
+      "colors": [
+        "#00FFEF"
+      ],
+      "type": "mono"
+    },
+    "id": 2250757122,
+    "img_src": "https://cdn.tigertag.io/img?id=2250757122&v=1794580430",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Turquoise Blue",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed",
+    "sku": "FG171-5018",
+    "title": "PETG Hyper Speed - Turquoise Blue",
+    "updated_at": 1794580425266
   },
   {
     "RFID_Data": {
@@ -4100,6 +5296,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 4,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#FF0000",
+    "color_info": {
+      "colors": [
+        "#FF0000"
+      ],
+      "type": "mono"
+    },
+    "id": 2386250794,
+    "img_src": "https://cdn.tigertag.io/img?id=2386250794&v=1794580370",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Red",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Transparent",
+    "sku": "FG171-3020T",
+    "title": "PETG Hyper Speed Transparent - Transparent Red",
+    "updated_at": 1794580366917
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 52,
       "color_g": 108,
       "color_r": 130,
@@ -4146,6 +5388,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 45,
+      "color_g": 211,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#F6D32D",
+    "color_info": {
+      "colors": [
+        "#F6D32D"
+      ],
+      "type": "mono"
+    },
+    "id": 2452293497,
+    "img_src": "https://cdn.tigertag.io/img?id=2452293497&v=1794580663",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Yellow",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-1021",
+    "title": "ASA - Yellow",
+    "updated_at": 1794580659844
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 79,
       "color_g": 158,
       "color_r": 46,
@@ -4188,6 +5476,52 @@
     "sku": "AZR-PLA-PRL-GRE",
     "title": "PLA Pearl - GREEN",
     "updated_at": 1793537582281
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 60,
+      "data5": 8,
+      "data6": 45,
+      "data7": 55,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 48310,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "type": "mono"
+    },
+    "id": 2500640740,
+    "img_src": "https://cdn.tigertag.io/img?id=2500640740&v=1794580165",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA-CF",
+    "measure": "1000 g",
+    "name": "Onyx Black",
+    "product_type": "Filament",
+    "series": "PLA CF",
+    "sku": "FPC171-9005",
+    "title": "PLA CF - Onyx Black",
+    "updated_at": 1794580161656
   },
   {
     "RFID_Data": {
@@ -4422,6 +5756,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 213,
+      "color_g": 42,
+      "color_r": 184,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 70,
+      "data5": 8,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#B82AD5",
+    "color_info": {
+      "colors": [
+        "#B82AD5"
+      ],
+      "type": "mono"
+    },
+    "id": 2827808109,
+    "img_src": "https://cdn.tigertag.io/img?id=2827808109&v=1794580195",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Lila",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed",
+    "sku": "FG171-4005",
+    "title": "PETG Hyper Speed - Lila",
+    "updated_at": 1794580191523
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 226,
+      "color_g": 253,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 250,
+      "data3": 265,
+      "data4": 55,
+      "data5": 12,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#F5FDE2",
+    "color_info": {
+      "colors": [
+        "#F5FDE2"
+      ],
+      "type": "mono"
+    },
+    "id": 2828487960,
+    "img_src": "https://cdn.tigertag.io/img?id=2828487960&v=1794580721",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Natural",
+    "product_type": "Filament",
+    "series": "ABS Plus",
+    "sku": "FAP171-0000",
+    "title": "ABS Plus - Natural",
+    "updated_at": 1794580718136
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 75,
       "color_g": 41,
       "color_r": 14,
@@ -4556,6 +5982,52 @@
     "sku": "AZR-PLA-REF-LHT-GRE",
     "title": "PLA Original - LIGHT GREEN",
     "updated_at": 1793538861138
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 105,
+      "color_g": 125,
+      "color_r": 150,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#967D69",
+    "color_info": {
+      "colors": [
+        "#967D69"
+      ],
+      "type": "mono"
+    },
+    "id": 2946547463,
+    "img_src": "https://cdn.tigertag.io/img?id=2946547463&v=1794580356",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Macchiato",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Skin",
+    "sku": "FG171-1024",
+    "title": "PETG Hyper Speed Skin - Macchiato",
+    "updated_at": 1794580352830
   },
   {
     "RFID_Data": {
@@ -4978,6 +6450,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 151,
+      "color_g": 141,
+      "color_r": 136,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#888D97",
+    "color_info": {
+      "colors": [
+        "#888D97"
+      ],
+      "type": "mono"
+    },
+    "id": 3154611048,
+    "img_src": "https://cdn.tigertag.io/img?id=3154611048&v=1794580536",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Dark Grey",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-7011",
+    "title": "ASA - Dark Grey",
+    "updated_at": 1794580532936
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 180,
       "color_g": 224,
       "color_r": 152,
@@ -5020,6 +6538,52 @@
     "sku": "AZR-PLA-PST-MNT-GRE",
     "title": "PLA Pastel - MINT GREEN",
     "updated_at": 1793537495361
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 151,
+      "color_g": 94,
+      "color_r": 6,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 70,
+      "data5": 8,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#065E97",
+    "color_info": {
+      "colors": [
+        "#065E97"
+      ],
+      "type": "mono"
+    },
+    "id": 3217420139,
+    "img_src": "https://cdn.tigertag.io/img?id=3217420139&v=1794580476",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Dark Blue",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Transparent",
+    "sku": "FG171-5015D",
+    "title": "PETG Hyper Speed Transparent - Transparent Dark Blue",
+    "updated_at": 1794580471242
   },
   {
     "RFID_Data": {
@@ -5070,6 +6634,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 148,
+      "color_g": 148,
+      "color_r": 148,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#949494",
+    "color_info": {
+      "colors": [
+        "#949494"
+      ],
+      "type": "mono"
+    },
+    "id": 3303627716,
+    "img_src": "https://cdn.tigertag.io/img?id=3303627716&v=1794580568",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-7001",
+    "title": "ASA - Grey",
+    "updated_at": 1794580564260
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 11,
       "color_g": 218,
       "color_r": 243,
@@ -5112,6 +6722,52 @@
     "sku": "FGR171-1021",
     "title": "PETG Hyper Speed - YELLOW",
     "updated_at": 1788478427773
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 243,
+      "color_g": 209,
+      "color_r": 167,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 220,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#A7D1F3",
+    "color_info": {
+      "colors": [
+        "#A7D1F3"
+      ],
+      "type": "mono"
+    },
+    "id": 3335827844,
+    "img_src": "https://cdn.tigertag.io/img?id=3335827844&v=1794580255",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Baby Blue",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Pastel",
+    "sku": "FG171-5012",
+    "title": "PETG Hyper Speed Pastel - Baby Blue",
+    "updated_at": 1794580248198
   },
   {
     "RFID_Data": {
@@ -5300,6 +6956,98 @@
     "sku": "AZR-PLA-NEO-ORG",
     "title": "PLA Neon - ORANGE",
     "updated_at": 1793537316641
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 27,
+      "color_g": 201,
+      "color_r": 88,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#58C91B",
+    "color_info": {
+      "colors": [
+        "#58C91B"
+      ],
+      "type": "mono"
+    },
+    "id": 3466113376,
+    "img_src": "https://cdn.tigertag.io/img?id=3466113376&v=1794580742",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "PLA Strongman",
+    "sku": "FPS171-6018",
+    "title": "PLA Strongman - Green",
+    "updated_at": 1794580737920
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 173,
+      "color_g": 193,
+      "color_r": 163,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 123,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Wood",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#A3C1AD",
+    "color_info": {
+      "colors": [
+        "#A3C1AD"
+      ],
+      "type": "mono"
+    },
+    "id": 3470331568,
+    "img_src": "https://cdn.tigertag.io/img?id=3470331568&v=1794580115",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Green Poplar",
+    "product_type": "Filament",
+    "series": "PLA Wood LumberLay",
+    "sku": "FWR171-6021",
+    "title": "PLA Wood LumberLay - Green Poplar",
+    "updated_at": 1794580111482
   },
   {
     "RFID_Data": {
@@ -6040,6 +7788,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 201,
+      "color_g": 226,
+      "color_r": 170,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 220,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Pastel",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#AAE2C9",
+    "color_info": {
+      "colors": [
+        "#AAE2C9"
+      ],
+      "type": "mono"
+    },
+    "id": 3856816716,
+    "img_src": "https://cdn.tigertag.io/img?id=3856816716&v=1794580456",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Mint Green",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Pastel",
+    "sku": "FG171-6019P",
+    "title": "PETG Hyper Speed Pastel - Mint Green",
+    "updated_at": 1794580452536
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 189,
+      "color_g": 94,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 230,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#005EBD",
+    "color_info": {
+      "colors": [
+        "#005EBD"
+      ],
+      "type": "mono"
+    },
+    "id": 3857998950,
+    "img_src": "https://cdn.tigertag.io/img?id=3857998950&v=1794580096",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Blue",
+    "product_type": "Filament",
+    "series": "PLA Glitter",
+    "sku": "FP171-5015G",
+    "title": "PLA Glitter - Blue",
+    "updated_at": 1794580092748
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 48,
       "color_g": 27,
       "color_r": 155,
@@ -6132,6 +7972,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 136,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#FF8800",
+    "color_info": {
+      "colors": [
+        "#FF8800"
+      ],
+      "type": "mono"
+    },
+    "id": 3922120361,
+    "img_src": "https://cdn.tigertag.io/img?id=3922120361&v=1794580597",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-2008",
+    "title": "ASA - Orange",
+    "updated_at": 1794580594038
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 53,
       "color_g": 225,
       "color_r": 255,
@@ -6178,6 +8064,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 243,
+      "color_g": 22,
+      "color_r": 155,
+      "data1": 56,
+      "data2": 240,
+      "data3": 265,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#9B16F3",
+    "color_info": {
+      "colors": [
+        "#9B16F3"
+      ],
+      "type": "mono"
+    },
+    "id": 3962286482,
+    "img_src": "https://cdn.tigertag.io/img?id=3962286482&v=1794580400",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Transparent Purple",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed Transparent",
+    "sku": "FG171-4005T",
+    "title": "PETG Hyper Speed Transparent - Transparent Purple",
+    "updated_at": 1794580395621
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 62,
       "color_g": 143,
       "color_r": 154,
@@ -6220,6 +8152,98 @@
     "sku": "AZR-PLA-SLK-REF-OLV-GLD",
     "title": "PLA Silk - OLIVE GOLD",
     "updated_at": 1793538798374
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 0,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 50,
+      "data5": 14,
+      "data6": 70,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#FF00FF",
+    "color_info": {
+      "colors": [
+        "#FF00FF"
+      ],
+      "type": "mono"
+    },
+    "id": 3972662874,
+    "img_src": "https://cdn.tigertag.io/img?id=3972662874&v=1794580270",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Fuchsia Pink",
+    "product_type": "Filament",
+    "series": "PETG Hyper Speed",
+    "sku": "FG171-4007",
+    "title": "PETG Hyper Speed - Fuchsia Pink",
+    "updated_at": 1794580263554
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 192,
+      "color_g": 192,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 50,
+      "data5": 12,
+      "data6": 90,
+      "data7": 120,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 58410,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "AzureFilm",
+    "color": "#C0C0C0",
+    "color_info": {
+      "colors": [
+        "#C0C0C0"
+      ],
+      "type": "mono"
+    },
+    "id": 4022814726,
+    "img_src": "https://cdn.tigertag.io/img?id=4022814726&v=1794580628",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "1000 g",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "FS171-9007",
+    "title": "ASA - Silver",
+    "updated_at": 1794580625235
   },
   {
     "RFID_Data": {

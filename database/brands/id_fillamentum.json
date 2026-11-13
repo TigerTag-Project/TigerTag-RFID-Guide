@@ -733,7 +733,7 @@
     "series": "PLA Extrafill",
     "sku": "8595632800484",
     "title": "PLA Extrafill - Mukha",
-    "updated_at": 1788435260880
+    "updated_at": 1794573216682
   },
   {
     "RFID_Data": {
@@ -3125,7 +3125,7 @@
     "series": "PLA Extrafill",
     "sku": "8595632800507",
     "title": "PLA Extrafill - Noble Blue",
-    "updated_at": 1788435260880
+    "updated_at": 1794573216682
   },
   {
     "RFID_Data": {
@@ -3769,7 +3769,7 @@
     "series": "PLA Extrafill",
     "sku": "8595632800286",
     "title": "PLA Extrafill - Sky Blue",
-    "updated_at": 1788435260881
+    "updated_at": 1794573216682
   },
   {
     "RFID_Data": {
@@ -3907,7 +3907,7 @@
     "series": "PLA Vertigo",
     "sku": "8595632800347",
     "title": "PLA Vertigo - Vertigo Galaxy",
-    "updated_at": 1788435260881
+    "updated_at": 1794573216682
   },
   {
     "RFID_Data": {
@@ -4413,7 +4413,7 @@
     "series": "PLA Extrafill",
     "sku": "8595632800392",
     "title": "PLA Extrafill - Electric Grey",
-    "updated_at": 1788435260881
+    "updated_at": 1794573216682
   },
   {
     "RFID_Data": {
@@ -4781,7 +4781,7 @@
     "series": "ABS Extrafill",
     "sku": "8595632811152",
     "title": "ABS Extrafill - Signal Brown",
-    "updated_at": 1788436210572
+    "updated_at": 1794573216682
   },
   {
     "RFID_Data": {
@@ -5384,6 +5384,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 72,
+      "color_g": 80,
+      "color_r": 80,
+      "data1": 56,
+      "data2": 240,
+      "data3": 255,
+      "data4": 80,
+      "data5": 2,
+      "data6": 90,
+      "data7": 105,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 7980,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8595632824251",
+    "brand": "Fillamentum",
+    "color": "#505048",
+    "color_info": {
+      "colors": [
+        "#505048"
+      ],
+      "type": "mono"
+    },
+    "id": 2608152620,
+    "img_src": "https://cdn.tigertag.io/img?id=2608152620&v=1794584431",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "750 g",
+    "name": "Vertigo Grey",
+    "product_type": "Filament",
+    "series": "ASA Extrafill",
+    "sku": "8595632824251",
+    "title": "ASA Extrafill - Vertigo Grey",
+    "updated_at": 1794584427141
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 207,
       "color_g": 157,
       "color_r": 86,
@@ -5977,7 +6023,7 @@
     "series": "PLA Extrafill",
     "sku": "8595632800002",
     "title": "PLA Extrafill - Orange Orange",
-    "updated_at": 1788435260881
+    "updated_at": 1794573216682
   },
   {
     "RFID_Data": {
@@ -7955,7 +8001,7 @@
     "series": "PLA Extrafill",
     "sku": "8595632814405",
     "title": "PLA Extrafill - Traffic Purple",
-    "updated_at": 1788435260881
+    "updated_at": 1794573216682
   },
   {
     "RFID_Data": {

@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "29c86b92f62d5b3fca8e34b3b363904d0fea3d741658fe37da6268894eda47a0",
-  "products": 21332,
+  "sourceSha256": "f2828e90ca3b8a0bf4c3706ff551b34a9e46f5bb6e75068b5d9a8fc06ee21c91",
+  "products": 21446,
   "unassigned": 3,
   "brands": [
     {
@@ -130,16 +130,16 @@
       "brand": "AMOLEN",
       "file": "id_amolen.json",
       "entries": 256,
-      "bytes": 283574,
-      "sha256": "28a3687b8111299ca7933325821ed6187d013226d7dee6533602d37579f1de17"
+      "bytes": 283688,
+      "sha256": "5c1952224553ac4d2e7ab931fd436f090d3c89a6bc339f93a3ae41eea3834f47"
     },
     {
       "id_brand": 15962,
       "brand": "Anycubic",
       "file": "id_anycubic.json",
       "entries": 203,
-      "bytes": 202856,
-      "sha256": "32c0ed85ce7f51a72a9911789f1b10ed7d85b409f08f52d33f64e19a41799c64"
+      "bytes": 202969,
+      "sha256": "cab46cfd2c66b5c14490d2faaaf56d5766d813d5c7f6e26bcf1890a3671f6bfe"
     },
     {
       "id_brand": 23181,
@@ -161,9 +161,9 @@
       "id_brand": 58410,
       "brand": "AzureFilm",
       "file": "id_azurefilm.json",
-      "entries": 138,
-      "bytes": 141785,
-      "sha256": "c0f87be398039ef79cfb73055cd510a16cb85c7c6fc6434a9749dfcc32718706"
+      "entries": 182,
+      "bytes": 187034,
+      "sha256": "07015949ad5604320d35ffc54d92887239009d72e4e9309c7f087cc1ff48d469"
     },
     {
       "id_brand": 35123,
@@ -266,8 +266,8 @@
       "brand": "ELEGOO",
       "file": "id_elegoo.json",
       "entries": 289,
-      "bytes": 291638,
-      "sha256": "baa827bd93787e020062e2647df73fc800c2e283c92cd2ca3c802e892fb906d0"
+      "bytes": 291979,
+      "sha256": "745bbb4291c012368287a8bda8e09b2cb5efc6d64dfc9384b73cae44bc30922e"
     },
     {
       "id_brand": 21492,
@@ -290,24 +290,24 @@
       "brand": "Eryone",
       "file": "id_eryone.json",
       "entries": 426,
-      "bytes": 459255,
-      "sha256": "f642f80a6bd59a52b01389bf5d06ae85e77a49cf986d3c875250162dfd330ad4"
+      "bytes": 459482,
+      "sha256": "2a4d2185a9a85f2c85e8c39b99ae2aa94ae5f54f9b7cd024b592146cdae0d4cf"
     },
     {
       "id_brand": 47930,
       "brand": "eSun",
       "file": "id_esun.json",
       "entries": 435,
-      "bytes": 439140,
-      "sha256": "f574dd3e55b99a0632c6c1a56b4f671974c6c123545ffa490142c7f0a64ddc5e"
+      "bytes": 440558,
+      "sha256": "c9ff990674ef0d839c661352c6b430dff5bdd163d15aab6934c3b3b3d69a14ea"
     },
     {
       "id_brand": 7674,
       "brand": "Extrudr",
       "file": "id_extrudr.json",
       "entries": 387,
-      "bytes": 397849,
-      "sha256": "c7b3737439cc170bc9250b29a9f498a21fee8507ac32560fc5b135a6533582fa"
+      "bytes": 399433,
+      "sha256": "57e2ece1a6160f83840fc7da7079ef4171fb9fb13c3b8fc82d781344791f2bff"
     },
     {
       "id_brand": 9299,
@@ -322,8 +322,8 @@
       "brand": "Fiberlogy",
       "file": "id_fiberlogy.json",
       "entries": 256,
-      "bytes": 271647,
-      "sha256": "ed5ab10977747548030b3bdc2613b20ad299736eed519714f3b4e7c0e5ad6b01"
+      "bytes": 261137,
+      "sha256": "0a7af0b3642b2074676e7e9044b9475ace1b13cb6c681773aae40d953ad45ea1"
     },
     {
       "id_brand": 14896,
@@ -369,25 +369,25 @@
       "id_brand": 7980,
       "brand": "Fillamentum",
       "file": "id_fillamentum.json",
-      "entries": 176,
-      "bytes": 179680,
-      "sha256": "c0fc43d15cd7f2b130a472f0491d79d4011f9bbb6536d62e8d92ddf555e1c432"
+      "entries": 177,
+      "bytes": 180723,
+      "sha256": "86daedcf85a2b1ab632e68cbdae425bae75da1fa663aa45341347f74a6ee1d83"
     },
     {
       "id_brand": 63340,
       "brand": "Flashforge",
       "file": "id_flashforge.json",
       "entries": 154,
-      "bytes": 158139,
-      "sha256": "6cc153fe282a217af05a39d85b7f52e9604b76c1fc17faf75f52521ac4371fd5"
+      "bytes": 159375,
+      "sha256": "adbfa75bdba580443076e19e6791b09b522b4d1b46e5a4fc026d150a020c4e96"
     },
     {
       "id_brand": 53043,
       "brand": "FormFutura",
       "file": "id_formfutura.json",
-      "entries": 79,
-      "bytes": 80772,
-      "sha256": "d9148b5f98e4f0e6f93bac53d4c4f89ca79b6601a3cc604f387a85b6898f0040"
+      "entries": 136,
+      "bytes": 140441,
+      "sha256": "d16cde79cd96504c4cfbce07a2055f5b082d2d614a299420acc940b1ed99ff30"
     },
     {
       "id_brand": 12498,
@@ -418,8 +418,8 @@
       "brand": "Geeetech",
       "file": "id_geeetech.json",
       "entries": 168,
-      "bytes": 170385,
-      "sha256": "e9efc72bfa6cfe3318127459d53ad2d319cb0ed10b4b738882277fc0e3526caf"
+      "bytes": 171293,
+      "sha256": "0ffa24155e54f26b1118b97fc458aa0257b970cca4267d4ea6c874d83282814f"
     },
     {
       "id_brand": 49784,
@@ -434,8 +434,8 @@
       "brand": "Hatchbox",
       "file": "id_hatchbox.json",
       "entries": 201,
-      "bytes": 199331,
-      "sha256": "aeaebcb5d5de2050938358d79fb334272450510a7e6a45ea30ee2d7f224ed64c"
+      "bytes": 204318,
+      "sha256": "98616438a8fe281cd34a4da4679b1b6af32af05a14b431d426c1f0558bbce9b4"
     },
     {
       "id_brand": 500,
@@ -474,8 +474,8 @@
       "brand": "Inland",
       "file": "id_inland.json",
       "entries": 458,
-      "bytes": 473299,
-      "sha256": "25cc1bd874b97c9329193d4ca81959f201e9fdb6d06f033b050fb9f4f03c5ccd"
+      "bytes": 465771,
+      "sha256": "2cb0137d359514db0969f8944a451165ed9fb5995b2b4ae706fd76ca199009f0"
     },
     {
       "id_brand": 11501,
@@ -514,8 +514,8 @@
       "brand": "Jayo",
       "file": "id_jayo.json",
       "entries": 313,
-      "bytes": 319969,
-      "sha256": "7210c96ed970235fbd295abc9f71ae85e6a3ed681e26a25309600f3d45413b6c"
+      "bytes": 319928,
+      "sha256": "d7aedef90d8e0b643bab4be5e9822c7ca6c0e204b320201321c2e07adf941cc3"
     },
     {
       "id_brand": 14250,
@@ -546,8 +546,8 @@
       "brand": "KINGROON",
       "file": "id_kingroon.json",
       "entries": 140,
-      "bytes": 137843,
-      "sha256": "3ec5818b5e8dba89fdbbfd917436654cf859b8cc56311409594d8e8b54c9538b"
+      "bytes": 140891,
+      "sha256": "9fe44d94431dfae3f8518985350a1307b7bbc59b338e202253f11fb0d157720c"
     },
     {
       "id_brand": 4356,
@@ -658,8 +658,8 @@
       "brand": "Polymaker",
       "file": "id_polymaker.json",
       "entries": 894,
-      "bytes": 930850,
-      "sha256": "49c324a1f18050efbfb99111af8634dc15a7627efa9f994b7019927290088ee2"
+      "bytes": 930756,
+      "sha256": "06940350ada7878cb8cad6e2a4a6abb2840c72d86750af87ef9f1795fe15d341"
     },
     {
       "id_brand": 18629,
@@ -689,9 +689,9 @@
       "id_brand": 46392,
       "brand": "Prusament",
       "file": "id_prusament.json",
-      "entries": 124,
-      "bytes": 125326,
-      "sha256": "4c95dffd359dd30c49fc7e24e0f170fe13623e7df7174c63af1b29ccd8841a32"
+      "entries": 126,
+      "bytes": 127387,
+      "sha256": "bea8a83b75647c7678dcce9caee118135a274569d27f7d90978e1cadf0d0f931"
     },
     {
       "id_brand": 4011,
@@ -705,9 +705,9 @@
       "id_brand": 48804,
       "brand": "R3D",
       "file": "id_r3d.json",
-      "entries": 249,
-      "bytes": 255310,
-      "sha256": "bb794d79a4dcd05c0f28dbc6b83dd893aabbe93bfb7b6bff184ca6b5a8084fc2"
+      "entries": 259,
+      "bytes": 265405,
+      "sha256": "bb37183179fe8304c4e98c9f8a518656d9e884d096f9ff8948242694174d7894"
     },
     {
       "id_brand": 20523,
@@ -731,7 +731,7 @@
       "file": "id_rosa3d.json",
       "entries": 551,
       "bytes": 577817,
-      "sha256": "2928a1979c4b39937f1fb754cbdbabd4cca4527f8612bd9eac2fbc236ba1aaf3"
+      "sha256": "8d88a60147a8aa2a8f4ed5511a43700c91d04b51388cee5cd8b4e6c5368063b1"
     },
     {
       "id_brand": 1068,
@@ -802,8 +802,8 @@
       "brand": "Spectrum",
       "file": "id_spectrum.json",
       "entries": 474,
-      "bytes": 486464,
-      "sha256": "9e4827f643d21e604a228cbe04e9c62f0d7e9d3030f8ff5455a878aa464748ef"
+      "bytes": 487799,
+      "sha256": "e6cb631e6c1d133b40b9454eff05d42fce593151a2b4a4c50fa3dabb66238bc0"
     },
     {
       "id_brand": 17095,
@@ -826,8 +826,8 @@
       "brand": "Sunlu",
       "file": "id_sunlu.json",
       "entries": 565,
-      "bytes": 580053,
-      "sha256": "30b05ed93588d9ec9721b90c68123e45ca15a8bdaf3c5b737c8d7da3e5fd28e7"
+      "bytes": 580061,
+      "sha256": "47afec875524e2ed41c9e3d56db851250e4e86c30f8e282d465c898b7056bfae"
     },
     {
       "id_brand": 28055,
@@ -939,7 +939,7 @@
       "file": "id_ziro.json",
       "entries": 289,
       "bytes": 298253,
-      "sha256": "5d888b1e91e1afc72539370af8ff768fd96cc17d945340fc03f6b23ef84b4b2c"
+      "sha256": "85d258c33b32473b14a7ac4baa62f22bfdd69638d85adf56fd7251edd9524536"
     }
   ]
 }

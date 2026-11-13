@@ -94,6 +94,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 61,
+      "color_g": 85,
+      "color_r": 121,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847051035",
+    "brand": "FormFutura",
+    "color": "#79553D",
+    "color_info": {
+      "colors": [
+        "#79553D"
+      ],
+      "type": "mono"
+    },
+    "id": 137970066,
+    "img_src": "https://cdn.tigertag.io/img?id=137970066&v=1794591796",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Beige Brown",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175BBRN-01000",
+    "title": "EasyFil ePLA - Beige Brown",
+    "updated_at": 1794591791976
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 165,
+      "color_g": 165,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 60,
+      "data5": 6,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 129,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Gloss",
+    "aspect2": null,
+    "barcode": "8720574292602",
+    "brand": "FormFutura",
+    "color": "#A5A5A5",
+    "color_info": {
+      "colors": [
+        "#A5A5A5"
+      ],
+      "type": "mono"
+    },
+    "id": 140015908,
+    "img_src": "https://cdn.tigertag.io/img?id=140015908&v=1794592185",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Silver",
+    "product_type": "Filament",
+    "series": "High Gloss PLA",
+    "sku": "HPLA-175SLVR-00750",
+    "title": "High Gloss PLA - Silver",
+    "updated_at": 1794592181325
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 64,
       "color_g": 180,
       "color_r": 199,
@@ -182,6 +274,52 @@
     "sku": "PPLA-175RGRY-02300",
     "title": "Premium PLA - Robotic Grey",
     "updated_at": 1788522749760
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 151,
+      "color_g": 149,
+      "color_r": 138,
+      "data1": 56,
+      "data2": 185,
+      "data3": 215,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8719956550720",
+    "brand": "FormFutura",
+    "color": "#8A9597",
+    "color_info": {
+      "colors": [
+        "#8A9597"
+      ],
+      "type": "mono"
+    },
+    "id": 315403414,
+    "img_src": "https://cdn.tigertag.io/img?id=315403414&v=1794592125",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Titanium Silver",
+    "product_type": "Filament",
+    "series": "Galaxy PLA",
+    "sku": "GPLA-175TSLV-00750",
+    "title": "Galaxy PLA - Titanium Silver",
+    "updated_at": 1794592122255
   },
   {
     "RFID_Data": {
@@ -278,6 +416,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 221,
+      "color_g": 253,
+      "color_r": 249,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847050564",
+    "brand": "FormFutura",
+    "color": "#F9FDDD",
+    "color_info": {
+      "colors": [
+        "#F9FDDD"
+      ],
+      "type": "mono"
+    },
+    "id": 411203026,
+    "img_src": "https://cdn.tigertag.io/img?id=411203026&v=1794591903",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Natural",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175NTRL-01000",
+    "title": "EasyFil ePLA - Natural",
+    "updated_at": 1794591899928
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 80,
       "color_g": 153,
       "color_r": 153,
@@ -320,6 +504,98 @@
     "sku": "FOFF0460",
     "title": "EasyWood - Olive",
     "updated_at": 1784883779743
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 17,
+      "color_g": 70,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847050700",
+    "brand": "FormFutura",
+    "color": "#F44611",
+    "color_info": {
+      "colors": [
+        "#F44611"
+      ],
+      "type": "mono"
+    },
+    "id": 455356284,
+    "img_src": "https://cdn.tigertag.io/img?id=455356284&v=1794591933",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Pure Orange",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175PORA-01000",
+    "title": "EasyFil ePLA - Pure Orange",
+    "updated_at": 1794591929708
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 1,
+      "color_g": 210,
+      "color_r": 250,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847050663",
+    "brand": "FormFutura",
+    "color": "#FAD201",
+    "color_info": {
+      "colors": [
+        "#FAD201"
+      ],
+      "type": "mono"
+    },
+    "id": 539950610,
+    "img_src": "https://cdn.tigertag.io/img?id=539950610&v=1794592008",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Traffic Yellow",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175TYLW-01000",
+    "title": "EasyFil ePLA - Traffic Yellow",
+    "updated_at": 1794592003124
   },
   {
     "RFID_Data": {
@@ -554,6 +830,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 57,
+      "color_g": 166,
+      "color_r": 87,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 60,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 52077,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720629061283",
+    "brand": "FormFutura",
+    "color": "#57A639",
+    "color_info": {
+      "colors": [
+        "#57A639"
+      ],
+      "type": "mono"
+    },
+    "id": 736095665,
+    "img_src": "https://cdn.tigertag.io/img?id=736095665&v=1794592274",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PET",
+    "measure": "750 g",
+    "name": "Yellow Green (RAL 6018)",
+    "product_type": "Filament",
+    "series": "High Precision PET",
+    "sku": "HPPE-175YLGN-00750",
+    "title": "High Precision PET - Yellow Green (RAL 6018)",
+    "updated_at": 1794592270249
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 245,
       "color_g": 245,
       "color_r": 245,
@@ -600,6 +922,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 90,
+      "color_g": 149,
+      "color_r": 170,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 60,
+      "data5": 6,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 129,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Gloss",
+    "aspect2": null,
+    "barcode": "8720847059208",
+    "brand": "FormFutura",
+    "color": "#AA955A",
+    "color_info": {
+      "colors": [
+        "#AA955A"
+      ],
+      "type": "mono"
+    },
+    "id": 745511213,
+    "img_src": "https://cdn.tigertag.io/img?id=745511213&v=1794592155",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Bronze",
+    "product_type": "Filament",
+    "series": "High Gloss PLA",
+    "sku": "HPLA-175BRNZ-00750",
+    "title": "High Gloss PLA - Bronze",
+    "updated_at": 1794592151068
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 16,
       "color_g": 17,
       "color_r": 155,
@@ -642,6 +1010,144 @@
     "sku": "MPLA-175ERCM-00750",
     "title": "Matt PLA - Earth Red Camouflage",
     "updated_at": 1784885154329
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 165,
+      "color_g": 165,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847051059",
+    "brand": "FormFutura",
+    "color": "#A5A5A5",
+    "color_info": {
+      "colors": [
+        "#A5A5A5"
+      ],
+      "type": "mono"
+    },
+    "id": 795697095,
+    "img_src": "https://cdn.tigertag.io/img?id=795697095&v=1794592038",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "White Aluminium",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175WHAL-01000",
+    "title": "EasyFil ePLA - White Aluminium",
+    "updated_at": 1794592034606
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 45,
+      "color_g": 187,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "8720847050922",
+    "brand": "FormFutura",
+    "color": "#00BB2D",
+    "color_info": {
+      "colors": [
+        "#00BB2D"
+      ],
+      "type": "mono"
+    },
+    "id": 849389784,
+    "img_src": "https://cdn.tigertag.io/img?id=849389784&v=1794591857",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Luminous Green",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175LUGN-01000",
+    "title": "EasyFil ePLA - Luminous Green",
+    "updated_at": 1794591853359
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 125,
+      "color_g": 78,
+      "color_r": 146,
+      "data1": 56,
+      "data2": 185,
+      "data3": 210,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924471890",
+    "brand": "FormFutura",
+    "color": "#924E7D",
+    "color_info": {
+      "colors": [
+        "#924E7D"
+      ],
+      "type": "mono"
+    },
+    "id": 853826510,
+    "img_src": "https://cdn.tigertag.io/img?id=853826510&v=1794592449",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Sweet Purple",
+    "product_type": "Filament",
+    "series": "Premium PLA",
+    "sku": "PPLA-175SPUR-01000",
+    "title": "Premium PLA - Sweet Purple",
+    "updated_at": 1794592444542
   },
   {
     "RFID_Data": {
@@ -738,6 +1244,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 96,
+      "color_g": 36,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 230,
+      "data3": 245,
+      "data4": 70,
+      "data5": 8,
+      "data6": 75,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847053190",
+    "brand": "FormFutura",
+    "color": "#1E2460",
+    "color_info": {
+      "colors": [
+        "#1E2460"
+      ],
+      "type": "mono"
+    },
+    "id": 969120742,
+    "img_src": "https://cdn.tigertag.io/img?id=969120742&v=1794591672",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Signal Blue",
+    "product_type": "Filament",
+    "series": "EasyFil ePETG",
+    "sku": "PTGE-175SIBU-01000",
+    "title": "EasyFil ePETG - Signal Blue",
+    "updated_at": 1794591667479
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -826,6 +1378,98 @@
     "sku": "VPLA-175LGRY-00750",
     "title": "Volcano - Light Grey",
     "updated_at": 1784893475849
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 179,
+      "color_g": 113,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847050823",
+    "brand": "FormFutura",
+    "color": "#2271B3",
+    "color_info": {
+      "colors": [
+        "#2271B3"
+      ],
+      "type": "mono"
+    },
+    "id": 1090212597,
+    "img_src": "https://cdn.tigertag.io/img?id=1090212597&v=1794591827",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Light Blue",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175LBLU-01000",
+    "title": "EasyFil ePLA - Light Blue",
+    "updated_at": 1794591823039
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 229,
+      "color_g": 245,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 215,
+      "data3": 235,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "8720629064468",
+    "brand": "FormFutura",
+    "color": "#F6F5E5",
+    "color_info": {
+      "colors": [
+        "#F6F5E5"
+      ],
+      "type": "mono"
+    },
+    "id": 1097185409,
+    "img_src": "https://cdn.tigertag.io/img?id=1097185409&v=1794592214",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Matt Vanilla White",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175MTVW-01000",
+    "title": "EasyFil ePLA - Matt Vanilla White",
+    "updated_at": 1794592211030
   },
   {
     "RFID_Data": {
@@ -1014,6 +1658,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 53,
+      "color_g": 83,
+      "color_r": 112,
+      "data1": 56,
+      "data2": 185,
+      "data3": 215,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8719956550560",
+    "brand": "FormFutura",
+    "color": "#705335",
+    "color_info": {
+      "colors": [
+        "#705335"
+      ],
+      "type": "mono"
+    },
+    "id": 1198336402,
+    "img_src": "https://cdn.tigertag.io/img?id=1198336402&v=1794592053",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Champagne Gold",
+    "product_type": "Filament",
+    "series": "Galaxy PLA",
+    "sku": "GPLA-175CGLD-00750",
+    "title": "Galaxy PLA - Champagne Gold",
+    "updated_at": 1794592049407
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -1056,6 +1746,52 @@
     "sku": "175VPLA-BLCK-0750",
     "title": "Volcano - Black",
     "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 67,
+      "color_g": 157,
+      "color_r": 67,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 80,
+      "data5": 8,
+      "data6": 90,
+      "data7": 110,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": "8718924471326",
+    "brand": "FormFutura",
+    "color": "#439D43",
+    "color_info": {
+      "colors": [
+        "#439D43"
+      ],
+      "type": "mono"
+    },
+    "id": 1261928332,
+    "img_src": "https://cdn.tigertag.io/img?id=1261928332&v=1794592347",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "750 g",
+    "name": "Glow in the Dark Green",
+    "product_type": "Filament",
+    "series": "EasyFil",
+    "sku": "EABG-175GREN-00750",
+    "title": "EasyFil - Glow in the Dark Green",
+    "updated_at": 1794592343885
   },
   {
     "RFID_Data": {
@@ -1152,6 +1888,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 120,
+      "color_g": 176,
+      "color_r": 194,
+      "data1": 56,
+      "data2": 215,
+      "data3": 260,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 55,
+      "id_aspect1": 123,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "aspect1": "Wood",
+    "aspect2": null,
+    "barcode": "8718924475973",
+    "brand": "FormFutura",
+    "color": "#C2B078",
+    "color_info": {
+      "colors": [
+        "#C2B078"
+      ],
+      "type": "mono"
+    },
+    "id": 1293003437,
+    "img_src": "https://cdn.tigertag.io/img?id=1293003437&v=1794591780",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "500 g",
+    "name": "Light",
+    "product_type": "Filament",
+    "series": "EasyCork",
+    "sku": "ECRK-175LGHT-00500",
+    "title": "EasyCork - Light",
+    "updated_at": 1794591776157
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -1240,6 +2022,52 @@
     "sku": "MPLA-175DGCM-00750",
     "title": "Matt PLA - Dark Green Camouflage",
     "updated_at": 1784892899047
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 25,
+      "color_g": 32,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 185,
+      "data3": 210,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924471821",
+    "brand": "FormFutura",
+    "color": "#A52019",
+    "color_info": {
+      "colors": [
+        "#A52019"
+      ],
+      "type": "mono"
+    },
+    "id": 1437628751,
+    "img_src": "https://cdn.tigertag.io/img?id=1437628751&v=1794592406",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Flaming Red",
+    "product_type": "Filament",
+    "series": "Premium PLA",
+    "sku": "PPLA-175FRED-01000",
+    "title": "Premium PLA - Flaming Red",
+    "updated_at": 1794592402362
   },
   {
     "RFID_Data": {
@@ -1382,6 +2210,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 103,
+      "color_g": 96,
+      "color_r": 86,
+      "data1": 56,
+      "data2": 185,
+      "data3": 215,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8719956550683",
+    "brand": "FormFutura",
+    "color": "#566067",
+    "color_info": {
+      "colors": [
+        "#566067"
+      ],
+      "type": "mono"
+    },
+    "id": 1522282232,
+    "img_src": "https://cdn.tigertag.io/img?id=1522282232&v=1794592110",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Space Grey",
+    "product_type": "Filament",
+    "series": "Galaxy PLA",
+    "sku": "GPLA-175SPGY-00750",
+    "title": "Galaxy PLA - Space Grey",
+    "updated_at": 1794592107006
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 255,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847050540",
+    "brand": "FormFutura",
+    "color": "#FFFFFF",
+    "color_info": {
+      "colors": [
+        "#FFFFFF"
+      ],
+      "type": "mono"
+    },
+    "id": 1533246315,
+    "img_src": "https://cdn.tigertag.io/img?id=1533246315&v=1794591948",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Snow White",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175SNWH-01000",
+    "title": "EasyFil ePLA - Snow White",
+    "updated_at": 1794591944228
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 146,
       "color_g": 146,
       "color_r": 195,
@@ -1424,6 +2344,52 @@
     "sku": "175STONEFIL-TERRA-0500",
     "title": "StoneFil (PLA) - Terracotta",
     "updated_at": 1784882879360
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 143,
+      "color_g": 136,
+      "color_r": 63,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847050854",
+    "brand": "FormFutura",
+    "color": "#3F888F",
+    "color_info": {
+      "colors": [
+        "#3F888F"
+      ],
+      "type": "mono"
+    },
+    "id": 1660842026,
+    "img_src": "https://cdn.tigertag.io/img?id=1660842026&v=1794592022",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Turquoise Blue",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175TUBU-01000",
+    "title": "EasyFil ePLA - Turquoise Blue",
+    "updated_at": 1794592018524
   },
   {
     "RFID_Data": {
@@ -1474,6 +2440,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 5,
+      "color_g": 6,
+      "color_r": 204,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 45,
+      "data5": 12,
+      "data6": 75,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847058829",
+    "brand": "FormFutura",
+    "color": "#CC0605",
+    "color_info": {
+      "colors": [
+        "#CC0605"
+      ],
+      "type": "mono"
+    },
+    "id": 1694933651,
+    "img_src": "https://cdn.tigertag.io/img?id=1694933651&v=1794591736",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "750 g",
+    "name": "Traffic Red",
+    "product_type": "Filament",
+    "series": "ReFill PETG",
+    "sku": "RFPE-175TRRD-00750",
+    "title": "ReFill PETG - Traffic Red",
+    "updated_at": 1794591733252
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 67,
+      "color_g": 157,
+      "color_r": 67,
+      "data1": 56,
+      "data2": 240,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 75,
+      "data7": 80,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": "8719956556135",
+    "brand": "FormFutura",
+    "color": "#439D43",
+    "color_info": {
+      "colors": [
+        "#439D43"
+      ],
+      "type": "mono"
+    },
+    "id": 1698802218,
+    "img_src": "https://cdn.tigertag.io/img?id=1698802218&v=1794591687",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "500 g",
+    "name": "Green",
+    "product_type": "Filament",
+    "series": "CarbonFil",
+    "sku": "CRBF-175GREN-00500",
+    "title": "CarbonFil - Green",
+    "updated_at": 1794591684239
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 48,
       "color_g": 60,
       "color_r": 59,
@@ -1516,6 +2574,52 @@
     "sku": "FOFF0461",
     "title": "EasyWood - Ebony",
     "updated_at": 1784883721469
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 84,
+      "color_g": 44,
+      "color_r": 16,
+      "data1": 56,
+      "data2": 185,
+      "data3": 215,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8719956550522",
+    "brand": "FormFutura",
+    "color": "#102C54",
+    "color_info": {
+      "colors": [
+        "#102C54"
+      ],
+      "type": "mono"
+    },
+    "id": 1806870726,
+    "img_src": "https://cdn.tigertag.io/img?id=1806870726&v=1794592081",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Orion Blue",
+    "product_type": "Filament",
+    "series": "Galaxy PLA",
+    "sku": "GPLA-175OBLU-00750",
+    "title": "Galaxy PLA - Orion Blue",
+    "updated_at": 1794592078044
   },
   {
     "RFID_Data": {
@@ -1796,6 +2900,144 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 23,
+      "color_g": 76,
+      "color_r": 114,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 126,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Pearl",
+    "aspect2": null,
+    "barcode": "8720847050571",
+    "brand": "FormFutura",
+    "color": "#724C17",
+    "color_info": {
+      "colors": [
+        "#724C17"
+      ],
+      "type": "mono"
+    },
+    "id": 1966971343,
+    "img_src": "https://cdn.tigertag.io/img?id=1966971343&v=1794591919",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Pearl Bronze",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175PBRZ-01000",
+    "title": "EasyFil ePLA - Pearl Bronze",
+    "updated_at": 1794591915223
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 179,
+      "color_g": 113,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 60,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 52077,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720629061276",
+    "brand": "FormFutura",
+    "color": "#2271B3",
+    "color_info": {
+      "colors": [
+        "#2271B3"
+      ],
+      "type": "mono"
+    },
+    "id": 2045098084,
+    "img_src": "https://cdn.tigertag.io/img?id=2045098084&v=1794592243",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PET",
+    "measure": "750 g",
+    "name": "Sky Blue (RAL 5015)",
+    "product_type": "Filament",
+    "series": "High Precision PET",
+    "sku": "HPPE-175SKBU-00750",
+    "title": "High Precision PET - Sky Blue (RAL 5015)",
+    "updated_at": 1794592240024
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 102,
+      "color_g": 176,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 215,
+      "data3": 235,
+      "data4": 50,
+      "data5": 8,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "8720629065267",
+    "brand": "FormFutura",
+    "color": "#FFB066",
+    "color_info": {
+      "colors": [
+        "#FFB066"
+      ],
+      "type": "mono"
+    },
+    "id": 2074153337,
+    "img_src": "https://cdn.tigertag.io/img?id=2074153337&v=1794592200",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Matt Apricot",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175MTAP-01000",
+    "title": "EasyFil ePLA - Matt Apricot",
+    "updated_at": 1794592196285
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 96,
       "color_g": 146,
       "color_r": 149,
@@ -1838,6 +3080,52 @@
     "sku": "MPLA-175OLCM-00250",
     "title": "Matt PLA - Olive Camouflage",
     "updated_at": 1784887110252
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 57,
+      "color_g": 166,
+      "color_r": 87,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 45,
+      "data5": 12,
+      "data6": 75,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847058850",
+    "brand": "FormFutura",
+    "color": "#57A639",
+    "color_info": {
+      "colors": [
+        "#57A639"
+      ],
+      "type": "mono"
+    },
+    "id": 2102973830,
+    "img_src": "https://cdn.tigertag.io/img?id=2102973830&v=1794591750",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "750 g",
+    "name": "Yellow Green",
+    "product_type": "Filament",
+    "series": "ReFill PETG",
+    "sku": "RFPE-175YLGN-00750",
+    "title": "ReFill PETG - Yellow Green",
+    "updated_at": 1794591747494
   },
   {
     "RFID_Data": {
@@ -1980,6 +3268,144 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 125,
+      "color_g": 255,
+      "color_r": 155,
+      "data1": 56,
+      "data2": 185,
+      "data3": 210,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924471869",
+    "brand": "FormFutura",
+    "color": "#9BFF7D",
+    "color_info": {
+      "colors": [
+        "#9BFF7D"
+      ],
+      "type": "mono"
+    },
+    "id": 2261779477,
+    "img_src": "https://cdn.tigertag.io/img?id=2261779477&v=1794592377",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Atomic Green",
+    "product_type": "Filament",
+    "series": "Premium PLA",
+    "sku": "PPLA-175AGRN-01000",
+    "title": "Premium PLA - Atomic Green",
+    "updated_at": 1794592373258
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 185,
+      "color_r": 252,
+      "data1": 56,
+      "data2": 185,
+      "data3": 210,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924471845",
+    "brand": "FormFutura",
+    "color": "#FCB900",
+    "color_info": {
+      "colors": [
+        "#FCB900"
+      ],
+      "type": "mono"
+    },
+    "id": 2264123054,
+    "img_src": "https://cdn.tigertag.io/img?id=2264123054&v=1794592434",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Solar Yellow",
+    "product_type": "Filament",
+    "series": "Premium PLA",
+    "sku": "PPLA-175SYLW-01000",
+    "title": "Premium PLA - Solar Yellow",
+    "updated_at": 1794592430977
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 5,
+      "color_g": 6,
+      "color_r": 204,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847050748",
+    "brand": "FormFutura",
+    "color": "#CC0605",
+    "color_info": {
+      "colors": [
+        "#CC0605"
+      ],
+      "type": "mono"
+    },
+    "id": 2265711234,
+    "img_src": "https://cdn.tigertag.io/img?id=2265711234&v=1794591992",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Traffic Red",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175TRRD-01000",
+    "title": "EasyFil ePLA - Traffic Red",
+    "updated_at": 1794591987338
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 255,
       "color_g": 255,
       "color_r": 255,
@@ -2022,6 +3448,52 @@
     "sku": "FOFF0435",
     "title": "ABSpro - White",
     "updated_at": 1788524254853
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 246,
+      "color_g": 246,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 235,
+      "data3": 275,
+      "data4": 50,
+      "data5": 12,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847053305",
+    "brand": "FormFutura",
+    "color": "#F6F6F6",
+    "color_info": {
+      "colors": [
+        "#F6F6F6"
+      ],
+      "type": "mono"
+    },
+    "id": 2330087639,
+    "img_src": "https://cdn.tigertag.io/img?id=2330087639&v=1794591720",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Traffic White",
+    "product_type": "Filament",
+    "series": "EasyFil ePETG",
+    "sku": "PTGE-175TWHT-01000",
+    "title": "EasyFil ePETG - Traffic White",
+    "updated_at": 1794591716948
   },
   {
     "RFID_Data": {
@@ -2072,6 +3544,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 246,
+      "color_g": 246,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 200,
+      "data3": 250,
+      "data4": 75,
+      "data5": 8,
+      "data6": 35,
+      "data7": 40,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847069740",
+    "brand": "FormFutura",
+    "color": "#F6F6F6",
+    "color_info": {
+      "colors": [
+        "#F6F6F6"
+      ],
+      "type": "mono"
+    },
+    "id": 2351198718,
+    "img_src": "https://cdn.tigertag.io/img?id=2351198718&v=1794592487",
+    "info1": false,
+    "info2": true,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "name": "Traffic White",
+    "product_type": "Filament",
+    "series": "ReForm rTPU 85A",
+    "sku": "RT85-175TWHT-01000",
+    "title": "ReForm rTPU 85A - Traffic White",
+    "updated_at": 1794592481153
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 160,
       "color_g": 194,
       "color_r": 168,
@@ -2114,6 +3632,98 @@
     "sku": "MPLA-175SAGE-B1000",
     "title": "Matt PLA - Sage",
     "updated_at": 1784886939856
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 125,
+      "color_g": 255,
+      "color_r": 155,
+      "data1": 56,
+      "data2": 240,
+      "data3": 280,
+      "data4": 80,
+      "data5": 8,
+      "data6": 85,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924471951",
+    "brand": "FormFutura",
+    "color": "#9BFF7D",
+    "color_info": {
+      "colors": [
+        "#9BFF7D"
+      ],
+      "type": "mono"
+    },
+    "id": 2452566784,
+    "img_src": "https://cdn.tigertag.io/img?id=2452566784&v=1794592361",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "1000 g",
+    "name": "Atomic Green",
+    "product_type": "Filament",
+    "series": "Premium ABS",
+    "sku": "PABS-175AGRN-01000",
+    "title": "Premium ABS - Atomic Green",
+    "updated_at": 1794592358142
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 30,
+      "color_g": 30,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 70,
+      "data5": 24,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847069733",
+    "brand": "FormFutura",
+    "color": "#1E1E1E",
+    "color_info": {
+      "colors": [
+        "#1E1E1E"
+      ],
+      "type": "mono"
+    },
+    "id": 2511506403,
+    "img_src": "https://cdn.tigertag.io/img?id=2511506403&v=1794592503",
+    "info1": false,
+    "info2": true,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "name": "Traffic Black",
+    "product_type": "Filament",
+    "series": "ReForm rTPU 90A",
+    "sku": "RT90-175TBLK-01000",
+    "title": "ReForm rTPU 90A - Traffic Black",
+    "updated_at": 1794592499844
   },
   {
     "RFID_Data": {
@@ -2210,6 +3820,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 179,
+      "color_g": 113,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 185,
+      "data3": 210,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924471838",
+    "brand": "FormFutura",
+    "color": "#2271B3",
+    "color_info": {
+      "colors": [
+        "#2271B3"
+      ],
+      "type": "mono"
+    },
+    "id": 2586953826,
+    "img_src": "https://cdn.tigertag.io/img?id=2586953826&v=1794592419",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Ocean Blue",
+    "product_type": "Filament",
+    "series": "Premium PLA",
+    "sku": "PPLA-175OCBU-01000",
+    "title": "Premium PLA - Ocean Blue",
+    "updated_at": 1794592415932
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 67,
+      "color_g": 157,
+      "color_r": 67,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 91,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glow in the Dark",
+    "aspect2": null,
+    "barcode": "8718924471005",
+    "brand": "FormFutura",
+    "color": "#439D43",
+    "color_info": {
+      "colors": [
+        "#439D43"
+      ],
+      "type": "mono"
+    },
+    "id": 2596779140,
+    "img_src": "https://cdn.tigertag.io/img?id=2596779140&v=1794591810",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Glow in the Dark Green",
+    "product_type": "Filament",
+    "series": "EasyFil",
+    "sku": "EPLG-175GREN-00750",
+    "title": "EasyFil - Glow in the Dark Green",
+    "updated_at": 1794591807447
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 240,
       "color_g": 246,
       "color_r": 246,
@@ -2302,6 +4004,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 209,
+      "color_g": 209,
+      "color_r": 209,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": "8720629064666",
+    "brand": "FormFutura",
+    "color": "#D1D1D1",
+    "color_info": {
+      "colors": [
+        "#D1D1D1"
+      ],
+      "type": "mono"
+    },
+    "id": 2645671499,
+    "img_src": "https://cdn.tigertag.io/img?id=2645671499&v=1794591888",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Matt Light Grey",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175MTLG-01000",
+    "title": "EasyFil ePLA - Matt Light Grey",
+    "updated_at": 1794591884741
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 30,
+      "color_g": 17,
+      "color_r": 155,
+      "data1": 56,
+      "data2": 185,
+      "data3": 215,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8719956550607",
+    "brand": "FormFutura",
+    "color": "#9B111E",
+    "color_info": {
+      "colors": [
+        "#9B111E"
+      ],
+      "type": "mono"
+    },
+    "id": 2668913309,
+    "img_src": "https://cdn.tigertag.io/img?id=2668913309&v=1794592097",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Ruby Red",
+    "product_type": "Filament",
+    "series": "Galaxy PLA",
+    "sku": "GPLA-175RRED-00750",
+    "title": "Galaxy PLA - Ruby Red",
+    "updated_at": 1794592092848
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 153,
       "color_g": 153,
       "color_r": 153,
@@ -2390,6 +4184,52 @@
     "sku": "175EWOOD-PINE-0500",
     "title": "EasyWood - Pine",
     "updated_at": 1784883859270
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 165,
+      "color_g": 165,
+      "color_r": 165,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 60,
+      "data5": 6,
+      "data6": 80,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 52077,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720629061214",
+    "brand": "FormFutura",
+    "color": "#A5A5A5",
+    "color_info": {
+      "colors": [
+        "#A5A5A5"
+      ],
+      "type": "mono"
+    },
+    "id": 2690397119,
+    "img_src": "https://cdn.tigertag.io/img?id=2690397119&v=1794592258",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PET",
+    "measure": "750 g",
+    "name": "White Aluminium (RAL 9006)",
+    "product_type": "Filament",
+    "series": "High Precision PET",
+    "sku": "HPPE-175WHAL-00750",
+    "title": "High Precision PET - White Aluminium (RAL 9006)",
+    "updated_at": 1794592254678
   },
   {
     "RFID_Data": {
@@ -2624,6 +4464,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 82,
+      "color_g": 93,
+      "color_r": 1,
+      "data1": 56,
+      "data2": 185,
+      "data3": 215,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8719956550645",
+    "brand": "FormFutura",
+    "color": "#015D52",
+    "color_info": {
+      "colors": [
+        "#015D52"
+      ],
+      "type": "mono"
+    },
+    "id": 2808221872,
+    "img_src": "https://cdn.tigertag.io/img?id=2808221872&v=1794592068",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Opal Green",
+    "product_type": "Filament",
+    "series": "Galaxy PLA",
+    "sku": "GPLA-175OGRN-00750",
+    "title": "Galaxy PLA - Opal Green",
+    "updated_at": 1794592062982
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 246,
+      "color_g": 246,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 70,
+      "data5": 24,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847069726",
+    "brand": "FormFutura",
+    "color": "#F6F6F6",
+    "color_info": {
+      "colors": [
+        "#F6F6F6"
+      ],
+      "type": "mono"
+    },
+    "id": 2811771659,
+    "img_src": "https://cdn.tigertag.io/img?id=2811771659&v=1794592522",
+    "info1": false,
+    "info2": true,
+    "info3": false,
+    "material": "TPU",
+    "measure": "1000 g",
+    "name": "Traffic White",
+    "product_type": "Filament",
+    "series": "ReForm rTPU 90A",
+    "sku": "RT90-175TWHT-01000",
+    "title": "ReForm rTPU 90A - Traffic White",
+    "updated_at": 1794592518935
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 255,
@@ -2666,6 +4598,52 @@
     "sku": "FOFF0441",
     "title": "ApolloX - Red",
     "updated_at": 1788523852959
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 0,
+      "color_g": 255,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "8720847050670",
+    "brand": "FormFutura",
+    "color": "#FFFF00",
+    "color_info": {
+      "colors": [
+        "#FFFF00"
+      ],
+      "type": "mono"
+    },
+    "id": 2852386664,
+    "img_src": "https://cdn.tigertag.io/img?id=2852386664&v=1794591872",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Luminous Yellow",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175LYLW-01000",
+    "title": "EasyFil ePLA - Luminous Yellow",
+    "updated_at": 1794591868383
   },
   {
     "RFID_Data": {
@@ -2762,6 +4740,144 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 80,
+      "color_r": 254,
+      "data1": 56,
+      "data2": 185,
+      "data3": 210,
+      "data4": 50,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924471883",
+    "brand": "FormFutura",
+    "color": "#FE5000",
+    "color_info": {
+      "colors": [
+        "#FE5000"
+      ],
+      "type": "mono"
+    },
+    "id": 2891982082,
+    "img_src": "https://cdn.tigertag.io/img?id=2891982082&v=1794592391",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Dutch Orange",
+    "product_type": "Filament",
+    "series": "Premium PLA",
+    "sku": "PPLA-175DORA-01000",
+    "title": "Premium PLA - Dutch Orange",
+    "updated_at": 1794592387460
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 30,
+      "color_g": 30,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": 75,
+      "data5": 8,
+      "data6": 60,
+      "data7": 90,
+      "id_aspect1": 247,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 500
+    },
+    "aspect1": "Matt",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "FormFutura",
+    "color": "#1E1E1E",
+    "color_info": {
+      "colors": [
+        "#1E1E1E"
+      ],
+      "type": "mono"
+    },
+    "id": 2910309238,
+    "img_src": "https://cdn.tigertag.io/img?id=2910309238&v=1794592465",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "500 g",
+    "name": "Matt Black",
+    "product_type": "Filament",
+    "series": "Python Flex (TPU 98A)",
+    "sku": "PF98-175MTBK-00500",
+    "title": "Python Flex (TPU 98A) - Matt Black",
+    "updated_at": 1794592461425
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 90,
+      "color_g": 18,
+      "color_r": 199,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 55,
+      "id_aspect1": 64,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Glitter",
+    "aspect2": null,
+    "barcode": "8719956552243",
+    "brand": "FormFutura",
+    "color": "#C7125A",
+    "color_info": {
+      "colors": [
+        "#C7125A"
+      ],
+      "type": "mono"
+    },
+    "id": 2911520445,
+    "img_src": "https://cdn.tigertag.io/img?id=2911520445&v=1794592142",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Andromeda Purple",
+    "product_type": "Filament",
+    "series": "Galaxy PLA",
+    "sku": "GPLA-175APUR-00750",
+    "title": "Galaxy PLA - Andromeda Purple",
+    "updated_at": 1794592137644
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 237,
       "color_g": 237,
       "color_r": 237,
@@ -2808,6 +4924,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 5,
+      "color_g": 6,
+      "color_r": 204,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": 40,
+      "data5": 6,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924471449",
+    "brand": "FormFutura",
+    "color": "#CC0605",
+    "color_info": {
+      "colors": [
+        "#CC0605"
+      ],
+      "type": "mono"
+    },
+    "id": 2924007254,
+    "img_src": "https://cdn.tigertag.io/img?id=2924007254&v=1794592334",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "750 g",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "EasyFil",
+    "sku": "EABS-175REDC-00750",
+    "title": "EasyFil - Red",
+    "updated_at": 1794592330070
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 30,
+      "color_g": 30,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847051073",
+    "brand": "FormFutura",
+    "color": "#1E1E1E",
+    "color_info": {
+      "colors": [
+        "#1E1E1E"
+      ],
+      "type": "mono"
+    },
+    "id": 2963501334,
+    "img_src": "https://cdn.tigertag.io/img?id=2963501334&v=1794591961",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Traffic Black",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175TBLK-01000",
+    "title": "EasyFil ePLA - Traffic Black",
+    "updated_at": 1794591957890
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -2850,6 +5058,52 @@
     "sku": "CTPP-175BLCK-00500",
     "title": "Centaur - Black",
     "updated_at": 1784893982258
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 70,
+      "color_g": 132,
+      "color_r": 48,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847050892",
+    "brand": "FormFutura",
+    "color": "#308446",
+    "color_info": {
+      "colors": [
+        "#308446"
+      ],
+      "type": "mono"
+    },
+    "id": 3003658204,
+    "img_src": "https://cdn.tigertag.io/img?id=3003658204&v=1794591976",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Traffic Green",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175TGRN-01000",
+    "title": "EasyFil ePLA - Traffic Green",
+    "updated_at": 1794591972833
   },
   {
     "RFID_Data": {
@@ -2942,6 +5196,52 @@
     "sku": "AXKV-175BLCK-00500",
     "title": "ApolloX 10% Kevlar - Black",
     "updated_at": 1788523852959
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 1,
+      "color_g": 174,
+      "color_r": 214,
+      "data1": 56,
+      "data2": 210,
+      "data3": 240,
+      "data4": 60,
+      "data5": 6,
+      "data6": 40,
+      "data7": 60,
+      "id_aspect1": 129,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Gloss",
+    "aspect2": null,
+    "barcode": "8720574292107",
+    "brand": "FormFutura",
+    "color": "#D6AE01",
+    "color_info": {
+      "colors": [
+        "#D6AE01"
+      ],
+      "type": "mono"
+    },
+    "id": 3175220646,
+    "img_src": "https://cdn.tigertag.io/img?id=3175220646&v=1794592170",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Gold",
+    "product_type": "Filament",
+    "series": "High Gloss PLA",
+    "sku": "HPLA-175GOLD-00750",
+    "title": "High Gloss PLA - Gold",
+    "updated_at": 1794592166784
   },
   {
     "RFID_Data": {
@@ -3268,6 +5568,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 184,
+      "color_g": 105,
+      "color_r": 30,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": 60,
+      "data5": 12,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 52077,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924479711",
+    "brand": "FormFutura",
+    "color": "#1E69B8",
+    "color_info": {
+      "colors": [
+        "#1E69B8"
+      ],
+      "type": "mono"
+    },
+    "id": 3663433432,
+    "img_src": "https://cdn.tigertag.io/img?id=3663433432&v=1794592288",
+    "info1": false,
+    "info2": true,
+    "info3": false,
+    "material": "PET",
+    "measure": "1000 g",
+    "name": "Dark Blue",
+    "product_type": "Filament",
+    "series": "ReForm rPET",
+    "sku": "RPET-175DBLU-01000",
+    "title": "ReForm rPET - Dark Blue",
+    "updated_at": 1794592284565
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 32,
+      "color_g": 164,
+      "color_r": 255,
+      "data1": 56,
+      "data2": 200,
+      "data3": 275,
+      "data4": 40,
+      "data5": 6,
+      "data6": 50,
+      "data7": 60,
+      "id_aspect1": 216,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Neon",
+    "aspect2": null,
+    "barcode": "8720847050717",
+    "brand": "FormFutura",
+    "color": "#FFA420",
+    "color_info": {
+      "colors": [
+        "#FFA420"
+      ],
+      "type": "mono"
+    },
+    "id": 3693925072,
+    "img_src": "https://cdn.tigertag.io/img?id=3693925072&v=1794591841",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Luminous Bright Orange",
+    "product_type": "Filament",
+    "series": "EasyFil ePLA",
+    "sku": "PLAE-175LBOR-01000",
+    "title": "EasyFil ePLA - Luminous Bright Orange",
+    "updated_at": 1794591837362
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 153,
       "color_g": 153,
       "color_r": 153,
@@ -3406,6 +5798,98 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 57,
+      "color_g": 166,
+      "color_r": 87,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": 60,
+      "data5": 12,
+      "data6": 60,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 52077,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8719956553370",
+    "brand": "FormFutura",
+    "color": "#57A639",
+    "color_info": {
+      "colors": [
+        "#57A639"
+      ],
+      "type": "mono"
+    },
+    "id": 3917488344,
+    "img_src": "https://cdn.tigertag.io/img?id=3917488344&v=1794592303",
+    "info1": false,
+    "info2": true,
+    "info3": false,
+    "material": "PET",
+    "measure": "1000 g",
+    "name": "Light Green",
+    "product_type": "Filament",
+    "series": "ReForm rPET",
+    "sku": "RPET-175LGRN-01000",
+    "title": "ReForm rPET - Light Green",
+    "updated_at": 1794592299308
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 43,
+      "color_g": 243,
+      "color_r": 248,
+      "data1": 56,
+      "data2": 220,
+      "data3": 250,
+      "data4": 45,
+      "data5": 12,
+      "data6": 75,
+      "data7": 80,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847058874",
+    "brand": "FormFutura",
+    "color": "#F8F32B",
+    "color_info": {
+      "colors": [
+        "#F8F32B"
+      ],
+      "type": "mono"
+    },
+    "id": 3925601676,
+    "img_src": "https://cdn.tigertag.io/img?id=3925601676&v=1794591766",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "750 g",
+    "name": "Zinc Yellow",
+    "product_type": "Filament",
+    "series": "ReFill PETG",
+    "sku": "RFPE-175ZYLW-00750",
+    "title": "ReFill PETG - Zinc Yellow",
+    "updated_at": 1794591762307
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -3494,6 +5978,52 @@
     "sku": "FOFF0769",
     "title": "TitanX - Light Grey",
     "updated_at": 1788524254853
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 221,
+      "color_g": 253,
+      "color_r": 249,
+      "data1": 56,
+      "data2": 190,
+      "data3": 190,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 60,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Metal",
+    "aspect2": null,
+    "barcode": "8718924477243",
+    "brand": "FormFutura",
+    "color": "#F9FDDD",
+    "color_info": {
+      "colors": [
+        "#F9FDDD"
+      ],
+      "type": "mono"
+    },
+    "id": 4138214349,
+    "img_src": "https://cdn.tigertag.io/img?id=4138214349&v=1794592229",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Brass",
+    "product_type": "Filament",
+    "series": "MetalFil (PLA)",
+    "sku": "MFBS-175NTRL-00750",
+    "title": "MetalFil (PLA) - Brass",
+    "updated_at": 1794592225681
   },
   {
     "RFID_Data": {
@@ -3632,5 +6162,97 @@
     "sku": "RPET-175CWHT-01000",
     "title": "ReForm rPET - Cream White",
     "updated_at": 1788523102247
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 179,
+      "color_g": 113,
+      "color_r": 34,
+      "data1": 56,
+      "data2": 230,
+      "data3": 255,
+      "data4": 40,
+      "data5": 6,
+      "data6": 100,
+      "data7": 110,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8718924471784",
+    "brand": "FormFutura",
+    "color": "#2271B3",
+    "color_info": {
+      "colors": [
+        "#2271B3"
+      ],
+      "type": "mono"
+    },
+    "id": 4231418346,
+    "img_src": "https://cdn.tigertag.io/img?id=4231418346&v=1794592319",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "750 g",
+    "name": "Light Blue",
+    "product_type": "Filament",
+    "series": "EasyFil",
+    "sku": "EABS-175LBLU-00750",
+    "title": "EasyFil - Light Blue",
+    "updated_at": 1794592314834
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 17,
+      "color_g": 70,
+      "color_r": 244,
+      "data1": 56,
+      "data2": 235,
+      "data3": 275,
+      "data4": 50,
+      "data5": 12,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 53043,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8720847053114",
+    "brand": "FormFutura",
+    "color": "#F44611",
+    "color_info": {
+      "colors": [
+        "#F44611"
+      ],
+      "type": "mono"
+    },
+    "id": 4260547731,
+    "img_src": "https://cdn.tigertag.io/img?id=4260547731&v=1794591705",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Pure Orange",
+    "product_type": "Filament",
+    "series": "EasyFil ePETG",
+    "sku": "PTGE-175PORA-01000",
+    "title": "EasyFil ePETG - Pure Orange",
+    "updated_at": 1794591701506
   }
 ]

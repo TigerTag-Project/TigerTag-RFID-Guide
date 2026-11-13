@@ -1888,6 +1888,52 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 43,
+      "color_g": 43,
+      "color_r": 41,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 8,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 900
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#292B2B",
+    "color_info": {
+      "colors": [
+        "#292B2B"
+      ],
+      "type": "mono"
+    },
+    "id": 1472813607,
+    "img_src": "https://cdn.tigertag.io/img?id=1472813607&v=1794580828",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "900 g",
+    "name": "Jet Black Refill",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "PR-PETG-JETBLACK-REFILL-900G",
+    "title": "PETG - Jet Black Refill",
+    "updated_at": 1794580823962
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 212,
       "color_g": 198,
       "color_r": 247,
@@ -4276,6 +4322,52 @@
     "sku": "PRM-ASA-OLIGRE-800",
     "title": "ASA - Olive Green",
     "updated_at": 1792247113557
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 42,
+      "color_g": 41,
+      "color_r": 36,
+      "data1": 56,
+      "data2": 220,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#24292A",
+    "color_info": {
+      "colors": [
+        "#24292A"
+      ],
+      "type": "mono"
+    },
+    "id": 3340322483,
+    "img_src": "https://cdn.tigertag.io/img?id=3340322483&v=1794580813",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Jet Black",
+    "product_type": "Filament",
+    "series": "PETG V0",
+    "sku": "PR-PETG-V0-JETBLACK-1000G",
+    "title": "PETG V0 - Jet Black",
+    "updated_at": 1794580810482
   },
   {
     "RFID_Data": {
