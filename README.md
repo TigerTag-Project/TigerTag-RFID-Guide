@@ -32,7 +32,7 @@
 </p>
 
 [![Protocol site](https://img.shields.io/badge/protocol%20site-11%20languages-f58220)](https://tigertag-project.github.io/TigerTag-RFID-Guide/)
-[![Protocol](https://img.shields.io/badge/protocol-v2.2-orange)](#7-version-history)
+[![Protocol](https://img.shields.io/badge/protocol-v2.3-orange)](#7-version-history)
 [![Spec license](https://img.shields.io/badge/spec-CC--BY--4.0-blue)](LICENSING.md)
 [![Code license](https://img.shields.io/badge/code-Apache--2.0-blue)](LICENSING.md)
 [![Database license](https://img.shields.io/badge/database-CC0--1.0-blue)](LICENSING.md)
@@ -564,6 +564,12 @@ is ISO 14443-3 compatible (NTAG21x family).
 
 ### User memory pages (TigerTag payload)
 
+The table below is the **filament** layout (`ID Type` = `0x8E`). A **resin**
+chip (`ID Type` = `0xAD`) shares the same header, measure, message and
+signature pages, but gives pages `0x07` byte 1, `0x0A`, `0x0B` and
+`0x0D`–`0x0F` other meanings: read `ID Type` first, then see
+[section 2.12 — TigerTag Resin](#212-tigertag-resin--resin-chip-layout).
+
 | Page | Byte(s) | Offset | Size | Field | Type | Description |
 | ---- | ------- | ------ | ---- | ----- | ---- | ----------- |
 | `0x04` | `0-3` | `+0` | 4 bytes | ID TigerTag | u32 BE | Format identifier (TigerTag / TigerTag+ / TigerTag Init) |
@@ -572,7 +578,7 @@ is ISO 14443-3 compatible (NTAG21x family).
 | `0x06` | `2` | `+10` | 1 byte | ID Aspect 1 | u8 | Primary visual aspect (see section 2.5) |
 | `0x06` | `3` | `+11` | 1 byte | ID Aspect 2 | u8 | Secondary visual aspect (see section 2.5) |
 | `0x07` | `0` | `+12` | 1 byte | ID Type | u8 | `0x8E`=Filament, `0xAD`=Resin (see section 2.6) |
-| `0x07` | `1` | `+13` | 1 byte | ID Diameter | u8 | `0x38`=1.75mm, `0xDD`=2.85mm (see section 2.4) |
+| `0x07` | `1` | `+13` | 1 byte | ID Diameter | u8 | `0x38`=1.75mm, `0xDD`=2.85mm (see section 2.4); Mix Time on a resin chip (see section 2.12) |
 | `0x07` | `2-3` | `+14` | 2 bytes | ID Brand | u16 BE | Manufacturer/Brand ID (see section 2.7) |
 | `0x08` | `0-3` | `+16` | 4 bytes | Color 1 (RGBA) | bytes | Primary color R/G/B/A |
 | `0x09` | `0-2` | `+20` | 3 bytes | Measure | u24 BE | Quantity at manufacturing (see ID Unit) |
@@ -774,6 +780,9 @@ The `ID TigerTag` field acts as a **magic number** / **protocol identifier** use
 - `0x38` = `56` → 1.75mm
 - `0xDD` = `221` → 2.85mm
 
+**Filament only.** On a resin chip (`ID Type` = `0xAD`) the same byte is
+**Mix Time**, not a diameter — see [section 2.12](#212-tigertag-resin--resin-chip-layout).
+
 ---
 
 ## 2.5 ID Aspect 1 & 2
@@ -887,9 +896,14 @@ Example:
 **Examples:**
 - `0x15` = `21` → g
 - `0x23` = `35` → Kg
+- `0x30` = `48` → ml
 - `0x4F` = `79` → L
 - `0x3E` = `62` → cl
 - etc.
+
+A resin is measured in grams **or** millilitres: a resin chip carries
+`0x15` (g) or `0x30` (ml), so a reader must read the unit rather than
+assume grams — see [section 2.12](#212-tigertag-resin--resin-chip-layout).
 
 ## 2.9 Timestamp & unique pairing identifier
 
@@ -908,6 +922,10 @@ This shared value enables:
 
 🧠 Think of the `Time Stamp` as a **"twin tag ID"** in addition to being a clock — a clever way to bind two tags using time as the key.
 
+Twin tags (one chip on each side of a spool) are a filament layout. The
+resin layout defines page `0x0C` as the **manufacturing timestamp only**
+— see [section 2.12](#212-tigertag-resin--resin-chip-layout).
+
 The shared timestamp says *which* chips belong together; it does not say
 *how many* there are. That is the job of the tag index / count byte —
 see [section 2.11](#211-tag-index--tag-count).
@@ -917,6 +935,9 @@ see [section 2.11](#211-tag-index--tag-count).
 In the TigerTag format, the field `TD` is reserved to store the
 **HueForge Transmission Distance Value**, stored natively on the chip so
 it needs no manual entry; a TD1s measures it and writes it to the chip.
+
+**Filament only.** A resin chip has no TD: page `0x0F` is reserved there
+(see [section 2.12](#212-tigertag-resin--resin-chip-layout)).
 
 **Purpose:**
 - Defines how light passes through or is attenuated by the material in HueForge's simulation.
@@ -988,6 +1009,157 @@ uint8_t count = b & 0x0F;  // tags on the item — 0 = unknown
 **Backward compatibility:** this byte was reserved and required to be
 `0x00` until v2.2, so every tag already written reads as "unknown" and
 stays valid. Readers that predate v2.2 ignore it.
+
+## 2.12 TigerTag Resin — resin chip layout
+
+A TigerTag written for a **resin** (bottle, can or cartridge) uses the same
+chip, the same 144-byte payload, the same three tag types (TigerTag,
+TigerTag+, TigerTag+ Certified) and the same signature as a filament
+TigerTag. What changes is the meaning of a few pages, because a resin has
+no diameter, no nozzle or bed temperature and no drying cycle, but it does
+have a working temperature, a post-curing cycle and a washing cycle.
+
+**How to recognise a resin chip:** page `0x07`, byte 0 (`ID Type`, offset
+`+12`) = `0xAD` = `173` → Resin ([section 2.6](#26-id-type)). A reader
+MUST read `ID Type` before decoding pages `0x07` byte 1, `0x0A`, `0x0B`
+and `0x0D`–`0x0F`, which mean different things on a filament
+(`0x8E` = `142`) and on a resin chip.
+
+### Resin user memory pages
+
+All multi-byte values are **big-endian**, as everywhere in TigerTag.
+Rows in **bold** differ from the filament layout.
+
+| Page | Byte(s) | Offset | Size | Field | Type | Description |
+| ---- | ------- | ------ | ---- | ----- | ---- | ----------- |
+| `0x04` | `0-3` | `+0` | 4 bytes | ID TigerTag | u32 BE | Format identifier (TigerTag / TigerTag+ / TigerTag Init), as for filament (see section 2.1) |
+| `0x05` | `0-3` | `+4` | 4 bytes | ID Product | u32 BE | `0xFFFFFFFF` for standard TigerTag, else TigerTag+ product ID (see section 2.2) |
+| `0x06` | `0-1` | `+8` | 2 bytes | ID Material | u16 BE | Resin material ID (see section 2.3) |
+| `0x06` | `2` | `+10` | 1 byte | ID Aspect 1 | u8 | Primary visual aspect, e.g. Translucent (see section 2.5) |
+| `0x06` | `3` | `+11` | 1 byte | ID Aspect 2 | u8 | Secondary visual aspect (see section 2.5) |
+| `0x07` | `0` | `+12` | 1 byte | ID Type | u8 | **`0xAD` = `173` = Resin** |
+| **`0x07`** | **`1`** | **`+13`** | **1 byte** | **Mix Time** | **u8** | **Mixing time before use — replaces `ID Diameter`. Unit to be confirmed (see below)** |
+| `0x07` | `2-3` | `+14` | 2 bytes | ID Brand | u16 BE | Manufacturer/Brand ID (see section 2.7) |
+| **`0x08`** | **`0-3`** | **`+16`** | **4 bytes** | **Color (RGBA)** | **bytes** | **The resin colour R/G/B/A — the only colour of a resin chip** |
+| `0x09` | `0-2` | `+20` | 3 bytes | Measure | u24 BE | Quantity at manufacturing, in the unit of the next byte |
+| **`0x09`** | **`3`** | **`+23`** | **1 byte** | **ID Unit** | **u8** | **`0x15` = `21` = g, or `0x30` = `48` = ml (see section 2.8)** |
+| **`0x0A`** | **`0-1`** | **`+24`** | **2 bytes** | **Work Temp Min** | **u16 BE** | **Minimum working temperature (°C) — replaces Nozzle Temp Min** |
+| **`0x0A`** | **`2-3`** | **`+26`** | **2 bytes** | **Work Temp Max** | **u16 BE** | **Maximum working temperature (°C) — replaces Nozzle Temp Max** |
+| **`0x0B`** | **`0`** | **`+28`** | **1 byte** | **Curing Temp** | **u8** | **Post-curing temperature (°C) — replaces Dry Temp** |
+| **`0x0B`** | **`1`** | **`+29`** | **1 byte** | **Curing Time** | **u8** | **Post-curing duration (minutes) — replaces Dry Time (hours)** |
+| **`0x0B`** | **`2`** | **`+30`** | **1 byte** | **Wash Temp** | **u8** | **Washing temperature (°C, to be confirmed) — replaces Bed Temp Min** |
+| **`0x0B`** | **`3`** | **`+31`** | **1 byte** | **Wash Time** | **u8** | **Washing duration (minutes) — replaces Bed Temp Max** |
+| **`0x0C`** | **`0-3`** | **`+32`** | **4 bytes** | **Timestamp** | **u32 BE** | **Seconds since 2000-01-01 GMT (manufacturing date) — no twin tag ID** |
+| **`0x0D`** | **`0-2`** | **`+36`** | **3 bytes** | **Reserved** | **bytes** | **No Color 2 on resin. Must be `0x000000`** |
+| `0x0D` | `3` | `+39` | 1 byte | Tag index / count | u8 | Same byte as filament: high nibble = this tag, low nibble = tags on the item; `0x00` = unknown (see section 2.11) |
+| **`0x0E`** | **`0-3`** | **`+40`** | **4 bytes** | **Reserved** | **bytes** | **No Color 3 on resin. Must be `0x00000000`** |
+| **`0x0F`** | **`0-3`** | **`+44`** | **4 bytes** | **Reserved** | **bytes** | **No HueForge TD on resin. Must be `0x00000000`** |
+| `0x10`-`0x16` | all | `+48` | 28 bytes | Custom Message | UTF-8 | Free text up to 28 bytes (emoji allowed) |
+| `0x17` | `0-2` | `+76` | 3 bytes | Measure Available | u24 BE | Remaining quantity |
+| `0x17` | `3` | `+79` | 1 byte | Reserved | u8 | Must be `0x00` |
+| `0x18`-`0x1F` | all | `+80` | 32 bytes | Signature R (ECDSA) | bytes | Same as filament (optional, see section 3) |
+| `0x20`-`0x27` | all | `+112` | 32 bytes | Signature S (ECDSA) | bytes | Same as filament (optional, see section 3) |
+
+> **Signature** : the signed message is `UID + block4 + block5`
+> (section 3), so a resin chip is signed and verified exactly like a
+> filament chip — `ID Type` and the resin fields are not part of it.
+
+**Field notes:**
+
+- **Measure & ID Unit** — a filament is always counted in grams; a resin
+  is sold by weight **or** by volume, so `ID Unit` is `21` (g) or `48`
+  (ml) and `Measure` is in that unit. A reader MUST read `ID Unit` and
+  MUST NOT assume grams on a resin chip.
+- **Mix Time** — how long the resin should be mixed (shaken or stirred)
+  before use. It sits in the byte that holds `ID Diameter` on a filament
+  chip; a resin reader MUST NOT look it up in `id_diameter.json`.
+- **Work Temp Min / Max** — the temperature range the resin is meant to be
+  printed in, in °C, two bytes each like the nozzle temperatures of a
+  filament.
+- **Curing Temp / Curing Time** — the post-curing cycle: temperature in °C,
+  duration in **minutes** (a filament's Dry Time, in the same byte, is in
+  hours).
+- **Wash Temp / Wash Time** — the washing cycle after printing:
+  temperature, and duration in minutes.
+- **Timestamp** — the manufacturing date only; the resin layout defines no
+  twin-tag pairing (section 2.9 describes the filament spool case).
+- **Unknown values** — a field the brand did not give is written as `0`
+  (the catalogue's `null` becomes `0` on the chip), as for filament.
+
+### Catalogue export (JSON keys)
+
+The product catalogue ([`database/id_catalog.json`](database/id_catalog.json),
+see [`database/README.md`](database/README.md#the-product-catalogue))
+describes what a chip carries in each product's `RFID_Data` object. The
+keys are the same for every product type; **what `data1`–`data7` mean
+depends on `id_type`**:
+
+| JSON key | Legacy key (obsolete) | Filament (`id_type` 142) | Resin (`id_type` 173) | Page | Byte(s) |
+| -------- | --------------------- | ------------------------ | --------------------- | ---- | ------- |
+| `id_type` | — | `142` | `173` | `0x07` | `0` |
+| `id_brand` | — | Brand ID | Brand ID | `0x07` | `2-3` |
+| `id_material` | — | Material ID | Material ID | `0x06` | `0-1` |
+| `id_aspect1` | — | Aspect 1 ID | Aspect 1 ID | `0x06` | `2` |
+| `id_aspect2` | — | Aspect 2 ID | Aspect 2 ID | `0x06` | `3` |
+| `color_r`, `color_g`, `color_b`, `color_a` | — | Color 1 R/G/B/A | Color R/G/B/A | `0x08` | `0`, `1`, `2`, `3` |
+| `measure` | `weight` | Weight | Measure value | `0x09` | `0-2` |
+| `id_unit` | — | `21` (g) | `21` (g) or `48` (ml) | `0x09` | `3` |
+| `data1` | `id_diameter` | Diameter ID | Mix Time *(to be confirmed)* | `0x07` | `1` |
+| `data2` | `temp_min` | Nozzle Temp Min (°C) | Work Temp Min (°C) | `0x0A` | `0-1` |
+| `data3` | `temp_max` | Nozzle Temp Max (°C) | Work Temp Max (°C) | `0x0A` | `2-3` |
+| `data4` | `dry_temp` | Dry Temp (°C) | Curing Temp (°C) | `0x0B` | `0` |
+| `data5` | `dry_time` | Dry Time (hours) | Curing Time (minutes) | `0x0B` | `1` |
+| `data6` | — | Bed Temp Min (°C) | Wash Temp (°C) *(to be confirmed)* | `0x0B` | `2` |
+| `data7` | — | Bed Temp Max (°C) | Wash Time (minutes) | `0x0B` | `3` |
+
+Outside `RFID_Data`, the product-level keys (`id` — the chip's
+`ID Product` —, `title`, `series`, `name`, `sku`, `barcode`) mean the same
+for both types. Colours 2 and 3 (`color_info.colors[1]`, `[2]`) do not
+exist for a resin, whose `color_info.type` is `mono`. The three filament
+flags `info1` (refill, legacy key `refill`), `info2` (recycled, legacy
+`recycled`) and `info3` (filled, legacy `filled`) do not apply to a resin.
+
+Resin materials in [`database/id_material.json`](database/id_material.json)
+carry a `recommended` object whose keys name the same quantities —
+`workTempMin`, `workTempMax`, `postCuringTemp`, `postCuringTime`,
+`washTime` — and no mix time or wash temperature.
+
+### Differences from filament
+
+| | Filament (`ID Type` `0x8E`) | Resin (`ID Type` `0xAD`) |
+| --- | --- | --- |
+| `ID Type` (page `0x07` byte 0) | `0x8E` = `142` | `0xAD` = `173` |
+| Page `0x07` byte 1 | `ID Diameter` (`id_diameter.json`) | Mix Time |
+| Colours | Color 1 RGBA (page `0x08`) + Color 2 RGB (`0x0D`) + Color 3 RGB (`0x0E`) | One colour, RGBA (page `0x08`) |
+| `ID Unit` (page `0x09` byte 3) | grams (`21`) | grams (`21`) **or** millilitres (`48`) |
+| Page `0x0A` | Nozzle Temp Min / Max (°C) | Work Temp Min / Max (°C) |
+| Page `0x0B` | Dry Temp (°C), Dry Time (h), Bed Temp Min, Bed Temp Max (°C) | Curing Temp (°C), Curing Time (min), Wash Temp (°C), Wash Time (min) |
+| Page `0x0C` | Timestamp + twin tag ID | Timestamp only |
+| Page `0x0D` bytes 0-2 | Color 2 RGB | Reserved |
+| Page `0x0E` | Color 3 RGB + reserved byte | Reserved |
+| Page `0x0F` | HueForge TD + reserved | Reserved (no TD) |
+| `info1`–`info3` (refill, recycled, filled) | Yes | Not applicable |
+| Header, product, material, aspects, brand, measure, tag index, message, measure available, signature | Same | Same |
+
+A worked example, page by page, is in
+[section 4.3](#43-example--tigertag-resin-generic-castable-resin-500-ml).
+
+### Still to be confirmed
+
+These points are marked as open in the reference layout and are kept
+open here rather than guessed:
+
+1. **Mix Time** (page `0x07` byte 1, `data1`) — the field is marked
+   uncertain in the reference layout and its unit is not stated
+   (TigerTag Studio Manager labels it in minutes).
+2. **Wash Temp** (page `0x0B` byte 2, `data6`) — the field is marked
+   uncertain in the reference layout; °C is assumed.
+3. **Measure Available** in millilitres — Tiger Scale weighs, so the unit
+   of page `0x17` on a resin measured in ml is not specified yet.
+4. **Tag index / count** (page `0x0D` byte 3) — the reference layout for
+   resin still shows page `0x0D` as fully reserved, as its filament
+   counterpart did before v2.2; this guide applies section 2.11 to every
+   item type, resin included.
 
 ---
 
@@ -1177,6 +1349,60 @@ Use the `public_key` together with the UID, block 4, and block 5 to verify the a
 | TD               | 0x0000       | 0             | Default                                    |
 | Message          | Unprogrammed | Unprogrammed  | Placeholder message (28 bytes max)         |
 | Measure Available | 0x000000    | 0             | remaining quantity                         |
+
+> ⚠️ The UID is unique per chip and assigned by the chip manufacturer at production. Values shown above are illustrative only.
+
+## 4.3 Example — TigerTag Resin, generic castable resin 500 ml
+
+Illustrative values, not the data of a real product; the layout is in
+[section 2.12](#212-tigertag-resin--resin-chip-layout).
+
+| Field             | Hex          | Decimal       | Notes                                          |
+| ----------------- | ------------ | ------------- | ---------------------------------------------- |
+| UID               | 04 B1 C2 D3 E4 F5 06 | —     | 7-byte chip UID (pages 0x00-0x01, read-only)   |
+| ID TigerTag       | 0x5BF59264   | 1542820452    | TigerTag V1.0                                  |
+| Product ID        | 0xFFFFFFFF   | 4294967295    | Standard TigerTag                              |
+| Material ID       | 0x20CA       | 8394          | Castable Resin                                 |
+| Aspect1           | 0x43         | 67            | Translucent                                    |
+| Aspect2           | 0x00         | 0             | (none)                                         |
+| Type ID           | 0xAD         | 173           | **Resin**                                      |
+| Mix Time          | 0x00         | 0             | Not given (replaces Diameter ID)               |
+| Brand ID          | 0xFFFF       | 65535         | Generic                                        |
+| Color RGBA        | 0xFFA50080   | 4289003648    | Translucent orange, alpha 0x80                 |
+| Measure           | 0x0001F4     | 500           | quantity value                                 |
+| Unit ID           | 0x30         | 48            | **millilitres**                                |
+| Work Temp Min     | 0x0014       | 20            | °C                                             |
+| Work Temp Max     | 0x001E       | 30            | °C                                             |
+| Curing Temp       | 0x3C         | 60            | °C                                             |
+| Curing Time       | 0x1E         | 30            | minutes                                        |
+| Wash Temp         | 0x00         | 0             | Not given                                      |
+| Wash Time         | 0x05         | 5             | minutes                                        |
+| Timestamp         | 0x2F7A0A5C   | 796527196     | Seconds since 01/01/2000 GMT (~2025-03-29 01:33:16 UTC) |
+| Reserved (0x0D 0-2) | 0x000000   | 0             | No Color 2 on resin                            |
+| Tag index / count | 0x11         | 17            | Single tag (1/1)                               |
+| Reserved (0x0E–0x0F) | 0x0000000000000000 | 0  | No Color 3, no TD on resin                     |
+| Message           | Castable 500ml | Castable 500ml | custom user message (28 bytes max)         |
+| Measure Available | 0x0001F4     | 500           | remaining quantity                             |
+
+The same chip as a page dump (pages `0x04`–`0x17`; pages `0x18`–`0x27`
+are zero on this unsigned chip):
+
+| Page | Bytes 0-3 | Decoded |
+| ---- | --------- | ------- |
+| `0x04` | `5B F5 92 64` | ID TigerTag |
+| `0x05` | `FF FF FF FF` | ID Product |
+| `0x06` | `20 CA 43 00` | ID Material, Aspect 1, Aspect 2 |
+| `0x07` | `AD 00 FF FF` | ID Type (Resin), Mix Time, ID Brand |
+| `0x08` | `FF A5 00 80` | Color RGBA |
+| `0x09` | `00 01 F4 30` | Measure 500, ID Unit ml |
+| `0x0A` | `00 14 00 1E` | Work Temp 20–30 °C |
+| `0x0B` | `3C 1E 00 05` | Curing 60 °C / 30 min, Wash 0 / 5 min |
+| `0x0C` | `2F 7A 0A 5C` | Timestamp |
+| `0x0D` | `00 00 00 11` | Reserved, tag 1 of 1 |
+| `0x0E` | `00 00 00 00` | Reserved |
+| `0x0F` | `00 00 00 00` | Reserved |
+| `0x10`–`0x16` | `43 61 73 74 61 62 6C 65 20 35 30 30 6D 6C 00 …` | "Castable 500ml" |
+| `0x17` | `00 01 F4 00` | Measure Available 500 |
 
 > ⚠️ The UID is unique per chip and assigned by the chip manufacturer at production. Values shown above are illustrative only.
 
@@ -1638,6 +1864,7 @@ this page grants any right to those marks.
 | 2.0     | 2026-03-11 | Corrected binary memory layout and NTAG21x capacity alignment | TigerTag Team |
 | 2.1     | 2026-05-18 | Add UID documentation, system pages layout, fix example hex values | TigerTag Team |
 | 2.2     | 2026-09-30 | Add tag index / tag count at page `0x0D` byte 3 (previously reserved) — `0x12` = tag 1 of 2 | TigerTag Team |
+| 2.3     | 2026-11-14 | Document the resin layout (`ID Type` `0xAD`): Mix Time, Work / Curing / Wash fields, g or ml, catalogue keys, example (section 2.12, 4.3) | TigerTag Team |
 
 ---
 
@@ -1937,6 +2164,12 @@ Binary layout (offsets from start of page 0x04):
 +80  32 B    Signature R (ECDSA-P256, optional)
 +112 32 B    Signature S (ECDSA-P256, optional)
 Total: 80 B data + 64 B signature = 144 B.
+The layout above is filament (ID Type 0x8E). Resin (ID Type 0xAD,
+section 2.12) changes: +13 Mix Time; +23 ID Unit g (21) or ml (48);
++24/+26 Work Temp Min/Max (°C); +28 Curing Temp (°C); +29 Curing Time
+(min); +30 Wash Temp (°C); +31 Wash Time (min); +32 Timestamp only;
++36..+38, +40..+47 reserved (one colour, no TD). Mix Time and Wash Temp
+are still to be confirmed.
 Signed message: SHA-256(UID_bytes (7) + block4 (4) + block5 (4)).
 Public keys: database/id_version.json under public_key for the
 matching id_version. Verification is fully offline.
