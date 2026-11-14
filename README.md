@@ -1115,11 +1115,15 @@ depends on `id_type`**:
 Outside `RFID_Data`, the product-level keys (`id` — the chip's
 `ID Product` —, `title`, `series`, `name`, `sku`, `barcode`) mean the same
 for both types. Colours 2 and 3 (`color_info.colors[1]`, `[2]`) do not
-exist for a resin, whose `color_info.type` is `mono`. Of the three
-product flags, `info3` (filled, legacy key `filled`) **applies to resins
-too** — filled (loaded) resins exist — while `info1` (refill, legacy
-`refill`) and `info2` (recycled, legacy `recycled`) do not apply to a
-resin.
+exist for a resin, whose `color_info.type` is `mono`.
+
+The three product flags `info1` (refill, legacy key `refill`), `info2`
+(recycled, legacy `recycled`) and `info3` (filled, legacy `filled`) are
+**catalogue indicators only**: they sit next to `RFID_Data`, not inside
+it, and are **never written on the chip** — neither on a filament nor on
+a resin chip. In the catalogue, `info3` (filled) applies to resins too,
+since filled (loaded) resins exist; `info1` (refill) and `info2`
+(recycled) do not apply to a resin.
 
 Resin materials in [`database/id_material.json`](database/id_material.json)
 carry a `recommended` object whose keys name the same quantities —
@@ -1140,8 +1144,8 @@ carry a `recommended` object whose keys name the same quantities —
 | Page `0x0D` bytes 0-2 | Color 2 RGB | Reserved |
 | Page `0x0E` | Color 3 RGB + reserved byte | Reserved |
 | Page `0x0F` | HueForge TD + reserved | Reserved (no TD) |
-| `info1` refill, `info2` recycled | Yes | Not applicable |
-| `info3` filled | Yes | Yes (filled resins exist) |
+| Catalogue flags `info1` refill, `info2` recycled (never on the chip) | Yes | Not applicable |
+| Catalogue flag `info3` filled (never on the chip) | Yes | Yes (filled resins exist) |
 | Header, product, material, aspects, brand, measure, tag index, message, measure available, signature | Same | Same |
 
 A worked example, page by page, is in
@@ -2166,8 +2170,7 @@ The layout above is filament (ID Type 0x8E). Resin (ID Type 0xAD,
 section 2.12) changes: +13 Mix Time (min); +23 ID Unit g (21) or ml (48);
 +24/+26 Work Temp Min/Max (°C); +28 Curing Temp (°C); +29 Curing Time
 (min); +30 Wash Temp (°C); +31 Wash Time (min); +32 Timestamp only;
-+36..+38, +40..+47 reserved (one colour, no TD). Filled (info3) applies
-to resin; refill and recycled do not.
++36..+38, +40..+47 reserved (one colour, no TD).
 Signed message: SHA-256(UID_bytes (7) + block4 (4) + block5 (4)).
 Public keys: database/id_version.json under public_key for the
 matching id_version. Verification is fully offline.
