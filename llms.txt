@@ -709,8 +709,12 @@ available and signature, and changes:
 In the catalogue (RFID_Data), data1..data7 follow the same split:
 filament = diameter, nozzle min/max, dry temp/time (h), bed min/max;
 resin = mix time, work temp min/max, curing temp/time (min), wash
-temp/time (min). Filled (info3) applies to resin too (filled resins
-exist); refill (info1) and recycled (info2) do not.
+temp/time (min).
+
+info1..info3 (refill, recycled, filled) are catalogue indicators next to
+RFID_Data, never written on the chip, for filament or resin. In the
+catalogue, filled (info3) applies to resin too (filled resins exist);
+refill (info1) and recycled (info2) do not.
 
 Tag index / count (+39, since v2.2): index = byte >> 4, count = byte & 0x0F,
 so the hex reads as "index/count". 0x11 = single tag (1/1); 0x12 / 0x22 =
