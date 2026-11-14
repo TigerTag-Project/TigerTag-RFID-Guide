@@ -1038,7 +1038,7 @@ Rows in **bold** differ from the filament layout.
 | `0x06` | `2` | `+10` | 1 byte | ID Aspect 1 | u8 | Primary visual aspect, e.g. Translucent (see section 2.5) |
 | `0x06` | `3` | `+11` | 1 byte | ID Aspect 2 | u8 | Secondary visual aspect (see section 2.5) |
 | `0x07` | `0` | `+12` | 1 byte | ID Type | u8 | **`0xAD` = `173` = Resin** |
-| **`0x07`** | **`1`** | **`+13`** | **1 byte** | **Mix Time** | **u8** | **Mixing time before use — replaces `ID Diameter`. Unit to be confirmed (see below)** |
+| **`0x07`** | **`1`** | **`+13`** | **1 byte** | **Mix Time** | **u8** | **Mixing time before use, in minutes (`0`–`255`) — replaces `ID Diameter`** |
 | `0x07` | `2-3` | `+14` | 2 bytes | ID Brand | u16 BE | Manufacturer/Brand ID (see section 2.7) |
 | **`0x08`** | **`0-3`** | **`+16`** | **4 bytes** | **Color (RGBA)** | **bytes** | **The resin colour R/G/B/A — the only colour of a resin chip** |
 | `0x09` | `0-2` | `+20` | 3 bytes | Measure | u24 BE | Quantity at manufacturing, in the unit of the next byte |
@@ -1047,7 +1047,7 @@ Rows in **bold** differ from the filament layout.
 | **`0x0A`** | **`2-3`** | **`+26`** | **2 bytes** | **Work Temp Max** | **u16 BE** | **Maximum working temperature (°C) — replaces Nozzle Temp Max** |
 | **`0x0B`** | **`0`** | **`+28`** | **1 byte** | **Curing Temp** | **u8** | **Post-curing temperature (°C) — replaces Dry Temp** |
 | **`0x0B`** | **`1`** | **`+29`** | **1 byte** | **Curing Time** | **u8** | **Post-curing duration (minutes) — replaces Dry Time (hours)** |
-| **`0x0B`** | **`2`** | **`+30`** | **1 byte** | **Wash Temp** | **u8** | **Washing temperature (°C, to be confirmed) — replaces Bed Temp Min** |
+| **`0x0B`** | **`2`** | **`+30`** | **1 byte** | **Wash Temp** | **u8** | **Washing temperature in °C (`0`–`255`) — replaces Bed Temp Min** |
 | **`0x0B`** | **`3`** | **`+31`** | **1 byte** | **Wash Time** | **u8** | **Washing duration (minutes) — replaces Bed Temp Max** |
 | **`0x0C`** | **`0-3`** | **`+32`** | **4 bytes** | **Timestamp** | **u32 BE** | **Seconds since 2000-01-01 GMT (manufacturing date) — no twin tag ID** |
 | **`0x0D`** | **`0-2`** | **`+36`** | **3 bytes** | **Reserved** | **bytes** | **No Color 2 on resin. Must be `0x000000`** |
@@ -1071,7 +1071,7 @@ Rows in **bold** differ from the filament layout.
   (ml) and `Measure` is in that unit. A reader MUST read `ID Unit` and
   MUST NOT assume grams on a resin chip.
 - **Mix Time** — how long the resin should be mixed (shaken or stirred)
-  before use. It sits in the byte that holds `ID Diameter` on a filament
+  before use, in minutes. It sits in the byte that holds `ID Diameter` on a filament
   chip; a resin reader MUST NOT look it up in `id_diameter.json`.
 - **Work Temp Min / Max** — the temperature range the resin is meant to be
   printed in, in °C, two bytes each like the nozzle temperatures of a
@@ -1104,20 +1104,22 @@ depends on `id_type`**:
 | `color_r`, `color_g`, `color_b`, `color_a` | — | Color 1 R/G/B/A | Color R/G/B/A | `0x08` | `0`, `1`, `2`, `3` |
 | `measure` | `weight` | Weight | Measure value | `0x09` | `0-2` |
 | `id_unit` | — | `21` (g) | `21` (g) or `48` (ml) | `0x09` | `3` |
-| `data1` | `id_diameter` | Diameter ID | Mix Time *(to be confirmed)* | `0x07` | `1` |
+| `data1` | `id_diameter` | Diameter ID | Mix Time (minutes) | `0x07` | `1` |
 | `data2` | `temp_min` | Nozzle Temp Min (°C) | Work Temp Min (°C) | `0x0A` | `0-1` |
 | `data3` | `temp_max` | Nozzle Temp Max (°C) | Work Temp Max (°C) | `0x0A` | `2-3` |
 | `data4` | `dry_temp` | Dry Temp (°C) | Curing Temp (°C) | `0x0B` | `0` |
 | `data5` | `dry_time` | Dry Time (hours) | Curing Time (minutes) | `0x0B` | `1` |
-| `data6` | — | Bed Temp Min (°C) | Wash Temp (°C) *(to be confirmed)* | `0x0B` | `2` |
+| `data6` | — | Bed Temp Min (°C) | Wash Temp (°C) | `0x0B` | `2` |
 | `data7` | — | Bed Temp Max (°C) | Wash Time (minutes) | `0x0B` | `3` |
 
 Outside `RFID_Data`, the product-level keys (`id` — the chip's
 `ID Product` —, `title`, `series`, `name`, `sku`, `barcode`) mean the same
 for both types. Colours 2 and 3 (`color_info.colors[1]`, `[2]`) do not
-exist for a resin, whose `color_info.type` is `mono`. The three filament
-flags `info1` (refill, legacy key `refill`), `info2` (recycled, legacy
-`recycled`) and `info3` (filled, legacy `filled`) do not apply to a resin.
+exist for a resin, whose `color_info.type` is `mono`. Of the three
+product flags, `info3` (filled, legacy key `filled`) **applies to resins
+too** — filled (loaded) resins exist — while `info1` (refill, legacy
+`refill`) and `info2` (recycled, legacy `recycled`) do not apply to a
+resin.
 
 Resin materials in [`database/id_material.json`](database/id_material.json)
 carry a `recommended` object whose keys name the same quantities —
@@ -1129,7 +1131,7 @@ carry a `recommended` object whose keys name the same quantities —
 | | Filament (`ID Type` `0x8E`) | Resin (`ID Type` `0xAD`) |
 | --- | --- | --- |
 | `ID Type` (page `0x07` byte 0) | `0x8E` = `142` | `0xAD` = `173` |
-| Page `0x07` byte 1 | `ID Diameter` (`id_diameter.json`) | Mix Time |
+| Page `0x07` byte 1 | `ID Diameter` (`id_diameter.json`) | Mix Time (min) |
 | Colours | Color 1 RGBA (page `0x08`) + Color 2 RGB (`0x0D`) + Color 3 RGB (`0x0E`) | One colour, RGBA (page `0x08`) |
 | `ID Unit` (page `0x09` byte 3) | grams (`21`) | grams (`21`) **or** millilitres (`48`) |
 | Page `0x0A` | Nozzle Temp Min / Max (°C) | Work Temp Min / Max (°C) |
@@ -1138,7 +1140,8 @@ carry a `recommended` object whose keys name the same quantities —
 | Page `0x0D` bytes 0-2 | Color 2 RGB | Reserved |
 | Page `0x0E` | Color 3 RGB + reserved byte | Reserved |
 | Page `0x0F` | HueForge TD + reserved | Reserved (no TD) |
-| `info1`–`info3` (refill, recycled, filled) | Yes | Not applicable |
+| `info1` refill, `info2` recycled | Yes | Not applicable |
+| `info3` filled | Yes | Yes (filled resins exist) |
 | Header, product, material, aspects, brand, measure, tag index, message, measure available, signature | Same | Same |
 
 A worked example, page by page, is in
@@ -1146,17 +1149,12 @@ A worked example, page by page, is in
 
 ### Still to be confirmed
 
-These points are marked as open in the reference layout and are kept
+These points are not settled by the reference layout and are kept
 open here rather than guessed:
 
-1. **Mix Time** (page `0x07` byte 1, `data1`) — the field is marked
-   uncertain in the reference layout and its unit is not stated
-   (TigerTag Studio Manager labels it in minutes).
-2. **Wash Temp** (page `0x0B` byte 2, `data6`) — the field is marked
-   uncertain in the reference layout; °C is assumed.
-3. **Measure Available** in millilitres — Tiger Scale weighs, so the unit
+1. **Measure Available** in millilitres — Tiger Scale weighs, so the unit
    of page `0x17` on a resin measured in ml is not specified yet.
-4. **Tag index / count** (page `0x0D` byte 3) — the reference layout for
+2. **Tag index / count** (page `0x0D` byte 3) — the reference layout for
    resin still shows page `0x0D` as fully reserved, as its filament
    counterpart did before v2.2; this guide applies section 2.11 to every
    item type, resin included.
@@ -1366,7 +1364,7 @@ Illustrative values, not the data of a real product; the layout is in
 | Aspect1           | 0x43         | 67            | Translucent                                    |
 | Aspect2           | 0x00         | 0             | (none)                                         |
 | Type ID           | 0xAD         | 173           | **Resin**                                      |
-| Mix Time          | 0x00         | 0             | Not given (replaces Diameter ID)               |
+| Mix Time          | 0x05         | 5             | minutes (replaces Diameter ID)                 |
 | Brand ID          | 0xFFFF       | 65535         | Generic                                        |
 | Color RGBA        | 0xFFA50080   | 4289003648    | Translucent orange, alpha 0x80                 |
 | Measure           | 0x0001F4     | 500           | quantity value                                 |
@@ -1375,7 +1373,7 @@ Illustrative values, not the data of a real product; the layout is in
 | Work Temp Max     | 0x001E       | 30            | °C                                             |
 | Curing Temp       | 0x3C         | 60            | °C                                             |
 | Curing Time       | 0x1E         | 30            | minutes                                        |
-| Wash Temp         | 0x00         | 0             | Not given                                      |
+| Wash Temp         | 0x19         | 25            | °C                                             |
 | Wash Time         | 0x05         | 5             | minutes                                        |
 | Timestamp         | 0x2F7A0A5C   | 796527196     | Seconds since 01/01/2000 GMT (~2025-03-29 01:33:16 UTC) |
 | Reserved (0x0D 0-2) | 0x000000   | 0             | No Color 2 on resin                            |
@@ -1392,11 +1390,11 @@ are zero on this unsigned chip):
 | `0x04` | `5B F5 92 64` | ID TigerTag |
 | `0x05` | `FF FF FF FF` | ID Product |
 | `0x06` | `20 CA 43 00` | ID Material, Aspect 1, Aspect 2 |
-| `0x07` | `AD 00 FF FF` | ID Type (Resin), Mix Time, ID Brand |
+| `0x07` | `AD 05 FF FF` | ID Type (Resin), Mix Time 5 min, ID Brand |
 | `0x08` | `FF A5 00 80` | Color RGBA |
 | `0x09` | `00 01 F4 30` | Measure 500, ID Unit ml |
 | `0x0A` | `00 14 00 1E` | Work Temp 20–30 °C |
-| `0x0B` | `3C 1E 00 05` | Curing 60 °C / 30 min, Wash 0 / 5 min |
+| `0x0B` | `3C 1E 19 05` | Curing 60 °C / 30 min, Wash 25 °C / 5 min |
 | `0x0C` | `2F 7A 0A 5C` | Timestamp |
 | `0x0D` | `00 00 00 11` | Reserved, tag 1 of 1 |
 | `0x0E` | `00 00 00 00` | Reserved |
@@ -2165,11 +2163,11 @@ Binary layout (offsets from start of page 0x04):
 +112 32 B    Signature S (ECDSA-P256, optional)
 Total: 80 B data + 64 B signature = 144 B.
 The layout above is filament (ID Type 0x8E). Resin (ID Type 0xAD,
-section 2.12) changes: +13 Mix Time; +23 ID Unit g (21) or ml (48);
+section 2.12) changes: +13 Mix Time (min); +23 ID Unit g (21) or ml (48);
 +24/+26 Work Temp Min/Max (°C); +28 Curing Temp (°C); +29 Curing Time
 (min); +30 Wash Temp (°C); +31 Wash Time (min); +32 Timestamp only;
-+36..+38, +40..+47 reserved (one colour, no TD). Mix Time and Wash Temp
-are still to be confirmed.
++36..+38, +40..+47 reserved (one colour, no TD). Filled (info3) applies
+to resin; refill and recycled do not.
 Signed message: SHA-256(UID_bytes (7) + block4 (4) + block5 (4)).
 Public keys: database/id_version.json under public_key for the
 matching id_version. Verification is fully offline.
