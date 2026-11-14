@@ -32,6 +32,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -82,6 +87,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -132,6 +142,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -182,6 +197,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -232,6 +252,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -282,6 +307,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -332,6 +362,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -381,8 +416,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 9005",
+      "ral_delta_e": 3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9005"
+      ],
       "type": "mono"
     },
     "id": 176706091,
@@ -432,6 +476,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -482,6 +531,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -531,8 +585,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 2011",
+      "ral_delta_e": 2.8,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 2011"
+      ],
       "type": "mono"
     },
     "id": 271103853,
@@ -582,6 +645,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -632,6 +700,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -682,6 +755,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -732,6 +810,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -781,8 +864,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 2011",
+      "ral_delta_e": 2.8,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 2011"
+      ],
       "type": "mono"
     },
     "id": 604151791,
@@ -832,6 +924,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -882,6 +979,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -932,6 +1034,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -982,6 +1089,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1032,6 +1144,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1082,6 +1199,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1132,6 +1254,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1182,6 +1309,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1232,6 +1364,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1282,6 +1419,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1332,6 +1474,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1382,6 +1529,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1432,6 +1584,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1482,6 +1639,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1531,8 +1693,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 7037",
+      "ral_delta_e": 2,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7037"
+      ],
       "type": "mono"
     },
     "id": 1103321079,
@@ -1581,8 +1752,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 1018",
+      "ral_delta_e": 2.3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 1018"
+      ],
       "type": "mono"
     },
     "id": 1112197470,
@@ -1631,8 +1811,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 7037",
+      "ral_delta_e": 2,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7037"
+      ],
       "type": "mono"
     },
     "id": 1250094417,
@@ -1681,8 +1870,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 1018",
+      "ral_delta_e": 2.3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 1018"
+      ],
       "type": "mono"
     },
     "id": 1266720164,
@@ -1732,6 +1930,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1782,6 +1985,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1832,6 +2040,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1882,6 +2095,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -1931,8 +2149,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 7037",
+      "ral_delta_e": 2,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7037"
+      ],
       "type": "mono"
     },
     "id": 1384516096,
@@ -1981,8 +2208,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 9005",
+      "ral_delta_e": 3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9005"
+      ],
       "type": "mono"
     },
     "id": 1415236715,
@@ -2032,6 +2268,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2081,8 +2322,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 1032",
+      "ral_delta_e": 2.3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 1032"
+      ],
       "type": "mono"
     },
     "id": 1529264620,
@@ -2132,6 +2382,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2182,6 +2437,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2232,6 +2492,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2282,6 +2547,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2332,6 +2602,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2382,6 +2657,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2432,6 +2712,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2481,8 +2766,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 9005",
+      "ral_delta_e": 3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9005"
+      ],
       "type": "mono"
     },
     "id": 1975391567,
@@ -2532,6 +2826,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2582,6 +2881,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2632,6 +2936,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2682,6 +2991,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2732,6 +3046,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2782,6 +3101,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2832,6 +3156,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2882,6 +3211,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2932,6 +3266,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -2982,6 +3321,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3032,6 +3376,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3082,6 +3431,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3131,8 +3485,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 9005",
+      "ral_delta_e": 3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9005"
+      ],
       "type": "mono"
     },
     "id": 2482447452,
@@ -3181,8 +3544,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 2011",
+      "ral_delta_e": 2.8,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 2011"
+      ],
       "type": "mono"
     },
     "id": 2571986305,
@@ -3231,8 +3603,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 7037",
+      "ral_delta_e": 2,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7037"
+      ],
       "type": "mono"
     },
     "id": 2598413219,
@@ -3282,6 +3663,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3331,8 +3717,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 1018",
+      "ral_delta_e": 2.3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 1018"
+      ],
       "type": "mono"
     },
     "id": 2635603780,
@@ -3381,8 +3776,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 1018",
+      "ral_delta_e": 2.3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 1018"
+      ],
       "type": "mono"
     },
     "id": 2717916913,
@@ -3432,6 +3836,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3482,6 +3891,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3532,6 +3946,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3582,6 +4001,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3631,8 +4055,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 2011",
+      "ral_delta_e": 2.8,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 2011"
+      ],
       "type": "mono"
     },
     "id": 2900273761,
@@ -3682,6 +4115,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3732,6 +4170,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3781,8 +4224,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 7037",
+      "ral_delta_e": 2,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7037"
+      ],
       "type": "mono"
     },
     "id": 3087906690,
@@ -3832,6 +4284,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3882,6 +4339,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3932,6 +4394,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -3982,6 +4449,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4032,6 +4504,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4081,8 +4558,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 1018",
+      "ral_delta_e": 2.3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 1018"
+      ],
       "type": "mono"
     },
     "id": 3289932064,
@@ -4132,6 +4618,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4182,6 +4673,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4232,6 +4728,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4282,6 +4783,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4331,8 +4837,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 2011",
+      "ral_delta_e": 2.8,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 2011"
+      ],
       "type": "mono"
     },
     "id": 3560647410,
@@ -4382,6 +4897,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4432,6 +4952,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4482,6 +5007,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4532,6 +5062,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4581,8 +5116,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 7037",
+      "ral_delta_e": 2,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7037"
+      ],
       "type": "mono"
     },
     "id": 3764015291,
@@ -4631,8 +5175,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 9005",
+      "ral_delta_e": 3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9005"
+      ],
       "type": "mono"
     },
     "id": 3799999289,
@@ -4681,8 +5234,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 7037",
+      "ral_delta_e": 2,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7037"
+      ],
       "type": "mono"
     },
     "id": 3803165596,
@@ -4731,8 +5293,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 9005",
+      "ral_delta_e": 3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9005"
+      ],
       "type": "mono"
     },
     "id": 3808509930,
@@ -4782,6 +5353,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4832,6 +5408,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4882,6 +5463,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4932,6 +5518,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -4982,6 +5573,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -5031,8 +5627,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 9005",
+      "ral_delta_e": 3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9005"
+      ],
       "type": "mono"
     },
     "id": 4010710365,
@@ -5081,8 +5686,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 9005",
+      "ral_delta_e": 3,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9005"
+      ],
       "type": "mono"
     },
     "id": 4010805555,
@@ -5132,6 +5746,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -5182,6 +5801,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -5231,8 +5855,17 @@
       ],
       "pantone": null,
       "pantones": null,
-      "ral": null,
-      "rals": null,
+      "ral": "RAL 7037",
+      "ral_delta_e": 2,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7037"
+      ],
       "type": "mono"
     },
     "id": 4113992420,
@@ -5282,6 +5915,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -5332,6 +5970,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -5382,6 +6025,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -5432,6 +6080,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
@@ -5482,6 +6135,11 @@
       "pantone": null,
       "pantones": null,
       "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
       "rals": null,
       "type": "mono"
     },
