@@ -7,7 +7,7 @@ page explains what each one is, who bumps it, and how they relate.
 |---|---|---|
 | **What it versions** | This document — the prose, the diagrams, the examples | The bytes on the chip |
 | **Where it lives** | `README.md`, version-history table, the badge | [`database/id_version.json`](database/id_version.json) |
-| **Current value** | `2.1` | `0.0`, `1.0` |
+| **Current value** | `2.3` | `0.0`, `1.0` |
 | **Read by** | Humans | Readers, at runtime, from the chip |
 | **Changes when** | The document changes | The on-chip layout or key changes |
 
@@ -42,6 +42,8 @@ the version-history table in §7. Both must be updated together.
 | 1.0 | 2025-06-09 | Initial public format |
 | 2.0 | 2026-03-11 | Corrected binary memory layout and NTAG21x capacity alignment |
 | 2.1 | 2026-05-18 | Add UID documentation, system pages layout, fix example hex values |
+| 2.2 | 2026-09-30 | Add tag index / tag count at page `0x0D` byte 3 (previously reserved) |
+| 2.3 | 2026-11-14 | Document the resin layout (`ID Type` `0xAD`) — new documentation of a layout already in use |
 
 Note that `2.0` corrected the *documentation* of the layout. Chips in the field were not
 re-encoded.
