@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-15T01:55:42Z",
+  "generatedAt": "2026-11-15T08:39:15Z",
   "files": {
     "id_aspect.json": {
       "sha256": "78fc872b93c105fa18aeecc0a94ab0790792ad1677f6ec6e59d786490fd518c0",
@@ -9,10 +9,10 @@
       "updatedAt": "2026-10-31T19:32:49Z"
     },
     "id_brand.json": {
-      "sha256": "11ad9c31bd39ce0d8e75fed2b6a2a4b925024cd60305a66a1f2dd751af1d8736",
-      "bytes": 26691,
+      "sha256": "323c27ed5a226b9e8557eff2bdc33a988b47753d7ce28c01a63c592c4c4c7d1c",
+      "bytes": 23738,
       "entries": 162,
-      "updatedAt": "2026-11-15T01:55:42Z"
+      "updatedAt": "2026-11-15T08:39:15Z"
     },
     "id_catalog.json": {
       "sha256": "c486bd5d756391127c9d170031490cc85368a5273a9876758829f8887771c943",
@@ -57,10 +57,10 @@
       "updatedAt": "2026-10-31T19:32:49Z"
     },
     "last_update.json": {
-      "sha256": "8463df0c03d290d27865e6d2075b49ede75faee3ff00759622a84d0bec920d8a",
+      "sha256": "5cc9c3e0e956768f9eda4938518110652b42ef089acf8248021120cada4477ec",
       "bytes": 264,
       "entries": null,
-      "updatedAt": "2026-11-15T01:55:42Z"
+      "updatedAt": "2026-11-15T08:39:15Z"
     }
   }
 }
