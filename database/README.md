@@ -21,6 +21,11 @@ that manufacturers hesitate to embed is a registry that fails.
 
 We would still enjoy a credit and a link to <https://tigersystem.io>. You do not owe us one.
 
+**Brand logos are not CC0.** `id_brand.json` may give a brand's `logo_url`, the address of its logo on the TigerTag
+CDN. The address is data like any other, but the logo it points to is its owner's trademark and is not released under
+CC0 (or any licence) by this repository: show it only to name that brand, as on a label for its product, and follow its
+owner's rules for anything else.
+
 `database/db_update.py` is **source code**, not data, and is licensed under
 [Apache-2.0](../LICENSES/Apache-2.0.txt). See [`../LICENSING.md`](../LICENSING.md).
 
@@ -47,7 +52,7 @@ The same data is available, always current, with no key and no login:
 |---|---|
 | `id_version.json` | Tag format versions and their ECDSA-P256 **public keys**. See [`../VERSIONING.md`](../VERSIONING.md) |
 | `id_material.json` | Material identifiers (PLA, PETG, ABS, resin, …) |
-| `id_brand.json` | Brand identifiers |
+| `id_brand.json` | Brand identifiers: `id`, `name`, `type_ids`, and `logo_url` (the brand's logo on the TigerTag CDN, versioned; `null` without one — the logo is a trademark, [not CC0](#licence)) |
 | `id_aspect.json` | Surface aspect / finish identifiers |
 | `id_type.json` | Product type identifiers |
 | `id_diameter.json` | Filament diameter identifiers |
