@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-14T21:55:27Z",
+  "generatedAt": "2026-11-15T01:55:42Z",
   "files": {
     "id_aspect.json": {
       "sha256": "78fc872b93c105fa18aeecc0a94ab0790792ad1677f6ec6e59d786490fd518c0",
@@ -9,16 +9,16 @@
       "updatedAt": "2026-10-31T19:32:49Z"
     },
     "id_brand.json": {
-      "sha256": "8cafc2a07f374fd6483e605063b24e70912c3339fb36ae6d98509a99fdcaf47d",
-      "bytes": 14109,
+      "sha256": "11ad9c31bd39ce0d8e75fed2b6a2a4b925024cd60305a66a1f2dd751af1d8736",
+      "bytes": 26691,
       "entries": 162,
-      "updatedAt": "2026-11-14T21:55:27Z"
+      "updatedAt": "2026-11-15T01:55:42Z"
     },
     "id_catalog.json": {
-      "sha256": "fda050f4d54b1c708b689916adbb2d4397b19e4f0b195c58e0ae7a5e85bea129",
-      "bytes": 27344906,
+      "sha256": "c486bd5d756391127c9d170031490cc85368a5273a9876758829f8887771c943",
+      "bytes": 27344874,
       "entries": 21512,
-      "updatedAt": "2026-11-14T21:55:27Z"
+      "updatedAt": "2026-11-15T01:55:42Z"
     },
     "id_container.json": {
       "sha256": "acdbd3806da7bef5b4859f6ef23334de8784c4af98330183afa62431bff2b958",
@@ -33,10 +33,10 @@
       "updatedAt": "2026-10-31T19:32:49Z"
     },
     "id_material.json": {
-      "sha256": "e1772dbe2d8506bef7a23fcda537881711636be300dd8d7517f3d3d629fb0f15",
-      "bytes": 47823,
+      "sha256": "ada1eec4477358184841d7a7b590a8f41f252d6844ba63b5d19b0004d6e5fd0a",
+      "bytes": 52468,
       "entries": 113,
-      "updatedAt": "2026-10-31T19:32:49Z"
+      "updatedAt": "2026-11-15T01:55:42Z"
     },
     "id_measure_unit.json": {
       "sha256": "e73a2832183e021406036db7aa3d119f9e379aabba83bd70b92903d41e3bb031",
@@ -57,10 +57,10 @@
       "updatedAt": "2026-10-31T19:32:49Z"
     },
     "last_update.json": {
-      "sha256": "424d6a592e096468745510aabc8ffff225b68a7c988c6bff662507488de39b29",
+      "sha256": "8463df0c03d290d27865e6d2075b49ede75faee3ff00759622a84d0bec920d8a",
       "bytes": 264,
       "entries": null,
-      "updatedAt": "2026-11-14T21:55:27Z"
+      "updatedAt": "2026-11-15T01:55:42Z"
     }
   }
 }
