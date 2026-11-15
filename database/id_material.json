@@ -1,26 +1,73 @@
 [
   {
-    "id": 51007,
-    "label": "Biopolymer",
-    "material_type": "PLA",
+    "id": 12844,
+    "label": "ASA",
+    "material_type": "ASA",
     "filled_type": null,
     "aspect_id": null,
-    "density": 0,
+    "density": 1.05,
     "filled": false,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 190,
-      "nozzleTempMax": 240,
-      "dryTemp": 50,
+      "nozzleTempMin": 240,
+      "nozzleTempMax": 280,
+      "dryTemp": 80,
       "dryTime": 8,
-      "bedTempMin": 45,
-      "bedTempMax": 50
+      "bedTempMin": 95,
+      "bedTempMax": 100
     },
     "metadata": {
-      "bambuID": "GFL99",
-      "crealityID": "00001",
-      "crealityPressureAdvance": 0.04,
-      "snapmakerType": "PLA"
+      "snapType": "ASA",
+      "crealityID": "00007",
+      "crealityPressureAdvance": 0.06,
+      "bambuID": "GFB98"
+    }
+  },
+  {
+    "id": 26029,
+    "label": "HIPS",
+    "material_type": "HIPS",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.03,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 220,
+      "nozzleTempMax": 270,
+      "dryTemp": 80,
+      "dryTime": 6,
+      "bedTempMin": 90,
+      "bedTempMax": 95
+    },
+    "metadata": {
+      "snapType": "HIPS",
+      "crealityID": "00012",
+      "bambuID": "GFS98"
+    }
+  },
+  {
+    "id": 38256,
+    "label": "PETG",
+    "material_type": "PETG",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.27,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 220,
+      "nozzleTempMax": 270,
+      "dryTemp": 70,
+      "dryTime": 8,
+      "bedTempMin": 70,
+      "bedTempMax": 75
+    },
+    "metadata": {
+      "snapType": "PETG",
+      "crealityID": "00003",
+      "crealityPressureAdvance": 0.07,
+      "bambuID": "GFG99"
     }
   },
   {
@@ -42,8 +89,78 @@
     },
     "metadata": {
       "bambuID": "GFA07",
-      "snapmakerType": "PLA",
-      "snapmakerSubtype": "Marble"
+      "snapType": "PLA",
+      "snapSubType": "Marble"
+    }
+  },
+  {
+    "id": 51007,
+    "label": "Biopolymer",
+    "material_type": "PLA",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 0,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 190,
+      "nozzleTempMax": 240,
+      "dryTemp": 50,
+      "dryTime": 8,
+      "bedTempMin": 45,
+      "bedTempMax": 50
+    },
+    "metadata": {
+      "snapType": "PLA",
+      "bambuID": "GFL99",
+      "crealityID": "00001",
+      "crealityPressureAdvance": 0.04
+    }
+  },
+  {
+    "id": 30594,
+    "label": "PA-GF",
+    "material_type": "PA",
+    "filled_type": "GF",
+    "aspect_id": null,
+    "density": 1.14,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 260,
+      "nozzleTempMax": 300,
+      "dryTemp": 85,
+      "dryTime": 12,
+      "bedTempMin": 100,
+      "bedTempMax": 105
+    },
+    "metadata": {
+      "snapType": "PA"
+    }
+  },
+  {
+    "id": 57469,
+    "label": "PETG HF",
+    "material_type": "PETG",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.27,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 220,
+      "nozzleTempMax": 270,
+      "dryTemp": 70,
+      "dryTime": 8,
+      "bedTempMin": 70,
+      "bedTempMax": 75
+    },
+    "metadata": {
+      "snapType": "PETG",
+      "snapSubType": "HF",
+      "crealityID": "06002",
+      "crealityPressureAdvance": 0.05,
+      "bambuID": "GFG96"
     }
   },
   {
@@ -64,11 +181,84 @@
       "bedTempMax": 55
     },
     "metadata": {
+      "snapType": "PLA",
+      "snapSubType": "Wood",
       "crealityID": "17001",
       "crealityPressureAdvance": 0.04,
-      "bambuID": "GFA16",
-      "snapmakerType": "PLA",
-      "snapmakerSubtype": "Wood"
+      "bambuID": "GFA16"
+    }
+  },
+  {
+    "id": 12264,
+    "label": "PA6-CF",
+    "material_type": "PA6",
+    "filled_type": "CF",
+    "aspect_id": 238,
+    "density": 1.09,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 260,
+      "nozzleTempMax": 300,
+      "dryTemp": 85,
+      "dryTime": 12,
+      "bedTempMin": 100,
+      "bedTempMax": 105
+    },
+    "metadata": {
+      "bambuID": "GFN05",
+      "crealityID": "00015",
+      "crealityPressureAdvance": 0.044,
+      "snapType": "PA-CF"
+    }
+  },
+  {
+    "id": 51861,
+    "label": "PETG-ESD",
+    "material_type": "PETG",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.27,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 240,
+      "nozzleTempMax": 270,
+      "dryTemp": 70,
+      "dryTime": 8,
+      "bedTempMin": 65,
+      "bedTempMax": 70
+    },
+    "metadata": {
+      "snapType": "PETG",
+      "bambuID": "GFG50",
+      "crealityID": "00014",
+      "crealityPressureAdvance": 0.03
+    }
+  },
+  {
+    "id": 8345,
+    "label": "PLA+ Silk",
+    "material_type": "PLA",
+    "filled_type": null,
+    "aspect_id": 92,
+    "density": 1.24,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 190,
+      "nozzleTempMax": 240,
+      "dryTemp": 50,
+      "dryTime": 8,
+      "bedTempMin": 45,
+      "bedTempMax": 55
+    },
+    "metadata": {
+      "snapType": "PLA",
+      "snapSubType": "Silk",
+      "crealityID": "00002",
+      "crealityPressureAdvance": 0.04,
+      "bambuID": "GFA06"
     }
   },
   {
@@ -89,11 +279,123 @@
       "bedTempMax": 90
     },
     "metadata": {
+      "snapType": "ABS",
       "crealityID": "00004",
       "crealityPressureAdvance": 0.06,
-      "bambuID": "GFB99",
-      "snapmakerType": "ABS",
-      "snapmakerSubtype": "Basic"
+      "bambuID": "GFB99"
+    }
+  },
+  {
+    "id": 55418,
+    "label": "PETG-CF",
+    "material_type": "PETG",
+    "filled_type": "CF",
+    "aspect_id": 238,
+    "density": 1.27,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 240,
+      "nozzleTempMax": 270,
+      "dryTemp": 70,
+      "dryTime": 8,
+      "bedTempMin": 75,
+      "bedTempMax": 80
+    },
+    "metadata": {
+      "bambuID": "GFG98",
+      "crealityID": "00014",
+      "crealityPressureAdvance": 0.03,
+      "snapType": "PETG-CF"
+    }
+  },
+  {
+    "id": 1173,
+    "label": "PA6-GF",
+    "material_type": "PA6",
+    "filled_type": "GF",
+    "aspect_id": null,
+    "density": 1.14,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 260,
+      "nozzleTempMax": 300,
+      "dryTemp": 85,
+      "dryTime": 12,
+      "bedTempMin": 100,
+      "bedTempMax": 105
+    },
+    "metadata": {
+      "snapType": "PA",
+      "bambuID": "GFN08"
+    }
+  },
+  {
+    "id": 11506,
+    "label": "PLA-AERO",
+    "material_type": "PLA",
+    "filled_type": "AERO",
+    "aspect_id": null,
+    "density": 1.24,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 210,
+      "nozzleTempMax": 260,
+      "dryTemp": 50,
+      "dryTime": 8,
+      "bedTempMin": 45,
+      "bedTempMax": 55
+    },
+    "metadata": {
+      "snapType": "PLA",
+      "crealityID": "00007",
+      "crealityPressureAdvance": 0.06,
+      "bambuID": "GFA11"
+    }
+  },
+  {
+    "id": 62335,
+    "label": "PEI-1010-CF",
+    "material_type": "PEI-1010",
+    "filled_type": "CF",
+    "aspect_id": 238,
+    "density": 1.27,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 370,
+      "nozzleTempMax": 430,
+      "dryTemp": 150,
+      "dryTime": 8,
+      "bedTempMin": 150,
+      "bedTempMax": 160
+    },
+    "metadata": {}
+  },
+  {
+    "id": 43518,
+    "label": "TPU",
+    "material_type": "TPU",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.21,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 200,
+      "nozzleTempMax": 250,
+      "dryTemp": 75,
+      "dryTime": 8,
+      "bedTempMin": 35,
+      "bedTempMax": 40
+    },
+    "metadata": {
+      "crealityID": "00005",
+      "crealityPressureAdvance": 0.04,
+      "bambuID": "GFU99",
+      "snapType": "TPU"
     }
   },
   {
@@ -114,32 +416,34 @@
       "bedTempMax": 90
     },
     "metadata": {
+      "snapType": "ABS",
       "crealityID": "00004",
       "crealityPressureAdvance": 0.06,
-      "bambuID": "GFB99",
-      "snapmakerType": "ABS",
-      "snapmakerSubtype": "Carbon"
+      "bambuID": "GFB99"
     }
   },
   {
-    "id": 62335,
-    "label": "PEI-1010-CF",
-    "material_type": "PEI-1010",
+    "id": 48815,
+    "label": "PAHT-CF",
+    "material_type": "PAHT",
     "filled_type": "CF",
     "aspect_id": 238,
-    "density": 1.27,
+    "density": 1.06,
     "filled": true,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 370,
-      "nozzleTempMax": 430,
-      "dryTemp": 150,
-      "dryTime": 8,
-      "bedTempMin": 150,
-      "bedTempMax": 160
+      "nozzleTempMin": 260,
+      "nozzleTempMax": 300,
+      "dryTemp": 85,
+      "dryTime": 12,
+      "bedTempMin": 100,
+      "bedTempMax": 105
     },
     "metadata": {
-      "snapmakerSubtype": "Carbon"
+      "crealityID": "00016",
+      "crealityPressureAdvance": 0.058,
+      "bambuID": "GFN04",
+      "snapType": "PA-CF"
     }
   },
   {
@@ -160,11 +464,57 @@
       "bedTempMax": 55
     },
     "metadata": {
+      "snapType": "PLA",
       "crealityID": "01001",
       "crealityPressureAdvance": 0.04,
-      "bambuID": "GFL95",
-      "snapmakerType": "PLA",
-      "snapmakerSubtype": "Basic"
+      "bambuID": "GFL95"
+    }
+  },
+  {
+    "id": 48047,
+    "label": "TPU High Speed",
+    "material_type": "TPU",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.21,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 200,
+      "nozzleTempMax": 250,
+      "dryTemp": 75,
+      "dryTime": 8,
+      "bedTempMin": 35,
+      "bedTempMax": 40
+    },
+    "metadata": {
+      "crealityID": "00005",
+      "crealityPressureAdvance": 0.04,
+      "snapType": "TPU",
+      "bambuID": "GFU00"
+    }
+  },
+  {
+    "id": 48469,
+    "label": "PEEK-CF",
+    "material_type": "PEEK",
+    "filled_type": "CF",
+    "aspect_id": 238,
+    "density": 1.4,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 380,
+      "nozzleTempMax": 420,
+      "dryTemp": 120,
+      "dryTime": 6,
+      "bedTempMin": 130,
+      "bedTempMax": 160
+    },
+    "metadata": {
+      "crealityID": "00001",
+      "crealityPressureAdvance": 0.04,
+      "bambuID": "GFA00"
     }
   },
   {
@@ -185,11 +535,10 @@
       "bedTempMax": 55
     },
     "metadata": {
+      "snapType": "PLA",
       "bambuID": "GFL99",
       "crealityID": "00001",
-      "crealityPressureAdvance": 0.04,
-      "snapmakerType": "PLA",
-      "snapmakerSubtype": "Basic"
+      "crealityPressureAdvance": 0.04
     }
   },
   {
@@ -213,32 +562,7 @@
       "crealityID": "00009",
       "crealityPressureAdvance": 0.044,
       "bambuID": "GFL52",
-      "snapmakerType": "PA-CF",
-      "snapmakerSubtype": "Carbon"
-    }
-  },
-  {
-    "id": 48469,
-    "label": "PEEK-CF",
-    "material_type": "PEEK",
-    "filled_type": "CF",
-    "aspect_id": 238,
-    "density": 1.4,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 380,
-      "nozzleTempMax": 420,
-      "dryTemp": 120,
-      "dryTime": 6,
-      "bedTempMin": 130,
-      "bedTempMax": 160
-    },
-    "metadata": {
-      "crealityID": "00001",
-      "crealityPressureAdvance": 0.04,
-      "bambuID": "GFA00",
-      "snapmakerSubtype": "Carbon"
+      "snapType": "PA-CF"
     }
   },
   {
@@ -262,8 +586,7 @@
       "bambuID": "GFG98",
       "crealityID": "00014",
       "crealityPressureAdvance": 0.03,
-      "snapmakerType": "PETG-CF",
-      "snapmakerSubtype": "Carbon"
+      "snapType": "PETG-CF"
     }
   },
   {
@@ -284,8 +607,7 @@
       "bedTempMax": 105
     },
     "metadata": {
-      "bambuID": "GFN97",
-      "snapmakerSubtype": "Carbon"
+      "bambuID": "GFN97"
     }
   },
   {
@@ -308,8 +630,28 @@
     "metadata": {
       "crealityID": "00001",
       "crealityPressureAdvance": 0.04,
-      "bambuID": "GFA00",
-      "snapmakerSubtype": "Carbon"
+      "bambuID": "GFA00"
+    }
+  },
+  {
+    "id": 50497,
+    "label": "PP-CF",
+    "material_type": "PP",
+    "filled_type": "CF",
+    "aspect_id": 238,
+    "density": 0.9,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 220,
+      "nozzleTempMax": 250,
+      "dryTemp": 60,
+      "dryTime": 4,
+      "bedTempMin": 55,
+      "bedTempMax": 60
+    },
+    "metadata": {
+      "bambuID": "GFP96"
     }
   },
   {
@@ -333,30 +675,7 @@
       "crealityID": "00021",
       "crealityPressureAdvance": 0.05,
       "bambuID": "GFC99",
-      "snapmakerType": "PC",
-      "snapmakerSubtype": "Carbon"
-    }
-  },
-  {
-    "id": 50497,
-    "label": "PP-CF",
-    "material_type": "PP",
-    "filled_type": "CF",
-    "aspect_id": 238,
-    "density": 0.9,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 220,
-      "nozzleTempMax": 250,
-      "dryTemp": 60,
-      "dryTime": 4,
-      "bedTempMin": 55,
-      "bedTempMax": 60
-    },
-    "metadata": {
-      "bambuID": "GFP96",
-      "snapmakerSubtype": "Carbon"
+      "snapType": "PC"
     }
   },
   {
@@ -378,8 +697,7 @@
     },
     "metadata": {
       "crealityID": "00018",
-      "bambuID": "GFT98",
-      "snapmakerSubtype": "Carbon"
+      "bambuID": "GFT98"
     }
   },
   {
@@ -400,9 +718,8 @@
       "bedTempMax": 60
     },
     "metadata": {
-      "bambuID": "GFP98",
-      "snapmakerType": "PE-CF",
-      "snapmakerSubtype": "Carbon"
+      "snapType": "PE-CF",
+      "bambuID": "GFP98"
     }
   },
   {
@@ -423,11 +740,10 @@
       "bedTempMax": 55
     },
     "metadata": {
-      "crealityID": "00006",
-      "crealityPressureAdvance": 0.05,
       "bambuID": "GFL98",
-      "snapmakerType": "PLA-CF",
-      "snapmakerSubtype": "Carbon"
+      "snapType": "PLA-CF",
+      "crealityID": "00006",
+      "crealityPressureAdvance": 0.05
     }
   },
   {
@@ -469,25 +785,27 @@
     "metadata": {}
   },
   {
-    "id": 31011,
-    "label": "ASA-AERO",
-    "material_type": "ASA",
-    "filled_type": "AERO",
+    "id": 7649,
+    "label": "PETG HS",
+    "material_type": "PETG",
+    "filled_type": null,
     "aspect_id": null,
-    "density": 1.05,
-    "filled": true,
+    "density": 1.27,
+    "filled": false,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 240,
-      "nozzleTempMax": 280,
-      "dryTemp": 80,
+      "nozzleTempMin": 220,
+      "nozzleTempMax": 270,
+      "dryTemp": 70,
       "dryTime": 8,
-      "bedTempMin": 95,
-      "bedTempMax": 100
+      "bedTempMin": 70,
+      "bedTempMax": 75
     },
     "metadata": {
-      "bambuID": "GFB02",
-      "snapmakerType": "ASA"
+      "snapType": "PETG",
+      "crealityID": "06002",
+      "crealityPressureAdvance": 0.05,
+      "bambuID": "GFG96"
     }
   },
   {
@@ -510,54 +828,6 @@
     "metadata": {}
   },
   {
-    "id": 43518,
-    "label": "TPU",
-    "material_type": "TPU",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.21,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 200,
-      "nozzleTempMax": 250,
-      "dryTemp": 75,
-      "dryTime": 8,
-      "bedTempMin": 35,
-      "bedTempMax": 40
-    },
-    "metadata": {
-      "bambuID": "GFU99",
-      "crealityID": "00005",
-      "crealityPressureAdvance": 0.04,
-      "snapmakerType": "TPU"
-    }
-  },
-  {
-    "id": 7649,
-    "label": "PETG HS",
-    "material_type": "PETG",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.27,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 220,
-      "nozzleTempMax": 270,
-      "dryTemp": 70,
-      "dryTime": 8,
-      "bedTempMin": 70,
-      "bedTempMax": 75
-    },
-    "metadata": {
-      "bambuID": "GFG96",
-      "crealityID": "06002",
-      "crealityPressureAdvance": 0.05,
-      "snapmakerType": "PETG"
-    }
-  },
-  {
     "id": 45962,
     "label": "PVB",
     "material_type": "PVB",
@@ -577,73 +847,25 @@
     "metadata": {}
   },
   {
-    "id": 1173,
-    "label": "PA6-GF",
-    "material_type": "PA6",
-    "filled_type": "GF",
+    "id": 31011,
+    "label": "ASA-AERO",
+    "material_type": "ASA",
+    "filled_type": "AERO",
     "aspect_id": null,
-    "density": 1.14,
+    "density": 1.05,
     "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 260,
-      "nozzleTempMax": 300,
-      "dryTemp": 85,
-      "dryTime": 12,
-      "bedTempMin": 100,
-      "bedTempMax": 105
-    },
-    "metadata": {
-      "bambuID": "GFN08",
-      "snapmakerType": "PA"
-    }
-  },
-  {
-    "id": 56666,
-    "label": "PA6",
-    "material_type": "PA6",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.14,
-    "filled": false,
     "product_type_id": 142,
     "recommended": {
       "nozzleTempMin": 240,
       "nozzleTempMax": 280,
-      "dryTemp": 85,
-      "dryTime": 12,
-      "bedTempMin": 100,
-      "bedTempMax": 105
-    },
-    "metadata": {
-      "bambuID": "GFN05",
-      "crealityID": "00015",
-      "crealityPressureAdvance": 0.044,
-      "snapmakerType": "PA"
-    }
-  },
-  {
-    "id": 34944,
-    "label": "PETG-GF",
-    "material_type": "PETG",
-    "filled_type": "GF",
-    "aspect_id": null,
-    "density": 1.27,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 230,
-      "nozzleTempMax": 270,
-      "dryTemp": 70,
+      "dryTemp": 80,
       "dryTime": 8,
-      "bedTempMin": 70,
-      "bedTempMax": 90
+      "bedTempMin": 95,
+      "bedTempMax": 100
     },
     "metadata": {
-      "bambuID": "GFG50",
-      "crealityID": "00014",
-      "crealityPressureAdvance": 0.03,
-      "snapmakerType": "PETG"
+      "snapType": "ASA",
+      "bambuID": "GFB02"
     }
   },
   {
@@ -670,53 +892,6 @@
     }
   },
   {
-    "id": 35100,
-    "label": "ASA-GF",
-    "material_type": "ASA",
-    "filled_type": "GF",
-    "aspect_id": null,
-    "density": 1.05,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 250,
-      "nozzleTempMax": 280,
-      "dryTemp": 80,
-      "dryTime": 8,
-      "bedTempMin": 90,
-      "bedTempMax": 95
-    },
-    "metadata": {
-      "bambuID": "GFB51",
-      "crealityID": "00007",
-      "crealityPressureAdvance": 0.06,
-      "snapmakerType": "ASA"
-    }
-  },
-  {
-    "id": 9483,
-    "label": "PVA",
-    "material_type": "PVA",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.23,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 190,
-      "nozzleTempMax": 240,
-      "dryTemp": 85,
-      "dryTime": 12,
-      "bedTempMin": 30,
-      "bedTempMax": 60
-    },
-    "metadata": {
-      "bambuID": "GFS99",
-      "crealityID": "00011",
-      "snapmakerType": "PVA"
-    }
-  },
-  {
     "id": 14508,
     "label": "PEI-9085",
     "material_type": "PEI",
@@ -740,27 +915,98 @@
     }
   },
   {
-    "id": 12844,
-    "label": "ASA",
-    "material_type": "ASA",
+    "id": 34944,
+    "label": "PETG-GF",
+    "material_type": "PETG",
+    "filled_type": "GF",
+    "aspect_id": null,
+    "density": 1.27,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 230,
+      "nozzleTempMax": 270,
+      "dryTemp": 70,
+      "dryTime": 8,
+      "bedTempMin": 70,
+      "bedTempMax": 90
+    },
+    "metadata": {
+      "snapType": "PETG-GF",
+      "bambuID": "GFG50",
+      "crealityID": "00014",
+      "crealityPressureAdvance": 0.03
+    }
+  },
+  {
+    "id": 9483,
+    "label": "PVA",
+    "material_type": "PVA",
     "filled_type": null,
     "aspect_id": null,
+    "density": 1.23,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 190,
+      "nozzleTempMax": 240,
+      "dryTemp": 85,
+      "dryTime": 12,
+      "bedTempMin": 30,
+      "bedTempMax": 60
+    },
+    "metadata": {
+      "snapType": "PVA",
+      "crealityID": "00011",
+      "bambuID": "GFS99"
+    }
+  },
+  {
+    "id": 35100,
+    "label": "ASA-GF",
+    "material_type": "ASA",
+    "filled_type": "GF",
+    "aspect_id": null,
     "density": 1.05,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 250,
+      "nozzleTempMax": 280,
+      "dryTemp": 80,
+      "dryTime": 8,
+      "bedTempMin": 90,
+      "bedTempMax": 95
+    },
+    "metadata": {
+      "snapType": "ASA",
+      "bambuID": "GFB51",
+      "crealityID": "00007",
+      "crealityPressureAdvance": 0.06
+    }
+  },
+  {
+    "id": 56666,
+    "label": "PA6",
+    "material_type": "PA6",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.14,
     "filled": false,
     "product_type_id": 142,
     "recommended": {
       "nozzleTempMin": 240,
       "nozzleTempMax": 280,
-      "dryTemp": 80,
-      "dryTime": 8,
-      "bedTempMin": 95,
-      "bedTempMax": 100
+      "dryTemp": 85,
+      "dryTime": 12,
+      "bedTempMin": 100,
+      "bedTempMax": 105
     },
     "metadata": {
-      "bambuID": "GFB98",
-      "crealityID": "00007",
-      "crealityPressureAdvance": 0.06,
-      "snapmakerType": "ASA"
+      "snapType": "PA",
+      "bambuID": "GFN05",
+      "crealityID": "00015",
+      "crealityPressureAdvance": 0.044
     }
   },
   {
@@ -829,30 +1075,6 @@
     }
   },
   {
-    "id": 38256,
-    "label": "PETG",
-    "material_type": "PETG",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.27,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 220,
-      "nozzleTempMax": 270,
-      "dryTemp": 70,
-      "dryTime": 8,
-      "bedTempMin": 70,
-      "bedTempMax": 75
-    },
-    "metadata": {
-      "bambuID": "GFG99",
-      "crealityID": "00003",
-      "crealityPressureAdvance": 0.07,
-      "snapmakerType": "PETG"
-    }
-  },
-  {
     "id": 12878,
     "label": "CoPE",
     "material_type": "CoPE",
@@ -895,8 +1117,7 @@
     "metadata": {
       "crealityID": "00001",
       "crealityPressureAdvance": 0.04,
-      "bambuID": "GFA00",
-      "snapmakerSubtype": "Carbon"
+      "bambuID": "GFA00"
     }
   },
   {
@@ -942,30 +1163,6 @@
     }
   },
   {
-    "id": 30458,
-    "label": "PC",
-    "material_type": "PC",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.3,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 260,
-      "nozzleTempMax": 290,
-      "dryTemp": 85,
-      "dryTime": 8,
-      "bedTempMin": 110,
-      "bedTempMax": 115
-    },
-    "metadata": {
-      "bambuID": "GFC99",
-      "crealityID": "00021",
-      "crealityPressureAdvance": 0.05,
-      "snapmakerType": "PC"
-    }
-  },
-  {
     "id": 59849,
     "label": "PCL",
     "material_type": "PCL",
@@ -989,6 +1186,30 @@
     }
   },
   {
+    "id": 30458,
+    "label": "PC",
+    "material_type": "PC",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.3,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 260,
+      "nozzleTempMax": 290,
+      "dryTemp": 85,
+      "dryTime": 8,
+      "bedTempMin": 110,
+      "bedTempMax": 115
+    },
+    "metadata": {
+      "crealityID": "00021",
+      "crealityPressureAdvance": 0.05,
+      "bambuID": "GFC99",
+      "snapType": "PC"
+    }
+  },
+  {
     "id": 23080,
     "label": "PAHT",
     "material_type": "PAHT",
@@ -1006,35 +1227,10 @@
       "bedTempMax": 110
     },
     "metadata": {
+      "snapType": "PA",
       "crealityID": "00016",
       "crealityPressureAdvance": 0.058,
-      "bambuID": "GFN04",
-      "snapmakerType": "PA"
-    }
-  },
-  {
-    "id": 55418,
-    "label": "PETG-CF",
-    "material_type": "PETG",
-    "filled_type": "CF",
-    "aspect_id": 238,
-    "density": 1.27,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 240,
-      "nozzleTempMax": 270,
-      "dryTemp": 70,
-      "dryTime": 8,
-      "bedTempMin": 75,
-      "bedTempMax": 80
-    },
-    "metadata": {
-      "bambuID": "GFG98",
-      "crealityID": "00014",
-      "crealityPressureAdvance": 0.03,
-      "snapmakerType": "PETG-CF",
-      "snapmakerSubtype": "Carbon"
+      "bambuID": "GFN04"
     }
   },
   {
@@ -1082,27 +1278,27 @@
     }
   },
   {
-    "id": 5238,
-    "label": "PETG-PTFE",
-    "material_type": "PETG",
-    "filled_type": null,
+    "id": 3481,
+    "label": "PCTG-GF",
+    "material_type": "PCTG",
+    "filled_type": "GF",
     "aspect_id": null,
-    "density": 1.27,
+    "density": 1.3,
     "filled": true,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 230,
-      "nozzleTempMax": 255,
-      "dryTemp": 55,
-      "dryTime": 6,
+      "nozzleTempMin": 240,
+      "nozzleTempMax": 270,
+      "dryTemp": 65,
+      "dryTime": 8,
       "bedTempMin": 70,
-      "bedTempMax": 80
+      "bedTempMax": 75
     },
     "metadata": {
-      "bambuID": "GFG50",
+      "snapType": "PCTG",
       "crealityID": "00014",
       "crealityPressureAdvance": 0.03,
-      "snapmakerType": "PETG"
+      "bambuID": "GFG97"
     }
   },
   {
@@ -1123,34 +1319,10 @@
       "bedTempMax": 80
     },
     "metadata": {
-      "crealityID": "00013",
-      "crealityPressureAdvance": 0.03,
+      "snapType": "PE",
       "bambuID": "GFP98",
-      "snapmakerType": "PE"
-    }
-  },
-  {
-    "id": 3481,
-    "label": "PCTG-GF",
-    "material_type": "PCTG",
-    "filled_type": "GF",
-    "aspect_id": null,
-    "density": 1.3,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 240,
-      "nozzleTempMax": 270,
-      "dryTemp": 65,
-      "dryTime": 8,
-      "bedTempMin": 70,
-      "bedTempMax": 75
-    },
-    "metadata": {
-      "crealityID": "00014",
-      "crealityPressureAdvance": 0.03,
-      "bambuID": "GFG97",
-      "snapmakerType": "PCTG"
+      "crealityID": "00013",
+      "crealityPressureAdvance": 0.03
     }
   },
   {
@@ -1171,10 +1343,34 @@
       "bedTempMax": 100
     },
     "metadata": {
+      "snapType": "PA",
       "bambuID": "GFN08",
       "crealityID": "00015",
-      "crealityPressureAdvance": 0.044,
-      "snapmakerType": "PA"
+      "crealityPressureAdvance": 0.044
+    }
+  },
+  {
+    "id": 5238,
+    "label": "PETG-PTFE",
+    "material_type": "PETG",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.27,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 230,
+      "nozzleTempMax": 255,
+      "dryTemp": 55,
+      "dryTime": 6,
+      "bedTempMin": 70,
+      "bedTempMax": 80
+    },
+    "metadata": {
+      "snapType": "PETG",
+      "bambuID": "GFG50",
+      "crealityID": "00014",
+      "crealityPressureAdvance": 0.03
     }
   },
   {
@@ -1201,25 +1397,27 @@
     }
   },
   {
-    "id": 9691,
-    "label": "EVA",
-    "material_type": "EVA",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 0.94,
-    "filled": false,
+    "id": 53890,
+    "label": "PCTG-CF",
+    "material_type": "PCTG",
+    "filled_type": "CF",
+    "aspect_id": 238,
+    "density": 1.25,
+    "filled": true,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 175,
-      "nozzleTempMax": 220,
-      "dryTemp": 50,
-      "dryTime": 4,
-      "bedTempMin": 55,
-      "bedTempMax": 60
+      "nozzleTempMin": 240,
+      "nozzleTempMax": 270,
+      "dryTemp": 65,
+      "dryTime": 8,
+      "bedTempMin": 70,
+      "bedTempMax": 75
     },
     "metadata": {
-      "bambuID": "GFR99",
-      "snapmakerType": "EVA"
+      "snapType": "PCTG",
+      "crealityID": "00014",
+      "crealityPressureAdvance": 0.03,
+      "bambuID": "GFG97"
     }
   },
   {
@@ -1260,149 +1458,29 @@
     "metadata": {
       "crealityID": "00013",
       "crealityPressureAdvance": 0.03,
-      "bambuID": "GFG99",
-      "snapmakerSubtype": "Carbon"
+      "bambuID": "GFG99"
     }
   },
   {
-    "id": 12264,
-    "label": "PA6-CF",
-    "material_type": "PA6",
-    "filled_type": "CF",
-    "aspect_id": 238,
-    "density": 1.09,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 260,
-      "nozzleTempMax": 300,
-      "dryTemp": 85,
-      "dryTime": 12,
-      "bedTempMin": 100,
-      "bedTempMax": 105
-    },
-    "metadata": {
-      "bambuID": "GFN05",
-      "crealityID": "00015",
-      "crealityPressureAdvance": 0.044,
-      "snapmakerType": "PA-CF",
-      "snapmakerSubtype": "Carbon"
-    }
-  },
-  {
-    "id": 53890,
-    "label": "PCTG-CF",
-    "material_type": "PCTG",
-    "filled_type": "CF",
-    "aspect_id": 238,
-    "density": 1.25,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 240,
-      "nozzleTempMax": 270,
-      "dryTemp": 65,
-      "dryTime": 8,
-      "bedTempMin": 70,
-      "bedTempMax": 75
-    },
-    "metadata": {
-      "crealityID": "00014",
-      "crealityPressureAdvance": 0.03,
-      "bambuID": "GFG97",
-      "snapmakerType": "PCTG",
-      "snapmakerSubtype": "Carbon"
-    }
-  },
-  {
-    "id": 2053,
-    "label": "PA12-GF",
-    "material_type": "PA12",
-    "filled_type": "GF",
-    "aspect_id": null,
-    "density": 1.13,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 260,
-      "nozzleTempMax": 300,
-      "dryTemp": 85,
-      "dryTime": 12,
-      "bedTempMin": 70,
-      "bedTempMax": 90
-    },
-    "metadata": {
-      "snapmakerType": "PA"
-    }
-  },
-  {
-    "id": 29272,
-    "label": "PA11",
-    "material_type": "PA11",
+    "id": 9691,
+    "label": "EVA",
+    "material_type": "EVA",
     "filled_type": null,
     "aspect_id": null,
-    "density": 1.03,
+    "density": 0.94,
     "filled": false,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 260,
-      "nozzleTempMax": 290,
-      "dryTemp": 80,
-      "dryTime": 12,
-      "bedTempMin": 80,
-      "bedTempMax": 100
+      "nozzleTempMin": 175,
+      "nozzleTempMax": 220,
+      "dryTemp": 50,
+      "dryTime": 4,
+      "bedTempMin": 55,
+      "bedTempMax": 60
     },
     "metadata": {
-      "crealityID": "00008",
-      "crealityPressureAdvance": 0.058,
-      "bambuID": "GFN99",
-      "snapmakerType": "PA"
-    }
-  },
-  {
-    "id": 51861,
-    "label": "PETG-ESD",
-    "material_type": "PETG",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.27,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 240,
-      "nozzleTempMax": 270,
-      "dryTemp": 70,
-      "dryTime": 8,
-      "bedTempMin": 65,
-      "bedTempMax": 70
-    },
-    "metadata": {
-      "bambuID": "GFG50",
-      "crealityID": "00014",
-      "crealityPressureAdvance": 0.03,
-      "snapmakerType": "PETG"
-    }
-  },
-  {
-    "id": 49804,
-    "label": "ASA-AF",
-    "material_type": "ASA",
-    "filled_type": "AF",
-    "aspect_id": null,
-    "density": 1.05,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 250,
-      "nozzleTempMax": 280,
-      "dryTemp": 80,
-      "dryTime": 8,
-      "bedTempMin": 90,
-      "bedTempMax": 95
-    },
-    "metadata": {
-      "bambuID": "GFB51",
-      "snapmakerType": "ASA"
+      "bambuID": "GFR99",
+      "snapType": "EVA"
     }
   },
   {
@@ -1425,6 +1503,52 @@
     "metadata": {}
   },
   {
+    "id": 49804,
+    "label": "ASA-AF",
+    "material_type": "ASA",
+    "filled_type": "AF",
+    "aspect_id": null,
+    "density": 1.05,
+    "filled": true,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 250,
+      "nozzleTempMax": 280,
+      "dryTemp": 80,
+      "dryTime": 8,
+      "bedTempMin": 90,
+      "bedTempMax": 95
+    },
+    "metadata": {
+      "snapType": "ASA",
+      "bambuID": "GFB51"
+    }
+  },
+  {
+    "id": 29272,
+    "label": "PA11",
+    "material_type": "PA11",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.03,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 260,
+      "nozzleTempMax": 290,
+      "dryTemp": 80,
+      "dryTime": 12,
+      "bedTempMin": 80,
+      "bedTempMax": 100
+    },
+    "metadata": {
+      "snapType": "PA",
+      "crealityID": "00008",
+      "crealityPressureAdvance": 0.058,
+      "bambuID": "GFN99"
+    }
+  },
+  {
     "id": 18451,
     "label": "PA11-CF",
     "material_type": "PA11",
@@ -1445,89 +1569,29 @@
       "crealityID": "00009",
       "crealityPressureAdvance": 0.044,
       "bambuID": "GFN98",
-      "snapmakerType": "PA-CF",
-      "snapmakerSubtype": "Carbon"
+      "snapType": "PA-CF"
     }
   },
   {
-    "id": 18130,
-    "label": "PS",
-    "material_type": "PS",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.05,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 220,
-      "nozzleTempMax": 260,
-      "dryTemp": 75,
-      "dryTime": 2,
-      "bedTempMin": 60,
-      "bedTempMax": 100
-    },
-    "metadata": {}
-  },
-  {
-    "id": 49074,
-    "label": "ABS-GF",
-    "material_type": "ABS",
+    "id": 2053,
+    "label": "PA12-GF",
+    "material_type": "PA12",
     "filled_type": "GF",
     "aspect_id": null,
-    "density": 1.04,
+    "density": 1.13,
     "filled": true,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 240,
-      "nozzleTempMax": 280,
-      "dryTemp": 80,
-      "dryTime": 8,
-      "bedTempMin": 85,
-      "bedTempMax": 90
-    },
-    "metadata": {
-      "snapmakerType": "ABS"
-    }
-  },
-  {
-    "id": 55796,
-    "label": "PA12",
-    "material_type": "PA12",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.01,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 250,
-      "nozzleTempMax": 290,
+      "nozzleTempMin": 260,
+      "nozzleTempMax": 300,
       "dryTemp": 85,
       "dryTime": 12,
       "bedTempMin": 70,
       "bedTempMax": 90
     },
     "metadata": {
-      "snapmakerType": "PA"
+      "snapType": "PA"
     }
-  },
-  {
-    "id": 58498,
-    "label": "PEBA",
-    "material_type": "PEBA",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.01,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 225,
-      "nozzleTempMax": 250,
-      "dryTemp": 70,
-      "dryTime": 3,
-      "bedTempMin": 95,
-      "bedTempMax": 100
-    },
-    "metadata": {}
   },
   {
     "id": 47651,
@@ -1550,33 +1614,90 @@
       "crealityID": "00021",
       "crealityPressureAdvance": 0.05,
       "bambuID": "GFC99",
-      "snapmakerType": "PC",
-      "snapmakerSubtype": "Carbon"
+      "snapType": "PC"
     }
   },
   {
-    "id": 48815,
-    "label": "PAHT-CF",
-    "material_type": "PAHT",
-    "filled_type": "CF",
-    "aspect_id": 238,
-    "density": 1.06,
+    "id": 18130,
+    "label": "PS",
+    "material_type": "PS",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.05,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 220,
+      "nozzleTempMax": 260,
+      "dryTemp": 75,
+      "dryTime": 2,
+      "bedTempMin": 60,
+      "bedTempMax": 100
+    },
+    "metadata": {}
+  },
+  {
+    "id": 58498,
+    "label": "PEBA",
+    "material_type": "PEBA",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.01,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 225,
+      "nozzleTempMax": 250,
+      "dryTemp": 70,
+      "dryTime": 3,
+      "bedTempMin": 95,
+      "bedTempMax": 100
+    },
+    "metadata": {
+      "snapType": "PEBA",
+      "snapSubType": "90A"
+    }
+  },
+  {
+    "id": 49074,
+    "label": "ABS-GF",
+    "material_type": "ABS",
+    "filled_type": "GF",
+    "aspect_id": null,
+    "density": 1.04,
     "filled": true,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 260,
-      "nozzleTempMax": 300,
-      "dryTemp": 85,
-      "dryTime": 12,
-      "bedTempMin": 100,
-      "bedTempMax": 105
+      "nozzleTempMin": 240,
+      "nozzleTempMax": 280,
+      "dryTemp": 80,
+      "dryTime": 8,
+      "bedTempMin": 85,
+      "bedTempMax": 90
     },
     "metadata": {
-      "crealityID": "00016",
-      "crealityPressureAdvance": 0.058,
-      "bambuID": "GFN04",
-      "snapmakerType": "PA-CF",
-      "snapmakerSubtype": "Carbon"
+      "snapType": "ABS"
+    }
+  },
+  {
+    "id": 55796,
+    "label": "PA12",
+    "material_type": "PA12",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.01,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 250,
+      "nozzleTempMax": 290,
+      "dryTemp": 85,
+      "dryTime": 12,
+      "bedTempMin": 70,
+      "bedTempMax": 90
+    },
+    "metadata": {
+      "snapType": "PA"
     }
   },
   {
@@ -1597,50 +1718,6 @@
       "bedTempMax": 110
     },
     "metadata": {}
-  },
-  {
-    "id": 30594,
-    "label": "PA-GF",
-    "material_type": "PA",
-    "filled_type": "GF",
-    "aspect_id": null,
-    "density": 1.14,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 260,
-      "nozzleTempMax": 300,
-      "dryTemp": 85,
-      "dryTime": 12,
-      "bedTempMin": 100,
-      "bedTempMax": 105
-    },
-    "metadata": {
-      "snapmakerType": "PA"
-    }
-  },
-  {
-    "id": 26029,
-    "label": "HIPS",
-    "material_type": "HIPS",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.03,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 220,
-      "nozzleTempMax": 270,
-      "dryTemp": 80,
-      "dryTime": 6,
-      "bedTempMin": 90,
-      "bedTempMax": 95
-    },
-    "metadata": {
-      "bambuID": "GFS98",
-      "crealityID": "00012",
-      "snapmakerType": "HIPS"
-    }
   },
   {
     "id": 28110,
@@ -1679,11 +1756,34 @@
       "bedTempMax": 95
     },
     "metadata": {
+      "snapType": "ASA",
       "bambuID": "GFB51",
       "crealityID": "00007",
-      "crealityPressureAdvance": 0.06,
-      "snapmakerType": "ASA",
-      "snapmakerSubtype": "Carbon"
+      "crealityPressureAdvance": 0.06
+    }
+  },
+  {
+    "id": 4587,
+    "label": "PC-PBT",
+    "material_type": "PC",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.2,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 260,
+      "nozzleTempMax": 280,
+      "dryTemp": 90,
+      "dryTime": 2,
+      "bedTempMin": 90,
+      "bedTempMax": 100
+    },
+    "metadata": {
+      "crealityID": "00021",
+      "crealityPressureAdvance": 0.05,
+      "bambuID": "GFC00",
+      "snapType": "PC"
     }
   },
   {
@@ -1723,31 +1823,7 @@
       "bedTempMax": 130
     },
     "metadata": {
-      "snapmakerType": "PC"
-    }
-  },
-  {
-    "id": 4587,
-    "label": "PC-PBT",
-    "material_type": "PC",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.2,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 260,
-      "nozzleTempMax": 280,
-      "dryTemp": 90,
-      "dryTime": 2,
-      "bedTempMin": 90,
-      "bedTempMax": 100
-    },
-    "metadata": {
-      "bambuID": "GFC00",
-      "crealityID": "00021",
-      "crealityPressureAdvance": 0.05,
-      "snapmakerType": "PC"
+      "snapType": "PC"
     }
   },
   {
@@ -1768,8 +1844,8 @@
       "bedTempMax": 60
     },
     "metadata": {
-      "bambuID": "GFR98",
-      "snapmakerType": "PHA"
+      "snapType": "PHA",
+      "bambuID": "GFR98"
     }
   },
   {
@@ -1790,20 +1866,20 @@
       "bedTempMax": 90
     },
     "metadata": {
+      "snapType": "ABS",
       "bambuID": "GFB00",
       "crealityID": "00004",
-      "crealityPressureAdvance": 0.06,
-      "snapmakerType": "ABS"
+      "crealityPressureAdvance": 0.06
     }
   },
   {
-    "id": 8345,
-    "label": "PLA+ Silk",
+    "id": 18922,
+    "label": "PLA-ESD",
     "material_type": "PLA",
     "filled_type": null,
-    "aspect_id": 92,
+    "aspect_id": null,
     "density": 1.24,
-    "filled": false,
+    "filled": true,
     "product_type_id": 142,
     "recommended": {
       "nozzleTempMin": 190,
@@ -1814,11 +1890,10 @@
       "bedTempMax": 55
     },
     "metadata": {
-      "crealityID": "00002",
-      "crealityPressureAdvance": 0.04,
-      "bambuID": "GFA06",
-      "snapmakerType": "PLA",
-      "snapmakerSubtype": "Silk"
+      "snapType": "PLA",
+      "bambuID": "GFL98",
+      "crealityID": "00006",
+      "crealityPressureAdvance": 0.05
     }
   },
   {
@@ -1839,30 +1914,6 @@
       "bedTempMax": 70
     },
     "metadata": {}
-  },
-  {
-    "id": 48047,
-    "label": "TPU High Speed",
-    "material_type": "TPU",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.21,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 200,
-      "nozzleTempMax": 250,
-      "dryTemp": 75,
-      "dryTime": 8,
-      "bedTempMin": 35,
-      "bedTempMax": 40
-    },
-    "metadata": {
-      "bambuID": "GFU00",
-      "crealityID": "00005",
-      "crealityPressureAdvance": 0.04,
-      "snapmakerType": "TPU"
-    }
   },
   {
     "id": 56527,
@@ -1903,54 +1954,6 @@
     "metadata": {}
   },
   {
-    "id": 18922,
-    "label": "PLA-ESD",
-    "material_type": "PLA",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.24,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 190,
-      "nozzleTempMax": 240,
-      "dryTemp": 50,
-      "dryTime": 8,
-      "bedTempMin": 45,
-      "bedTempMax": 55
-    },
-    "metadata": {
-      "bambuID": "GFL98",
-      "crealityID": "00006",
-      "crealityPressureAdvance": 0.05,
-      "snapmakerType": "PLA"
-    }
-  },
-  {
-    "id": 11506,
-    "label": "PLA-AERO",
-    "material_type": "PLA",
-    "filled_type": "AERO",
-    "aspect_id": null,
-    "density": 1.24,
-    "filled": true,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 210,
-      "nozzleTempMax": 260,
-      "dryTemp": 50,
-      "dryTime": 8,
-      "bedTempMin": 45,
-      "bedTempMax": 55
-    },
-    "metadata": {
-      "crealityID": "00007",
-      "crealityPressureAdvance": 0.06,
-      "bambuID": "GFA11",
-      "snapmakerType": "PLA"
-    }
-  },
-  {
     "id": 49152,
     "label": "PPSU",
     "material_type": "PPSU",
@@ -1970,30 +1973,6 @@
     "metadata": {}
   },
   {
-    "id": 57469,
-    "label": "PETG HF",
-    "material_type": "PETG",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.27,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 220,
-      "nozzleTempMax": 270,
-      "dryTemp": 70,
-      "dryTime": 8,
-      "bedTempMin": 70,
-      "bedTempMax": 75
-    },
-    "metadata": {
-      "bambuID": "GFG96",
-      "crealityID": "06002",
-      "crealityPressureAdvance": 0.05,
-      "snapmakerType": "PETG"
-    }
-  },
-  {
     "id": 46591,
     "label": "PLA+",
     "material_type": "PLA",
@@ -2011,10 +1990,10 @@
       "bedTempMax": 55
     },
     "metadata": {
-      "bambuID": "GFL03",
+      "snapType": "PLA",
       "crealityID": "09001",
       "crealityPressureAdvance": 0.04,
-      "snapmakerType": "PLA"
+      "bambuID": "GFL03"
     }
   },
   {
@@ -2056,10 +2035,10 @@
       "bedTempMax": 105
     },
     "metadata": {
-      "bambuID": "GFN99",
+      "snapType": "PA",
       "crealityID": "00008",
       "crealityPressureAdvance": 0.058,
-      "snapmakerType": "PA"
+      "bambuID": "GFN99"
     }
   },
   {
@@ -2078,6 +2057,65 @@
       "dryTime": 3,
       "bedTempMin": 50,
       "bedTempMax": 55
+    },
+    "metadata": {}
+  },
+  {
+    "id": 18703,
+    "label": "PETP",
+    "material_type": "PET",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.38,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 220,
+      "nozzleTempMax": 260,
+      "dryTemp": 70,
+      "dryTime": 8,
+      "bedTempMin": 90,
+      "bedTempMax": 95
+    },
+    "metadata": {}
+  },
+  {
+    "id": 3368,
+    "label": "PC-ABS",
+    "material_type": "PC",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.19,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 240,
+      "nozzleTempMax": 290,
+      "dryTemp": 85,
+      "dryTime": 8,
+      "bedTempMin": 90,
+      "bedTempMax": 95
+    },
+    "metadata": {
+      "snapType": "PC"
+    }
+  },
+  {
+    "id": 42623,
+    "label": "PMMA",
+    "material_type": "PMMA",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.18,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 240,
+      "nozzleTempMax": 265,
+      "dryTemp": 80,
+      "dryTime": 4,
+      "bedTempMin": 100,
+      "bedTempMax": 110
     },
     "metadata": {}
   },
@@ -2102,27 +2140,8 @@
       "crealityID": "00005",
       "crealityPressureAdvance": 0.04,
       "bambuID": "GFU99",
-      "snapmakerType": "TPU"
+      "snapType": "TPU"
     }
-  },
-  {
-    "id": 18703,
-    "label": "PETP",
-    "material_type": "PET",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.38,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 220,
-      "nozzleTempMax": 260,
-      "dryTemp": 70,
-      "dryTime": 8,
-      "bedTempMin": 90,
-      "bedTempMax": 95
-    },
-    "metadata": {}
   },
   {
     "id": 27635,
@@ -2142,48 +2161,8 @@
       "bedTempMax": 60
     },
     "metadata": {
-      "bambuID": "GFP99",
-      "snapmakerType": "PE"
-    }
-  },
-  {
-    "id": 42623,
-    "label": "PMMA",
-    "material_type": "PMMA",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.18,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 240,
-      "nozzleTempMax": 265,
-      "dryTemp": 80,
-      "dryTime": 4,
-      "bedTempMin": 100,
-      "bedTempMax": 110
-    },
-    "metadata": {}
-  },
-  {
-    "id": 3368,
-    "label": "PC-ABS",
-    "material_type": "PC",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.19,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 240,
-      "nozzleTempMax": 290,
-      "dryTemp": 85,
-      "dryTime": 8,
-      "bedTempMin": 90,
-      "bedTempMax": 95
-    },
-    "metadata": {
-      "snapmakerType": "PC"
+      "snapType": "PE",
+      "bambuID": "GFP99"
     }
   },
   {
@@ -2229,6 +2208,44 @@
     }
   },
   {
+    "id": 10272,
+    "label": "PSU",
+    "material_type": "PSU",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.24,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 360,
+      "nozzleTempMax": 400,
+      "dryTemp": 110,
+      "dryTime": 4,
+      "bedTempMin": 140,
+      "bedTempMax": 160
+    },
+    "metadata": {}
+  },
+  {
+    "id": 55279,
+    "label": "PBT",
+    "material_type": "PBT",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.2,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 235,
+      "nozzleTempMax": 245,
+      "dryTemp": 75,
+      "dryTime": 6,
+      "bedTempMin": 0,
+      "bedTempMax": 0
+    },
+    "metadata": {}
+  },
+  {
     "id": 39944,
     "label": "PA-CF",
     "material_type": "PA",
@@ -2249,28 +2266,8 @@
       "crealityID": "00009",
       "crealityPressureAdvance": 0.044,
       "bambuID": "GFN98",
-      "snapmakerType": "PA-CF",
-      "snapmakerSubtype": "Carbon"
+      "snapType": "PA-CF"
     }
-  },
-  {
-    "id": 10272,
-    "label": "PSU",
-    "material_type": "PSU",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.24,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 360,
-      "nozzleTempMax": 400,
-      "dryTemp": 110,
-      "dryTime": 4,
-      "bedTempMin": 140,
-      "bedTempMax": 160
-    },
-    "metadata": {}
   },
   {
     "id": 54568,
@@ -2290,27 +2287,8 @@
       "bedTempMax": 110
     },
     "metadata": {
-      "snapmakerType": "ASA"
+      "snapType": "ASA"
     }
-  },
-  {
-    "id": 55279,
-    "label": "PBT",
-    "material_type": "PBT",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.2,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 235,
-      "nozzleTempMax": 245,
-      "dryTemp": 75,
-      "dryTime": 6,
-      "bedTempMin": 0,
-      "bedTempMax": 0
-    },
-    "metadata": {}
   },
   {
     "id": 20073,
@@ -2394,29 +2372,7 @@
       "crealityID": "00021",
       "crealityPressureAdvance": 0.05,
       "bambuID": "GFC99",
-      "snapmakerType": "PC"
-    }
-  },
-  {
-    "id": 15041,
-    "label": "PCTG",
-    "material_type": "PCTG",
-    "filled_type": null,
-    "aspect_id": null,
-    "density": 1.21,
-    "filled": false,
-    "product_type_id": 142,
-    "recommended": {
-      "nozzleTempMin": 240,
-      "nozzleTempMax": 270,
-      "dryTemp": 65,
-      "dryTime": 8,
-      "bedTempMin": 70,
-      "bedTempMax": 75
-    },
-    "metadata": {
-      "bambuID": "GFG97",
-      "snapmakerType": "PCTG"
+      "snapType": "PC"
     }
   },
   {
@@ -2442,27 +2398,25 @@
     }
   },
   {
-    "id": 5733,
-    "label": "TPU-AMS",
-    "material_type": "TPU",
+    "id": 15041,
+    "label": "PCTG",
+    "material_type": "PCTG",
     "filled_type": null,
     "aspect_id": null,
     "density": 1.21,
     "filled": false,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 200,
-      "nozzleTempMax": 250,
-      "dryTemp": 75,
+      "nozzleTempMin": 240,
+      "nozzleTempMax": 270,
+      "dryTemp": 65,
       "dryTime": 8,
-      "bedTempMin": 35,
-      "bedTempMax": 40
+      "bedTempMin": 70,
+      "bedTempMax": 75
     },
     "metadata": {
-      "crealityID": "00005",
-      "crealityPressureAdvance": 0.04,
-      "bambuID": "GFU02",
-      "snapmakerType": "TPU"
+      "snapType": "PCTG",
+      "bambuID": "GFG97"
     }
   },
   {
@@ -2483,34 +2437,34 @@
       "bedTempMax": 110
     },
     "metadata": {
+      "snapType": "PA",
       "crealityID": "00016",
       "crealityPressureAdvance": 0.058,
-      "bambuID": "GFN04",
-      "snapmakerType": "PA"
+      "bambuID": "GFN04"
     }
   },
   {
-    "id": 34049,
-    "label": "BVOH",
-    "material_type": "BVOH",
+    "id": 5733,
+    "label": "TPU-AMS",
+    "material_type": "TPU",
     "filled_type": null,
     "aspect_id": null,
-    "density": 1.14,
+    "density": 1.21,
     "filled": false,
     "product_type_id": 142,
     "recommended": {
-      "nozzleTempMin": 190,
-      "nozzleTempMax": 240,
-      "dryTemp": 85,
-      "dryTime": 12,
-      "bedTempMin": 55,
-      "bedTempMax": 60
+      "nozzleTempMin": 200,
+      "nozzleTempMax": 250,
+      "dryTemp": 75,
+      "dryTime": 8,
+      "bedTempMin": 35,
+      "bedTempMax": 40
     },
     "metadata": {
-      "bambuID": "GFS97",
-      "crealityID": "00010",
-      "crealityPressureAdvance": 0.4,
-      "snapmakerType": "BVOH"
+      "crealityID": "00005",
+      "crealityPressureAdvance": 0.04,
+      "snapType": "TPU",
+      "bambuID": "GFU02"
     }
   },
   {
@@ -2531,11 +2485,35 @@
       "bedTempMax": 55
     },
     "metadata": {
+      "snapType": "PLA",
+      "snapSubType": "Silk",
       "bambuID": "GFL96",
       "crealityID": "00002",
-      "crealityPressureAdvance": 0.04,
-      "snapmakerType": "PLA",
-      "snapmakerSubtype": "Silk"
+      "crealityPressureAdvance": 0.04
+    }
+  },
+  {
+    "id": 34049,
+    "label": "BVOH",
+    "material_type": "BVOH",
+    "filled_type": null,
+    "aspect_id": null,
+    "density": 1.14,
+    "filled": false,
+    "product_type_id": 142,
+    "recommended": {
+      "nozzleTempMin": 190,
+      "nozzleTempMax": 240,
+      "dryTemp": 85,
+      "dryTime": 12,
+      "bedTempMin": 55,
+      "bedTempMax": 60
+    },
+    "metadata": {
+      "snapType": "BVOH",
+      "crealityID": "00010",
+      "crealityPressureAdvance": 0.4,
+      "bambuID": "GFS97"
     }
   }
 ]
