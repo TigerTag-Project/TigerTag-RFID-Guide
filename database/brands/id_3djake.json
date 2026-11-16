@@ -3227,7 +3227,7 @@
     "series": "ABS 3DJake",
     "sku": "CLP-9010707006626",
     "title": "ABS 3DJake - Black",
-    "updated_at": null
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {
@@ -5939,6 +5939,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 245,
+      "color_g": 245,
+      "color_r": 245,
+      "data1": 56,
+      "data2": 195,
+      "data3": 215,
+      "data4": 50,
+      "data5": 8,
+      "data6": 0,
+      "data7": 60,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 1421,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "9010707007579",
+    "brand": "3DJake",
+    "color": "#F5F5F5",
+    "color_info": {
+      "colors": [
+        "#F5F5F5"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 1841135000,
+    "img_src": "https://cdn.tigertag.io/img?id=1841135000&v=1794829994",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "CMYK White",
+    "product_type": "Filament",
+    "series": "ecoPLA 3DJake",
+    "sku": "CLP-9010707007579",
+    "title": "ecoPLA 3DJake - CMYK White",
+    "updated_at": 1794829990407
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 237,
       "color_r": 255,
@@ -5989,7 +6044,7 @@
     "series": "ecoPLA 3DJake",
     "sku": "CLP-9010707007562",
     "title": "ecoPLA 3DJake - CMYK Yellow",
-    "updated_at": 1793372043023
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {
@@ -10433,7 +10488,7 @@
     "series": "ecoPLA 3DJake",
     "sku": "CLF-ECOPLA-RED-1000-175",
     "title": "ecoPLA 3DJake - Red",
-    "updated_at": 1793373930513
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {

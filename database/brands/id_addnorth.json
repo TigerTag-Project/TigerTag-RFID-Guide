@@ -885,7 +885,7 @@
     "series": "PETG Addnorth",
     "sku": "ANPE14BLA",
     "title": "PETG Addnorth - Black",
-    "updated_at": null
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {
@@ -1989,7 +1989,7 @@
     "series": "E-PLA Addnorth",
     "sku": "ANEP14GPU",
     "title": "E-PLA Addnorth - Glitz Purple",
-    "updated_at": 1793372790607
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {
@@ -2319,7 +2319,7 @@
     "series": "E-PLA Addnorth",
     "sku": "ANEP14MEB",
     "title": "E-PLA Addnorth - Medium Blue",
-    "updated_at": 1793374743017
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {
@@ -3647,7 +3647,7 @@
     "series": "E-PLA Addnorth",
     "sku": "ANEP14RED",
     "title": "E-PLA Addnorth - Red",
-    "updated_at": 1793373829487
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {
@@ -4096,6 +4096,61 @@
     "sku": "ANEF14BLA",
     "title": "EasyFlex Addnorth - Black",
     "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 24,
+      "color_g": 26,
+      "color_r": 26,
+      "data1": 56,
+      "data2": 265,
+      "data3": 275,
+      "data4": 70,
+      "data5": 4,
+      "data6": 100,
+      "data7": 120,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 32348,
+      "id_material": 20588,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": "7340182901409",
+    "brand": "Addnorth",
+    "color": "#1A1A18",
+    "color_info": {
+      "colors": [
+        "#1A1A18"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 3338337670,
+    "img_src": "https://cdn.tigertag.io/img?id=3338337670&v=1794831818",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PC-CF",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PC Blend HT LCF Addnorth",
+    "sku": "ANPBX14BLA",
+    "title": "PC Blend HT LCF Addnorth - Black",
+    "updated_at": 1794831814848
   },
   {
     "RFID_Data": {
@@ -5706,7 +5761,7 @@
     "series": "PETG Addnorth",
     "sku": "ANPE14WHI",
     "title": "PETG Addnorth - White",
-    "updated_at": 1793371947296
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {

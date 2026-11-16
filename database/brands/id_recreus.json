@@ -57,6 +57,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 206,
+      "color_g": 225,
+      "color_r": 208,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "8435424806242",
+    "brand": "Recreus",
+    "color": "#D0E1CE",
+    "color_info": {
+      "colors": [
+        "#D0E1CE"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 85951781,
+    "img_src": "https://cdn.tigertag.io/img?id=85951781&v=1794831113",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "750 g",
+    "name": "Mint",
+    "product_type": "Filament",
+    "series": "Filaflex 82A Footwearology",
+    "sku": "RCR-82AFW-MINT",
+    "title": "Filaflex 82A Footwearology - Mint",
+    "updated_at": 1794831109345
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 214,
       "color_g": 234,
       "color_r": 240,
@@ -108,6 +163,61 @@
     "sku": "RCR-95FOAMY-NATURAL",
     "title": "Filaflex 95 Foamy - Natural",
     "updated_at": 1788871052324
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 63,
+      "color_g": 127,
+      "color_r": 123,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 57469,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "8435424801735",
+    "brand": "Recreus",
+    "color": "#7B7F3F",
+    "color_info": {
+      "colors": [
+        "#7B7F3F"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": "manager",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 135091184,
+    "img_src": "https://cdn.tigertag.io/img?id=135091184&v=1794831275",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HF",
+    "measure": "750 g",
+    "name": "Metallic Green",
+    "product_type": "Filament",
+    "series": "PET-G HF",
+    "sku": "RCR-PETGHF-METALLICGREEN",
+    "title": "PET-G HF - Metallic Green",
+    "updated_at": 1794831271358
   },
   {
     "RFID_Data": {
@@ -513,6 +623,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 181,
+      "color_g": 232,
+      "color_r": 204,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "8435424806327",
+    "brand": "Recreus",
+    "color": "#CCE8B5",
+    "color_info": {
+      "colors": [
+        "#CCE8B5"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": "manager",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 963348970,
+    "img_src": "https://cdn.tigertag.io/img?id=963348970&v=1794830928",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "750 g",
+    "name": "Azure",
+    "product_type": "Filament",
+    "series": "Filaflex 95 Foamy Footwearology",
+    "sku": "RCR-95FOAMYFW-AZURE",
+    "title": "Filaflex 95 Foamy Footwearology - Azure",
+    "updated_at": 1794830925248
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 44,
       "color_g": 52,
       "color_r": 208,
@@ -682,6 +847,61 @@
     "sku": "RCR-60A-WHITE",
     "title": "Filaflex 60A - White",
     "updated_at": 1788871052323
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 160,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 57469,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "8435424801650",
+    "brand": "Recreus",
+    "color": "#0000A0",
+    "color_info": {
+      "colors": [
+        "#0000A0"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 1355341577,
+    "img_src": "https://cdn.tigertag.io/img?id=1355341577&v=1794831306",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HF",
+    "measure": "750 g",
+    "name": "Navy Blue",
+    "product_type": "Filament",
+    "series": "PET-G HF",
+    "sku": "RCR-PETGHF-NAVYBLUE",
+    "title": "PET-G HF - Navy Blue",
+    "updated_at": 1794831302381
   },
   {
     "RFID_Data": {
@@ -1024,6 +1244,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 254,
+      "color_g": 201,
+      "color_r": 241,
+      "data1": 56,
+      "data2": 248,
+      "data3": 255,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "8435424806365",
+    "brand": "Recreus",
+    "color": "#F1C9FE",
+    "color_info": {
+      "colors": [
+        "#F1C9FE"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 1883487412,
+    "img_src": "https://cdn.tigertag.io/img?id=1883487412&v=1794830981",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "750 g",
+    "name": "Lavender",
+    "product_type": "Filament",
+    "series": "Filaflex 95 Foamy Footwearology",
+    "sku": "RCR-95FOAMYFW-LAVENDER",
+    "title": "Filaflex 95 Foamy Footwearology - Lavender",
+    "updated_at": 1794830978301
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 44,
       "color_g": 52,
       "color_r": 208,
@@ -1134,6 +1409,65 @@
     "sku": "RCR-82A-BLUEFG",
     "title": "Filaflex 82A - Blue Food Grade",
     "updated_at": 1788871052323
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 94,
+      "color_g": 90,
+      "color_r": 81,
+      "data1": 56,
+      "data2": 220,
+      "data3": 270,
+      "data4": 70,
+      "data5": 8,
+      "data6": 70,
+      "data7": 75,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 57469,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "8435424801858",
+    "brand": "Recreus",
+    "color": "#515A5E",
+    "color_info": {
+      "colors": [
+        "#515A5E"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 7011",
+      "ral_delta_e": 1.2,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7011"
+      ],
+      "type": "mono"
+    },
+    "id": 1998810025,
+    "img_src": "https://cdn.tigertag.io/img?id=1998810025&v=1794831219",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG HF",
+    "measure": "750 g",
+    "name": "Diamantium Blue",
+    "product_type": "Filament",
+    "series": "PET-G HF",
+    "sku": "RCR-PETGHF-DIAMANTIUMBLUE",
+    "title": "PET-G HF - Diamantium Blue",
+    "updated_at": 1794831216238
   },
   {
     "RFID_Data": {
@@ -1531,6 +1865,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 82,
+      "color_g": 82,
+      "color_r": 84,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "8435424803548",
+    "brand": "Recreus",
+    "color": "#545252",
+    "color_info": {
+      "colors": [
+        "#545252"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 2574076137,
+    "img_src": "https://cdn.tigertag.io/img?id=2574076137&v=1794831461",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "PLA-LW",
+    "sku": "RCR-PLALW-BLACK",
+    "title": "PLA-LW - Black",
+    "updated_at": 1794831456906
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -1585,7 +1974,7 @@
     "series": "Filaflex 82A",
     "sku": "RCR-82A-BLACK",
     "title": "Filaflex 82A - Black",
-    "updated_at": 1788871052323
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {
@@ -1704,6 +2093,61 @@
     "sku": "RCR-70A-NAVYBLUE",
     "title": "Filaflex 70A - Navy Blue",
     "updated_at": 1788871052323
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 28,
+      "color_g": 6,
+      "color_r": 229,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 50,
+      "data5": 8,
+      "data6": 45,
+      "data7": 55,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "8435424802107",
+    "brand": "Recreus",
+    "color": "#E5061C",
+    "color_info": {
+      "colors": [
+        "#E5061C"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 2747753750,
+    "img_src": "https://cdn.tigertag.io/img?id=2747753750&v=1794831525",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Red",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "RCR-PLA-RED",
+    "title": "PLA - Red",
+    "updated_at": 1794831522003
   },
   {
     "RFID_Data": {
@@ -2384,6 +2828,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 209,
+      "color_g": 234,
+      "color_r": 241,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": 55,
+      "data5": 1,
+      "data6": 25,
+      "data7": 50,
+      "id_aspect1": 255,
+      "id_aspect2": null,
+      "id_brand": 60882,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "None",
+    "aspect2": null,
+    "barcode": "8435424806303",
+    "brand": "Recreus",
+    "color": "#F1EAD1",
+    "color_info": {
+      "colors": [
+        "#F1EAD1"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 3707975380,
+    "img_src": "https://cdn.tigertag.io/img?id=3707975380&v=1794831130",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "750 g",
+    "name": "Oat",
+    "product_type": "Filament",
+    "series": "Filaflex 82A Footwearology",
+    "sku": "RCR-82AFW-OAT",
+    "title": "Filaflex 82A Footwearology - Oat",
+    "updated_at": 1794831127405
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 0,
       "color_r": 0,
@@ -2552,7 +3051,7 @@
     "series": "Filaflex 82A",
     "sku": "RCR-82A-WHITE",
     "title": "Filaflex 82A - White",
-    "updated_at": 1788871052323
+    "updated_at": 1794828423118
   },
   {
     "RFID_Data": {
