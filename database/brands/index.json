@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "134edf8d7b8c2af5cdc13b59df470ca21603eb7a2c4bbbb796a5f203f866d0c1",
-  "products": 21826,
+  "sourceSha256": "ad1faa28cd892c4f33d36aa2ddfaea04ac26d06e85b4dde4a6adb844b20fd3e0",
+  "products": 22125,
   "unassigned": 3,
   "brands": [
     {
@@ -417,9 +417,9 @@
       "id_brand": 57209,
       "brand": "FrancoFil",
       "file": "id_francofil.json",
-      "entries": 160,
-      "bytes": 202898,
-      "sha256": "ec5292f8c8b8f8726fc30c152b6cc8314d70fb7ff43c17755fada33fd6bf9396"
+      "entries": 459,
+      "bytes": 583590,
+      "sha256": "794d4d84f5b87882bf0b731e62b77e659b37998f28809ed57ff85014ac1f3fc3"
     },
     {
       "id_brand": 50311,
@@ -722,8 +722,8 @@
       "brand": "R3D",
       "file": "id_r3d.json",
       "entries": 259,
-      "bytes": 326237,
-      "sha256": "075696e2bf4bd4338a71e1cf7d8bf996e8ae4c0d48ad8f71bad61aad01dfa04b"
+      "bytes": 326458,
+      "sha256": "2b12a7a8fa728b3ebdf3dbca52f2c0c17b99fc53cdbab29c5304299cf9b33b75"
     },
     {
       "id_brand": 20523,
