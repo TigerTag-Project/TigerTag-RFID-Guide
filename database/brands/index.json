@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "8627b355d7f4feba3d77ee61cb9ee1452b7ce0bd84ea4f0013906ee353b6d8dc",
-  "products": 21611,
+  "sourceSha256": "134edf8d7b8c2af5cdc13b59df470ca21603eb7a2c4bbbb796a5f203f866d0c1",
+  "products": 21826,
   "unassigned": 3,
   "brands": [
     {
@@ -417,9 +417,9 @@
       "id_brand": 57209,
       "brand": "FrancoFil",
       "file": "id_francofil.json",
-      "entries": 97,
-      "bytes": 123348,
-      "sha256": "aeb37ed021671305ec996ff716b00fa1476d9c9a2e670c7bccd7663b7421ee67"
+      "entries": 160,
+      "bytes": 202898,
+      "sha256": "ec5292f8c8b8f8726fc30c152b6cc8314d70fb7ff43c17755fada33fd6bf9396"
     },
     {
       "id_brand": 50311,
@@ -722,8 +722,8 @@
       "brand": "R3D",
       "file": "id_r3d.json",
       "entries": 259,
-      "bytes": 326236,
-      "sha256": "32cb55ec3035326c8ec579f8a9b62073904d69248bf7fd7ec25b1561f1c63efb"
+      "bytes": 326237,
+      "sha256": "075696e2bf4bd4338a71e1cf7d8bf996e8ae4c0d48ad8f71bad61aad01dfa04b"
     },
     {
       "id_brand": 20523,
@@ -737,9 +737,9 @@
       "id_brand": 60882,
       "brand": "Recreus",
       "file": "id_recreus.json",
-      "entries": 62,
-      "bytes": 78702,
-      "sha256": "713290258455339ab265efd4a51332175700e9f4e6c1aa1fa6a28f879f3f01ba"
+      "entries": 214,
+      "bytes": 272990,
+      "sha256": "db14cb8f764e121b803dfa85dd040bd179e502f5ba1ad426c7ae89f66d9ea290"
     },
     {
       "id_brand": 19961,
