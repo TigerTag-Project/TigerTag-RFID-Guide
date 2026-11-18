@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "54fc82e559d90e8fd77b88b9086ac2095751ef06f5b49eebd8003541f85db68a",
-  "products": 22657,
+  "sourceSha256": "bf56c965b289234f0f8ae0d157bbf0ca73a6a66dd15931ebf6aac4ecfda3fa6a",
+  "products": 23098,
   "unassigned": 3,
   "brands": [
     {
@@ -764,6 +764,14 @@
       "entries": 214,
       "bytes": 272990,
       "sha256": "db14cb8f764e121b803dfa85dd040bd179e502f5ba1ad426c7ae89f66d9ea290"
+    },
+    {
+      "id_brand": 2542,
+      "brand": "Recycling Fabrik",
+      "file": "id_recycling_fabrik.json",
+      "entries": 441,
+      "bytes": 571814,
+      "sha256": "8034925d40024fe568a698be6d8a66508f031d8cec5dcc9bb1d38887846a7aa9"
     },
     {
       "id_brand": 19961,
