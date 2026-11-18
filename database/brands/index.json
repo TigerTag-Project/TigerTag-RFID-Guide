@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "ad1faa28cd892c4f33d36aa2ddfaea04ac26d06e85b4dde4a6adb844b20fd3e0",
-  "products": 22125,
+  "sourceSha256": "7457b1a7d8e5778db25b352820b30a6bf751ff40c27dec6622d30f8960475868",
+  "products": 22500,
   "unassigned": 3,
   "brands": [
     {
@@ -68,6 +68,14 @@
       "entries": 28,
       "bytes": 35649,
       "sha256": "8a90229b8192127d4ec8b17bfda8152083fe67ebf4212cd5f586595e4b05cfd8"
+    },
+    {
+      "id_brand": 34409,
+      "brand": "3DTrcek",
+      "file": "id_3dtrcek.json",
+      "entries": 375,
+      "bytes": 470808,
+      "sha256": "2a8ce45fbc25504373331867dc7309fc7f1b30afd36ba3eab682b52374907d81"
     },
     {
       "id_brand": 39652,
@@ -419,7 +427,7 @@
       "file": "id_francofil.json",
       "entries": 459,
       "bytes": 583590,
-      "sha256": "794d4d84f5b87882bf0b731e62b77e659b37998f28809ed57ff85014ac1f3fc3"
+      "sha256": "cbb1565cb1f05b7b946b96a5477d8e701a4644d8a5aa8ade13db912a315813b1"
     },
     {
       "id_brand": 50311,
