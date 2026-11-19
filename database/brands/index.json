@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "bf56c965b289234f0f8ae0d157bbf0ca73a6a66dd15931ebf6aac4ecfda3fa6a",
-  "products": 23098,
+  "sourceSha256": "a30328254f3e8a09175d1ca8509e1eeb4c5ddac38fe382ea2ea474c54fbc7a4f",
+  "products": 23571,
   "unassigned": 3,
   "brands": [
     {
@@ -146,8 +146,8 @@
       "brand": "Anycubic",
       "file": "id_anycubic.json",
       "entries": 203,
-      "bytes": 250825,
-      "sha256": "103805311638eaf3dff17280e5a227c2e90934bc504b74bbd676e15609a0afe0"
+      "bytes": 250794,
+      "sha256": "cb4167d73b79060e0802c25b42ed61ffb2ad8073c46cc339c4f5b7a019ec542c"
     },
     {
       "id_brand": 23181,
@@ -633,9 +633,9 @@
       "id_brand": 4344,
       "brand": "MatterHackers",
       "file": "id_matterhackers.json",
-      "entries": 18,
-      "bytes": 23946,
-      "sha256": "4bb3d000081d46d75b3a7e9979c32e0b3d9c1f13fb3855c1da596f3efbb1f86e"
+      "entries": 491,
+      "bytes": 629925,
+      "sha256": "d06d5626e3960e64df398f1e097209a7d04c15307e563e8c93d74c2edaca4c84"
     },
     {
       "id_brand": 55763,
@@ -770,8 +770,8 @@
       "brand": "Recycling Fabrik",
       "file": "id_recycling_fabrik.json",
       "entries": 441,
-      "bytes": 571814,
-      "sha256": "8034925d40024fe568a698be6d8a66508f031d8cec5dcc9bb1d38887846a7aa9"
+      "bytes": 571789,
+      "sha256": "7ffebc78f0fbeadaf5d5eb87a86ba3d1d05c08ff0cfd5c3a50acff41d1124afd"
     },
     {
       "id_brand": 19961,
