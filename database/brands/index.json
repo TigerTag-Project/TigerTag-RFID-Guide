@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "5ae2e3d02b16784dff00d78b9e9637f18ea76c0f1121191cd0f4605014dbf831",
-  "products": 23577,
+  "sourceSha256": "c548ccd8a78db2efae67dbb11d21967d3b048cf4a51ac3bd155a30861ac9877e",
+  "products": 24865,
   "unassigned": 3,
   "brands": [
     {
@@ -182,6 +182,14 @@
       "sha256": "dce92c3190fba5403eeb84db29960f487c9795f9154bd945b1b4d20fbea4f951"
     },
     {
+      "id_brand": 50600,
+      "brand": "Bavaria Filaments",
+      "file": "id_bavaria_filaments.json",
+      "entries": 239,
+      "bytes": 302113,
+      "sha256": "15c13ee1fa09e16793e5ae67c3163d0a4c5d49dabfd9acbe53ca177464305e40"
+    },
+    {
       "id_brand": 55869,
       "brand": "Biqu",
       "file": "id_biqu.json",
@@ -244,6 +252,14 @@
       "entries": 4,
       "bytes": 4984,
       "sha256": "e2b9e6e14cb5c0de2ad576a0a1b86ef2a10e925dbc458003773656fce591898f"
+    },
+    {
+      "id_brand": 55195,
+      "brand": "CR-3D",
+      "file": "id_cr_3d.json",
+      "entries": 1049,
+      "bytes": 1305930,
+      "sha256": "cb00c62d57f28154b66fff7f72c320be24e392dc0e5e46f9e82be5df80e2ddd5"
     },
     {
       "id_brand": 26956,
