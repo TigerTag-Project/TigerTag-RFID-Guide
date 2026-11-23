@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "dad11eadbc72dbd2b1caf8d940da3f682122ecd276de70c7bfee6ef7ce705332",
-  "products": 24865,
+  "sourceSha256": "7775c1fcc4a2a59fced0b73e68cdb359e66a91f048e583391b8a8fe8a6aa65d0",
+  "products": 24928,
   "unassigned": 3,
   "brands": [
     {
@@ -337,9 +337,9 @@
       "id_brand": 47930,
       "brand": "eSun",
       "file": "id_esun.json",
-      "entries": 435,
-      "bytes": 544723,
-      "sha256": "b0621ab2b5d6eb9a7d8301c53569bdcf4444f1cd2ee0b564366118d7da810220"
+      "entries": 438,
+      "bytes": 549506,
+      "sha256": "a15f60534fe819231036672de87fe5d88fb1c00d823f300de93277077ea5996a"
     },
     {
       "id_brand": 7674,
@@ -451,7 +451,7 @@
       "file": "id_francofil.json",
       "entries": 459,
       "bytes": 583587,
-      "sha256": "a900923222daacab346eded75ac6506b54f209cabe06527bba178cf98cc69fe1"
+      "sha256": "1c4ab30aa27b954c1ac66a2adabb20f5f7e6f4bba94445564c40dc77f286d538"
     },
     {
       "id_brand": 50311,
@@ -889,9 +889,17 @@
       "id_brand": 51857,
       "brand": "Sunlu",
       "file": "id_sunlu.json",
-      "entries": 565,
-      "bytes": 714004,
-      "sha256": "e2a189024e1d5bd3070f7a4dd465cdfdff90b7939dbf631ee3a84d252b2b0333"
+      "entries": 580,
+      "bytes": 732523,
+      "sha256": "ed824da51e241216d5b2677349ab6d7d705a37afb866f33926a84c536936d145"
+    },
+    {
+      "id_brand": 52300,
+      "brand": "Swissfil",
+      "file": "id_swissfil.json",
+      "entries": 45,
+      "bytes": 55858,
+      "sha256": "d5e8186c3f86e3dba81cfa426b9dc008308a8c40b44da6c72c22d96674a79341"
     },
     {
       "id_brand": 28055,
