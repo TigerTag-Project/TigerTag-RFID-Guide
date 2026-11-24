@@ -57,6 +57,65 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 0,
+      "color_g": 0,
+      "color_r": 0,
+      "data1": 56,
+      "data2": 190,
+      "data3": 240,
+      "data4": 55,
+      "data5": 6,
+      "data6": 25,
+      "data7": 65,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 900
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Prusament",
+    "color": "#000000",
+    "color_info": {
+      "colors": [
+        "#000000"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": "RAL 9005",
+      "ral_delta_e": 2.1,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9005"
+      ],
+      "type": "mono"
+    },
+    "id": 51834579,
+    "img_src": "https://cdn.tigertag.io/img?id=51834579&v=1795513265",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "900 g",
+    "name": "Jet Black Refill",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "PR-PLA-JETBLACK-REFILL-900G",
+    "title": "PLA - Jet Black Refill",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 247,
       "color_g": 0,
       "color_r": 255,
@@ -3841,6 +3900,61 @@
     "sku": "PRM-PTM-NOCBEI-1000",
     "title": "PETG Matte - Noctua Beige",
     "updated_at": 1792247655286
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 222,
+      "color_g": 222,
+      "color_r": 222,
+      "data1": 56,
+      "data2": 240,
+      "data3": 260,
+      "data4": 65,
+      "data5": 6,
+      "data6": 70,
+      "data7": 90,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 46392,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 2000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": "8594173676022",
+    "brand": "Prusament",
+    "color": "#DEDEDE",
+    "color_info": {
+      "colors": [
+        "#DEDEDE"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 2507316150,
+    "img_src": "https://cdn.tigertag.io/img?id=2507316150&v=1795513260",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "2000 g",
+    "name": "Urban Grey",
+    "product_type": "Filament",
+    "series": "PETG",
+    "sku": "PRM-PETG-URB-2000",
+    "title": "PETG - Urban Grey",
+    "updated_at": 1795513326821
   },
   {
     "RFID_Data": {

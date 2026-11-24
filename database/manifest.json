@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-24T03:44:30Z",
+  "generatedAt": "2026-11-24T16:53:51Z",
   "files": {
     "id_aspect.json": {
       "sha256": "78fc872b93c105fa18aeecc0a94ab0790792ad1677f6ec6e59d786490fd518c0",
@@ -9,22 +9,22 @@
       "updatedAt": "2026-10-31T19:32:49Z"
     },
     "id_brand.json": {
-      "sha256": "f93a12a365876e1de7fb22f1f8b9a10e8ea1071c1bdb15f247addf03910da815",
-      "bytes": 27560,
-      "entries": 169,
-      "updatedAt": "2026-11-23T17:12:30Z"
+      "sha256": "5d1caa65d01e094c19a45e32d013b77f7a6d363fd65200ebdd0ef330c7fd9233",
+      "bytes": 28192,
+      "entries": 175,
+      "updatedAt": "2026-11-24T16:53:51Z"
     },
     "id_catalog.json": {
-      "sha256": "02b37c84c977da612b3002160bc69a3dcb4974d0b0e4dbe62d7d03b4d0c68ec5",
-      "bytes": 31666264,
-      "entries": 24947,
-      "updatedAt": "2026-11-24T03:44:30Z"
+      "sha256": "eba876b13ee50c49f2cd97d764fea8c508c9c337c63a7b45bd301a9a5a78287e",
+      "bytes": 32286778,
+      "entries": 25439,
+      "updatedAt": "2026-11-24T16:53:51Z"
     },
     "id_container.json": {
-      "sha256": "acdbd3806da7bef5b4859f6ef23334de8784c4af98330183afa62431bff2b958",
-      "bytes": 24326,
-      "entries": 57,
-      "updatedAt": "2026-11-11T22:49:04Z"
+      "sha256": "2b2e5f4db9bf29ed9377b55aa7f3083f6707eeeb09ac63a48bfa7d4562c78124",
+      "bytes": 24757,
+      "entries": 58,
+      "updatedAt": "2026-11-24T16:53:51Z"
     },
     "id_diameter.json": {
       "sha256": "a1bc0abcc83663e19927fc58cee90ac5118c75cbae13ac0175e309834e18688b",
@@ -57,10 +57,10 @@
       "updatedAt": "2026-10-31T19:32:49Z"
     },
     "last_update.json": {
-      "sha256": "0fc0db2096cc0d12773cc79b7931275d355e7ab5dfec2786724c741389ae1a4d",
+      "sha256": "69a0aeab987683cd5da66bbb470a587caaac40a375e7bfe1f1112194e59b5af8",
       "bytes": 264,
       "entries": null,
-      "updatedAt": "2026-11-24T03:44:30Z"
+      "updatedAt": "2026-11-24T16:53:51Z"
     }
   }
 }

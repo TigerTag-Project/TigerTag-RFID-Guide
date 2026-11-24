@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "02b37c84c977da612b3002160bc69a3dcb4974d0b0e4dbe62d7d03b4d0c68ec5",
-  "products": 24947,
+  "sourceSha256": "eba876b13ee50c49f2cd97d764fea8c508c9c337c63a7b45bd301a9a5a78287e",
+  "products": 25439,
   "unassigned": 3,
   "brands": [
     {
@@ -166,6 +166,14 @@
       "sha256": "e52f604af39dae4aa5fcee16fe7d5cd018d3f27d733a688e039bca515dec112c"
     },
     {
+      "id_brand": 22239,
+      "brand": "Aurapol",
+      "file": "id_aurapol.json",
+      "entries": 203,
+      "bytes": 253987,
+      "sha256": "252551fe0ea16d5829254a1f93b58dd2115bd11eb27dd8bd56a5dbf2eaad5e11"
+    },
+    {
       "id_brand": 58410,
       "brand": "AzureFilm",
       "file": "id_azurefilm.json",
@@ -294,6 +302,14 @@
       "sha256": "5f0ffeab90b082e20c52faacef55589aa29cd8725a2b22d43dbe391f13f028c3"
     },
     {
+      "id_brand": 1621,
+      "brand": "DoPro 3D",
+      "file": "id_dopro_3d.json",
+      "entries": 72,
+      "bytes": 93092,
+      "sha256": "f517a769c2229fd291d7d19838397445406dcd131117f781cde3a50f5b007315"
+    },
+    {
       "id_brand": 34597,
       "brand": "EconoFil",
       "file": "id_econofil.json",
@@ -324,6 +340,14 @@
       "entries": 111,
       "bytes": 142471,
       "sha256": "2f3111b0ffb147b2c21d2629f1a245cb2430990ccf886c338090c5c16adf9dc5"
+    },
+    {
+      "id_brand": 62835,
+      "brand": "Epelay",
+      "file": "id_epelay.json",
+      "entries": 45,
+      "bytes": 56977,
+      "sha256": "6e7c962d4d6a490ce53bc6d1076324cff6c641cdc9d4ab25da76d44d4474134a"
     },
     {
       "id_brand": 28940,
@@ -745,9 +769,9 @@
       "id_brand": 46392,
       "brand": "Prusament",
       "file": "id_prusament.json",
-      "entries": 126,
-      "bytes": 157563,
-      "sha256": "9a34d7f7cab3cc509035e13900a787bec35be1c06aa2bd7fecf3427ecae0fc36"
+      "entries": 128,
+      "bytes": 160111,
+      "sha256": "d231405514f637b017f8014dc6c5873403d06bfcc3343f888878bd72f43ab3a3"
     },
     {
       "id_brand": 4011,
@@ -793,9 +817,9 @@
       "id_brand": 19961,
       "brand": "Rosa3D",
       "file": "id_rosa3d.json",
-      "entries": 551,
-      "bytes": 710566,
-      "sha256": "6a51945b8da1f04eee86685d952bc0ce253f60efa82aa7b4717dbeac9ed8715e"
+      "entries": 558,
+      "bytes": 719213,
+      "sha256": "9fd613f4f24282eb21d949af67e77ef081f3e0869c721fc3a77430ce71d55742"
     },
     {
       "id_brand": 1068,
@@ -804,6 +828,14 @@
       "entries": 33,
       "bytes": 42978,
       "sha256": "ed1489c8bc04fe284a0c9dfc2ded08921502d38eb06925a02688a532a8b4fdf7"
+    },
+    {
+      "id_brand": 8163,
+      "brand": "Sakata3D",
+      "file": "id_sakata3d.json",
+      "entries": 163,
+      "bytes": 205275,
+      "sha256": "eb17c80b5fbfad40bdec2a792e507c809bdd35be263e2aed326639ab5e46a8a7"
     },
     {
       "id_brand": 33566,
