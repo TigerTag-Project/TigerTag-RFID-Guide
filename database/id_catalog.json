@@ -24352,7 +24352,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-ANTHRAZITGRAU-750G",
     "title": "Tough PLA - Anthrazitgrau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -34818,7 +34818,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-HIMMELBLAU-750G",
     "title": "PLA - Himmelblau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -68173,7 +68173,7 @@
     "series": "PET-G",
     "sku": "SWF-PETG-TRANSPARENT-750G",
     "title": "PET-G - Transparent",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -70696,7 +70696,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-DUNKELBLAU-750G",
     "title": "PLA - Dunkelblau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -124442,6 +124442,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 84,
+      "color_g": 107,
+      "color_r": 126,
+      "data1": 221,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#7E6B54FF",
+    "color_info": {
+      "colors": [
+        "#7E6B54FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 374206815,
+    "img_src": "https://cdn.tigertag.io/img?id=374206815&v=1795451224",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Holzfarben",
+    "product_type": "Filament",
+    "series": "PLA Wood",
+    "sku": "SWF-PLAWOOD-WOOD-750G",
+    "title": "PLA Wood - Holzfarben",
+    "updated_at": 1795451313799
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 222,
       "color_g": 230,
       "color_r": 247,
@@ -140637,7 +140692,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-HIMBEERROT-750G",
     "title": "PLA - Himbeerrot",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -149315,7 +149370,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-SCHWARZ-750G",
     "title": "ASA - Schwarz",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -175882,7 +175937,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-PINK-750G",
     "title": "PLA - Pink",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -207975,7 +208030,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-HELLBLAU-750G",
     "title": "Tough PLA - Hellblau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -215850,6 +215905,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 137,
+      "color_g": 147,
+      "color_r": 144,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#909389FF",
+    "color_info": {
+      "colors": [
+        "#909389FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 646017143,
+    "img_src": "https://cdn.tigertag.io/img?id=646017143&v=1795450697",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "750 g",
+    "name": "Betongrau",
+    "product_type": "Filament",
+    "series": "PET-G",
+    "sku": "SWF-PETG-BETONGRAU-175-750G",
+    "title": "PET-G - Betongrau",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 124,
       "color_r": 245,
@@ -221297,7 +221407,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-SCHWARZ-750G",
     "title": "Tough PLA - Schwarz",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -250521,7 +250631,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-BRAUN-750G",
     "title": "ASA - Braun",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -253846,7 +253956,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-WEISS-750G",
     "title": "PLA - Weiss",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -297485,7 +297595,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-TRANSPARENT-750G",
     "title": "PLA - Transparent",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -324971,7 +325081,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-HELLGRUN-750G",
     "title": "ASA - Hellgrün",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -328792,7 +328902,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-BETONGRAU-750G",
     "title": "PLA - Betongrau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -374026,6 +374136,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 165,
+      "color_g": 162,
+      "color_r": 156,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 80,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#9CA2A5FF",
+    "color_info": {
+      "colors": [
+        "#9CA2A5FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 1131941510,
+    "img_src": "https://cdn.tigertag.io/img?id=1131941510&v=1795450662",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Perlsilber",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SWF-PLA-PERLSILBER-175-750G",
+    "title": "PLA - Perlsilber",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 78,
       "color_g": 168,
       "color_r": 58,
@@ -404025,7 +404190,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-GELB-750G",
     "title": "PLA - Gelb",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -480707,6 +480872,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 117,
+      "color_g": 129,
+      "color_r": 128,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 80,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#808175FF",
+    "color_info": {
+      "colors": [
+        "#808175FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 1461544439,
+    "img_src": "https://cdn.tigertag.io/img?id=1461544439&v=1795450667",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Betongrau",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SWF-PLA-BETONGRAU-175-750G",
+    "title": "PLA - Betongrau",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 84,
       "color_g": 80,
       "color_r": 76,
@@ -488288,7 +488508,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-SCHWARZ-750G",
     "title": "PLA - Schwarz",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -496012,7 +496232,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-VIOLETT-750G",
     "title": "PLA - Violett",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -500056,7 +500276,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-GELB-750G",
     "title": "ASA - Gelb",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -512971,6 +513191,61 @@
     "sku": "SILKPLALV",
     "title": "PLA Silk - Mint Green",
     "updated_at": 1792271106390
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 103,
+      "color_g": 73,
+      "color_r": 161,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 80,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#A14967FF",
+    "color_info": {
+      "colors": [
+        "#A14967FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 1560051094,
+    "img_src": "https://cdn.tigertag.io/img?id=1560051094&v=1795450638",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Pink",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SWF-PLA-PINK-175-750G",
+    "title": "PLA - Pink",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -557470,6 +557745,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 22,
+      "color_g": 22,
+      "color_r": 23,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 80,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#171616FF",
+    "color_info": {
+      "colors": [
+        "#171616FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 1700130692,
+    "img_src": "https://cdn.tigertag.io/img?id=1700130692&v=1795450633",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Schwarz",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SWF-PLA-SCHWARZ-175-750G",
+    "title": "PLA - Schwarz",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 128,
       "color_g": 0,
       "color_r": 128,
@@ -563443,6 +563773,61 @@
     "sku": "SL-N-PLA-CBN-1KG-A",
     "title": "PLA - Coffee Brown",
     "updated_at": 1794474460717
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 220,
+      "color_g": 230,
+      "color_r": 238,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#EEE6DCFF",
+    "color_info": {
+      "colors": [
+        "#EEE6DCFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 1722853852,
+    "img_src": "https://cdn.tigertag.io/img?id=1722853852&v=1795450674",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "750 g",
+    "name": "Weiss",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "SWF-ASA-WEISS-175-750G",
+    "title": "ASA - Weiss",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -572635,7 +573020,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-VERKEHRSROT-750G",
     "title": "ASA - Verkehrsrot",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -576738,7 +577123,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-HELLBLAU-750G",
     "title": "PLA - Hellblau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -593029,7 +593414,7 @@
       "type": "mono"
     },
     "id": 1819179358,
-    "img_src": "https://cdn.tigertag.io/img?id=1819179358&v=1795448962",
+    "img_src": "https://cdn.tigertag.io/img?id=1819179358&v=1795450046",
     "info1": false,
     "info2": false,
     "info3": false,
@@ -593040,7 +593425,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-SCHOKOLADENBRAUN-750G",
     "title": "PLA - Schokoladenbraun",
-    "updated_at": 1795448958318
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -611539,7 +611924,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-PERLSILBER-750G",
     "title": "ASA - Perlsilber",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -668679,7 +669064,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-GRUN-750G",
     "title": "Tough PLA - Grün",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -674694,7 +675079,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-BEIGE-750G",
     "title": "PLA - Beige",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -690046,6 +690431,61 @@
     "sku": "217500010100",
     "title": "ABS - Black",
     "updated_at": 1788471415849
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 61,
+      "color_g": 65,
+      "color_r": 199,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 80,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#C7413DFF",
+    "color_info": {
+      "colors": [
+        "#C7413DFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 2107921595,
+    "img_src": "https://cdn.tigertag.io/img?id=2107921595&v=1795450643",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Verkehrsrot",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SWF-PLA-VERKEHRSROT-175-750G",
+    "title": "PLA - Verkehrsrot",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -718360,7 +718800,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-VERKEHRSROT-750G",
     "title": "Tough PLA - Verkehrsrot",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -724567,7 +725007,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-GELB-750G",
     "title": "Tough PLA - Gelb",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -756006,7 +756446,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-ANTHRAZITGRAU-750G",
     "title": "ASA - Anthrazitgrau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -772978,7 +773418,7 @@
     "series": "PET-G",
     "sku": "SWF-PETG-SCHWARZ-750G",
     "title": "PET-G - Schwarz",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -788202,7 +788642,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-BETONGRAU-750G",
     "title": "ASA - Betongrau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -804117,6 +804557,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 221,
+      "color_g": 236,
+      "color_r": 240,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 80,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#F0ECDDFF",
+    "color_info": {
+      "colors": [
+        "#F0ECDDFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 2462385225,
+    "img_src": "https://cdn.tigertag.io/img?id=2462385225&v=1795450627",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Weiss",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SWF-PLA-WEISS-175-750G",
+    "title": "PLA - Weiss",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 200,
       "color_g": 86,
       "color_r": 30,
@@ -808653,6 +809148,61 @@
     "sku": "50.203.0790",
     "title": "PLA Pro - Neon Green",
     "updated_at": 1792799235599
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 42,
+      "color_g": 197,
+      "color_r": 246,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 80,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#F6C52AFF",
+    "color_info": {
+      "colors": [
+        "#F6C52AFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 2474330804,
+    "img_src": "https://cdn.tigertag.io/img?id=2474330804&v=1795450652",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Gelb",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SWF-PLA-GELB-175-750G",
+    "title": "PLA - Gelb",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -814257,7 +814807,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-ORANGE-750G",
     "title": "Tough PLA - Orange",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -820529,7 +821079,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-GRUN-750G",
     "title": "ASA - Grün",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -936556,7 +937106,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-HELLGRUN-750G",
     "title": "PLA - Hellgrün",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -938734,7 +939284,7 @@
     "series": "PET-G",
     "sku": "SWF-PETG-BETONGRAU-750G",
     "title": "PET-G - Betongrau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -945725,6 +946275,61 @@
     "sku": "KEX-K5PETGR-BLUE-175-1KG",
     "title": "THE K5 PETG Rapid - Blue",
     "updated_at": 1788380758068
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 45,
+      "color_g": 105,
+      "color_r": 249,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 80,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#F9692DFF",
+    "color_info": {
+      "colors": [
+        "#F9692DFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 2883952437,
+    "img_src": "https://cdn.tigertag.io/img?id=2883952437&v=1795450647",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Orange",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SWF-PLA-ORANGE-175-750G",
+    "title": "PLA - Orange",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -985389,7 +985994,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-ORANGE-750G",
     "title": "PLA - Orange",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1001200,7 +1001805,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-WEISS-750G",
     "title": "ASA - Weiss",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1021371,7 +1021976,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-GOLD-750G",
     "title": "PLA - Gold",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1061065,7 +1061670,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-WEISS-750G",
     "title": "Tough PLA - Weiss",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1071535,7 +1072140,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-VERKEHRSROT-750G",
     "title": "PLA - Verkehrsrot",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1077387,7 +1077992,7 @@
     "series": "ASA",
     "sku": "SWF-ASA-HIMMELBLAU-750G",
     "title": "ASA - Himmelblau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1133430,6 +1134035,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 97,
+      "color_g": 110,
+      "color_r": 52,
+      "data1": 56,
+      "data2": 190,
+      "data3": 220,
+      "data4": 80,
+      "data5": 4,
+      "data6": 50,
+      "data7": 70,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#346E61FF",
+    "color_info": {
+      "colors": [
+        "#346E61FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3456995840,
+    "img_src": "https://cdn.tigertag.io/img?id=3456995840&v=1795450657",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Grün",
+    "product_type": "Filament",
+    "series": "PLA",
+    "sku": "SWF-PLA-GRUN-175-750G",
+    "title": "PLA - Grün",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 79,
       "color_g": 85,
       "color_r": 80,
@@ -1138708,7 +1139368,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-GRUN-750G",
     "title": "PLA - Grün",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1162155,6 +1162815,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 77,
+      "color_g": 74,
+      "color_r": 69,
+      "data1": 221,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#454A4DFF",
+    "color_info": {
+      "colors": [
+        "#454A4DFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3543914795,
+    "img_src": "https://cdn.tigertag.io/img?id=3543914795&v=1795451206",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Mattschwarz",
+    "product_type": "Filament",
+    "series": "PLA Matt",
+    "sku": "SWF-PLAMATT-SCHWARZ-750G",
+    "title": "PLA Matt - Mattschwarz",
+    "updated_at": 1795451313799
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 71,
       "color_g": 87,
       "color_r": 115,
@@ -1173556,7 +1174271,7 @@
     "series": "PET-G",
     "sku": "SWF-PETG-WEISS-750G",
     "title": "PET-G - Weiss",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1192092,6 +1192807,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 238,
+      "color_g": 230,
+      "color_r": 232,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#E8E6EEFF",
+    "color_info": {
+      "colors": [
+        "#E8E6EEFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3636238222,
+    "img_src": "https://cdn.tigertag.io/img?id=3636238222&v=1795450689",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "750 g",
+    "name": "Weiss",
+    "product_type": "Filament",
+    "series": "PET-G",
+    "sku": "SWF-PETG-WEISS-175-750G",
+    "title": "PET-G - Weiss",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 242,
       "color_g": 242,
       "color_r": 242,
@@ -1208494,7 +1209264,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-ANTHRAZITGRAU-750G",
     "title": "PLA - Anthrazitgrau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1208549,7 +1209319,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-GRAU-750G",
     "title": "Tough PLA - Grau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1210565,6 +1211335,61 @@
     "series": "Olefin",
     "sku": "BF-OLEFIN-SCHWARZ-850G",
     "title": "Olefin - Schwarz",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 84,
+      "color_g": 107,
+      "color_r": 126,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#7E6B54FF",
+    "color_info": {
+      "colors": [
+        "#7E6B54FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3699182187,
+    "img_src": "https://cdn.tigertag.io/img?id=3699182187&v=1795451316",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "750 g",
+    "name": "Holzfarben",
+    "product_type": "Filament",
+    "series": "PLA Wood",
+    "sku": "SWF-PLAWOOD-WOOD-175-750G",
+    "title": "PLA Wood - Holzfarben",
     "updated_at": null
   },
   {
@@ -1237915,6 +1238740,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 18,
+      "color_g": 18,
+      "color_r": 18,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#121212FF",
+    "color_info": {
+      "colors": [
+        "#121212FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3785499126,
+    "img_src": "https://cdn.tigertag.io/img?id=3785499126&v=1795450671",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "750 g",
+    "name": "Schwarz",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "SWF-ASA-SCHWARZ-175-750G",
+    "title": "ASA - Schwarz",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 62,
       "color_g": 158,
       "color_r": 46,
@@ -1241592,7 +1242472,7 @@
     "series": "PLA",
     "sku": "SWF-PLA-PERLSILBER-750G",
     "title": "PLA - Perlsilber",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
@@ -1300031,6 +1300911,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 17,
+      "color_g": 16,
+      "color_r": 17,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#111011FF",
+    "color_info": {
+      "colors": [
+        "#111011FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3980493058,
+    "img_src": "https://cdn.tigertag.io/img?id=3980493058&v=1795450684",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "750 g",
+    "name": "Schwarz",
+    "product_type": "Filament",
+    "series": "PET-G",
+    "sku": "SWF-PETG-SCHWARZ-175-750G",
+    "title": "PET-G - Schwarz",
+    "updated_at": null
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 0,
       "color_g": 194,
       "color_r": 242,
@@ -1307797,6 +1308732,61 @@
     "sku": "R3DAlE101SMD",
     "title": "PLA HS Silk Dual - Silk Blue-Green",
     "updated_at": 1794881167035
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 170,
+      "color_g": 201,
+      "color_r": 207,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#CFC9AAFF",
+    "color_info": {
+      "colors": [
+        "#CFC9AAFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 4006201788,
+    "img_src": "https://cdn.tigertag.io/img?id=4006201788&v=1795450692",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "750 g",
+    "name": "Transparent",
+    "product_type": "Filament",
+    "series": "PET-G",
+    "sku": "SWF-PETG-TRANSPARENT-175-750G",
+    "title": "PET-G - Transparent",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1349006,6 +1349996,61 @@
     "sku": "CA14018",
     "title": "CoPE Panchroma - Dark Grey",
     "updated_at": 1793372464015
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 155,
+      "color_g": 168,
+      "color_r": 166,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 52300,
+      "id_material": 12844,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "Swissfil",
+    "color": "#A6A89BFF",
+    "color_info": {
+      "colors": [
+        "#A6A89BFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 4126367464,
+    "img_src": "https://cdn.tigertag.io/img?id=4126367464&v=1795450679",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ASA",
+    "measure": "750 g",
+    "name": "Betongrau",
+    "product_type": "Filament",
+    "series": "ASA",
+    "sku": "SWF-ASA-BETONGRAU-175-750G",
+    "title": "ASA - Betongrau",
+    "updated_at": null
   },
   {
     "RFID_Data": {
@@ -1397309,7 +1398354,7 @@
     "series": "Tough PLA",
     "sku": "SWF-TPLA-DUNKELBLAU-750G",
     "title": "Tough PLA - Dunkelblau",
-    "updated_at": null
+    "updated_at": 1795450784791
   },
   {
     "RFID_Data": {
