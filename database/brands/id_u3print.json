@@ -277,6 +277,65 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 37,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 225,
+      "data3": 235,
+      "data4": null,
+      "data5": null,
+      "data6": 65,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 2500
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#212325",
+    "color_info": {
+      "colors": [
+        "#212325"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 8022",
+      "ral_delta_e": 2.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 8022"
+      ],
+      "type": "mono"
+    },
+    "id": 124626318,
+    "img_src": "https://cdn.tigertag.io/img?id=124626318&v=1795594163",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "2500 g",
+    "name": "Anthracite",
+    "product_type": "Filament",
+    "series": "GF PETG",
+    "sku": "2090-03",
+    "title": "GF PETG - Anthracite",
+    "updated_at": 1795594497407
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 151,
       "color_g": 147,
       "color_r": 88,
@@ -658,6 +717,65 @@
     "sku": "1287-03",
     "title": "HP PLA - Azure",
     "updated_at": 1795539644534
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 235,
+      "data3": 245,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 130,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 29272,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434",
+    "color_info": {
+      "colors": [
+        "#333434"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 9004",
+      "ral_delta_e": 1.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9004"
+      ],
+      "type": "mono"
+    },
+    "id": 324963737,
+    "img_src": "https://cdn.tigertag.io/img?id=324963737&v=1795593971",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA11",
+    "measure": "450 g",
+    "name": "Bio SC M4 V.3",
+    "product_type": "Filament",
+    "series": "Techno Nylon",
+    "sku": "2143-03",
+    "title": "Techno Nylon - Bio SC M4 V.3",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -1106,6 +1224,65 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 36,
+      "color_g": 36,
+      "color_r": 37,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 24270,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#252424",
+    "color_info": {
+      "colors": [
+        "#252424"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 8022",
+      "ral_delta_e": 1.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 8022"
+      ],
+      "type": "mono"
+    },
+    "id": 548056682,
+    "img_src": "https://cdn.tigertag.io/img?id=548056682&v=1795594016",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PPS-CF",
+    "measure": "450 g",
+    "name": "PPS CFF",
+    "product_type": "Filament",
+    "series": "HT",
+    "sku": "2106-03",
+    "title": "HT - PPS CFF",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 136,
       "color_g": 119,
       "color_r": 243,
@@ -1157,6 +1334,61 @@
     "sku": "2161-03",
     "title": "Silk Line - Red",
     "updated_at": 1795541762787
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 66,
+      "color_g": 66,
+      "color_r": 66,
+      "data1": 56,
+      "data2": 280,
+      "data3": 300,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 130,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 1173,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 650
+    },
+    "aspect1": "Fiber",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#424242",
+    "color_info": {
+      "colors": [
+        "#424242"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 574772421,
+    "img_src": "https://cdn.tigertag.io/img?id=574772421&v=1795593981",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA6-GF",
+    "measure": "650 g",
+    "name": "6C GFF30",
+    "product_type": "Filament",
+    "series": "Techno Nylon",
+    "sku": "2150-03",
+    "title": "Techno Nylon - 6C GFF30",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -1381,6 +1613,65 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 37,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 260,
+      "data3": 290,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 22678,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Fiber",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#212325",
+    "color_info": {
+      "colors": [
+        "#212325"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 8022",
+      "ral_delta_e": 2.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 8022"
+      ],
+      "type": "mono"
+    },
+    "id": 718172733,
+    "img_src": "https://cdn.tigertag.io/img?id=718172733&v=1795594108",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PET-GF",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "Terylene",
+    "sku": "2023-03",
+    "title": "Terylene - Black",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 96,
       "color_g": 43,
       "color_r": 34,
@@ -1550,6 +1841,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 156,
+      "color_g": 174,
+      "color_r": 184,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 29815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 225
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#B8AE9CFF",
+    "color_info": {
+      "colors": [
+        "#B8AE9CFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 818237032,
+    "img_src": "https://cdn.tigertag.io/img?id=818237032&v=1795593932",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEEK",
+    "measure": "225 g",
+    "name": "PEEK",
+    "product_type": "Filament",
+    "series": "HT",
+    "sku": "1625-03",
+    "title": "HT - PEEK",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 173,
       "color_g": 88,
       "color_r": 54,
@@ -1711,6 +2057,61 @@
     "sku": "2158-03",
     "title": "Silk Line - Dark Green",
     "updated_at": 1795541762787
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 27,
+      "color_g": 31,
+      "color_r": 56,
+      "data1": 56,
+      "data2": 225,
+      "data3": 235,
+      "data4": null,
+      "data5": null,
+      "data6": 65,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#381F1BFF",
+    "color_info": {
+      "colors": [
+        "#381F1BFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 948947923,
+    "img_src": "https://cdn.tigertag.io/img?id=948947923&v=1795593876",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Arabica",
+    "product_type": "Filament",
+    "series": "GF PETG",
+    "sku": "1474-03",
+    "title": "GF PETG - Arabica",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -1880,6 +2281,61 @@
     "sku": "2157-03",
     "title": "Techno TPU Flex - Black",
     "updated_at": 1795541762787
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 215,
+      "data3": 225,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434FF",
+    "color_info": {
+      "colors": [
+        "#333434FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 1012210767,
+    "img_src": "https://cdn.tigertag.io/img?id=1012210767&v=1795593889",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "450 g",
+    "name": "Conductive 2M",
+    "product_type": "Filament",
+    "series": "Techno ABS",
+    "sku": "1350-03",
+    "title": "Techno ABS - Conductive 2M",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -2544,6 +3000,65 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 197,
+      "color_g": 197,
+      "color_r": 197,
+      "data1": 56,
+      "data2": 225,
+      "data3": 235,
+      "data4": null,
+      "data5": null,
+      "data6": 65,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#C5C5C5",
+    "color_info": {
+      "colors": [
+        "#C5C5C5"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 7047",
+      "ral_delta_e": 2.8,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7047"
+      ],
+      "type": "mono"
+    },
+    "id": 1304210197,
+    "img_src": "https://cdn.tigertag.io/img?id=1304210197&v=1795594082",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Snowflake",
+    "product_type": "Filament",
+    "series": "Easy Tech PETG",
+    "sku": "2016-03",
+    "title": "Easy Tech PETG - Snowflake",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 129,
       "color_g": 127,
       "color_r": 126,
@@ -2709,6 +3224,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 66,
+      "color_g": 66,
+      "color_r": 66,
+      "data1": 56,
+      "data2": 280,
+      "data3": 300,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 130,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 12264,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#424242",
+    "color_info": {
+      "colors": [
+        "#424242"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 1400098388,
+    "img_src": "https://cdn.tigertag.io/img?id=1400098388&v=1795593990",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA6-CF",
+    "measure": "750 g",
+    "name": "6C CFF30",
+    "product_type": "Filament",
+    "series": "Techno Nylon",
+    "sku": "2138-03",
+    "title": "Techno Nylon - 6C CFF30",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 179,
       "color_g": 193,
       "color_r": 199,
@@ -2760,6 +3330,65 @@
     "sku": "2098-03",
     "title": "Techno ABS - Natural",
     "updated_at": 1795541762787
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 37,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 190,
+      "data3": 200,
+      "data4": null,
+      "data5": null,
+      "data6": 50,
+      "data7": 55,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 2500
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#212325",
+    "color_info": {
+      "colors": [
+        "#212325"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 8022",
+      "ral_delta_e": 2.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 8022"
+      ],
+      "type": "mono"
+    },
+    "id": 1461574400,
+    "img_src": "https://cdn.tigertag.io/img?id=1461574400&v=1795594171",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "2500 g",
+    "name": "Anthracite",
+    "product_type": "Filament",
+    "series": "GF PLA",
+    "sku": "2091-03",
+    "title": "GF PLA - Anthracite",
+    "updated_at": 1795594497407
   },
   {
     "RFID_Data": {
@@ -2870,6 +3499,61 @@
     "sku": "1602-03",
     "title": "GF ABS - Sunflower",
     "updated_at": 1795539644534
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 215,
+      "data3": 225,
+      "data4": null,
+      "data5": null,
+      "data6": 90,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 20562,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434FF",
+    "color_info": {
+      "colors": [
+        "#333434FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 1561206799,
+    "img_src": "https://cdn.tigertag.io/img?id=1561206799&v=1795593893",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS",
+    "measure": "450 g",
+    "name": "Dissipative",
+    "product_type": "Filament",
+    "series": "Techno ABS",
+    "sku": "1351-03",
+    "title": "Techno ABS - Dissipative",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -3377,6 +4061,65 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 37,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 225,
+      "data3": 235,
+      "data4": null,
+      "data5": null,
+      "data6": 65,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#212325",
+    "color_info": {
+      "colors": [
+        "#212325"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 8022",
+      "ral_delta_e": 2.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 8022"
+      ],
+      "type": "mono"
+    },
+    "id": 1743116339,
+    "img_src": "https://cdn.tigertag.io/img?id=1743116339&v=1795594091",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Anthracite",
+    "product_type": "Filament",
+    "series": "Easy Tech PETG",
+    "sku": "2014-03",
+    "title": "Easy Tech PETG - Anthracite",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 81,
       "color_g": 94,
       "color_r": 89,
@@ -3432,6 +4175,65 @@
     "sku": "2092-03",
     "title": "HP ABS - Khaki",
     "updated_at": 1795541762787
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 48469,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434",
+    "color_info": {
+      "colors": [
+        "#333434"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 9004",
+      "ral_delta_e": 1.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9004"
+      ],
+      "type": "mono"
+    },
+    "id": 1836697163,
+    "img_src": "https://cdn.tigertag.io/img?id=1836697163&v=1795594025",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEEK-CF",
+    "measure": "450 g",
+    "name": "PEEK CFF",
+    "product_type": "Filament",
+    "series": "HT",
+    "sku": "2142-03",
+    "title": "HT - PEEK CFF",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -3601,6 +4403,61 @@
     "sku": "2076-03",
     "title": "GF ABS - Raspberry",
     "updated_at": 1795541762787
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 155,
+      "color_g": 180,
+      "color_r": 191,
+      "data1": 56,
+      "data2": 335,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": 160,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 10272,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#BFB49BFF",
+    "color_info": {
+      "colors": [
+        "#BFB49BFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 2026538999,
+    "img_src": "https://cdn.tigertag.io/img?id=2026538999&v=1795593936",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PSU",
+    "measure": "450 g",
+    "name": "PSU",
+    "product_type": "Filament",
+    "series": "HT",
+    "sku": "1671-03",
+    "title": "HT - PSU",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -3935,6 +4792,65 @@
     "sku": "1600-03",
     "title": "GF ABS - Orange",
     "updated_at": 1795539644534
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 45,
+      "color_g": 45,
+      "color_r": 45,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": null,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Fiber",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#2D2D2D",
+    "color_info": {
+      "colors": [
+        "#2D2D2D"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 9004",
+      "ral_delta_e": 1.8,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9004"
+      ],
+      "type": "mono"
+    },
+    "id": 2181884308,
+    "img_src": "https://cdn.tigertag.io/img?id=2181884308&v=1795594046",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "Techno PETG GFF15",
+    "sku": "2173-03",
+    "title": "Techno PETG GFF15 - Black",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -4438,6 +5354,65 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 230,
+      "data3": 260,
+      "data4": null,
+      "data5": null,
+      "data6": 130,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 39944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434",
+    "color_info": {
+      "colors": [
+        "#333434"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 9004",
+      "ral_delta_e": 1.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9004"
+      ],
+      "type": "mono"
+    },
+    "id": 2350520696,
+    "img_src": "https://cdn.tigertag.io/img?id=2350520696&v=1795593998",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA-CF",
+    "measure": "450 g",
+    "name": "Super Carbon M7 V.3",
+    "product_type": "Filament",
+    "series": "Techno Nylon",
+    "sku": "2074-03",
+    "title": "Techno Nylon - Super Carbon M7 V.3",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 74,
       "color_g": 52,
       "color_r": 71,
@@ -4933,6 +5908,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 121,
+      "color_g": 118,
+      "color_r": 119,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": null,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Fiber",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#777679",
+    "color_info": {
+      "colors": [
+        "#777679"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 2586801551,
+    "img_src": "https://cdn.tigertag.io/img?id=2586801551&v=1795594054",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "name": "Grey",
+    "product_type": "Filament",
+    "series": "Techno PETG GFF15",
+    "sku": "2174-03",
+    "title": "Techno PETG GFF15 - Grey",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 37,
       "color_g": 35,
       "color_r": 33,
@@ -5098,6 +6128,65 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 37,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 260,
+      "data3": 290,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": 75,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 11053,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#212325",
+    "color_info": {
+      "colors": [
+        "#212325"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 8022",
+      "ral_delta_e": 2.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 8022"
+      ],
+      "type": "mono"
+    },
+    "id": 2657189188,
+    "img_src": "https://cdn.tigertag.io/img?id=2657189188&v=1795594118",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PET-CF",
+    "measure": "1000 g",
+    "name": "Black",
+    "product_type": "Filament",
+    "series": "Terylene",
+    "sku": "2083-03",
+    "title": "Terylene - Black",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 155,
       "color_g": 116,
       "color_r": 200,
@@ -5153,6 +6242,120 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 129,
+      "color_g": 127,
+      "color_r": 126,
+      "data1": 56,
+      "data2": 225,
+      "data3": 235,
+      "data4": null,
+      "data5": null,
+      "data6": 65,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#7E7F81",
+    "color_info": {
+      "colors": [
+        "#7E7F81"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 7037",
+      "ral_delta_e": 2.4,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 7037"
+      ],
+      "type": "mono"
+    },
+    "id": 2685150812,
+    "img_src": "https://cdn.tigertag.io/img?id=2685150812&v=1795594100",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Ash",
+    "product_type": "Filament",
+    "series": "Easy Tech PETG",
+    "sku": "2015-03",
+    "title": "Easy Tech PETG - Ash",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 280,
+      "data3": 300,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 130,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 12264,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434FF",
+    "color_info": {
+      "colors": [
+        "#333434FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 2710497271,
+    "img_src": "https://cdn.tigertag.io/img?id=2710497271&v=1795593918",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA6-CF",
+    "measure": "450 g",
+    "name": "6C M4 V.3",
+    "product_type": "Filament",
+    "series": "Techno Nylon",
+    "sku": "1673-03",
+    "title": "Techno Nylon - 6C M4 V.3",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 47,
       "color_g": 104,
       "color_r": 244,
@@ -5204,6 +6407,65 @@
     "sku": "1613-03",
     "title": "HP ABS - Sunny Fruit",
     "updated_at": 1795539644534
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 320,
+      "data3": 330,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 130,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 12264,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434",
+    "color_info": {
+      "colors": [
+        "#333434"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 9004",
+      "ral_delta_e": 1.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 9004"
+      ],
+      "type": "mono"
+    },
+    "id": 2778962004,
+    "img_src": "https://cdn.tigertag.io/img?id=2778962004&v=1795594007",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA6-CF",
+    "measure": "450 g",
+    "name": "6C ALL IN 0",
+    "product_type": "Filament",
+    "series": "Techno Nylon",
+    "sku": "2020-03",
+    "title": "Techno Nylon - 6C ALL IN 0",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -5703,6 +6965,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 123,
+      "color_g": 145,
+      "color_r": 164,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 29815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#A4917BFF",
+    "color_info": {
+      "colors": [
+        "#A4917BFF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 2964889243,
+    "img_src": "https://cdn.tigertag.io/img?id=2964889243&v=1795593925",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEEK",
+    "measure": "450 g",
+    "name": "PEEK",
+    "product_type": "Filament",
+    "series": "HT",
+    "sku": "1621-03",
+    "title": "HT - PEEK",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 151,
       "color_g": 147,
       "color_r": 88,
@@ -5809,6 +7126,61 @@
     "sku": "1646-03",
     "title": "GF PLA - Ivory",
     "updated_at": 1795539644534
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 136,
+      "color_g": 163,
+      "color_r": 189,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 29815,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#BDA388FF",
+    "color_info": {
+      "colors": [
+        "#BDA388FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3013468643,
+    "img_src": "https://cdn.tigertag.io/img?id=3013468643&v=1795593929",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PEEK",
+    "measure": "1000 g",
+    "name": "PEEK",
+    "product_type": "Filament",
+    "series": "HT",
+    "sku": "1622-03",
+    "title": "HT - PEEK",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -6096,6 +7468,116 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 160,
+      "color_g": 160,
+      "color_r": 158,
+      "data1": 56,
+      "data2": 215,
+      "data3": 225,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": null,
+      "id_aspect1": 226,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Metal",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#9EA0A0FF",
+    "color_info": {
+      "colors": [
+        "#9EA0A0FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3224499395,
+    "img_src": "https://cdn.tigertag.io/img?id=3224499395&v=1795593877",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Aluminium",
+    "product_type": "Filament",
+    "series": "ART PLA",
+    "sku": "1336-03",
+    "title": "ART PLA - Aluminium",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 181,
+      "color_g": 189,
+      "color_r": 192,
+      "data1": 56,
+      "data2": 235,
+      "data3": 245,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 55796,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#C0BDB5FF",
+    "color_info": {
+      "colors": [
+        "#C0BDB5FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3309045024,
+    "img_src": "https://cdn.tigertag.io/img?id=3309045024&v=1795593926",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA12",
+    "measure": "450 g",
+    "name": "Super",
+    "product_type": "Filament",
+    "series": "Techno Nylon",
+    "sku": "1340-03",
+    "title": "Techno Nylon - Super",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 197,
       "color_g": 197,
       "color_r": 197,
@@ -6147,6 +7629,61 @@
     "sku": "1627-03",
     "title": "HP PLA - Snow Flake",
     "updated_at": 1795539644534
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 9,
+      "color_g": 150,
+      "color_r": 52,
+      "data1": 56,
+      "data2": 225,
+      "data3": 235,
+      "data4": null,
+      "data5": null,
+      "data6": 65,
+      "data7": null,
+      "id_aspect1": 67,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Translucent",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#349609",
+    "color_info": {
+      "colors": [
+        "#349609"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 3389808619,
+    "img_src": "https://cdn.tigertag.io/img?id=3389808619&v=1795594154",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Aventurine Transparent",
+    "product_type": "Filament",
+    "series": "GF PETG",
+    "sku": "2107-03",
+    "title": "GF PETG - Aventurine Transparent",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -6426,6 +7963,61 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 179,
+      "color_g": 193,
+      "color_r": 199,
+      "data1": 56,
+      "data2": 235,
+      "data3": 250,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": null,
+      "id_aspect1": 132,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 34944,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Fiber",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#C7C1B3",
+    "color_info": {
+      "colors": [
+        "#C7C1B3"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 3523574115,
+    "img_src": "https://cdn.tigertag.io/img?id=3523574115&v=1795594064",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-GF",
+    "measure": "1000 g",
+    "name": "White",
+    "product_type": "Filament",
+    "series": "Techno PETG GFF15",
+    "sku": "2175-03",
+    "title": "Techno PETG GFF15 - White",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 241,
       "color_g": 181,
       "color_r": 51,
@@ -6532,6 +8124,61 @@
     "sku": "1276-03",
     "title": "HP PLA - Ash",
     "updated_at": 1795539644534
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 225,
+      "data3": 240,
+      "data4": null,
+      "data5": null,
+      "data6": 80,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 43518,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434FF",
+    "color_info": {
+      "colors": [
+        "#333434FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 3543893550,
+    "img_src": "https://cdn.tigertag.io/img?id=3543893550&v=1795593899",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "TPU",
+    "measure": "450 g",
+    "name": "Conductive",
+    "product_type": "Filament",
+    "series": "Techno TPU Flex",
+    "sku": "1341-03",
+    "title": "Techno TPU Flex - Conductive",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
@@ -7809,6 +9456,340 @@
   {
     "RFID_Data": {
       "color_a": 255,
+      "color_b": 81,
+      "color_g": 94,
+      "color_r": 89,
+      "data1": 56,
+      "data2": 225,
+      "data3": 235,
+      "data4": null,
+      "data5": null,
+      "data6": 65,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38256,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#595E51FF",
+    "color_info": {
+      "colors": [
+        "#595E51FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 4017161787,
+    "img_src": "https://cdn.tigertag.io/img?id=4017161787&v=1795593886",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG",
+    "measure": "1000 g",
+    "name": "Khaki",
+    "product_type": "Filament",
+    "series": "GF PETG",
+    "sku": "1682-03",
+    "title": "GF PETG - Khaki",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 37,
+      "color_g": 35,
+      "color_r": 33,
+      "data1": 56,
+      "data2": 225,
+      "data3": 235,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 55418,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#212325",
+    "color_info": {
+      "colors": [
+        "#212325"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 8022",
+      "ral_delta_e": 2.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 8022"
+      ],
+      "type": "mono"
+    },
+    "id": 4069909972,
+    "img_src": "https://cdn.tigertag.io/img?id=4069909972&v=1795594071",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PETG-CF",
+    "measure": "1000 g",
+    "name": "CFF MIS 405",
+    "product_type": "Filament",
+    "series": "Techno PETG GFF15",
+    "sku": "2019-03",
+    "title": "Techno PETG GFF15 - CFF MIS 405",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 280,
+      "data3": 300,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": 130,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 39667,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434FF",
+    "color_info": {
+      "colors": [
+        "#333434FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 4110115808,
+    "img_src": "https://cdn.tigertag.io/img?id=4110115808&v=1795593922",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA12-CF",
+    "measure": "450 g",
+    "name": "SC M4 V.3",
+    "product_type": "Filament",
+    "series": "Techno Nylon",
+    "sku": "1674-03",
+    "title": "Techno Nylon - SC M4 V.3",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 52,
+      "color_g": 52,
+      "color_r": 51,
+      "data1": 56,
+      "data2": 235,
+      "data3": 245,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 39667,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 450
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#333434FF",
+    "color_info": {
+      "colors": [
+        "#333434FF"
+      ],
+      "pantone": null,
+      "pantones": null,
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": null,
+      "ral_sources": null,
+      "rals": null,
+      "type": "mono"
+    },
+    "id": 4116041608,
+    "img_src": "https://cdn.tigertag.io/img?id=4116041608&v=1795593930",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PA12-CF",
+    "measure": "450 g",
+    "name": "Super Carbon 2",
+    "product_type": "Filament",
+    "series": "Techno Nylon",
+    "sku": "1339-03",
+    "title": "Techno Nylon - Super Carbon 2",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 107,
+      "color_g": 160,
+      "color_r": 210,
+      "data1": 56,
+      "data2": 200,
+      "data3": 210,
+      "data4": null,
+      "data5": null,
+      "data6": 60,
+      "data7": null,
+      "id_aspect1": 104,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 38219,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 1000
+    },
+    "aspect1": "Basic",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#D2A06B",
+    "color_info": {
+      "colors": [
+        "#D2A06B"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 4164597215,
+    "img_src": "https://cdn.tigertag.io/img?id=4164597215&v=1795594146",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PLA",
+    "measure": "1000 g",
+    "name": "Buratino V.2",
+    "product_type": "Filament",
+    "series": "ART PLA",
+    "sku": "2081-03",
+    "title": "ART PLA - Buratino V.2",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 61,
+      "color_g": 61,
+      "color_r": 61,
+      "data1": 56,
+      "data2": 245,
+      "data3": 255,
+      "data4": null,
+      "data5": null,
+      "data6": 100,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 425,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#3D3D3D",
+    "color_info": {
+      "colors": [
+        "#3D3D3D"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": null,
+      "ral_delta_e": null,
+      "ral_source": null,
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [],
+      "rals": [],
+      "type": "mono"
+    },
+    "id": 4213189940,
+    "img_src": "https://cdn.tigertag.io/img?id=4213189940&v=1795594136",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "ABS-CF",
+    "measure": "750 g",
+    "name": "CFF",
+    "product_type": "Filament",
+    "series": "Techno ABS",
+    "sku": "2087-03",
+    "title": "Techno ABS - CFF",
+    "updated_at": 1795594367273
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
       "color_b": 129,
       "color_g": 127,
       "color_r": 126,
@@ -8080,6 +10061,65 @@
     "sku": "1614-03",
     "title": "HP ABS - Sea Wave",
     "updated_at": 1795539644534
+  },
+  {
+    "RFID_Data": {
+      "color_a": 255,
+      "color_b": 36,
+      "color_g": 36,
+      "color_r": 37,
+      "data1": 56,
+      "data2": null,
+      "data3": null,
+      "data4": null,
+      "data5": null,
+      "data6": null,
+      "data7": null,
+      "id_aspect1": 238,
+      "id_aspect2": null,
+      "id_brand": 45993,
+      "id_material": 50497,
+      "id_type": 142,
+      "id_unit": 21,
+      "measure": 750
+    },
+    "aspect1": "Carbon",
+    "aspect2": null,
+    "barcode": null,
+    "brand": "U3Print",
+    "color": "#252424",
+    "color_info": {
+      "colors": [
+        "#252424"
+      ],
+      "pantone": null,
+      "pantones": [],
+      "ral": "RAL 8022",
+      "ral_delta_e": 1.9,
+      "ral_source": "auto",
+      "ral_source_url": null,
+      "ral_source_urls": [],
+      "ral_sources": [
+        "auto"
+      ],
+      "rals": [
+        "RAL 8022"
+      ],
+      "type": "mono"
+    },
+    "id": 4267600554,
+    "img_src": "https://cdn.tigertag.io/img?id=4267600554&v=1795594126",
+    "info1": false,
+    "info2": false,
+    "info3": false,
+    "material": "PP-CF",
+    "measure": "750 g",
+    "name": "CFF 15",
+    "product_type": "Filament",
+    "series": "Polipropileno",
+    "sku": "2135-03",
+    "title": "Polipropileno - CFF 15",
+    "updated_at": 1795594367273
   },
   {
     "RFID_Data": {
