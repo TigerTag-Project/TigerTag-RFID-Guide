@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "eba876b13ee50c49f2cd97d764fea8c508c9c337c63a7b45bd301a9a5a78287e",
-  "products": 25439,
+  "sourceSha256": "a766d8ae4a7ec77a73cbea0552299cd3daf47a0fa8b1a09c4006cbf3afb7fae9",
+  "products": 25723,
   "unassigned": 3,
   "brands": [
     {
@@ -44,6 +44,14 @@
       "entries": 215,
       "bytes": 272508,
       "sha256": "a60963be19d54a62800c3e1df97b362cd63217f0b97aa74b6480cb1d5e096e06"
+    },
+    {
+      "id_brand": 15248,
+      "brand": "3DK Berlin",
+      "file": "id_3dk_berlin.json",
+      "entries": 130,
+      "bytes": 162456,
+      "sha256": "56806fa6abdaebfafaec48c2fed16927280b34e31b883c7441f87d4a292b9c19"
     },
     {
       "id_brand": 16433,
@@ -833,9 +841,9 @@
       "id_brand": 8163,
       "brand": "Sakata3D",
       "file": "id_sakata3d.json",
-      "entries": 163,
-      "bytes": 205275,
-      "sha256": "eb17c80b5fbfad40bdec2a792e507c809bdd35be263e2aed326639ab5e46a8a7"
+      "entries": 167,
+      "bytes": 210339,
+      "sha256": "505a64aa246d0f2c78999b3c481f8122bbedcdb440804ed84493d92278ed4245"
     },
     {
       "id_brand": 33566,
@@ -964,6 +972,14 @@
       "entries": 62,
       "bytes": 77572,
       "sha256": "ebcf789d70494c0600c7b6ca38275f19c8a465f46e9026c1e3b20e87779099a5"
+    },
+    {
+      "id_brand": 45993,
+      "brand": "U3Print",
+      "file": "id_u3print.json",
+      "entries": 150,
+      "bytes": 186692,
+      "sha256": "b3661142fc2650f3bc76042e46847a9f2dfa9ac3d7e18ff73be69053679afb44"
     },
     {
       "id_brand": 42911,
