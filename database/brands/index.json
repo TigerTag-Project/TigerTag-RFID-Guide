@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "c8d4531e0989feaba62863999e03940189499cb69c6b7a2bf1747e552ad63e86",
-  "products": 26552,
+  "sourceSha256": "fc1177c36ff2e80715e47fe744c070a3a8dec6ca81855925cee8880be4b0cbfb",
+  "products": 26653,
   "unassigned": 3,
   "brands": [
     {
@@ -371,7 +371,7 @@
       "file": "id_esun.json",
       "entries": 438,
       "bytes": 549506,
-      "sha256": "a15f60534fe819231036672de87fe5d88fb1c00d823f300de93277077ea5996a"
+      "sha256": "121e8d6febb8575bd05984f8487064b869f08da1ba6b9d8bbe6a1cbe4c5752f9"
     },
     {
       "id_brand": 7674,
@@ -508,6 +508,14 @@
       "entries": 42,
       "bytes": 54070,
       "sha256": "2692a258def0e75bbc9c76fbd7fdb8766e179e193bd3da9032eead8240ccfbd0"
+    },
+    {
+      "id_brand": 13061,
+      "brand": "GratKit",
+      "file": "id_gratkit.json",
+      "entries": 101,
+      "bytes": 132741,
+      "sha256": "4ccef9e4f9ac6c8f347cb76d13444bd620cc463c48ca6efa3fa977f029879a97"
     },
     {
       "id_brand": 8303,
