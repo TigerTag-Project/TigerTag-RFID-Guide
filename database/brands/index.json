@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "fc1177c36ff2e80715e47fe744c070a3a8dec6ca81855925cee8880be4b0cbfb",
-  "products": 26653,
+  "sourceSha256": "7622bbdae8ac41dbc7fe9eb240f30281e76e8cc1eb48f2418d0a79683c4e79d8",
+  "products": 27487,
   "unassigned": 3,
   "brands": [
     {
@@ -406,6 +406,14 @@
       "sha256": "40214a5da1e3e4219e69afa42072aedca77c2ddbdf8f3875561b2dd7851f7793"
     },
     {
+      "id_brand": 20644,
+      "brand": "Filamatrix",
+      "file": "id_filamatrix.json",
+      "entries": 500,
+      "bytes": 622805,
+      "sha256": "7949609deb637c322b982898e7b2b4b497dece320389783f8936539c702d3c21"
+    },
+    {
       "id_brand": 31781,
       "brand": "Filament 3D",
       "file": "id_filament_3d.json",
@@ -436,6 +444,14 @@
       "entries": 52,
       "bytes": 64768,
       "sha256": "14f778988ee953560a17a64820ffae365836aacdbed35b22ca4ba0cce820f248"
+    },
+    {
+      "id_brand": 11474,
+      "brand": "FilamentOn",
+      "file": "id_filamenton.json",
+      "entries": 278,
+      "bytes": 347900,
+      "sha256": "9a01b606f23a6d462fa2a21af23542f4aa0037d2ac808312c827f53dcb578b5e"
     },
     {
       "id_brand": 4700,
@@ -532,6 +548,14 @@
       "entries": 201,
       "bytes": 251620,
       "sha256": "6b13ea7f52e0a600593a3416b52ff7db28841749fc726686bd4bcd08c61e455a"
+    },
+    {
+      "id_brand": 54744,
+      "brand": "HERZ",
+      "file": "id_herz.json",
+      "entries": 56,
+      "bytes": 68380,
+      "sha256": "77570bbcb00ecd7c85fa8cdeba2efa27871894f3e538aa9e83c011c3666584c1"
     },
     {
       "id_brand": 500,
@@ -946,8 +970,8 @@
       "brand": "Swissfil",
       "file": "id_swissfil.json",
       "entries": 64,
-      "bytes": 79882,
-      "sha256": "c95d3dda5f69195d20ba92bb969c681420c6feea9e093e48231ac9e8ac8c0d07"
+      "bytes": 79596,
+      "sha256": "645d0b829ab7b419edaaca3f3ca390541d2372d45a8fd50834c2edaabbb27b45"
     },
     {
       "id_brand": 28055,
