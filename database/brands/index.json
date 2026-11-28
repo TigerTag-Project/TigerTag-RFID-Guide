@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "id_catalog.json",
-  "sourceSha256": "7622bbdae8ac41dbc7fe9eb240f30281e76e8cc1eb48f2418d0a79683c4e79d8",
-  "products": 27487,
+  "sourceSha256": "ebe6782eaa6afa31dc680f503efd561c5bd44e19d426d6ce8003e43eba1e5dbd",
+  "products": 27600,
   "unassigned": 3,
   "brands": [
     {
@@ -726,6 +726,14 @@
       "sha256": "02c325d2c866d7e5cb5642a9094c2205b2f330a14bd5a20e10f245f6cce08f60"
     },
     {
+      "id_brand": 6112,
+      "brand": "NextShapes",
+      "file": "id_nextshapes.json",
+      "entries": 85,
+      "bytes": 106779,
+      "sha256": "a546dcc65cf8fc380add8a2843e92e2cfb7807f46ce5011bbd974fc6cb0f98f6"
+    },
+    {
       "id_brand": 35857,
       "brand": "Nobufil",
       "file": "id_nobufil.json",
@@ -859,7 +867,7 @@
       "file": "id_rosa3d.json",
       "entries": 558,
       "bytes": 719213,
-      "sha256": "9fd613f4f24282eb21d949af67e77ef081f3e0869c721fc3a77430ce71d55742"
+      "sha256": "276491bbc6069119c54354517992bb16925ce69a156fe295b424a8e23b21e908"
     },
     {
       "id_brand": 1068,
@@ -940,6 +948,14 @@
       "entries": 474,
       "bytes": 603431,
       "sha256": "58806f6f9b0b5bd94ea21444be6d3b3556dba455b7f3b88c339bf787e583e174"
+    },
+    {
+      "id_brand": 21210,
+      "brand": "Spool-Craft",
+      "file": "id_spool_craft.json",
+      "entries": 28,
+      "bytes": 35131,
+      "sha256": "d5d1ea41cfc3113c6233293360ae2503b29b7dfb4615f5fb724da0b66e886e66"
     },
     {
       "id_brand": 17095,
